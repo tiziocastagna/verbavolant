@@ -1,42 +1,52 @@
 body {
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(to bottom, #4e3a8e, #8f70c5); /* Gradient from dark to light purple */
-    color: #fff; /* Light text on dark background */
+    background: linear-gradient(to bottom, #4e3a8e, #8f70c5);
+    color: #fff;
     margin: 0;
     padding: 0;
     display: flex;
-    align-items: center; /* Center vertically */
-    justify-content: center; /* Center horizontally */
+    align-items: center;
+    justify-content: center;
     height: 100vh;
-}
-
-#user_in_out_container {
-    background-color: #383c4a; /* Darker container background */
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
-    text-align: center;
-    width: 300px; /* Adjust container width as needed */
 }
 
 p {
     margin: 10px 0;
 }
 
+#UI_container {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+    background-color: #383c4a;
+    text-align: center;
+    width: 300px;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#score_container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
 #input {
     padding: 10px;
     margin-top: 10px;
-    border: 1px solid #555; /* Darker border color */
+    border: 1px solid #555;
     border-radius: 4px;
     width: 200px;
-    color: #000; /* Dark text on light background for input */
-    background-color: #fff; /* Light background for input */
+    color: #000;
+    background-color: #fff;
 }
 
-#score {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    font-weight: bold;
-    color: #007bff;
+.score {
+    color: white;
+}
+
+.score.best {
+    color: lightgreen;
 }

@@ -6,13 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Verbavolant</title>
     <link rel="stylesheet" href="style.css">
+    <script src="verbs.js"></script>
     <script src="app.js"></script>
 </head>
 <body>
-    <div id="user_in_out_container">
-        <p id="question"></p>
-        <input id="input">
-    </div>
-    <p id="score">Score: <span id="score_value">0</span></p>
+    <div id="UI_container">
+        <div>
+            <p id="question"></p>
+            <input id="input">
+        </div>
+        <div id="score_container">
+            <p id="score" class="score">Score: <span id="score_value">0</span></p>
+            <p id="best_score" class="score best">Best score: <span id="best_score_value">0</span></p>
+        </div>
+    <div>
 </body>
 </html>
