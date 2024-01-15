@@ -52,14 +52,14 @@ window.onload = function() {
                 score++;
                 if(score > best_score) {
                     best_score = score;
-                    update_score(score, best_score, score_element, score_value, best_score_value, best=true);
+                    update_score(score, best_score, score_element, score_value, best_score_value, true);
                 } else {
                     update_score(score, best_score, score_element, score_value, best_score_value);
                 }
             } else {
                 question_element.style.color = "red";
                 score = 0;
-                update_score(score, best_score, score_element, score_value, best_score_value, fail=true)
+                update_score(score, best_score, score_element, score_value, best_score_value, false, true);
             }
             input.disabled = true;
             setTimeout(() => {
