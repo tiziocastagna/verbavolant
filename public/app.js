@@ -11,8 +11,8 @@ class Question {
     }
 }
 
-const moods = ["indicative"];
-const tenses = ["present", "imperfect"];
+const moods = ["indicative", "subjective", "imperative", "infinite"];
+const tenses = ["present", "imperfect", "perfect", "plusperfect", "future", "future_perfect"];
 
 const Verbs = [Eo];
 
