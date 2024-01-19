@@ -1,0 +1,266 @@
+{
+    "indicativo": {
+        "PRESENTE": [
+            {
+                "grammatica": "I sing.",
+                "verbo": "fĕro"
+            },
+            {
+                "grammatica": "II sing.",
+                "verbo": "fĕrs"
+            },
+            {
+                "grammatica": "III sing.",
+                "verbo": "fĕrt"
+            },
+            {
+                "grammatica": "I plur.",
+                "verbo": "fĕrĭmus"
+            },
+            {
+                "grammatica": "II plur.",
+                "verbo": "fĕrtis"
+            },
+            {
+                "grammatica": "III plur.",
+                "verbo": "fĕrunt"
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "grammatica": "I sing.",
+                "verbo": "fĕrēbam"
+            },
+            {
+                "grammatica": "II sing.",
+                "verbo": "fĕrēbas"
+            },
+            {
+                "grammatica": "III sing.",
+                "verbo": "fĕrēbat"
+            },
+            {
+                "grammatica": "I plur.",
+                "verbo": "fĕrebāmus"
+            },
+            {
+                "grammatica": "II plur.",
+                "verbo": "fĕrebātis"
+            },
+            {
+                "grammatica": "III plur.",
+                "verbo": "fĕrēbant"
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "grammatica": "I sing.",
+                "verbo": "fĕram"
+            },
+            {
+                "grammatica": "II sing.",
+                "verbo": "fĕres"
+            },
+            {
+                "grammatica": "III sing.",
+                "verbo": "fĕret"
+            },
+            {
+                "grammatica": "I plur.",
+                "verbo": "fĕrēmus"
+            },
+            {
+                "grammatica": "II plur.",
+                "verbo": "fĕrētis"
+            },
+            {
+                "grammatica": "III plur.",
+                "verbo": "fĕrent"
+            }
+        ],
+        "PERFETTO": [
+            {
+                "grammatica": "I sing.",
+                "verbo": "tuli, tetuli"
+            },
+            {
+                "grammatica": "II sing.",
+                "verbo": "tulisti"
+            },
+            {
+                "grammatica": "III sing.",
+                "verbo": "tulit"
+            },
+            {
+                "grammatica": "I plur.",
+                "verbo": "tulĭmus"
+            },
+            {
+                "grammatica": "II plur.",
+                "verbo": "tulistis"
+            },
+            {
+                "grammatica": "III plur.",
+                "verbo": "tulērunt, tulere"
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "grammatica": "I sing.",
+                "verbo": "tulĕram"
+            },
+            {
+                "grammatica": "II sing.",
+                "verbo": "tulĕras"
+            },
+            {
+                "grammatica": "III sing.",
+                "verbo": "tulĕrat"
+            },
+            {
+                "grammatica": "I plur.",
+                "verbo": "tulerāmus"
+            },
+            {
+                "grammatica": "II plur.",
+                "verbo": "tulerātis"
+            },
+            {
+                "grammatica": "III plur.",
+                "verbo": "tulērant"
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "grammatica": "I sing.",
+                "verbo": "tulĕro"
+            },
+            {
+                "grammatica": "II sing.",
+                "verbo": "tulĕris"
+            },
+            {
+                "grammatica": "III sing.",
+                "verbo": "tulĕrit"
+            },
+            {
+                "grammatica": "I plur.",
+                "verbo": "tulerĭmus"
+            },
+            {
+                "grammatica": "II plur.",
+                "verbo": "tulerĭtis"
+            },
+            {
+                "grammatica": "III plur.",
+                "verbo": "tulĕrint"
+            }
+        ]
+    },
+    "congiuntivo": {
+        "PRESENTE": [
+            {
+                "grammatica": "I sing.",
+                "verbo": "fĕram"
+            },
+            {
+                "grammatica": "II sing.",
+                "verbo": "fĕras"
+            },
+            {
+                "grammatica": "III sing.",
+                "verbo": "fĕrat, tulat"
+            },
+            {
+                "grammatica": "I plur.",
+                "verbo": "fĕrāmus"
+            },
+            {
+                "grammatica": "II plur.",
+                "verbo": "fĕrātis"
+            },
+            {
+                "grammatica": "III plur.",
+                "verbo": "fĕrant"
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "grammatica": "I sing.",
+                "verbo": "fĕrrem"
+            },
+            {
+                "grammatica": "II sing.",
+                "verbo": "fĕrres"
+            },
+            {
+                "grammatica": "III sing.",
+                "verbo": "fĕrret"
+            },
+            {
+                "grammatica": "I plur.",
+                "verbo": "fĕrrēmus"
+            },
+            {
+                "grammatica": "II plur.",
+                "verbo": "fĕrrētis"
+            },
+            {
+                "grammatica": "III plur.",
+                "verbo": "fĕrrent"
+            }
+        ],
+        "PERFETTO": [
+            {
+                "grammatica": "I sing.",
+                "verbo": "tulĕrim"
+            },
+            {
+                "grammatica": "II sing.",
+                "verbo": "tulĕris"
+            },
+            {
+                "grammatica": "III sing.",
+                "verbo": "tulĕrit"
+            },
+            {
+                "grammatica": "I plur.",
+                "verbo": "tulerĭmus"
+            },
+            {
+                "grammatica": "II plur.",
+                "verbo": "tulerĭtis"
+            },
+            {
+                "grammatica": "III plur.",
+                "verbo": "tulĕrint"
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "grammatica": "I sing.",
+                "verbo": "tulissem"
+            },
+            {
+                "grammatica": "II sing.",
+                "verbo": "tulisses"
+            },
+            {
+                "grammatica": "III sing.",
+                "verbo": "tulisset"
+            },
+            {
+                "grammatica": "I plur.",
+                "verbo": "tulissēmus"
+            },
+            {
+                "grammatica": "II plur.",
+                "verbo": "tulissētis"
+            },
+            {
+                "grammatica": "III plur.",
+                "verbo": "tulissent"
+            }
+        ]
+    }
+}
