@@ -1,0 +1,647 @@
+{
+    "translation": [
+        "potere",
+        "valere"
+    ],
+    "valid_translations": [
+        "potere",
+        "valere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "possum",
+                "traduzioni": [
+                    "io posso",
+                    "io valgo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "potes",
+                "traduzioni": [
+                    "tu puoi",
+                    "tu vali"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "potest, potestur",
+                "traduzioni": [
+                    "lui può",
+                    "lei può",
+                    "egli può",
+                    "lui vale",
+                    "lei vale",
+                    "egli vale"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "possumus",
+                "traduzioni": [
+                    "noi possiamo",
+                    "noi valiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "potestis",
+                "traduzioni": [
+                    "voi potete",
+                    "voi valete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "possunt",
+                "traduzioni": [
+                    "loro possono",
+                    "essi possono",
+                    "loro valgono",
+                    "essi valgono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "poteram",
+                "traduzioni": [
+                    "io potevo",
+                    "io valevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "poteras",
+                "traduzioni": [
+                    "tu potevi",
+                    "tu valevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "poterat, poteratur",
+                "traduzioni": [
+                    "lui poteva",
+                    "lei poteva",
+                    "egli potevo",
+                    "lui valeva",
+                    "lei valeva",
+                    "egli valevo"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "poterāmus",
+                "traduzioni": [
+                    "noi potevamo",
+                    "noi valevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "poterātis",
+                "traduzioni": [
+                    "voi potevate",
+                    "voi valevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "poterant",
+                "traduzioni": [
+                    "loro potevano",
+                    "essi potevano",
+                    "loro valevano",
+                    "essi valevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "potĕro",
+                "traduzioni": [
+                    "io potrò",
+                    "io varrò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "potĕris",
+                "traduzioni": [
+                    "tu potrai",
+                    "tu varrai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "potĕrit",
+                "traduzioni": [
+                    "lui potrà",
+                    "lei potrà",
+                    "egli potrà",
+                    "lui varrà",
+                    "lei varrà",
+                    "egli varrà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "poterĭmus",
+                "traduzioni": [
+                    "noi potremo",
+                    "noi varremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "poterĭtis",
+                "traduzioni": [
+                    "voi potrete",
+                    "voi varrete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "poterunt, poterint",
+                "traduzioni": [
+                    "loro potranno",
+                    "essi potranno",
+                    "loro varranno",
+                    "essi varranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "potui",
+                "traduzioni": [
+                    "io potetti",
+                    "io potei",
+                    "io ho potuto",
+                    "io ebbi potuto",
+                    "io valsi",
+                    "io valse",
+                    "io sono valso",
+                    "io sono valsa",
+                    "io fui valso",
+                    "io fui valsa"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "potuisti",
+                "traduzioni": [
+                    "tu potesti",
+                    "tu hai potuto",
+                    "tu avesti potuto",
+                    "tu valesti",
+                    "tu sei valso",
+                    "tu sei valsa",
+                    "tu fosti valso",
+                    "tu fosti valsa"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "potuit",
+                "traduzioni": [
+                    "lui potette",
+                    "lei potette",
+                    "egli potette",
+                    "lui poté",
+                    "lei poté",
+                    "egli poté",
+                    "lui ha potuto",
+                    "lei ha potuto",
+                    "egli ha potuto",
+                    "lui ebbe potuto",
+                    "lei ebbe potuto",
+                    "egli ebbe potuto",
+                    "lui valse",
+                    "lei valse",
+                    "egli valse",
+                    "lui è valso",
+                    "lei è valsa",
+                    "egli è valso",
+                    "lui fu valso",
+                    "lei fu valsa",
+                    "egli fu valso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "potuĭmus",
+                "traduzioni": [
+                    "noi potemmo",
+                    "noi abbiamo potuto",
+                    "noi avemmo potuto",
+                    "noi valemmo",
+                    "noi siamo valsi",
+                    "noi siamo valse",
+                    "noi fummo valsi",
+                    "noi fummo valse"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "potuistis",
+                "traduzioni": [
+                    "voi poteste",
+                    "voi avete potuto",
+                    "voi aveste potuto",
+                    "voi valeste",
+                    "voi siete valsi",
+                    "voi siete valse",
+                    "voi foste valsi",
+                    "voi foste valse"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "potuērunt, potuēre",
+                "traduzioni": [
+                    "loro potettero",
+                    "essi potettero",
+                    "loro poterono",
+                    "essi poterono",
+                    "loro hanno potuto",
+                    "essi hanno potuto",
+                    "loro ebbero potuto",
+                    "essi ebbero potuto",
+                    "loro valsero",
+                    "essi valsero",
+                    "loro sono valsi",
+                    "loro sono valse",
+                    "essi sono valsi",
+                    "loro furono valsi",
+                    "loro furono valse",
+                    "essi furono valsi"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "potuĕram",
+                "traduzioni": [
+                    "io avevo potuto",
+                    "io ero valso",
+                    "io ero valsa"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "potuĕras",
+                "traduzioni": [
+                    "tu avevi potuto",
+                    "tu eri valso",
+                    "tu eri valsa"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "potuĕrat",
+                "traduzioni": [
+                    "lui aveva potuto",
+                    "lei aveva potuto",
+                    "egli aveva potuto",
+                    "lui era valso",
+                    "lei era valsa",
+                    "egli era valso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "potuerāmus",
+                "traduzioni": [
+                    "noi avevamo potuto",
+                    "noi eravamo valsi",
+                    "noi eravamo valse"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "potuerātis",
+                "traduzioni": [
+                    "voi avevate potuto",
+                    "voi eravate valsi",
+                    "voi eravate valse"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "potuērant",
+                "traduzioni": [
+                    "loro avevano potuto",
+                    "essi avevano potuto",
+                    "loro erano valsi",
+                    "loro erano valse",
+                    "essi erano valsi"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "potuĕro",
+                "traduzioni": [
+                    "io avrò potuto",
+                    "io sarò valso",
+                    "io sarò valsa"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "potuĕris",
+                "traduzioni": [
+                    "tu avrai potuto",
+                    "tu sarai valso",
+                    "tu sarai valsa"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "potuĕrit",
+                "traduzioni": [
+                    "lui avrà potuto",
+                    "lei avrà potuto",
+                    "egli avrà potuto",
+                    "lui sarà valso",
+                    "lei sarà valsa",
+                    "egli sarà valso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "potuĕrimus",
+                "traduzioni": [
+                    "noi avremo potuto",
+                    "noi saremo valsi",
+                    "noi saremo valse"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "potuĕritis",
+                "traduzioni": [
+                    "voi avrete potuto",
+                    "voi sarete valsi",
+                    "voi sarete valse"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "potuĕrint",
+                "traduzioni": [
+                    "loro avranno potuto",
+                    "essi avranno potuto",
+                    "loro saranno valsi",
+                    "loro saranno valse",
+                    "essi saranno valsi"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "possim, possiem",
+                "traduzioni": [
+                    "che io possa",
+                    "che io valga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "possis, possies",
+                "traduzioni": [
+                    "che tu possa",
+                    "che tu valga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "possit, possiet, possitur",
+                "traduzioni": [
+                    "che lui possa",
+                    "che lei possa",
+                    "che egli posso",
+                    "che lui valga",
+                    "che lei valga",
+                    "che egli valgo"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "possīmus",
+                "traduzioni": [
+                    "che noi possiamo",
+                    "che noi valiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "possītis",
+                "traduzioni": [
+                    "che voi possiate",
+                    "che voi valiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "possint",
+                "traduzioni": [
+                    "che loro possano",
+                    "che essi possano",
+                    "che loro valgano",
+                    "che essi valgano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "possem",
+                "traduzioni": [
+                    "che io potessi",
+                    "che io valessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "posses",
+                "traduzioni": [
+                    "che tu potessi",
+                    "che tu valessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "posset, potesset, potisset",
+                "traduzioni": [
+                    "che lui potesse",
+                    "che lei potesse",
+                    "che egli potesse",
+                    "che lui valesse",
+                    "che lei valesse",
+                    "che egli valesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "possemus",
+                "traduzioni": [
+                    "che noi potessimo",
+                    "che noi valessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "possetis",
+                "traduzioni": [
+                    "che voi poteste",
+                    "che voi valeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "possent",
+                "traduzioni": [
+                    "che loro potessero",
+                    "che essi potessero",
+                    "che loro valessero",
+                    "che essi valessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "potuĕrim",
+                "traduzioni": [
+                    "che io abbia potuto",
+                    "che io sia valso",
+                    "che io sia valsa"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "potuĕris",
+                "traduzioni": [
+                    "che tu abbia potuto",
+                    "che tu sia valso",
+                    "che tu sia valsa"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "potuĕrit",
+                "traduzioni": [
+                    "che lui abbia potuto",
+                    "che lei abbia potuto",
+                    "che egli abbia potuto",
+                    "che lui sia valso",
+                    "che lei sia valsa",
+                    "che egli sia valso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "potuerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo potuto",
+                    "che noi siamo valsi",
+                    "che noi siamo valse"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "potuerĭtis",
+                "traduzioni": [
+                    "che voi abbiate potuto",
+                    "che voi siate valsi",
+                    "che voi siate valse"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "potuĕrint",
+                "traduzioni": [
+                    "che loro abbiano potuto",
+                    "che essi abbiano potuto",
+                    "che loro siano valsi",
+                    "che loro siano valse",
+                    "che essi siano valsi"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "potuissem",
+                "traduzioni": [
+                    "che io avessi potuto",
+                    "che io fossi valso",
+                    "che io fossi valsa"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "potuisses",
+                "traduzioni": [
+                    "che tu avessi potuto",
+                    "che tu fossi valso",
+                    "che tu fossi valsa"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "potuisset",
+                "traduzioni": [
+                    "che lui avesse potuto",
+                    "che lei avesse potuto",
+                    "che egli avesse potuto",
+                    "che lui fosse valso",
+                    "che lei fosse valsa",
+                    "che egli fosse valso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "potuissemus",
+                "traduzioni": [
+                    "che noi avessimo potuto",
+                    "che noi fossimo valsi",
+                    "che noi fossimo valse"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "potuissetis",
+                "traduzioni": [
+                    "che voi aveste potuto",
+                    "che voi foste valsi",
+                    "che voi foste valse"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "potuissent",
+                "traduzioni": [
+                    "che loro avessero potuto",
+                    "che essi avessero potuto",
+                    "che loro fossero valsi",
+                    "che loro fossero valse",
+                    "che essi fossero valsi"
+                ]
+            }
+        ]
+    }
+}
