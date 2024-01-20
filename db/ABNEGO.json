@@ -1,0 +1,831 @@
+{
+    "translation": [
+        "negare",
+        "declinare",
+        "ricusare",
+        "disdire",
+        "non concedere"
+    ],
+    "valid_translations": [
+        "negare",
+        "declinare",
+        "ricusare",
+        "disdire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "abnĕgo",
+                "traduzioni": [
+                    "io nego",
+                    "io declino",
+                    "io ricuso",
+                    "io disdico"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abnĕgas",
+                "traduzioni": [
+                    "tu neghi",
+                    "tu declini",
+                    "tu ricusi",
+                    "tu disdici"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abnĕgat",
+                "traduzioni": [
+                    "lui nega",
+                    "lei nega",
+                    "egli nego",
+                    "lui declina",
+                    "lei declina",
+                    "egli declino",
+                    "lui ricusa",
+                    "lei ricusa",
+                    "egli ricuso",
+                    "lui disdice",
+                    "lei disdice",
+                    "egli disdice"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abnĕgāmus",
+                "traduzioni": [
+                    "noi neghiamo",
+                    "noi decliniamo",
+                    "noi ricusiamo",
+                    "noi disdiciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abnĕgātis",
+                "traduzioni": [
+                    "voi negate",
+                    "voi declinate",
+                    "voi ricusate",
+                    "voi disdite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abnĕgant",
+                "traduzioni": [
+                    "loro negano",
+                    "essi negano",
+                    "loro declinano",
+                    "essi declinano",
+                    "loro ricusano",
+                    "essi ricusano",
+                    "loro disdicono",
+                    "essi disdicono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abnĕgābam",
+                "traduzioni": [
+                    "io negavo",
+                    "io declinavo",
+                    "io ricusavo",
+                    "io disdicevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abnĕgābas",
+                "traduzioni": [
+                    "tu negavi",
+                    "tu declinavi",
+                    "tu ricusavi",
+                    "tu disdicevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abnĕgābat",
+                "traduzioni": [
+                    "lui negava",
+                    "lei negava",
+                    "egli negavo",
+                    "lui declinava",
+                    "lei declinava",
+                    "egli declinavo",
+                    "lui ricusava",
+                    "lei ricusava",
+                    "egli ricusavo",
+                    "lui disdiceva",
+                    "lei disdiceva",
+                    "egli disdicevo"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abnĕgabāmus",
+                "traduzioni": [
+                    "noi negavamo",
+                    "noi declinavamo",
+                    "noi ricusavamo",
+                    "noi disdicevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abnĕgabātis",
+                "traduzioni": [
+                    "voi negavate",
+                    "voi declinavate",
+                    "voi ricusavate",
+                    "voi disdicevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abnĕgābant",
+                "traduzioni": [
+                    "loro negavano",
+                    "essi negavano",
+                    "loro declinavano",
+                    "essi declinavano",
+                    "loro ricusavano",
+                    "essi ricusavano",
+                    "loro disdicevano",
+                    "essi disdicevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "abnĕgābo",
+                "traduzioni": [
+                    "io negherò",
+                    "io declinerò",
+                    "io ricuserò",
+                    "io disdirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abnĕgābis",
+                "traduzioni": [
+                    "tu negherai",
+                    "tu declinerai",
+                    "tu ricuserai",
+                    "tu disdirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abnĕgābit",
+                "traduzioni": [
+                    "lui negherà",
+                    "lei negherà",
+                    "egli negherà",
+                    "lui declinerà",
+                    "lei declinerà",
+                    "egli declinerà",
+                    "lui ricuserà",
+                    "lei ricuserà",
+                    "egli ricuserà",
+                    "lui disdirà",
+                    "lei disdirà",
+                    "egli disdirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abnĕgabĭmus",
+                "traduzioni": [
+                    "noi negheremo",
+                    "noi declineremo",
+                    "noi ricuseremo",
+                    "noi disdiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abnĕgabĭtis",
+                "traduzioni": [
+                    "voi negherete",
+                    "voi declinerete",
+                    "voi ricuserete",
+                    "voi disdirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abnĕgābunt",
+                "traduzioni": [
+                    "loro negheranno",
+                    "essi negheranno",
+                    "loro declineranno",
+                    "essi declineranno",
+                    "loro ricuseranno",
+                    "essi ricuseranno",
+                    "loro disdiranno",
+                    "essi disdiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abnegavi",
+                "traduzioni": [
+                    "io negai",
+                    "io ho negato",
+                    "io ebbi negato",
+                    "io declinai",
+                    "io ho declinato",
+                    "io ebbi declinato",
+                    "io ricusai",
+                    "io ho ricusato",
+                    "io ebbi ricusato",
+                    "io disdissi",
+                    "io ho disdetto",
+                    "io ebbi disdetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abnegavisti",
+                "traduzioni": [
+                    "tu negasti",
+                    "tu hai negato",
+                    "tu avesti negato",
+                    "tu declinasti",
+                    "tu hai declinato",
+                    "tu avesti declinato",
+                    "tu ricusasti",
+                    "tu hai ricusato",
+                    "tu avesti ricusato",
+                    "tu disdicesti",
+                    "tu hai disdetto",
+                    "tu avesti disdetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abnegavit",
+                "traduzioni": [
+                    "lui negò",
+                    "lei negò",
+                    "egli negò",
+                    "lui ha negato",
+                    "lei ha negato",
+                    "egli ha negato",
+                    "lui ebbe negato",
+                    "lei ebbe negato",
+                    "egli ebbe negato",
+                    "lui declinò",
+                    "lei declinò",
+                    "egli declinò",
+                    "lui ha declinato",
+                    "lei ha declinato",
+                    "egli ha declinato",
+                    "lui ebbe declinato",
+                    "lei ebbe declinato",
+                    "egli ebbe declinato",
+                    "lui ricusò",
+                    "lei ricusò",
+                    "egli ricusò",
+                    "lui ha ricusato",
+                    "lei ha ricusato",
+                    "egli ha ricusato",
+                    "lui ebbe ricusato",
+                    "lei ebbe ricusato",
+                    "egli ebbe ricusato",
+                    "lui disdisse",
+                    "lei disdisse",
+                    "egli disdisse",
+                    "lui ha disdetto",
+                    "lei ha disdetto",
+                    "egli ha disdetto",
+                    "lui ebbe disdetto",
+                    "lei ebbe disdetto",
+                    "egli ebbe disdetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abnegavĭmus",
+                "traduzioni": [
+                    "noi negammo",
+                    "noi abbiamo negato",
+                    "noi avemmo negato",
+                    "noi declinammo",
+                    "noi abbiamo declinato",
+                    "noi avemmo declinato",
+                    "noi ricusammo",
+                    "noi abbiamo ricusato",
+                    "noi avemmo ricusato",
+                    "noi disdicemmo",
+                    "noi abbiamo disdetto",
+                    "noi avemmo disdetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abnegavistis",
+                "traduzioni": [
+                    "voi negaste",
+                    "voi avete negato",
+                    "voi aveste negato",
+                    "voi declinaste",
+                    "voi avete declinato",
+                    "voi aveste declinato",
+                    "voi ricusaste",
+                    "voi avete ricusato",
+                    "voi aveste ricusato",
+                    "voi disdiceste",
+                    "voi avete disdetto",
+                    "voi aveste disdetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abnegavērunt, abnegavēre",
+                "traduzioni": [
+                    "loro negarono",
+                    "essi negarono",
+                    "loro hanno negato",
+                    "essi hanno negato",
+                    "loro ebbero negato",
+                    "essi ebbero negato",
+                    "loro declinarono",
+                    "essi declinarono",
+                    "loro hanno declinato",
+                    "essi hanno declinato",
+                    "loro ebbero declinato",
+                    "essi ebbero declinato",
+                    "loro ricusarono",
+                    "essi ricusarono",
+                    "loro hanno ricusato",
+                    "essi hanno ricusato",
+                    "loro ebbero ricusato",
+                    "essi ebbero ricusato",
+                    "loro disdissero",
+                    "essi disdissero",
+                    "loro hanno disdetto",
+                    "essi hanno disdetto",
+                    "loro ebbero disdetto",
+                    "essi ebbero disdetto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abnegavĕram",
+                "traduzioni": [
+                    "io avevo negato",
+                    "io avevo declinato",
+                    "io avevo ricusato",
+                    "io avevo disdetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abnegavĕras",
+                "traduzioni": [
+                    "tu avevi negato",
+                    "tu avevi declinato",
+                    "tu avevi ricusato",
+                    "tu avevi disdetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abnegavĕrat",
+                "traduzioni": [
+                    "lui aveva negato",
+                    "lei aveva negato",
+                    "egli aveva negato",
+                    "lui aveva declinato",
+                    "lei aveva declinato",
+                    "egli aveva declinato",
+                    "lui aveva ricusato",
+                    "lei aveva ricusato",
+                    "egli aveva ricusato",
+                    "lui aveva disdetto",
+                    "lei aveva disdetto",
+                    "egli aveva disdetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abnegaverāmus",
+                "traduzioni": [
+                    "noi avevamo negato",
+                    "noi avevamo declinato",
+                    "noi avevamo ricusato",
+                    "noi avevamo disdetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abnegaverātis",
+                "traduzioni": [
+                    "voi avevate negato",
+                    "voi avevate declinato",
+                    "voi avevate ricusato",
+                    "voi avevate disdetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abnegavĕrant",
+                "traduzioni": [
+                    "loro avevano negato",
+                    "essi avevano negato",
+                    "loro avevano declinato",
+                    "essi avevano declinato",
+                    "loro avevano ricusato",
+                    "essi avevano ricusato",
+                    "loro avevano disdetto",
+                    "essi avevano disdetto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "abnegavĕro",
+                "traduzioni": [
+                    "io avrò negato",
+                    "io avrò declinato",
+                    "io avrò ricusato",
+                    "io avrò disdetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abnegavĕris",
+                "traduzioni": [
+                    "tu avrai negato",
+                    "tu avrai declinato",
+                    "tu avrai ricusato",
+                    "tu avrai disdetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abnegavĕrit",
+                "traduzioni": [
+                    "lui avrà negato",
+                    "lei avrà negato",
+                    "egli avrà negato",
+                    "lui avrà declinato",
+                    "lei avrà declinato",
+                    "egli avrà declinato",
+                    "lui avrà ricusato",
+                    "lei avrà ricusato",
+                    "egli avrà ricusato",
+                    "lui avrà disdetto",
+                    "lei avrà disdetto",
+                    "egli avrà disdetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abnegaverĭmus",
+                "traduzioni": [
+                    "noi avremo negato",
+                    "noi avremo declinato",
+                    "noi avremo ricusato",
+                    "noi avremo disdetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abnegaverĭtis",
+                "traduzioni": [
+                    "voi avrete negato",
+                    "voi avrete declinato",
+                    "voi avrete ricusato",
+                    "voi avrete disdetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abnegavĕrint",
+                "traduzioni": [
+                    "loro avranno negato",
+                    "essi avranno negato",
+                    "loro avranno declinato",
+                    "essi avranno declinato",
+                    "loro avranno ricusato",
+                    "essi avranno ricusato",
+                    "loro avranno disdetto",
+                    "essi avranno disdetto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "abnĕgem",
+                "traduzioni": [
+                    "che io neghi",
+                    "che io declini",
+                    "che io ricusi",
+                    "che io disdica"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abnĕges",
+                "traduzioni": [
+                    "che tu neghi",
+                    "che tu declini",
+                    "che tu ricusi",
+                    "che tu disdica"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abnĕget",
+                "traduzioni": [
+                    "che lui neghi",
+                    "che lei neghi",
+                    "che egli neghi",
+                    "che lui declini",
+                    "che lei declini",
+                    "che egli declini",
+                    "che lui ricusi",
+                    "che lei ricusi",
+                    "che egli ricusi",
+                    "che lui disdica",
+                    "che lei disdica",
+                    "che egli disdico"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abnĕgēmus",
+                "traduzioni": [
+                    "che noi neghiamo",
+                    "che noi decliniamo",
+                    "che noi ricusiamo",
+                    "che noi disdiciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abnĕgētis",
+                "traduzioni": [
+                    "che voi neghiate",
+                    "che voi decliniate",
+                    "che voi ricusiate",
+                    "che voi disdiciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abnĕgent",
+                "traduzioni": [
+                    "che loro neghino",
+                    "che essi neghino",
+                    "che loro declinino",
+                    "che essi declinino",
+                    "che loro ricusino",
+                    "che essi ricusino",
+                    "che loro disdicano",
+                    "che essi disdicano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abnĕgārem",
+                "traduzioni": [
+                    "che io negassi",
+                    "che io declinassi",
+                    "che io ricusassi",
+                    "che io disdicessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abnĕgāres",
+                "traduzioni": [
+                    "che tu negassi",
+                    "che tu declinassi",
+                    "che tu ricusassi",
+                    "che tu disdicessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abnĕgāret",
+                "traduzioni": [
+                    "che lui negasse",
+                    "che lei negasse",
+                    "che egli negasse",
+                    "che lui declinasse",
+                    "che lei declinasse",
+                    "che egli declinasse",
+                    "che lui ricusasse",
+                    "che lei ricusasse",
+                    "che egli ricusasse",
+                    "che lui disdicesse",
+                    "che lei disdicesse",
+                    "che egli disdicesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abnĕgarēmus",
+                "traduzioni": [
+                    "che noi negassimo",
+                    "che noi declinassimo",
+                    "che noi ricusassimo",
+                    "che noi disdicessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abnĕgarētis",
+                "traduzioni": [
+                    "che voi negaste",
+                    "che voi declinaste",
+                    "che voi ricusaste",
+                    "che voi disdiceste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abnĕgārent",
+                "traduzioni": [
+                    "che loro negassero",
+                    "che essi negassero",
+                    "che loro declinassero",
+                    "che essi declinassero",
+                    "che loro ricusassero",
+                    "che essi ricusassero",
+                    "che loro disdicessero",
+                    "che essi disdicessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abnegavĕrim",
+                "traduzioni": [
+                    "che io abbia negato",
+                    "che io abbia declinato",
+                    "che io abbia ricusato",
+                    "che io abbia disdetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abnegavĕris",
+                "traduzioni": [
+                    "che tu abbia negato",
+                    "che tu abbia declinato",
+                    "che tu abbia ricusato",
+                    "che tu abbia disdetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abnegavĕrit",
+                "traduzioni": [
+                    "che lui abbia negato",
+                    "che lei abbia negato",
+                    "che egli abbia negato",
+                    "che lui abbia declinato",
+                    "che lei abbia declinato",
+                    "che egli abbia declinato",
+                    "che lui abbia ricusato",
+                    "che lei abbia ricusato",
+                    "che egli abbia ricusato",
+                    "che lui abbia disdetto",
+                    "che lei abbia disdetto",
+                    "che egli abbia disdetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abnegaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo negato",
+                    "che noi abbiamo declinato",
+                    "che noi abbiamo ricusato",
+                    "che noi abbiamo disdetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abnegaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate negato",
+                    "che voi abbiate declinato",
+                    "che voi abbiate ricusato",
+                    "che voi abbiate disdetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abnegavĕrint",
+                "traduzioni": [
+                    "che loro abbiano negato",
+                    "che essi abbiano negato",
+                    "che loro abbiano declinato",
+                    "che essi abbiano declinato",
+                    "che loro abbiano ricusato",
+                    "che essi abbiano ricusato",
+                    "che loro abbiano disdetto",
+                    "che essi abbiano disdetto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abnegavissem",
+                "traduzioni": [
+                    "che io avessi negato",
+                    "che io avessi declinato",
+                    "che io avessi ricusato",
+                    "che io avessi disdetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abnegavisses",
+                "traduzioni": [
+                    "che tu avessi negato",
+                    "che tu avessi declinato",
+                    "che tu avessi ricusato",
+                    "che tu avessi disdetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abnegavisset",
+                "traduzioni": [
+                    "che lui avesse negato",
+                    "che lei avesse negato",
+                    "che egli avesse negato",
+                    "che lui avesse declinato",
+                    "che lei avesse declinato",
+                    "che egli avesse declinato",
+                    "che lui avesse ricusato",
+                    "che lei avesse ricusato",
+                    "che egli avesse ricusato",
+                    "che lui avesse disdetto",
+                    "che lei avesse disdetto",
+                    "che egli avesse disdetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abnegavissēmus",
+                "traduzioni": [
+                    "che noi avessimo negato",
+                    "che noi avessimo declinato",
+                    "che noi avessimo ricusato",
+                    "che noi avessimo disdetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abnegavissētis",
+                "traduzioni": [
+                    "che voi aveste negato",
+                    "che voi aveste declinato",
+                    "che voi aveste ricusato",
+                    "che voi aveste disdetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abnegavissent",
+                "traduzioni": [
+                    "che loro avessero negato",
+                    "che essi avessero negato",
+                    "che loro avessero declinato",
+                    "che essi avessero declinato",
+                    "che loro avessero ricusato",
+                    "che essi avessero ricusato",
+                    "che loro avessero disdetto",
+                    "che essi avessero disdetto"
+                ]
+            }
+        ]
+    }
+}

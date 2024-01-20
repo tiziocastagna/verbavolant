@@ -1,0 +1,751 @@
+{
+    "translation": [
+        "mancare",
+        "avversare",
+        "differire",
+        "(di luoghi) distare"
+    ],
+    "valid_translations": [
+        "mancare",
+        "avversare",
+        "differire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "absum",
+                "traduzioni": [
+                    "io manco",
+                    "io avverso",
+                    "io differisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abes",
+                "traduzioni": [
+                    "tu manchi",
+                    "tu avversi",
+                    "tu differisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abest",
+                "traduzioni": [
+                    "lui manca",
+                    "lei manca",
+                    "egli manco",
+                    "lui avversa",
+                    "lei avversa",
+                    "egli avverso",
+                    "lui differisce",
+                    "lei differisce",
+                    "egli differisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "absumus",
+                "traduzioni": [
+                    "noi manchiamo",
+                    "noi avversiamo",
+                    "noi differiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abestis",
+                "traduzioni": [
+                    "voi mancate",
+                    "voi avversate",
+                    "voi differite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "absunt",
+                "traduzioni": [
+                    "loro mancano",
+                    "essi mancano",
+                    "loro avversano",
+                    "essi avversano",
+                    "loro differiscono",
+                    "essi differiscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "aberam",
+                "traduzioni": [
+                    "io mancavo",
+                    "io avversavo",
+                    "io differivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "aberas",
+                "traduzioni": [
+                    "tu mancavi",
+                    "tu avversavi",
+                    "tu differivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "aberat",
+                "traduzioni": [
+                    "lui mancava",
+                    "lei mancava",
+                    "egli mancavo",
+                    "lui avversava",
+                    "lei avversava",
+                    "egli avversavo",
+                    "lui differiva",
+                    "lei differiva",
+                    "egli differivo"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aberāmus",
+                "traduzioni": [
+                    "noi mancavamo",
+                    "noi avversavamo",
+                    "noi differivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aberātis",
+                "traduzioni": [
+                    "voi mancavate",
+                    "voi avversavate",
+                    "voi differivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aberant",
+                "traduzioni": [
+                    "loro mancavano",
+                    "essi mancavano",
+                    "loro avversavano",
+                    "essi avversavano",
+                    "loro differivano",
+                    "essi differivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "abĕro",
+                "traduzioni": [
+                    "io mancherò",
+                    "io avverserò",
+                    "io differirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abĕris",
+                "traduzioni": [
+                    "tu mancherai",
+                    "tu avverserai",
+                    "tu differirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abĕrit",
+                "traduzioni": [
+                    "lui mancherà",
+                    "lei mancherà",
+                    "egli mancherà",
+                    "lui avverserà",
+                    "lei avverserà",
+                    "egli avverserà",
+                    "lui differirà",
+                    "lei differirà",
+                    "egli differirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aberĭmus",
+                "traduzioni": [
+                    "noi mancheremo",
+                    "noi avverseremo",
+                    "noi differiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aberĭtis",
+                "traduzioni": [
+                    "voi mancherete",
+                    "voi avverserete",
+                    "voi differirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aberunt",
+                "traduzioni": [
+                    "loro mancheranno",
+                    "essi mancheranno",
+                    "loro avverseranno",
+                    "essi avverseranno",
+                    "loro differiranno",
+                    "essi differiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abfui, afui",
+                "traduzioni": [
+                    "io mancai",
+                    "io sono mancato",
+                    "io sono mancata",
+                    "io fui mancato",
+                    "io fui mancata",
+                    "io avversai",
+                    "io ho avversato",
+                    "io ebbi avversato",
+                    "io differii",
+                    "io ho differito",
+                    "io ebbi differito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abfuisti, afuisti",
+                "traduzioni": [
+                    "tu mancasti",
+                    "tu sei mancato",
+                    "tu sei mancata",
+                    "tu fosti mancato",
+                    "tu fosti mancata",
+                    "tu avversasti",
+                    "tu hai avversato",
+                    "tu avesti avversato",
+                    "tu differisti",
+                    "tu hai differito",
+                    "tu avesti differito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abfuit, afuit",
+                "traduzioni": [
+                    "lui mancò",
+                    "lei mancò",
+                    "egli mancò",
+                    "lui è mancato",
+                    "lei è mancata",
+                    "egli è mancato",
+                    "lui fu mancato",
+                    "lei fu mancata",
+                    "egli fu mancato",
+                    "lui avversò",
+                    "lei avversò",
+                    "egli avversò",
+                    "lui ha avversato",
+                    "lei ha avversato",
+                    "egli ha avversato",
+                    "lui ebbe avversato",
+                    "lei ebbe avversato",
+                    "egli ebbe avversato",
+                    "lui differì",
+                    "lei differì",
+                    "egli differì",
+                    "lui ha differito",
+                    "lei ha differito",
+                    "egli ha differito",
+                    "lui ebbe differito",
+                    "lei ebbe differito",
+                    "egli ebbe differito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abfuĭmus, afuĭmus",
+                "traduzioni": [
+                    "noi mancammo",
+                    "noi siamo mancati",
+                    "noi siamo mancate",
+                    "noi fummo mancati",
+                    "noi fummo mancate",
+                    "noi avversammo",
+                    "noi abbiamo avversato",
+                    "noi avemmo avversato",
+                    "noi differimmo",
+                    "noi abbiamo differito",
+                    "noi avemmo differito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abfuistis, afuistis",
+                "traduzioni": [
+                    "voi mancaste",
+                    "voi siete mancati",
+                    "voi siete mancate",
+                    "voi foste mancati",
+                    "voi foste mancate",
+                    "voi avversaste",
+                    "voi avete avversato",
+                    "voi aveste avversato",
+                    "voi differiste",
+                    "voi avete differito",
+                    "voi aveste differito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abfuērunt, afuēre, afuērunt, afuēre",
+                "traduzioni": [
+                    "loro mancarono",
+                    "essi mancarono",
+                    "loro sono mancati",
+                    "loro sono mancate",
+                    "essi sono mancati",
+                    "loro furono mancati",
+                    "loro furono mancate",
+                    "essi furono mancati",
+                    "loro avversarono",
+                    "essi avversarono",
+                    "loro hanno avversato",
+                    "essi hanno avversato",
+                    "loro ebbero avversato",
+                    "essi ebbero avversato",
+                    "loro differirono",
+                    "essi differirono",
+                    "loro hanno differito",
+                    "essi hanno differito",
+                    "loro ebbero differito",
+                    "essi ebbero differito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abfuĕram, afuĕram",
+                "traduzioni": [
+                    "io ero mancato",
+                    "io ero mancata",
+                    "io avevo avversato",
+                    "io avevo differito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abfuĕras, afuĕras",
+                "traduzioni": [
+                    "tu eri mancato",
+                    "tu eri mancata",
+                    "tu avevi avversato",
+                    "tu avevi differito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abfuĕrat, afuĕrat",
+                "traduzioni": [
+                    "lui era mancato",
+                    "lei era mancata",
+                    "egli era mancato",
+                    "lui aveva avversato",
+                    "lei aveva avversato",
+                    "egli aveva avversato",
+                    "lui aveva differito",
+                    "lei aveva differito",
+                    "egli aveva differito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abfuerāmus, afuerāmus",
+                "traduzioni": [
+                    "noi eravamo mancati",
+                    "noi eravamo mancate",
+                    "noi avevamo avversato",
+                    "noi avevamo differito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abfuerātis, afuerātis",
+                "traduzioni": [
+                    "voi eravate mancati",
+                    "voi eravate mancate",
+                    "voi avevate avversato",
+                    "voi avevate differito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abfuērant, afuērant",
+                "traduzioni": [
+                    "loro erano mancati",
+                    "loro erano mancate",
+                    "essi erano mancati",
+                    "loro avevano avversato",
+                    "essi avevano avversato",
+                    "loro avevano differito",
+                    "essi avevano differito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "abfuĕro, afuĕro",
+                "traduzioni": [
+                    "io sarò mancato",
+                    "io sarò mancata",
+                    "io avrò avversato",
+                    "io avrò differito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abfuĕris, afuĕris",
+                "traduzioni": [
+                    "tu sarai mancato",
+                    "tu sarai mancata",
+                    "tu avrai avversato",
+                    "tu avrai differito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abfuĕrit, afuĕrit",
+                "traduzioni": [
+                    "lui sarà mancato",
+                    "lei sarà mancata",
+                    "egli sarà mancato",
+                    "lui avrà avversato",
+                    "lei avrà avversato",
+                    "egli avrà avversato",
+                    "lui avrà differito",
+                    "lei avrà differito",
+                    "egli avrà differito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abfuĕrimus, afuĕrimus",
+                "traduzioni": [
+                    "noi saremo mancati",
+                    "noi saremo mancate",
+                    "noi avremo avversato",
+                    "noi avremo differito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abfuĕritis, afuĕritis",
+                "traduzioni": [
+                    "voi sarete mancati",
+                    "voi sarete mancate",
+                    "voi avrete avversato",
+                    "voi avrete differito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abfuĕrint, afuĕrint",
+                "traduzioni": [
+                    "loro saranno mancati",
+                    "loro saranno mancate",
+                    "essi saranno mancati",
+                    "loro avranno avversato",
+                    "essi avranno avversato",
+                    "loro avranno differito",
+                    "essi avranno differito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "absim",
+                "traduzioni": [
+                    "che io manchi",
+                    "che io avversi",
+                    "che io differisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "absis",
+                "traduzioni": [
+                    "che tu manchi",
+                    "che tu avversi",
+                    "che tu differisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "absit, absiet",
+                "traduzioni": [
+                    "che lui manchi",
+                    "che lei manchi",
+                    "che egli manchi",
+                    "che lui avversi",
+                    "che lei avversi",
+                    "che egli avversi",
+                    "che lui differisca",
+                    "che lei differisca",
+                    "che egli differisco"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "absīmus",
+                "traduzioni": [
+                    "che noi manchiamo",
+                    "che noi avversiamo",
+                    "che noi differiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "absītis",
+                "traduzioni": [
+                    "che voi manchiate",
+                    "che voi avversiate",
+                    "che voi differiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "absint",
+                "traduzioni": [
+                    "che loro manchino",
+                    "che essi manchino",
+                    "che loro avversino",
+                    "che essi avversino",
+                    "che loro differiscano",
+                    "che essi differiscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abessem, aforem",
+                "traduzioni": [
+                    "che io mancassi",
+                    "che io avversassi",
+                    "che io differissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abesses",
+                "traduzioni": [
+                    "che tu mancassi",
+                    "che tu avversassi",
+                    "che tu differissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abesset",
+                "traduzioni": [
+                    "che lui mancasse",
+                    "che lei mancasse",
+                    "che egli mancasse",
+                    "che lui avversasse",
+                    "che lei avversasse",
+                    "che egli avversasse",
+                    "che lui differisse",
+                    "che lei differisse",
+                    "che egli differisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abessemus",
+                "traduzioni": [
+                    "che noi mancassimo",
+                    "che noi avversassimo",
+                    "che noi differissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abessetis",
+                "traduzioni": [
+                    "che voi mancaste",
+                    "che voi avversaste",
+                    "che voi differiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abessent",
+                "traduzioni": [
+                    "che loro mancassero",
+                    "che essi mancassero",
+                    "che loro avversassero",
+                    "che essi avversassero",
+                    "che loro differissero",
+                    "che essi differissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abfuĕrim, afuĕrim",
+                "traduzioni": [
+                    "che io sia mancato",
+                    "che io sia mancata",
+                    "che io abbia avversato",
+                    "che io abbia differito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abfuĕris, afuĕris",
+                "traduzioni": [
+                    "che tu sia mancato",
+                    "che tu sia mancata",
+                    "che tu abbia avversato",
+                    "che tu abbia differito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abfuĕrit, afuĕrit",
+                "traduzioni": [
+                    "che lui sia mancato",
+                    "che lei sia mancata",
+                    "che egli sia mancato",
+                    "che lui abbia avversato",
+                    "che lei abbia avversato",
+                    "che egli abbia avversato",
+                    "che lui abbia differito",
+                    "che lei abbia differito",
+                    "che egli abbia differito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abfuerĭmus, afuerĭmus",
+                "traduzioni": [
+                    "che noi siamo mancati",
+                    "che noi siamo mancate",
+                    "che noi abbiamo avversato",
+                    "che noi abbiamo differito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abfuerĭtis, afuerĭtis",
+                "traduzioni": [
+                    "che voi siate mancati",
+                    "che voi siate mancate",
+                    "che voi abbiate avversato",
+                    "che voi abbiate differito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abfuĕrint, afuĕrint",
+                "traduzioni": [
+                    "che loro siano mancati",
+                    "che loro siano mancate",
+                    "che essi siano mancati",
+                    "che loro abbiano avversato",
+                    "che essi abbiano avversato",
+                    "che loro abbiano differito",
+                    "che essi abbiano differito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abfuissem, afuissem",
+                "traduzioni": [
+                    "che io fossi mancato",
+                    "che io fossi mancata",
+                    "che io avessi avversato",
+                    "che io avessi differito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abfuisses, afuisses",
+                "traduzioni": [
+                    "che tu fossi mancato",
+                    "che tu fossi mancata",
+                    "che tu avessi avversato",
+                    "che tu avessi differito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abfuisset, afuisset",
+                "traduzioni": [
+                    "che lui fosse mancato",
+                    "che lei fosse mancata",
+                    "che egli fosse mancato",
+                    "che lui avesse avversato",
+                    "che lei avesse avversato",
+                    "che egli avesse avversato",
+                    "che lui avesse differito",
+                    "che lei avesse differito",
+                    "che egli avesse differito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abfuissemus, afuissemus",
+                "traduzioni": [
+                    "che noi fossimo mancati",
+                    "che noi fossimo mancate",
+                    "che noi avessimo avversato",
+                    "che noi avessimo differito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abfuissetis, afuissetis",
+                "traduzioni": [
+                    "che voi foste mancati",
+                    "che voi foste mancate",
+                    "che voi aveste avversato",
+                    "che voi aveste differito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abfuissent, afuissent",
+                "traduzioni": [
+                    "che loro fossero mancati",
+                    "che loro fossero mancate",
+                    "che essi fossero mancati",
+                    "che loro avessero avversato",
+                    "che essi avessero avversato",
+                    "che loro avessero differito",
+                    "che essi avessero differito"
+                ]
+            }
+        ]
+    }
+}

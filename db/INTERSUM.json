@@ -1,0 +1,818 @@
+{
+    "translation": [
+        "(+ accusativo di luogo) essere",
+        "stare",
+        "giacere",
+        "(+ accusativo di tempo) trascorrere",
+        "(talvolta + in + ablativo o + dativo) partecipare",
+        "intervenire"
+    ],
+    "valid_translations": [
+        "stare",
+        "giacere",
+        "intervenire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "intersum",
+                "traduzioni": [
+                    "io sto",
+                    "io giaccio",
+                    "io intervengo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "interes",
+                "traduzioni": [
+                    "tu stai",
+                    "tu giaci",
+                    "tu intervieni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "interest",
+                "traduzioni": [
+                    "lui sta",
+                    "lei sta",
+                    "egli sto",
+                    "lui giace",
+                    "lei giace",
+                    "egli giace",
+                    "lui interviene",
+                    "lei interviene",
+                    "egli interviene"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "intersumus",
+                "traduzioni": [
+                    "noi stiamo",
+                    "noi giacciamo",
+                    "noi giaciamo",
+                    "noi interveniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "interestis",
+                "traduzioni": [
+                    "voi state",
+                    "voi giacete",
+                    "voi intervenite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "intersunt",
+                "traduzioni": [
+                    "loro stanno",
+                    "essi stanno",
+                    "loro giacciono",
+                    "essi giacciono",
+                    "loro giaciono",
+                    "essi giaciono",
+                    "loro intervengono",
+                    "essi intervengono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "intereram",
+                "traduzioni": [
+                    "io stavo",
+                    "io giacevo",
+                    "io intervenivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "intereras",
+                "traduzioni": [
+                    "tu stavi",
+                    "tu giacevi",
+                    "tu intervenivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "intererat",
+                "traduzioni": [
+                    "lui stava",
+                    "lei stava",
+                    "egli stavo",
+                    "lui giaceva",
+                    "lei giaceva",
+                    "egli giacevo",
+                    "lui interveniva",
+                    "lei interveniva",
+                    "egli intervenivo"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "intererāmus",
+                "traduzioni": [
+                    "noi stavamo",
+                    "noi giacevamo",
+                    "noi intervenivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "intererātis",
+                "traduzioni": [
+                    "voi stavate",
+                    "voi giacevate",
+                    "voi intervenivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "intererant",
+                "traduzioni": [
+                    "loro stavano",
+                    "essi stavano",
+                    "loro giacevano",
+                    "essi giacevano",
+                    "loro intervenivano",
+                    "essi intervenivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "interĕro",
+                "traduzioni": [
+                    "io starò",
+                    "io giacerò",
+                    "io interverrò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "interĕris",
+                "traduzioni": [
+                    "tu starai",
+                    "tu giacerai",
+                    "tu interverrai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "interĕrit",
+                "traduzioni": [
+                    "lui starà",
+                    "lei starà",
+                    "egli starà",
+                    "lui giacerà",
+                    "lei giacerà",
+                    "egli giacerà",
+                    "lui interverrà",
+                    "lei interverrà",
+                    "egli interverrà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "intererĭmus",
+                "traduzioni": [
+                    "noi staremo",
+                    "noi giaceremo",
+                    "noi interverremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "intererĭtis",
+                "traduzioni": [
+                    "voi starete",
+                    "voi giacerete",
+                    "voi interverrete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "intererunt",
+                "traduzioni": [
+                    "loro staranno",
+                    "essi staranno",
+                    "loro giaceranno",
+                    "essi giaceranno",
+                    "loro interverranno",
+                    "essi interverranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "interfui",
+                "traduzioni": [
+                    "io stetti",
+                    "io sono stato",
+                    "io sono stata",
+                    "io fui stato",
+                    "io fui stata",
+                    "io giacqui",
+                    "io sono giaciuto",
+                    "io sono giaciuta",
+                    "io fui giaciuto",
+                    "io fui giaciuta",
+                    "io intervenni",
+                    "io sono intervenuto",
+                    "io sono intervenuta",
+                    "io fui intervenuto",
+                    "io fui intervenuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "interfuisti",
+                "traduzioni": [
+                    "tu stesti",
+                    "tu sei stato",
+                    "tu sei stata",
+                    "tu fosti stato",
+                    "tu fosti stata",
+                    "tu giacesti",
+                    "tu sei giaciuto",
+                    "tu sei giaciuta",
+                    "tu fosti giaciuto",
+                    "tu fosti giaciuta",
+                    "tu intervenisti",
+                    "tu sei intervenuto",
+                    "tu sei intervenuta",
+                    "tu fosti intervenuto",
+                    "tu fosti intervenuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "interfuit",
+                "traduzioni": [
+                    "lui stette",
+                    "lei stette",
+                    "egli stette",
+                    "lui è stato",
+                    "lei è stata",
+                    "egli è stato",
+                    "lui fu stato",
+                    "lei fu stata",
+                    "egli fu stato",
+                    "lui giacque",
+                    "lei giacque",
+                    "egli giacque",
+                    "lui è giaciuto",
+                    "lei è giaciuta",
+                    "egli è giaciuto",
+                    "lui fu giaciuto",
+                    "lei fu giaciuta",
+                    "egli fu giaciuto",
+                    "lui intervenne",
+                    "lei intervenne",
+                    "egli intervenne",
+                    "lui è intervenuto",
+                    "lei è intervenuta",
+                    "egli è intervenuto",
+                    "lui fu intervenuto",
+                    "lei fu intervenuta",
+                    "egli fu intervenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "interfuĭmus",
+                "traduzioni": [
+                    "noi stemmo",
+                    "noi siamo stati",
+                    "noi siamo state",
+                    "noi fummo stati",
+                    "noi fummo state",
+                    "noi giacemmo",
+                    "noi siamo giaciuti",
+                    "noi siamo giaciute",
+                    "noi fummo giaciuti",
+                    "noi fummo giaciute",
+                    "noi intervenimmo",
+                    "noi siamo intervenuti",
+                    "noi siamo intervenute",
+                    "noi fummo intervenuti",
+                    "noi fummo intervenute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "interfuistis",
+                "traduzioni": [
+                    "voi steste",
+                    "voi siete stati",
+                    "voi siete state",
+                    "voi foste stati",
+                    "voi foste state",
+                    "voi giaceste",
+                    "voi siete giaciuti",
+                    "voi siete giaciute",
+                    "voi foste giaciuti",
+                    "voi foste giaciute",
+                    "voi interveniste",
+                    "voi siete intervenuti",
+                    "voi siete intervenute",
+                    "voi foste intervenuti",
+                    "voi foste intervenute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "interfuērunt, interfufuēre",
+                "traduzioni": [
+                    "loro stettero",
+                    "essi stettero",
+                    "loro sono stati",
+                    "loro sono state",
+                    "essi sono stati",
+                    "loro furono stati",
+                    "loro furono state",
+                    "essi furono stati",
+                    "loro giacquero",
+                    "essi giacquero",
+                    "loro sono giaciuti",
+                    "loro sono giaciute",
+                    "essi sono giaciuti",
+                    "loro furono giaciuti",
+                    "loro furono giaciute",
+                    "essi furono giaciuti",
+                    "loro intervennero",
+                    "essi intervennero",
+                    "loro sono intervenuti",
+                    "loro sono intervenute",
+                    "essi sono intervenuti",
+                    "loro furono intervenuti",
+                    "loro furono intervenute",
+                    "essi furono intervenuti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "interfuĕram",
+                "traduzioni": [
+                    "io ero stato",
+                    "io ero stata",
+                    "io ero giaciuto",
+                    "io ero giaciuta",
+                    "io ero intervenuto",
+                    "io ero intervenuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "interfuĕras",
+                "traduzioni": [
+                    "tu eri stato",
+                    "tu eri stata",
+                    "tu eri giaciuto",
+                    "tu eri giaciuta",
+                    "tu eri intervenuto",
+                    "tu eri intervenuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "interfuĕrat",
+                "traduzioni": [
+                    "lui era stato",
+                    "lei era stata",
+                    "egli era stato",
+                    "lui era giaciuto",
+                    "lei era giaciuta",
+                    "egli era giaciuto",
+                    "lui era intervenuto",
+                    "lei era intervenuta",
+                    "egli era intervenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "interfuerāmus",
+                "traduzioni": [
+                    "noi eravamo stati",
+                    "noi eravamo state",
+                    "noi eravamo giaciuti",
+                    "noi eravamo giaciute",
+                    "noi eravamo intervenuti",
+                    "noi eravamo intervenute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "interfuerātis",
+                "traduzioni": [
+                    "voi eravate stati",
+                    "voi eravate state",
+                    "voi eravate giaciuti",
+                    "voi eravate giaciute",
+                    "voi eravate intervenuti",
+                    "voi eravate intervenute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "interfuērant",
+                "traduzioni": [
+                    "loro erano stati",
+                    "loro erano state",
+                    "essi erano stati",
+                    "loro erano giaciuti",
+                    "loro erano giaciute",
+                    "essi erano giaciuti",
+                    "loro erano intervenuti",
+                    "loro erano intervenute",
+                    "essi erano intervenuti"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "interfuĕro",
+                "traduzioni": [
+                    "io sarò stato",
+                    "io sarò stata",
+                    "io sarò giaciuto",
+                    "io sarò giaciuta",
+                    "io sarò intervenuto",
+                    "io sarò intervenuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "interfuĕris",
+                "traduzioni": [
+                    "tu sarai stato",
+                    "tu sarai stata",
+                    "tu sarai giaciuto",
+                    "tu sarai giaciuta",
+                    "tu sarai intervenuto",
+                    "tu sarai intervenuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "interfuĕrit",
+                "traduzioni": [
+                    "lui sarà stato",
+                    "lei sarà stata",
+                    "egli sarà stato",
+                    "lui sarà giaciuto",
+                    "lei sarà giaciuta",
+                    "egli sarà giaciuto",
+                    "lui sarà intervenuto",
+                    "lei sarà intervenuta",
+                    "egli sarà intervenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "interfuĕrimus",
+                "traduzioni": [
+                    "noi saremo stati",
+                    "noi saremo state",
+                    "noi saremo giaciuti",
+                    "noi saremo giaciute",
+                    "noi saremo intervenuti",
+                    "noi saremo intervenute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "interfuĕritis",
+                "traduzioni": [
+                    "voi sarete stati",
+                    "voi sarete state",
+                    "voi sarete giaciuti",
+                    "voi sarete giaciute",
+                    "voi sarete intervenuti",
+                    "voi sarete intervenute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "interfuĕrint",
+                "traduzioni": [
+                    "loro saranno stati",
+                    "loro saranno state",
+                    "essi saranno stati",
+                    "loro saranno giaciuti",
+                    "loro saranno giaciute",
+                    "essi saranno giaciuti",
+                    "loro saranno intervenuti",
+                    "loro saranno intervenute",
+                    "essi saranno intervenuti"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "intersim",
+                "traduzioni": [
+                    "che io stia",
+                    "che io giaccia",
+                    "che io intervenga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "intersis",
+                "traduzioni": [
+                    "che tu stia",
+                    "che tu giaccia",
+                    "che tu intervenga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "intersit, intersiet",
+                "traduzioni": [
+                    "che lui stia",
+                    "che lei stia",
+                    "che egli stio",
+                    "che lui giaccia",
+                    "che lei giaccia",
+                    "che egli giaccio",
+                    "che lui intervenga",
+                    "che lei intervenga",
+                    "che egli intervengo"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "intersīmus",
+                "traduzioni": [
+                    "che noi stiamo",
+                    "che noi giacciamo",
+                    "che noi giaciamo",
+                    "che noi interveniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "intersītis",
+                "traduzioni": [
+                    "che voi stiate",
+                    "che voi giacciate",
+                    "che voi giaciate",
+                    "che voi interveniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "intersint",
+                "traduzioni": [
+                    "che loro stiano",
+                    "che essi stiano",
+                    "che loro giacciano",
+                    "che essi giacciano",
+                    "che loro intervengano",
+                    "che essi intervengano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "interessem",
+                "traduzioni": [
+                    "che io stessi",
+                    "che io giacessi",
+                    "che io intervenissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "interesses",
+                "traduzioni": [
+                    "che tu stessi",
+                    "che tu giacessi",
+                    "che tu intervenissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "interesset",
+                "traduzioni": [
+                    "che lui stesse",
+                    "che lei stesse",
+                    "che egli stesse",
+                    "che lui giacesse",
+                    "che lei giacesse",
+                    "che egli giacesse",
+                    "che lui intervenisse",
+                    "che lei intervenisse",
+                    "che egli intervenisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "interessemus",
+                "traduzioni": [
+                    "che noi stessimo",
+                    "che noi giacessimo",
+                    "che noi intervenissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "interessetis",
+                "traduzioni": [
+                    "che voi steste",
+                    "che voi giaceste",
+                    "che voi interveniste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "interessent",
+                "traduzioni": [
+                    "che loro stessero",
+                    "che essi stessero",
+                    "che loro giacessero",
+                    "che essi giacessero",
+                    "che loro intervenissero",
+                    "che essi intervenissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "interfuĕrim",
+                "traduzioni": [
+                    "che io sia stato",
+                    "che io sia stata",
+                    "che io sia giaciuto",
+                    "che io sia giaciuta",
+                    "che io sia intervenuto",
+                    "che io sia intervenuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "interfuĕris",
+                "traduzioni": [
+                    "che tu sia stato",
+                    "che tu sia stata",
+                    "che tu sia giaciuto",
+                    "che tu sia giaciuta",
+                    "che tu sia intervenuto",
+                    "che tu sia intervenuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "interfuĕrit",
+                "traduzioni": [
+                    "che lui sia stato",
+                    "che lei sia stata",
+                    "che egli sia stato",
+                    "che lui sia giaciuto",
+                    "che lei sia giaciuta",
+                    "che egli sia giaciuto",
+                    "che lui sia intervenuto",
+                    "che lei sia intervenuta",
+                    "che egli sia intervenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "interfuerĭmus",
+                "traduzioni": [
+                    "che noi siamo stati",
+                    "che noi siamo state",
+                    "che noi siamo giaciuti",
+                    "che noi siamo giaciute",
+                    "che noi siamo intervenuti",
+                    "che noi siamo intervenute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "interfuerĭtis",
+                "traduzioni": [
+                    "che voi siate stati",
+                    "che voi siate state",
+                    "che voi siate giaciuti",
+                    "che voi siate giaciute",
+                    "che voi siate intervenuti",
+                    "che voi siate intervenute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "interfuĕrint",
+                "traduzioni": [
+                    "che loro siano stati",
+                    "che loro siano state",
+                    "che essi siano stati",
+                    "che loro siano giaciuti",
+                    "che loro siano giaciute",
+                    "che essi siano giaciuti",
+                    "che loro siano intervenuti",
+                    "che loro siano intervenute",
+                    "che essi siano intervenuti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "interfuissem",
+                "traduzioni": [
+                    "che io fossi stato",
+                    "che io fossi stata",
+                    "che io fossi giaciuto",
+                    "che io fossi giaciuta",
+                    "che io fossi intervenuto",
+                    "che io fossi intervenuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "interfuisses",
+                "traduzioni": [
+                    "che tu fossi stato",
+                    "che tu fossi stata",
+                    "che tu fossi giaciuto",
+                    "che tu fossi giaciuta",
+                    "che tu fossi intervenuto",
+                    "che tu fossi intervenuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "interfuisset",
+                "traduzioni": [
+                    "che lui fosse stato",
+                    "che lei fosse stata",
+                    "che egli fosse stato",
+                    "che lui fosse giaciuto",
+                    "che lei fosse giaciuta",
+                    "che egli fosse giaciuto",
+                    "che lui fosse intervenuto",
+                    "che lei fosse intervenuta",
+                    "che egli fosse intervenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "interfuissemus",
+                "traduzioni": [
+                    "che noi fossimo stati",
+                    "che noi fossimo state",
+                    "che noi fossimo giaciuti",
+                    "che noi fossimo giaciute",
+                    "che noi fossimo intervenuti",
+                    "che noi fossimo intervenute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "interfuissetis",
+                "traduzioni": [
+                    "che voi foste stati",
+                    "che voi foste state",
+                    "che voi foste giaciuti",
+                    "che voi foste giaciute",
+                    "che voi foste intervenuti",
+                    "che voi foste intervenute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "interfuissent",
+                "traduzioni": [
+                    "che loro fossero stati",
+                    "che loro fossero state",
+                    "che essi fossero stati",
+                    "che loro fossero giaciuti",
+                    "che loro fossero giaciute",
+                    "che essi fossero giaciuti",
+                    "che loro fossero intervenuti",
+                    "che loro fossero intervenute",
+                    "che essi fossero intervenuti"
+                ]
+            }
+        ]
+    }
+}

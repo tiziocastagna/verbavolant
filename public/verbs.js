@@ -28,6 +28,13 @@ function get_random_question_from_verb(verb, filter) {
     }
     const random_index =  Math.floor(Math.random() * filteredQuestions.length);
     const question = filteredQuestions[random_index]["verbo"];
-    const answers = filteredQuestions[random_index]["traduzioni"];
+    const answers = [];
+    for(const filtered_question of filteredQuestions) {
+        if(filtered_question["verbo"] == question) {
+            answers.push(...filtered_question["traduzioni"]);
+            console.log(filtered_question)
+        }
+    }
+    console.log(answers)
     return new Question(question, answers);
 }

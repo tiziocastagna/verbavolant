@@ -35,7 +35,7 @@ window.onload = async function() {
     const ADSUM = await get_verb_from_db("ADSUM");
     const Verbs = [AMO ,VIDEO, SUM, EO, ADSUM];
 
-    const questionFilter = {"INDICATIVO": ["PRESENTE", "IMPERFETO", "FUTURO_SEMPLICE", "PERFETTO", "PIUCCHEPERFETTO", "FUTURO_ANTERIORE"], "CONGIUNTIVO": ["PRESENTE", "IMPERFETO", "PERFETTO", "PIUCCHEPERFETTO"]};
+    const questionFilter = {"INDICATIVO": ["PRESENTE", "IMPERFETTO", "FUTURO SEMPLICE", "PERFETTO", "PIUCHEPERFETTO", "FUTURO ANTERIORE"], "CONGIUNTIVO": ["PRESENTE", "IMPERFETTO", "PERFETTO", "PIUCHEPERFETTO"]};
 
     let best_score = parseInt(localStorage.getItem("best_score")) || 0;
 

@@ -1,0 +1,720 @@
+{
+    "translation": [
+        "accumulare",
+        "ammassare",
+        "agglomerare"
+    ],
+    "valid_translations": [
+        "accumulare",
+        "ammassare",
+        "agglomerare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adglŏmĕro",
+                "traduzioni": [
+                    "io accumulo",
+                    "io ammasso",
+                    "io agglomero"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adglŏmĕras",
+                "traduzioni": [
+                    "tu accumuli",
+                    "tu ammassi",
+                    "tu agglomeri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adglŏmĕrat",
+                "traduzioni": [
+                    "lui accumula",
+                    "lei accumula",
+                    "egli accumulo",
+                    "lui ammassa",
+                    "lei ammassa",
+                    "egli ammasso",
+                    "lui agglomera",
+                    "lei agglomera",
+                    "egli agglomero"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adglŏmĕrāmus",
+                "traduzioni": [
+                    "noi accumuliamo",
+                    "noi ammassiamo",
+                    "noi agglomeriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adglŏmĕrātis",
+                "traduzioni": [
+                    "voi accumulate",
+                    "voi ammassate",
+                    "voi agglomerate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adglŏmĕrant",
+                "traduzioni": [
+                    "loro accumulano",
+                    "essi accumulano",
+                    "loro ammassano",
+                    "essi ammassano",
+                    "loro agglomerano",
+                    "essi agglomerano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adglŏmĕrābam",
+                "traduzioni": [
+                    "io accumulavo",
+                    "io ammassavo",
+                    "io agglomeravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adglŏmĕrābas",
+                "traduzioni": [
+                    "tu accumulavi",
+                    "tu ammassavi",
+                    "tu agglomeravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adglŏmĕrābat",
+                "traduzioni": [
+                    "lui accumulava",
+                    "lei accumulava",
+                    "egli accumulavo",
+                    "lui ammassava",
+                    "lei ammassava",
+                    "egli ammassavo",
+                    "lui agglomerava",
+                    "lei agglomerava",
+                    "egli agglomeravo"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adglŏmĕrabāmus",
+                "traduzioni": [
+                    "noi accumulavamo",
+                    "noi ammassavamo",
+                    "noi agglomeravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adglŏmĕrabātis",
+                "traduzioni": [
+                    "voi accumulavate",
+                    "voi ammassavate",
+                    "voi agglomeravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adglŏmĕrābant",
+                "traduzioni": [
+                    "loro accumulavano",
+                    "essi accumulavano",
+                    "loro ammassavano",
+                    "essi ammassavano",
+                    "loro agglomeravano",
+                    "essi agglomeravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adglŏmĕrābo",
+                "traduzioni": [
+                    "io accumulerò",
+                    "io ammasserò",
+                    "io agglomererò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adglŏmĕrābis",
+                "traduzioni": [
+                    "tu accumulerai",
+                    "tu ammasserai",
+                    "tu agglomererai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adglŏmĕrābit",
+                "traduzioni": [
+                    "lui accumulerà",
+                    "lei accumulerà",
+                    "egli accumulerà",
+                    "lui ammasserà",
+                    "lei ammasserà",
+                    "egli ammasserà",
+                    "lui agglomererà",
+                    "lei agglomererà",
+                    "egli agglomererà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adglŏmĕrabĭmus",
+                "traduzioni": [
+                    "noi accumuleremo",
+                    "noi ammasseremo",
+                    "noi agglomereremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adglŏmĕrabĭtis",
+                "traduzioni": [
+                    "voi accumulerete",
+                    "voi ammasserete",
+                    "voi agglomererete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adglŏmĕrābunt",
+                "traduzioni": [
+                    "loro accumuleranno",
+                    "essi accumuleranno",
+                    "loro ammasseranno",
+                    "essi ammasseranno",
+                    "loro agglomereranno",
+                    "essi agglomereranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adglomeravi",
+                "traduzioni": [
+                    "io accumulai",
+                    "io ho accumulato",
+                    "io ebbi accumulato",
+                    "io ammassai",
+                    "io ho ammassato",
+                    "io ebbi ammassato",
+                    "io agglomerai",
+                    "io ho agglomerato",
+                    "io ebbi agglomerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adglomeravisti",
+                "traduzioni": [
+                    "tu accumulasti",
+                    "tu hai accumulato",
+                    "tu avesti accumulato",
+                    "tu ammassasti",
+                    "tu hai ammassato",
+                    "tu avesti ammassato",
+                    "tu agglomerasti",
+                    "tu hai agglomerato",
+                    "tu avesti agglomerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adglomeravit",
+                "traduzioni": [
+                    "lui accumulò",
+                    "lei accumulò",
+                    "egli accumulò",
+                    "lui ha accumulato",
+                    "lei ha accumulato",
+                    "egli ha accumulato",
+                    "lui ebbe accumulato",
+                    "lei ebbe accumulato",
+                    "egli ebbe accumulato",
+                    "lui ammassò",
+                    "lei ammassò",
+                    "egli ammassò",
+                    "lui ha ammassato",
+                    "lei ha ammassato",
+                    "egli ha ammassato",
+                    "lui ebbe ammassato",
+                    "lei ebbe ammassato",
+                    "egli ebbe ammassato",
+                    "lui agglomerò",
+                    "lei agglomerò",
+                    "egli agglomerò",
+                    "lui ha agglomerato",
+                    "lei ha agglomerato",
+                    "egli ha agglomerato",
+                    "lui ebbe agglomerato",
+                    "lei ebbe agglomerato",
+                    "egli ebbe agglomerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adglomeravĭmus",
+                "traduzioni": [
+                    "noi accumulammo",
+                    "noi abbiamo accumulato",
+                    "noi avemmo accumulato",
+                    "noi ammassammo",
+                    "noi abbiamo ammassato",
+                    "noi avemmo ammassato",
+                    "noi agglomerammo",
+                    "noi abbiamo agglomerato",
+                    "noi avemmo agglomerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adglomeravistis",
+                "traduzioni": [
+                    "voi accumulaste",
+                    "voi avete accumulato",
+                    "voi aveste accumulato",
+                    "voi ammassaste",
+                    "voi avete ammassato",
+                    "voi aveste ammassato",
+                    "voi agglomeraste",
+                    "voi avete agglomerato",
+                    "voi aveste agglomerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adglomeravērunt, adglomeravēre",
+                "traduzioni": [
+                    "loro accumularono",
+                    "essi accumularono",
+                    "loro hanno accumulato",
+                    "essi hanno accumulato",
+                    "loro ebbero accumulato",
+                    "essi ebbero accumulato",
+                    "loro ammassarono",
+                    "essi ammassarono",
+                    "loro hanno ammassato",
+                    "essi hanno ammassato",
+                    "loro ebbero ammassato",
+                    "essi ebbero ammassato",
+                    "loro agglomerarono",
+                    "essi agglomerarono",
+                    "loro hanno agglomerato",
+                    "essi hanno agglomerato",
+                    "loro ebbero agglomerato",
+                    "essi ebbero agglomerato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adglomeravĕram",
+                "traduzioni": [
+                    "io avevo accumulato",
+                    "io avevo ammassato",
+                    "io avevo agglomerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adglomeravĕras",
+                "traduzioni": [
+                    "tu avevi accumulato",
+                    "tu avevi ammassato",
+                    "tu avevi agglomerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adglomeravĕrat",
+                "traduzioni": [
+                    "lui aveva accumulato",
+                    "lei aveva accumulato",
+                    "egli aveva accumulato",
+                    "lui aveva ammassato",
+                    "lei aveva ammassato",
+                    "egli aveva ammassato",
+                    "lui aveva agglomerato",
+                    "lei aveva agglomerato",
+                    "egli aveva agglomerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adglomeraverāmus",
+                "traduzioni": [
+                    "noi avevamo accumulato",
+                    "noi avevamo ammassato",
+                    "noi avevamo agglomerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adglomeraverātis",
+                "traduzioni": [
+                    "voi avevate accumulato",
+                    "voi avevate ammassato",
+                    "voi avevate agglomerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adglomeravĕrant",
+                "traduzioni": [
+                    "loro avevano accumulato",
+                    "essi avevano accumulato",
+                    "loro avevano ammassato",
+                    "essi avevano ammassato",
+                    "loro avevano agglomerato",
+                    "essi avevano agglomerato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adglomeravĕro",
+                "traduzioni": [
+                    "io avrò accumulato",
+                    "io avrò ammassato",
+                    "io avrò agglomerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adglomeravĕris",
+                "traduzioni": [
+                    "tu avrai accumulato",
+                    "tu avrai ammassato",
+                    "tu avrai agglomerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adglomeravĕrit",
+                "traduzioni": [
+                    "lui avrà accumulato",
+                    "lei avrà accumulato",
+                    "egli avrà accumulato",
+                    "lui avrà ammassato",
+                    "lei avrà ammassato",
+                    "egli avrà ammassato",
+                    "lui avrà agglomerato",
+                    "lei avrà agglomerato",
+                    "egli avrà agglomerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adglomeraverĭmus",
+                "traduzioni": [
+                    "noi avremo accumulato",
+                    "noi avremo ammassato",
+                    "noi avremo agglomerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adglomeraverĭtis",
+                "traduzioni": [
+                    "voi avrete accumulato",
+                    "voi avrete ammassato",
+                    "voi avrete agglomerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adglomeravĕrint",
+                "traduzioni": [
+                    "loro avranno accumulato",
+                    "essi avranno accumulato",
+                    "loro avranno ammassato",
+                    "essi avranno ammassato",
+                    "loro avranno agglomerato",
+                    "essi avranno agglomerato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adglŏmĕrem",
+                "traduzioni": [
+                    "che io accumuli",
+                    "che io ammassi",
+                    "che io agglomeri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adglŏmĕres",
+                "traduzioni": [
+                    "che tu accumuli",
+                    "che tu ammassi",
+                    "che tu agglomeri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adglŏmĕret",
+                "traduzioni": [
+                    "che lui accumuli",
+                    "che lei accumuli",
+                    "che egli accumuli",
+                    "che lui ammassi",
+                    "che lei ammassi",
+                    "che egli ammassi",
+                    "che lui agglomeri",
+                    "che lei agglomeri",
+                    "che egli agglomeri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adglŏmĕrēmus",
+                "traduzioni": [
+                    "che noi accumuliamo",
+                    "che noi ammassiamo",
+                    "che noi agglomeriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adglŏmĕrētis",
+                "traduzioni": [
+                    "che voi accumuliate",
+                    "che voi ammassiate",
+                    "che voi agglomeriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adglŏmĕrent",
+                "traduzioni": [
+                    "che loro accumulino",
+                    "che essi accumulino",
+                    "che loro ammassino",
+                    "che essi ammassino",
+                    "che loro agglomerino",
+                    "che essi agglomerino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adglŏmĕrārem",
+                "traduzioni": [
+                    "che io accumulassi",
+                    "che io ammassassi",
+                    "che io agglomerassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adglŏmĕrāres",
+                "traduzioni": [
+                    "che tu accumulassi",
+                    "che tu ammassassi",
+                    "che tu agglomerassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adglŏmĕrāret",
+                "traduzioni": [
+                    "che lui accumulasse",
+                    "che lei accumulasse",
+                    "che egli accumulasse",
+                    "che lui ammassasse",
+                    "che lei ammassasse",
+                    "che egli ammassasse",
+                    "che lui agglomerasse",
+                    "che lei agglomerasse",
+                    "che egli agglomerasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adglŏmĕrarēmus",
+                "traduzioni": [
+                    "che noi accumulassimo",
+                    "che noi ammassassimo",
+                    "che noi agglomerassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adglŏmĕrarētis",
+                "traduzioni": [
+                    "che voi accumulaste",
+                    "che voi ammassaste",
+                    "che voi agglomeraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adglŏmĕrārent",
+                "traduzioni": [
+                    "che loro accumulassero",
+                    "che essi accumulassero",
+                    "che loro ammassassero",
+                    "che essi ammassassero",
+                    "che loro agglomerassero",
+                    "che essi agglomerassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adglomeravĕrim",
+                "traduzioni": [
+                    "che io abbia accumulato",
+                    "che io abbia ammassato",
+                    "che io abbia agglomerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adglomeravĕris",
+                "traduzioni": [
+                    "che tu abbia accumulato",
+                    "che tu abbia ammassato",
+                    "che tu abbia agglomerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adglomeravĕrit",
+                "traduzioni": [
+                    "che lui abbia accumulato",
+                    "che lei abbia accumulato",
+                    "che egli abbia accumulato",
+                    "che lui abbia ammassato",
+                    "che lei abbia ammassato",
+                    "che egli abbia ammassato",
+                    "che lui abbia agglomerato",
+                    "che lei abbia agglomerato",
+                    "che egli abbia agglomerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adglomeraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo accumulato",
+                    "che noi abbiamo ammassato",
+                    "che noi abbiamo agglomerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adglomeraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate accumulato",
+                    "che voi abbiate ammassato",
+                    "che voi abbiate agglomerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adglomeravĕrint",
+                "traduzioni": [
+                    "che loro abbiano accumulato",
+                    "che essi abbiano accumulato",
+                    "che loro abbiano ammassato",
+                    "che essi abbiano ammassato",
+                    "che loro abbiano agglomerato",
+                    "che essi abbiano agglomerato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adglomeravissem",
+                "traduzioni": [
+                    "che io avessi accumulato",
+                    "che io avessi ammassato",
+                    "che io avessi agglomerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adglomeravisses",
+                "traduzioni": [
+                    "che tu avessi accumulato",
+                    "che tu avessi ammassato",
+                    "che tu avessi agglomerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adglomeravisset",
+                "traduzioni": [
+                    "che lui avesse accumulato",
+                    "che lei avesse accumulato",
+                    "che egli avesse accumulato",
+                    "che lui avesse ammassato",
+                    "che lei avesse ammassato",
+                    "che egli avesse ammassato",
+                    "che lui avesse agglomerato",
+                    "che lei avesse agglomerato",
+                    "che egli avesse agglomerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adglomeravissēmus",
+                "traduzioni": [
+                    "che noi avessimo accumulato",
+                    "che noi avessimo ammassato",
+                    "che noi avessimo agglomerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adglomeravissētis",
+                "traduzioni": [
+                    "che voi aveste accumulato",
+                    "che voi aveste ammassato",
+                    "che voi aveste agglomerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adglomeravissent",
+                "traduzioni": [
+                    "che loro avessero accumulato",
+                    "che essi avessero accumulato",
+                    "che loro avessero ammassato",
+                    "che essi avessero ammassato",
+                    "che loro avessero agglomerato",
+                    "che essi avessero agglomerato"
+                ]
+            }
+        ]
+    }
+}

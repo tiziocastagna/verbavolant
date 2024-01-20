@@ -247,6 +247,9 @@ def find_latin_verb(verb_name):
     url = "https://www.dizionario-latino.com/dizionario-latino-flessione.php?lemma=" + verb_name +"100"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
+    if len(soup.find_all('b')) == 20:
+        return None
+
     divs = soup.find_all('div', class_="section group")
 
 
@@ -353,11 +356,17 @@ def find_latin_verb(verb_name):
 
 def save_verb(verb_name):
     verb = find_latin_verb(verb_name)
-    with open('./db/' + verb_name + '.json', 'w', encoding='utf-8') as json_file:
+    if verb == None:
+        print(verb_name + " not found")
+        return
+    with open('./db/' + verb_name.upper() + '.json', 'w', encoding='utf-8') as json_file:
         json.dump(verb, json_file, ensure_ascii=False, indent=4)
 
-verbs_to_save = ["AMO", "MITTO", "VIDEO", "AUDIO", "CAPIO", "SUM", "POSSUM", "ADSUM", "EO", "VOLO", "MALO", "NOLO", "FERO", "FIO"]
+verbs_to_save = [
+    "video"
+]
 
-for verb_name in verbs_to_save:
+for i in range(len(verbs_to_save)):
+    verb_name = verbs_to_save[i]
     save_verb(verb_name)
-    print(verb_name + " finished")
+    print(verb_name + " finished " + "[" + str(i + 1) + "/" + str(len(verbs_to_save)) + "]")
