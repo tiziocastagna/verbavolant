@@ -363,7 +363,7 @@ def save_verb(verb_name):
         json.dump(verb, json_file, ensure_ascii=False, indent=4)
 
 verbs_to_save = [
-    "video"
+    "venio"
 ]
 
 for i in range(len(verbs_to_save)):
