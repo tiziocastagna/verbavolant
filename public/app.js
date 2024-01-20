@@ -1,23 +1,18 @@
 class Question {
-    constructor(question, expected_answer) {
+    constructor(question, expected_answers) {
         this.question = question;
-        this.expected_answer = expected_answer;
+        this.expected_answers = expected_answers;
     }
     validate(answer) {
-        if(answer == this.expected_answer) {
+        if(this.expected_answers.includes(answer)) {
             return true;
         }
         return false;
     }
 }
 
-const moods = ["indicative", "subjective", "imperative", "infinite"];
-const tenses = ["present", "imperfect", "perfect", "plusperfect", "future", "future_perfect"];
-
-const Verbs = [Eo];
-
-function get_random_question() {
-    return Verbs[Math.floor(Math.random() * Verbs.length)].get_random_question(moods, tenses);
+function get_random_question(Verbs, filter) {
+    return get_random_question_from_verb(Verbs[Math.floor(Math.random() * Verbs.length)], filter);
 }
 
 function update_score(score, best_score, score_element, score_value, best_score_value, best=false, fail=false) {
@@ -32,7 +27,16 @@ function update_score(score, best_score, score_element, score_value, best_score_
     best_score_value.textContent = best_score;
 }
 
-window.onload = function() {
+window.onload = async function() {
+    const AMO = await get_verb_from_db("AMO");
+    const VIDEO = await get_verb_from_db("VIDEO");
+    const SUM = await get_verb_from_db("SUM");
+    const EO = await get_verb_from_db("EO");
+    const ADSUM = await get_verb_from_db("ADSUM");
+    const Verbs = [AMO ,VIDEO, SUM, EO, ADSUM];
+
+    const questionFilter = {"INDICATIVO": ["PRESENTE", "IMPERFETO", "FUTURO_SEMPLICE", "PERFETTO", "PIUCCHEPERFETTO", "FUTURO_ANTERIORE"], "CONGIUNTIVO": ["PRESENTE", "IMPERFETO", "PERFETTO", "PIUCCHEPERFETTO"]};
+
     let best_score = parseInt(localStorage.getItem("best_score")) || 0;
 
     const input = document.getElementById("input");
@@ -43,7 +47,7 @@ window.onload = function() {
 
     let score = 0;
     update_score(score, best_score, score_element, score_value, best_score_value);
-    let question = get_random_question();
+    let question = get_random_question(Verbs, questionFilter);
     question_element.innerText = question.question;
     input.onkeydown = event => {
         if (event.key === 'Enter') {
@@ -66,7 +70,7 @@ window.onload = function() {
                 input.disabled = false;
                 question_element.style.color = "white";
                 
-                question = get_random_question();
+                question = get_random_question(Verbs, questionFilter);
                 question_element.innerText = question.question;
                 input.value = "";
                 input.focus();
