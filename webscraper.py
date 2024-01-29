@@ -16,87 +16,87 @@ def find_italian_verb(name):
 
     columns = divs[0].find_all('div', class_='col span_1_of_2')
 
-    simple_tences = columns[0]
-    complex_tences = columns[1]
+    simple_tenses = columns[0]
+    complex_tenses = columns[1]
 
-    trs = simple_tences.find_all('tr')
+    trs = simple_tenses.find_all('tr')
 
-    tence = []
-    tence_name = ""
+    tense = []
+    tense_name = ""
     for tr in trs:
         if tr.get('bgcolor') == '#009900':
-            if len(tence) > 0:
-                Verb["INDICATIVO"].update({tence_name: tence})
-                tence = []
-            tence_name = tr.text.strip()
+            if len(tense) > 0:
+                Verb["INDICATIVO"].update({tense_name: tense})
+                tense = []
+            tense_name = tr.text.strip()
         else:
             tds = tr.find_all('td')
             verbo = ""
             for td in tds:
                 verbo += td.text.strip()
-            tence.append(verbo)
-    Verb["INDICATIVO"].update({tence_name: tence})
+            tense.append(verbo)
+    Verb["INDICATIVO"].update({tense_name: tense})
 
 
-    trs = complex_tences.find_all('tr')
+    trs = complex_tenses.find_all('tr')
 
-    tence = []
-    tence_name = ""
+    tense = []
+    tense_name = ""
     for tr in trs:
         if tr.get('bgcolor') == '#009900':
-            if len(tence) > 0:
-                Verb["INDICATIVO"].update({tence_name: tence})
-                tence = []
-            tence_name = tr.text.strip()
+            if len(tense) > 0:
+                Verb["INDICATIVO"].update({tense_name: tense})
+                tense = []
+            tense_name = tr.text.strip()
         else:
             tds = tr.find_all('td')
             verbo = ""
             for td in tds:
                 verbo += td.text.strip()
-            tence.append(verbo)
-    Verb["INDICATIVO"].update({tence_name: tence})
+            tense.append(verbo)
+    Verb["INDICATIVO"].update({tense_name: tense})
 
     columns = divs[1].find_all('div', class_='col span_1_of_2')
 
-    simple_tences = columns[0]
-    complex_tences = columns[1]
+    simple_tenses = columns[0]
+    complex_tenses = columns[1]
 
-    trs = simple_tences.find_all('tr')
+    trs = simple_tenses.find_all('tr')
 
-    tence = []
-    tence_name = ""
+    tense = []
+    tense_name = ""
     for tr in trs:
         if tr.get('bgcolor') == '#009900':
-            if len(tence) > 0:
-                Verb["CONGIUNTIVO"].update({tence_name: tence})
-                tence = []
-            tence_name = tr.text.strip()
+            if len(tense) > 0:
+                Verb["CONGIUNTIVO"].update({tense_name: tense})
+                tense = []
+            tense_name = tr.text.strip()
         else:
             tds = tr.find_all('td')
             verbo = ""
             for td in tds:
                 verbo += td.text.strip()
-            tence.append(verbo)
-    Verb["CONGIUNTIVO"].update({tence_name: tence})
+            tense.append(verbo)
+    Verb["CONGIUNTIVO"].update({tense_name: tense})
 
 
-    trs = complex_tences.find_all('tr')
+    trs = complex_tenses.find_all('tr')
 
-    tence = []
-    tence_name = ""
+    tense = []
+    tense_name = ""
     for tr in trs:
         if tr.get('bgcolor') == '#009900':
-            if len(tence) > 0:
-                Verb["CONGIUNTIVO"].update({tence_name: tence})
-                tence = []
-            tence_name = tr.text.strip()
+            if len(tense) > 0:
+                Verb["CONGIUNTIVO"].update({tense_name: tense})
+                tense = []
+            tense_name = tr.text.strip()
         else:
             tds = tr.find_all('td')
             verbo = ""
             for td in tds:
                 verbo += td.text.strip()
-            tence.append(verbo)
-    Verb["CONGIUNTIVO"].update({tence_name: tence})
+            tense.append(verbo)
+    Verb["CONGIUNTIVO"].update({tense_name: tense})
     return Verb
 
 person_map = {
@@ -121,7 +121,7 @@ def get_base_latin_verb_translations(verb_name):
                 translations.append(translation)
     return translations
 
-latin_to_italian_tences_map = {
+latin_to_italian_tenses_map = {
     "INDICATIVO": {
         "PRESENTE": "PRESENTE",
         "IMPERFETTO": "IMPERFETTO",
@@ -222,17 +222,17 @@ def add_spelling_options(verb):
             results.append(verb_part)
     return results
 
-def get_verb_translations(italian_verbs, mood, latin_tence, person):
+def get_verb_translations(italian_verbs, mood, latin_tense, person):
     translations = []
     for italian_verb in italian_verbs:
-        tences = latin_to_italian_tences_map[mood][latin_tence]
-        if str(tences) == tences:
-            translation = italian_verb[mood][tences][person_map[person]]
+        tenses = latin_to_italian_tenses_map[mood][latin_tense]
+        if str(tenses) == tenses:
+            translation = italian_verb[mood][tenses][person_map[person]]
             if (translation != "—" and translation != None):
                 translations += add_spelling_options(translation)
         else:
-            for tence in tences:
-                translation = italian_verb[mood][tence][person_map[person]]
+            for tense in tenses:
+                translation = italian_verb[mood][tense][person_map[person]]
                 if (translation != "—" and translation != None):
                     translations += add_spelling_options(translation)
     return translations
@@ -261,91 +261,91 @@ def find_latin_verb(verb_name):
 
     columns = divs[0].find_all('div', class_='col span_1_of_2')
 
-    simple_tences = columns[0]
-    complex_tences = columns[1]
+    simple_tenses = columns[0]
+    complex_tenses = columns[1]
 
-    trs = simple_tences.find_all('tr')
+    trs = simple_tenses.find_all('tr')
 
-    tence = []
-    tence_name = ""
+    tense = []
+    tense_name = ""
     for tr in trs:
         if tr.get('bgcolor') == '#008000':
-            if len(tence) > 0:
-                Verb["INDICATIVO"].update({tence_name: tence})
-                tence = []
-            tence_name = tr.text.strip()
+            if len(tense) > 0:
+                Verb["INDICATIVO"].update({tense_name: tense})
+                tense = []
+            tense_name = tr.text.strip()
         else:
             tds = tr.find_all('td')
             verbo = ""
             for td in tds[1:]:
                 verbo += td.text.strip()
             persona = tds[0].text.strip()
-            tence.append({"persona": persona, "verbo": verbo, "traduzioni": get_verb_translations(italian_verbs, "INDICATIVO", tence_name, persona)})
-    Verb["INDICATIVO"].update({tence_name: tence})
+            tense.append({"persona": persona, "verbo": verbo, "traduzioni": get_verb_translations(italian_verbs, "INDICATIVO", tense_name, persona)})
+    Verb["INDICATIVO"].update({tense_name: tense})
 
 
-    trs = complex_tences.find_all('tr')
+    trs = complex_tenses.find_all('tr')
 
-    tence = []
-    tence_name = ""
+    tense = []
+    tense_name = ""
     for tr in trs:
         if tr.get('bgcolor') == '#008000':
-            if len(tence) > 0:
-                Verb["INDICATIVO"].update({tence_name: tence})
-                tence = []
-            tence_name = tr.text.strip()
+            if len(tense) > 0:
+                Verb["INDICATIVO"].update({tense_name: tense})
+                tense = []
+            tense_name = tr.text.strip()
         else:
             tds = tr.find_all('td')
             verbo = ""
             for td in tds[1:]:
                 verbo += td.text.strip()
             persona = tds[0].text.strip()
-            tence.append({"persona": persona, "verbo": verbo, "traduzioni": get_verb_translations(italian_verbs, "INDICATIVO", tence_name, persona)})
-    Verb["INDICATIVO"].update({tence_name: tence})
+            tense.append({"persona": persona, "verbo": verbo, "traduzioni": get_verb_translations(italian_verbs, "INDICATIVO", tense_name, persona)})
+    Verb["INDICATIVO"].update({tense_name: tense})
 
     columns = divs[1].find_all('div', class_='col span_1_of_2')
 
-    simple_tences = columns[0]
-    complex_tences = columns[1]
+    simple_tenses = columns[0]
+    complex_tenses = columns[1]
 
-    trs = simple_tences.find_all('tr')
+    trs = simple_tenses.find_all('tr')
 
-    tence = []
-    tence_name = ""
+    tense = []
+    tense_name = ""
     for tr in trs:
         if tr.get('bgcolor') == '#008000':
-            if len(tence) > 0:
-                Verb["CONGIUNTIVO"].update({tence_name: tence})
-                tence = []
-            tence_name = tr.text.strip()
+            if len(tense) > 0:
+                Verb["CONGIUNTIVO"].update({tense_name: tense})
+                tense = []
+            tense_name = tr.text.strip()
         else:
             tds = tr.find_all('td')
             verbo = ""
             for td in tds[1:]:
                 verbo += td.text.strip()
             persona = tds[0].text.strip()
-            tence.append({"persona": persona, "verbo": verbo, "traduzioni": get_verb_translations(italian_verbs, "CONGIUNTIVO", tence_name, persona)})
-    Verb["CONGIUNTIVO"].update({tence_name: tence})
+            tense.append({"persona": persona, "verbo": verbo, "traduzioni": get_verb_translations(italian_verbs, "CONGIUNTIVO", tense_name, persona)})
+    Verb["CONGIUNTIVO"].update({tense_name: tense})
 
 
-    trs = complex_tences.find_all('tr')
+    trs = complex_tenses.find_all('tr')
 
-    tence = []
-    tence_name = ""
+    tense = []
+    tense_name = ""
     for tr in trs:
         if tr.get('bgcolor') == '#008000':
-            if len(tence) > 0:
-                Verb["CONGIUNTIVO"].update({tence_name: tence})
-                tence = []
-            tence_name = tr.text.strip()
+            if len(tense) > 0:
+                Verb["CONGIUNTIVO"].update({tense_name: tense})
+                tense = []
+            tense_name = tr.text.strip()
         else:
             tds = tr.find_all('td')
             verbo = ""
             for td in tds[1:]:
                 verbo += td.text.strip()
             persona = tds[0].text.strip()
-            tence.append({"persona": persona, "verbo": verbo, "traduzioni": get_verb_translations(italian_verbs, "CONGIUNTIVO", tence_name, persona)})
-    Verb["CONGIUNTIVO"].update({tence_name: tence})
+            tense.append({"persona": persona, "verbo": verbo, "traduzioni": get_verb_translations(italian_verbs, "CONGIUNTIVO", tense_name, persona)})
+    Verb["CONGIUNTIVO"].update({tense_name: tense})
     return Verb
 
 def save_verb(verb_name):
@@ -361,4 +361,3 @@ with open('./db/verbs.json', 'r') as file:
     for i in range(len(verbs_to_save)):
         verb_name = verbs_to_save[i]
         save_verb(verb_name)
-        print(verb_name + " finished " + "[" + str(i + 1) + "/" + str(len(verbs_to_save)) + "]")

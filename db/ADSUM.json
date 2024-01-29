@@ -1,0 +1,751 @@
+{
+    "translation": [
+        "venire",
+        "(in politica o in giudizio) assistere",
+        "difendere",
+        "patrocinare"
+    ],
+    "valid_translations": [
+        "venire",
+        "difendere",
+        "patrocinare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adsum",
+                "traduzioni": [
+                    "io vengo",
+                    "io difendo",
+                    "io patrocino"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ades",
+                "traduzioni": [
+                    "tu vieni",
+                    "tu difendi",
+                    "tu patrocini"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adest",
+                "traduzioni": [
+                    "lui viene",
+                    "lei viene",
+                    "egli viene",
+                    "lui difende",
+                    "lei difende",
+                    "egli difende",
+                    "lui patrocina",
+                    "lei patrocina",
+                    "egli patrocina"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adsumus",
+                "traduzioni": [
+                    "noi veniamo",
+                    "noi difendiamo",
+                    "noi patrociniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adestis",
+                "traduzioni": [
+                    "voi venite",
+                    "voi difendete",
+                    "voi patrocinate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adsunt",
+                "traduzioni": [
+                    "loro vengono",
+                    "essi vengono",
+                    "loro difendono",
+                    "essi difendono",
+                    "loro patrocinano",
+                    "essi patrocinano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "aderam",
+                "traduzioni": [
+                    "io venivo",
+                    "io difendevo",
+                    "io patrocinavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "aderas",
+                "traduzioni": [
+                    "tu venivi",
+                    "tu difendevi",
+                    "tu patrocinavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "aderat",
+                "traduzioni": [
+                    "lui veniva",
+                    "lei veniva",
+                    "egli veniva",
+                    "lui difendeva",
+                    "lei difendeva",
+                    "egli difendeva",
+                    "lui patrocinava",
+                    "lei patrocinava",
+                    "egli patrocinava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aderāmus",
+                "traduzioni": [
+                    "noi venivamo",
+                    "noi difendevamo",
+                    "noi patrocinavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aderātis",
+                "traduzioni": [
+                    "voi venivate",
+                    "voi difendevate",
+                    "voi patrocinavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aderant",
+                "traduzioni": [
+                    "loro venivano",
+                    "essi venivano",
+                    "loro difendevano",
+                    "essi difendevano",
+                    "loro patrocinavano",
+                    "essi patrocinavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adĕro",
+                "traduzioni": [
+                    "io verrò",
+                    "io difenderò",
+                    "io patrocinerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adĕris",
+                "traduzioni": [
+                    "tu verrai",
+                    "tu difenderai",
+                    "tu patrocinerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adĕrit",
+                "traduzioni": [
+                    "lui verrà",
+                    "lei verrà",
+                    "egli verrà",
+                    "lui difenderà",
+                    "lei difenderà",
+                    "egli difenderà",
+                    "lui patrocinerà",
+                    "lei patrocinerà",
+                    "egli patrocinerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aderĭmus",
+                "traduzioni": [
+                    "noi verremo",
+                    "noi difenderemo",
+                    "noi patrocineremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aderĭtis",
+                "traduzioni": [
+                    "voi verrete",
+                    "voi difenderete",
+                    "voi patrocinerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aderunt",
+                "traduzioni": [
+                    "loro verranno",
+                    "essi verranno",
+                    "loro difenderanno",
+                    "essi difenderanno",
+                    "loro patrocineranno",
+                    "essi patrocineranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adfui",
+                "traduzioni": [
+                    "io venni",
+                    "io sono venuto",
+                    "io sono venuta",
+                    "io fui venuto",
+                    "io fui venuta",
+                    "io difesi",
+                    "io ho difeso",
+                    "io ebbi difeso",
+                    "io patrocinai",
+                    "io ho patrocinato",
+                    "io ebbi patrocinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adfuisti",
+                "traduzioni": [
+                    "tu venisti",
+                    "tu sei venuto",
+                    "tu sei venuta",
+                    "tu fosti venuto",
+                    "tu fosti venuta",
+                    "tu difendesti",
+                    "tu hai difeso",
+                    "tu avesti difeso",
+                    "tu patrocinasti",
+                    "tu hai patrocinato",
+                    "tu avesti patrocinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adfuit",
+                "traduzioni": [
+                    "lui venne",
+                    "lei venne",
+                    "egli venne",
+                    "lui è venuto",
+                    "lei è venuta",
+                    "egli è venuto",
+                    "lui fu venuto",
+                    "lei fu venuta",
+                    "egli fu venuto",
+                    "lui difese",
+                    "lei difese",
+                    "egli difese",
+                    "lui ha difeso",
+                    "lei ha difeso",
+                    "egli ha difeso",
+                    "lui ebbe difeso",
+                    "lei ebbe difeso",
+                    "egli ebbe difeso",
+                    "lui patrocinò",
+                    "lei patrocinò",
+                    "egli patrocinò",
+                    "lui ha patrocinato",
+                    "lei ha patrocinato",
+                    "egli ha patrocinato",
+                    "lui ebbe patrocinato",
+                    "lei ebbe patrocinato",
+                    "egli ebbe patrocinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adfuĭmus",
+                "traduzioni": [
+                    "noi venimmo",
+                    "noi siamo venuti",
+                    "noi siamo venute",
+                    "noi fummo venuti",
+                    "noi fummo venute",
+                    "noi difendemmo",
+                    "noi abbiamo difeso",
+                    "noi avemmo difeso",
+                    "noi patrocinammo",
+                    "noi abbiamo patrocinato",
+                    "noi avemmo patrocinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adfuistis",
+                "traduzioni": [
+                    "voi veniste",
+                    "voi siete venuti",
+                    "voi siete venute",
+                    "voi foste venuti",
+                    "voi foste venute",
+                    "voi difendeste",
+                    "voi avete difeso",
+                    "voi aveste difeso",
+                    "voi patrocinaste",
+                    "voi avete patrocinato",
+                    "voi aveste patrocinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adfuērunt, adfuēre",
+                "traduzioni": [
+                    "loro vennero",
+                    "essi vennero",
+                    "loro sono venuti",
+                    "loro sono venute",
+                    "essi sono venuti",
+                    "loro furono venuti",
+                    "loro furono venute",
+                    "essi furono venuti",
+                    "loro difesero",
+                    "essi difesero",
+                    "loro hanno difeso",
+                    "essi hanno difeso",
+                    "loro ebbero difeso",
+                    "essi ebbero difeso",
+                    "loro patrocinarono",
+                    "essi patrocinarono",
+                    "loro hanno patrocinato",
+                    "essi hanno patrocinato",
+                    "loro ebbero patrocinato",
+                    "essi ebbero patrocinato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adfuĕram",
+                "traduzioni": [
+                    "io ero venuto",
+                    "io ero venuta",
+                    "io avevo difeso",
+                    "io avevo patrocinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adfuĕras",
+                "traduzioni": [
+                    "tu eri venuto",
+                    "tu eri venuta",
+                    "tu avevi difeso",
+                    "tu avevi patrocinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adfuĕrat",
+                "traduzioni": [
+                    "lui era venuto",
+                    "lei era venuta",
+                    "egli era venuto",
+                    "lui aveva difeso",
+                    "lei aveva difeso",
+                    "egli aveva difeso",
+                    "lui aveva patrocinato",
+                    "lei aveva patrocinato",
+                    "egli aveva patrocinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adfuerāmus",
+                "traduzioni": [
+                    "noi eravamo venuti",
+                    "noi eravamo venute",
+                    "noi avevamo difeso",
+                    "noi avevamo patrocinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adfuerātis",
+                "traduzioni": [
+                    "voi eravate venuti",
+                    "voi eravate venute",
+                    "voi avevate difeso",
+                    "voi avevate patrocinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adfuērant",
+                "traduzioni": [
+                    "loro erano venuti",
+                    "loro erano venute",
+                    "essi erano venuti",
+                    "loro avevano difeso",
+                    "essi avevano difeso",
+                    "loro avevano patrocinato",
+                    "essi avevano patrocinato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adfuĕro",
+                "traduzioni": [
+                    "io sarò venuto",
+                    "io sarò venuta",
+                    "io avrò difeso",
+                    "io avrò patrocinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adfuĕris",
+                "traduzioni": [
+                    "tu sarai venuto",
+                    "tu sarai venuta",
+                    "tu avrai difeso",
+                    "tu avrai patrocinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adfuĕrit",
+                "traduzioni": [
+                    "lui sarà venuto",
+                    "lei sarà venuta",
+                    "egli sarà venuto",
+                    "lui avrà difeso",
+                    "lei avrà difeso",
+                    "egli avrà difeso",
+                    "lui avrà patrocinato",
+                    "lei avrà patrocinato",
+                    "egli avrà patrocinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adfuĕrimus",
+                "traduzioni": [
+                    "noi saremo venuti",
+                    "noi saremo venute",
+                    "noi avremo difeso",
+                    "noi avremo patrocinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adfuĕritis",
+                "traduzioni": [
+                    "voi sarete venuti",
+                    "voi sarete venute",
+                    "voi avrete difeso",
+                    "voi avrete patrocinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adfuĕrint",
+                "traduzioni": [
+                    "loro saranno venuti",
+                    "loro saranno venute",
+                    "essi saranno venuti",
+                    "loro avranno difeso",
+                    "essi avranno difeso",
+                    "loro avranno patrocinato",
+                    "essi avranno patrocinato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adsim, adisem",
+                "traduzioni": [
+                    "che io venga",
+                    "che io difenda",
+                    "che io patrocini"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adsis, adsies",
+                "traduzioni": [
+                    "che tu venga",
+                    "che tu difenda",
+                    "che tu patrocini"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adsit, adsiet",
+                "traduzioni": [
+                    "che lui venga",
+                    "che lei venga",
+                    "che egli venga",
+                    "che lui difenda",
+                    "che lei difenda",
+                    "che egli difenda",
+                    "che lui patrocini",
+                    "che lei patrocini",
+                    "che egli patrocini"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adsīmus",
+                "traduzioni": [
+                    "che noi veniamo",
+                    "che noi difendiamo",
+                    "che noi patrociniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adsītis",
+                "traduzioni": [
+                    "che voi veniate",
+                    "che voi difendiate",
+                    "che voi patrociniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adsint, adsient",
+                "traduzioni": [
+                    "che loro vengano",
+                    "che essi vengano",
+                    "che loro difendano",
+                    "che essi difendano",
+                    "che loro patrocinino",
+                    "che essi patrocinino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adessem",
+                "traduzioni": [
+                    "che io venissi",
+                    "che io difendessi",
+                    "che io patrocinassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adesses",
+                "traduzioni": [
+                    "che tu venissi",
+                    "che tu difendessi",
+                    "che tu patrocinassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adesset",
+                "traduzioni": [
+                    "che lui venisse",
+                    "che lei venisse",
+                    "che egli venisse",
+                    "che lui difendesse",
+                    "che lei difendesse",
+                    "che egli difendesse",
+                    "che lui patrocinasse",
+                    "che lei patrocinasse",
+                    "che egli patrocinasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adessemus",
+                "traduzioni": [
+                    "che noi venissimo",
+                    "che noi difendessimo",
+                    "che noi patrocinassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adessetis",
+                "traduzioni": [
+                    "che voi veniste",
+                    "che voi difendeste",
+                    "che voi patrocinaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adessent",
+                "traduzioni": [
+                    "che loro venissero",
+                    "che essi venissero",
+                    "che loro difendessero",
+                    "che essi difendessero",
+                    "che loro patrocinassero",
+                    "che essi patrocinassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adfuĕrim",
+                "traduzioni": [
+                    "che io sia venuto",
+                    "che io sia venuta",
+                    "che io abbia difeso",
+                    "che io abbia patrocinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adfuĕris",
+                "traduzioni": [
+                    "che tu sia venuto",
+                    "che tu sia venuta",
+                    "che tu abbia difeso",
+                    "che tu abbia patrocinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adfuĕrit",
+                "traduzioni": [
+                    "che lui sia venuto",
+                    "che lei sia venuta",
+                    "che egli sia venuto",
+                    "che lui abbia difeso",
+                    "che lei abbia difeso",
+                    "che egli abbia difeso",
+                    "che lui abbia patrocinato",
+                    "che lei abbia patrocinato",
+                    "che egli abbia patrocinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adfuerĭmus",
+                "traduzioni": [
+                    "che noi siamo venuti",
+                    "che noi siamo venute",
+                    "che noi abbiamo difeso",
+                    "che noi abbiamo patrocinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adfuerĭtis",
+                "traduzioni": [
+                    "che voi siate venuti",
+                    "che voi siate venute",
+                    "che voi abbiate difeso",
+                    "che voi abbiate patrocinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adfuĕrint",
+                "traduzioni": [
+                    "che loro siano venuti",
+                    "che loro siano venute",
+                    "che essi siano venuti",
+                    "che loro abbiano difeso",
+                    "che essi abbiano difeso",
+                    "che loro abbiano patrocinato",
+                    "che essi abbiano patrocinato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adfuissem",
+                "traduzioni": [
+                    "che io fossi venuto",
+                    "che io fossi venuta",
+                    "che io avessi difeso",
+                    "che io avessi patrocinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adfuisses",
+                "traduzioni": [
+                    "che tu fossi venuto",
+                    "che tu fossi venuta",
+                    "che tu avessi difeso",
+                    "che tu avessi patrocinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adfuisset",
+                "traduzioni": [
+                    "che lui fosse venuto",
+                    "che lei fosse venuta",
+                    "che egli fosse venuto",
+                    "che lui avesse difeso",
+                    "che lei avesse difeso",
+                    "che egli avesse difeso",
+                    "che lui avesse patrocinato",
+                    "che lei avesse patrocinato",
+                    "che egli avesse patrocinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adfuissemus",
+                "traduzioni": [
+                    "che noi fossimo venuti",
+                    "che noi fossimo venute",
+                    "che noi avessimo difeso",
+                    "che noi avessimo patrocinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adfuissetis",
+                "traduzioni": [
+                    "che voi foste venuti",
+                    "che voi foste venute",
+                    "che voi aveste difeso",
+                    "che voi aveste patrocinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adfuissent",
+                "traduzioni": [
+                    "che loro fossero venuti",
+                    "che loro fossero venute",
+                    "che essi fossero venuti",
+                    "che loro avessero difeso",
+                    "che essi avessero difeso",
+                    "che loro avessero patrocinato",
+                    "che essi avessero patrocinato"
+                ]
+            }
+        ]
+    }
+}

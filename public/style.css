@@ -14,13 +14,31 @@ p {
     margin: 10px 0;
 }
 
-#UI_container {
+#center_div {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+    color: #d3d3d3;
     background-color: #383c4a;
     text-align: center;
     width: 300px;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#right_div {
+    position: absolute;
+    right: 0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+    color: #d3d3d3;
+    background-color: #383c4a;
+    text-align: center;
+    width: 15%;
+    height: 100%;
     align-items: flex-start;
     display: flex;
     flex-direction: column;
@@ -40,11 +58,11 @@ p {
     border-radius: 4px;
     width: 200px;
     color: #000;
-    background-color: #fff;
+    background-color: #d3d3d3;
 }
 
 .score {
-    color: white;
+    color: #d3d3d3;
 }
 
 .score.best {

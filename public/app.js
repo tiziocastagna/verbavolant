@@ -68,7 +68,7 @@ window.onload = async function() {
             input.disabled = true;
             setTimeout(() => {
                 input.disabled = false;
-                question_element.style.color = "white";
+                question_element.style.color = "#d3d3d3";
                 
                 question = get_random_question(Verbs, questionFilter);
                 question_element.innerText = question.question;

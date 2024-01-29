@@ -1,18 +1,7 @@
 async function get_verb_from_db(verb_name) {
     const fileTitle = verb_name;
-
-    try {
-        const response = await fetch(`/api/getFile/${fileTitle}`);
-
-        if (!response.ok) {
-            throw new Error(`HTTP error! Status: ${response.status}`);
-        }
-
-        return response.json();
-    } catch (error) {
-        console.error('Fetch error:', error);
-        throw error;
-    }
+    const response = await fetch(`/api/getFile/${fileTitle}`);
+    return response.json();
 }
 
 function get_random_question_from_verb(verb, filter) {
