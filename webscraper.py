@@ -186,10 +186,7 @@ def add_spelling_options(verb):
             else:
                 results.append("lui" + verb_part[7:])
                 results.append("lei" + verb_part[7:])
-                if verb_part[-1] == "a":
-                    results.append("egli" + verb_part[7:-1] + "o")
-                else:
-                    results.append("egli" + verb_part[7:])
+                results.append("egli" + verb_part[7:])
         elif verb_part[:11] == "che lui/lei":
             if verb_part[-3:] == "o/a":
                 results.append("che lui" + verb_part[11:-3] + "o")
@@ -198,10 +195,7 @@ def add_spelling_options(verb):
             else:
                 results.append("che lui" + verb_part[11:])
                 results.append("che lei" + verb_part[11:])
-                if verb_part[-1] == "a":
-                    results.append("che egli" + verb_part[11:-1] + "o")
-                else:
-                    results.append("che egli" + verb_part[11:])
+                results.append("che egli" + verb_part[11:])
         elif verb_part[:4] == "loro":
             if verb_part[-3:] == "i/e":
                 results.append(verb_part[:-3] + "i")
@@ -362,11 +356,9 @@ def save_verb(verb_name):
     with open('./db/' + verb_name.upper() + '.json', 'w', encoding='utf-8') as json_file:
         json.dump(verb, json_file, ensure_ascii=False, indent=4)
 
-verbs_to_save = [
-    "venio"
-]
-
-for i in range(len(verbs_to_save)):
-    verb_name = verbs_to_save[i]
-    save_verb(verb_name)
-    print(verb_name + " finished " + "[" + str(i + 1) + "/" + str(len(verbs_to_save)) + "]")
+with open('./db/verbs.json', 'r') as file:
+    verbs_to_save = json.load(file)
+    for i in range(len(verbs_to_save)):
+        verb_name = verbs_to_save[i]
+        save_verb(verb_name)
+        print(verb_name + " finished " + "[" + str(i + 1) + "/" + str(len(verbs_to_save)) + "]")
