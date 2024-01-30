@@ -1,0 +1,722 @@
+{
+    "identifier": "MINGO",
+    "conuigazione": "3",
+    "translation": [
+        "mingere",
+        "orinare",
+        "eiaculare"
+    ],
+    "valid_translations": [
+        "mingere",
+        "orinare",
+        "eiaculare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "mingo",
+                "traduzioni": [
+                    "io mingo",
+                    "io orino",
+                    "io eiaculo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "mingis",
+                "traduzioni": [
+                    "tu mingi",
+                    "tu orini",
+                    "tu eiaculi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "mingit",
+                "traduzioni": [
+                    "lui minge",
+                    "lei minge",
+                    "egli minge",
+                    "lui orina",
+                    "lei orina",
+                    "egli orina",
+                    "lui eiacula",
+                    "lei eiacula",
+                    "egli eiacula"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mingĭmus",
+                "traduzioni": [
+                    "noi mingiamo",
+                    "noi oriniamo",
+                    "noi eiaculiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mingĭtis",
+                "traduzioni": [
+                    "voi mingete",
+                    "voi orinate",
+                    "voi eiaculate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mingunt",
+                "traduzioni": [
+                    "loro mingono",
+                    "essi mingono",
+                    "loro orinano",
+                    "essi orinano",
+                    "loro eiaculano",
+                    "essi eiaculano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "mingēbam",
+                "traduzioni": [
+                    "io mingevo",
+                    "io orinavo",
+                    "io eiaculavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "mingēbas",
+                "traduzioni": [
+                    "tu mingevi",
+                    "tu orinavi",
+                    "tu eiaculavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "mingēbat",
+                "traduzioni": [
+                    "lui mingeva",
+                    "lei mingeva",
+                    "egli mingeva",
+                    "lui orinava",
+                    "lei orinava",
+                    "egli orinava",
+                    "lui eiaculava",
+                    "lei eiaculava",
+                    "egli eiaculava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mingebāmus",
+                "traduzioni": [
+                    "noi mingevamo",
+                    "noi orinavamo",
+                    "noi eiaculavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mingebātis",
+                "traduzioni": [
+                    "voi mingevate",
+                    "voi orinavate",
+                    "voi eiaculavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mingēbant",
+                "traduzioni": [
+                    "loro mingevano",
+                    "essi mingevano",
+                    "loro orinavano",
+                    "essi orinavano",
+                    "loro eiaculavano",
+                    "essi eiaculavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "mingam",
+                "traduzioni": [
+                    "io mingerò",
+                    "io orinerò",
+                    "io eiaculerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "minges",
+                "traduzioni": [
+                    "tu mingerai",
+                    "tu orinerai",
+                    "tu eiaculerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "minget",
+                "traduzioni": [
+                    "lui mingerà",
+                    "lei mingerà",
+                    "egli mingerà",
+                    "lui orinerà",
+                    "lei orinerà",
+                    "egli orinerà",
+                    "lui eiaculerà",
+                    "lei eiaculerà",
+                    "egli eiaculerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mingēmus",
+                "traduzioni": [
+                    "noi mingeremo",
+                    "noi orineremo",
+                    "noi eiaculeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mingētis",
+                "traduzioni": [
+                    "voi mingerete",
+                    "voi orinerete",
+                    "voi eiaculerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mingent",
+                "traduzioni": [
+                    "loro mingeranno",
+                    "essi mingeranno",
+                    "loro orineranno",
+                    "essi orineranno",
+                    "loro eiaculeranno",
+                    "essi eiaculeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "minxi",
+                "traduzioni": [
+                    "io minsi",
+                    "io ho minto",
+                    "io ebbi minto",
+                    "io orinai",
+                    "io ho orinato",
+                    "io ebbi orinato",
+                    "io eiaculai",
+                    "io ho eiaculato",
+                    "io ebbi eiaculato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "minxisti",
+                "traduzioni": [
+                    "tu mingesti",
+                    "tu hai minto",
+                    "tu avesti minto",
+                    "tu orinasti",
+                    "tu hai orinato",
+                    "tu avesti orinato",
+                    "tu eiaculasti",
+                    "tu hai eiaculato",
+                    "tu avesti eiaculato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "minxit",
+                "traduzioni": [
+                    "lui minse",
+                    "lei minse",
+                    "egli minse",
+                    "lui ha minto",
+                    "lei ha minto",
+                    "egli ha minto",
+                    "lui ebbe minto",
+                    "lei ebbe minto",
+                    "egli ebbe minto",
+                    "lui orinò",
+                    "lei orinò",
+                    "egli orinò",
+                    "lui ha orinato",
+                    "lei ha orinato",
+                    "egli ha orinato",
+                    "lui ebbe orinato",
+                    "lei ebbe orinato",
+                    "egli ebbe orinato",
+                    "lui eiaculò",
+                    "lei eiaculò",
+                    "egli eiaculò",
+                    "lui ha eiaculato",
+                    "lei ha eiaculato",
+                    "egli ha eiaculato",
+                    "lui ebbe eiaculato",
+                    "lei ebbe eiaculato",
+                    "egli ebbe eiaculato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "minxĭmus",
+                "traduzioni": [
+                    "noi mingemmo",
+                    "noi abbiamo minto",
+                    "noi avemmo minto",
+                    "noi orinammo",
+                    "noi abbiamo orinato",
+                    "noi avemmo orinato",
+                    "noi eiaculammo",
+                    "noi abbiamo eiaculato",
+                    "noi avemmo eiaculato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "minxistis",
+                "traduzioni": [
+                    "voi mingeste",
+                    "voi avete minto",
+                    "voi aveste minto",
+                    "voi orinaste",
+                    "voi avete orinato",
+                    "voi aveste orinato",
+                    "voi eiaculaste",
+                    "voi avete eiaculato",
+                    "voi aveste eiaculato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "minxērunt, minxēre",
+                "traduzioni": [
+                    "loro minsero",
+                    "essi minsero",
+                    "loro hanno minto",
+                    "essi hanno minto",
+                    "loro ebbero minto",
+                    "essi ebbero minto",
+                    "loro orinarono",
+                    "essi orinarono",
+                    "loro hanno orinato",
+                    "essi hanno orinato",
+                    "loro ebbero orinato",
+                    "essi ebbero orinato",
+                    "loro eiacularono",
+                    "essi eiacularono",
+                    "loro hanno eiaculato",
+                    "essi hanno eiaculato",
+                    "loro ebbero eiaculato",
+                    "essi ebbero eiaculato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "minxĕram",
+                "traduzioni": [
+                    "io avevo minto",
+                    "io avevo orinato",
+                    "io avevo eiaculato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "minxĕras",
+                "traduzioni": [
+                    "tu avevi minto",
+                    "tu avevi orinato",
+                    "tu avevi eiaculato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "minxĕrat",
+                "traduzioni": [
+                    "lui aveva minto",
+                    "lei aveva minto",
+                    "egli aveva minto",
+                    "lui aveva orinato",
+                    "lei aveva orinato",
+                    "egli aveva orinato",
+                    "lui aveva eiaculato",
+                    "lei aveva eiaculato",
+                    "egli aveva eiaculato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "minxerāmus",
+                "traduzioni": [
+                    "noi avevamo minto",
+                    "noi avevamo orinato",
+                    "noi avevamo eiaculato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "minxerātis",
+                "traduzioni": [
+                    "voi avevate minto",
+                    "voi avevate orinato",
+                    "voi avevate eiaculato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "minxĕrant",
+                "traduzioni": [
+                    "loro avevano minto",
+                    "essi avevano minto",
+                    "loro avevano orinato",
+                    "essi avevano orinato",
+                    "loro avevano eiaculato",
+                    "essi avevano eiaculato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "minxĕro",
+                "traduzioni": [
+                    "io avrò minto",
+                    "io avrò orinato",
+                    "io avrò eiaculato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "minxĕris",
+                "traduzioni": [
+                    "tu avrai minto",
+                    "tu avrai orinato",
+                    "tu avrai eiaculato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "minxĕrit",
+                "traduzioni": [
+                    "lui avrà minto",
+                    "lei avrà minto",
+                    "egli avrà minto",
+                    "lui avrà orinato",
+                    "lei avrà orinato",
+                    "egli avrà orinato",
+                    "lui avrà eiaculato",
+                    "lei avrà eiaculato",
+                    "egli avrà eiaculato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "minxerĭmus",
+                "traduzioni": [
+                    "noi avremo minto",
+                    "noi avremo orinato",
+                    "noi avremo eiaculato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "minxerĭtis",
+                "traduzioni": [
+                    "voi avrete minto",
+                    "voi avrete orinato",
+                    "voi avrete eiaculato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "minxĕrint",
+                "traduzioni": [
+                    "loro avranno minto",
+                    "essi avranno minto",
+                    "loro avranno orinato",
+                    "essi avranno orinato",
+                    "loro avranno eiaculato",
+                    "essi avranno eiaculato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "mingam",
+                "traduzioni": [
+                    "che io minga",
+                    "che io orini",
+                    "che io eiaculi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "mingas",
+                "traduzioni": [
+                    "che tu minga",
+                    "che tu orini",
+                    "che tu eiaculi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "mingat",
+                "traduzioni": [
+                    "che lui minga",
+                    "che lei minga",
+                    "che egli minga",
+                    "che lui orini",
+                    "che lei orini",
+                    "che egli orini",
+                    "che lui eiaculi",
+                    "che lei eiaculi",
+                    "che egli eiaculi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mingāmus",
+                "traduzioni": [
+                    "che noi mingiamo",
+                    "che noi oriniamo",
+                    "che noi eiaculiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mingātis",
+                "traduzioni": [
+                    "che voi mingiate",
+                    "che voi oriniate",
+                    "che voi eiaculiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mingant",
+                "traduzioni": [
+                    "che loro mingano",
+                    "che essi mingano",
+                    "che loro orinino",
+                    "che essi orinino",
+                    "che loro eiaculino",
+                    "che essi eiaculino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "mingĕrem",
+                "traduzioni": [
+                    "che io mingessi",
+                    "che io orinassi",
+                    "che io eiaculassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "mingĕres",
+                "traduzioni": [
+                    "che tu mingessi",
+                    "che tu orinassi",
+                    "che tu eiaculassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "mingĕret",
+                "traduzioni": [
+                    "che lui mingesse",
+                    "che lei mingesse",
+                    "che egli mingesse",
+                    "che lui orinasse",
+                    "che lei orinasse",
+                    "che egli orinasse",
+                    "che lui eiaculasse",
+                    "che lei eiaculasse",
+                    "che egli eiaculasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mingerēmus",
+                "traduzioni": [
+                    "che noi mingessimo",
+                    "che noi orinassimo",
+                    "che noi eiaculassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mingerētis",
+                "traduzioni": [
+                    "che voi mingeste",
+                    "che voi orinaste",
+                    "che voi eiaculaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mingĕrent",
+                "traduzioni": [
+                    "che loro mingessero",
+                    "che essi mingessero",
+                    "che loro orinassero",
+                    "che essi orinassero",
+                    "che loro eiaculassero",
+                    "che essi eiaculassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "minxĕrim",
+                "traduzioni": [
+                    "che io abbia minto",
+                    "che io abbia orinato",
+                    "che io abbia eiaculato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "minxĕris",
+                "traduzioni": [
+                    "che tu abbia minto",
+                    "che tu abbia orinato",
+                    "che tu abbia eiaculato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "minxĕrit",
+                "traduzioni": [
+                    "che lui abbia minto",
+                    "che lei abbia minto",
+                    "che egli abbia minto",
+                    "che lui abbia orinato",
+                    "che lei abbia orinato",
+                    "che egli abbia orinato",
+                    "che lui abbia eiaculato",
+                    "che lei abbia eiaculato",
+                    "che egli abbia eiaculato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "minxerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo minto",
+                    "che noi abbiamo orinato",
+                    "che noi abbiamo eiaculato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "minxerĭtis",
+                "traduzioni": [
+                    "che voi abbiate minto",
+                    "che voi abbiate orinato",
+                    "che voi abbiate eiaculato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "minxĕrint",
+                "traduzioni": [
+                    "che loro abbiano minto",
+                    "che essi abbiano minto",
+                    "che loro abbiano orinato",
+                    "che essi abbiano orinato",
+                    "che loro abbiano eiaculato",
+                    "che essi abbiano eiaculato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "minxissem",
+                "traduzioni": [
+                    "che io avessi minto",
+                    "che io avessi orinato",
+                    "che io avessi eiaculato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "minxisses",
+                "traduzioni": [
+                    "che tu avessi minto",
+                    "che tu avessi orinato",
+                    "che tu avessi eiaculato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "minxisset",
+                "traduzioni": [
+                    "che lui avesse minto",
+                    "che lei avesse minto",
+                    "che egli avesse minto",
+                    "che lui avesse orinato",
+                    "che lei avesse orinato",
+                    "che egli avesse orinato",
+                    "che lui avesse eiaculato",
+                    "che lei avesse eiaculato",
+                    "che egli avesse eiaculato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "minxissēmus",
+                "traduzioni": [
+                    "che noi avessimo minto",
+                    "che noi avessimo orinato",
+                    "che noi avessimo eiaculato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "minxissētis",
+                "traduzioni": [
+                    "che voi aveste minto",
+                    "che voi aveste orinato",
+                    "che voi aveste eiaculato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "minxissent",
+                "traduzioni": [
+                    "che loro avessero minto",
+                    "che essi avessero minto",
+                    "che loro avessero orinato",
+                    "che essi avessero orinato",
+                    "che loro avessero eiaculato",
+                    "che essi avessero eiaculato"
+                ]
+            }
+        ]
+    }
+}

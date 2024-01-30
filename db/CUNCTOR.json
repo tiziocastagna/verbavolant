@@ -1,0 +1,832 @@
+{
+    "identifier": "CUNCTOR",
+    "conuigazione": "1",
+    "translation": [
+        "indugiare",
+        "temporeggiare",
+        "esitare",
+        "dubitare"
+    ],
+    "valid_translations": [
+        "indugiare",
+        "temporeggiare",
+        "esitare",
+        "dubitare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cunctor",
+                "traduzioni": [
+                    "io indugio",
+                    "io temporeggio",
+                    "io esito",
+                    "io dubito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cunctāris, cunctāre",
+                "traduzioni": [
+                    "tu indugi",
+                    "tu temporeggi",
+                    "tu esiti",
+                    "tu dubiti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cunctātur",
+                "traduzioni": [
+                    "lui indugia",
+                    "lei indugia",
+                    "egli indugia",
+                    "lui temporeggia",
+                    "lei temporeggia",
+                    "egli temporeggia",
+                    "lui esita",
+                    "lei esita",
+                    "egli esita",
+                    "lui dubita",
+                    "lei dubita",
+                    "egli dubita"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cunctāmur",
+                "traduzioni": [
+                    "noi indugiamo",
+                    "noi temporeggiamo",
+                    "noi esitiamo",
+                    "noi dubitiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cunctamĭni",
+                "traduzioni": [
+                    "voi indugiate",
+                    "voi temporeggiate",
+                    "voi esitate",
+                    "voi dubitate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cunctantur",
+                "traduzioni": [
+                    "loro indugiano",
+                    "essi indugiano",
+                    "loro temporeggiano",
+                    "essi temporeggiano",
+                    "loro esitano",
+                    "essi esitano",
+                    "loro dubitano",
+                    "essi dubitano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cunctābar",
+                "traduzioni": [
+                    "io indugiavo",
+                    "io temporeggiavo",
+                    "io esitavo",
+                    "io dubitavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cunctabāris, cunctabāre",
+                "traduzioni": [
+                    "tu indugiavi",
+                    "tu temporeggiavi",
+                    "tu esitavi",
+                    "tu dubitavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cunctabātur",
+                "traduzioni": [
+                    "lui indugiava",
+                    "lei indugiava",
+                    "egli indugiava",
+                    "lui temporeggiava",
+                    "lei temporeggiava",
+                    "egli temporeggiava",
+                    "lui esitava",
+                    "lei esitava",
+                    "egli esitava",
+                    "lui dubitava",
+                    "lei dubitava",
+                    "egli dubitava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cunctabāmur",
+                "traduzioni": [
+                    "noi indugiavamo",
+                    "noi temporeggiavamo",
+                    "noi esitavamo",
+                    "noi dubitavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cunctabamĭni",
+                "traduzioni": [
+                    "voi indugiavate",
+                    "voi temporeggiavate",
+                    "voi esitavate",
+                    "voi dubitavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cunctabantur",
+                "traduzioni": [
+                    "loro indugiavano",
+                    "essi indugiavano",
+                    "loro temporeggiavano",
+                    "essi temporeggiavano",
+                    "loro esitavano",
+                    "essi esitavano",
+                    "loro dubitavano",
+                    "essi dubitavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cunctābor",
+                "traduzioni": [
+                    "io indugerò",
+                    "io temporeggerò",
+                    "io esiterò",
+                    "io dubiterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cunctabĕris, cunctabĕre",
+                "traduzioni": [
+                    "tu indugerai",
+                    "tu temporeggerai",
+                    "tu esiterai",
+                    "tu dubiterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cunctabĭtur",
+                "traduzioni": [
+                    "lui indugerà",
+                    "lei indugerà",
+                    "egli indugerà",
+                    "lui temporeggerà",
+                    "lei temporeggerà",
+                    "egli temporeggerà",
+                    "lui esiterà",
+                    "lei esiterà",
+                    "egli esiterà",
+                    "lui dubiterà",
+                    "lei dubiterà",
+                    "egli dubiterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cunctabĭmur",
+                "traduzioni": [
+                    "noi indugeremo",
+                    "noi temporeggeremo",
+                    "noi esiteremo",
+                    "noi dubiteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cunctabimĭni",
+                "traduzioni": [
+                    "voi indugerete",
+                    "voi temporeggerete",
+                    "voi esiterete",
+                    "voi dubiterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cunctabuntur",
+                "traduzioni": [
+                    "loro indugeranno",
+                    "essi indugeranno",
+                    "loro temporeggeranno",
+                    "essi temporeggeranno",
+                    "loro esiteranno",
+                    "essi esiteranno",
+                    "loro dubiteranno",
+                    "essi dubiteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cunctatus, –a, –um  sum",
+                "traduzioni": [
+                    "io indugiai",
+                    "io ho indugiato",
+                    "io ebbi indugiato",
+                    "io temporeggiai",
+                    "io ho temporeggiato",
+                    "io ebbi temporeggiato",
+                    "io esitai",
+                    "io ho esitato",
+                    "io ebbi esitato",
+                    "io dubitai",
+                    "io ho dubitato",
+                    "io ebbi dubitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cunctatus, –a, –um  es",
+                "traduzioni": [
+                    "tu indugiasti",
+                    "tu hai indugiato",
+                    "tu avesti indugiato",
+                    "tu temporeggiasti",
+                    "tu hai temporeggiato",
+                    "tu avesti temporeggiato",
+                    "tu esitasti",
+                    "tu hai esitato",
+                    "tu avesti esitato",
+                    "tu dubitasti",
+                    "tu hai dubitato",
+                    "tu avesti dubitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cunctatus, –a, –um  est",
+                "traduzioni": [
+                    "lui indugiò",
+                    "lei indugiò",
+                    "egli indugiò",
+                    "lui ha indugiato",
+                    "lei ha indugiato",
+                    "egli ha indugiato",
+                    "lui ebbe indugiato",
+                    "lei ebbe indugiato",
+                    "egli ebbe indugiato",
+                    "lui temporeggiò",
+                    "lei temporeggiò",
+                    "egli temporeggiò",
+                    "lui ha temporeggiato",
+                    "lei ha temporeggiato",
+                    "egli ha temporeggiato",
+                    "lui ebbe temporeggiato",
+                    "lei ebbe temporeggiato",
+                    "egli ebbe temporeggiato",
+                    "lui esitò",
+                    "lei esitò",
+                    "egli esitò",
+                    "lui ha esitato",
+                    "lei ha esitato",
+                    "egli ha esitato",
+                    "lui ebbe esitato",
+                    "lei ebbe esitato",
+                    "egli ebbe esitato",
+                    "lui dubitò",
+                    "lei dubitò",
+                    "egli dubitò",
+                    "lui ha dubitato",
+                    "lei ha dubitato",
+                    "egli ha dubitato",
+                    "lui ebbe dubitato",
+                    "lei ebbe dubitato",
+                    "egli ebbe dubitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cunctati, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi indugiammo",
+                    "noi abbiamo indugiato",
+                    "noi avemmo indugiato",
+                    "noi temporeggiammo",
+                    "noi abbiamo temporeggiato",
+                    "noi avemmo temporeggiato",
+                    "noi esitammo",
+                    "noi abbiamo esitato",
+                    "noi avemmo esitato",
+                    "noi dubitammo",
+                    "noi abbiamo dubitato",
+                    "noi avemmo dubitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cunctati, –ae, –a  estis",
+                "traduzioni": [
+                    "voi indugiaste",
+                    "voi avete indugiato",
+                    "voi aveste indugiato",
+                    "voi temporeggiaste",
+                    "voi avete temporeggiato",
+                    "voi aveste temporeggiato",
+                    "voi esitaste",
+                    "voi avete esitato",
+                    "voi aveste esitato",
+                    "voi dubitaste",
+                    "voi avete dubitato",
+                    "voi aveste dubitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cunctati, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro indugiarono",
+                    "essi indugiarono",
+                    "loro hanno indugiato",
+                    "essi hanno indugiato",
+                    "loro ebbero indugiato",
+                    "essi ebbero indugiato",
+                    "loro temporeggiarono",
+                    "essi temporeggiarono",
+                    "loro hanno temporeggiato",
+                    "essi hanno temporeggiato",
+                    "loro ebbero temporeggiato",
+                    "essi ebbero temporeggiato",
+                    "loro esitarono",
+                    "essi esitarono",
+                    "loro hanno esitato",
+                    "essi hanno esitato",
+                    "loro ebbero esitato",
+                    "essi ebbero esitato",
+                    "loro dubitarono",
+                    "essi dubitarono",
+                    "loro hanno dubitato",
+                    "essi hanno dubitato",
+                    "loro ebbero dubitato",
+                    "essi ebbero dubitato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cunctatus, –a, –um  eram",
+                "traduzioni": [
+                    "io avevo indugiato",
+                    "io avevo temporeggiato",
+                    "io avevo esitato",
+                    "io avevo dubitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cunctatus, –a, –um  eras",
+                "traduzioni": [
+                    "tu avevi indugiato",
+                    "tu avevi temporeggiato",
+                    "tu avevi esitato",
+                    "tu avevi dubitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cunctatus, –a, –um  erat",
+                "traduzioni": [
+                    "lui aveva indugiato",
+                    "lei aveva indugiato",
+                    "egli aveva indugiato",
+                    "lui aveva temporeggiato",
+                    "lei aveva temporeggiato",
+                    "egli aveva temporeggiato",
+                    "lui aveva esitato",
+                    "lei aveva esitato",
+                    "egli aveva esitato",
+                    "lui aveva dubitato",
+                    "lei aveva dubitato",
+                    "egli aveva dubitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cunctati, –ae, –a  eramus",
+                "traduzioni": [
+                    "noi avevamo indugiato",
+                    "noi avevamo temporeggiato",
+                    "noi avevamo esitato",
+                    "noi avevamo dubitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cunctati, –ae, –a  eratis",
+                "traduzioni": [
+                    "voi avevate indugiato",
+                    "voi avevate temporeggiato",
+                    "voi avevate esitato",
+                    "voi avevate dubitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cunctati, –ae, –a erant",
+                "traduzioni": [
+                    "loro avevano indugiato",
+                    "essi avevano indugiato",
+                    "loro avevano temporeggiato",
+                    "essi avevano temporeggiato",
+                    "loro avevano esitato",
+                    "essi avevano esitato",
+                    "loro avevano dubitato",
+                    "essi avevano dubitato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cunctatus, –a, –um  ero",
+                "traduzioni": [
+                    "io avrò indugiato",
+                    "io avrò temporeggiato",
+                    "io avrò esitato",
+                    "io avrò dubitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cunctatus, –a, –um  eris",
+                "traduzioni": [
+                    "tu avrai indugiato",
+                    "tu avrai temporeggiato",
+                    "tu avrai esitato",
+                    "tu avrai dubitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cunctatus, –a, –um  erit",
+                "traduzioni": [
+                    "lui avrà indugiato",
+                    "lei avrà indugiato",
+                    "egli avrà indugiato",
+                    "lui avrà temporeggiato",
+                    "lei avrà temporeggiato",
+                    "egli avrà temporeggiato",
+                    "lui avrà esitato",
+                    "lei avrà esitato",
+                    "egli avrà esitato",
+                    "lui avrà dubitato",
+                    "lei avrà dubitato",
+                    "egli avrà dubitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cunctati, –ae, –a  erimus",
+                "traduzioni": [
+                    "noi avremo indugiato",
+                    "noi avremo temporeggiato",
+                    "noi avremo esitato",
+                    "noi avremo dubitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cunctati, –ae, –a  eritis",
+                "traduzioni": [
+                    "voi avrete indugiato",
+                    "voi avrete temporeggiato",
+                    "voi avrete esitato",
+                    "voi avrete dubitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cunctati, –ae, –a  erunt",
+                "traduzioni": [
+                    "loro avranno indugiato",
+                    "essi avranno indugiato",
+                    "loro avranno temporeggiato",
+                    "essi avranno temporeggiato",
+                    "loro avranno esitato",
+                    "essi avranno esitato",
+                    "loro avranno dubitato",
+                    "essi avranno dubitato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cuncter",
+                "traduzioni": [
+                    "che io indugi",
+                    "che io temporeggi",
+                    "che io esiti",
+                    "che io dubiti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cunctēris, cunctēre",
+                "traduzioni": [
+                    "che tu indugi",
+                    "che tu temporeggi",
+                    "che tu esiti",
+                    "che tu dubiti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cunctētur",
+                "traduzioni": [
+                    "che lui indugi",
+                    "che lei indugi",
+                    "che egli indugi",
+                    "che lui temporeggi",
+                    "che lei temporeggi",
+                    "che egli temporeggi",
+                    "che lui esiti",
+                    "che lei esiti",
+                    "che egli esiti",
+                    "che lui dubiti",
+                    "che lei dubiti",
+                    "che egli dubiti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cunctēmur",
+                "traduzioni": [
+                    "che noi indugiamo",
+                    "che noi temporeggiamo",
+                    "che noi esitiamo",
+                    "che noi dubitiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cunctemĭni",
+                "traduzioni": [
+                    "che voi indugiate",
+                    "che voi temporeggiate",
+                    "che voi esitiate",
+                    "che voi dubitiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cunctentur",
+                "traduzioni": [
+                    "che loro indugino",
+                    "che essi indugino",
+                    "che loro temporeggino",
+                    "che essi temporeggino",
+                    "che loro esitino",
+                    "che essi esitino",
+                    "che loro dubitino",
+                    "che essi dubitino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cunctārer",
+                "traduzioni": [
+                    "che io indugiassi",
+                    "che io temporeggiassi",
+                    "che io esitassi",
+                    "che io dubitassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cunctarēris, cunctarēre",
+                "traduzioni": [
+                    "che tu indugiassi",
+                    "che tu temporeggiassi",
+                    "che tu esitassi",
+                    "che tu dubitassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cunctarētur",
+                "traduzioni": [
+                    "che lui indugiasse",
+                    "che lei indugiasse",
+                    "che egli indugiasse",
+                    "che lui temporeggiasse",
+                    "che lei temporeggiasse",
+                    "che egli temporeggiasse",
+                    "che lui esitasse",
+                    "che lei esitasse",
+                    "che egli esitasse",
+                    "che lui dubitasse",
+                    "che lei dubitasse",
+                    "che egli dubitasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cunctarēmur",
+                "traduzioni": [
+                    "che noi indugiassimo",
+                    "che noi temporeggiassimo",
+                    "che noi esitassimo",
+                    "che noi dubitassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cunctaremĭni",
+                "traduzioni": [
+                    "che voi indugiaste",
+                    "che voi temporeggiaste",
+                    "che voi esitaste",
+                    "che voi dubitaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cunctarentur",
+                "traduzioni": [
+                    "che loro indugiassero",
+                    "che essi indugiassero",
+                    "che loro temporeggiassero",
+                    "che essi temporeggiassero",
+                    "che loro esitassero",
+                    "che essi esitassero",
+                    "che loro dubitassero",
+                    "che essi dubitassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cunctatus, –a, –um  sim",
+                "traduzioni": [
+                    "che io abbia indugiato",
+                    "che io abbia temporeggiato",
+                    "che io abbia esitato",
+                    "che io abbia dubitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cunctatus, –a, –um  sis",
+                "traduzioni": [
+                    "che tu abbia indugiato",
+                    "che tu abbia temporeggiato",
+                    "che tu abbia esitato",
+                    "che tu abbia dubitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cunctatus, –a, –um  sit",
+                "traduzioni": [
+                    "che lui abbia indugiato",
+                    "che lei abbia indugiato",
+                    "che egli abbia indugiato",
+                    "che lui abbia temporeggiato",
+                    "che lei abbia temporeggiato",
+                    "che egli abbia temporeggiato",
+                    "che lui abbia esitato",
+                    "che lei abbia esitato",
+                    "che egli abbia esitato",
+                    "che lui abbia dubitato",
+                    "che lei abbia dubitato",
+                    "che egli abbia dubitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cunctati, –ae, –a  simus",
+                "traduzioni": [
+                    "che noi abbiamo indugiato",
+                    "che noi abbiamo temporeggiato",
+                    "che noi abbiamo esitato",
+                    "che noi abbiamo dubitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cunctati, –ae, –a  sitis",
+                "traduzioni": [
+                    "che voi abbiate indugiato",
+                    "che voi abbiate temporeggiato",
+                    "che voi abbiate esitato",
+                    "che voi abbiate dubitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cunctati, –ae, –a  sint",
+                "traduzioni": [
+                    "che loro abbiano indugiato",
+                    "che essi abbiano indugiato",
+                    "che loro abbiano temporeggiato",
+                    "che essi abbiano temporeggiato",
+                    "che loro abbiano esitato",
+                    "che essi abbiano esitato",
+                    "che loro abbiano dubitato",
+                    "che essi abbiano dubitato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cunctatus, –a, –um  essem",
+                "traduzioni": [
+                    "che io avessi indugiato",
+                    "che io avessi temporeggiato",
+                    "che io avessi esitato",
+                    "che io avessi dubitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cunctatus, –a, –um  esses",
+                "traduzioni": [
+                    "che tu avessi indugiato",
+                    "che tu avessi temporeggiato",
+                    "che tu avessi esitato",
+                    "che tu avessi dubitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cunctatus, –a, –um  esset",
+                "traduzioni": [
+                    "che lui avesse indugiato",
+                    "che lei avesse indugiato",
+                    "che egli avesse indugiato",
+                    "che lui avesse temporeggiato",
+                    "che lei avesse temporeggiato",
+                    "che egli avesse temporeggiato",
+                    "che lui avesse esitato",
+                    "che lei avesse esitato",
+                    "che egli avesse esitato",
+                    "che lui avesse dubitato",
+                    "che lei avesse dubitato",
+                    "che egli avesse dubitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cunctati, –ae, –a  essemus",
+                "traduzioni": [
+                    "che noi avessimo indugiato",
+                    "che noi avessimo temporeggiato",
+                    "che noi avessimo esitato",
+                    "che noi avessimo dubitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cunctati, –ae, –a  essetis",
+                "traduzioni": [
+                    "che voi aveste indugiato",
+                    "che voi aveste temporeggiato",
+                    "che voi aveste esitato",
+                    "che voi aveste dubitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cunctati, –ae, –a  essent",
+                "traduzioni": [
+                    "che loro avessero indugiato",
+                    "che essi avessero indugiato",
+                    "che loro avessero temporeggiato",
+                    "che essi avessero temporeggiato",
+                    "che loro avessero esitato",
+                    "che essi avessero esitato",
+                    "che loro avessero dubitato",
+                    "che essi avessero dubitato"
+                ]
+            }
+        ]
+    }
+}

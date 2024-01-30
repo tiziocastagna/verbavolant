@@ -1,0 +1,893 @@
+{
+    "identifier": "CREMO",
+    "conuigazione": "1",
+    "translation": [
+        "bruciare",
+        "ardere",
+        "incendiare",
+        "incenerire"
+    ],
+    "valid_translations": [
+        "bruciare",
+        "ardere",
+        "incendiare",
+        "incenerire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "crĕmo",
+                "traduzioni": [
+                    "io brucio",
+                    "io ardo",
+                    "io incendio",
+                    "io incenerisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crĕmas",
+                "traduzioni": [
+                    "tu bruci",
+                    "tu ardi",
+                    "tu incendi",
+                    "tu incenerisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crĕmat",
+                "traduzioni": [
+                    "lui brucia",
+                    "lei brucia",
+                    "egli brucia",
+                    "lui arde",
+                    "lei arde",
+                    "egli arde",
+                    "lui incendia",
+                    "lei incendia",
+                    "egli incendia",
+                    "lui incenerisce",
+                    "lei incenerisce",
+                    "egli incenerisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crĕmāmus",
+                "traduzioni": [
+                    "noi bruciamo",
+                    "noi ardiamo",
+                    "noi incendiamo",
+                    "noi inceneriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crĕmātis",
+                "traduzioni": [
+                    "voi bruciate",
+                    "voi ardete",
+                    "voi incendiate",
+                    "voi incenerite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crĕmant",
+                "traduzioni": [
+                    "loro bruciano",
+                    "essi bruciano",
+                    "loro ardono",
+                    "essi ardono",
+                    "loro incendiano",
+                    "essi incendiano",
+                    "loro inceneriscono",
+                    "essi inceneriscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "crĕmābam",
+                "traduzioni": [
+                    "io bruciavo",
+                    "io ardevo",
+                    "io incendiavo",
+                    "io incenerivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crĕmābas",
+                "traduzioni": [
+                    "tu bruciavi",
+                    "tu ardevi",
+                    "tu incendiavi",
+                    "tu incenerivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crĕmābat",
+                "traduzioni": [
+                    "lui bruciava",
+                    "lei bruciava",
+                    "egli bruciava",
+                    "lui ardeva",
+                    "lei ardeva",
+                    "egli ardeva",
+                    "lui incendiava",
+                    "lei incendiava",
+                    "egli incendiava",
+                    "lui inceneriva",
+                    "lei inceneriva",
+                    "egli inceneriva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crĕmabāmus",
+                "traduzioni": [
+                    "noi bruciavamo",
+                    "noi ardevamo",
+                    "noi incendiavamo",
+                    "noi incenerivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crĕmabātis",
+                "traduzioni": [
+                    "voi bruciavate",
+                    "voi ardevate",
+                    "voi incendiavate",
+                    "voi incenerivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crĕmābant",
+                "traduzioni": [
+                    "loro bruciavano",
+                    "essi bruciavano",
+                    "loro ardevano",
+                    "essi ardevano",
+                    "loro incendiavano",
+                    "essi incendiavano",
+                    "loro incenerivano",
+                    "essi incenerivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "crĕmābo",
+                "traduzioni": [
+                    "io brucerò",
+                    "io arderò",
+                    "io incendierò",
+                    "io incenerirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crĕmābis",
+                "traduzioni": [
+                    "tu brucerai",
+                    "tu arderai",
+                    "tu incendierai",
+                    "tu incenerirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crĕmābit",
+                "traduzioni": [
+                    "lui brucerà",
+                    "lei brucerà",
+                    "egli brucerà",
+                    "lui arderà",
+                    "lei arderà",
+                    "egli arderà",
+                    "lui incendierà",
+                    "lei incendierà",
+                    "egli incendierà",
+                    "lui incenerirà",
+                    "lei incenerirà",
+                    "egli incenerirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crĕmabĭmus",
+                "traduzioni": [
+                    "noi bruceremo",
+                    "noi arderemo",
+                    "noi incendieremo",
+                    "noi inceneriremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crĕmabĭtis",
+                "traduzioni": [
+                    "voi brucerete",
+                    "voi arderete",
+                    "voi incendierete",
+                    "voi incenerirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crĕmābunt",
+                "traduzioni": [
+                    "loro bruceranno",
+                    "essi bruceranno",
+                    "loro arderanno",
+                    "essi arderanno",
+                    "loro incendieranno",
+                    "essi incendieranno",
+                    "loro inceneriranno",
+                    "essi inceneriranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cremavi",
+                "traduzioni": [
+                    "io bruciai",
+                    "io sono bruciato",
+                    "io sono bruciata",
+                    "io fui bruciato",
+                    "io fui bruciata",
+                    "io arsi",
+                    "io arse",
+                    "io sono arso",
+                    "io sono arsa",
+                    "io fui arso",
+                    "io fui arsa",
+                    "io incendiai",
+                    "io ho incendiato",
+                    "io ebbi incendiato",
+                    "io incenerii",
+                    "io ho incenerito",
+                    "io ebbi incenerito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cremavisti",
+                "traduzioni": [
+                    "tu bruciasti",
+                    "tu sei bruciato",
+                    "tu sei bruciata",
+                    "tu fosti bruciato",
+                    "tu fosti bruciata",
+                    "tu ardesti",
+                    "tu sei arso",
+                    "tu sei arsa",
+                    "tu fosti arso",
+                    "tu fosti arsa",
+                    "tu incendiasti",
+                    "tu hai incendiato",
+                    "tu avesti incendiato",
+                    "tu inceneristi",
+                    "tu hai incenerito",
+                    "tu avesti incenerito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cremavit",
+                "traduzioni": [
+                    "lui bruciò",
+                    "lei bruciò",
+                    "egli bruciò",
+                    "lui è bruciato",
+                    "lei è bruciata",
+                    "egli è bruciato",
+                    "lui fu bruciato",
+                    "lei fu bruciata",
+                    "egli fu bruciato",
+                    "lui arse",
+                    "lei arse",
+                    "egli arse",
+                    "lui è arso",
+                    "lei è arsa",
+                    "egli è arso",
+                    "lui fu arso",
+                    "lei fu arsa",
+                    "egli fu arso",
+                    "lui incendiò",
+                    "lei incendiò",
+                    "egli incendiò",
+                    "lui ha incendiato",
+                    "lei ha incendiato",
+                    "egli ha incendiato",
+                    "lui ebbe incendiato",
+                    "lei ebbe incendiato",
+                    "egli ebbe incendiato",
+                    "lui incenerì",
+                    "lei incenerì",
+                    "egli incenerì",
+                    "lui ha incenerito",
+                    "lei ha incenerito",
+                    "egli ha incenerito",
+                    "lui ebbe incenerito",
+                    "lei ebbe incenerito",
+                    "egli ebbe incenerito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cremavĭmus",
+                "traduzioni": [
+                    "noi bruciammo",
+                    "noi siamo bruciati",
+                    "noi siamo bruciate",
+                    "noi fummo bruciati",
+                    "noi fummo bruciate",
+                    "noi ardemmo",
+                    "noi siamo arsi",
+                    "noi siamo arse",
+                    "noi fummo arsi",
+                    "noi fummo arse",
+                    "noi incendiammo",
+                    "noi abbiamo incendiato",
+                    "noi avemmo incendiato",
+                    "noi incenerimmo",
+                    "noi abbiamo incenerito",
+                    "noi avemmo incenerito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cremavistis",
+                "traduzioni": [
+                    "voi bruciaste",
+                    "voi siete bruciati",
+                    "voi siete bruciate",
+                    "voi foste bruciati",
+                    "voi foste bruciate",
+                    "voi ardeste",
+                    "voi siete arsi",
+                    "voi siete arse",
+                    "voi foste arsi",
+                    "voi foste arse",
+                    "voi incendiaste",
+                    "voi avete incendiato",
+                    "voi aveste incendiato",
+                    "voi inceneriste",
+                    "voi avete incenerito",
+                    "voi aveste incenerito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cremavērunt, cremavēre",
+                "traduzioni": [
+                    "loro bruciarono",
+                    "essi bruciarono",
+                    "loro sono bruciati",
+                    "loro sono bruciate",
+                    "essi sono bruciati",
+                    "loro furono bruciati",
+                    "loro furono bruciate",
+                    "essi furono bruciati",
+                    "loro arsero",
+                    "essi arsero",
+                    "loro sono arsi",
+                    "loro sono arse",
+                    "essi sono arsi",
+                    "loro furono arsi",
+                    "loro furono arse",
+                    "essi furono arsi",
+                    "loro incendiarono",
+                    "essi incendiarono",
+                    "loro hanno incendiato",
+                    "essi hanno incendiato",
+                    "loro ebbero incendiato",
+                    "essi ebbero incendiato",
+                    "loro incenerirono",
+                    "essi incenerirono",
+                    "loro hanno incenerito",
+                    "essi hanno incenerito",
+                    "loro ebbero incenerito",
+                    "essi ebbero incenerito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cremavĕram",
+                "traduzioni": [
+                    "io ero bruciato",
+                    "io ero bruciata",
+                    "io ero arso",
+                    "io ero arsa",
+                    "io avevo incendiato",
+                    "io avevo incenerito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cremavĕras",
+                "traduzioni": [
+                    "tu eri bruciato",
+                    "tu eri bruciata",
+                    "tu eri arso",
+                    "tu eri arsa",
+                    "tu avevi incendiato",
+                    "tu avevi incenerito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cremavĕrat",
+                "traduzioni": [
+                    "lui era bruciato",
+                    "lei era bruciata",
+                    "egli era bruciato",
+                    "lui era arso",
+                    "lei era arsa",
+                    "egli era arso",
+                    "lui aveva incendiato",
+                    "lei aveva incendiato",
+                    "egli aveva incendiato",
+                    "lui aveva incenerito",
+                    "lei aveva incenerito",
+                    "egli aveva incenerito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cremaverāmus",
+                "traduzioni": [
+                    "noi eravamo bruciati",
+                    "noi eravamo bruciate",
+                    "noi eravamo arsi",
+                    "noi eravamo arse",
+                    "noi avevamo incendiato",
+                    "noi avevamo incenerito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cremaverātis",
+                "traduzioni": [
+                    "voi eravate bruciati",
+                    "voi eravate bruciate",
+                    "voi eravate arsi",
+                    "voi eravate arse",
+                    "voi avevate incendiato",
+                    "voi avevate incenerito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cremavĕrant",
+                "traduzioni": [
+                    "loro erano bruciati",
+                    "loro erano bruciate",
+                    "essi erano bruciati",
+                    "loro erano arsi",
+                    "loro erano arse",
+                    "essi erano arsi",
+                    "loro avevano incendiato",
+                    "essi avevano incendiato",
+                    "loro avevano incenerito",
+                    "essi avevano incenerito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cremavĕro",
+                "traduzioni": [
+                    "io sarò bruciato",
+                    "io sarò bruciata",
+                    "io sarò arso",
+                    "io sarò arsa",
+                    "io avrò incendiato",
+                    "io avrò incenerito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cremavĕris",
+                "traduzioni": [
+                    "tu sarai bruciato",
+                    "tu sarai bruciata",
+                    "tu sarai arso",
+                    "tu sarai arsa",
+                    "tu avrai incendiato",
+                    "tu avrai incenerito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cremavĕrit",
+                "traduzioni": [
+                    "lui sarà bruciato",
+                    "lei sarà bruciata",
+                    "egli sarà bruciato",
+                    "lui sarà arso",
+                    "lei sarà arsa",
+                    "egli sarà arso",
+                    "lui avrà incendiato",
+                    "lei avrà incendiato",
+                    "egli avrà incendiato",
+                    "lui avrà incenerito",
+                    "lei avrà incenerito",
+                    "egli avrà incenerito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cremaverĭmus",
+                "traduzioni": [
+                    "noi saremo bruciati",
+                    "noi saremo bruciate",
+                    "noi saremo arsi",
+                    "noi saremo arse",
+                    "noi avremo incendiato",
+                    "noi avremo incenerito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cremaverĭtis",
+                "traduzioni": [
+                    "voi sarete bruciati",
+                    "voi sarete bruciate",
+                    "voi sarete arsi",
+                    "voi sarete arse",
+                    "voi avrete incendiato",
+                    "voi avrete incenerito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cremavĕrint",
+                "traduzioni": [
+                    "loro saranno bruciati",
+                    "loro saranno bruciate",
+                    "essi saranno bruciati",
+                    "loro saranno arsi",
+                    "loro saranno arse",
+                    "essi saranno arsi",
+                    "loro avranno incendiato",
+                    "essi avranno incendiato",
+                    "loro avranno incenerito",
+                    "essi avranno incenerito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "crĕmem",
+                "traduzioni": [
+                    "che io bruci",
+                    "che io arda",
+                    "che io incendi",
+                    "che io incenerisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crĕmes",
+                "traduzioni": [
+                    "che tu bruci",
+                    "che tu arda",
+                    "che tu incendi",
+                    "che tu incenerisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crĕmet",
+                "traduzioni": [
+                    "che lui bruci",
+                    "che lei bruci",
+                    "che egli bruci",
+                    "che lui arda",
+                    "che lei arda",
+                    "che egli arda",
+                    "che lui incendi",
+                    "che lei incendi",
+                    "che egli incendi",
+                    "che lui incenerisca",
+                    "che lei incenerisca",
+                    "che egli incenerisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crĕmēmus",
+                "traduzioni": [
+                    "che noi bruciamo",
+                    "che noi ardiamo",
+                    "che noi incendiamo",
+                    "che noi inceneriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crĕmētis",
+                "traduzioni": [
+                    "che voi bruciate",
+                    "che voi ardiate",
+                    "che voi incendiate",
+                    "che voi inceneriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crĕment",
+                "traduzioni": [
+                    "che loro brucino",
+                    "che essi brucino",
+                    "che loro ardano",
+                    "che essi ardano",
+                    "che loro incendino",
+                    "che essi incendino",
+                    "che loro inceneriscano",
+                    "che essi inceneriscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "crĕmārem",
+                "traduzioni": [
+                    "che io bruciassi",
+                    "che io ardessi",
+                    "che io incendiassi",
+                    "che io incenerissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crĕmāres",
+                "traduzioni": [
+                    "che tu bruciassi",
+                    "che tu ardessi",
+                    "che tu incendiassi",
+                    "che tu incenerissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crĕmāret",
+                "traduzioni": [
+                    "che lui bruciasse",
+                    "che lei bruciasse",
+                    "che egli bruciasse",
+                    "che lui ardesse",
+                    "che lei ardesse",
+                    "che egli ardesse",
+                    "che lui incendiasse",
+                    "che lei incendiasse",
+                    "che egli incendiasse",
+                    "che lui incenerisse",
+                    "che lei incenerisse",
+                    "che egli incenerisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crĕmarēmus",
+                "traduzioni": [
+                    "che noi bruciassimo",
+                    "che noi ardessimo",
+                    "che noi incendiassimo",
+                    "che noi incenerissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crĕmarētis",
+                "traduzioni": [
+                    "che voi bruciaste",
+                    "che voi ardeste",
+                    "che voi incendiaste",
+                    "che voi inceneriste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crĕmārent",
+                "traduzioni": [
+                    "che loro bruciassero",
+                    "che essi bruciassero",
+                    "che loro ardessero",
+                    "che essi ardessero",
+                    "che loro incendiassero",
+                    "che essi incendiassero",
+                    "che loro incenerissero",
+                    "che essi incenerissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cremavĕrim",
+                "traduzioni": [
+                    "che io sia bruciato",
+                    "che io sia bruciata",
+                    "che io sia arso",
+                    "che io sia arsa",
+                    "che io abbia incendiato",
+                    "che io abbia incenerito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cremavĕris",
+                "traduzioni": [
+                    "che tu sia bruciato",
+                    "che tu sia bruciata",
+                    "che tu sia arso",
+                    "che tu sia arsa",
+                    "che tu abbia incendiato",
+                    "che tu abbia incenerito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cremavĕrit",
+                "traduzioni": [
+                    "che lui sia bruciato",
+                    "che lei sia bruciata",
+                    "che egli sia bruciato",
+                    "che lui sia arso",
+                    "che lei sia arsa",
+                    "che egli sia arso",
+                    "che lui abbia incendiato",
+                    "che lei abbia incendiato",
+                    "che egli abbia incendiato",
+                    "che lui abbia incenerito",
+                    "che lei abbia incenerito",
+                    "che egli abbia incenerito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cremaverĭmus",
+                "traduzioni": [
+                    "che noi siamo bruciati",
+                    "che noi siamo bruciate",
+                    "che noi siamo arsi",
+                    "che noi siamo arse",
+                    "che noi abbiamo incendiato",
+                    "che noi abbiamo incenerito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cremaverĭtis",
+                "traduzioni": [
+                    "che voi siate bruciati",
+                    "che voi siate bruciate",
+                    "che voi siate arsi",
+                    "che voi siate arse",
+                    "che voi abbiate incendiato",
+                    "che voi abbiate incenerito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cremavĕrint",
+                "traduzioni": [
+                    "che loro siano bruciati",
+                    "che loro siano bruciate",
+                    "che essi siano bruciati",
+                    "che loro siano arsi",
+                    "che loro siano arse",
+                    "che essi siano arsi",
+                    "che loro abbiano incendiato",
+                    "che essi abbiano incendiato",
+                    "che loro abbiano incenerito",
+                    "che essi abbiano incenerito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cremavissem",
+                "traduzioni": [
+                    "che io fossi bruciato",
+                    "che io fossi bruciata",
+                    "che io fossi arso",
+                    "che io fossi arsa",
+                    "che io avessi incendiato",
+                    "che io avessi incenerito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cremavisses",
+                "traduzioni": [
+                    "che tu fossi bruciato",
+                    "che tu fossi bruciata",
+                    "che tu fossi arso",
+                    "che tu fossi arsa",
+                    "che tu avessi incendiato",
+                    "che tu avessi incenerito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cremavisset",
+                "traduzioni": [
+                    "che lui fosse bruciato",
+                    "che lei fosse bruciata",
+                    "che egli fosse bruciato",
+                    "che lui fosse arso",
+                    "che lei fosse arsa",
+                    "che egli fosse arso",
+                    "che lui avesse incendiato",
+                    "che lei avesse incendiato",
+                    "che egli avesse incendiato",
+                    "che lui avesse incenerito",
+                    "che lei avesse incenerito",
+                    "che egli avesse incenerito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cremavissēmus",
+                "traduzioni": [
+                    "che noi fossimo bruciati",
+                    "che noi fossimo bruciate",
+                    "che noi fossimo arsi",
+                    "che noi fossimo arse",
+                    "che noi avessimo incendiato",
+                    "che noi avessimo incenerito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cremavissētis",
+                "traduzioni": [
+                    "che voi foste bruciati",
+                    "che voi foste bruciate",
+                    "che voi foste arsi",
+                    "che voi foste arse",
+                    "che voi aveste incendiato",
+                    "che voi aveste incenerito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cremavissent",
+                "traduzioni": [
+                    "che loro fossero bruciati",
+                    "che loro fossero bruciate",
+                    "che essi fossero bruciati",
+                    "che loro fossero arsi",
+                    "che loro fossero arse",
+                    "che essi fossero arsi",
+                    "che loro avessero incendiato",
+                    "che essi avessero incendiato",
+                    "che loro avessero incenerito",
+                    "che essi avessero incenerito"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,833 @@
+{
+    "identifier": "LIMITO",
+    "conuigazione": "1",
+    "translation": [
+        "delimitare",
+        "dividere",
+        "(in senso figurato) definire",
+        "determinare",
+        "delimitare"
+    ],
+    "valid_translations": [
+        "delimitare",
+        "dividere",
+        "determinare",
+        "delimitare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "līmĭto",
+                "traduzioni": [
+                    "io delimito",
+                    "io divido",
+                    "io determino",
+                    "io delimito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "līmĭtas",
+                "traduzioni": [
+                    "tu delimiti",
+                    "tu dividi",
+                    "tu determini",
+                    "tu delimiti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "līmĭtat",
+                "traduzioni": [
+                    "lui delimita",
+                    "lei delimita",
+                    "egli delimita",
+                    "lui divide",
+                    "lei divide",
+                    "egli divide",
+                    "lui determina",
+                    "lei determina",
+                    "egli determina",
+                    "lui delimita",
+                    "lei delimita",
+                    "egli delimita"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "līmĭtāmus",
+                "traduzioni": [
+                    "noi delimitiamo",
+                    "noi dividiamo",
+                    "noi determiniamo",
+                    "noi delimitiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "līmĭtātis",
+                "traduzioni": [
+                    "voi delimitate",
+                    "voi dividete",
+                    "voi determinate",
+                    "voi delimitate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "līmĭtant",
+                "traduzioni": [
+                    "loro delimitano",
+                    "essi delimitano",
+                    "loro dividono",
+                    "essi dividono",
+                    "loro determinano",
+                    "essi determinano",
+                    "loro delimitano",
+                    "essi delimitano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "līmĭtābam",
+                "traduzioni": [
+                    "io delimitavo",
+                    "io dividevo",
+                    "io determinavo",
+                    "io delimitavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "līmĭtābas",
+                "traduzioni": [
+                    "tu delimitavi",
+                    "tu dividevi",
+                    "tu determinavi",
+                    "tu delimitavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "līmĭtābat",
+                "traduzioni": [
+                    "lui delimitava",
+                    "lei delimitava",
+                    "egli delimitava",
+                    "lui divideva",
+                    "lei divideva",
+                    "egli divideva",
+                    "lui determinava",
+                    "lei determinava",
+                    "egli determinava",
+                    "lui delimitava",
+                    "lei delimitava",
+                    "egli delimitava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "līmĭtabāmus",
+                "traduzioni": [
+                    "noi delimitavamo",
+                    "noi dividevamo",
+                    "noi determinavamo",
+                    "noi delimitavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "līmĭtabātis",
+                "traduzioni": [
+                    "voi delimitavate",
+                    "voi dividevate",
+                    "voi determinavate",
+                    "voi delimitavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "līmĭtābant",
+                "traduzioni": [
+                    "loro delimitavano",
+                    "essi delimitavano",
+                    "loro dividevano",
+                    "essi dividevano",
+                    "loro determinavano",
+                    "essi determinavano",
+                    "loro delimitavano",
+                    "essi delimitavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "līmĭtābo",
+                "traduzioni": [
+                    "io delimiterò",
+                    "io dividerò",
+                    "io determinerò",
+                    "io delimiterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "līmĭtābis",
+                "traduzioni": [
+                    "tu delimiterai",
+                    "tu dividerai",
+                    "tu determinerai",
+                    "tu delimiterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "līmĭtābit",
+                "traduzioni": [
+                    "lui delimiterà",
+                    "lei delimiterà",
+                    "egli delimiterà",
+                    "lui dividerà",
+                    "lei dividerà",
+                    "egli dividerà",
+                    "lui determinerà",
+                    "lei determinerà",
+                    "egli determinerà",
+                    "lui delimiterà",
+                    "lei delimiterà",
+                    "egli delimiterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "līmĭtabĭmus",
+                "traduzioni": [
+                    "noi delimiteremo",
+                    "noi divideremo",
+                    "noi determineremo",
+                    "noi delimiteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "līmĭtabĭtis",
+                "traduzioni": [
+                    "voi delimiterete",
+                    "voi dividerete",
+                    "voi determinerete",
+                    "voi delimiterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "līmĭtābunt",
+                "traduzioni": [
+                    "loro delimiteranno",
+                    "essi delimiteranno",
+                    "loro divideranno",
+                    "essi divideranno",
+                    "loro determineranno",
+                    "essi determineranno",
+                    "loro delimiteranno",
+                    "essi delimiteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "limitavi",
+                "traduzioni": [
+                    "io delimitai",
+                    "io ho delimitato",
+                    "io ebbi delimitato",
+                    "io divisi",
+                    "io ho diviso",
+                    "io ebbi diviso",
+                    "io determinai",
+                    "io ho determinato",
+                    "io ebbi determinato",
+                    "io delimitai",
+                    "io ho delimitato",
+                    "io ebbi delimitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "limitavisti",
+                "traduzioni": [
+                    "tu delimitasti",
+                    "tu hai delimitato",
+                    "tu avesti delimitato",
+                    "tu dividesti",
+                    "tu hai diviso",
+                    "tu avesti diviso",
+                    "tu determinasti",
+                    "tu hai determinato",
+                    "tu avesti determinato",
+                    "tu delimitasti",
+                    "tu hai delimitato",
+                    "tu avesti delimitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "limitavit",
+                "traduzioni": [
+                    "lui delimitò",
+                    "lei delimitò",
+                    "egli delimitò",
+                    "lui ha delimitato",
+                    "lei ha delimitato",
+                    "egli ha delimitato",
+                    "lui ebbe delimitato",
+                    "lei ebbe delimitato",
+                    "egli ebbe delimitato",
+                    "lui divise",
+                    "lei divise",
+                    "egli divise",
+                    "lui ha diviso",
+                    "lei ha diviso",
+                    "egli ha diviso",
+                    "lui ebbe diviso",
+                    "lei ebbe diviso",
+                    "egli ebbe diviso",
+                    "lui determinò",
+                    "lei determinò",
+                    "egli determinò",
+                    "lui ha determinato",
+                    "lei ha determinato",
+                    "egli ha determinato",
+                    "lui ebbe determinato",
+                    "lei ebbe determinato",
+                    "egli ebbe determinato",
+                    "lui delimitò",
+                    "lei delimitò",
+                    "egli delimitò",
+                    "lui ha delimitato",
+                    "lei ha delimitato",
+                    "egli ha delimitato",
+                    "lui ebbe delimitato",
+                    "lei ebbe delimitato",
+                    "egli ebbe delimitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "limitavĭmus",
+                "traduzioni": [
+                    "noi delimitammo",
+                    "noi abbiamo delimitato",
+                    "noi avemmo delimitato",
+                    "noi dividemmo",
+                    "noi abbiamo diviso",
+                    "noi avemmo diviso",
+                    "noi determinammo",
+                    "noi abbiamo determinato",
+                    "noi avemmo determinato",
+                    "noi delimitammo",
+                    "noi abbiamo delimitato",
+                    "noi avemmo delimitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "limitavistis",
+                "traduzioni": [
+                    "voi delimitaste",
+                    "voi avete delimitato",
+                    "voi aveste delimitato",
+                    "voi divideste",
+                    "voi avete diviso",
+                    "voi aveste diviso",
+                    "voi determinaste",
+                    "voi avete determinato",
+                    "voi aveste determinato",
+                    "voi delimitaste",
+                    "voi avete delimitato",
+                    "voi aveste delimitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "limitavērunt, limitavēre",
+                "traduzioni": [
+                    "loro delimitarono",
+                    "essi delimitarono",
+                    "loro hanno delimitato",
+                    "essi hanno delimitato",
+                    "loro ebbero delimitato",
+                    "essi ebbero delimitato",
+                    "loro divisero",
+                    "essi divisero",
+                    "loro hanno diviso",
+                    "essi hanno diviso",
+                    "loro ebbero diviso",
+                    "essi ebbero diviso",
+                    "loro determinarono",
+                    "essi determinarono",
+                    "loro hanno determinato",
+                    "essi hanno determinato",
+                    "loro ebbero determinato",
+                    "essi ebbero determinato",
+                    "loro delimitarono",
+                    "essi delimitarono",
+                    "loro hanno delimitato",
+                    "essi hanno delimitato",
+                    "loro ebbero delimitato",
+                    "essi ebbero delimitato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "limitavĕram",
+                "traduzioni": [
+                    "io avevo delimitato",
+                    "io avevo diviso",
+                    "io avevo determinato",
+                    "io avevo delimitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "limitavĕras",
+                "traduzioni": [
+                    "tu avevi delimitato",
+                    "tu avevi diviso",
+                    "tu avevi determinato",
+                    "tu avevi delimitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "limitavĕrat",
+                "traduzioni": [
+                    "lui aveva delimitato",
+                    "lei aveva delimitato",
+                    "egli aveva delimitato",
+                    "lui aveva diviso",
+                    "lei aveva diviso",
+                    "egli aveva diviso",
+                    "lui aveva determinato",
+                    "lei aveva determinato",
+                    "egli aveva determinato",
+                    "lui aveva delimitato",
+                    "lei aveva delimitato",
+                    "egli aveva delimitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "limitaverāmus",
+                "traduzioni": [
+                    "noi avevamo delimitato",
+                    "noi avevamo diviso",
+                    "noi avevamo determinato",
+                    "noi avevamo delimitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "limitaverātis",
+                "traduzioni": [
+                    "voi avevate delimitato",
+                    "voi avevate diviso",
+                    "voi avevate determinato",
+                    "voi avevate delimitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "limitavĕrant",
+                "traduzioni": [
+                    "loro avevano delimitato",
+                    "essi avevano delimitato",
+                    "loro avevano diviso",
+                    "essi avevano diviso",
+                    "loro avevano determinato",
+                    "essi avevano determinato",
+                    "loro avevano delimitato",
+                    "essi avevano delimitato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "limitavĕro",
+                "traduzioni": [
+                    "io avrò delimitato",
+                    "io avrò diviso",
+                    "io avrò determinato",
+                    "io avrò delimitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "limitavĕris",
+                "traduzioni": [
+                    "tu avrai delimitato",
+                    "tu avrai diviso",
+                    "tu avrai determinato",
+                    "tu avrai delimitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "limitavĕrit",
+                "traduzioni": [
+                    "lui avrà delimitato",
+                    "lei avrà delimitato",
+                    "egli avrà delimitato",
+                    "lui avrà diviso",
+                    "lei avrà diviso",
+                    "egli avrà diviso",
+                    "lui avrà determinato",
+                    "lei avrà determinato",
+                    "egli avrà determinato",
+                    "lui avrà delimitato",
+                    "lei avrà delimitato",
+                    "egli avrà delimitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "limitaverĭmus",
+                "traduzioni": [
+                    "noi avremo delimitato",
+                    "noi avremo diviso",
+                    "noi avremo determinato",
+                    "noi avremo delimitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "limitaverĭtis",
+                "traduzioni": [
+                    "voi avrete delimitato",
+                    "voi avrete diviso",
+                    "voi avrete determinato",
+                    "voi avrete delimitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "limitavĕrint",
+                "traduzioni": [
+                    "loro avranno delimitato",
+                    "essi avranno delimitato",
+                    "loro avranno diviso",
+                    "essi avranno diviso",
+                    "loro avranno determinato",
+                    "essi avranno determinato",
+                    "loro avranno delimitato",
+                    "essi avranno delimitato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "līmĭtem",
+                "traduzioni": [
+                    "che io delimiti",
+                    "che io divida",
+                    "che io determini",
+                    "che io delimiti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "līmĭtes",
+                "traduzioni": [
+                    "che tu delimiti",
+                    "che tu divida",
+                    "che tu determini",
+                    "che tu delimiti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "līmĭtet",
+                "traduzioni": [
+                    "che lui delimiti",
+                    "che lei delimiti",
+                    "che egli delimiti",
+                    "che lui divida",
+                    "che lei divida",
+                    "che egli divida",
+                    "che lui determini",
+                    "che lei determini",
+                    "che egli determini",
+                    "che lui delimiti",
+                    "che lei delimiti",
+                    "che egli delimiti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "līmĭtēmus",
+                "traduzioni": [
+                    "che noi delimitiamo",
+                    "che noi dividiamo",
+                    "che noi determiniamo",
+                    "che noi delimitiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "līmĭtētis",
+                "traduzioni": [
+                    "che voi delimitiate",
+                    "che voi dividiate",
+                    "che voi determiniate",
+                    "che voi delimitiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "līmĭtent",
+                "traduzioni": [
+                    "che loro delimitino",
+                    "che essi delimitino",
+                    "che loro dividano",
+                    "che essi dividano",
+                    "che loro determinino",
+                    "che essi determinino",
+                    "che loro delimitino",
+                    "che essi delimitino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "līmĭtārem",
+                "traduzioni": [
+                    "che io delimitassi",
+                    "che io dividessi",
+                    "che io determinassi",
+                    "che io delimitassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "līmĭtāres",
+                "traduzioni": [
+                    "che tu delimitassi",
+                    "che tu dividessi",
+                    "che tu determinassi",
+                    "che tu delimitassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "līmĭtāret",
+                "traduzioni": [
+                    "che lui delimitasse",
+                    "che lei delimitasse",
+                    "che egli delimitasse",
+                    "che lui dividesse",
+                    "che lei dividesse",
+                    "che egli dividesse",
+                    "che lui determinasse",
+                    "che lei determinasse",
+                    "che egli determinasse",
+                    "che lui delimitasse",
+                    "che lei delimitasse",
+                    "che egli delimitasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "līmĭtarēmus",
+                "traduzioni": [
+                    "che noi delimitassimo",
+                    "che noi dividessimo",
+                    "che noi determinassimo",
+                    "che noi delimitassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "līmĭtarētis",
+                "traduzioni": [
+                    "che voi delimitaste",
+                    "che voi divideste",
+                    "che voi determinaste",
+                    "che voi delimitaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "līmĭtārent",
+                "traduzioni": [
+                    "che loro delimitassero",
+                    "che essi delimitassero",
+                    "che loro dividessero",
+                    "che essi dividessero",
+                    "che loro determinassero",
+                    "che essi determinassero",
+                    "che loro delimitassero",
+                    "che essi delimitassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "limitavĕrim",
+                "traduzioni": [
+                    "che io abbia delimitato",
+                    "che io abbia diviso",
+                    "che io abbia determinato",
+                    "che io abbia delimitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "limitavĕris",
+                "traduzioni": [
+                    "che tu abbia delimitato",
+                    "che tu abbia diviso",
+                    "che tu abbia determinato",
+                    "che tu abbia delimitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "limitavĕrit",
+                "traduzioni": [
+                    "che lui abbia delimitato",
+                    "che lei abbia delimitato",
+                    "che egli abbia delimitato",
+                    "che lui abbia diviso",
+                    "che lei abbia diviso",
+                    "che egli abbia diviso",
+                    "che lui abbia determinato",
+                    "che lei abbia determinato",
+                    "che egli abbia determinato",
+                    "che lui abbia delimitato",
+                    "che lei abbia delimitato",
+                    "che egli abbia delimitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "limitaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo delimitato",
+                    "che noi abbiamo diviso",
+                    "che noi abbiamo determinato",
+                    "che noi abbiamo delimitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "limitaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate delimitato",
+                    "che voi abbiate diviso",
+                    "che voi abbiate determinato",
+                    "che voi abbiate delimitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "limitavĕrint",
+                "traduzioni": [
+                    "che loro abbiano delimitato",
+                    "che essi abbiano delimitato",
+                    "che loro abbiano diviso",
+                    "che essi abbiano diviso",
+                    "che loro abbiano determinato",
+                    "che essi abbiano determinato",
+                    "che loro abbiano delimitato",
+                    "che essi abbiano delimitato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "limitavissem",
+                "traduzioni": [
+                    "che io avessi delimitato",
+                    "che io avessi diviso",
+                    "che io avessi determinato",
+                    "che io avessi delimitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "limitavisses",
+                "traduzioni": [
+                    "che tu avessi delimitato",
+                    "che tu avessi diviso",
+                    "che tu avessi determinato",
+                    "che tu avessi delimitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "limitavisset",
+                "traduzioni": [
+                    "che lui avesse delimitato",
+                    "che lei avesse delimitato",
+                    "che egli avesse delimitato",
+                    "che lui avesse diviso",
+                    "che lei avesse diviso",
+                    "che egli avesse diviso",
+                    "che lui avesse determinato",
+                    "che lei avesse determinato",
+                    "che egli avesse determinato",
+                    "che lui avesse delimitato",
+                    "che lei avesse delimitato",
+                    "che egli avesse delimitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "limitavissēmus",
+                "traduzioni": [
+                    "che noi avessimo delimitato",
+                    "che noi avessimo diviso",
+                    "che noi avessimo determinato",
+                    "che noi avessimo delimitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "limitavissētis",
+                "traduzioni": [
+                    "che voi aveste delimitato",
+                    "che voi aveste diviso",
+                    "che voi aveste determinato",
+                    "che voi aveste delimitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "limitavissent",
+                "traduzioni": [
+                    "che loro avessero delimitato",
+                    "che essi avessero delimitato",
+                    "che loro avessero diviso",
+                    "che essi avessero diviso",
+                    "che loro avessero determinato",
+                    "che essi avessero determinato",
+                    "che loro avessero delimitato",
+                    "che essi avessero delimitato"
+                ]
+            }
+        ]
+    }
+}

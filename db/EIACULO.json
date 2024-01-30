@@ -1,0 +1,642 @@
+{
+    "identifier": "EIACULO",
+    "conuigazione": "1",
+    "translation": [
+        "emettere",
+        "schizzare"
+    ],
+    "valid_translations": [
+        "emettere",
+        "schizzare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēiăcŭlo",
+                "traduzioni": [
+                    "io emetto",
+                    "io schizzo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēiăcŭlas",
+                "traduzioni": [
+                    "tu emetti",
+                    "tu schizzi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēiăcŭlat",
+                "traduzioni": [
+                    "lui emette",
+                    "lei emette",
+                    "egli emette",
+                    "lui schizza",
+                    "lei schizza",
+                    "egli schizza"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēiăcŭlāmus",
+                "traduzioni": [
+                    "noi emettiamo",
+                    "noi schizziamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēiăcŭlātis",
+                "traduzioni": [
+                    "voi emettete",
+                    "voi schizzate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēiăcŭlant",
+                "traduzioni": [
+                    "loro emettono",
+                    "essi emettono",
+                    "loro schizzano",
+                    "essi schizzano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēiăcŭlābam",
+                "traduzioni": [
+                    "io emettevo",
+                    "io schizzavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēiăcŭlābas",
+                "traduzioni": [
+                    "tu emettevi",
+                    "tu schizzavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēiăcŭlābat",
+                "traduzioni": [
+                    "lui emetteva",
+                    "lei emetteva",
+                    "egli emetteva",
+                    "lui schizzava",
+                    "lei schizzava",
+                    "egli schizzava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēiăcŭlabāmus",
+                "traduzioni": [
+                    "noi emettevamo",
+                    "noi schizzavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēiăcŭlabātis",
+                "traduzioni": [
+                    "voi emettevate",
+                    "voi schizzavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēiăcŭlābant",
+                "traduzioni": [
+                    "loro emettevano",
+                    "essi emettevano",
+                    "loro schizzavano",
+                    "essi schizzavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēiăcŭlābo",
+                "traduzioni": [
+                    "io emetterò",
+                    "io schizzerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēiăcŭlābis",
+                "traduzioni": [
+                    "tu emetterai",
+                    "tu schizzerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēiăcŭlābit",
+                "traduzioni": [
+                    "lui emetterà",
+                    "lei emetterà",
+                    "egli emetterà",
+                    "lui schizzerà",
+                    "lei schizzerà",
+                    "egli schizzerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēiăcŭlabĭmus",
+                "traduzioni": [
+                    "noi emetteremo",
+                    "noi schizzeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēiăcŭlabĭtis",
+                "traduzioni": [
+                    "voi emetterete",
+                    "voi schizzerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēiăcŭlābunt",
+                "traduzioni": [
+                    "loro emetteranno",
+                    "essi emetteranno",
+                    "loro schizzeranno",
+                    "essi schizzeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "eiaculavi",
+                "traduzioni": [
+                    "io emisi",
+                    "io ho emesso",
+                    "io ebbi emesso",
+                    "io schizzai",
+                    "io sono schizzato",
+                    "io sono schizzata",
+                    "io fui schizzato",
+                    "io fui schizzata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "eiaculavisti",
+                "traduzioni": [
+                    "tu emettesti",
+                    "tu hai emesso",
+                    "tu avesti emesso",
+                    "tu schizzasti",
+                    "tu sei schizzato",
+                    "tu sei schizzata",
+                    "tu fosti schizzato",
+                    "tu fosti schizzata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "eiaculavit",
+                "traduzioni": [
+                    "lui emise",
+                    "lei emise",
+                    "egli emise",
+                    "lui ha emesso",
+                    "lei ha emesso",
+                    "egli ha emesso",
+                    "lui ebbe emesso",
+                    "lei ebbe emesso",
+                    "egli ebbe emesso",
+                    "lui schizzò",
+                    "lei schizzò",
+                    "egli schizzò",
+                    "lui è schizzato",
+                    "lei è schizzata",
+                    "egli è schizzato",
+                    "lui fu schizzato",
+                    "lei fu schizzata",
+                    "egli fu schizzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "eiaculavĭmus",
+                "traduzioni": [
+                    "noi emettemmo",
+                    "noi abbiamo emesso",
+                    "noi avemmo emesso",
+                    "noi schizzammo",
+                    "noi siamo schizzati",
+                    "noi siamo schizzate",
+                    "noi fummo schizzati",
+                    "noi fummo schizzate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "eiaculavistis",
+                "traduzioni": [
+                    "voi emetteste",
+                    "voi avete emesso",
+                    "voi aveste emesso",
+                    "voi schizzaste",
+                    "voi siete schizzati",
+                    "voi siete schizzate",
+                    "voi foste schizzati",
+                    "voi foste schizzate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "eiaculavērunt, eiaculavēre",
+                "traduzioni": [
+                    "loro emisero",
+                    "essi emisero",
+                    "loro hanno emesso",
+                    "essi hanno emesso",
+                    "loro ebbero emesso",
+                    "essi ebbero emesso",
+                    "loro schizzarono",
+                    "essi schizzarono",
+                    "loro sono schizzati",
+                    "loro sono schizzate",
+                    "essi sono schizzati",
+                    "loro furono schizzati",
+                    "loro furono schizzate",
+                    "essi furono schizzati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "eiaculavĕram",
+                "traduzioni": [
+                    "io avevo emesso",
+                    "io ero schizzato",
+                    "io ero schizzata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "eiaculavĕras",
+                "traduzioni": [
+                    "tu avevi emesso",
+                    "tu eri schizzato",
+                    "tu eri schizzata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "eiaculavĕrat",
+                "traduzioni": [
+                    "lui aveva emesso",
+                    "lei aveva emesso",
+                    "egli aveva emesso",
+                    "lui era schizzato",
+                    "lei era schizzata",
+                    "egli era schizzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "eiaculaverāmus",
+                "traduzioni": [
+                    "noi avevamo emesso",
+                    "noi eravamo schizzati",
+                    "noi eravamo schizzate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "eiaculaverātis",
+                "traduzioni": [
+                    "voi avevate emesso",
+                    "voi eravate schizzati",
+                    "voi eravate schizzate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "eiaculavĕrant",
+                "traduzioni": [
+                    "loro avevano emesso",
+                    "essi avevano emesso",
+                    "loro erano schizzati",
+                    "loro erano schizzate",
+                    "essi erano schizzati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "eiaculavĕro",
+                "traduzioni": [
+                    "io avrò emesso",
+                    "io sarò schizzato",
+                    "io sarò schizzata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "eiaculavĕris",
+                "traduzioni": [
+                    "tu avrai emesso",
+                    "tu sarai schizzato",
+                    "tu sarai schizzata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "eiaculavĕrit",
+                "traduzioni": [
+                    "lui avrà emesso",
+                    "lei avrà emesso",
+                    "egli avrà emesso",
+                    "lui sarà schizzato",
+                    "lei sarà schizzata",
+                    "egli sarà schizzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "eiaculaverĭmus",
+                "traduzioni": [
+                    "noi avremo emesso",
+                    "noi saremo schizzati",
+                    "noi saremo schizzate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "eiaculaverĭtis",
+                "traduzioni": [
+                    "voi avrete emesso",
+                    "voi sarete schizzati",
+                    "voi sarete schizzate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "eiaculavĕrint",
+                "traduzioni": [
+                    "loro avranno emesso",
+                    "essi avranno emesso",
+                    "loro saranno schizzati",
+                    "loro saranno schizzate",
+                    "essi saranno schizzati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēiăcŭlem",
+                "traduzioni": [
+                    "che io emetta",
+                    "che io schizzi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēiăcŭles",
+                "traduzioni": [
+                    "che tu emetta",
+                    "che tu schizzi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēiăcŭlet",
+                "traduzioni": [
+                    "che lui emetta",
+                    "che lei emetta",
+                    "che egli emetta",
+                    "che lui schizzi",
+                    "che lei schizzi",
+                    "che egli schizzi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēiăcŭlēmus",
+                "traduzioni": [
+                    "che noi emettiamo",
+                    "che noi schizziamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēiăcŭlētis",
+                "traduzioni": [
+                    "che voi emettiate",
+                    "che voi schizziate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēiăcŭlent",
+                "traduzioni": [
+                    "che loro emettano",
+                    "che essi emettano",
+                    "che loro schizzino",
+                    "che essi schizzino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēiăcŭlārem",
+                "traduzioni": [
+                    "che io emettessi",
+                    "che io schizzassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēiăcŭlāres",
+                "traduzioni": [
+                    "che tu emettessi",
+                    "che tu schizzassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēiăcŭlāret",
+                "traduzioni": [
+                    "che lui emettesse",
+                    "che lei emettesse",
+                    "che egli emettesse",
+                    "che lui schizzasse",
+                    "che lei schizzasse",
+                    "che egli schizzasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēiăcŭlarēmus",
+                "traduzioni": [
+                    "che noi emettessimo",
+                    "che noi schizzassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēiăcŭlarētis",
+                "traduzioni": [
+                    "che voi emetteste",
+                    "che voi schizzaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēiăcŭlārent",
+                "traduzioni": [
+                    "che loro emettessero",
+                    "che essi emettessero",
+                    "che loro schizzassero",
+                    "che essi schizzassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "eiaculavĕrim",
+                "traduzioni": [
+                    "che io abbia emesso",
+                    "che io sia schizzato",
+                    "che io sia schizzata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "eiaculavĕris",
+                "traduzioni": [
+                    "che tu abbia emesso",
+                    "che tu sia schizzato",
+                    "che tu sia schizzata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "eiaculavĕrit",
+                "traduzioni": [
+                    "che lui abbia emesso",
+                    "che lei abbia emesso",
+                    "che egli abbia emesso",
+                    "che lui sia schizzato",
+                    "che lei sia schizzata",
+                    "che egli sia schizzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "eiaculaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo emesso",
+                    "che noi siamo schizzati",
+                    "che noi siamo schizzate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "eiaculaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate emesso",
+                    "che voi siate schizzati",
+                    "che voi siate schizzate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "eiaculavĕrint",
+                "traduzioni": [
+                    "che loro abbiano emesso",
+                    "che essi abbiano emesso",
+                    "che loro siano schizzati",
+                    "che loro siano schizzate",
+                    "che essi siano schizzati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "eiaculavissem",
+                "traduzioni": [
+                    "che io avessi emesso",
+                    "che io fossi schizzato",
+                    "che io fossi schizzata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "eiaculavisses",
+                "traduzioni": [
+                    "che tu avessi emesso",
+                    "che tu fossi schizzato",
+                    "che tu fossi schizzata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "eiaculavisset",
+                "traduzioni": [
+                    "che lui avesse emesso",
+                    "che lei avesse emesso",
+                    "che egli avesse emesso",
+                    "che lui fosse schizzato",
+                    "che lei fosse schizzata",
+                    "che egli fosse schizzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "eiaculavissēmus",
+                "traduzioni": [
+                    "che noi avessimo emesso",
+                    "che noi fossimo schizzati",
+                    "che noi fossimo schizzate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "eiaculavissētis",
+                "traduzioni": [
+                    "che voi aveste emesso",
+                    "che voi foste schizzati",
+                    "che voi foste schizzate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "eiaculavissent",
+                "traduzioni": [
+                    "che loro avessero emesso",
+                    "che essi avessero emesso",
+                    "che loro fossero schizzati",
+                    "che loro fossero schizzate",
+                    "che essi fossero schizzati"
+                ]
+            }
+        ]
+    }
+}

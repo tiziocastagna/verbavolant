@@ -1,0 +1,537 @@
+{
+    "identifier": "RECUBO",
+    "conuigazione": "1",
+    "translation": [
+        "giacere"
+    ],
+    "valid_translations": [
+        "giacere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕcŭbo",
+                "traduzioni": [
+                    "io giaccio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕcŭbas",
+                "traduzioni": [
+                    "tu giaci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕcŭbat",
+                "traduzioni": [
+                    "lui giace",
+                    "lei giace",
+                    "egli giace"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕcŭbāmus",
+                "traduzioni": [
+                    "noi giacciamo",
+                    "noi giaciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕcŭbātis",
+                "traduzioni": [
+                    "voi giacete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕcŭbant",
+                "traduzioni": [
+                    "loro giacciono",
+                    "essi giacciono",
+                    "loro giaciono",
+                    "essi giaciono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕcŭbābam",
+                "traduzioni": [
+                    "io giacevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕcŭbābas",
+                "traduzioni": [
+                    "tu giacevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕcŭbābat",
+                "traduzioni": [
+                    "lui giaceva",
+                    "lei giaceva",
+                    "egli giaceva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕcŭbabāmus",
+                "traduzioni": [
+                    "noi giacevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕcŭbabātis",
+                "traduzioni": [
+                    "voi giacevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕcŭbābant",
+                "traduzioni": [
+                    "loro giacevano",
+                    "essi giacevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕcŭbābo",
+                "traduzioni": [
+                    "io giacerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕcŭbābis",
+                "traduzioni": [
+                    "tu giacerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕcŭbābit",
+                "traduzioni": [
+                    "lui giacerà",
+                    "lei giacerà",
+                    "egli giacerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕcŭbabĭmus",
+                "traduzioni": [
+                    "noi giaceremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕcŭbabĭtis",
+                "traduzioni": [
+                    "voi giacerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕcŭbābunt",
+                "traduzioni": [
+                    "loro giaceranno",
+                    "essi giaceranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io giacqui",
+                    "io sono giaciuto",
+                    "io sono giaciuta",
+                    "io fui giaciuto",
+                    "io fui giaciuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu giacesti",
+                    "tu sei giaciuto",
+                    "tu sei giaciuta",
+                    "tu fosti giaciuto",
+                    "tu fosti giaciuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui giacque",
+                    "lei giacque",
+                    "egli giacque",
+                    "lui è giaciuto",
+                    "lei è giaciuta",
+                    "egli è giaciuto",
+                    "lui fu giaciuto",
+                    "lei fu giaciuta",
+                    "egli fu giaciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi giacemmo",
+                    "noi siamo giaciuti",
+                    "noi siamo giaciute",
+                    "noi fummo giaciuti",
+                    "noi fummo giaciute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi giaceste",
+                    "voi siete giaciuti",
+                    "voi siete giaciute",
+                    "voi foste giaciuti",
+                    "voi foste giaciute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro giacquero",
+                    "essi giacquero",
+                    "loro sono giaciuti",
+                    "loro sono giaciute",
+                    "essi sono giaciuti",
+                    "loro furono giaciuti",
+                    "loro furono giaciute",
+                    "essi furono giaciuti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io ero giaciuto",
+                    "io ero giaciuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu eri giaciuto",
+                    "tu eri giaciuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui era giaciuto",
+                    "lei era giaciuta",
+                    "egli era giaciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi eravamo giaciuti",
+                    "noi eravamo giaciute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi eravate giaciuti",
+                    "voi eravate giaciute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro erano giaciuti",
+                    "loro erano giaciute",
+                    "essi erano giaciuti"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io sarò giaciuto",
+                    "io sarò giaciuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu sarai giaciuto",
+                    "tu sarai giaciuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui sarà giaciuto",
+                    "lei sarà giaciuta",
+                    "egli sarà giaciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi saremo giaciuti",
+                    "noi saremo giaciute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi sarete giaciuti",
+                    "voi sarete giaciute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro saranno giaciuti",
+                    "loro saranno giaciute",
+                    "essi saranno giaciuti"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕcŭbem",
+                "traduzioni": [
+                    "che io giaccia"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕcŭbes",
+                "traduzioni": [
+                    "che tu giaccia"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕcŭbet",
+                "traduzioni": [
+                    "che lui giaccia",
+                    "che lei giaccia",
+                    "che egli giaccia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕcŭbēmus",
+                "traduzioni": [
+                    "che noi giacciamo",
+                    "che noi giaciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕcŭbētis",
+                "traduzioni": [
+                    "che voi giacciate",
+                    "che voi giaciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕcŭbent",
+                "traduzioni": [
+                    "che loro giacciano",
+                    "che essi giacciano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕcŭbārem",
+                "traduzioni": [
+                    "che io giacessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕcŭbāres",
+                "traduzioni": [
+                    "che tu giacessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕcŭbāret",
+                "traduzioni": [
+                    "che lui giacesse",
+                    "che lei giacesse",
+                    "che egli giacesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕcŭbarēmus",
+                "traduzioni": [
+                    "che noi giacessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕcŭbarētis",
+                "traduzioni": [
+                    "che voi giaceste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕcŭbārent",
+                "traduzioni": [
+                    "che loro giacessero",
+                    "che essi giacessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io sia giaciuto",
+                    "che io sia giaciuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu sia giaciuto",
+                    "che tu sia giaciuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui sia giaciuto",
+                    "che lei sia giaciuta",
+                    "che egli sia giaciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi siamo giaciuti",
+                    "che noi siamo giaciute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi siate giaciuti",
+                    "che voi siate giaciute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro siano giaciuti",
+                    "che loro siano giaciute",
+                    "che essi siano giaciuti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io fossi giaciuto",
+                    "che io fossi giaciuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu fossi giaciuto",
+                    "che tu fossi giaciuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui fosse giaciuto",
+                    "che lei fosse giaciuta",
+                    "che egli fosse giaciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi fossimo giaciuti",
+                    "che noi fossimo giaciute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi foste giaciuti",
+                    "che voi foste giaciute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro fossero giaciuti",
+                    "che loro fossero giaciute",
+                    "che essi fossero giaciuti"
+                ]
+            }
+        ]
+    }
+}

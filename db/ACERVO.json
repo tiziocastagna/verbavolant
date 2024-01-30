@@ -1,0 +1,722 @@
+{
+    "identifier": "ACERVO",
+    "conuigazione": "1",
+    "translation": [
+        "ammucchiare",
+        "ammassare",
+        "accumulare"
+    ],
+    "valid_translations": [
+        "ammucchiare",
+        "ammassare",
+        "accumulare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăcervo",
+                "traduzioni": [
+                    "io ammucchio",
+                    "io ammasso",
+                    "io accumulo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăcervas",
+                "traduzioni": [
+                    "tu ammucchi",
+                    "tu ammassi",
+                    "tu accumuli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăcervat",
+                "traduzioni": [
+                    "lui ammucchia",
+                    "lei ammucchia",
+                    "egli ammucchia",
+                    "lui ammassa",
+                    "lei ammassa",
+                    "egli ammassa",
+                    "lui accumula",
+                    "lei accumula",
+                    "egli accumula"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăcervāmus",
+                "traduzioni": [
+                    "noi ammucchiamo",
+                    "noi ammassiamo",
+                    "noi accumuliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăcervātis",
+                "traduzioni": [
+                    "voi ammucchiate",
+                    "voi ammassate",
+                    "voi accumulate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăcervant",
+                "traduzioni": [
+                    "loro ammucchiano",
+                    "essi ammucchiano",
+                    "loro ammassano",
+                    "essi ammassano",
+                    "loro accumulano",
+                    "essi accumulano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăcervābam",
+                "traduzioni": [
+                    "io ammucchiavo",
+                    "io ammassavo",
+                    "io accumulavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăcervābas",
+                "traduzioni": [
+                    "tu ammucchiavi",
+                    "tu ammassavi",
+                    "tu accumulavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăcervābat",
+                "traduzioni": [
+                    "lui ammucchiava",
+                    "lei ammucchiava",
+                    "egli ammucchiava",
+                    "lui ammassava",
+                    "lei ammassava",
+                    "egli ammassava",
+                    "lui accumulava",
+                    "lei accumulava",
+                    "egli accumulava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăcervabāmus",
+                "traduzioni": [
+                    "noi ammucchiavamo",
+                    "noi ammassavamo",
+                    "noi accumulavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăcervabātis",
+                "traduzioni": [
+                    "voi ammucchiavate",
+                    "voi ammassavate",
+                    "voi accumulavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăcervābant",
+                "traduzioni": [
+                    "loro ammucchiavano",
+                    "essi ammucchiavano",
+                    "loro ammassavano",
+                    "essi ammassavano",
+                    "loro accumulavano",
+                    "essi accumulavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăcervābo",
+                "traduzioni": [
+                    "io ammucchierò",
+                    "io ammasserò",
+                    "io accumulerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăcervābis",
+                "traduzioni": [
+                    "tu ammucchierai",
+                    "tu ammasserai",
+                    "tu accumulerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăcervābit",
+                "traduzioni": [
+                    "lui ammucchierà",
+                    "lei ammucchierà",
+                    "egli ammucchierà",
+                    "lui ammasserà",
+                    "lei ammasserà",
+                    "egli ammasserà",
+                    "lui accumulerà",
+                    "lei accumulerà",
+                    "egli accumulerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăcervabĭmus",
+                "traduzioni": [
+                    "noi ammucchieremo",
+                    "noi ammasseremo",
+                    "noi accumuleremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăcervabĭtis",
+                "traduzioni": [
+                    "voi ammucchierete",
+                    "voi ammasserete",
+                    "voi accumulerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăcervābunt",
+                "traduzioni": [
+                    "loro ammucchieranno",
+                    "essi ammucchieranno",
+                    "loro ammasseranno",
+                    "essi ammasseranno",
+                    "loro accumuleranno",
+                    "essi accumuleranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "acervavi",
+                "traduzioni": [
+                    "io ammucchiai",
+                    "io ho ammucchiato",
+                    "io ebbi ammucchiato",
+                    "io ammassai",
+                    "io ho ammassato",
+                    "io ebbi ammassato",
+                    "io accumulai",
+                    "io ho accumulato",
+                    "io ebbi accumulato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acervavisti",
+                "traduzioni": [
+                    "tu ammucchiasti",
+                    "tu hai ammucchiato",
+                    "tu avesti ammucchiato",
+                    "tu ammassasti",
+                    "tu hai ammassato",
+                    "tu avesti ammassato",
+                    "tu accumulasti",
+                    "tu hai accumulato",
+                    "tu avesti accumulato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acervavit",
+                "traduzioni": [
+                    "lui ammucchiò",
+                    "lei ammucchiò",
+                    "egli ammucchiò",
+                    "lui ha ammucchiato",
+                    "lei ha ammucchiato",
+                    "egli ha ammucchiato",
+                    "lui ebbe ammucchiato",
+                    "lei ebbe ammucchiato",
+                    "egli ebbe ammucchiato",
+                    "lui ammassò",
+                    "lei ammassò",
+                    "egli ammassò",
+                    "lui ha ammassato",
+                    "lei ha ammassato",
+                    "egli ha ammassato",
+                    "lui ebbe ammassato",
+                    "lei ebbe ammassato",
+                    "egli ebbe ammassato",
+                    "lui accumulò",
+                    "lei accumulò",
+                    "egli accumulò",
+                    "lui ha accumulato",
+                    "lei ha accumulato",
+                    "egli ha accumulato",
+                    "lui ebbe accumulato",
+                    "lei ebbe accumulato",
+                    "egli ebbe accumulato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acervavĭmus",
+                "traduzioni": [
+                    "noi ammucchiammo",
+                    "noi abbiamo ammucchiato",
+                    "noi avemmo ammucchiato",
+                    "noi ammassammo",
+                    "noi abbiamo ammassato",
+                    "noi avemmo ammassato",
+                    "noi accumulammo",
+                    "noi abbiamo accumulato",
+                    "noi avemmo accumulato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acervavistis",
+                "traduzioni": [
+                    "voi ammucchiaste",
+                    "voi avete ammucchiato",
+                    "voi aveste ammucchiato",
+                    "voi ammassaste",
+                    "voi avete ammassato",
+                    "voi aveste ammassato",
+                    "voi accumulaste",
+                    "voi avete accumulato",
+                    "voi aveste accumulato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acervavērunt, acervavēre",
+                "traduzioni": [
+                    "loro ammucchiarono",
+                    "essi ammucchiarono",
+                    "loro hanno ammucchiato",
+                    "essi hanno ammucchiato",
+                    "loro ebbero ammucchiato",
+                    "essi ebbero ammucchiato",
+                    "loro ammassarono",
+                    "essi ammassarono",
+                    "loro hanno ammassato",
+                    "essi hanno ammassato",
+                    "loro ebbero ammassato",
+                    "essi ebbero ammassato",
+                    "loro accumularono",
+                    "essi accumularono",
+                    "loro hanno accumulato",
+                    "essi hanno accumulato",
+                    "loro ebbero accumulato",
+                    "essi ebbero accumulato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "acervavĕram",
+                "traduzioni": [
+                    "io avevo ammucchiato",
+                    "io avevo ammassato",
+                    "io avevo accumulato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acervavĕras",
+                "traduzioni": [
+                    "tu avevi ammucchiato",
+                    "tu avevi ammassato",
+                    "tu avevi accumulato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acervavĕrat",
+                "traduzioni": [
+                    "lui aveva ammucchiato",
+                    "lei aveva ammucchiato",
+                    "egli aveva ammucchiato",
+                    "lui aveva ammassato",
+                    "lei aveva ammassato",
+                    "egli aveva ammassato",
+                    "lui aveva accumulato",
+                    "lei aveva accumulato",
+                    "egli aveva accumulato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acervaverāmus",
+                "traduzioni": [
+                    "noi avevamo ammucchiato",
+                    "noi avevamo ammassato",
+                    "noi avevamo accumulato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acervaverātis",
+                "traduzioni": [
+                    "voi avevate ammucchiato",
+                    "voi avevate ammassato",
+                    "voi avevate accumulato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acervavĕrant",
+                "traduzioni": [
+                    "loro avevano ammucchiato",
+                    "essi avevano ammucchiato",
+                    "loro avevano ammassato",
+                    "essi avevano ammassato",
+                    "loro avevano accumulato",
+                    "essi avevano accumulato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "acervavĕro",
+                "traduzioni": [
+                    "io avrò ammucchiato",
+                    "io avrò ammassato",
+                    "io avrò accumulato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acervavĕris",
+                "traduzioni": [
+                    "tu avrai ammucchiato",
+                    "tu avrai ammassato",
+                    "tu avrai accumulato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acervavĕrit",
+                "traduzioni": [
+                    "lui avrà ammucchiato",
+                    "lei avrà ammucchiato",
+                    "egli avrà ammucchiato",
+                    "lui avrà ammassato",
+                    "lei avrà ammassato",
+                    "egli avrà ammassato",
+                    "lui avrà accumulato",
+                    "lei avrà accumulato",
+                    "egli avrà accumulato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acervaverĭmus",
+                "traduzioni": [
+                    "noi avremo ammucchiato",
+                    "noi avremo ammassato",
+                    "noi avremo accumulato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acervaverĭtis",
+                "traduzioni": [
+                    "voi avrete ammucchiato",
+                    "voi avrete ammassato",
+                    "voi avrete accumulato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acervavĕrint",
+                "traduzioni": [
+                    "loro avranno ammucchiato",
+                    "essi avranno ammucchiato",
+                    "loro avranno ammassato",
+                    "essi avranno ammassato",
+                    "loro avranno accumulato",
+                    "essi avranno accumulato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăcervem",
+                "traduzioni": [
+                    "che io ammucchi",
+                    "che io ammassi",
+                    "che io accumuli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăcerves",
+                "traduzioni": [
+                    "che tu ammucchi",
+                    "che tu ammassi",
+                    "che tu accumuli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăcervet",
+                "traduzioni": [
+                    "che lui ammucchi",
+                    "che lei ammucchi",
+                    "che egli ammucchi",
+                    "che lui ammassi",
+                    "che lei ammassi",
+                    "che egli ammassi",
+                    "che lui accumuli",
+                    "che lei accumuli",
+                    "che egli accumuli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăcervēmus",
+                "traduzioni": [
+                    "che noi ammucchiamo",
+                    "che noi ammassiamo",
+                    "che noi accumuliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăcervētis",
+                "traduzioni": [
+                    "che voi ammucchiate",
+                    "che voi ammassiate",
+                    "che voi accumuliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăcervent",
+                "traduzioni": [
+                    "che loro ammucchino",
+                    "che essi ammucchino",
+                    "che loro ammassino",
+                    "che essi ammassino",
+                    "che loro accumulino",
+                    "che essi accumulino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăcervārem",
+                "traduzioni": [
+                    "che io ammucchiassi",
+                    "che io ammassassi",
+                    "che io accumulassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăcervāres",
+                "traduzioni": [
+                    "che tu ammucchiassi",
+                    "che tu ammassassi",
+                    "che tu accumulassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăcervāret",
+                "traduzioni": [
+                    "che lui ammucchiasse",
+                    "che lei ammucchiasse",
+                    "che egli ammucchiasse",
+                    "che lui ammassasse",
+                    "che lei ammassasse",
+                    "che egli ammassasse",
+                    "che lui accumulasse",
+                    "che lei accumulasse",
+                    "che egli accumulasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăcervarēmus",
+                "traduzioni": [
+                    "che noi ammucchiassimo",
+                    "che noi ammassassimo",
+                    "che noi accumulassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăcervarētis",
+                "traduzioni": [
+                    "che voi ammucchiaste",
+                    "che voi ammassaste",
+                    "che voi accumulaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăcervārent",
+                "traduzioni": [
+                    "che loro ammucchiassero",
+                    "che essi ammucchiassero",
+                    "che loro ammassassero",
+                    "che essi ammassassero",
+                    "che loro accumulassero",
+                    "che essi accumulassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "acervavĕrim",
+                "traduzioni": [
+                    "che io abbia ammucchiato",
+                    "che io abbia ammassato",
+                    "che io abbia accumulato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acervavĕris",
+                "traduzioni": [
+                    "che tu abbia ammucchiato",
+                    "che tu abbia ammassato",
+                    "che tu abbia accumulato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acervavĕrit",
+                "traduzioni": [
+                    "che lui abbia ammucchiato",
+                    "che lei abbia ammucchiato",
+                    "che egli abbia ammucchiato",
+                    "che lui abbia ammassato",
+                    "che lei abbia ammassato",
+                    "che egli abbia ammassato",
+                    "che lui abbia accumulato",
+                    "che lei abbia accumulato",
+                    "che egli abbia accumulato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acervaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo ammucchiato",
+                    "che noi abbiamo ammassato",
+                    "che noi abbiamo accumulato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acervaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate ammucchiato",
+                    "che voi abbiate ammassato",
+                    "che voi abbiate accumulato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acervavĕrint",
+                "traduzioni": [
+                    "che loro abbiano ammucchiato",
+                    "che essi abbiano ammucchiato",
+                    "che loro abbiano ammassato",
+                    "che essi abbiano ammassato",
+                    "che loro abbiano accumulato",
+                    "che essi abbiano accumulato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "acervavissem",
+                "traduzioni": [
+                    "che io avessi ammucchiato",
+                    "che io avessi ammassato",
+                    "che io avessi accumulato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acervavisses",
+                "traduzioni": [
+                    "che tu avessi ammucchiato",
+                    "che tu avessi ammassato",
+                    "che tu avessi accumulato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acervavisset",
+                "traduzioni": [
+                    "che lui avesse ammucchiato",
+                    "che lei avesse ammucchiato",
+                    "che egli avesse ammucchiato",
+                    "che lui avesse ammassato",
+                    "che lei avesse ammassato",
+                    "che egli avesse ammassato",
+                    "che lui avesse accumulato",
+                    "che lei avesse accumulato",
+                    "che egli avesse accumulato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acervavissēmus",
+                "traduzioni": [
+                    "che noi avessimo ammucchiato",
+                    "che noi avessimo ammassato",
+                    "che noi avessimo accumulato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acervavissētis",
+                "traduzioni": [
+                    "che voi aveste ammucchiato",
+                    "che voi aveste ammassato",
+                    "che voi aveste accumulato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acervavissent",
+                "traduzioni": [
+                    "che loro avessero ammucchiato",
+                    "che essi avessero ammucchiato",
+                    "che loro avessero ammassato",
+                    "che essi avessero ammassato",
+                    "che loro avessero accumulato",
+                    "che essi avessero accumulato"
+                ]
+            }
+        ]
+    }
+}

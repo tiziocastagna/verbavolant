@@ -1,0 +1,503 @@
+{
+    "identifier": "APPLAUDO",
+    "conuigazione": "3",
+    "translation": [
+        "percuotere",
+        "(intransitivo) applaudire"
+    ],
+    "valid_translations": [
+        "percuotere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "applaudo",
+                "traduzioni": [
+                    "io percuoto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "applaudis",
+                "traduzioni": [
+                    "tu percuoti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "applaudit",
+                "traduzioni": [
+                    "lui percuote",
+                    "lei percuote",
+                    "egli percuote"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "applaudĭmus",
+                "traduzioni": [
+                    "noi perc(u)otiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "applaudĭtis",
+                "traduzioni": [
+                    "voi perc(u)otete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "applaudunt",
+                "traduzioni": [
+                    "loro percuotono",
+                    "essi percuotono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "applaudēbam",
+                "traduzioni": [
+                    "io perc(u)otevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "applaudēbas",
+                "traduzioni": [
+                    "tu perc(u)otevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "applaudēbat",
+                "traduzioni": [
+                    "lui perc(u)oteva",
+                    "lei perc(u)oteva",
+                    "egli perc(u)oteva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "applaudebāmus",
+                "traduzioni": [
+                    "noi perc(u)otevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "applaudebātis",
+                "traduzioni": [
+                    "voi perc(u)otevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "applaudēbant",
+                "traduzioni": [
+                    "loro perc(u)otevano",
+                    "essi perc(u)otevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "applaudam",
+                "traduzioni": [
+                    "io perc(u)oterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "applaudes",
+                "traduzioni": [
+                    "tu perc(u)oterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "applaudet",
+                "traduzioni": [
+                    "lui perc(u)oterà",
+                    "lei perc(u)oterà",
+                    "egli perc(u)oterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "applaudēmus",
+                "traduzioni": [
+                    "noi perc(u)oteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "applaudētis",
+                "traduzioni": [
+                    "voi perc(u)oterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "applaudent",
+                "traduzioni": [
+                    "loro perc(u)oteranno",
+                    "essi perc(u)oteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "applausi",
+                "traduzioni": [
+                    "io percossi",
+                    "io ho percosso",
+                    "io ebbi percosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "applausisti",
+                "traduzioni": [
+                    "tu perc(u)otesti",
+                    "tu hai percosso",
+                    "tu avesti percosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "applausit",
+                "traduzioni": [
+                    "lui percosse",
+                    "lei percosse",
+                    "egli percosse",
+                    "lui ha percosso",
+                    "lei ha percosso",
+                    "egli ha percosso",
+                    "lui ebbe percosso",
+                    "lei ebbe percosso",
+                    "egli ebbe percosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "applausĭmus",
+                "traduzioni": [
+                    "noi perc(u)otemmo",
+                    "noi abbiamo percosso",
+                    "noi avemmo percosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "applausistis",
+                "traduzioni": [
+                    "voi perc(u)oteste",
+                    "voi avete percosso",
+                    "voi aveste percosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "applausērunt, applausēre",
+                "traduzioni": [
+                    "loro percossero",
+                    "essi percossero",
+                    "loro hanno percosso",
+                    "essi hanno percosso",
+                    "loro ebbero percosso",
+                    "essi ebbero percosso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "applausĕram",
+                "traduzioni": [
+                    "io avevo percosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "applausĕras",
+                "traduzioni": [
+                    "tu avevi percosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "applausĕrat",
+                "traduzioni": [
+                    "lui aveva percosso",
+                    "lei aveva percosso",
+                    "egli aveva percosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "applauserāmus",
+                "traduzioni": [
+                    "noi avevamo percosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "applauserātis",
+                "traduzioni": [
+                    "voi avevate percosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "applausĕrant",
+                "traduzioni": [
+                    "loro avevano percosso",
+                    "essi avevano percosso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "applausĕro",
+                "traduzioni": [
+                    "io avrò percosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "applausĕris",
+                "traduzioni": [
+                    "tu avrai percosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "applausĕrit",
+                "traduzioni": [
+                    "lui avrà percosso",
+                    "lei avrà percosso",
+                    "egli avrà percosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "applauserĭmus",
+                "traduzioni": [
+                    "noi avremo percosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "applauserĭtis",
+                "traduzioni": [
+                    "voi avrete percosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "applausĕrint",
+                "traduzioni": [
+                    "loro avranno percosso",
+                    "essi avranno percosso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "applaudam",
+                "traduzioni": [
+                    "che io percuota"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "applaudas",
+                "traduzioni": [
+                    "che tu percuota"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "applaudat",
+                "traduzioni": [
+                    "che lui percuota",
+                    "che lei percuota",
+                    "che egli percuota"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "applaudāmus",
+                "traduzioni": [
+                    "che noi perc(u)otiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "applaudātis",
+                "traduzioni": [
+                    "che voi perc(u)otiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "applaudant",
+                "traduzioni": [
+                    "che loro percuotano",
+                    "che essi percuotano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "applaudĕrem",
+                "traduzioni": [
+                    "che io perc(u)otessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "applaudĕres",
+                "traduzioni": [
+                    "che tu perc(u)otessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "applaudĕret",
+                "traduzioni": [
+                    "che lui perc(u)otesse",
+                    "che lei perc(u)otesse",
+                    "che egli perc(u)otesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "applauderēmus",
+                "traduzioni": [
+                    "che noi perc(u)otessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "applauderētis",
+                "traduzioni": [
+                    "che voi perc(u)oteste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "applaudĕrent",
+                "traduzioni": [
+                    "che loro perc(u)otessero",
+                    "che essi perc(u)otessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "applausĕrim",
+                "traduzioni": [
+                    "che io abbia percosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "applausĕris",
+                "traduzioni": [
+                    "che tu abbia percosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "applausĕrit",
+                "traduzioni": [
+                    "che lui abbia percosso",
+                    "che lei abbia percosso",
+                    "che egli abbia percosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "applauserĭmus",
+                "traduzioni": [
+                    "che noi abbiamo percosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "applauserĭtis",
+                "traduzioni": [
+                    "che voi abbiate percosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "applausĕrint",
+                "traduzioni": [
+                    "che loro abbiano percosso",
+                    "che essi abbiano percosso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "applausissem",
+                "traduzioni": [
+                    "che io avessi percosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "applausisses",
+                "traduzioni": [
+                    "che tu avessi percosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "applausisset",
+                "traduzioni": [
+                    "che lui avesse percosso",
+                    "che lei avesse percosso",
+                    "che egli avesse percosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "applausissēmus",
+                "traduzioni": [
+                    "che noi avessimo percosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "applausissētis",
+                "traduzioni": [
+                    "che voi aveste percosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "applausissent",
+                "traduzioni": [
+                    "che loro avessero percosso",
+                    "che essi avessero percosso"
+                ]
+            }
+        ]
+    }
+}

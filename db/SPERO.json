@@ -1,0 +1,509 @@
+{
+    "identifier": "SPERO",
+    "conuigazione": "1",
+    "translation": [
+        "(in senso favorevole) sperare",
+        "temere"
+    ],
+    "valid_translations": [
+        "temere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "spēro",
+                "traduzioni": [
+                    "io temo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spēras",
+                "traduzioni": [
+                    "tu temi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spērat",
+                "traduzioni": [
+                    "lui teme",
+                    "lei teme",
+                    "egli teme"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spērāmus",
+                "traduzioni": [
+                    "noi temiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spērātis",
+                "traduzioni": [
+                    "voi temete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spērant",
+                "traduzioni": [
+                    "loro temono",
+                    "essi temono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "spērābam",
+                "traduzioni": [
+                    "io temevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spērābas",
+                "traduzioni": [
+                    "tu temevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spērābat",
+                "traduzioni": [
+                    "lui temeva",
+                    "lei temeva",
+                    "egli temeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spērabāmus",
+                "traduzioni": [
+                    "noi temevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spērabātis",
+                "traduzioni": [
+                    "voi temevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spērābant",
+                "traduzioni": [
+                    "loro temevano",
+                    "essi temevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "spērābo",
+                "traduzioni": [
+                    "io temerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spērābis",
+                "traduzioni": [
+                    "tu temerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spērābit",
+                "traduzioni": [
+                    "lui temerà",
+                    "lei temerà",
+                    "egli temerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spērabĭmus",
+                "traduzioni": [
+                    "noi temeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spērabĭtis",
+                "traduzioni": [
+                    "voi temerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spērābunt",
+                "traduzioni": [
+                    "loro temeranno",
+                    "essi temeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "speravi",
+                "traduzioni": [
+                    "io temetti",
+                    "io temei",
+                    "io ho temuto",
+                    "io ebbi temuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "speravisti",
+                "traduzioni": [
+                    "tu temesti",
+                    "tu hai temuto",
+                    "tu avesti temuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "speravit",
+                "traduzioni": [
+                    "lui temette",
+                    "lei temette",
+                    "egli temette",
+                    "lui temé",
+                    "lei temé",
+                    "egli temé",
+                    "lui ha temuto",
+                    "lei ha temuto",
+                    "egli ha temuto",
+                    "lui ebbe temuto",
+                    "lei ebbe temuto",
+                    "egli ebbe temuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "speravĭmus",
+                "traduzioni": [
+                    "noi tememmo",
+                    "noi abbiamo temuto",
+                    "noi avemmo temuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "speravistis",
+                "traduzioni": [
+                    "voi temeste",
+                    "voi avete temuto",
+                    "voi aveste temuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "speravēreunt, speravēre",
+                "traduzioni": [
+                    "loro temettero",
+                    "essi temettero",
+                    "loro temerono",
+                    "essi temerono",
+                    "loro hanno temuto",
+                    "essi hanno temuto",
+                    "loro ebbero temuto",
+                    "essi ebbero temuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "speravĕram",
+                "traduzioni": [
+                    "io avevo temuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "speravĕras",
+                "traduzioni": [
+                    "tu avevi temuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "speravĕrat",
+                "traduzioni": [
+                    "lui aveva temuto",
+                    "lei aveva temuto",
+                    "egli aveva temuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "speraverāmus",
+                "traduzioni": [
+                    "noi avevamo temuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "speraverātis",
+                "traduzioni": [
+                    "voi avevate temuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "speravĕrant",
+                "traduzioni": [
+                    "loro avevano temuto",
+                    "essi avevano temuto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "speravĕro",
+                "traduzioni": [
+                    "io avrò temuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "speravĕris",
+                "traduzioni": [
+                    "tu avrai temuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "speravĕrit",
+                "traduzioni": [
+                    "lui avrà temuto",
+                    "lei avrà temuto",
+                    "egli avrà temuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "speraverĭmus",
+                "traduzioni": [
+                    "noi avremo temuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "speraverĭtis",
+                "traduzioni": [
+                    "voi avrete temuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "speravĕrint",
+                "traduzioni": [
+                    "loro avranno temuto",
+                    "essi avranno temuto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "spērem",
+                "traduzioni": [
+                    "che io tema"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spēres",
+                "traduzioni": [
+                    "che tu tema"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spēret",
+                "traduzioni": [
+                    "che lui tema",
+                    "che lei tema",
+                    "che egli tema"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spērēmus",
+                "traduzioni": [
+                    "che noi temiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spērētis",
+                "traduzioni": [
+                    "che voi temiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spērent",
+                "traduzioni": [
+                    "che loro temano",
+                    "che essi temano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "spērārem",
+                "traduzioni": [
+                    "che io temessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spērāres",
+                "traduzioni": [
+                    "che tu temessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spērāret",
+                "traduzioni": [
+                    "che lui temesse",
+                    "che lei temesse",
+                    "che egli temesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spērarēmus",
+                "traduzioni": [
+                    "che noi temessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spērarētis",
+                "traduzioni": [
+                    "che voi temeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spērārent",
+                "traduzioni": [
+                    "che loro temessero",
+                    "che essi temessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "speravĕrim",
+                "traduzioni": [
+                    "che io abbia temuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "speravĕris",
+                "traduzioni": [
+                    "che tu abbia temuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "speravĕrit",
+                "traduzioni": [
+                    "che lui abbia temuto",
+                    "che lei abbia temuto",
+                    "che egli abbia temuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "speraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo temuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "speraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate temuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "speravĕrint",
+                "traduzioni": [
+                    "che loro abbiano temuto",
+                    "che essi abbiano temuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "speravissem",
+                "traduzioni": [
+                    "che io avessi temuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "speravisses",
+                "traduzioni": [
+                    "che tu avessi temuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "speravisset",
+                "traduzioni": [
+                    "che lui avesse temuto",
+                    "che lei avesse temuto",
+                    "che egli avesse temuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "speravissēmus",
+                "traduzioni": [
+                    "che noi avessimo temuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "speravissētis",
+                "traduzioni": [
+                    "che voi aveste temuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "speravissent",
+                "traduzioni": [
+                    "che loro avessero temuto",
+                    "che essi avessero temuto"
+                ]
+            }
+        ]
+    }
+}

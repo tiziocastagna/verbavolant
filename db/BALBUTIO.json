@@ -1,0 +1,612 @@
+{
+    "identifier": "BALBUTIO",
+    "conuigazione": "4",
+    "translation": [
+        "balbettare",
+        "tartagliare"
+    ],
+    "valid_translations": [
+        "balbettare",
+        "tartagliare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "balbūtĭo",
+                "traduzioni": [
+                    "io balbetto",
+                    "io tartaglio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "balbūtis",
+                "traduzioni": [
+                    "tu balbetti",
+                    "tu tartagli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "balbūtit",
+                "traduzioni": [
+                    "lui balbetta",
+                    "lei balbetta",
+                    "egli balbetta",
+                    "lui tartaglia",
+                    "lei tartaglia",
+                    "egli tartaglia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "balbūtīmus",
+                "traduzioni": [
+                    "noi balbettiamo",
+                    "noi tartagliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "balbūtītis",
+                "traduzioni": [
+                    "voi balbettate",
+                    "voi tartagliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "balbūtĭunt",
+                "traduzioni": [
+                    "loro balbettano",
+                    "essi balbettano",
+                    "loro tartagliano",
+                    "essi tartagliano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "balbūtiēbam",
+                "traduzioni": [
+                    "io balbettavo",
+                    "io tartagliavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "balbūtiēbas",
+                "traduzioni": [
+                    "tu balbettavi",
+                    "tu tartagliavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "balbūtiēbat",
+                "traduzioni": [
+                    "lui balbettava",
+                    "lei balbettava",
+                    "egli balbettava",
+                    "lui tartagliava",
+                    "lei tartagliava",
+                    "egli tartagliava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "balbūtiebāmus",
+                "traduzioni": [
+                    "noi balbettavamo",
+                    "noi tartagliavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "balbūtiebātis",
+                "traduzioni": [
+                    "voi balbettavate",
+                    "voi tartagliavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "balbūtiēbant",
+                "traduzioni": [
+                    "loro balbettavano",
+                    "essi balbettavano",
+                    "loro tartagliavano",
+                    "essi tartagliavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "balbūtĭam",
+                "traduzioni": [
+                    "io balbetterò",
+                    "io tartaglierò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "balbūtĭes",
+                "traduzioni": [
+                    "tu balbetterai",
+                    "tu tartaglierai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "balbūtĭet",
+                "traduzioni": [
+                    "lui balbetterà",
+                    "lei balbetterà",
+                    "egli balbetterà",
+                    "lui tartaglierà",
+                    "lei tartaglierà",
+                    "egli tartaglierà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "balbūtiēmus",
+                "traduzioni": [
+                    "noi balbetteremo",
+                    "noi tartaglieremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "balbūtiētis",
+                "traduzioni": [
+                    "voi balbetterete",
+                    "voi tartaglierete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "balbūtĭent",
+                "traduzioni": [
+                    "loro balbetteranno",
+                    "essi balbetteranno",
+                    "loro tartaglieranno",
+                    "essi tartaglieranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "balbutivi",
+                "traduzioni": [
+                    "io balbettai",
+                    "io ho balbettato",
+                    "io ebbi balbettato",
+                    "io tartagliai",
+                    "io ho tartagliato",
+                    "io ebbi tartagliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "balbutivisti",
+                "traduzioni": [
+                    "tu balbettasti",
+                    "tu hai balbettato",
+                    "tu avesti balbettato",
+                    "tu tartagliasti",
+                    "tu hai tartagliato",
+                    "tu avesti tartagliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "balbutivit",
+                "traduzioni": [
+                    "lui balbettò",
+                    "lei balbettò",
+                    "egli balbettò",
+                    "lui ha balbettato",
+                    "lei ha balbettato",
+                    "egli ha balbettato",
+                    "lui ebbe balbettato",
+                    "lei ebbe balbettato",
+                    "egli ebbe balbettato",
+                    "lui tartagliò",
+                    "lei tartagliò",
+                    "egli tartagliò",
+                    "lui ha tartagliato",
+                    "lei ha tartagliato",
+                    "egli ha tartagliato",
+                    "lui ebbe tartagliato",
+                    "lei ebbe tartagliato",
+                    "egli ebbe tartagliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "balbutivĭmus",
+                "traduzioni": [
+                    "noi balbettammo",
+                    "noi abbiamo balbettato",
+                    "noi avemmo balbettato",
+                    "noi tartagliammo",
+                    "noi abbiamo tartagliato",
+                    "noi avemmo tartagliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "balbutivistis",
+                "traduzioni": [
+                    "voi balbettaste",
+                    "voi avete balbettato",
+                    "voi aveste balbettato",
+                    "voi tartagliaste",
+                    "voi avete tartagliato",
+                    "voi aveste tartagliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "balbutivērunt, balbutivēre",
+                "traduzioni": [
+                    "loro balbettarono",
+                    "essi balbettarono",
+                    "loro hanno balbettato",
+                    "essi hanno balbettato",
+                    "loro ebbero balbettato",
+                    "essi ebbero balbettato",
+                    "loro tartagliarono",
+                    "essi tartagliarono",
+                    "loro hanno tartagliato",
+                    "essi hanno tartagliato",
+                    "loro ebbero tartagliato",
+                    "essi ebbero tartagliato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "balbutivĕram",
+                "traduzioni": [
+                    "io avevo balbettato",
+                    "io avevo tartagliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "balbutivĕras",
+                "traduzioni": [
+                    "tu avevi balbettato",
+                    "tu avevi tartagliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "balbutivĕrat",
+                "traduzioni": [
+                    "lui aveva balbettato",
+                    "lei aveva balbettato",
+                    "egli aveva balbettato",
+                    "lui aveva tartagliato",
+                    "lei aveva tartagliato",
+                    "egli aveva tartagliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "balbutiverāmus",
+                "traduzioni": [
+                    "noi avevamo balbettato",
+                    "noi avevamo tartagliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "balbutiverātis",
+                "traduzioni": [
+                    "voi avevate balbettato",
+                    "voi avevate tartagliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "balbutivērant",
+                "traduzioni": [
+                    "loro avevano balbettato",
+                    "essi avevano balbettato",
+                    "loro avevano tartagliato",
+                    "essi avevano tartagliato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "balbutivĕro",
+                "traduzioni": [
+                    "io avrò balbettato",
+                    "io avrò tartagliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "balbutivĕris",
+                "traduzioni": [
+                    "tu avrai balbettato",
+                    "tu avrai tartagliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "balbutivĕrit",
+                "traduzioni": [
+                    "lui avrà balbettato",
+                    "lei avrà balbettato",
+                    "egli avrà balbettato",
+                    "lui avrà tartagliato",
+                    "lei avrà tartagliato",
+                    "egli avrà tartagliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "balbutiverĭmus",
+                "traduzioni": [
+                    "noi avremo balbettato",
+                    "noi avremo tartagliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "balbutiverĭtis",
+                "traduzioni": [
+                    "voi avrete balbettato",
+                    "voi avrete tartagliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "balbutivĕrint",
+                "traduzioni": [
+                    "loro avranno balbettato",
+                    "essi avranno balbettato",
+                    "loro avranno tartagliato",
+                    "essi avranno tartagliato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "balbūtĭam",
+                "traduzioni": [
+                    "che io balbetti",
+                    "che io tartagli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "balbūtĭas",
+                "traduzioni": [
+                    "che tu balbetti",
+                    "che tu tartagli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "balbūtĭat",
+                "traduzioni": [
+                    "che lui balbetti",
+                    "che lei balbetti",
+                    "che egli balbetti",
+                    "che lui tartagli",
+                    "che lei tartagli",
+                    "che egli tartagli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "balbūtiāmus",
+                "traduzioni": [
+                    "che noi balbettiamo",
+                    "che noi tartagliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "balbūtiātis",
+                "traduzioni": [
+                    "che voi balbettiate",
+                    "che voi tartagliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "balbūtĭant",
+                "traduzioni": [
+                    "che loro balbettino",
+                    "che essi balbettino",
+                    "che loro tartaglino",
+                    "che essi tartaglino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "balbūtīrem",
+                "traduzioni": [
+                    "che io balbettassi",
+                    "che io tartagliassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "balbūtīres",
+                "traduzioni": [
+                    "che tu balbettassi",
+                    "che tu tartagliassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "balbūtīret",
+                "traduzioni": [
+                    "che lui balbettasse",
+                    "che lei balbettasse",
+                    "che egli balbettasse",
+                    "che lui tartagliasse",
+                    "che lei tartagliasse",
+                    "che egli tartagliasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "balbūtirēmus",
+                "traduzioni": [
+                    "che noi balbettassimo",
+                    "che noi tartagliassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "balbūtirētis",
+                "traduzioni": [
+                    "che voi balbettaste",
+                    "che voi tartagliaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "balbūtīrent",
+                "traduzioni": [
+                    "che loro balbettassero",
+                    "che essi balbettassero",
+                    "che loro tartagliassero",
+                    "che essi tartagliassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "balbutivĕrim",
+                "traduzioni": [
+                    "che io abbia balbettato",
+                    "che io abbia tartagliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "balbutivĕris",
+                "traduzioni": [
+                    "che tu abbia balbettato",
+                    "che tu abbia tartagliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "balbutivĕrit",
+                "traduzioni": [
+                    "che lui abbia balbettato",
+                    "che lei abbia balbettato",
+                    "che egli abbia balbettato",
+                    "che lui abbia tartagliato",
+                    "che lei abbia tartagliato",
+                    "che egli abbia tartagliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "balbutiverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo balbettato",
+                    "che noi abbiamo tartagliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "balbutiverĭtis",
+                "traduzioni": [
+                    "che voi abbiate balbettato",
+                    "che voi abbiate tartagliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "balbutivĕrint",
+                "traduzioni": [
+                    "che loro abbiano balbettato",
+                    "che essi abbiano balbettato",
+                    "che loro abbiano tartagliato",
+                    "che essi abbiano tartagliato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "balbutivissem",
+                "traduzioni": [
+                    "che io avessi balbettato",
+                    "che io avessi tartagliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "balbutivisses",
+                "traduzioni": [
+                    "che tu avessi balbettato",
+                    "che tu avessi tartagliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "balbutivisset",
+                "traduzioni": [
+                    "che lui avesse balbettato",
+                    "che lei avesse balbettato",
+                    "che egli avesse balbettato",
+                    "che lui avesse tartagliato",
+                    "che lei avesse tartagliato",
+                    "che egli avesse tartagliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "balbutivissēmus",
+                "traduzioni": [
+                    "che noi avessimo balbettato",
+                    "che noi avessimo tartagliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "balbutivissētis",
+                "traduzioni": [
+                    "che voi aveste balbettato",
+                    "che voi aveste tartagliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "balbutivissent",
+                "traduzioni": [
+                    "che loro avessero balbettato",
+                    "che essi avessero balbettato",
+                    "che loro avessero tartagliato",
+                    "che essi avessero tartagliato"
+                ]
+            }
+        ]
+    }
+}

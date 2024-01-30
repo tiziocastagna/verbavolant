@@ -1,0 +1,616 @@
+{
+    "identifier": "NEGO",
+    "conuigazione": "1",
+    "translation": [
+        "(transitivo) negare",
+        "(transitivo) rifiutare",
+        "respingere",
+        "ricusare",
+        "(transitivo) ripudiare",
+        "(transitivo) rinnegare"
+    ],
+    "valid_translations": [
+        "respingere",
+        "ricusare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "nĕgo",
+                "traduzioni": [
+                    "io respingo",
+                    "io ricuso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nĕgas",
+                "traduzioni": [
+                    "tu respingi",
+                    "tu ricusi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nĕgat",
+                "traduzioni": [
+                    "lui respinge",
+                    "lei respinge",
+                    "egli respinge",
+                    "lui ricusa",
+                    "lei ricusa",
+                    "egli ricusa"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nĕgāmus",
+                "traduzioni": [
+                    "noi respingiamo",
+                    "noi ricusiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nĕgātis",
+                "traduzioni": [
+                    "voi respingete",
+                    "voi ricusate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nĕgant",
+                "traduzioni": [
+                    "loro respingono",
+                    "essi respingono",
+                    "loro ricusano",
+                    "essi ricusano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "nĕgābam",
+                "traduzioni": [
+                    "io respingevo",
+                    "io ricusavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nĕgābas",
+                "traduzioni": [
+                    "tu respingevi",
+                    "tu ricusavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nĕgābat",
+                "traduzioni": [
+                    "lui respingeva",
+                    "lei respingeva",
+                    "egli respingeva",
+                    "lui ricusava",
+                    "lei ricusava",
+                    "egli ricusava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nĕgabāmus",
+                "traduzioni": [
+                    "noi respingevamo",
+                    "noi ricusavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nĕgabātis",
+                "traduzioni": [
+                    "voi respingevate",
+                    "voi ricusavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nĕgābant",
+                "traduzioni": [
+                    "loro respingevano",
+                    "essi respingevano",
+                    "loro ricusavano",
+                    "essi ricusavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "nĕgābo",
+                "traduzioni": [
+                    "io respingerò",
+                    "io ricuserò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nĕgābis",
+                "traduzioni": [
+                    "tu respingerai",
+                    "tu ricuserai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nĕgābit",
+                "traduzioni": [
+                    "lui respingerà",
+                    "lei respingerà",
+                    "egli respingerà",
+                    "lui ricuserà",
+                    "lei ricuserà",
+                    "egli ricuserà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nĕgabĭmus",
+                "traduzioni": [
+                    "noi respingeremo",
+                    "noi ricuseremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nĕgabĭtis",
+                "traduzioni": [
+                    "voi respingerete",
+                    "voi ricuserete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nĕgābunt",
+                "traduzioni": [
+                    "loro respingeranno",
+                    "essi respingeranno",
+                    "loro ricuseranno",
+                    "essi ricuseranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "negavi",
+                "traduzioni": [
+                    "io respinsi",
+                    "io ho respinto",
+                    "io ebbi respinto",
+                    "io ricusai",
+                    "io ho ricusato",
+                    "io ebbi ricusato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "negavisti",
+                "traduzioni": [
+                    "tu respingesti",
+                    "tu hai respinto",
+                    "tu avesti respinto",
+                    "tu ricusasti",
+                    "tu hai ricusato",
+                    "tu avesti ricusato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "negavit",
+                "traduzioni": [
+                    "lui respinse",
+                    "lei respinse",
+                    "egli respinse",
+                    "lui ha respinto",
+                    "lei ha respinto",
+                    "egli ha respinto",
+                    "lui ebbe respinto",
+                    "lei ebbe respinto",
+                    "egli ebbe respinto",
+                    "lui ricusò",
+                    "lei ricusò",
+                    "egli ricusò",
+                    "lui ha ricusato",
+                    "lei ha ricusato",
+                    "egli ha ricusato",
+                    "lui ebbe ricusato",
+                    "lei ebbe ricusato",
+                    "egli ebbe ricusato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "negavĭmus",
+                "traduzioni": [
+                    "noi respingemmo",
+                    "noi abbiamo respinto",
+                    "noi avemmo respinto",
+                    "noi ricusammo",
+                    "noi abbiamo ricusato",
+                    "noi avemmo ricusato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "negavistis",
+                "traduzioni": [
+                    "voi respingeste",
+                    "voi avete respinto",
+                    "voi aveste respinto",
+                    "voi ricusaste",
+                    "voi avete ricusato",
+                    "voi aveste ricusato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "negavēreunt, negavēre",
+                "traduzioni": [
+                    "loro respinsero",
+                    "essi respinsero",
+                    "loro hanno respinto",
+                    "essi hanno respinto",
+                    "loro ebbero respinto",
+                    "essi ebbero respinto",
+                    "loro ricusarono",
+                    "essi ricusarono",
+                    "loro hanno ricusato",
+                    "essi hanno ricusato",
+                    "loro ebbero ricusato",
+                    "essi ebbero ricusato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "negavĕram",
+                "traduzioni": [
+                    "io avevo respinto",
+                    "io avevo ricusato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "negavĕras",
+                "traduzioni": [
+                    "tu avevi respinto",
+                    "tu avevi ricusato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "negavĕrat",
+                "traduzioni": [
+                    "lui aveva respinto",
+                    "lei aveva respinto",
+                    "egli aveva respinto",
+                    "lui aveva ricusato",
+                    "lei aveva ricusato",
+                    "egli aveva ricusato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "negaverāmus",
+                "traduzioni": [
+                    "noi avevamo respinto",
+                    "noi avevamo ricusato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "negaverātis",
+                "traduzioni": [
+                    "voi avevate respinto",
+                    "voi avevate ricusato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "negavĕrant",
+                "traduzioni": [
+                    "loro avevano respinto",
+                    "essi avevano respinto",
+                    "loro avevano ricusato",
+                    "essi avevano ricusato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "negavĕro",
+                "traduzioni": [
+                    "io avrò respinto",
+                    "io avrò ricusato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "negavĕris",
+                "traduzioni": [
+                    "tu avrai respinto",
+                    "tu avrai ricusato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "negavĕrit",
+                "traduzioni": [
+                    "lui avrà respinto",
+                    "lei avrà respinto",
+                    "egli avrà respinto",
+                    "lui avrà ricusato",
+                    "lei avrà ricusato",
+                    "egli avrà ricusato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "negaverĭmus",
+                "traduzioni": [
+                    "noi avremo respinto",
+                    "noi avremo ricusato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "negaverĭtis",
+                "traduzioni": [
+                    "voi avrete respinto",
+                    "voi avrete ricusato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "negavĕrint",
+                "traduzioni": [
+                    "loro avranno respinto",
+                    "essi avranno respinto",
+                    "loro avranno ricusato",
+                    "essi avranno ricusato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "nĕgem",
+                "traduzioni": [
+                    "che io respinga",
+                    "che io ricusi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nĕges",
+                "traduzioni": [
+                    "che tu respinga",
+                    "che tu ricusi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nĕget",
+                "traduzioni": [
+                    "che lui respinga",
+                    "che lei respinga",
+                    "che egli respinga",
+                    "che lui ricusi",
+                    "che lei ricusi",
+                    "che egli ricusi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nĕgēmus",
+                "traduzioni": [
+                    "che noi respingiamo",
+                    "che noi ricusiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nĕgētis",
+                "traduzioni": [
+                    "che voi respingiate",
+                    "che voi ricusiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nĕgent",
+                "traduzioni": [
+                    "che loro respingano",
+                    "che essi respingano",
+                    "che loro ricusino",
+                    "che essi ricusino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "nĕgārem",
+                "traduzioni": [
+                    "che io respingessi",
+                    "che io ricusassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nĕgāres",
+                "traduzioni": [
+                    "che tu respingessi",
+                    "che tu ricusassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nĕgāret",
+                "traduzioni": [
+                    "che lui respingesse",
+                    "che lei respingesse",
+                    "che egli respingesse",
+                    "che lui ricusasse",
+                    "che lei ricusasse",
+                    "che egli ricusasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nĕgarēmus",
+                "traduzioni": [
+                    "che noi respingessimo",
+                    "che noi ricusassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nĕgarētis",
+                "traduzioni": [
+                    "che voi respingeste",
+                    "che voi ricusaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nĕgārent",
+                "traduzioni": [
+                    "che loro respingessero",
+                    "che essi respingessero",
+                    "che loro ricusassero",
+                    "che essi ricusassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "negavĕrim",
+                "traduzioni": [
+                    "che io abbia respinto",
+                    "che io abbia ricusato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "negavĕris",
+                "traduzioni": [
+                    "che tu abbia respinto",
+                    "che tu abbia ricusato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "negavĕrit",
+                "traduzioni": [
+                    "che lui abbia respinto",
+                    "che lei abbia respinto",
+                    "che egli abbia respinto",
+                    "che lui abbia ricusato",
+                    "che lei abbia ricusato",
+                    "che egli abbia ricusato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "negaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo respinto",
+                    "che noi abbiamo ricusato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "negaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate respinto",
+                    "che voi abbiate ricusato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "negavĕrint",
+                "traduzioni": [
+                    "che loro abbiano respinto",
+                    "che essi abbiano respinto",
+                    "che loro abbiano ricusato",
+                    "che essi abbiano ricusato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "negavissem",
+                "traduzioni": [
+                    "che io avessi respinto",
+                    "che io avessi ricusato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "negavisses",
+                "traduzioni": [
+                    "che tu avessi respinto",
+                    "che tu avessi ricusato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "negavisset",
+                "traduzioni": [
+                    "che lui avesse respinto",
+                    "che lei avesse respinto",
+                    "che egli avesse respinto",
+                    "che lui avesse ricusato",
+                    "che lei avesse ricusato",
+                    "che egli avesse ricusato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "negavissēmus",
+                "traduzioni": [
+                    "che noi avessimo respinto",
+                    "che noi avessimo ricusato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "negavissētis",
+                "traduzioni": [
+                    "che voi aveste respinto",
+                    "che voi aveste ricusato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "negavissent",
+                "traduzioni": [
+                    "che loro avessero respinto",
+                    "che essi avessero respinto",
+                    "che loro avessero ricusato",
+                    "che essi avessero ricusato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,905 @@
+{
+    "identifier": "INVISO",
+    "conuigazione": "3",
+    "translation": [
+        "ispezionare",
+        "visitare",
+        "andare a vedere",
+        "vedere",
+        "scorgere"
+    ],
+    "valid_translations": [
+        "ispezionare",
+        "visitare",
+        "vedere",
+        "scorgere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "invīso",
+                "traduzioni": [
+                    "io ispeziono",
+                    "io visito",
+                    "io vedo",
+                    "io veggo",
+                    "io scorgo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invīsis",
+                "traduzioni": [
+                    "tu ispezioni",
+                    "tu visiti",
+                    "tu vedi",
+                    "tu scorgi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invīsit",
+                "traduzioni": [
+                    "lui ispeziona",
+                    "lei ispeziona",
+                    "egli ispeziona",
+                    "lui visita",
+                    "lei visita",
+                    "egli visita",
+                    "lui vede",
+                    "lei vede",
+                    "egli vede",
+                    "lui scorge",
+                    "lei scorge",
+                    "egli scorge"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invīsĭmus",
+                "traduzioni": [
+                    "noi ispezioniamo",
+                    "noi visitiamo",
+                    "noi vediamo",
+                    "noi scorgiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invīsĭtis",
+                "traduzioni": [
+                    "voi ispezionate",
+                    "voi visitate",
+                    "voi vedete",
+                    "voi scorgete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invīsunt",
+                "traduzioni": [
+                    "loro ispezionano",
+                    "essi ispezionano",
+                    "loro visitano",
+                    "essi visitano",
+                    "loro vedono",
+                    "essi vedono",
+                    "loro scorgono",
+                    "essi scorgono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invīsēbam",
+                "traduzioni": [
+                    "io ispezionavo",
+                    "io visitavo",
+                    "io vedevo",
+                    "io scorgevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invīsēbas",
+                "traduzioni": [
+                    "tu ispezionavi",
+                    "tu visitavi",
+                    "tu vedevi",
+                    "tu scorgevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invīsēbat",
+                "traduzioni": [
+                    "lui ispezionava",
+                    "lei ispezionava",
+                    "egli ispezionava",
+                    "lui visitava",
+                    "lei visitava",
+                    "egli visitava",
+                    "lui vedeva",
+                    "lei vedeva",
+                    "egli vedeva",
+                    "lui scorgeva",
+                    "lei scorgeva",
+                    "egli scorgeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invīsebāmus",
+                "traduzioni": [
+                    "noi ispezionavamo",
+                    "noi visitavamo",
+                    "noi vedevamo",
+                    "noi scorgevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invīsebātis",
+                "traduzioni": [
+                    "voi ispezionavate",
+                    "voi visitavate",
+                    "voi vedevate",
+                    "voi scorgevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invīsēbant",
+                "traduzioni": [
+                    "loro ispezionavano",
+                    "essi ispezionavano",
+                    "loro visitavano",
+                    "essi visitavano",
+                    "loro vedevano",
+                    "essi vedevano",
+                    "loro scorgevano",
+                    "essi scorgevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "invīsam",
+                "traduzioni": [
+                    "io ispezionerò",
+                    "io visiterò",
+                    "io vedrò",
+                    "io vederò",
+                    "io scorgerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invīses",
+                "traduzioni": [
+                    "tu ispezionerai",
+                    "tu visiterai",
+                    "tu vedrai",
+                    "tu vederai",
+                    "tu scorgerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invīset",
+                "traduzioni": [
+                    "lui ispezionerà",
+                    "lei ispezionerà",
+                    "egli ispezionerà",
+                    "lui visiterà",
+                    "lei visiterà",
+                    "egli visiterà",
+                    "lui vedrà",
+                    "lei vedrà",
+                    "egli vedrà",
+                    "lui vederà",
+                    "lei vederà",
+                    "egli vederà",
+                    "lui scorgerà",
+                    "lei scorgerà",
+                    "egli scorgerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invīsēmus",
+                "traduzioni": [
+                    "noi ispezioneremo",
+                    "noi visiteremo",
+                    "noi vedremo",
+                    "noi vederemo",
+                    "noi scorgeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invīsētis",
+                "traduzioni": [
+                    "voi ispezionerete",
+                    "voi visiterete",
+                    "voi vedrete",
+                    "voi vederete",
+                    "voi scorgerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invīsent",
+                "traduzioni": [
+                    "loro ispezioneranno",
+                    "essi ispezioneranno",
+                    "loro visiteranno",
+                    "essi visiteranno",
+                    "loro vedranno",
+                    "essi vedranno",
+                    "loro vederanno",
+                    "essi vederanno",
+                    "loro scorgeranno",
+                    "essi scorgeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invisi",
+                "traduzioni": [
+                    "io ispezionai",
+                    "io ho ispezionato",
+                    "io ebbi ispezionato",
+                    "io visitai",
+                    "io ho visitato",
+                    "io ebbi visitato",
+                    "io vidi",
+                    "io vedetti",
+                    "io ho veduto",
+                    "io ho visto",
+                    "io ebbi veduto",
+                    "io ebbi visto",
+                    "io scorsi",
+                    "io ho scorto",
+                    "io ebbi scorto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invisisti",
+                "traduzioni": [
+                    "tu ispezionasti",
+                    "tu hai ispezionato",
+                    "tu avesti ispezionato",
+                    "tu visitasti",
+                    "tu hai visitato",
+                    "tu avesti visitato",
+                    "tu vedesti",
+                    "tu hai veduto",
+                    "tu hai visto",
+                    "tu avesti veduto",
+                    "tu avesti visto",
+                    "tu scorgesti",
+                    "tu hai scorto",
+                    "tu avesti scorto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invisit",
+                "traduzioni": [
+                    "lui ispezionò",
+                    "lei ispezionò",
+                    "egli ispezionò",
+                    "lui ha ispezionato",
+                    "lei ha ispezionato",
+                    "egli ha ispezionato",
+                    "lui ebbe ispezionato",
+                    "lei ebbe ispezionato",
+                    "egli ebbe ispezionato",
+                    "lui visitò",
+                    "lei visitò",
+                    "egli visitò",
+                    "lui ha visitato",
+                    "lei ha visitato",
+                    "egli ha visitato",
+                    "lui ebbe visitato",
+                    "lei ebbe visitato",
+                    "egli ebbe visitato",
+                    "lui vide",
+                    "lei vide",
+                    "egli vide",
+                    "lui vedette",
+                    "lei vedette",
+                    "egli vedette",
+                    "lui ha veduto",
+                    "lei ha veduto",
+                    "egli ha veduto",
+                    "lui ha visto",
+                    "lei ha visto",
+                    "egli ha visto",
+                    "lui ebbe veduto",
+                    "lei ebbe veduto",
+                    "egli ebbe veduto",
+                    "lui ebbe visto",
+                    "lei ebbe visto",
+                    "egli ebbe visto",
+                    "lui scorse",
+                    "lei scorse",
+                    "egli scorse",
+                    "lui ha scorto",
+                    "lei ha scorto",
+                    "egli ha scorto",
+                    "lui ebbe scorto",
+                    "lei ebbe scorto",
+                    "egli ebbe scorto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invisĭmus",
+                "traduzioni": [
+                    "noi ispezionammo",
+                    "noi abbiamo ispezionato",
+                    "noi avemmo ispezionato",
+                    "noi visitammo",
+                    "noi abbiamo visitato",
+                    "noi avemmo visitato",
+                    "noi vedemmo",
+                    "noi abbiamo veduto",
+                    "noi abbiamo visto",
+                    "noi avemmo veduto",
+                    "noi avemmo visto",
+                    "noi scorgemmo",
+                    "noi abbiamo scorto",
+                    "noi avemmo scorto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invisistis",
+                "traduzioni": [
+                    "voi ispezionaste",
+                    "voi avete ispezionato",
+                    "voi aveste ispezionato",
+                    "voi visitaste",
+                    "voi avete visitato",
+                    "voi aveste visitato",
+                    "voi vedeste",
+                    "voi avete veduto",
+                    "voi avete visto",
+                    "voi aveste veduto",
+                    "voi aveste visto",
+                    "voi scorgeste",
+                    "voi avete scorto",
+                    "voi aveste scorto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invisērunt, invisēre",
+                "traduzioni": [
+                    "loro ispezionarono",
+                    "essi ispezionarono",
+                    "loro hanno ispezionato",
+                    "essi hanno ispezionato",
+                    "loro ebbero ispezionato",
+                    "essi ebbero ispezionato",
+                    "loro visitarono",
+                    "essi visitarono",
+                    "loro hanno visitato",
+                    "essi hanno visitato",
+                    "loro ebbero visitato",
+                    "essi ebbero visitato",
+                    "loro videro",
+                    "essi videro",
+                    "loro vederono",
+                    "essi vederono",
+                    "loro vedettero",
+                    "essi vedettero",
+                    "loro hanno veduto",
+                    "essi hanno veduto",
+                    "loro hanno visto",
+                    "essi hanno visto",
+                    "loro ebbero veduto",
+                    "essi ebbero veduto",
+                    "loro ebbero visto",
+                    "essi ebbero visto",
+                    "loro scorsero",
+                    "essi scorsero",
+                    "loro hanno scorto",
+                    "essi hanno scorto",
+                    "loro ebbero scorto",
+                    "essi ebbero scorto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invisĕram",
+                "traduzioni": [
+                    "io avevo ispezionato",
+                    "io avevo visitato",
+                    "io avevo veduto",
+                    "io avevo visto",
+                    "io avevo scorto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invisĕras",
+                "traduzioni": [
+                    "tu avevi ispezionato",
+                    "tu avevi visitato",
+                    "tu avevi veduto",
+                    "tu avevi visto",
+                    "tu avevi scorto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invisĕrat",
+                "traduzioni": [
+                    "lui aveva ispezionato",
+                    "lei aveva ispezionato",
+                    "egli aveva ispezionato",
+                    "lui aveva visitato",
+                    "lei aveva visitato",
+                    "egli aveva visitato",
+                    "lui aveva veduto",
+                    "lei aveva veduto",
+                    "egli aveva veduto",
+                    "lui aveva visto",
+                    "lei aveva visto",
+                    "egli aveva visto",
+                    "lui aveva scorto",
+                    "lei aveva scorto",
+                    "egli aveva scorto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "inviserāmus",
+                "traduzioni": [
+                    "noi avevamo ispezionato",
+                    "noi avevamo visitato",
+                    "noi avevamo veduto",
+                    "noi avevamo visto",
+                    "noi avevamo scorto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "inviserātis",
+                "traduzioni": [
+                    "voi avevate ispezionato",
+                    "voi avevate visitato",
+                    "voi avevate veduto",
+                    "voi avevate visto",
+                    "voi avevate scorto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invisĕrant",
+                "traduzioni": [
+                    "loro avevano ispezionato",
+                    "essi avevano ispezionato",
+                    "loro avevano visitato",
+                    "essi avevano visitato",
+                    "loro avevano veduto",
+                    "essi avevano veduto",
+                    "loro avevano visto",
+                    "essi avevano visto",
+                    "loro avevano scorto",
+                    "essi avevano scorto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "invisĕro",
+                "traduzioni": [
+                    "io avrò ispezionato",
+                    "io avrò visitato",
+                    "io avrò veduto",
+                    "io avrò visto",
+                    "io avrò scorto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invisĕris",
+                "traduzioni": [
+                    "tu avrai ispezionato",
+                    "tu avrai visitato",
+                    "tu avrai veduto",
+                    "tu avrai visto",
+                    "tu avrai scorto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invisĕrit",
+                "traduzioni": [
+                    "lui avrà ispezionato",
+                    "lei avrà ispezionato",
+                    "egli avrà ispezionato",
+                    "lui avrà visitato",
+                    "lei avrà visitato",
+                    "egli avrà visitato",
+                    "lui avrà veduto",
+                    "lei avrà veduto",
+                    "egli avrà veduto",
+                    "lui avrà visto",
+                    "lei avrà visto",
+                    "egli avrà visto",
+                    "lui avrà scorto",
+                    "lei avrà scorto",
+                    "egli avrà scorto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "inviserĭmus",
+                "traduzioni": [
+                    "noi avremo ispezionato",
+                    "noi avremo visitato",
+                    "noi avremo veduto",
+                    "noi avremo visto",
+                    "noi avremo scorto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "inviserĭtis",
+                "traduzioni": [
+                    "voi avrete ispezionato",
+                    "voi avrete visitato",
+                    "voi avrete veduto",
+                    "voi avrete visto",
+                    "voi avrete scorto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invisĕrint",
+                "traduzioni": [
+                    "loro avranno ispezionato",
+                    "essi avranno ispezionato",
+                    "loro avranno visitato",
+                    "essi avranno visitato",
+                    "loro avranno veduto",
+                    "essi avranno veduto",
+                    "loro avranno visto",
+                    "essi avranno visto",
+                    "loro avranno scorto",
+                    "essi avranno scorto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "invīsam",
+                "traduzioni": [
+                    "che io ispezioni",
+                    "che io visiti",
+                    "che io veda",
+                    "che io scorga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invīsas",
+                "traduzioni": [
+                    "che tu ispezioni",
+                    "che tu visiti",
+                    "che tu veda",
+                    "che tu scorga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invīsat",
+                "traduzioni": [
+                    "che lui ispezioni",
+                    "che lei ispezioni",
+                    "che egli ispezioni",
+                    "che lui visiti",
+                    "che lei visiti",
+                    "che egli visiti",
+                    "che lui veda",
+                    "che lei veda",
+                    "che egli veda",
+                    "che lui scorga",
+                    "che lei scorga",
+                    "che egli scorga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invīsāmus",
+                "traduzioni": [
+                    "che noi ispezioniamo",
+                    "che noi visitiamo",
+                    "che noi vediamo",
+                    "che noi scorgiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invīsātis",
+                "traduzioni": [
+                    "che voi ispezioniate",
+                    "che voi visitiate",
+                    "che voi vediate",
+                    "che voi scorgiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invīsant",
+                "traduzioni": [
+                    "che loro ispezionino",
+                    "che essi ispezionino",
+                    "che loro visitino",
+                    "che essi visitino",
+                    "che loro vedano",
+                    "che essi vedano",
+                    "che loro scorgano",
+                    "che essi scorgano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invīsĕrem",
+                "traduzioni": [
+                    "che io ispezionassi",
+                    "che io visitassi",
+                    "che io vedessi",
+                    "che io scorgessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invīsĕres",
+                "traduzioni": [
+                    "che tu ispezionassi",
+                    "che tu visitassi",
+                    "che tu vedessi",
+                    "che tu scorgessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invīsĕret",
+                "traduzioni": [
+                    "che lui ispezionasse",
+                    "che lei ispezionasse",
+                    "che egli ispezionasse",
+                    "che lui visitasse",
+                    "che lei visitasse",
+                    "che egli visitasse",
+                    "che lui vedesse",
+                    "che lei vedesse",
+                    "che egli vedesse",
+                    "che lui scorgesse",
+                    "che lei scorgesse",
+                    "che egli scorgesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invīserēmus",
+                "traduzioni": [
+                    "che noi ispezionassimo",
+                    "che noi visitassimo",
+                    "che noi vedessimo",
+                    "che noi scorgessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invīserētis",
+                "traduzioni": [
+                    "che voi ispezionaste",
+                    "che voi visitaste",
+                    "che voi vedeste",
+                    "che voi scorgeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invīsĕrent",
+                "traduzioni": [
+                    "che loro ispezionassero",
+                    "che essi ispezionassero",
+                    "che loro visitassero",
+                    "che essi visitassero",
+                    "che loro vedessero",
+                    "che essi vedessero",
+                    "che loro scorgessero",
+                    "che essi scorgessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invisĕrim",
+                "traduzioni": [
+                    "che io abbia ispezionato",
+                    "che io abbia visitato",
+                    "che io abbia veduto",
+                    "che io abbia visto",
+                    "che io abbia scorto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invisĕris",
+                "traduzioni": [
+                    "che tu abbia ispezionato",
+                    "che tu abbia visitato",
+                    "che tu abbia veduto",
+                    "che tu abbia visto",
+                    "che tu abbia scorto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invisĕrit",
+                "traduzioni": [
+                    "che lui abbia ispezionato",
+                    "che lei abbia ispezionato",
+                    "che egli abbia ispezionato",
+                    "che lui abbia visitato",
+                    "che lei abbia visitato",
+                    "che egli abbia visitato",
+                    "che lui abbia veduto",
+                    "che lei abbia veduto",
+                    "che egli abbia veduto",
+                    "che lui abbia visto",
+                    "che lei abbia visto",
+                    "che egli abbia visto",
+                    "che lui abbia scorto",
+                    "che lei abbia scorto",
+                    "che egli abbia scorto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "inviserĭmus",
+                "traduzioni": [
+                    "che noi abbiamo ispezionato",
+                    "che noi abbiamo visitato",
+                    "che noi abbiamo veduto",
+                    "che noi abbiamo visto",
+                    "che noi abbiamo scorto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "inviserĭtis",
+                "traduzioni": [
+                    "che voi abbiate ispezionato",
+                    "che voi abbiate visitato",
+                    "che voi abbiate veduto",
+                    "che voi abbiate visto",
+                    "che voi abbiate scorto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invisĕrint",
+                "traduzioni": [
+                    "che loro abbiano ispezionato",
+                    "che essi abbiano ispezionato",
+                    "che loro abbiano visitato",
+                    "che essi abbiano visitato",
+                    "che loro abbiano veduto",
+                    "che essi abbiano veduto",
+                    "che loro abbiano visto",
+                    "che essi abbiano visto",
+                    "che loro abbiano scorto",
+                    "che essi abbiano scorto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invisissem",
+                "traduzioni": [
+                    "che io avessi ispezionato",
+                    "che io avessi visitato",
+                    "che io avessi veduto",
+                    "che io avessi visto",
+                    "che io avessi scorto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invisisses",
+                "traduzioni": [
+                    "che tu avessi ispezionato",
+                    "che tu avessi visitato",
+                    "che tu avessi veduto",
+                    "che tu avessi visto",
+                    "che tu avessi scorto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invisisset",
+                "traduzioni": [
+                    "che lui avesse ispezionato",
+                    "che lei avesse ispezionato",
+                    "che egli avesse ispezionato",
+                    "che lui avesse visitato",
+                    "che lei avesse visitato",
+                    "che egli avesse visitato",
+                    "che lui avesse veduto",
+                    "che lei avesse veduto",
+                    "che egli avesse veduto",
+                    "che lui avesse visto",
+                    "che lei avesse visto",
+                    "che egli avesse visto",
+                    "che lui avesse scorto",
+                    "che lei avesse scorto",
+                    "che egli avesse scorto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invisissēmus",
+                "traduzioni": [
+                    "che noi avessimo ispezionato",
+                    "che noi avessimo visitato",
+                    "che noi avessimo veduto",
+                    "che noi avessimo visto",
+                    "che noi avessimo scorto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invisissētis",
+                "traduzioni": [
+                    "che voi aveste ispezionato",
+                    "che voi aveste visitato",
+                    "che voi aveste veduto",
+                    "che voi aveste visto",
+                    "che voi aveste scorto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invisissent",
+                "traduzioni": [
+                    "che loro avessero ispezionato",
+                    "che essi avessero ispezionato",
+                    "che loro avessero visitato",
+                    "che essi avessero visitato",
+                    "che loro avessero veduto",
+                    "che essi avessero veduto",
+                    "che loro avessero visto",
+                    "che essi avessero visto",
+                    "che loro avessero scorto",
+                    "che essi avessero scorto"
+                ]
+            }
+        ]
+    }
+}

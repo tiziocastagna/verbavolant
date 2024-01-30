@@ -1,0 +1,1363 @@
+{
+    "identifier": "AMPLIFICO",
+    "conuigazione": "1",
+    "translation": [
+        "accrescere",
+        "aumentare",
+        "ampliare",
+        "allargare",
+        "ingrandire",
+        "celebrare",
+        "elevare",
+        "innalzare",
+        "retorica enfatizzare"
+    ],
+    "valid_translations": [
+        "accrescere",
+        "aumentare",
+        "ampliare",
+        "allargare",
+        "ingrandire",
+        "celebrare",
+        "elevare",
+        "innalzare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "amplĭfĭco",
+                "traduzioni": [
+                    "io accresco",
+                    "io aumento",
+                    "io amplio",
+                    "io allargo",
+                    "io ingrandisco",
+                    "io celebro",
+                    "io elevo",
+                    "io innalzo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amplĭfĭcas",
+                "traduzioni": [
+                    "tu accresci",
+                    "tu aumenti",
+                    "tu ampli",
+                    "tu allarghi",
+                    "tu ingrandisci",
+                    "tu celebri",
+                    "tu elevi",
+                    "tu innalzi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amplĭfĭcat",
+                "traduzioni": [
+                    "lui accresce",
+                    "lei accresce",
+                    "egli accresce",
+                    "lui aumenta",
+                    "lei aumenta",
+                    "egli aumenta",
+                    "lui amplia",
+                    "lei amplia",
+                    "egli amplia",
+                    "lui allarga",
+                    "lei allarga",
+                    "egli allarga",
+                    "lui ingrandisce",
+                    "lei ingrandisce",
+                    "egli ingrandisce",
+                    "lui celebra",
+                    "lei celebra",
+                    "egli celebra",
+                    "lui eleva",
+                    "lei eleva",
+                    "egli eleva",
+                    "lui innalza",
+                    "lei innalza",
+                    "egli innalza"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amplĭfĭcāmus",
+                "traduzioni": [
+                    "noi accresciamo",
+                    "noi aumentiamo",
+                    "noi ampliamo",
+                    "noi allarghiamo",
+                    "noi ingrandiamo",
+                    "noi celebriamo",
+                    "noi eleviamo",
+                    "noi innalziamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amplĭfĭcātis",
+                "traduzioni": [
+                    "voi accrescete",
+                    "voi aumentate",
+                    "voi ampliate",
+                    "voi allargate",
+                    "voi ingrandite",
+                    "voi celebrate",
+                    "voi elevate",
+                    "voi innalzate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amplĭfĭcant",
+                "traduzioni": [
+                    "loro accrescono",
+                    "essi accrescono",
+                    "loro aumentano",
+                    "essi aumentano",
+                    "loro ampliano",
+                    "essi ampliano",
+                    "loro allargano",
+                    "essi allargano",
+                    "loro ingrandiscono",
+                    "essi ingrandiscono",
+                    "loro celebrano",
+                    "essi celebrano",
+                    "loro elevano",
+                    "essi elevano",
+                    "loro innalzano",
+                    "essi innalzano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "amplĭfĭcābam",
+                "traduzioni": [
+                    "io accrescevo",
+                    "io aumentavo",
+                    "io ampliavo",
+                    "io allargavo",
+                    "io ingrandivo",
+                    "io celebravo",
+                    "io elevavo",
+                    "io innalzavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amplĭfĭcābas",
+                "traduzioni": [
+                    "tu accrescevi",
+                    "tu aumentavi",
+                    "tu ampliavi",
+                    "tu allargavi",
+                    "tu ingrandivi",
+                    "tu celebravi",
+                    "tu elevavi",
+                    "tu innalzavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amplĭfĭcābat",
+                "traduzioni": [
+                    "lui accresceva",
+                    "lei accresceva",
+                    "egli accresceva",
+                    "lui aumentava",
+                    "lei aumentava",
+                    "egli aumentava",
+                    "lui ampliava",
+                    "lei ampliava",
+                    "egli ampliava",
+                    "lui allargava",
+                    "lei allargava",
+                    "egli allargava",
+                    "lui ingrandiva",
+                    "lei ingrandiva",
+                    "egli ingrandiva",
+                    "lui celebrava",
+                    "lei celebrava",
+                    "egli celebrava",
+                    "lui elevava",
+                    "lei elevava",
+                    "egli elevava",
+                    "lui innalzava",
+                    "lei innalzava",
+                    "egli innalzava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amplĭfĭcabāmus",
+                "traduzioni": [
+                    "noi accrescevamo",
+                    "noi aumentavamo",
+                    "noi ampliavamo",
+                    "noi allargavamo",
+                    "noi ingrandivamo",
+                    "noi celebravamo",
+                    "noi elevavamo",
+                    "noi innalzavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amplĭfĭcabātis",
+                "traduzioni": [
+                    "voi accrescevate",
+                    "voi aumentavate",
+                    "voi ampliavate",
+                    "voi allargavate",
+                    "voi ingrandivate",
+                    "voi celebravate",
+                    "voi elevavate",
+                    "voi innalzavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amplĭfĭcābant",
+                "traduzioni": [
+                    "loro accrescevano",
+                    "essi accrescevano",
+                    "loro aumentavano",
+                    "essi aumentavano",
+                    "loro ampliavano",
+                    "essi ampliavano",
+                    "loro allargavano",
+                    "essi allargavano",
+                    "loro ingrandivano",
+                    "essi ingrandivano",
+                    "loro celebravano",
+                    "essi celebravano",
+                    "loro elevavano",
+                    "essi elevavano",
+                    "loro innalzavano",
+                    "essi innalzavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "amplĭfĭcābo",
+                "traduzioni": [
+                    "io accrescerò",
+                    "io aumenterò",
+                    "io amplierò",
+                    "io allargherò",
+                    "io ingrandirò",
+                    "io celebrerò",
+                    "io eleverò",
+                    "io innalzerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amplĭfĭcābis",
+                "traduzioni": [
+                    "tu accrescerai",
+                    "tu aumenterai",
+                    "tu amplierai",
+                    "tu allargherai",
+                    "tu ingrandirai",
+                    "tu celebrerai",
+                    "tu eleverai",
+                    "tu innalzerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amplĭfĭcābit",
+                "traduzioni": [
+                    "lui accrescerà",
+                    "lei accrescerà",
+                    "egli accrescerà",
+                    "lui aumenterà",
+                    "lei aumenterà",
+                    "egli aumenterà",
+                    "lui amplierà",
+                    "lei amplierà",
+                    "egli amplierà",
+                    "lui allargherà",
+                    "lei allargherà",
+                    "egli allargherà",
+                    "lui ingrandirà",
+                    "lei ingrandirà",
+                    "egli ingrandirà",
+                    "lui celebrerà",
+                    "lei celebrerà",
+                    "egli celebrerà",
+                    "lui eleverà",
+                    "lei eleverà",
+                    "egli eleverà",
+                    "lui innalzerà",
+                    "lei innalzerà",
+                    "egli innalzerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amplĭfĭcabĭmus",
+                "traduzioni": [
+                    "noi accresceremo",
+                    "noi aumenteremo",
+                    "noi amplieremo",
+                    "noi allargheremo",
+                    "noi ingrandiremo",
+                    "noi celebreremo",
+                    "noi eleveremo",
+                    "noi innalzeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amplĭfĭcabĭtis",
+                "traduzioni": [
+                    "voi accrescerete",
+                    "voi aumenterete",
+                    "voi amplierete",
+                    "voi allargherete",
+                    "voi ingrandirete",
+                    "voi celebrerete",
+                    "voi eleverete",
+                    "voi innalzerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amplĭfĭcābunt",
+                "traduzioni": [
+                    "loro accresceranno",
+                    "essi accresceranno",
+                    "loro aumenteranno",
+                    "essi aumenteranno",
+                    "loro amplieranno",
+                    "essi amplieranno",
+                    "loro allargheranno",
+                    "essi allargheranno",
+                    "loro ingrandiranno",
+                    "essi ingrandiranno",
+                    "loro celebreranno",
+                    "essi celebreranno",
+                    "loro eleveranno",
+                    "essi eleveranno",
+                    "loro innalzeranno",
+                    "essi innalzeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "amplificavi",
+                "traduzioni": [
+                    "io accrebbi",
+                    "io sono accresciuto",
+                    "io sono accresciuta",
+                    "io fui accresciuto",
+                    "io fui accresciuta",
+                    "io aumentai",
+                    "io sono aumentato",
+                    "io sono aumentata",
+                    "io fui aumentato",
+                    "io fui aumentata",
+                    "io ampliai",
+                    "io ho ampliato",
+                    "io ebbi ampliato",
+                    "io allargai",
+                    "io ho allargato",
+                    "io ebbi allargato",
+                    "io ingrandii",
+                    "io sono ingrandito",
+                    "io sono ingrandita",
+                    "io fui ingrandito",
+                    "io fui ingrandita",
+                    "io celebrai",
+                    "io ho celebrato",
+                    "io ebbi celebrato",
+                    "io elevai",
+                    "io ho elevato",
+                    "io ebbi elevato",
+                    "io innalzai",
+                    "io ho innalzato",
+                    "io ebbi innalzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amplificavisti",
+                "traduzioni": [
+                    "tu accrescesti",
+                    "tu sei accresciuto",
+                    "tu sei accresciuta",
+                    "tu fosti accresciuto",
+                    "tu fosti accresciuta",
+                    "tu aumentasti",
+                    "tu sei aumentato",
+                    "tu sei aumentata",
+                    "tu fosti aumentato",
+                    "tu fosti aumentata",
+                    "tu ampliasti",
+                    "tu hai ampliato",
+                    "tu avesti ampliato",
+                    "tu allargasti",
+                    "tu hai allargato",
+                    "tu avesti allargato",
+                    "tu ingrandisti",
+                    "tu sei ingrandito",
+                    "tu sei ingrandita",
+                    "tu fosti ingrandito",
+                    "tu fosti ingrandita",
+                    "tu celebrasti",
+                    "tu hai celebrato",
+                    "tu avesti celebrato",
+                    "tu elevasti",
+                    "tu hai elevato",
+                    "tu avesti elevato",
+                    "tu innalzasti",
+                    "tu hai innalzato",
+                    "tu avesti innalzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amplificavit",
+                "traduzioni": [
+                    "lui accrebbe",
+                    "lei accrebbe",
+                    "egli accrebbe",
+                    "lui è accresciuto",
+                    "lei è accresciuta",
+                    "egli è accresciuto",
+                    "lui fu accresciuto",
+                    "lei fu accresciuta",
+                    "egli fu accresciuto",
+                    "lui aumentò",
+                    "lei aumentò",
+                    "egli aumentò",
+                    "lui è aumentato",
+                    "lei è aumentata",
+                    "egli è aumentato",
+                    "lui fu aumentato",
+                    "lei fu aumentata",
+                    "egli fu aumentato",
+                    "lui ampliò",
+                    "lei ampliò",
+                    "egli ampliò",
+                    "lui ha ampliato",
+                    "lei ha ampliato",
+                    "egli ha ampliato",
+                    "lui ebbe ampliato",
+                    "lei ebbe ampliato",
+                    "egli ebbe ampliato",
+                    "lui allargò",
+                    "lei allargò",
+                    "egli allargò",
+                    "lui ha allargato",
+                    "lei ha allargato",
+                    "egli ha allargato",
+                    "lui ebbe allargato",
+                    "lei ebbe allargato",
+                    "egli ebbe allargato",
+                    "lui ingrandì",
+                    "lei ingrandì",
+                    "egli ingrandì",
+                    "lui è ingrandito",
+                    "lei è ingrandita",
+                    "egli è ingrandito",
+                    "lui fu ingrandito",
+                    "lei fu ingrandita",
+                    "egli fu ingrandito",
+                    "lui celebrò",
+                    "lei celebrò",
+                    "egli celebrò",
+                    "lui ha celebrato",
+                    "lei ha celebrato",
+                    "egli ha celebrato",
+                    "lui ebbe celebrato",
+                    "lei ebbe celebrato",
+                    "egli ebbe celebrato",
+                    "lui elevò",
+                    "lei elevò",
+                    "egli elevò",
+                    "lui ha elevato",
+                    "lei ha elevato",
+                    "egli ha elevato",
+                    "lui ebbe elevato",
+                    "lei ebbe elevato",
+                    "egli ebbe elevato",
+                    "lui innalzò",
+                    "lei innalzò",
+                    "egli innalzò",
+                    "lui ha innalzato",
+                    "lei ha innalzato",
+                    "egli ha innalzato",
+                    "lui ebbe innalzato",
+                    "lei ebbe innalzato",
+                    "egli ebbe innalzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amplificavĭmus",
+                "traduzioni": [
+                    "noi accrescemmo",
+                    "noi siamo accresciuti",
+                    "noi siamo accresciute",
+                    "noi fummo accresciuti",
+                    "noi fummo accresciute",
+                    "noi aumentammo",
+                    "noi siamo aumentati",
+                    "noi siamo aumentate",
+                    "noi fummo aumentati",
+                    "noi fummo aumentate",
+                    "noi ampliammo",
+                    "noi abbiamo ampliato",
+                    "noi avemmo ampliato",
+                    "noi allargammo",
+                    "noi abbiamo allargato",
+                    "noi avemmo allargato",
+                    "noi ingrandimmo",
+                    "noi siamo ingranditi",
+                    "noi siamo ingrandite",
+                    "noi fummo ingranditi",
+                    "noi fummo ingrandite",
+                    "noi celebrammo",
+                    "noi abbiamo celebrato",
+                    "noi avemmo celebrato",
+                    "noi elevammo",
+                    "noi abbiamo elevato",
+                    "noi avemmo elevato",
+                    "noi innalzammo",
+                    "noi abbiamo innalzato",
+                    "noi avemmo innalzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amplificavistis",
+                "traduzioni": [
+                    "voi accresceste",
+                    "voi siete accresciuti",
+                    "voi siete accresciute",
+                    "voi foste accresciuti",
+                    "voi foste accresciute",
+                    "voi aumentaste",
+                    "voi siete aumentati",
+                    "voi siete aumentate",
+                    "voi foste aumentati",
+                    "voi foste aumentate",
+                    "voi ampliaste",
+                    "voi avete ampliato",
+                    "voi aveste ampliato",
+                    "voi allargaste",
+                    "voi avete allargato",
+                    "voi aveste allargato",
+                    "voi ingrandiste",
+                    "voi siete ingranditi",
+                    "voi siete ingrandite",
+                    "voi foste ingranditi",
+                    "voi foste ingrandite",
+                    "voi celebraste",
+                    "voi avete celebrato",
+                    "voi aveste celebrato",
+                    "voi elevaste",
+                    "voi avete elevato",
+                    "voi aveste elevato",
+                    "voi innalzaste",
+                    "voi avete innalzato",
+                    "voi aveste innalzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amplificavērunt, amplificavēre",
+                "traduzioni": [
+                    "loro accrebbero",
+                    "essi accrebbero",
+                    "loro sono accresciuti",
+                    "loro sono accresciute",
+                    "essi sono accresciuti",
+                    "loro furono accresciuti",
+                    "loro furono accresciute",
+                    "essi furono accresciuti",
+                    "loro aumentarono",
+                    "essi aumentarono",
+                    "loro sono aumentati",
+                    "loro sono aumentate",
+                    "essi sono aumentati",
+                    "loro furono aumentati",
+                    "loro furono aumentate",
+                    "essi furono aumentati",
+                    "loro ampliarono",
+                    "essi ampliarono",
+                    "loro hanno ampliato",
+                    "essi hanno ampliato",
+                    "loro ebbero ampliato",
+                    "essi ebbero ampliato",
+                    "loro allargarono",
+                    "essi allargarono",
+                    "loro hanno allargato",
+                    "essi hanno allargato",
+                    "loro ebbero allargato",
+                    "essi ebbero allargato",
+                    "loro ingrandirono",
+                    "essi ingrandirono",
+                    "loro sono ingranditi",
+                    "loro sono ingrandite",
+                    "essi sono ingranditi",
+                    "loro furono ingranditi",
+                    "loro furono ingrandite",
+                    "essi furono ingranditi",
+                    "loro celebrarono",
+                    "essi celebrarono",
+                    "loro hanno celebrato",
+                    "essi hanno celebrato",
+                    "loro ebbero celebrato",
+                    "essi ebbero celebrato",
+                    "loro elevarono",
+                    "essi elevarono",
+                    "loro hanno elevato",
+                    "essi hanno elevato",
+                    "loro ebbero elevato",
+                    "essi ebbero elevato",
+                    "loro innalzarono",
+                    "essi innalzarono",
+                    "loro hanno innalzato",
+                    "essi hanno innalzato",
+                    "loro ebbero innalzato",
+                    "essi ebbero innalzato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "amplificavĕram",
+                "traduzioni": [
+                    "io ero accresciuto",
+                    "io ero accresciuta",
+                    "io ero aumentato",
+                    "io ero aumentata",
+                    "io avevo ampliato",
+                    "io avevo allargato",
+                    "io ero ingrandito",
+                    "io ero ingrandita",
+                    "io avevo celebrato",
+                    "io avevo elevato",
+                    "io avevo innalzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amplificavĕras",
+                "traduzioni": [
+                    "tu eri accresciuto",
+                    "tu eri accresciuta",
+                    "tu eri aumentato",
+                    "tu eri aumentata",
+                    "tu avevi ampliato",
+                    "tu avevi allargato",
+                    "tu eri ingrandito",
+                    "tu eri ingrandita",
+                    "tu avevi celebrato",
+                    "tu avevi elevato",
+                    "tu avevi innalzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amplificavĕrat",
+                "traduzioni": [
+                    "lui era accresciuto",
+                    "lei era accresciuta",
+                    "egli era accresciuto",
+                    "lui era aumentato",
+                    "lei era aumentata",
+                    "egli era aumentato",
+                    "lui aveva ampliato",
+                    "lei aveva ampliato",
+                    "egli aveva ampliato",
+                    "lui aveva allargato",
+                    "lei aveva allargato",
+                    "egli aveva allargato",
+                    "lui era ingrandito",
+                    "lei era ingrandita",
+                    "egli era ingrandito",
+                    "lui aveva celebrato",
+                    "lei aveva celebrato",
+                    "egli aveva celebrato",
+                    "lui aveva elevato",
+                    "lei aveva elevato",
+                    "egli aveva elevato",
+                    "lui aveva innalzato",
+                    "lei aveva innalzato",
+                    "egli aveva innalzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amplificaverāmus",
+                "traduzioni": [
+                    "noi eravamo accresciuti",
+                    "noi eravamo accresciute",
+                    "noi eravamo aumentati",
+                    "noi eravamo aumentate",
+                    "noi avevamo ampliato",
+                    "noi avevamo allargato",
+                    "noi eravamo ingranditi",
+                    "noi eravamo ingrandite",
+                    "noi avevamo celebrato",
+                    "noi avevamo elevato",
+                    "noi avevamo innalzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amplificaverātis",
+                "traduzioni": [
+                    "voi eravate accresciuti",
+                    "voi eravate accresciute",
+                    "voi eravate aumentati",
+                    "voi eravate aumentate",
+                    "voi avevate ampliato",
+                    "voi avevate allargato",
+                    "voi eravate ingranditi",
+                    "voi eravate ingrandite",
+                    "voi avevate celebrato",
+                    "voi avevate elevato",
+                    "voi avevate innalzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amplificavĕrant",
+                "traduzioni": [
+                    "loro erano accresciuti",
+                    "loro erano accresciute",
+                    "essi erano accresciuti",
+                    "loro erano aumentati",
+                    "loro erano aumentate",
+                    "essi erano aumentati",
+                    "loro avevano ampliato",
+                    "essi avevano ampliato",
+                    "loro avevano allargato",
+                    "essi avevano allargato",
+                    "loro erano ingranditi",
+                    "loro erano ingrandite",
+                    "essi erano ingranditi",
+                    "loro avevano celebrato",
+                    "essi avevano celebrato",
+                    "loro avevano elevato",
+                    "essi avevano elevato",
+                    "loro avevano innalzato",
+                    "essi avevano innalzato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "amplificavĕro",
+                "traduzioni": [
+                    "io sarò accresciuto",
+                    "io sarò accresciuta",
+                    "io sarò aumentato",
+                    "io sarò aumentata",
+                    "io avrò ampliato",
+                    "io avrò allargato",
+                    "io sarò ingrandito",
+                    "io sarò ingrandita",
+                    "io avrò celebrato",
+                    "io avrò elevato",
+                    "io avrò innalzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amplificavĕris",
+                "traduzioni": [
+                    "tu sarai accresciuto",
+                    "tu sarai accresciuta",
+                    "tu sarai aumentato",
+                    "tu sarai aumentata",
+                    "tu avrai ampliato",
+                    "tu avrai allargato",
+                    "tu sarai ingrandito",
+                    "tu sarai ingrandita",
+                    "tu avrai celebrato",
+                    "tu avrai elevato",
+                    "tu avrai innalzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amplificavĕrit",
+                "traduzioni": [
+                    "lui sarà accresciuto",
+                    "lei sarà accresciuta",
+                    "egli sarà accresciuto",
+                    "lui sarà aumentato",
+                    "lei sarà aumentata",
+                    "egli sarà aumentato",
+                    "lui avrà ampliato",
+                    "lei avrà ampliato",
+                    "egli avrà ampliato",
+                    "lui avrà allargato",
+                    "lei avrà allargato",
+                    "egli avrà allargato",
+                    "lui sarà ingrandito",
+                    "lei sarà ingrandita",
+                    "egli sarà ingrandito",
+                    "lui avrà celebrato",
+                    "lei avrà celebrato",
+                    "egli avrà celebrato",
+                    "lui avrà elevato",
+                    "lei avrà elevato",
+                    "egli avrà elevato",
+                    "lui avrà innalzato",
+                    "lei avrà innalzato",
+                    "egli avrà innalzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amplificaverĭmus",
+                "traduzioni": [
+                    "noi saremo accresciuti",
+                    "noi saremo accresciute",
+                    "noi saremo aumentati",
+                    "noi saremo aumentate",
+                    "noi avremo ampliato",
+                    "noi avremo allargato",
+                    "noi saremo ingranditi",
+                    "noi saremo ingrandite",
+                    "noi avremo celebrato",
+                    "noi avremo elevato",
+                    "noi avremo innalzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amplificaverĭtis",
+                "traduzioni": [
+                    "voi sarete accresciuti",
+                    "voi sarete accresciute",
+                    "voi sarete aumentati",
+                    "voi sarete aumentate",
+                    "voi avrete ampliato",
+                    "voi avrete allargato",
+                    "voi sarete ingranditi",
+                    "voi sarete ingrandite",
+                    "voi avrete celebrato",
+                    "voi avrete elevato",
+                    "voi avrete innalzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amplificavĕrint",
+                "traduzioni": [
+                    "loro saranno accresciuti",
+                    "loro saranno accresciute",
+                    "essi saranno accresciuti",
+                    "loro saranno aumentati",
+                    "loro saranno aumentate",
+                    "essi saranno aumentati",
+                    "loro avranno ampliato",
+                    "essi avranno ampliato",
+                    "loro avranno allargato",
+                    "essi avranno allargato",
+                    "loro saranno ingranditi",
+                    "loro saranno ingrandite",
+                    "essi saranno ingranditi",
+                    "loro avranno celebrato",
+                    "essi avranno celebrato",
+                    "loro avranno elevato",
+                    "essi avranno elevato",
+                    "loro avranno innalzato",
+                    "essi avranno innalzato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "amplĭfĭcem",
+                "traduzioni": [
+                    "che io accresca",
+                    "che io aumenti",
+                    "che io ampli",
+                    "che io allarghi",
+                    "che io ingrandisca",
+                    "che io celebri",
+                    "che io elevi",
+                    "che io innalzi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amplĭfĭces",
+                "traduzioni": [
+                    "che tu accresca",
+                    "che tu aumenti",
+                    "che tu ampli",
+                    "che tu allarghi",
+                    "che tu ingrandisca",
+                    "che tu celebri",
+                    "che tu elevi",
+                    "che tu innalzi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amplĭfĭcet",
+                "traduzioni": [
+                    "che lui accresca",
+                    "che lei accresca",
+                    "che egli accresca",
+                    "che lui aumenti",
+                    "che lei aumenti",
+                    "che egli aumenti",
+                    "che lui ampli",
+                    "che lei ampli",
+                    "che egli ampli",
+                    "che lui allarghi",
+                    "che lei allarghi",
+                    "che egli allarghi",
+                    "che lui ingrandisca",
+                    "che lei ingrandisca",
+                    "che egli ingrandisca",
+                    "che lui celebri",
+                    "che lei celebri",
+                    "che egli celebri",
+                    "che lui elevi",
+                    "che lei elevi",
+                    "che egli elevi",
+                    "che lui innalzi",
+                    "che lei innalzi",
+                    "che egli innalzi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amplĭfĭcēmus",
+                "traduzioni": [
+                    "che noi accresciamo",
+                    "che noi aumentiamo",
+                    "che noi ampliamo",
+                    "che noi allarghiamo",
+                    "che noi ingrandiamo",
+                    "che noi celebriamo",
+                    "che noi eleviamo",
+                    "che noi innalziamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amplĭfĭcētis",
+                "traduzioni": [
+                    "che voi accresciate",
+                    "che voi aumentiate",
+                    "che voi ampliate",
+                    "che voi allarghiate",
+                    "che voi ingrandiate",
+                    "che voi celebriate",
+                    "che voi eleviate",
+                    "che voi innalziate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amplĭfĭcent",
+                "traduzioni": [
+                    "che loro accrescano",
+                    "che essi accrescano",
+                    "che loro aumentino",
+                    "che essi aumentino",
+                    "che loro amplino",
+                    "che essi amplino",
+                    "che loro allarghino",
+                    "che essi allarghino",
+                    "che loro ingrandiscano",
+                    "che essi ingrandiscano",
+                    "che loro celebrino",
+                    "che essi celebrino",
+                    "che loro elevino",
+                    "che essi elevino",
+                    "che loro innalzino",
+                    "che essi innalzino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "amplĭfĭcārem",
+                "traduzioni": [
+                    "che io accrescessi",
+                    "che io aumentassi",
+                    "che io ampliassi",
+                    "che io allargassi",
+                    "che io ingrandissi",
+                    "che io celebrassi",
+                    "che io elevassi",
+                    "che io innalzassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amplĭfĭcāres",
+                "traduzioni": [
+                    "che tu accrescessi",
+                    "che tu aumentassi",
+                    "che tu ampliassi",
+                    "che tu allargassi",
+                    "che tu ingrandissi",
+                    "che tu celebrassi",
+                    "che tu elevassi",
+                    "che tu innalzassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amplĭfĭcāret",
+                "traduzioni": [
+                    "che lui accrescesse",
+                    "che lei accrescesse",
+                    "che egli accrescesse",
+                    "che lui aumentasse",
+                    "che lei aumentasse",
+                    "che egli aumentasse",
+                    "che lui ampliasse",
+                    "che lei ampliasse",
+                    "che egli ampliasse",
+                    "che lui allargasse",
+                    "che lei allargasse",
+                    "che egli allargasse",
+                    "che lui ingrandisse",
+                    "che lei ingrandisse",
+                    "che egli ingrandisse",
+                    "che lui celebrasse",
+                    "che lei celebrasse",
+                    "che egli celebrasse",
+                    "che lui elevasse",
+                    "che lei elevasse",
+                    "che egli elevasse",
+                    "che lui innalzasse",
+                    "che lei innalzasse",
+                    "che egli innalzasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amplĭfĭcarēmus",
+                "traduzioni": [
+                    "che noi accrescessimo",
+                    "che noi aumentassimo",
+                    "che noi ampliassimo",
+                    "che noi allargassimo",
+                    "che noi ingrandissimo",
+                    "che noi celebrassimo",
+                    "che noi elevassimo",
+                    "che noi innalzassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amplĭfĭcarētis",
+                "traduzioni": [
+                    "che voi accresceste",
+                    "che voi aumentaste",
+                    "che voi ampliaste",
+                    "che voi allargaste",
+                    "che voi ingrandiste",
+                    "che voi celebraste",
+                    "che voi elevaste",
+                    "che voi innalzaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amplĭfĭcārent",
+                "traduzioni": [
+                    "che loro accrescessero",
+                    "che essi accrescessero",
+                    "che loro aumentassero",
+                    "che essi aumentassero",
+                    "che loro ampliassero",
+                    "che essi ampliassero",
+                    "che loro allargassero",
+                    "che essi allargassero",
+                    "che loro ingrandissero",
+                    "che essi ingrandissero",
+                    "che loro celebrassero",
+                    "che essi celebrassero",
+                    "che loro elevassero",
+                    "che essi elevassero",
+                    "che loro innalzassero",
+                    "che essi innalzassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "amplificavĕrim",
+                "traduzioni": [
+                    "che io sia accresciuto",
+                    "che io sia accresciuta",
+                    "che io sia aumentato",
+                    "che io sia aumentata",
+                    "che io abbia ampliato",
+                    "che io abbia allargato",
+                    "che io sia ingrandito",
+                    "che io sia ingrandita",
+                    "che io abbia celebrato",
+                    "che io abbia elevato",
+                    "che io abbia innalzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amplificavĕris",
+                "traduzioni": [
+                    "che tu sia accresciuto",
+                    "che tu sia accresciuta",
+                    "che tu sia aumentato",
+                    "che tu sia aumentata",
+                    "che tu abbia ampliato",
+                    "che tu abbia allargato",
+                    "che tu sia ingrandito",
+                    "che tu sia ingrandita",
+                    "che tu abbia celebrato",
+                    "che tu abbia elevato",
+                    "che tu abbia innalzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amplificavĕrit",
+                "traduzioni": [
+                    "che lui sia accresciuto",
+                    "che lei sia accresciuta",
+                    "che egli sia accresciuto",
+                    "che lui sia aumentato",
+                    "che lei sia aumentata",
+                    "che egli sia aumentato",
+                    "che lui abbia ampliato",
+                    "che lei abbia ampliato",
+                    "che egli abbia ampliato",
+                    "che lui abbia allargato",
+                    "che lei abbia allargato",
+                    "che egli abbia allargato",
+                    "che lui sia ingrandito",
+                    "che lei sia ingrandita",
+                    "che egli sia ingrandito",
+                    "che lui abbia celebrato",
+                    "che lei abbia celebrato",
+                    "che egli abbia celebrato",
+                    "che lui abbia elevato",
+                    "che lei abbia elevato",
+                    "che egli abbia elevato",
+                    "che lui abbia innalzato",
+                    "che lei abbia innalzato",
+                    "che egli abbia innalzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amplificaverĭmus",
+                "traduzioni": [
+                    "che noi siamo accresciuti",
+                    "che noi siamo accresciute",
+                    "che noi siamo aumentati",
+                    "che noi siamo aumentate",
+                    "che noi abbiamo ampliato",
+                    "che noi abbiamo allargato",
+                    "che noi siamo ingranditi",
+                    "che noi siamo ingrandite",
+                    "che noi abbiamo celebrato",
+                    "che noi abbiamo elevato",
+                    "che noi abbiamo innalzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amplificaverĭtis",
+                "traduzioni": [
+                    "che voi siate accresciuti",
+                    "che voi siate accresciute",
+                    "che voi siate aumentati",
+                    "che voi siate aumentate",
+                    "che voi abbiate ampliato",
+                    "che voi abbiate allargato",
+                    "che voi siate ingranditi",
+                    "che voi siate ingrandite",
+                    "che voi abbiate celebrato",
+                    "che voi abbiate elevato",
+                    "che voi abbiate innalzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amplificavĕrint",
+                "traduzioni": [
+                    "che loro siano accresciuti",
+                    "che loro siano accresciute",
+                    "che essi siano accresciuti",
+                    "che loro siano aumentati",
+                    "che loro siano aumentate",
+                    "che essi siano aumentati",
+                    "che loro abbiano ampliato",
+                    "che essi abbiano ampliato",
+                    "che loro abbiano allargato",
+                    "che essi abbiano allargato",
+                    "che loro siano ingranditi",
+                    "che loro siano ingrandite",
+                    "che essi siano ingranditi",
+                    "che loro abbiano celebrato",
+                    "che essi abbiano celebrato",
+                    "che loro abbiano elevato",
+                    "che essi abbiano elevato",
+                    "che loro abbiano innalzato",
+                    "che essi abbiano innalzato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "amplificavissem",
+                "traduzioni": [
+                    "che io fossi accresciuto",
+                    "che io fossi accresciuta",
+                    "che io fossi aumentato",
+                    "che io fossi aumentata",
+                    "che io avessi ampliato",
+                    "che io avessi allargato",
+                    "che io fossi ingrandito",
+                    "che io fossi ingrandita",
+                    "che io avessi celebrato",
+                    "che io avessi elevato",
+                    "che io avessi innalzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amplificavisses",
+                "traduzioni": [
+                    "che tu fossi accresciuto",
+                    "che tu fossi accresciuta",
+                    "che tu fossi aumentato",
+                    "che tu fossi aumentata",
+                    "che tu avessi ampliato",
+                    "che tu avessi allargato",
+                    "che tu fossi ingrandito",
+                    "che tu fossi ingrandita",
+                    "che tu avessi celebrato",
+                    "che tu avessi elevato",
+                    "che tu avessi innalzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amplificavisset",
+                "traduzioni": [
+                    "che lui fosse accresciuto",
+                    "che lei fosse accresciuta",
+                    "che egli fosse accresciuto",
+                    "che lui fosse aumentato",
+                    "che lei fosse aumentata",
+                    "che egli fosse aumentato",
+                    "che lui avesse ampliato",
+                    "che lei avesse ampliato",
+                    "che egli avesse ampliato",
+                    "che lui avesse allargato",
+                    "che lei avesse allargato",
+                    "che egli avesse allargato",
+                    "che lui fosse ingrandito",
+                    "che lei fosse ingrandita",
+                    "che egli fosse ingrandito",
+                    "che lui avesse celebrato",
+                    "che lei avesse celebrato",
+                    "che egli avesse celebrato",
+                    "che lui avesse elevato",
+                    "che lei avesse elevato",
+                    "che egli avesse elevato",
+                    "che lui avesse innalzato",
+                    "che lei avesse innalzato",
+                    "che egli avesse innalzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amplificavissēmus",
+                "traduzioni": [
+                    "che noi fossimo accresciuti",
+                    "che noi fossimo accresciute",
+                    "che noi fossimo aumentati",
+                    "che noi fossimo aumentate",
+                    "che noi avessimo ampliato",
+                    "che noi avessimo allargato",
+                    "che noi fossimo ingranditi",
+                    "che noi fossimo ingrandite",
+                    "che noi avessimo celebrato",
+                    "che noi avessimo elevato",
+                    "che noi avessimo innalzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amplificavissētis",
+                "traduzioni": [
+                    "che voi foste accresciuti",
+                    "che voi foste accresciute",
+                    "che voi foste aumentati",
+                    "che voi foste aumentate",
+                    "che voi aveste ampliato",
+                    "che voi aveste allargato",
+                    "che voi foste ingranditi",
+                    "che voi foste ingrandite",
+                    "che voi aveste celebrato",
+                    "che voi aveste elevato",
+                    "che voi aveste innalzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amplificavissent",
+                "traduzioni": [
+                    "che loro fossero accresciuti",
+                    "che loro fossero accresciute",
+                    "che essi fossero accresciuti",
+                    "che loro fossero aumentati",
+                    "che loro fossero aumentate",
+                    "che essi fossero aumentati",
+                    "che loro avessero ampliato",
+                    "che essi avessero ampliato",
+                    "che loro avessero allargato",
+                    "che essi avessero allargato",
+                    "che loro fossero ingranditi",
+                    "che loro fossero ingrandite",
+                    "che essi fossero ingranditi",
+                    "che loro avessero celebrato",
+                    "che essi avessero celebrato",
+                    "che loro avessero elevato",
+                    "che essi avessero elevato",
+                    "che loro avessero innalzato",
+                    "che essi avessero innalzato"
+                ]
+            }
+        ]
+    }
+}

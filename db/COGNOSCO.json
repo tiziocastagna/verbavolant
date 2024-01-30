@@ -1,0 +1,1335 @@
+{
+    "identifier": "COGNOSCO",
+    "conuigazione": "3",
+    "translation": [
+        "conoscere",
+        "apprendere",
+        "intendere",
+        "capire",
+        "imparare",
+        "studiare",
+        "esaminare",
+        "discernere",
+        "riconoscere",
+        "diritto investigare"
+    ],
+    "valid_translations": [
+        "conoscere",
+        "apprendere",
+        "intendere",
+        "capire",
+        "imparare",
+        "studiare",
+        "esaminare",
+        "discernere",
+        "riconoscere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cognosco",
+                "traduzioni": [
+                    "io conosco",
+                    "io apprendo",
+                    "io intendo",
+                    "io capisco",
+                    "io imparo",
+                    "io studio",
+                    "io esamino",
+                    "io discerno",
+                    "io riconosco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cognoscis",
+                "traduzioni": [
+                    "tu conosci",
+                    "tu apprendi",
+                    "tu intendi",
+                    "tu capisci",
+                    "tu impari",
+                    "tu studi",
+                    "tu esamini",
+                    "tu discerni",
+                    "tu riconosci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cognoscit",
+                "traduzioni": [
+                    "lui conosce",
+                    "lei conosce",
+                    "egli conosce",
+                    "lui apprende",
+                    "lei apprende",
+                    "egli apprende",
+                    "lui intende",
+                    "lei intende",
+                    "egli intende",
+                    "lui capisce",
+                    "lei capisce",
+                    "egli capisce",
+                    "lui impara",
+                    "lei impara",
+                    "egli impara",
+                    "lui studia",
+                    "lei studia",
+                    "egli studia",
+                    "lui esamina",
+                    "lei esamina",
+                    "egli esamina",
+                    "lui discerne",
+                    "lei discerne",
+                    "egli discerne",
+                    "lui riconosce",
+                    "lei riconosce",
+                    "egli riconosce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cognoscĭmus",
+                "traduzioni": [
+                    "noi conosciamo",
+                    "noi apprendiamo",
+                    "noi intendiamo",
+                    "noi capiamo",
+                    "noi impariamo",
+                    "noi studiamo",
+                    "noi esaminiamo",
+                    "noi discerniamo",
+                    "noi riconosciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cognoscĭtis",
+                "traduzioni": [
+                    "voi conoscete",
+                    "voi apprendete",
+                    "voi intendete",
+                    "voi capite",
+                    "voi imparate",
+                    "voi studiate",
+                    "voi esaminate",
+                    "voi discernete",
+                    "voi riconoscete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cognoscunt",
+                "traduzioni": [
+                    "loro conoscono",
+                    "essi conoscono",
+                    "loro apprendono",
+                    "essi apprendono",
+                    "loro intendono",
+                    "essi intendono",
+                    "loro capiscono",
+                    "essi capiscono",
+                    "loro imparano",
+                    "essi imparano",
+                    "loro studiano",
+                    "essi studiano",
+                    "loro esaminano",
+                    "essi esaminano",
+                    "loro discernono",
+                    "essi discernono",
+                    "loro riconoscono",
+                    "essi riconoscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cognoscēbam",
+                "traduzioni": [
+                    "io conoscevo",
+                    "io apprendevo",
+                    "io intendevo",
+                    "io capivo",
+                    "io imparavo",
+                    "io studiavo",
+                    "io esaminavo",
+                    "io discernevo",
+                    "io riconoscevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cognoscēbas",
+                "traduzioni": [
+                    "tu conoscevi",
+                    "tu apprendevi",
+                    "tu intendevi",
+                    "tu capivi",
+                    "tu imparavi",
+                    "tu studiavi",
+                    "tu esaminavi",
+                    "tu discernevi",
+                    "tu riconoscevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cognoscēbat",
+                "traduzioni": [
+                    "lui conosceva",
+                    "lei conosceva",
+                    "egli conosceva",
+                    "lui apprendeva",
+                    "lei apprendeva",
+                    "egli apprendeva",
+                    "lui intendeva",
+                    "lei intendeva",
+                    "egli intendeva",
+                    "lui capiva",
+                    "lei capiva",
+                    "egli capiva",
+                    "lui imparava",
+                    "lei imparava",
+                    "egli imparava",
+                    "lui studiava",
+                    "lei studiava",
+                    "egli studiava",
+                    "lui esaminava",
+                    "lei esaminava",
+                    "egli esaminava",
+                    "lui discerneva",
+                    "lei discerneva",
+                    "egli discerneva",
+                    "lui riconosceva",
+                    "lei riconosceva",
+                    "egli riconosceva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cognoscebāmus",
+                "traduzioni": [
+                    "noi conoscevamo",
+                    "noi apprendevamo",
+                    "noi intendevamo",
+                    "noi capivamo",
+                    "noi imparavamo",
+                    "noi studiavamo",
+                    "noi esaminavamo",
+                    "noi discernevamo",
+                    "noi riconoscevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cognoscebātis",
+                "traduzioni": [
+                    "voi conoscevate",
+                    "voi apprendevate",
+                    "voi intendevate",
+                    "voi capivate",
+                    "voi imparavate",
+                    "voi studiavate",
+                    "voi esaminavate",
+                    "voi discernevate",
+                    "voi riconoscevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cognoscēbant",
+                "traduzioni": [
+                    "loro conoscevano",
+                    "essi conoscevano",
+                    "loro apprendevano",
+                    "essi apprendevano",
+                    "loro intendevano",
+                    "essi intendevano",
+                    "loro capivano",
+                    "essi capivano",
+                    "loro imparavano",
+                    "essi imparavano",
+                    "loro studiavano",
+                    "essi studiavano",
+                    "loro esaminavano",
+                    "essi esaminavano",
+                    "loro discernevano",
+                    "essi discernevano",
+                    "loro riconoscevano",
+                    "essi riconoscevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cognoscam",
+                "traduzioni": [
+                    "io conoscerò",
+                    "io apprenderò",
+                    "io intenderò",
+                    "io capirò",
+                    "io imparerò",
+                    "io studierò",
+                    "io esaminerò",
+                    "io discernerò",
+                    "io riconoscerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cognosces",
+                "traduzioni": [
+                    "tu conoscerai",
+                    "tu apprenderai",
+                    "tu intenderai",
+                    "tu capirai",
+                    "tu imparerai",
+                    "tu studierai",
+                    "tu esaminerai",
+                    "tu discernerai",
+                    "tu riconoscerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cognoscet",
+                "traduzioni": [
+                    "lui conoscerà",
+                    "lei conoscerà",
+                    "egli conoscerà",
+                    "lui apprenderà",
+                    "lei apprenderà",
+                    "egli apprenderà",
+                    "lui intenderà",
+                    "lei intenderà",
+                    "egli intenderà",
+                    "lui capirà",
+                    "lei capirà",
+                    "egli capirà",
+                    "lui imparerà",
+                    "lei imparerà",
+                    "egli imparerà",
+                    "lui studierà",
+                    "lei studierà",
+                    "egli studierà",
+                    "lui esaminerà",
+                    "lei esaminerà",
+                    "egli esaminerà",
+                    "lui discernerà",
+                    "lei discernerà",
+                    "egli discernerà",
+                    "lui riconoscerà",
+                    "lei riconoscerà",
+                    "egli riconoscerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cognoscēmus",
+                "traduzioni": [
+                    "noi conosceremo",
+                    "noi apprenderemo",
+                    "noi intenderemo",
+                    "noi capiremo",
+                    "noi impareremo",
+                    "noi studieremo",
+                    "noi esamineremo",
+                    "noi discerneremo",
+                    "noi riconosceremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cognoscētis",
+                "traduzioni": [
+                    "voi conoscerete",
+                    "voi apprenderete",
+                    "voi intenderete",
+                    "voi capirete",
+                    "voi imparerete",
+                    "voi studierete",
+                    "voi esaminerete",
+                    "voi discernerete",
+                    "voi riconoscerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cognoscent",
+                "traduzioni": [
+                    "loro conosceranno",
+                    "essi conosceranno",
+                    "loro apprenderanno",
+                    "essi apprenderanno",
+                    "loro intenderanno",
+                    "essi intenderanno",
+                    "loro capiranno",
+                    "essi capiranno",
+                    "loro impareranno",
+                    "essi impareranno",
+                    "loro studieranno",
+                    "essi studieranno",
+                    "loro esamineranno",
+                    "essi esamineranno",
+                    "loro discerneranno",
+                    "essi discerneranno",
+                    "loro riconosceranno",
+                    "essi riconosceranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cognovi",
+                "traduzioni": [
+                    "io conobbi",
+                    "io ho conosciuto",
+                    "io ebbi conosciuto",
+                    "io appresi",
+                    "io ho appreso",
+                    "io ebbi appreso",
+                    "io intesi",
+                    "io ho inteso",
+                    "io ebbi inteso",
+                    "io capii",
+                    "io ho capito",
+                    "io ebbi capito",
+                    "io imparai",
+                    "io ho imparato",
+                    "io ebbi imparato",
+                    "io studiai",
+                    "io ho studiato",
+                    "io ebbi studiato",
+                    "io esaminai",
+                    "io ho esaminato",
+                    "io ebbi esaminato",
+                    "io discernetti",
+                    "io discernei",
+                    "io riconobbi",
+                    "io ho riconosciuto",
+                    "io ebbi riconosciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cognovisti",
+                "traduzioni": [
+                    "tu conoscesti",
+                    "tu hai conosciuto",
+                    "tu avesti conosciuto",
+                    "tu apprendesti",
+                    "tu hai appreso",
+                    "tu avesti appreso",
+                    "tu intendesti",
+                    "tu hai inteso",
+                    "tu avesti inteso",
+                    "tu capisti",
+                    "tu hai capito",
+                    "tu avesti capito",
+                    "tu imparasti",
+                    "tu hai imparato",
+                    "tu avesti imparato",
+                    "tu studiasti",
+                    "tu hai studiato",
+                    "tu avesti studiato",
+                    "tu esaminasti",
+                    "tu hai esaminato",
+                    "tu avesti esaminato",
+                    "tu discernesti",
+                    "tu riconoscesti",
+                    "tu hai riconosciuto",
+                    "tu avesti riconosciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cognovit",
+                "traduzioni": [
+                    "lui conobbe",
+                    "lei conobbe",
+                    "egli conobbe",
+                    "lui ha conosciuto",
+                    "lei ha conosciuto",
+                    "egli ha conosciuto",
+                    "lui ebbe conosciuto",
+                    "lei ebbe conosciuto",
+                    "egli ebbe conosciuto",
+                    "lui apprese",
+                    "lei apprese",
+                    "egli apprese",
+                    "lui ha appreso",
+                    "lei ha appreso",
+                    "egli ha appreso",
+                    "lui ebbe appreso",
+                    "lei ebbe appreso",
+                    "egli ebbe appreso",
+                    "lui intese",
+                    "lei intese",
+                    "egli intese",
+                    "lui ha inteso",
+                    "lei ha inteso",
+                    "egli ha inteso",
+                    "lui ebbe inteso",
+                    "lei ebbe inteso",
+                    "egli ebbe inteso",
+                    "lui capì",
+                    "lei capì",
+                    "egli capì",
+                    "lui ha capito",
+                    "lei ha capito",
+                    "egli ha capito",
+                    "lui ebbe capito",
+                    "lei ebbe capito",
+                    "egli ebbe capito",
+                    "lui imparò",
+                    "lei imparò",
+                    "egli imparò",
+                    "lui ha imparato",
+                    "lei ha imparato",
+                    "egli ha imparato",
+                    "lui ebbe imparato",
+                    "lei ebbe imparato",
+                    "egli ebbe imparato",
+                    "lui studiò",
+                    "lei studiò",
+                    "egli studiò",
+                    "lui ha studiato",
+                    "lei ha studiato",
+                    "egli ha studiato",
+                    "lui ebbe studiato",
+                    "lei ebbe studiato",
+                    "egli ebbe studiato",
+                    "lui esaminò",
+                    "lei esaminò",
+                    "egli esaminò",
+                    "lui ha esaminato",
+                    "lei ha esaminato",
+                    "egli ha esaminato",
+                    "lui ebbe esaminato",
+                    "lei ebbe esaminato",
+                    "egli ebbe esaminato",
+                    "lui discernette",
+                    "lei discernette",
+                    "egli discernette",
+                    "lui discerné",
+                    "lei discerné",
+                    "egli discerné",
+                    "lui riconobbe",
+                    "lei riconobbe",
+                    "egli riconobbe",
+                    "lui ha riconosciuto",
+                    "lei ha riconosciuto",
+                    "egli ha riconosciuto",
+                    "lui ebbe riconosciuto",
+                    "lei ebbe riconosciuto",
+                    "egli ebbe riconosciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cognovĭmus",
+                "traduzioni": [
+                    "noi conoscemmo",
+                    "noi abbiamo conosciuto",
+                    "noi avemmo conosciuto",
+                    "noi apprendemmo",
+                    "noi abbiamo appreso",
+                    "noi avemmo appreso",
+                    "noi intendemmo",
+                    "noi abbiamo inteso",
+                    "noi avemmo inteso",
+                    "noi capimmo",
+                    "noi abbiamo capito",
+                    "noi avemmo capito",
+                    "noi imparammo",
+                    "noi abbiamo imparato",
+                    "noi avemmo imparato",
+                    "noi studiammo",
+                    "noi abbiamo studiato",
+                    "noi avemmo studiato",
+                    "noi esaminammo",
+                    "noi abbiamo esaminato",
+                    "noi avemmo esaminato",
+                    "noi discernemmo",
+                    "noi riconoscemmo",
+                    "noi abbiamo riconosciuto",
+                    "noi avemmo riconosciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cognovistis",
+                "traduzioni": [
+                    "voi conosceste",
+                    "voi avete conosciuto",
+                    "voi aveste conosciuto",
+                    "voi apprendeste",
+                    "voi avete appreso",
+                    "voi aveste appreso",
+                    "voi intendeste",
+                    "voi avete inteso",
+                    "voi aveste inteso",
+                    "voi capiste",
+                    "voi avete capito",
+                    "voi aveste capito",
+                    "voi imparaste",
+                    "voi avete imparato",
+                    "voi aveste imparato",
+                    "voi studiaste",
+                    "voi avete studiato",
+                    "voi aveste studiato",
+                    "voi esaminaste",
+                    "voi avete esaminato",
+                    "voi aveste esaminato",
+                    "voi discerneste",
+                    "voi riconosceste",
+                    "voi avete riconosciuto",
+                    "voi aveste riconosciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cognovērunt, cognovēre",
+                "traduzioni": [
+                    "loro conobbero",
+                    "essi conobbero",
+                    "loro hanno conosciuto",
+                    "essi hanno conosciuto",
+                    "loro ebbero conosciuto",
+                    "essi ebbero conosciuto",
+                    "loro appresero",
+                    "essi appresero",
+                    "loro hanno appreso",
+                    "essi hanno appreso",
+                    "loro ebbero appreso",
+                    "essi ebbero appreso",
+                    "loro intesero",
+                    "essi intesero",
+                    "loro hanno inteso",
+                    "essi hanno inteso",
+                    "loro ebbero inteso",
+                    "essi ebbero inteso",
+                    "loro capirono",
+                    "essi capirono",
+                    "loro hanno capito",
+                    "essi hanno capito",
+                    "loro ebbero capito",
+                    "essi ebbero capito",
+                    "loro impararono",
+                    "essi impararono",
+                    "loro hanno imparato",
+                    "essi hanno imparato",
+                    "loro ebbero imparato",
+                    "essi ebbero imparato",
+                    "loro studiarono",
+                    "essi studiarono",
+                    "loro hanno studiato",
+                    "essi hanno studiato",
+                    "loro ebbero studiato",
+                    "essi ebbero studiato",
+                    "loro esaminarono",
+                    "essi esaminarono",
+                    "loro hanno esaminato",
+                    "essi hanno esaminato",
+                    "loro ebbero esaminato",
+                    "essi ebbero esaminato",
+                    "loro discernettero",
+                    "essi discernettero",
+                    "loro discernerono",
+                    "essi discernerono",
+                    "loro riconobbero",
+                    "essi riconobbero",
+                    "loro hanno riconosciuto",
+                    "essi hanno riconosciuto",
+                    "loro ebbero riconosciuto",
+                    "essi ebbero riconosciuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cognovĕram",
+                "traduzioni": [
+                    "io avevo conosciuto",
+                    "io avevo appreso",
+                    "io avevo inteso",
+                    "io avevo capito",
+                    "io avevo imparato",
+                    "io avevo studiato",
+                    "io avevo esaminato",
+                    "io avevo riconosciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cognovĕras",
+                "traduzioni": [
+                    "tu avevi conosciuto",
+                    "tu avevi appreso",
+                    "tu avevi inteso",
+                    "tu avevi capito",
+                    "tu avevi imparato",
+                    "tu avevi studiato",
+                    "tu avevi esaminato",
+                    "tu avevi riconosciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cognovĕrat",
+                "traduzioni": [
+                    "lui aveva conosciuto",
+                    "lei aveva conosciuto",
+                    "egli aveva conosciuto",
+                    "lui aveva appreso",
+                    "lei aveva appreso",
+                    "egli aveva appreso",
+                    "lui aveva inteso",
+                    "lei aveva inteso",
+                    "egli aveva inteso",
+                    "lui aveva capito",
+                    "lei aveva capito",
+                    "egli aveva capito",
+                    "lui aveva imparato",
+                    "lei aveva imparato",
+                    "egli aveva imparato",
+                    "lui aveva studiato",
+                    "lei aveva studiato",
+                    "egli aveva studiato",
+                    "lui aveva esaminato",
+                    "lei aveva esaminato",
+                    "egli aveva esaminato",
+                    "lui aveva riconosciuto",
+                    "lei aveva riconosciuto",
+                    "egli aveva riconosciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cognoverāmus",
+                "traduzioni": [
+                    "noi avevamo conosciuto",
+                    "noi avevamo appreso",
+                    "noi avevamo inteso",
+                    "noi avevamo capito",
+                    "noi avevamo imparato",
+                    "noi avevamo studiato",
+                    "noi avevamo esaminato",
+                    "noi avevamo riconosciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cognoverātis",
+                "traduzioni": [
+                    "voi avevate conosciuto",
+                    "voi avevate appreso",
+                    "voi avevate inteso",
+                    "voi avevate capito",
+                    "voi avevate imparato",
+                    "voi avevate studiato",
+                    "voi avevate esaminato",
+                    "voi avevate riconosciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cognovĕrant",
+                "traduzioni": [
+                    "loro avevano conosciuto",
+                    "essi avevano conosciuto",
+                    "loro avevano appreso",
+                    "essi avevano appreso",
+                    "loro avevano inteso",
+                    "essi avevano inteso",
+                    "loro avevano capito",
+                    "essi avevano capito",
+                    "loro avevano imparato",
+                    "essi avevano imparato",
+                    "loro avevano studiato",
+                    "essi avevano studiato",
+                    "loro avevano esaminato",
+                    "essi avevano esaminato",
+                    "loro avevano riconosciuto",
+                    "essi avevano riconosciuto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cognovĕro",
+                "traduzioni": [
+                    "io avrò conosciuto",
+                    "io avrò appreso",
+                    "io avrò inteso",
+                    "io avrò capito",
+                    "io avrò imparato",
+                    "io avrò studiato",
+                    "io avrò esaminato",
+                    "io avrò riconosciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cognovĕris",
+                "traduzioni": [
+                    "tu avrai conosciuto",
+                    "tu avrai appreso",
+                    "tu avrai inteso",
+                    "tu avrai capito",
+                    "tu avrai imparato",
+                    "tu avrai studiato",
+                    "tu avrai esaminato",
+                    "tu avrai riconosciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cognovĕrit",
+                "traduzioni": [
+                    "lui avrà conosciuto",
+                    "lei avrà conosciuto",
+                    "egli avrà conosciuto",
+                    "lui avrà appreso",
+                    "lei avrà appreso",
+                    "egli avrà appreso",
+                    "lui avrà inteso",
+                    "lei avrà inteso",
+                    "egli avrà inteso",
+                    "lui avrà capito",
+                    "lei avrà capito",
+                    "egli avrà capito",
+                    "lui avrà imparato",
+                    "lei avrà imparato",
+                    "egli avrà imparato",
+                    "lui avrà studiato",
+                    "lei avrà studiato",
+                    "egli avrà studiato",
+                    "lui avrà esaminato",
+                    "lei avrà esaminato",
+                    "egli avrà esaminato",
+                    "lui avrà riconosciuto",
+                    "lei avrà riconosciuto",
+                    "egli avrà riconosciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cognoverĭmus",
+                "traduzioni": [
+                    "noi avremo conosciuto",
+                    "noi avremo appreso",
+                    "noi avremo inteso",
+                    "noi avremo capito",
+                    "noi avremo imparato",
+                    "noi avremo studiato",
+                    "noi avremo esaminato",
+                    "noi avremo riconosciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cognoverĭtis",
+                "traduzioni": [
+                    "voi avrete conosciuto",
+                    "voi avrete appreso",
+                    "voi avrete inteso",
+                    "voi avrete capito",
+                    "voi avrete imparato",
+                    "voi avrete studiato",
+                    "voi avrete esaminato",
+                    "voi avrete riconosciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cognovĕrint",
+                "traduzioni": [
+                    "loro avranno conosciuto",
+                    "essi avranno conosciuto",
+                    "loro avranno appreso",
+                    "essi avranno appreso",
+                    "loro avranno inteso",
+                    "essi avranno inteso",
+                    "loro avranno capito",
+                    "essi avranno capito",
+                    "loro avranno imparato",
+                    "essi avranno imparato",
+                    "loro avranno studiato",
+                    "essi avranno studiato",
+                    "loro avranno esaminato",
+                    "essi avranno esaminato",
+                    "loro avranno riconosciuto",
+                    "essi avranno riconosciuto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cognoscam",
+                "traduzioni": [
+                    "che io conosca",
+                    "che io apprenda",
+                    "che io intenda",
+                    "che io capisca",
+                    "che io impari",
+                    "che io studi",
+                    "che io esamini",
+                    "che io discerna",
+                    "che io riconosca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cognoscas",
+                "traduzioni": [
+                    "che tu conosca",
+                    "che tu apprenda",
+                    "che tu intenda",
+                    "che tu capisca",
+                    "che tu impari",
+                    "che tu studi",
+                    "che tu esamini",
+                    "che tu discerna",
+                    "che tu riconosca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cognoscat",
+                "traduzioni": [
+                    "che lui conosca",
+                    "che lei conosca",
+                    "che egli conosca",
+                    "che lui apprenda",
+                    "che lei apprenda",
+                    "che egli apprenda",
+                    "che lui intenda",
+                    "che lei intenda",
+                    "che egli intenda",
+                    "che lui capisca",
+                    "che lei capisca",
+                    "che egli capisca",
+                    "che lui impari",
+                    "che lei impari",
+                    "che egli impari",
+                    "che lui studi",
+                    "che lei studi",
+                    "che egli studi",
+                    "che lui esamini",
+                    "che lei esamini",
+                    "che egli esamini",
+                    "che lui discerna",
+                    "che lei discerna",
+                    "che egli discerna",
+                    "che lui riconosca",
+                    "che lei riconosca",
+                    "che egli riconosca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cognoscāmus",
+                "traduzioni": [
+                    "che noi conosciamo",
+                    "che noi apprendiamo",
+                    "che noi intendiamo",
+                    "che noi capiamo",
+                    "che noi impariamo",
+                    "che noi studiamo",
+                    "che noi esaminiamo",
+                    "che noi discerniamo",
+                    "che noi riconosciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cognoscātis",
+                "traduzioni": [
+                    "che voi conosciate",
+                    "che voi apprendiate",
+                    "che voi intendiate",
+                    "che voi capiate",
+                    "che voi impariate",
+                    "che voi studiate",
+                    "che voi esaminiate",
+                    "che voi discerniate",
+                    "che voi riconosciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cognoscant",
+                "traduzioni": [
+                    "che loro conoscano",
+                    "che essi conoscano",
+                    "che loro apprendano",
+                    "che essi apprendano",
+                    "che loro intendano",
+                    "che essi intendano",
+                    "che loro capiscano",
+                    "che essi capiscano",
+                    "che loro imparino",
+                    "che essi imparino",
+                    "che loro studino",
+                    "che essi studino",
+                    "che loro esaminino",
+                    "che essi esaminino",
+                    "che loro discernano",
+                    "che essi discernano",
+                    "che loro riconoscano",
+                    "che essi riconoscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cognoscĕrem",
+                "traduzioni": [
+                    "che io conoscessi",
+                    "che io apprendessi",
+                    "che io intendessi",
+                    "che io capissi",
+                    "che io imparassi",
+                    "che io studiassi",
+                    "che io esaminassi",
+                    "che io discernessi",
+                    "che io riconoscessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cognoscĕres",
+                "traduzioni": [
+                    "che tu conoscessi",
+                    "che tu apprendessi",
+                    "che tu intendessi",
+                    "che tu capissi",
+                    "che tu imparassi",
+                    "che tu studiassi",
+                    "che tu esaminassi",
+                    "che tu discernessi",
+                    "che tu riconoscessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cognoscĕret",
+                "traduzioni": [
+                    "che lui conoscesse",
+                    "che lei conoscesse",
+                    "che egli conoscesse",
+                    "che lui apprendesse",
+                    "che lei apprendesse",
+                    "che egli apprendesse",
+                    "che lui intendesse",
+                    "che lei intendesse",
+                    "che egli intendesse",
+                    "che lui capisse",
+                    "che lei capisse",
+                    "che egli capisse",
+                    "che lui imparasse",
+                    "che lei imparasse",
+                    "che egli imparasse",
+                    "che lui studiasse",
+                    "che lei studiasse",
+                    "che egli studiasse",
+                    "che lui esaminasse",
+                    "che lei esaminasse",
+                    "che egli esaminasse",
+                    "che lui discernesse",
+                    "che lei discernesse",
+                    "che egli discernesse",
+                    "che lui riconoscesse",
+                    "che lei riconoscesse",
+                    "che egli riconoscesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cognoscerēmus",
+                "traduzioni": [
+                    "che noi conoscessimo",
+                    "che noi apprendessimo",
+                    "che noi intendessimo",
+                    "che noi capissimo",
+                    "che noi imparassimo",
+                    "che noi studiassimo",
+                    "che noi esaminassimo",
+                    "che noi discernessimo",
+                    "che noi riconoscessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cognoscerētis",
+                "traduzioni": [
+                    "che voi conosceste",
+                    "che voi apprendeste",
+                    "che voi intendeste",
+                    "che voi capiste",
+                    "che voi imparaste",
+                    "che voi studiaste",
+                    "che voi esaminaste",
+                    "che voi discerneste",
+                    "che voi riconosceste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cognoscĕrent",
+                "traduzioni": [
+                    "che loro conoscessero",
+                    "che essi conoscessero",
+                    "che loro apprendessero",
+                    "che essi apprendessero",
+                    "che loro intendessero",
+                    "che essi intendessero",
+                    "che loro capissero",
+                    "che essi capissero",
+                    "che loro imparassero",
+                    "che essi imparassero",
+                    "che loro studiassero",
+                    "che essi studiassero",
+                    "che loro esaminassero",
+                    "che essi esaminassero",
+                    "che loro discernessero",
+                    "che essi discernessero",
+                    "che loro riconoscessero",
+                    "che essi riconoscessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cognovĕrim",
+                "traduzioni": [
+                    "che io abbia conosciuto",
+                    "che io abbia appreso",
+                    "che io abbia inteso",
+                    "che io abbia capito",
+                    "che io abbia imparato",
+                    "che io abbia studiato",
+                    "che io abbia esaminato",
+                    "che io abbia riconosciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cognovĕris",
+                "traduzioni": [
+                    "che tu abbia conosciuto",
+                    "che tu abbia appreso",
+                    "che tu abbia inteso",
+                    "che tu abbia capito",
+                    "che tu abbia imparato",
+                    "che tu abbia studiato",
+                    "che tu abbia esaminato",
+                    "che tu abbia riconosciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cognovĕrit",
+                "traduzioni": [
+                    "che lui abbia conosciuto",
+                    "che lei abbia conosciuto",
+                    "che egli abbia conosciuto",
+                    "che lui abbia appreso",
+                    "che lei abbia appreso",
+                    "che egli abbia appreso",
+                    "che lui abbia inteso",
+                    "che lei abbia inteso",
+                    "che egli abbia inteso",
+                    "che lui abbia capito",
+                    "che lei abbia capito",
+                    "che egli abbia capito",
+                    "che lui abbia imparato",
+                    "che lei abbia imparato",
+                    "che egli abbia imparato",
+                    "che lui abbia studiato",
+                    "che lei abbia studiato",
+                    "che egli abbia studiato",
+                    "che lui abbia esaminato",
+                    "che lei abbia esaminato",
+                    "che egli abbia esaminato",
+                    "che lui abbia riconosciuto",
+                    "che lei abbia riconosciuto",
+                    "che egli abbia riconosciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cognoverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo conosciuto",
+                    "che noi abbiamo appreso",
+                    "che noi abbiamo inteso",
+                    "che noi abbiamo capito",
+                    "che noi abbiamo imparato",
+                    "che noi abbiamo studiato",
+                    "che noi abbiamo esaminato",
+                    "che noi abbiamo riconosciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cognoverĭtis",
+                "traduzioni": [
+                    "che voi abbiate conosciuto",
+                    "che voi abbiate appreso",
+                    "che voi abbiate inteso",
+                    "che voi abbiate capito",
+                    "che voi abbiate imparato",
+                    "che voi abbiate studiato",
+                    "che voi abbiate esaminato",
+                    "che voi abbiate riconosciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cognovĕrint",
+                "traduzioni": [
+                    "che loro abbiano conosciuto",
+                    "che essi abbiano conosciuto",
+                    "che loro abbiano appreso",
+                    "che essi abbiano appreso",
+                    "che loro abbiano inteso",
+                    "che essi abbiano inteso",
+                    "che loro abbiano capito",
+                    "che essi abbiano capito",
+                    "che loro abbiano imparato",
+                    "che essi abbiano imparato",
+                    "che loro abbiano studiato",
+                    "che essi abbiano studiato",
+                    "che loro abbiano esaminato",
+                    "che essi abbiano esaminato",
+                    "che loro abbiano riconosciuto",
+                    "che essi abbiano riconosciuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cognovissem, cognossem",
+                "traduzioni": [
+                    "che io avessi conosciuto",
+                    "che io avessi appreso",
+                    "che io avessi inteso",
+                    "che io avessi capito",
+                    "che io avessi imparato",
+                    "che io avessi studiato",
+                    "che io avessi esaminato",
+                    "che io avessi riconosciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cognovisses, cognosses",
+                "traduzioni": [
+                    "che tu avessi conosciuto",
+                    "che tu avessi appreso",
+                    "che tu avessi inteso",
+                    "che tu avessi capito",
+                    "che tu avessi imparato",
+                    "che tu avessi studiato",
+                    "che tu avessi esaminato",
+                    "che tu avessi riconosciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cognovisset, cognosset",
+                "traduzioni": [
+                    "che lui avesse conosciuto",
+                    "che lei avesse conosciuto",
+                    "che egli avesse conosciuto",
+                    "che lui avesse appreso",
+                    "che lei avesse appreso",
+                    "che egli avesse appreso",
+                    "che lui avesse inteso",
+                    "che lei avesse inteso",
+                    "che egli avesse inteso",
+                    "che lui avesse capito",
+                    "che lei avesse capito",
+                    "che egli avesse capito",
+                    "che lui avesse imparato",
+                    "che lei avesse imparato",
+                    "che egli avesse imparato",
+                    "che lui avesse studiato",
+                    "che lei avesse studiato",
+                    "che egli avesse studiato",
+                    "che lui avesse esaminato",
+                    "che lei avesse esaminato",
+                    "che egli avesse esaminato",
+                    "che lui avesse riconosciuto",
+                    "che lei avesse riconosciuto",
+                    "che egli avesse riconosciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cognovissēmus, cognossēmus",
+                "traduzioni": [
+                    "che noi avessimo conosciuto",
+                    "che noi avessimo appreso",
+                    "che noi avessimo inteso",
+                    "che noi avessimo capito",
+                    "che noi avessimo imparato",
+                    "che noi avessimo studiato",
+                    "che noi avessimo esaminato",
+                    "che noi avessimo riconosciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cognovissētis, cognossētis",
+                "traduzioni": [
+                    "che voi aveste conosciuto",
+                    "che voi aveste appreso",
+                    "che voi aveste inteso",
+                    "che voi aveste capito",
+                    "che voi aveste imparato",
+                    "che voi aveste studiato",
+                    "che voi aveste esaminato",
+                    "che voi aveste riconosciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cognovissent, cognossent",
+                "traduzioni": [
+                    "che loro avessero conosciuto",
+                    "che essi avessero conosciuto",
+                    "che loro avessero appreso",
+                    "che essi avessero appreso",
+                    "che loro avessero inteso",
+                    "che essi avessero inteso",
+                    "che loro avessero capito",
+                    "che essi avessero capito",
+                    "che loro avessero imparato",
+                    "che essi avessero imparato",
+                    "che loro avessero studiato",
+                    "che essi avessero studiato",
+                    "che loro avessero esaminato",
+                    "che essi avessero esaminato",
+                    "che loro avessero riconosciuto",
+                    "che essi avessero riconosciuto"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,943 @@
+{
+    "identifier": "SEMINO",
+    "conuigazione": "1",
+    "translation": [
+        "seminare",
+        "procreare",
+        "generare",
+        "concepire",
+        "(in senso figurato) seminare",
+        "diffondere"
+    ],
+    "valid_translations": [
+        "seminare",
+        "procreare",
+        "generare",
+        "concepire",
+        "diffondere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēmĭno",
+                "traduzioni": [
+                    "io semino",
+                    "io procreo",
+                    "io genero",
+                    "io concepisco",
+                    "io diffondo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēmĭnas",
+                "traduzioni": [
+                    "tu semini",
+                    "tu procrei",
+                    "tu generi",
+                    "tu concepisci",
+                    "tu diffondi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēmĭnat",
+                "traduzioni": [
+                    "lui semina",
+                    "lei semina",
+                    "egli semina",
+                    "lui procrea",
+                    "lei procrea",
+                    "egli procrea",
+                    "lui genera",
+                    "lei genera",
+                    "egli genera",
+                    "lui concepisce",
+                    "lei concepisce",
+                    "egli concepisce",
+                    "lui diffonde",
+                    "lei diffonde",
+                    "egli diffonde"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēmĭnāmus",
+                "traduzioni": [
+                    "noi seminiamo",
+                    "noi procreiamo",
+                    "noi generiamo",
+                    "noi concepiamo",
+                    "noi diffondiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēmĭnātis",
+                "traduzioni": [
+                    "voi seminate",
+                    "voi procreate",
+                    "voi generate",
+                    "voi concepite",
+                    "voi diffondete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēmĭnant",
+                "traduzioni": [
+                    "loro seminano",
+                    "essi seminano",
+                    "loro procreano",
+                    "essi procreano",
+                    "loro generano",
+                    "essi generano",
+                    "loro concepiscono",
+                    "essi concepiscono",
+                    "loro diffondono",
+                    "essi diffondono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēmĭnābam",
+                "traduzioni": [
+                    "io seminavo",
+                    "io procreavo",
+                    "io generavo",
+                    "io concepivo",
+                    "io diffondevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēmĭnābas",
+                "traduzioni": [
+                    "tu seminavi",
+                    "tu procreavi",
+                    "tu generavi",
+                    "tu concepivi",
+                    "tu diffondevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēmĭnābat",
+                "traduzioni": [
+                    "lui seminava",
+                    "lei seminava",
+                    "egli seminava",
+                    "lui procreava",
+                    "lei procreava",
+                    "egli procreava",
+                    "lui generava",
+                    "lei generava",
+                    "egli generava",
+                    "lui concepiva",
+                    "lei concepiva",
+                    "egli concepiva",
+                    "lui diffondeva",
+                    "lei diffondeva",
+                    "egli diffondeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēmĭnabāmus",
+                "traduzioni": [
+                    "noi seminavamo",
+                    "noi procreavamo",
+                    "noi generavamo",
+                    "noi concepivamo",
+                    "noi diffondevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēmĭnabātis",
+                "traduzioni": [
+                    "voi seminavate",
+                    "voi procreavate",
+                    "voi generavate",
+                    "voi concepivate",
+                    "voi diffondevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēmĭnābant",
+                "traduzioni": [
+                    "loro seminavano",
+                    "essi seminavano",
+                    "loro procreavano",
+                    "essi procreavano",
+                    "loro generavano",
+                    "essi generavano",
+                    "loro concepivano",
+                    "essi concepivano",
+                    "loro diffondevano",
+                    "essi diffondevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēmĭnābo",
+                "traduzioni": [
+                    "io seminerò",
+                    "io procreerò",
+                    "io genererò",
+                    "io concepirò",
+                    "io diffonderò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēmĭnābis",
+                "traduzioni": [
+                    "tu seminerai",
+                    "tu procreerai",
+                    "tu genererai",
+                    "tu concepirai",
+                    "tu diffonderai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēmĭnābit",
+                "traduzioni": [
+                    "lui seminerà",
+                    "lei seminerà",
+                    "egli seminerà",
+                    "lui procreerà",
+                    "lei procreerà",
+                    "egli procreerà",
+                    "lui genererà",
+                    "lei genererà",
+                    "egli genererà",
+                    "lui concepirà",
+                    "lei concepirà",
+                    "egli concepirà",
+                    "lui diffonderà",
+                    "lei diffonderà",
+                    "egli diffonderà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēmĭnabĭmus",
+                "traduzioni": [
+                    "noi semineremo",
+                    "noi procreeremo",
+                    "noi genereremo",
+                    "noi concepiremo",
+                    "noi diffonderemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēmĭnabĭtis",
+                "traduzioni": [
+                    "voi seminerete",
+                    "voi procreerete",
+                    "voi genererete",
+                    "voi concepirete",
+                    "voi diffonderete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēmĭnābunt",
+                "traduzioni": [
+                    "loro semineranno",
+                    "essi semineranno",
+                    "loro procreeranno",
+                    "essi procreeranno",
+                    "loro genereranno",
+                    "essi genereranno",
+                    "loro concepiranno",
+                    "essi concepiranno",
+                    "loro diffonderanno",
+                    "essi diffonderanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "seminavi",
+                "traduzioni": [
+                    "io seminai",
+                    "io ho seminato",
+                    "io ebbi seminato",
+                    "io procreai",
+                    "io ho procreato",
+                    "io ebbi procreato",
+                    "io generai",
+                    "io ho generato",
+                    "io ebbi generato",
+                    "io concepii",
+                    "io ho concepito",
+                    "io ebbi concepito",
+                    "io diffusi",
+                    "io ho diffuso",
+                    "io ebbi diffuso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "seminavisti",
+                "traduzioni": [
+                    "tu seminasti",
+                    "tu hai seminato",
+                    "tu avesti seminato",
+                    "tu procreasti",
+                    "tu hai procreato",
+                    "tu avesti procreato",
+                    "tu generasti",
+                    "tu hai generato",
+                    "tu avesti generato",
+                    "tu concepisti",
+                    "tu hai concepito",
+                    "tu avesti concepito",
+                    "tu diffondesti",
+                    "tu hai diffuso",
+                    "tu avesti diffuso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "seminavit",
+                "traduzioni": [
+                    "lui seminò",
+                    "lei seminò",
+                    "egli seminò",
+                    "lui ha seminato",
+                    "lei ha seminato",
+                    "egli ha seminato",
+                    "lui ebbe seminato",
+                    "lei ebbe seminato",
+                    "egli ebbe seminato",
+                    "lui procreò",
+                    "lei procreò",
+                    "egli procreò",
+                    "lui ha procreato",
+                    "lei ha procreato",
+                    "egli ha procreato",
+                    "lui ebbe procreato",
+                    "lei ebbe procreato",
+                    "egli ebbe procreato",
+                    "lui generò",
+                    "lei generò",
+                    "egli generò",
+                    "lui ha generato",
+                    "lei ha generato",
+                    "egli ha generato",
+                    "lui ebbe generato",
+                    "lei ebbe generato",
+                    "egli ebbe generato",
+                    "lui concepì",
+                    "lei concepì",
+                    "egli concepì",
+                    "lui ha concepito",
+                    "lei ha concepito",
+                    "egli ha concepito",
+                    "lui ebbe concepito",
+                    "lei ebbe concepito",
+                    "egli ebbe concepito",
+                    "lui diffuse",
+                    "lei diffuse",
+                    "egli diffuse",
+                    "lui ha diffuso",
+                    "lei ha diffuso",
+                    "egli ha diffuso",
+                    "lui ebbe diffuso",
+                    "lei ebbe diffuso",
+                    "egli ebbe diffuso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "seminavĭmus",
+                "traduzioni": [
+                    "noi seminammo",
+                    "noi abbiamo seminato",
+                    "noi avemmo seminato",
+                    "noi procreammo",
+                    "noi abbiamo procreato",
+                    "noi avemmo procreato",
+                    "noi generammo",
+                    "noi abbiamo generato",
+                    "noi avemmo generato",
+                    "noi concepimmo",
+                    "noi abbiamo concepito",
+                    "noi avemmo concepito",
+                    "noi diffondemmo",
+                    "noi abbiamo diffuso",
+                    "noi avemmo diffuso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "seminavistis",
+                "traduzioni": [
+                    "voi seminaste",
+                    "voi avete seminato",
+                    "voi aveste seminato",
+                    "voi procreaste",
+                    "voi avete procreato",
+                    "voi aveste procreato",
+                    "voi generaste",
+                    "voi avete generato",
+                    "voi aveste generato",
+                    "voi concepiste",
+                    "voi avete concepito",
+                    "voi aveste concepito",
+                    "voi diffondeste",
+                    "voi avete diffuso",
+                    "voi aveste diffuso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "seminavērunt, seminavēre",
+                "traduzioni": [
+                    "loro seminarono",
+                    "essi seminarono",
+                    "loro hanno seminato",
+                    "essi hanno seminato",
+                    "loro ebbero seminato",
+                    "essi ebbero seminato",
+                    "loro procrearono",
+                    "essi procrearono",
+                    "loro hanno procreato",
+                    "essi hanno procreato",
+                    "loro ebbero procreato",
+                    "essi ebbero procreato",
+                    "loro generarono",
+                    "essi generarono",
+                    "loro hanno generato",
+                    "essi hanno generato",
+                    "loro ebbero generato",
+                    "essi ebbero generato",
+                    "loro concepirono",
+                    "essi concepirono",
+                    "loro hanno concepito",
+                    "essi hanno concepito",
+                    "loro ebbero concepito",
+                    "essi ebbero concepito",
+                    "loro diffusero",
+                    "essi diffusero",
+                    "loro hanno diffuso",
+                    "essi hanno diffuso",
+                    "loro ebbero diffuso",
+                    "essi ebbero diffuso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "seminavĕram",
+                "traduzioni": [
+                    "io avevo seminato",
+                    "io avevo procreato",
+                    "io avevo generato",
+                    "io avevo concepito",
+                    "io avevo diffuso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "seminavĕras",
+                "traduzioni": [
+                    "tu avevi seminato",
+                    "tu avevi procreato",
+                    "tu avevi generato",
+                    "tu avevi concepito",
+                    "tu avevi diffuso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "seminavĕrat",
+                "traduzioni": [
+                    "lui aveva seminato",
+                    "lei aveva seminato",
+                    "egli aveva seminato",
+                    "lui aveva procreato",
+                    "lei aveva procreato",
+                    "egli aveva procreato",
+                    "lui aveva generato",
+                    "lei aveva generato",
+                    "egli aveva generato",
+                    "lui aveva concepito",
+                    "lei aveva concepito",
+                    "egli aveva concepito",
+                    "lui aveva diffuso",
+                    "lei aveva diffuso",
+                    "egli aveva diffuso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "seminaverāmus",
+                "traduzioni": [
+                    "noi avevamo seminato",
+                    "noi avevamo procreato",
+                    "noi avevamo generato",
+                    "noi avevamo concepito",
+                    "noi avevamo diffuso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "seminaverātis",
+                "traduzioni": [
+                    "voi avevate seminato",
+                    "voi avevate procreato",
+                    "voi avevate generato",
+                    "voi avevate concepito",
+                    "voi avevate diffuso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "seminavĕrant",
+                "traduzioni": [
+                    "loro avevano seminato",
+                    "essi avevano seminato",
+                    "loro avevano procreato",
+                    "essi avevano procreato",
+                    "loro avevano generato",
+                    "essi avevano generato",
+                    "loro avevano concepito",
+                    "essi avevano concepito",
+                    "loro avevano diffuso",
+                    "essi avevano diffuso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "seminavĕro",
+                "traduzioni": [
+                    "io avrò seminato",
+                    "io avrò procreato",
+                    "io avrò generato",
+                    "io avrò concepito",
+                    "io avrò diffuso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "seminavĕris",
+                "traduzioni": [
+                    "tu avrai seminato",
+                    "tu avrai procreato",
+                    "tu avrai generato",
+                    "tu avrai concepito",
+                    "tu avrai diffuso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "seminavĕrit",
+                "traduzioni": [
+                    "lui avrà seminato",
+                    "lei avrà seminato",
+                    "egli avrà seminato",
+                    "lui avrà procreato",
+                    "lei avrà procreato",
+                    "egli avrà procreato",
+                    "lui avrà generato",
+                    "lei avrà generato",
+                    "egli avrà generato",
+                    "lui avrà concepito",
+                    "lei avrà concepito",
+                    "egli avrà concepito",
+                    "lui avrà diffuso",
+                    "lei avrà diffuso",
+                    "egli avrà diffuso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "seminaverĭmus",
+                "traduzioni": [
+                    "noi avremo seminato",
+                    "noi avremo procreato",
+                    "noi avremo generato",
+                    "noi avremo concepito",
+                    "noi avremo diffuso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "seminaverĭtis",
+                "traduzioni": [
+                    "voi avrete seminato",
+                    "voi avrete procreato",
+                    "voi avrete generato",
+                    "voi avrete concepito",
+                    "voi avrete diffuso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "seminavĕrint",
+                "traduzioni": [
+                    "loro avranno seminato",
+                    "essi avranno seminato",
+                    "loro avranno procreato",
+                    "essi avranno procreato",
+                    "loro avranno generato",
+                    "essi avranno generato",
+                    "loro avranno concepito",
+                    "essi avranno concepito",
+                    "loro avranno diffuso",
+                    "essi avranno diffuso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēmĭnem",
+                "traduzioni": [
+                    "che io semini",
+                    "che io procrei",
+                    "che io generi",
+                    "che io concepisca",
+                    "che io diffonda"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēmĭnes",
+                "traduzioni": [
+                    "che tu semini",
+                    "che tu procrei",
+                    "che tu generi",
+                    "che tu concepisca",
+                    "che tu diffonda"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēmĭnet",
+                "traduzioni": [
+                    "che lui semini",
+                    "che lei semini",
+                    "che egli semini",
+                    "che lui procrei",
+                    "che lei procrei",
+                    "che egli procrei",
+                    "che lui generi",
+                    "che lei generi",
+                    "che egli generi",
+                    "che lui concepisca",
+                    "che lei concepisca",
+                    "che egli concepisca",
+                    "che lui diffonda",
+                    "che lei diffonda",
+                    "che egli diffonda"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēmĭnēmus",
+                "traduzioni": [
+                    "che noi seminiamo",
+                    "che noi procreiamo",
+                    "che noi generiamo",
+                    "che noi concepiamo",
+                    "che noi diffondiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēmĭnētis",
+                "traduzioni": [
+                    "che voi seminiate",
+                    "che voi procreiate",
+                    "che voi generiate",
+                    "che voi concepiate",
+                    "che voi diffondiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēmĭnent",
+                "traduzioni": [
+                    "che loro seminino",
+                    "che essi seminino",
+                    "che loro procreino",
+                    "che essi procreino",
+                    "che loro generino",
+                    "che essi generino",
+                    "che loro concepiscano",
+                    "che essi concepiscano",
+                    "che loro diffondano",
+                    "che essi diffondano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēmĭnārem",
+                "traduzioni": [
+                    "che io seminassi",
+                    "che io procreassi",
+                    "che io generassi",
+                    "che io concepissi",
+                    "che io diffondessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēmĭnāres",
+                "traduzioni": [
+                    "che tu seminassi",
+                    "che tu procreassi",
+                    "che tu generassi",
+                    "che tu concepissi",
+                    "che tu diffondessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēmĭnāret",
+                "traduzioni": [
+                    "che lui seminasse",
+                    "che lei seminasse",
+                    "che egli seminasse",
+                    "che lui procreasse",
+                    "che lei procreasse",
+                    "che egli procreasse",
+                    "che lui generasse",
+                    "che lei generasse",
+                    "che egli generasse",
+                    "che lui concepisse",
+                    "che lei concepisse",
+                    "che egli concepisse",
+                    "che lui diffondesse",
+                    "che lei diffondesse",
+                    "che egli diffondesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēmĭnarēmus",
+                "traduzioni": [
+                    "che noi seminassimo",
+                    "che noi procreassimo",
+                    "che noi generassimo",
+                    "che noi concepissimo",
+                    "che noi diffondessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēmĭnarētis",
+                "traduzioni": [
+                    "che voi seminaste",
+                    "che voi procreaste",
+                    "che voi generaste",
+                    "che voi concepiste",
+                    "che voi diffondeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēmĭnārent",
+                "traduzioni": [
+                    "che loro seminassero",
+                    "che essi seminassero",
+                    "che loro procreassero",
+                    "che essi procreassero",
+                    "che loro generassero",
+                    "che essi generassero",
+                    "che loro concepissero",
+                    "che essi concepissero",
+                    "che loro diffondessero",
+                    "che essi diffondessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "seminavĕrim",
+                "traduzioni": [
+                    "che io abbia seminato",
+                    "che io abbia procreato",
+                    "che io abbia generato",
+                    "che io abbia concepito",
+                    "che io abbia diffuso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "seminavĕris",
+                "traduzioni": [
+                    "che tu abbia seminato",
+                    "che tu abbia procreato",
+                    "che tu abbia generato",
+                    "che tu abbia concepito",
+                    "che tu abbia diffuso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "seminavĕrit",
+                "traduzioni": [
+                    "che lui abbia seminato",
+                    "che lei abbia seminato",
+                    "che egli abbia seminato",
+                    "che lui abbia procreato",
+                    "che lei abbia procreato",
+                    "che egli abbia procreato",
+                    "che lui abbia generato",
+                    "che lei abbia generato",
+                    "che egli abbia generato",
+                    "che lui abbia concepito",
+                    "che lei abbia concepito",
+                    "che egli abbia concepito",
+                    "che lui abbia diffuso",
+                    "che lei abbia diffuso",
+                    "che egli abbia diffuso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "seminaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo seminato",
+                    "che noi abbiamo procreato",
+                    "che noi abbiamo generato",
+                    "che noi abbiamo concepito",
+                    "che noi abbiamo diffuso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "seminaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate seminato",
+                    "che voi abbiate procreato",
+                    "che voi abbiate generato",
+                    "che voi abbiate concepito",
+                    "che voi abbiate diffuso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "seminavĕrint",
+                "traduzioni": [
+                    "che loro abbiano seminato",
+                    "che essi abbiano seminato",
+                    "che loro abbiano procreato",
+                    "che essi abbiano procreato",
+                    "che loro abbiano generato",
+                    "che essi abbiano generato",
+                    "che loro abbiano concepito",
+                    "che essi abbiano concepito",
+                    "che loro abbiano diffuso",
+                    "che essi abbiano diffuso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "seminavissem",
+                "traduzioni": [
+                    "che io avessi seminato",
+                    "che io avessi procreato",
+                    "che io avessi generato",
+                    "che io avessi concepito",
+                    "che io avessi diffuso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "seminavisses",
+                "traduzioni": [
+                    "che tu avessi seminato",
+                    "che tu avessi procreato",
+                    "che tu avessi generato",
+                    "che tu avessi concepito",
+                    "che tu avessi diffuso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "seminavisset",
+                "traduzioni": [
+                    "che lui avesse seminato",
+                    "che lei avesse seminato",
+                    "che egli avesse seminato",
+                    "che lui avesse procreato",
+                    "che lei avesse procreato",
+                    "che egli avesse procreato",
+                    "che lui avesse generato",
+                    "che lei avesse generato",
+                    "che egli avesse generato",
+                    "che lui avesse concepito",
+                    "che lei avesse concepito",
+                    "che egli avesse concepito",
+                    "che lui avesse diffuso",
+                    "che lei avesse diffuso",
+                    "che egli avesse diffuso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "seminavissēmus",
+                "traduzioni": [
+                    "che noi avessimo seminato",
+                    "che noi avessimo procreato",
+                    "che noi avessimo generato",
+                    "che noi avessimo concepito",
+                    "che noi avessimo diffuso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "seminavissētis",
+                "traduzioni": [
+                    "che voi aveste seminato",
+                    "che voi aveste procreato",
+                    "che voi aveste generato",
+                    "che voi aveste concepito",
+                    "che voi aveste diffuso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "seminavissent",
+                "traduzioni": [
+                    "che loro avessero seminato",
+                    "che essi avessero seminato",
+                    "che loro avessero procreato",
+                    "che essi avessero procreato",
+                    "che loro avessero generato",
+                    "che essi avessero generato",
+                    "che loro avessero concepito",
+                    "che essi avessero concepito",
+                    "che loro avessero diffuso",
+                    "che essi avessero diffuso"
+                ]
+            }
+        ]
+    }
+}

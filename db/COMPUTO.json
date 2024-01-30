@@ -1,0 +1,1278 @@
+{
+    "identifier": "COMPUTO",
+    "conuigazione": "1",
+    "translation": [
+        "contare",
+        "stimare",
+        "calcolare",
+        "conteggiare",
+        "reputare",
+        "giudicare",
+        "stimare",
+        "credere"
+    ],
+    "valid_translations": [
+        "contare",
+        "stimare",
+        "calcolare",
+        "conteggiare",
+        "reputare",
+        "giudicare",
+        "stimare",
+        "credere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "compŭto",
+                "traduzioni": [
+                    "io conto",
+                    "io stimo",
+                    "io calcolo",
+                    "io conteggio",
+                    "io reputo",
+                    "io giudico",
+                    "io stimo",
+                    "io credo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compŭtas",
+                "traduzioni": [
+                    "tu conti",
+                    "tu stimi",
+                    "tu calcoli",
+                    "tu conteggi",
+                    "tu reputi",
+                    "tu giudichi",
+                    "tu stimi",
+                    "tu credi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compŭtat",
+                "traduzioni": [
+                    "lui conta",
+                    "lei conta",
+                    "egli conta",
+                    "lui stima",
+                    "lei stima",
+                    "egli stima",
+                    "lui calcola",
+                    "lei calcola",
+                    "egli calcola",
+                    "lui conteggia",
+                    "lei conteggia",
+                    "egli conteggia",
+                    "lui reputa",
+                    "lei reputa",
+                    "egli reputa",
+                    "lui giudica",
+                    "lei giudica",
+                    "egli giudica",
+                    "lui stima",
+                    "lei stima",
+                    "egli stima",
+                    "lui crede",
+                    "lei crede",
+                    "egli crede"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compŭtāmus",
+                "traduzioni": [
+                    "noi contiamo",
+                    "noi stimiamo",
+                    "noi calcoliamo",
+                    "noi conteggiamo",
+                    "noi reputiamo",
+                    "noi giudichiamo",
+                    "noi stimiamo",
+                    "noi crediamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compŭtātis",
+                "traduzioni": [
+                    "voi contate",
+                    "voi stimate",
+                    "voi calcolate",
+                    "voi conteggiate",
+                    "voi reputate",
+                    "voi giudicate",
+                    "voi stimate",
+                    "voi credete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compŭtant",
+                "traduzioni": [
+                    "loro contano",
+                    "essi contano",
+                    "loro stimano",
+                    "essi stimano",
+                    "loro calcolano",
+                    "essi calcolano",
+                    "loro conteggiano",
+                    "essi conteggiano",
+                    "loro reputano",
+                    "essi reputano",
+                    "loro giudicano",
+                    "essi giudicano",
+                    "loro stimano",
+                    "essi stimano",
+                    "loro credono",
+                    "essi credono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "compŭtābam",
+                "traduzioni": [
+                    "io contavo",
+                    "io stimavo",
+                    "io calcolavo",
+                    "io conteggiavo",
+                    "io reputavo",
+                    "io giudicavo",
+                    "io stimavo",
+                    "io credevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compŭtābas",
+                "traduzioni": [
+                    "tu contavi",
+                    "tu stimavi",
+                    "tu calcolavi",
+                    "tu conteggiavi",
+                    "tu reputavi",
+                    "tu giudicavi",
+                    "tu stimavi",
+                    "tu credevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compŭtābat",
+                "traduzioni": [
+                    "lui contava",
+                    "lei contava",
+                    "egli contava",
+                    "lui stimava",
+                    "lei stimava",
+                    "egli stimava",
+                    "lui calcolava",
+                    "lei calcolava",
+                    "egli calcolava",
+                    "lui conteggiava",
+                    "lei conteggiava",
+                    "egli conteggiava",
+                    "lui reputava",
+                    "lei reputava",
+                    "egli reputava",
+                    "lui giudicava",
+                    "lei giudicava",
+                    "egli giudicava",
+                    "lui stimava",
+                    "lei stimava",
+                    "egli stimava",
+                    "lui credeva",
+                    "lei credeva",
+                    "egli credeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compŭtabāmus",
+                "traduzioni": [
+                    "noi contavamo",
+                    "noi stimavamo",
+                    "noi calcolavamo",
+                    "noi conteggiavamo",
+                    "noi reputavamo",
+                    "noi giudicavamo",
+                    "noi stimavamo",
+                    "noi credevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compŭtabātis",
+                "traduzioni": [
+                    "voi contavate",
+                    "voi stimavate",
+                    "voi calcolavate",
+                    "voi conteggiavate",
+                    "voi reputavate",
+                    "voi giudicavate",
+                    "voi stimavate",
+                    "voi credevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compŭtābant",
+                "traduzioni": [
+                    "loro contavano",
+                    "essi contavano",
+                    "loro stimavano",
+                    "essi stimavano",
+                    "loro calcolavano",
+                    "essi calcolavano",
+                    "loro conteggiavano",
+                    "essi conteggiavano",
+                    "loro reputavano",
+                    "essi reputavano",
+                    "loro giudicavano",
+                    "essi giudicavano",
+                    "loro stimavano",
+                    "essi stimavano",
+                    "loro credevano",
+                    "essi credevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "compŭtābo",
+                "traduzioni": [
+                    "io conterò",
+                    "io stimerò",
+                    "io calcolerò",
+                    "io conteggerò",
+                    "io reputerò",
+                    "io giudicherò",
+                    "io stimerò",
+                    "io crederò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compŭtābis",
+                "traduzioni": [
+                    "tu conterai",
+                    "tu stimerai",
+                    "tu calcolerai",
+                    "tu conteggerai",
+                    "tu reputerai",
+                    "tu giudicherai",
+                    "tu stimerai",
+                    "tu crederai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compŭtābit",
+                "traduzioni": [
+                    "lui conterà",
+                    "lei conterà",
+                    "egli conterà",
+                    "lui stimerà",
+                    "lei stimerà",
+                    "egli stimerà",
+                    "lui calcolerà",
+                    "lei calcolerà",
+                    "egli calcolerà",
+                    "lui conteggerà",
+                    "lei conteggerà",
+                    "egli conteggerà",
+                    "lui reputerà",
+                    "lei reputerà",
+                    "egli reputerà",
+                    "lui giudicherà",
+                    "lei giudicherà",
+                    "egli giudicherà",
+                    "lui stimerà",
+                    "lei stimerà",
+                    "egli stimerà",
+                    "lui crederà",
+                    "lei crederà",
+                    "egli crederà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compŭtabĭmus",
+                "traduzioni": [
+                    "noi conteremo",
+                    "noi stimeremo",
+                    "noi calcoleremo",
+                    "noi conteggeremo",
+                    "noi reputeremo",
+                    "noi giudicheremo",
+                    "noi stimeremo",
+                    "noi crederemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compŭtabĭtis",
+                "traduzioni": [
+                    "voi conterete",
+                    "voi stimerete",
+                    "voi calcolerete",
+                    "voi conteggerete",
+                    "voi reputerete",
+                    "voi giudicherete",
+                    "voi stimerete",
+                    "voi crederete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compŭtābunt",
+                "traduzioni": [
+                    "loro conteranno",
+                    "essi conteranno",
+                    "loro stimeranno",
+                    "essi stimeranno",
+                    "loro calcoleranno",
+                    "essi calcoleranno",
+                    "loro conteggeranno",
+                    "essi conteggeranno",
+                    "loro reputeranno",
+                    "essi reputeranno",
+                    "loro giudicheranno",
+                    "essi giudicheranno",
+                    "loro stimeranno",
+                    "essi stimeranno",
+                    "loro crederanno",
+                    "essi crederanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "computavi",
+                "traduzioni": [
+                    "io contai",
+                    "io ho contato",
+                    "io ebbi contato",
+                    "io stimai",
+                    "io ho stimato",
+                    "io ebbi stimato",
+                    "io calcolai",
+                    "io ho calcolato",
+                    "io ebbi calcolato",
+                    "io conteggiai",
+                    "io ho conteggiato",
+                    "io ebbi conteggiato",
+                    "io reputai",
+                    "io ho reputato",
+                    "io ebbi reputato",
+                    "io giudicai",
+                    "io ho giudicato",
+                    "io ebbi giudicato",
+                    "io stimai",
+                    "io ho stimato",
+                    "io ebbi stimato",
+                    "io credetti",
+                    "io credei",
+                    "io ho creduto",
+                    "io ebbi creduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "computavisti",
+                "traduzioni": [
+                    "tu contasti",
+                    "tu hai contato",
+                    "tu avesti contato",
+                    "tu stimasti",
+                    "tu hai stimato",
+                    "tu avesti stimato",
+                    "tu calcolasti",
+                    "tu hai calcolato",
+                    "tu avesti calcolato",
+                    "tu conteggiasti",
+                    "tu hai conteggiato",
+                    "tu avesti conteggiato",
+                    "tu reputasti",
+                    "tu hai reputato",
+                    "tu avesti reputato",
+                    "tu giudicasti",
+                    "tu hai giudicato",
+                    "tu avesti giudicato",
+                    "tu stimasti",
+                    "tu hai stimato",
+                    "tu avesti stimato",
+                    "tu credesti",
+                    "tu hai creduto",
+                    "tu avesti creduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "computavit",
+                "traduzioni": [
+                    "lui contò",
+                    "lei contò",
+                    "egli contò",
+                    "lui ha contato",
+                    "lei ha contato",
+                    "egli ha contato",
+                    "lui ebbe contato",
+                    "lei ebbe contato",
+                    "egli ebbe contato",
+                    "lui stimò",
+                    "lei stimò",
+                    "egli stimò",
+                    "lui ha stimato",
+                    "lei ha stimato",
+                    "egli ha stimato",
+                    "lui ebbe stimato",
+                    "lei ebbe stimato",
+                    "egli ebbe stimato",
+                    "lui calcolò",
+                    "lei calcolò",
+                    "egli calcolò",
+                    "lui ha calcolato",
+                    "lei ha calcolato",
+                    "egli ha calcolato",
+                    "lui ebbe calcolato",
+                    "lei ebbe calcolato",
+                    "egli ebbe calcolato",
+                    "lui conteggiò",
+                    "lei conteggiò",
+                    "egli conteggiò",
+                    "lui ha conteggiato",
+                    "lei ha conteggiato",
+                    "egli ha conteggiato",
+                    "lui ebbe conteggiato",
+                    "lei ebbe conteggiato",
+                    "egli ebbe conteggiato",
+                    "lui reputò",
+                    "lei reputò",
+                    "egli reputò",
+                    "lui ha reputato",
+                    "lei ha reputato",
+                    "egli ha reputato",
+                    "lui ebbe reputato",
+                    "lei ebbe reputato",
+                    "egli ebbe reputato",
+                    "lui giudicò",
+                    "lei giudicò",
+                    "egli giudicò",
+                    "lui ha giudicato",
+                    "lei ha giudicato",
+                    "egli ha giudicato",
+                    "lui ebbe giudicato",
+                    "lei ebbe giudicato",
+                    "egli ebbe giudicato",
+                    "lui stimò",
+                    "lei stimò",
+                    "egli stimò",
+                    "lui ha stimato",
+                    "lei ha stimato",
+                    "egli ha stimato",
+                    "lui ebbe stimato",
+                    "lei ebbe stimato",
+                    "egli ebbe stimato",
+                    "lui credette",
+                    "lei credette",
+                    "egli credette",
+                    "lui credé",
+                    "lei credé",
+                    "egli credé",
+                    "lui ha creduto",
+                    "lei ha creduto",
+                    "egli ha creduto",
+                    "lui ebbe creduto",
+                    "lei ebbe creduto",
+                    "egli ebbe creduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "computavĭmus",
+                "traduzioni": [
+                    "noi contammo",
+                    "noi abbiamo contato",
+                    "noi avemmo contato",
+                    "noi stimammo",
+                    "noi abbiamo stimato",
+                    "noi avemmo stimato",
+                    "noi calcolammo",
+                    "noi abbiamo calcolato",
+                    "noi avemmo calcolato",
+                    "noi conteggiammo",
+                    "noi abbiamo conteggiato",
+                    "noi avemmo conteggiato",
+                    "noi reputammo",
+                    "noi abbiamo reputato",
+                    "noi avemmo reputato",
+                    "noi giudicammo",
+                    "noi abbiamo giudicato",
+                    "noi avemmo giudicato",
+                    "noi stimammo",
+                    "noi abbiamo stimato",
+                    "noi avemmo stimato",
+                    "noi credemmo",
+                    "noi abbiamo creduto",
+                    "noi avemmo creduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "computavistis",
+                "traduzioni": [
+                    "voi contaste",
+                    "voi avete contato",
+                    "voi aveste contato",
+                    "voi stimaste",
+                    "voi avete stimato",
+                    "voi aveste stimato",
+                    "voi calcolaste",
+                    "voi avete calcolato",
+                    "voi aveste calcolato",
+                    "voi conteggiaste",
+                    "voi avete conteggiato",
+                    "voi aveste conteggiato",
+                    "voi reputaste",
+                    "voi avete reputato",
+                    "voi aveste reputato",
+                    "voi giudicaste",
+                    "voi avete giudicato",
+                    "voi aveste giudicato",
+                    "voi stimaste",
+                    "voi avete stimato",
+                    "voi aveste stimato",
+                    "voi credeste",
+                    "voi avete creduto",
+                    "voi aveste creduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "computavērunt, computavēre",
+                "traduzioni": [
+                    "loro contarono",
+                    "essi contarono",
+                    "loro hanno contato",
+                    "essi hanno contato",
+                    "loro ebbero contato",
+                    "essi ebbero contato",
+                    "loro stimarono",
+                    "essi stimarono",
+                    "loro hanno stimato",
+                    "essi hanno stimato",
+                    "loro ebbero stimato",
+                    "essi ebbero stimato",
+                    "loro calcolarono",
+                    "essi calcolarono",
+                    "loro hanno calcolato",
+                    "essi hanno calcolato",
+                    "loro ebbero calcolato",
+                    "essi ebbero calcolato",
+                    "loro conteggiarono",
+                    "essi conteggiarono",
+                    "loro hanno conteggiato",
+                    "essi hanno conteggiato",
+                    "loro ebbero conteggiato",
+                    "essi ebbero conteggiato",
+                    "loro reputarono",
+                    "essi reputarono",
+                    "loro hanno reputato",
+                    "essi hanno reputato",
+                    "loro ebbero reputato",
+                    "essi ebbero reputato",
+                    "loro giudicarono",
+                    "essi giudicarono",
+                    "loro hanno giudicato",
+                    "essi hanno giudicato",
+                    "loro ebbero giudicato",
+                    "essi ebbero giudicato",
+                    "loro stimarono",
+                    "essi stimarono",
+                    "loro hanno stimato",
+                    "essi hanno stimato",
+                    "loro ebbero stimato",
+                    "essi ebbero stimato",
+                    "loro credettero",
+                    "essi credettero",
+                    "loro crederono",
+                    "essi crederono",
+                    "loro hanno creduto",
+                    "essi hanno creduto",
+                    "loro ebbero creduto",
+                    "essi ebbero creduto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "computavĕram",
+                "traduzioni": [
+                    "io avevo contato",
+                    "io avevo stimato",
+                    "io avevo calcolato",
+                    "io avevo conteggiato",
+                    "io avevo reputato",
+                    "io avevo giudicato",
+                    "io avevo stimato",
+                    "io avevo creduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "computavĕras",
+                "traduzioni": [
+                    "tu avevi contato",
+                    "tu avevi stimato",
+                    "tu avevi calcolato",
+                    "tu avevi conteggiato",
+                    "tu avevi reputato",
+                    "tu avevi giudicato",
+                    "tu avevi stimato",
+                    "tu avevi creduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "computavĕrat",
+                "traduzioni": [
+                    "lui aveva contato",
+                    "lei aveva contato",
+                    "egli aveva contato",
+                    "lui aveva stimato",
+                    "lei aveva stimato",
+                    "egli aveva stimato",
+                    "lui aveva calcolato",
+                    "lei aveva calcolato",
+                    "egli aveva calcolato",
+                    "lui aveva conteggiato",
+                    "lei aveva conteggiato",
+                    "egli aveva conteggiato",
+                    "lui aveva reputato",
+                    "lei aveva reputato",
+                    "egli aveva reputato",
+                    "lui aveva giudicato",
+                    "lei aveva giudicato",
+                    "egli aveva giudicato",
+                    "lui aveva stimato",
+                    "lei aveva stimato",
+                    "egli aveva stimato",
+                    "lui aveva creduto",
+                    "lei aveva creduto",
+                    "egli aveva creduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "computaverāmus",
+                "traduzioni": [
+                    "noi avevamo contato",
+                    "noi avevamo stimato",
+                    "noi avevamo calcolato",
+                    "noi avevamo conteggiato",
+                    "noi avevamo reputato",
+                    "noi avevamo giudicato",
+                    "noi avevamo stimato",
+                    "noi avevamo creduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "computaverātis",
+                "traduzioni": [
+                    "voi avevate contato",
+                    "voi avevate stimato",
+                    "voi avevate calcolato",
+                    "voi avevate conteggiato",
+                    "voi avevate reputato",
+                    "voi avevate giudicato",
+                    "voi avevate stimato",
+                    "voi avevate creduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "computavĕrant",
+                "traduzioni": [
+                    "loro avevano contato",
+                    "essi avevano contato",
+                    "loro avevano stimato",
+                    "essi avevano stimato",
+                    "loro avevano calcolato",
+                    "essi avevano calcolato",
+                    "loro avevano conteggiato",
+                    "essi avevano conteggiato",
+                    "loro avevano reputato",
+                    "essi avevano reputato",
+                    "loro avevano giudicato",
+                    "essi avevano giudicato",
+                    "loro avevano stimato",
+                    "essi avevano stimato",
+                    "loro avevano creduto",
+                    "essi avevano creduto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "computavĕro",
+                "traduzioni": [
+                    "io avrò contato",
+                    "io avrò stimato",
+                    "io avrò calcolato",
+                    "io avrò conteggiato",
+                    "io avrò reputato",
+                    "io avrò giudicato",
+                    "io avrò stimato",
+                    "io avrò creduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "computavĕris",
+                "traduzioni": [
+                    "tu avrai contato",
+                    "tu avrai stimato",
+                    "tu avrai calcolato",
+                    "tu avrai conteggiato",
+                    "tu avrai reputato",
+                    "tu avrai giudicato",
+                    "tu avrai stimato",
+                    "tu avrai creduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "computavĕrit",
+                "traduzioni": [
+                    "lui avrà contato",
+                    "lei avrà contato",
+                    "egli avrà contato",
+                    "lui avrà stimato",
+                    "lei avrà stimato",
+                    "egli avrà stimato",
+                    "lui avrà calcolato",
+                    "lei avrà calcolato",
+                    "egli avrà calcolato",
+                    "lui avrà conteggiato",
+                    "lei avrà conteggiato",
+                    "egli avrà conteggiato",
+                    "lui avrà reputato",
+                    "lei avrà reputato",
+                    "egli avrà reputato",
+                    "lui avrà giudicato",
+                    "lei avrà giudicato",
+                    "egli avrà giudicato",
+                    "lui avrà stimato",
+                    "lei avrà stimato",
+                    "egli avrà stimato",
+                    "lui avrà creduto",
+                    "lei avrà creduto",
+                    "egli avrà creduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "computaverĭmus",
+                "traduzioni": [
+                    "noi avremo contato",
+                    "noi avremo stimato",
+                    "noi avremo calcolato",
+                    "noi avremo conteggiato",
+                    "noi avremo reputato",
+                    "noi avremo giudicato",
+                    "noi avremo stimato",
+                    "noi avremo creduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "computaverĭtis",
+                "traduzioni": [
+                    "voi avrete contato",
+                    "voi avrete stimato",
+                    "voi avrete calcolato",
+                    "voi avrete conteggiato",
+                    "voi avrete reputato",
+                    "voi avrete giudicato",
+                    "voi avrete stimato",
+                    "voi avrete creduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "computavĕrint",
+                "traduzioni": [
+                    "loro avranno contato",
+                    "essi avranno contato",
+                    "loro avranno stimato",
+                    "essi avranno stimato",
+                    "loro avranno calcolato",
+                    "essi avranno calcolato",
+                    "loro avranno conteggiato",
+                    "essi avranno conteggiato",
+                    "loro avranno reputato",
+                    "essi avranno reputato",
+                    "loro avranno giudicato",
+                    "essi avranno giudicato",
+                    "loro avranno stimato",
+                    "essi avranno stimato",
+                    "loro avranno creduto",
+                    "essi avranno creduto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "compŭtem",
+                "traduzioni": [
+                    "che io conti",
+                    "che io stimi",
+                    "che io calcoli",
+                    "che io conteggi",
+                    "che io reputi",
+                    "che io giudichi",
+                    "che io stimi",
+                    "che io creda"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compŭtes",
+                "traduzioni": [
+                    "che tu conti",
+                    "che tu stimi",
+                    "che tu calcoli",
+                    "che tu conteggi",
+                    "che tu reputi",
+                    "che tu giudichi",
+                    "che tu stimi",
+                    "che tu creda"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compŭtet",
+                "traduzioni": [
+                    "che lui conti",
+                    "che lei conti",
+                    "che egli conti",
+                    "che lui stimi",
+                    "che lei stimi",
+                    "che egli stimi",
+                    "che lui calcoli",
+                    "che lei calcoli",
+                    "che egli calcoli",
+                    "che lui conteggi",
+                    "che lei conteggi",
+                    "che egli conteggi",
+                    "che lui reputi",
+                    "che lei reputi",
+                    "che egli reputi",
+                    "che lui giudichi",
+                    "che lei giudichi",
+                    "che egli giudichi",
+                    "che lui stimi",
+                    "che lei stimi",
+                    "che egli stimi",
+                    "che lui creda",
+                    "che lei creda",
+                    "che egli creda"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compŭtēmus",
+                "traduzioni": [
+                    "che noi contiamo",
+                    "che noi stimiamo",
+                    "che noi calcoliamo",
+                    "che noi conteggiamo",
+                    "che noi reputiamo",
+                    "che noi giudichiamo",
+                    "che noi stimiamo",
+                    "che noi crediamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compŭtētis",
+                "traduzioni": [
+                    "che voi contiate",
+                    "che voi stimiate",
+                    "che voi calcoliate",
+                    "che voi conteggiate",
+                    "che voi reputiate",
+                    "che voi giudichiate",
+                    "che voi stimiate",
+                    "che voi crediate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compŭtent",
+                "traduzioni": [
+                    "che loro contino",
+                    "che essi contino",
+                    "che loro stimino",
+                    "che essi stimino",
+                    "che loro calcolino",
+                    "che essi calcolino",
+                    "che loro conteggino",
+                    "che essi conteggino",
+                    "che loro reputino",
+                    "che essi reputino",
+                    "che loro giudichino",
+                    "che essi giudichino",
+                    "che loro stimino",
+                    "che essi stimino",
+                    "che loro credano",
+                    "che essi credano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "compŭtārem",
+                "traduzioni": [
+                    "che io contassi",
+                    "che io stimassi",
+                    "che io calcolassi",
+                    "che io conteggiassi",
+                    "che io reputassi",
+                    "che io giudicassi",
+                    "che io stimassi",
+                    "che io credessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compŭtāres",
+                "traduzioni": [
+                    "che tu contassi",
+                    "che tu stimassi",
+                    "che tu calcolassi",
+                    "che tu conteggiassi",
+                    "che tu reputassi",
+                    "che tu giudicassi",
+                    "che tu stimassi",
+                    "che tu credessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compŭtāret",
+                "traduzioni": [
+                    "che lui contasse",
+                    "che lei contasse",
+                    "che egli contasse",
+                    "che lui stimasse",
+                    "che lei stimasse",
+                    "che egli stimasse",
+                    "che lui calcolasse",
+                    "che lei calcolasse",
+                    "che egli calcolasse",
+                    "che lui conteggiasse",
+                    "che lei conteggiasse",
+                    "che egli conteggiasse",
+                    "che lui reputasse",
+                    "che lei reputasse",
+                    "che egli reputasse",
+                    "che lui giudicasse",
+                    "che lei giudicasse",
+                    "che egli giudicasse",
+                    "che lui stimasse",
+                    "che lei stimasse",
+                    "che egli stimasse",
+                    "che lui credesse",
+                    "che lei credesse",
+                    "che egli credesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compŭtarēmus",
+                "traduzioni": [
+                    "che noi contassimo",
+                    "che noi stimassimo",
+                    "che noi calcolassimo",
+                    "che noi conteggiassimo",
+                    "che noi reputassimo",
+                    "che noi giudicassimo",
+                    "che noi stimassimo",
+                    "che noi credessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compŭtarētis",
+                "traduzioni": [
+                    "che voi contaste",
+                    "che voi stimaste",
+                    "che voi calcolaste",
+                    "che voi conteggiaste",
+                    "che voi reputaste",
+                    "che voi giudicaste",
+                    "che voi stimaste",
+                    "che voi credeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compŭtārent",
+                "traduzioni": [
+                    "che loro contassero",
+                    "che essi contassero",
+                    "che loro stimassero",
+                    "che essi stimassero",
+                    "che loro calcolassero",
+                    "che essi calcolassero",
+                    "che loro conteggiassero",
+                    "che essi conteggiassero",
+                    "che loro reputassero",
+                    "che essi reputassero",
+                    "che loro giudicassero",
+                    "che essi giudicassero",
+                    "che loro stimassero",
+                    "che essi stimassero",
+                    "che loro credessero",
+                    "che essi credessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "computavĕrim",
+                "traduzioni": [
+                    "che io abbia contato",
+                    "che io abbia stimato",
+                    "che io abbia calcolato",
+                    "che io abbia conteggiato",
+                    "che io abbia reputato",
+                    "che io abbia giudicato",
+                    "che io abbia stimato",
+                    "che io abbia creduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "computavĕris",
+                "traduzioni": [
+                    "che tu abbia contato",
+                    "che tu abbia stimato",
+                    "che tu abbia calcolato",
+                    "che tu abbia conteggiato",
+                    "che tu abbia reputato",
+                    "che tu abbia giudicato",
+                    "che tu abbia stimato",
+                    "che tu abbia creduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "computavĕrit",
+                "traduzioni": [
+                    "che lui abbia contato",
+                    "che lei abbia contato",
+                    "che egli abbia contato",
+                    "che lui abbia stimato",
+                    "che lei abbia stimato",
+                    "che egli abbia stimato",
+                    "che lui abbia calcolato",
+                    "che lei abbia calcolato",
+                    "che egli abbia calcolato",
+                    "che lui abbia conteggiato",
+                    "che lei abbia conteggiato",
+                    "che egli abbia conteggiato",
+                    "che lui abbia reputato",
+                    "che lei abbia reputato",
+                    "che egli abbia reputato",
+                    "che lui abbia giudicato",
+                    "che lei abbia giudicato",
+                    "che egli abbia giudicato",
+                    "che lui abbia stimato",
+                    "che lei abbia stimato",
+                    "che egli abbia stimato",
+                    "che lui abbia creduto",
+                    "che lei abbia creduto",
+                    "che egli abbia creduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "computaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo contato",
+                    "che noi abbiamo stimato",
+                    "che noi abbiamo calcolato",
+                    "che noi abbiamo conteggiato",
+                    "che noi abbiamo reputato",
+                    "che noi abbiamo giudicato",
+                    "che noi abbiamo stimato",
+                    "che noi abbiamo creduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "computaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate contato",
+                    "che voi abbiate stimato",
+                    "che voi abbiate calcolato",
+                    "che voi abbiate conteggiato",
+                    "che voi abbiate reputato",
+                    "che voi abbiate giudicato",
+                    "che voi abbiate stimato",
+                    "che voi abbiate creduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "computavĕrint",
+                "traduzioni": [
+                    "che loro abbiano contato",
+                    "che essi abbiano contato",
+                    "che loro abbiano stimato",
+                    "che essi abbiano stimato",
+                    "che loro abbiano calcolato",
+                    "che essi abbiano calcolato",
+                    "che loro abbiano conteggiato",
+                    "che essi abbiano conteggiato",
+                    "che loro abbiano reputato",
+                    "che essi abbiano reputato",
+                    "che loro abbiano giudicato",
+                    "che essi abbiano giudicato",
+                    "che loro abbiano stimato",
+                    "che essi abbiano stimato",
+                    "che loro abbiano creduto",
+                    "che essi abbiano creduto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "computavissem",
+                "traduzioni": [
+                    "che io avessi contato",
+                    "che io avessi stimato",
+                    "che io avessi calcolato",
+                    "che io avessi conteggiato",
+                    "che io avessi reputato",
+                    "che io avessi giudicato",
+                    "che io avessi stimato",
+                    "che io avessi creduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "computavisses",
+                "traduzioni": [
+                    "che tu avessi contato",
+                    "che tu avessi stimato",
+                    "che tu avessi calcolato",
+                    "che tu avessi conteggiato",
+                    "che tu avessi reputato",
+                    "che tu avessi giudicato",
+                    "che tu avessi stimato",
+                    "che tu avessi creduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "computavisset",
+                "traduzioni": [
+                    "che lui avesse contato",
+                    "che lei avesse contato",
+                    "che egli avesse contato",
+                    "che lui avesse stimato",
+                    "che lei avesse stimato",
+                    "che egli avesse stimato",
+                    "che lui avesse calcolato",
+                    "che lei avesse calcolato",
+                    "che egli avesse calcolato",
+                    "che lui avesse conteggiato",
+                    "che lei avesse conteggiato",
+                    "che egli avesse conteggiato",
+                    "che lui avesse reputato",
+                    "che lei avesse reputato",
+                    "che egli avesse reputato",
+                    "che lui avesse giudicato",
+                    "che lei avesse giudicato",
+                    "che egli avesse giudicato",
+                    "che lui avesse stimato",
+                    "che lei avesse stimato",
+                    "che egli avesse stimato",
+                    "che lui avesse creduto",
+                    "che lei avesse creduto",
+                    "che egli avesse creduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "computavissēmus",
+                "traduzioni": [
+                    "che noi avessimo contato",
+                    "che noi avessimo stimato",
+                    "che noi avessimo calcolato",
+                    "che noi avessimo conteggiato",
+                    "che noi avessimo reputato",
+                    "che noi avessimo giudicato",
+                    "che noi avessimo stimato",
+                    "che noi avessimo creduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "computavissētis",
+                "traduzioni": [
+                    "che voi aveste contato",
+                    "che voi aveste stimato",
+                    "che voi aveste calcolato",
+                    "che voi aveste conteggiato",
+                    "che voi aveste reputato",
+                    "che voi aveste giudicato",
+                    "che voi aveste stimato",
+                    "che voi aveste creduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "computavissent",
+                "traduzioni": [
+                    "che loro avessero contato",
+                    "che essi avessero contato",
+                    "che loro avessero stimato",
+                    "che essi avessero stimato",
+                    "che loro avessero calcolato",
+                    "che essi avessero calcolato",
+                    "che loro avessero conteggiato",
+                    "che essi avessero conteggiato",
+                    "che loro avessero reputato",
+                    "che essi avessero reputato",
+                    "che loro avessero giudicato",
+                    "che essi avessero giudicato",
+                    "che loro avessero stimato",
+                    "che essi avessero stimato",
+                    "che loro avessero creduto",
+                    "che essi avessero creduto"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,943 @@
+{
+    "identifier": "CRUCIO",
+    "conuigazione": "1",
+    "translation": [
+        "torturare",
+        "martoriare",
+        "tormentare",
+        "travagliare",
+        "crocifiggere",
+        "far morire"
+    ],
+    "valid_translations": [
+        "torturare",
+        "martoriare",
+        "tormentare",
+        "travagliare",
+        "crocifiggere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "crŭcĭo",
+                "traduzioni": [
+                    "io torturo",
+                    "io martorio",
+                    "io tormento",
+                    "io travaglio",
+                    "io crocifiggo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crŭcĭas",
+                "traduzioni": [
+                    "tu torturi",
+                    "tu martori",
+                    "tu tormenti",
+                    "tu travagli",
+                    "tu crocifiggi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crŭcĭat",
+                "traduzioni": [
+                    "lui tortura",
+                    "lei tortura",
+                    "egli tortura",
+                    "lui martoria",
+                    "lei martoria",
+                    "egli martoria",
+                    "lui tormenta",
+                    "lei tormenta",
+                    "egli tormenta",
+                    "lui travaglia",
+                    "lei travaglia",
+                    "egli travaglia",
+                    "lui crocifigge",
+                    "lei crocifigge",
+                    "egli crocifigge"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crŭcĭāmus",
+                "traduzioni": [
+                    "noi torturiamo",
+                    "noi martoriamo",
+                    "noi tormentiamo",
+                    "noi travagliamo",
+                    "noi crocifiggiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crŭcĭātis",
+                "traduzioni": [
+                    "voi torturate",
+                    "voi martoriate",
+                    "voi tormentate",
+                    "voi travagliate",
+                    "voi crocifiggete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crŭcĭant",
+                "traduzioni": [
+                    "loro torturano",
+                    "essi torturano",
+                    "loro martoriano",
+                    "essi martoriano",
+                    "loro tormentano",
+                    "essi tormentano",
+                    "loro travagliano",
+                    "essi travagliano",
+                    "loro crocifiggono",
+                    "essi crocifiggono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "crŭcĭābam",
+                "traduzioni": [
+                    "io torturavo",
+                    "io martoriavo",
+                    "io tormentavo",
+                    "io travagliavo",
+                    "io crocifiggevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crŭcĭābas",
+                "traduzioni": [
+                    "tu torturavi",
+                    "tu martoriavi",
+                    "tu tormentavi",
+                    "tu travagliavi",
+                    "tu crocifiggevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crŭcĭābat",
+                "traduzioni": [
+                    "lui torturava",
+                    "lei torturava",
+                    "egli torturava",
+                    "lui martoriava",
+                    "lei martoriava",
+                    "egli martoriava",
+                    "lui tormentava",
+                    "lei tormentava",
+                    "egli tormentava",
+                    "lui travagliava",
+                    "lei travagliava",
+                    "egli travagliava",
+                    "lui crocifiggeva",
+                    "lei crocifiggeva",
+                    "egli crocifiggeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crŭcĭabāmus",
+                "traduzioni": [
+                    "noi torturavamo",
+                    "noi martoriavamo",
+                    "noi tormentavamo",
+                    "noi travagliavamo",
+                    "noi crocifiggevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crŭcĭabātis",
+                "traduzioni": [
+                    "voi torturavate",
+                    "voi martoriavate",
+                    "voi tormentavate",
+                    "voi travagliavate",
+                    "voi crocifiggevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crŭcĭābant",
+                "traduzioni": [
+                    "loro torturavano",
+                    "essi torturavano",
+                    "loro martoriavano",
+                    "essi martoriavano",
+                    "loro tormentavano",
+                    "essi tormentavano",
+                    "loro travagliavano",
+                    "essi travagliavano",
+                    "loro crocifiggevano",
+                    "essi crocifiggevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "crŭcĭābo",
+                "traduzioni": [
+                    "io torturerò",
+                    "io martorierò",
+                    "io tormenterò",
+                    "io travaglierò",
+                    "io crocifiggerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crŭcĭābis",
+                "traduzioni": [
+                    "tu torturerai",
+                    "tu martorierai",
+                    "tu tormenterai",
+                    "tu travaglierai",
+                    "tu crocifiggerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crŭcĭābit",
+                "traduzioni": [
+                    "lui torturerà",
+                    "lei torturerà",
+                    "egli torturerà",
+                    "lui martorierà",
+                    "lei martorierà",
+                    "egli martorierà",
+                    "lui tormenterà",
+                    "lei tormenterà",
+                    "egli tormenterà",
+                    "lui travaglierà",
+                    "lei travaglierà",
+                    "egli travaglierà",
+                    "lui crocifiggerà",
+                    "lei crocifiggerà",
+                    "egli crocifiggerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crŭcĭabĭmus",
+                "traduzioni": [
+                    "noi tortureremo",
+                    "noi martorieremo",
+                    "noi tormenteremo",
+                    "noi travaglieremo",
+                    "noi crocifiggeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crŭcĭabĭtis",
+                "traduzioni": [
+                    "voi torturerete",
+                    "voi martorierete",
+                    "voi tormenterete",
+                    "voi travaglierete",
+                    "voi crocifiggerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crŭcĭābunt",
+                "traduzioni": [
+                    "loro tortureranno",
+                    "essi tortureranno",
+                    "loro martorieranno",
+                    "essi martorieranno",
+                    "loro tormenteranno",
+                    "essi tormenteranno",
+                    "loro travaglieranno",
+                    "essi travaglieranno",
+                    "loro crocifiggeranno",
+                    "essi crocifiggeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cruciavi",
+                "traduzioni": [
+                    "io torturai",
+                    "io ho torturato",
+                    "io ebbi torturato",
+                    "io martoriai",
+                    "io ho martoriato",
+                    "io ebbi martoriato",
+                    "io tormentai",
+                    "io ho tormentato",
+                    "io ebbi tormentato",
+                    "io travagliai",
+                    "io ho travagliato",
+                    "io ebbi travagliato",
+                    "io crocifissi",
+                    "io ho crocifisso",
+                    "io ebbi crocifisso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cruciavisti",
+                "traduzioni": [
+                    "tu torturasti",
+                    "tu hai torturato",
+                    "tu avesti torturato",
+                    "tu martoriasti",
+                    "tu hai martoriato",
+                    "tu avesti martoriato",
+                    "tu tormentasti",
+                    "tu hai tormentato",
+                    "tu avesti tormentato",
+                    "tu travagliasti",
+                    "tu hai travagliato",
+                    "tu avesti travagliato",
+                    "tu crocifiggesti",
+                    "tu hai crocifisso",
+                    "tu avesti crocifisso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cruciavit",
+                "traduzioni": [
+                    "lui torturò",
+                    "lei torturò",
+                    "egli torturò",
+                    "lui ha torturato",
+                    "lei ha torturato",
+                    "egli ha torturato",
+                    "lui ebbe torturato",
+                    "lei ebbe torturato",
+                    "egli ebbe torturato",
+                    "lui martoriò",
+                    "lei martoriò",
+                    "egli martoriò",
+                    "lui ha martoriato",
+                    "lei ha martoriato",
+                    "egli ha martoriato",
+                    "lui ebbe martoriato",
+                    "lei ebbe martoriato",
+                    "egli ebbe martoriato",
+                    "lui tormentò",
+                    "lei tormentò",
+                    "egli tormentò",
+                    "lui ha tormentato",
+                    "lei ha tormentato",
+                    "egli ha tormentato",
+                    "lui ebbe tormentato",
+                    "lei ebbe tormentato",
+                    "egli ebbe tormentato",
+                    "lui travagliò",
+                    "lei travagliò",
+                    "egli travagliò",
+                    "lui ha travagliato",
+                    "lei ha travagliato",
+                    "egli ha travagliato",
+                    "lui ebbe travagliato",
+                    "lei ebbe travagliato",
+                    "egli ebbe travagliato",
+                    "lui crocifisse",
+                    "lei crocifisse",
+                    "egli crocifisse",
+                    "lui ha crocifisso",
+                    "lei ha crocifisso",
+                    "egli ha crocifisso",
+                    "lui ebbe crocifisso",
+                    "lei ebbe crocifisso",
+                    "egli ebbe crocifisso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cruciavĭmus",
+                "traduzioni": [
+                    "noi torturammo",
+                    "noi abbiamo torturato",
+                    "noi avemmo torturato",
+                    "noi martoriammo",
+                    "noi abbiamo martoriato",
+                    "noi avemmo martoriato",
+                    "noi tormentammo",
+                    "noi abbiamo tormentato",
+                    "noi avemmo tormentato",
+                    "noi travagliammo",
+                    "noi abbiamo travagliato",
+                    "noi avemmo travagliato",
+                    "noi crocifiggemmo",
+                    "noi abbiamo crocifisso",
+                    "noi avemmo crocifisso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cruciavistis",
+                "traduzioni": [
+                    "voi torturaste",
+                    "voi avete torturato",
+                    "voi aveste torturato",
+                    "voi martoriaste",
+                    "voi avete martoriato",
+                    "voi aveste martoriato",
+                    "voi tormentaste",
+                    "voi avete tormentato",
+                    "voi aveste tormentato",
+                    "voi travagliaste",
+                    "voi avete travagliato",
+                    "voi aveste travagliato",
+                    "voi crocifiggeste",
+                    "voi avete crocifisso",
+                    "voi aveste crocifisso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cruciavērunt, cruciavēre",
+                "traduzioni": [
+                    "loro torturarono",
+                    "essi torturarono",
+                    "loro hanno torturato",
+                    "essi hanno torturato",
+                    "loro ebbero torturato",
+                    "essi ebbero torturato",
+                    "loro martoriarono",
+                    "essi martoriarono",
+                    "loro hanno martoriato",
+                    "essi hanno martoriato",
+                    "loro ebbero martoriato",
+                    "essi ebbero martoriato",
+                    "loro tormentarono",
+                    "essi tormentarono",
+                    "loro hanno tormentato",
+                    "essi hanno tormentato",
+                    "loro ebbero tormentato",
+                    "essi ebbero tormentato",
+                    "loro travagliarono",
+                    "essi travagliarono",
+                    "loro hanno travagliato",
+                    "essi hanno travagliato",
+                    "loro ebbero travagliato",
+                    "essi ebbero travagliato",
+                    "loro crocifissero",
+                    "essi crocifissero",
+                    "loro hanno crocifisso",
+                    "essi hanno crocifisso",
+                    "loro ebbero crocifisso",
+                    "essi ebbero crocifisso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cruciavĕram",
+                "traduzioni": [
+                    "io avevo torturato",
+                    "io avevo martoriato",
+                    "io avevo tormentato",
+                    "io avevo travagliato",
+                    "io avevo crocifisso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cruciavĕras",
+                "traduzioni": [
+                    "tu avevi torturato",
+                    "tu avevi martoriato",
+                    "tu avevi tormentato",
+                    "tu avevi travagliato",
+                    "tu avevi crocifisso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cruciavĕrat",
+                "traduzioni": [
+                    "lui aveva torturato",
+                    "lei aveva torturato",
+                    "egli aveva torturato",
+                    "lui aveva martoriato",
+                    "lei aveva martoriato",
+                    "egli aveva martoriato",
+                    "lui aveva tormentato",
+                    "lei aveva tormentato",
+                    "egli aveva tormentato",
+                    "lui aveva travagliato",
+                    "lei aveva travagliato",
+                    "egli aveva travagliato",
+                    "lui aveva crocifisso",
+                    "lei aveva crocifisso",
+                    "egli aveva crocifisso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cruciaverāmus",
+                "traduzioni": [
+                    "noi avevamo torturato",
+                    "noi avevamo martoriato",
+                    "noi avevamo tormentato",
+                    "noi avevamo travagliato",
+                    "noi avevamo crocifisso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cruciaverātis",
+                "traduzioni": [
+                    "voi avevate torturato",
+                    "voi avevate martoriato",
+                    "voi avevate tormentato",
+                    "voi avevate travagliato",
+                    "voi avevate crocifisso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cruciavĕrant",
+                "traduzioni": [
+                    "loro avevano torturato",
+                    "essi avevano torturato",
+                    "loro avevano martoriato",
+                    "essi avevano martoriato",
+                    "loro avevano tormentato",
+                    "essi avevano tormentato",
+                    "loro avevano travagliato",
+                    "essi avevano travagliato",
+                    "loro avevano crocifisso",
+                    "essi avevano crocifisso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cruciavĕro",
+                "traduzioni": [
+                    "io avrò torturato",
+                    "io avrò martoriato",
+                    "io avrò tormentato",
+                    "io avrò travagliato",
+                    "io avrò crocifisso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cruciavĕris",
+                "traduzioni": [
+                    "tu avrai torturato",
+                    "tu avrai martoriato",
+                    "tu avrai tormentato",
+                    "tu avrai travagliato",
+                    "tu avrai crocifisso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cruciavĕrit",
+                "traduzioni": [
+                    "lui avrà torturato",
+                    "lei avrà torturato",
+                    "egli avrà torturato",
+                    "lui avrà martoriato",
+                    "lei avrà martoriato",
+                    "egli avrà martoriato",
+                    "lui avrà tormentato",
+                    "lei avrà tormentato",
+                    "egli avrà tormentato",
+                    "lui avrà travagliato",
+                    "lei avrà travagliato",
+                    "egli avrà travagliato",
+                    "lui avrà crocifisso",
+                    "lei avrà crocifisso",
+                    "egli avrà crocifisso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cruciaverĭmus",
+                "traduzioni": [
+                    "noi avremo torturato",
+                    "noi avremo martoriato",
+                    "noi avremo tormentato",
+                    "noi avremo travagliato",
+                    "noi avremo crocifisso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cruciaverĭtis",
+                "traduzioni": [
+                    "voi avrete torturato",
+                    "voi avrete martoriato",
+                    "voi avrete tormentato",
+                    "voi avrete travagliato",
+                    "voi avrete crocifisso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cruciavĕrint",
+                "traduzioni": [
+                    "loro avranno torturato",
+                    "essi avranno torturato",
+                    "loro avranno martoriato",
+                    "essi avranno martoriato",
+                    "loro avranno tormentato",
+                    "essi avranno tormentato",
+                    "loro avranno travagliato",
+                    "essi avranno travagliato",
+                    "loro avranno crocifisso",
+                    "essi avranno crocifisso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "crŭcĭem",
+                "traduzioni": [
+                    "che io torturi",
+                    "che io martori",
+                    "che io tormenti",
+                    "che io travagli",
+                    "che io crocifigga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crŭcĭes",
+                "traduzioni": [
+                    "che tu torturi",
+                    "che tu martori",
+                    "che tu tormenti",
+                    "che tu travagli",
+                    "che tu crocifigga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crŭcĭet",
+                "traduzioni": [
+                    "che lui torturi",
+                    "che lei torturi",
+                    "che egli torturi",
+                    "che lui martori",
+                    "che lei martori",
+                    "che egli martori",
+                    "che lui tormenti",
+                    "che lei tormenti",
+                    "che egli tormenti",
+                    "che lui travagli",
+                    "che lei travagli",
+                    "che egli travagli",
+                    "che lui crocifigga",
+                    "che lei crocifigga",
+                    "che egli crocifigga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crŭcĭēmus",
+                "traduzioni": [
+                    "che noi torturiamo",
+                    "che noi martoriamo",
+                    "che noi tormentiamo",
+                    "che noi travagliamo",
+                    "che noi crocifiggiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crŭcĭētis",
+                "traduzioni": [
+                    "che voi torturiate",
+                    "che voi martoriate",
+                    "che voi tormentiate",
+                    "che voi travagliate",
+                    "che voi crocifiggiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crŭcĭent",
+                "traduzioni": [
+                    "che loro torturino",
+                    "che essi torturino",
+                    "che loro martorino",
+                    "che essi martorino",
+                    "che loro tormentino",
+                    "che essi tormentino",
+                    "che loro travaglino",
+                    "che essi travaglino",
+                    "che loro crocifiggano",
+                    "che essi crocifiggano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "crŭcĭārem",
+                "traduzioni": [
+                    "che io torturassi",
+                    "che io martoriassi",
+                    "che io tormentassi",
+                    "che io travagliassi",
+                    "che io crocifiggessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crŭcĭāres",
+                "traduzioni": [
+                    "che tu torturassi",
+                    "che tu martoriassi",
+                    "che tu tormentassi",
+                    "che tu travagliassi",
+                    "che tu crocifiggessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crŭcĭāret",
+                "traduzioni": [
+                    "che lui torturasse",
+                    "che lei torturasse",
+                    "che egli torturasse",
+                    "che lui martoriasse",
+                    "che lei martoriasse",
+                    "che egli martoriasse",
+                    "che lui tormentasse",
+                    "che lei tormentasse",
+                    "che egli tormentasse",
+                    "che lui travagliasse",
+                    "che lei travagliasse",
+                    "che egli travagliasse",
+                    "che lui crocifiggesse",
+                    "che lei crocifiggesse",
+                    "che egli crocifiggesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crŭcĭarēmus",
+                "traduzioni": [
+                    "che noi torturassimo",
+                    "che noi martoriassimo",
+                    "che noi tormentassimo",
+                    "che noi travagliassimo",
+                    "che noi crocifiggessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crŭcĭarētis",
+                "traduzioni": [
+                    "che voi torturaste",
+                    "che voi martoriaste",
+                    "che voi tormentaste",
+                    "che voi travagliaste",
+                    "che voi crocifiggeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crŭcĭārent",
+                "traduzioni": [
+                    "che loro torturassero",
+                    "che essi torturassero",
+                    "che loro martoriassero",
+                    "che essi martoriassero",
+                    "che loro tormentassero",
+                    "che essi tormentassero",
+                    "che loro travagliassero",
+                    "che essi travagliassero",
+                    "che loro crocifiggessero",
+                    "che essi crocifiggessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cruciavĕrim",
+                "traduzioni": [
+                    "che io abbia torturato",
+                    "che io abbia martoriato",
+                    "che io abbia tormentato",
+                    "che io abbia travagliato",
+                    "che io abbia crocifisso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cruciavĕris",
+                "traduzioni": [
+                    "che tu abbia torturato",
+                    "che tu abbia martoriato",
+                    "che tu abbia tormentato",
+                    "che tu abbia travagliato",
+                    "che tu abbia crocifisso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cruciavĕrit",
+                "traduzioni": [
+                    "che lui abbia torturato",
+                    "che lei abbia torturato",
+                    "che egli abbia torturato",
+                    "che lui abbia martoriato",
+                    "che lei abbia martoriato",
+                    "che egli abbia martoriato",
+                    "che lui abbia tormentato",
+                    "che lei abbia tormentato",
+                    "che egli abbia tormentato",
+                    "che lui abbia travagliato",
+                    "che lei abbia travagliato",
+                    "che egli abbia travagliato",
+                    "che lui abbia crocifisso",
+                    "che lei abbia crocifisso",
+                    "che egli abbia crocifisso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cruciaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo torturato",
+                    "che noi abbiamo martoriato",
+                    "che noi abbiamo tormentato",
+                    "che noi abbiamo travagliato",
+                    "che noi abbiamo crocifisso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cruciaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate torturato",
+                    "che voi abbiate martoriato",
+                    "che voi abbiate tormentato",
+                    "che voi abbiate travagliato",
+                    "che voi abbiate crocifisso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cruciavĕrint",
+                "traduzioni": [
+                    "che loro abbiano torturato",
+                    "che essi abbiano torturato",
+                    "che loro abbiano martoriato",
+                    "che essi abbiano martoriato",
+                    "che loro abbiano tormentato",
+                    "che essi abbiano tormentato",
+                    "che loro abbiano travagliato",
+                    "che essi abbiano travagliato",
+                    "che loro abbiano crocifisso",
+                    "che essi abbiano crocifisso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cruciavissem",
+                "traduzioni": [
+                    "che io avessi torturato",
+                    "che io avessi martoriato",
+                    "che io avessi tormentato",
+                    "che io avessi travagliato",
+                    "che io avessi crocifisso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cruciavisses",
+                "traduzioni": [
+                    "che tu avessi torturato",
+                    "che tu avessi martoriato",
+                    "che tu avessi tormentato",
+                    "che tu avessi travagliato",
+                    "che tu avessi crocifisso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cruciavisset",
+                "traduzioni": [
+                    "che lui avesse torturato",
+                    "che lei avesse torturato",
+                    "che egli avesse torturato",
+                    "che lui avesse martoriato",
+                    "che lei avesse martoriato",
+                    "che egli avesse martoriato",
+                    "che lui avesse tormentato",
+                    "che lei avesse tormentato",
+                    "che egli avesse tormentato",
+                    "che lui avesse travagliato",
+                    "che lei avesse travagliato",
+                    "che egli avesse travagliato",
+                    "che lui avesse crocifisso",
+                    "che lei avesse crocifisso",
+                    "che egli avesse crocifisso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cruciavissēmus",
+                "traduzioni": [
+                    "che noi avessimo torturato",
+                    "che noi avessimo martoriato",
+                    "che noi avessimo tormentato",
+                    "che noi avessimo travagliato",
+                    "che noi avessimo crocifisso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cruciavissētis",
+                "traduzioni": [
+                    "che voi aveste torturato",
+                    "che voi aveste martoriato",
+                    "che voi aveste tormentato",
+                    "che voi aveste travagliato",
+                    "che voi aveste crocifisso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cruciavissent",
+                "traduzioni": [
+                    "che loro avessero torturato",
+                    "che essi avessero torturato",
+                    "che loro avessero martoriato",
+                    "che essi avessero martoriato",
+                    "che loro avessero tormentato",
+                    "che essi avessero tormentato",
+                    "che loro avessero travagliato",
+                    "che essi avessero travagliato",
+                    "che loro avessero crocifisso",
+                    "che essi avessero crocifisso"
+                ]
+            }
+        ]
+    }
+}

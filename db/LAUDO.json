@@ -1,0 +1,1162 @@
+{
+    "identifier": "LAUDO",
+    "conuigazione": "1",
+    "translation": [
+        "lodare",
+        "elogiare",
+        "encomiare",
+        "approvare",
+        "citare",
+        "nominare",
+        "chiamare"
+    ],
+    "valid_translations": [
+        "lodare",
+        "elogiare",
+        "encomiare",
+        "approvare",
+        "citare",
+        "nominare",
+        "chiamare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "laudo",
+                "traduzioni": [
+                    "io lodo",
+                    "io elogio",
+                    "io encomio",
+                    "io approvo",
+                    "io cito",
+                    "io nomino",
+                    "io chiamo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laudas",
+                "traduzioni": [
+                    "tu lodi",
+                    "tu elogi",
+                    "tu encomi",
+                    "tu approvi",
+                    "tu citi",
+                    "tu nomini",
+                    "tu chiami"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laudat",
+                "traduzioni": [
+                    "lui loda",
+                    "lei loda",
+                    "egli loda",
+                    "lui elogia",
+                    "lei elogia",
+                    "egli elogia",
+                    "lui encomia",
+                    "lei encomia",
+                    "egli encomia",
+                    "lui approva",
+                    "lei approva",
+                    "egli approva",
+                    "lui cita",
+                    "lei cita",
+                    "egli cita",
+                    "lui nomina",
+                    "lei nomina",
+                    "egli nomina",
+                    "lui chiama",
+                    "lei chiama",
+                    "egli chiama"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laudāmus",
+                "traduzioni": [
+                    "noi lodiamo",
+                    "noi elogiamo",
+                    "noi encomiamo",
+                    "noi approviamo",
+                    "noi citiamo",
+                    "noi nominiamo",
+                    "noi chiamiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laudātis",
+                "traduzioni": [
+                    "voi lodate",
+                    "voi elogiate",
+                    "voi encomiate",
+                    "voi approvate",
+                    "voi citate",
+                    "voi nominate",
+                    "voi chiamate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laudant",
+                "traduzioni": [
+                    "loro lodano",
+                    "essi lodano",
+                    "loro elogiano",
+                    "essi elogiano",
+                    "loro encomiano",
+                    "essi encomiano",
+                    "loro approvano",
+                    "essi approvano",
+                    "loro citano",
+                    "essi citano",
+                    "loro nominano",
+                    "essi nominano",
+                    "loro chiamano",
+                    "essi chiamano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laudābam",
+                "traduzioni": [
+                    "io lodavo",
+                    "io elogiavo",
+                    "io encomiavo",
+                    "io approvavo",
+                    "io citavo",
+                    "io nominavo",
+                    "io chiamavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laudābas",
+                "traduzioni": [
+                    "tu lodavi",
+                    "tu elogiavi",
+                    "tu encomiavi",
+                    "tu approvavi",
+                    "tu citavi",
+                    "tu nominavi",
+                    "tu chiamavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laudābat",
+                "traduzioni": [
+                    "lui lodava",
+                    "lei lodava",
+                    "egli lodava",
+                    "lui elogiava",
+                    "lei elogiava",
+                    "egli elogiava",
+                    "lui encomiava",
+                    "lei encomiava",
+                    "egli encomiava",
+                    "lui approvava",
+                    "lei approvava",
+                    "egli approvava",
+                    "lui citava",
+                    "lei citava",
+                    "egli citava",
+                    "lui nominava",
+                    "lei nominava",
+                    "egli nominava",
+                    "lui chiamava",
+                    "lei chiamava",
+                    "egli chiamava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laudabāmus",
+                "traduzioni": [
+                    "noi lodavamo",
+                    "noi elogiavamo",
+                    "noi encomiavamo",
+                    "noi approvavamo",
+                    "noi citavamo",
+                    "noi nominavamo",
+                    "noi chiamavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laudabātis",
+                "traduzioni": [
+                    "voi lodavate",
+                    "voi elogiavate",
+                    "voi encomiavate",
+                    "voi approvavate",
+                    "voi citavate",
+                    "voi nominavate",
+                    "voi chiamavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laudābant",
+                "traduzioni": [
+                    "loro lodavano",
+                    "essi lodavano",
+                    "loro elogiavano",
+                    "essi elogiavano",
+                    "loro encomiavano",
+                    "essi encomiavano",
+                    "loro approvavano",
+                    "essi approvavano",
+                    "loro citavano",
+                    "essi citavano",
+                    "loro nominavano",
+                    "essi nominavano",
+                    "loro chiamavano",
+                    "essi chiamavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "laudābo",
+                "traduzioni": [
+                    "io loderò",
+                    "io elogerò",
+                    "io encomierò",
+                    "io approverò",
+                    "io citerò",
+                    "io nominerò",
+                    "io chiamerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laudābis",
+                "traduzioni": [
+                    "tu loderai",
+                    "tu elogerai",
+                    "tu encomierai",
+                    "tu approverai",
+                    "tu citerai",
+                    "tu nominerai",
+                    "tu chiamerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laudābit",
+                "traduzioni": [
+                    "lui loderà",
+                    "lei loderà",
+                    "egli loderà",
+                    "lui elogerà",
+                    "lei elogerà",
+                    "egli elogerà",
+                    "lui encomierà",
+                    "lei encomierà",
+                    "egli encomierà",
+                    "lui approverà",
+                    "lei approverà",
+                    "egli approverà",
+                    "lui citerà",
+                    "lei citerà",
+                    "egli citerà",
+                    "lui nominerà",
+                    "lei nominerà",
+                    "egli nominerà",
+                    "lui chiamerà",
+                    "lei chiamerà",
+                    "egli chiamerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laudabĭmus",
+                "traduzioni": [
+                    "noi loderemo",
+                    "noi elogeremo",
+                    "noi encomieremo",
+                    "noi approveremo",
+                    "noi citeremo",
+                    "noi nomineremo",
+                    "noi chiameremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laudabĭtis",
+                "traduzioni": [
+                    "voi loderete",
+                    "voi elogerete",
+                    "voi encomierete",
+                    "voi approverete",
+                    "voi citerete",
+                    "voi nominerete",
+                    "voi chiamerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laudābunt",
+                "traduzioni": [
+                    "loro loderanno",
+                    "essi loderanno",
+                    "loro elogeranno",
+                    "essi elogeranno",
+                    "loro encomieranno",
+                    "essi encomieranno",
+                    "loro approveranno",
+                    "essi approveranno",
+                    "loro citeranno",
+                    "essi citeranno",
+                    "loro nomineranno",
+                    "essi nomineranno",
+                    "loro chiameranno",
+                    "essi chiameranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laudavi",
+                "traduzioni": [
+                    "io lodai",
+                    "io ho lodato",
+                    "io ebbi lodato",
+                    "io elogiai",
+                    "io ho elogiato",
+                    "io ebbi elogiato",
+                    "io encomiai",
+                    "io ho encomiato",
+                    "io ebbi encomiato",
+                    "io approvai",
+                    "io ho approvato",
+                    "io ebbi approvato",
+                    "io citai",
+                    "io ho citato",
+                    "io ebbi citato",
+                    "io nominai",
+                    "io ho nominato",
+                    "io ebbi nominato",
+                    "io chiamai",
+                    "io ho chiamato",
+                    "io ebbi chiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laudavisti",
+                "traduzioni": [
+                    "tu lodasti",
+                    "tu hai lodato",
+                    "tu avesti lodato",
+                    "tu elogiasti",
+                    "tu hai elogiato",
+                    "tu avesti elogiato",
+                    "tu encomiasti",
+                    "tu hai encomiato",
+                    "tu avesti encomiato",
+                    "tu approvasti",
+                    "tu hai approvato",
+                    "tu avesti approvato",
+                    "tu citasti",
+                    "tu hai citato",
+                    "tu avesti citato",
+                    "tu nominasti",
+                    "tu hai nominato",
+                    "tu avesti nominato",
+                    "tu chiamasti",
+                    "tu hai chiamato",
+                    "tu avesti chiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laudavit",
+                "traduzioni": [
+                    "lui lodò",
+                    "lei lodò",
+                    "egli lodò",
+                    "lui ha lodato",
+                    "lei ha lodato",
+                    "egli ha lodato",
+                    "lui ebbe lodato",
+                    "lei ebbe lodato",
+                    "egli ebbe lodato",
+                    "lui elogiò",
+                    "lei elogiò",
+                    "egli elogiò",
+                    "lui ha elogiato",
+                    "lei ha elogiato",
+                    "egli ha elogiato",
+                    "lui ebbe elogiato",
+                    "lei ebbe elogiato",
+                    "egli ebbe elogiato",
+                    "lui encomiò",
+                    "lei encomiò",
+                    "egli encomiò",
+                    "lui ha encomiato",
+                    "lei ha encomiato",
+                    "egli ha encomiato",
+                    "lui ebbe encomiato",
+                    "lei ebbe encomiato",
+                    "egli ebbe encomiato",
+                    "lui approvò",
+                    "lei approvò",
+                    "egli approvò",
+                    "lui ha approvato",
+                    "lei ha approvato",
+                    "egli ha approvato",
+                    "lui ebbe approvato",
+                    "lei ebbe approvato",
+                    "egli ebbe approvato",
+                    "lui citò",
+                    "lei citò",
+                    "egli citò",
+                    "lui ha citato",
+                    "lei ha citato",
+                    "egli ha citato",
+                    "lui ebbe citato",
+                    "lei ebbe citato",
+                    "egli ebbe citato",
+                    "lui nominò",
+                    "lei nominò",
+                    "egli nominò",
+                    "lui ha nominato",
+                    "lei ha nominato",
+                    "egli ha nominato",
+                    "lui ebbe nominato",
+                    "lei ebbe nominato",
+                    "egli ebbe nominato",
+                    "lui chiamò",
+                    "lei chiamò",
+                    "egli chiamò",
+                    "lui ha chiamato",
+                    "lei ha chiamato",
+                    "egli ha chiamato",
+                    "lui ebbe chiamato",
+                    "lei ebbe chiamato",
+                    "egli ebbe chiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laudavĭmus",
+                "traduzioni": [
+                    "noi lodammo",
+                    "noi abbiamo lodato",
+                    "noi avemmo lodato",
+                    "noi elogiammo",
+                    "noi abbiamo elogiato",
+                    "noi avemmo elogiato",
+                    "noi encomiammo",
+                    "noi abbiamo encomiato",
+                    "noi avemmo encomiato",
+                    "noi approvammo",
+                    "noi abbiamo approvato",
+                    "noi avemmo approvato",
+                    "noi citammo",
+                    "noi abbiamo citato",
+                    "noi avemmo citato",
+                    "noi nominammo",
+                    "noi abbiamo nominato",
+                    "noi avemmo nominato",
+                    "noi chiamammo",
+                    "noi abbiamo chiamato",
+                    "noi avemmo chiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laudavistis",
+                "traduzioni": [
+                    "voi lodaste",
+                    "voi avete lodato",
+                    "voi aveste lodato",
+                    "voi elogiaste",
+                    "voi avete elogiato",
+                    "voi aveste elogiato",
+                    "voi encomiaste",
+                    "voi avete encomiato",
+                    "voi aveste encomiato",
+                    "voi approvaste",
+                    "voi avete approvato",
+                    "voi aveste approvato",
+                    "voi citaste",
+                    "voi avete citato",
+                    "voi aveste citato",
+                    "voi nominaste",
+                    "voi avete nominato",
+                    "voi aveste nominato",
+                    "voi chiamaste",
+                    "voi avete chiamato",
+                    "voi aveste chiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laudavērunt, laudavēre",
+                "traduzioni": [
+                    "loro lodarono",
+                    "essi lodarono",
+                    "loro hanno lodato",
+                    "essi hanno lodato",
+                    "loro ebbero lodato",
+                    "essi ebbero lodato",
+                    "loro elogiarono",
+                    "essi elogiarono",
+                    "loro hanno elogiato",
+                    "essi hanno elogiato",
+                    "loro ebbero elogiato",
+                    "essi ebbero elogiato",
+                    "loro encomiarono",
+                    "essi encomiarono",
+                    "loro hanno encomiato",
+                    "essi hanno encomiato",
+                    "loro ebbero encomiato",
+                    "essi ebbero encomiato",
+                    "loro approvarono",
+                    "essi approvarono",
+                    "loro hanno approvato",
+                    "essi hanno approvato",
+                    "loro ebbero approvato",
+                    "essi ebbero approvato",
+                    "loro citarono",
+                    "essi citarono",
+                    "loro hanno citato",
+                    "essi hanno citato",
+                    "loro ebbero citato",
+                    "essi ebbero citato",
+                    "loro nominarono",
+                    "essi nominarono",
+                    "loro hanno nominato",
+                    "essi hanno nominato",
+                    "loro ebbero nominato",
+                    "essi ebbero nominato",
+                    "loro chiamarono",
+                    "essi chiamarono",
+                    "loro hanno chiamato",
+                    "essi hanno chiamato",
+                    "loro ebbero chiamato",
+                    "essi ebbero chiamato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laudavĕram",
+                "traduzioni": [
+                    "io avevo lodato",
+                    "io avevo elogiato",
+                    "io avevo encomiato",
+                    "io avevo approvato",
+                    "io avevo citato",
+                    "io avevo nominato",
+                    "io avevo chiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laudavĕras",
+                "traduzioni": [
+                    "tu avevi lodato",
+                    "tu avevi elogiato",
+                    "tu avevi encomiato",
+                    "tu avevi approvato",
+                    "tu avevi citato",
+                    "tu avevi nominato",
+                    "tu avevi chiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laudavĕrat",
+                "traduzioni": [
+                    "lui aveva lodato",
+                    "lei aveva lodato",
+                    "egli aveva lodato",
+                    "lui aveva elogiato",
+                    "lei aveva elogiato",
+                    "egli aveva elogiato",
+                    "lui aveva encomiato",
+                    "lei aveva encomiato",
+                    "egli aveva encomiato",
+                    "lui aveva approvato",
+                    "lei aveva approvato",
+                    "egli aveva approvato",
+                    "lui aveva citato",
+                    "lei aveva citato",
+                    "egli aveva citato",
+                    "lui aveva nominato",
+                    "lei aveva nominato",
+                    "egli aveva nominato",
+                    "lui aveva chiamato",
+                    "lei aveva chiamato",
+                    "egli aveva chiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laudaverāmus",
+                "traduzioni": [
+                    "noi avevamo lodato",
+                    "noi avevamo elogiato",
+                    "noi avevamo encomiato",
+                    "noi avevamo approvato",
+                    "noi avevamo citato",
+                    "noi avevamo nominato",
+                    "noi avevamo chiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laudaverātis",
+                "traduzioni": [
+                    "voi avevate lodato",
+                    "voi avevate elogiato",
+                    "voi avevate encomiato",
+                    "voi avevate approvato",
+                    "voi avevate citato",
+                    "voi avevate nominato",
+                    "voi avevate chiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laudavĕrant",
+                "traduzioni": [
+                    "loro avevano lodato",
+                    "essi avevano lodato",
+                    "loro avevano elogiato",
+                    "essi avevano elogiato",
+                    "loro avevano encomiato",
+                    "essi avevano encomiato",
+                    "loro avevano approvato",
+                    "essi avevano approvato",
+                    "loro avevano citato",
+                    "essi avevano citato",
+                    "loro avevano nominato",
+                    "essi avevano nominato",
+                    "loro avevano chiamato",
+                    "essi avevano chiamato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "laudavĕro",
+                "traduzioni": [
+                    "io avrò lodato",
+                    "io avrò elogiato",
+                    "io avrò encomiato",
+                    "io avrò approvato",
+                    "io avrò citato",
+                    "io avrò nominato",
+                    "io avrò chiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laudavĕris",
+                "traduzioni": [
+                    "tu avrai lodato",
+                    "tu avrai elogiato",
+                    "tu avrai encomiato",
+                    "tu avrai approvato",
+                    "tu avrai citato",
+                    "tu avrai nominato",
+                    "tu avrai chiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laudavĕrit",
+                "traduzioni": [
+                    "lui avrà lodato",
+                    "lei avrà lodato",
+                    "egli avrà lodato",
+                    "lui avrà elogiato",
+                    "lei avrà elogiato",
+                    "egli avrà elogiato",
+                    "lui avrà encomiato",
+                    "lei avrà encomiato",
+                    "egli avrà encomiato",
+                    "lui avrà approvato",
+                    "lei avrà approvato",
+                    "egli avrà approvato",
+                    "lui avrà citato",
+                    "lei avrà citato",
+                    "egli avrà citato",
+                    "lui avrà nominato",
+                    "lei avrà nominato",
+                    "egli avrà nominato",
+                    "lui avrà chiamato",
+                    "lei avrà chiamato",
+                    "egli avrà chiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laudaverĭmus",
+                "traduzioni": [
+                    "noi avremo lodato",
+                    "noi avremo elogiato",
+                    "noi avremo encomiato",
+                    "noi avremo approvato",
+                    "noi avremo citato",
+                    "noi avremo nominato",
+                    "noi avremo chiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laudaverĭtis",
+                "traduzioni": [
+                    "voi avrete lodato",
+                    "voi avrete elogiato",
+                    "voi avrete encomiato",
+                    "voi avrete approvato",
+                    "voi avrete citato",
+                    "voi avrete nominato",
+                    "voi avrete chiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laudavĕrint",
+                "traduzioni": [
+                    "loro avranno lodato",
+                    "essi avranno lodato",
+                    "loro avranno elogiato",
+                    "essi avranno elogiato",
+                    "loro avranno encomiato",
+                    "essi avranno encomiato",
+                    "loro avranno approvato",
+                    "essi avranno approvato",
+                    "loro avranno citato",
+                    "essi avranno citato",
+                    "loro avranno nominato",
+                    "essi avranno nominato",
+                    "loro avranno chiamato",
+                    "essi avranno chiamato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "laudem",
+                "traduzioni": [
+                    "che io lodi",
+                    "che io elogi",
+                    "che io encomi",
+                    "che io approvi",
+                    "che io citi",
+                    "che io nomini",
+                    "che io chiami"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laudes",
+                "traduzioni": [
+                    "che tu lodi",
+                    "che tu elogi",
+                    "che tu encomi",
+                    "che tu approvi",
+                    "che tu citi",
+                    "che tu nomini",
+                    "che tu chiami"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laudet",
+                "traduzioni": [
+                    "che lui lodi",
+                    "che lei lodi",
+                    "che egli lodi",
+                    "che lui elogi",
+                    "che lei elogi",
+                    "che egli elogi",
+                    "che lui encomi",
+                    "che lei encomi",
+                    "che egli encomi",
+                    "che lui approvi",
+                    "che lei approvi",
+                    "che egli approvi",
+                    "che lui citi",
+                    "che lei citi",
+                    "che egli citi",
+                    "che lui nomini",
+                    "che lei nomini",
+                    "che egli nomini",
+                    "che lui chiami",
+                    "che lei chiami",
+                    "che egli chiami"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laudēmus",
+                "traduzioni": [
+                    "che noi lodiamo",
+                    "che noi elogiamo",
+                    "che noi encomiamo",
+                    "che noi approviamo",
+                    "che noi citiamo",
+                    "che noi nominiamo",
+                    "che noi chiamiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laudētis",
+                "traduzioni": [
+                    "che voi lodiate",
+                    "che voi elogiate",
+                    "che voi encomiate",
+                    "che voi approviate",
+                    "che voi citiate",
+                    "che voi nominiate",
+                    "che voi chiamiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laudent",
+                "traduzioni": [
+                    "che loro lodino",
+                    "che essi lodino",
+                    "che loro elogino",
+                    "che essi elogino",
+                    "che loro encomino",
+                    "che essi encomino",
+                    "che loro approvino",
+                    "che essi approvino",
+                    "che loro citino",
+                    "che essi citino",
+                    "che loro nominino",
+                    "che essi nominino",
+                    "che loro chiamino",
+                    "che essi chiamino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laudārem",
+                "traduzioni": [
+                    "che io lodassi",
+                    "che io elogiassi",
+                    "che io encomiassi",
+                    "che io approvassi",
+                    "che io citassi",
+                    "che io nominassi",
+                    "che io chiamassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laudāres",
+                "traduzioni": [
+                    "che tu lodassi",
+                    "che tu elogiassi",
+                    "che tu encomiassi",
+                    "che tu approvassi",
+                    "che tu citassi",
+                    "che tu nominassi",
+                    "che tu chiamassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laudāret",
+                "traduzioni": [
+                    "che lui lodasse",
+                    "che lei lodasse",
+                    "che egli lodasse",
+                    "che lui elogiasse",
+                    "che lei elogiasse",
+                    "che egli elogiasse",
+                    "che lui encomiasse",
+                    "che lei encomiasse",
+                    "che egli encomiasse",
+                    "che lui approvasse",
+                    "che lei approvasse",
+                    "che egli approvasse",
+                    "che lui citasse",
+                    "che lei citasse",
+                    "che egli citasse",
+                    "che lui nominasse",
+                    "che lei nominasse",
+                    "che egli nominasse",
+                    "che lui chiamasse",
+                    "che lei chiamasse",
+                    "che egli chiamasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laudarēmus",
+                "traduzioni": [
+                    "che noi lodassimo",
+                    "che noi elogiassimo",
+                    "che noi encomiassimo",
+                    "che noi approvassimo",
+                    "che noi citassimo",
+                    "che noi nominassimo",
+                    "che noi chiamassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laudarētis",
+                "traduzioni": [
+                    "che voi lodaste",
+                    "che voi elogiaste",
+                    "che voi encomiaste",
+                    "che voi approvaste",
+                    "che voi citaste",
+                    "che voi nominaste",
+                    "che voi chiamaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laudārent",
+                "traduzioni": [
+                    "che loro lodassero",
+                    "che essi lodassero",
+                    "che loro elogiassero",
+                    "che essi elogiassero",
+                    "che loro encomiassero",
+                    "che essi encomiassero",
+                    "che loro approvassero",
+                    "che essi approvassero",
+                    "che loro citassero",
+                    "che essi citassero",
+                    "che loro nominassero",
+                    "che essi nominassero",
+                    "che loro chiamassero",
+                    "che essi chiamassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laudavĕrim",
+                "traduzioni": [
+                    "che io abbia lodato",
+                    "che io abbia elogiato",
+                    "che io abbia encomiato",
+                    "che io abbia approvato",
+                    "che io abbia citato",
+                    "che io abbia nominato",
+                    "che io abbia chiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laudavĕris",
+                "traduzioni": [
+                    "che tu abbia lodato",
+                    "che tu abbia elogiato",
+                    "che tu abbia encomiato",
+                    "che tu abbia approvato",
+                    "che tu abbia citato",
+                    "che tu abbia nominato",
+                    "che tu abbia chiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laudavĕrit",
+                "traduzioni": [
+                    "che lui abbia lodato",
+                    "che lei abbia lodato",
+                    "che egli abbia lodato",
+                    "che lui abbia elogiato",
+                    "che lei abbia elogiato",
+                    "che egli abbia elogiato",
+                    "che lui abbia encomiato",
+                    "che lei abbia encomiato",
+                    "che egli abbia encomiato",
+                    "che lui abbia approvato",
+                    "che lei abbia approvato",
+                    "che egli abbia approvato",
+                    "che lui abbia citato",
+                    "che lei abbia citato",
+                    "che egli abbia citato",
+                    "che lui abbia nominato",
+                    "che lei abbia nominato",
+                    "che egli abbia nominato",
+                    "che lui abbia chiamato",
+                    "che lei abbia chiamato",
+                    "che egli abbia chiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laudaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo lodato",
+                    "che noi abbiamo elogiato",
+                    "che noi abbiamo encomiato",
+                    "che noi abbiamo approvato",
+                    "che noi abbiamo citato",
+                    "che noi abbiamo nominato",
+                    "che noi abbiamo chiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laudaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate lodato",
+                    "che voi abbiate elogiato",
+                    "che voi abbiate encomiato",
+                    "che voi abbiate approvato",
+                    "che voi abbiate citato",
+                    "che voi abbiate nominato",
+                    "che voi abbiate chiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laudavĕrint",
+                "traduzioni": [
+                    "che loro abbiano lodato",
+                    "che essi abbiano lodato",
+                    "che loro abbiano elogiato",
+                    "che essi abbiano elogiato",
+                    "che loro abbiano encomiato",
+                    "che essi abbiano encomiato",
+                    "che loro abbiano approvato",
+                    "che essi abbiano approvato",
+                    "che loro abbiano citato",
+                    "che essi abbiano citato",
+                    "che loro abbiano nominato",
+                    "che essi abbiano nominato",
+                    "che loro abbiano chiamato",
+                    "che essi abbiano chiamato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laudavissem",
+                "traduzioni": [
+                    "che io avessi lodato",
+                    "che io avessi elogiato",
+                    "che io avessi encomiato",
+                    "che io avessi approvato",
+                    "che io avessi citato",
+                    "che io avessi nominato",
+                    "che io avessi chiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laudavisses",
+                "traduzioni": [
+                    "che tu avessi lodato",
+                    "che tu avessi elogiato",
+                    "che tu avessi encomiato",
+                    "che tu avessi approvato",
+                    "che tu avessi citato",
+                    "che tu avessi nominato",
+                    "che tu avessi chiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laudavisset",
+                "traduzioni": [
+                    "che lui avesse lodato",
+                    "che lei avesse lodato",
+                    "che egli avesse lodato",
+                    "che lui avesse elogiato",
+                    "che lei avesse elogiato",
+                    "che egli avesse elogiato",
+                    "che lui avesse encomiato",
+                    "che lei avesse encomiato",
+                    "che egli avesse encomiato",
+                    "che lui avesse approvato",
+                    "che lei avesse approvato",
+                    "che egli avesse approvato",
+                    "che lui avesse citato",
+                    "che lei avesse citato",
+                    "che egli avesse citato",
+                    "che lui avesse nominato",
+                    "che lei avesse nominato",
+                    "che egli avesse nominato",
+                    "che lui avesse chiamato",
+                    "che lei avesse chiamato",
+                    "che egli avesse chiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laudavissēmus",
+                "traduzioni": [
+                    "che noi avessimo lodato",
+                    "che noi avessimo elogiato",
+                    "che noi avessimo encomiato",
+                    "che noi avessimo approvato",
+                    "che noi avessimo citato",
+                    "che noi avessimo nominato",
+                    "che noi avessimo chiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laudavissētis",
+                "traduzioni": [
+                    "che voi aveste lodato",
+                    "che voi aveste elogiato",
+                    "che voi aveste encomiato",
+                    "che voi aveste approvato",
+                    "che voi aveste citato",
+                    "che voi aveste nominato",
+                    "che voi aveste chiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laudavissent",
+                "traduzioni": [
+                    "che loro avessero lodato",
+                    "che essi avessero lodato",
+                    "che loro avessero elogiato",
+                    "che essi avessero elogiato",
+                    "che loro avessero encomiato",
+                    "che essi avessero encomiato",
+                    "che loro avessero approvato",
+                    "che essi avessero approvato",
+                    "che loro avessero citato",
+                    "che essi avessero citato",
+                    "che loro avessero nominato",
+                    "che essi avessero nominato",
+                    "che loro avessero chiamato",
+                    "che essi avessero chiamato"
+                ]
+            }
+        ]
+    }
+}

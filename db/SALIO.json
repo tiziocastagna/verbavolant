@@ -1,0 +1,897 @@
+{
+    "identifier": "SALIO",
+    "conuigazione": "4",
+    "translation": [
+        "(intransitivo) saltare",
+        "balzare",
+        "(intransitivo; di fluidi) zampillare",
+        "scorrere",
+        "(intransitivo) palpitare",
+        "pulsare",
+        "battere",
+        "(transitivo; di animali) montare"
+    ],
+    "valid_translations": [
+        "balzare",
+        "scorrere",
+        "pulsare",
+        "battere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sălĭo",
+                "traduzioni": [
+                    "io balzo",
+                    "io scorro",
+                    "io pulso",
+                    "io batto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sălis",
+                "traduzioni": [
+                    "tu balzi",
+                    "tu scorri",
+                    "tu pulsi",
+                    "tu batti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sălit",
+                "traduzioni": [
+                    "lui balza",
+                    "lei balza",
+                    "egli balza",
+                    "lui scorre",
+                    "lei scorre",
+                    "egli scorre",
+                    "lui pulsa",
+                    "lei pulsa",
+                    "egli pulsa",
+                    "lui batte",
+                    "lei batte",
+                    "egli batte"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sălīmus",
+                "traduzioni": [
+                    "noi balziamo",
+                    "noi scorriamo",
+                    "noi pulsiamo",
+                    "noi battiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sălītis",
+                "traduzioni": [
+                    "voi balzate",
+                    "voi scorrete",
+                    "voi pulsate",
+                    "voi battete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sălĭunt",
+                "traduzioni": [
+                    "loro balzano",
+                    "essi balzano",
+                    "loro scorrono",
+                    "essi scorrono",
+                    "loro pulsano",
+                    "essi pulsano",
+                    "loro battono",
+                    "essi battono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "săliēbam",
+                "traduzioni": [
+                    "io balzavo",
+                    "io scorrevo",
+                    "io pulsavo",
+                    "io battevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "săliēbas",
+                "traduzioni": [
+                    "tu balzavi",
+                    "tu scorrevi",
+                    "tu pulsavi",
+                    "tu battevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "săliēbat",
+                "traduzioni": [
+                    "lui balzava",
+                    "lei balzava",
+                    "egli balzava",
+                    "lui scorreva",
+                    "lei scorreva",
+                    "egli scorreva",
+                    "lui pulsava",
+                    "lei pulsava",
+                    "egli pulsava",
+                    "lui batteva",
+                    "lei batteva",
+                    "egli batteva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "săliebāmus",
+                "traduzioni": [
+                    "noi balzavamo",
+                    "noi scorrevamo",
+                    "noi pulsavamo",
+                    "noi battevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "săliebātis",
+                "traduzioni": [
+                    "voi balzavate",
+                    "voi scorrevate",
+                    "voi pulsavate",
+                    "voi battevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "săliēbant",
+                "traduzioni": [
+                    "loro balzavano",
+                    "essi balzavano",
+                    "loro scorrevano",
+                    "essi scorrevano",
+                    "loro pulsavano",
+                    "essi pulsavano",
+                    "loro battevano",
+                    "essi battevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sălĭam",
+                "traduzioni": [
+                    "io balzerò",
+                    "io scorrerò",
+                    "io pulserò",
+                    "io batterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sălĭes",
+                "traduzioni": [
+                    "tu balzerai",
+                    "tu scorrerai",
+                    "tu pulserai",
+                    "tu batterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sălĭet",
+                "traduzioni": [
+                    "lui balzerà",
+                    "lei balzerà",
+                    "egli balzerà",
+                    "lui scorrerà",
+                    "lei scorrerà",
+                    "egli scorrerà",
+                    "lui pulserà",
+                    "lei pulserà",
+                    "egli pulserà",
+                    "lui batterà",
+                    "lei batterà",
+                    "egli batterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "săliēmus",
+                "traduzioni": [
+                    "noi balzeremo",
+                    "noi scorreremo",
+                    "noi pulseremo",
+                    "noi batteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "săliētis",
+                "traduzioni": [
+                    "voi balzerete",
+                    "voi scorrerete",
+                    "voi pulserete",
+                    "voi batterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sălĭent",
+                "traduzioni": [
+                    "loro balzeranno",
+                    "essi balzeranno",
+                    "loro scorreranno",
+                    "essi scorreranno",
+                    "loro pulseranno",
+                    "essi pulseranno",
+                    "loro batteranno",
+                    "essi batteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "salui, sălii",
+                "traduzioni": [
+                    "io balzai",
+                    "io sono balzato",
+                    "io sono balzata",
+                    "io fui balzato",
+                    "io fui balzata",
+                    "io scorsi",
+                    "io scorse",
+                    "io sono scorso",
+                    "io sono scorsa",
+                    "io fui scorso",
+                    "io fui scorsa",
+                    "io pulsai",
+                    "io ho pulsato",
+                    "io ebbi pulsato",
+                    "io battei",
+                    "io ho battuto",
+                    "io ebbi battuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saluisti, săliisti",
+                "traduzioni": [
+                    "tu balzasti",
+                    "tu sei balzato",
+                    "tu sei balzata",
+                    "tu fosti balzato",
+                    "tu fosti balzata",
+                    "tu scorresti",
+                    "tu sei scorso",
+                    "tu sei scorsa",
+                    "tu fosti scorso",
+                    "tu fosti scorsa",
+                    "tu pulsasti",
+                    "tu hai pulsato",
+                    "tu avesti pulsato",
+                    "tu battesti",
+                    "tu hai battuto",
+                    "tu avesti battuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saluit, săliit",
+                "traduzioni": [
+                    "lui balzò",
+                    "lei balzò",
+                    "egli balzò",
+                    "lui è balzato",
+                    "lei è balzata",
+                    "egli è balzato",
+                    "lui fu balzato",
+                    "lei fu balzata",
+                    "egli fu balzato",
+                    "lui scorse",
+                    "lei scorse",
+                    "egli scorse",
+                    "lui è scorso",
+                    "lei è scorsa",
+                    "egli è scorso",
+                    "lui fu scorso",
+                    "lei fu scorsa",
+                    "egli fu scorso",
+                    "lui pulsò",
+                    "lei pulsò",
+                    "egli pulsò",
+                    "lui ha pulsato",
+                    "lei ha pulsato",
+                    "egli ha pulsato",
+                    "lui ebbe pulsato",
+                    "lei ebbe pulsato",
+                    "egli ebbe pulsato",
+                    "lui batté",
+                    "lei batté",
+                    "egli batté",
+                    "lui ha battuto",
+                    "lei ha battuto",
+                    "egli ha battuto",
+                    "lui ebbe battuto",
+                    "lei ebbe battuto",
+                    "egli ebbe battuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saluĭmus, săliĭmus",
+                "traduzioni": [
+                    "noi balzammo",
+                    "noi siamo balzati",
+                    "noi siamo balzate",
+                    "noi fummo balzati",
+                    "noi fummo balzate",
+                    "noi scorremmo",
+                    "noi siamo scorsi",
+                    "noi siamo scorse",
+                    "noi fummo scorsi",
+                    "noi fummo scorse",
+                    "noi pulsammo",
+                    "noi abbiamo pulsato",
+                    "noi avemmo pulsato",
+                    "noi battemmo",
+                    "noi abbiamo battuto",
+                    "noi avemmo battuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saluistis, săliistis",
+                "traduzioni": [
+                    "voi balzaste",
+                    "voi siete balzati",
+                    "voi siete balzate",
+                    "voi foste balzati",
+                    "voi foste balzate",
+                    "voi scorreste",
+                    "voi siete scorsi",
+                    "voi siete scorse",
+                    "voi foste scorsi",
+                    "voi foste scorse",
+                    "voi pulsaste",
+                    "voi avete pulsato",
+                    "voi aveste pulsato",
+                    "voi batteste",
+                    "voi avete battuto",
+                    "voi aveste battuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saluērunt, saluēre, săliērunt, săliēre",
+                "traduzioni": [
+                    "loro balzarono",
+                    "essi balzarono",
+                    "loro sono balzati",
+                    "loro sono balzate",
+                    "essi sono balzati",
+                    "loro furono balzati",
+                    "loro furono balzate",
+                    "essi furono balzati",
+                    "loro scorsero",
+                    "essi scorsero",
+                    "loro sono scorsi",
+                    "loro sono scorse",
+                    "essi sono scorsi",
+                    "loro furono scorsi",
+                    "loro furono scorse",
+                    "essi furono scorsi",
+                    "loro pulsarono",
+                    "essi pulsarono",
+                    "loro hanno pulsato",
+                    "essi hanno pulsato",
+                    "loro ebbero pulsato",
+                    "essi ebbero pulsato",
+                    "loro batterono",
+                    "essi batterono",
+                    "loro hanno battuto",
+                    "essi hanno battuto",
+                    "loro ebbero battuto",
+                    "essi ebbero battuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "saluĕram, săliĕram",
+                "traduzioni": [
+                    "io ero balzato",
+                    "io ero balzata",
+                    "io ero scorso",
+                    "io ero scorsa",
+                    "io avevo pulsato",
+                    "io avevo battuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saluĕras, săliĕras",
+                "traduzioni": [
+                    "tu eri balzato",
+                    "tu eri balzata",
+                    "tu eri scorso",
+                    "tu eri scorsa",
+                    "tu avevi pulsato",
+                    "tu avevi battuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saluĕrat, săliĕrat",
+                "traduzioni": [
+                    "lui era balzato",
+                    "lei era balzata",
+                    "egli era balzato",
+                    "lui era scorso",
+                    "lei era scorsa",
+                    "egli era scorso",
+                    "lui aveva pulsato",
+                    "lei aveva pulsato",
+                    "egli aveva pulsato",
+                    "lui aveva battuto",
+                    "lei aveva battuto",
+                    "egli aveva battuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saluerāmus, sălierāmus",
+                "traduzioni": [
+                    "noi eravamo balzati",
+                    "noi eravamo balzate",
+                    "noi eravamo scorsi",
+                    "noi eravamo scorse",
+                    "noi avevamo pulsato",
+                    "noi avevamo battuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saluerātis, sălierātis",
+                "traduzioni": [
+                    "voi eravate balzati",
+                    "voi eravate balzate",
+                    "voi eravate scorsi",
+                    "voi eravate scorse",
+                    "voi avevate pulsato",
+                    "voi avevate battuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saluĕrant, săliĕrant",
+                "traduzioni": [
+                    "loro erano balzati",
+                    "loro erano balzate",
+                    "essi erano balzati",
+                    "loro erano scorsi",
+                    "loro erano scorse",
+                    "essi erano scorsi",
+                    "loro avevano pulsato",
+                    "essi avevano pulsato",
+                    "loro avevano battuto",
+                    "essi avevano battuto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "saluĕro, săliĕro",
+                "traduzioni": [
+                    "io sarò balzato",
+                    "io sarò balzata",
+                    "io sarò scorso",
+                    "io sarò scorsa",
+                    "io avrò pulsato",
+                    "io avrò battuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saluĕris, săliĕris",
+                "traduzioni": [
+                    "tu sarai balzato",
+                    "tu sarai balzata",
+                    "tu sarai scorso",
+                    "tu sarai scorsa",
+                    "tu avrai pulsato",
+                    "tu avrai battuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saluĕrit, săliĕrit",
+                "traduzioni": [
+                    "lui sarà balzato",
+                    "lei sarà balzata",
+                    "egli sarà balzato",
+                    "lui sarà scorso",
+                    "lei sarà scorsa",
+                    "egli sarà scorso",
+                    "lui avrà pulsato",
+                    "lei avrà pulsato",
+                    "egli avrà pulsato",
+                    "lui avrà battuto",
+                    "lei avrà battuto",
+                    "egli avrà battuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saluerĭmus, sălierĭmus",
+                "traduzioni": [
+                    "noi saremo balzati",
+                    "noi saremo balzate",
+                    "noi saremo scorsi",
+                    "noi saremo scorse",
+                    "noi avremo pulsato",
+                    "noi avremo battuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saluerĭtis, sălierĭtis",
+                "traduzioni": [
+                    "voi sarete balzati",
+                    "voi sarete balzate",
+                    "voi sarete scorsi",
+                    "voi sarete scorse",
+                    "voi avrete pulsato",
+                    "voi avrete battuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saluĕrint, săliĕrint",
+                "traduzioni": [
+                    "loro saranno balzati",
+                    "loro saranno balzate",
+                    "essi saranno balzati",
+                    "loro saranno scorsi",
+                    "loro saranno scorse",
+                    "essi saranno scorsi",
+                    "loro avranno pulsato",
+                    "essi avranno pulsato",
+                    "loro avranno battuto",
+                    "essi avranno battuto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sălĭam",
+                "traduzioni": [
+                    "che io balzi",
+                    "che io scorra",
+                    "che io pulsi",
+                    "che io batta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sălĭas",
+                "traduzioni": [
+                    "che tu balzi",
+                    "che tu scorra",
+                    "che tu pulsi",
+                    "che tu batta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sălĭat",
+                "traduzioni": [
+                    "che lui balzi",
+                    "che lei balzi",
+                    "che egli balzi",
+                    "che lui scorra",
+                    "che lei scorra",
+                    "che egli scorra",
+                    "che lui pulsi",
+                    "che lei pulsi",
+                    "che egli pulsi",
+                    "che lui batta",
+                    "che lei batta",
+                    "che egli batta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "săliāmus",
+                "traduzioni": [
+                    "che noi balziamo",
+                    "che noi scorriamo",
+                    "che noi pulsiamo",
+                    "che noi battiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "săliātis",
+                "traduzioni": [
+                    "che voi balziate",
+                    "che voi scorriate",
+                    "che voi pulsiate",
+                    "che voi battiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sălĭant",
+                "traduzioni": [
+                    "che loro balzino",
+                    "che essi balzino",
+                    "che loro scorrano",
+                    "che essi scorrano",
+                    "che loro pulsino",
+                    "che essi pulsino",
+                    "che loro battano",
+                    "che essi battano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sălīrem",
+                "traduzioni": [
+                    "che io balzassi",
+                    "che io scorressi",
+                    "che io pulsassi",
+                    "che io battessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sălīres",
+                "traduzioni": [
+                    "che tu balzassi",
+                    "che tu scorressi",
+                    "che tu pulsassi",
+                    "che tu battessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sălīret",
+                "traduzioni": [
+                    "che lui balzasse",
+                    "che lei balzasse",
+                    "che egli balzasse",
+                    "che lui scorresse",
+                    "che lei scorresse",
+                    "che egli scorresse",
+                    "che lui pulsasse",
+                    "che lei pulsasse",
+                    "che egli pulsasse",
+                    "che lui battesse",
+                    "che lei battesse",
+                    "che egli battesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sălirēmus",
+                "traduzioni": [
+                    "che noi balzassimo",
+                    "che noi scorressimo",
+                    "che noi pulsassimo",
+                    "che noi battessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sălirētis",
+                "traduzioni": [
+                    "che voi balzaste",
+                    "che voi scorreste",
+                    "che voi pulsaste",
+                    "che voi batteste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sălīrent",
+                "traduzioni": [
+                    "che loro balzassero",
+                    "che essi balzassero",
+                    "che loro scorressero",
+                    "che essi scorressero",
+                    "che loro pulsassero",
+                    "che essi pulsassero",
+                    "che loro battessero",
+                    "che essi battessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "saluĕrim, săliĕrim",
+                "traduzioni": [
+                    "che io sia balzato",
+                    "che io sia balzata",
+                    "che io sia scorso",
+                    "che io sia scorsa",
+                    "che io abbia pulsato",
+                    "che io abbia battuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saluĕris, săliĕris",
+                "traduzioni": [
+                    "che tu sia balzato",
+                    "che tu sia balzata",
+                    "che tu sia scorso",
+                    "che tu sia scorsa",
+                    "che tu abbia pulsato",
+                    "che tu abbia battuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saluĕrit, săliĕrit",
+                "traduzioni": [
+                    "che lui sia balzato",
+                    "che lei sia balzata",
+                    "che egli sia balzato",
+                    "che lui sia scorso",
+                    "che lei sia scorsa",
+                    "che egli sia scorso",
+                    "che lui abbia pulsato",
+                    "che lei abbia pulsato",
+                    "che egli abbia pulsato",
+                    "che lui abbia battuto",
+                    "che lei abbia battuto",
+                    "che egli abbia battuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saluerĭmus, sălierĭmus",
+                "traduzioni": [
+                    "che noi siamo balzati",
+                    "che noi siamo balzate",
+                    "che noi siamo scorsi",
+                    "che noi siamo scorse",
+                    "che noi abbiamo pulsato",
+                    "che noi abbiamo battuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saluerĭtis, sălierĭtis",
+                "traduzioni": [
+                    "che voi siate balzati",
+                    "che voi siate balzate",
+                    "che voi siate scorsi",
+                    "che voi siate scorse",
+                    "che voi abbiate pulsato",
+                    "che voi abbiate battuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saluĕrint, săliĕrint",
+                "traduzioni": [
+                    "che loro siano balzati",
+                    "che loro siano balzate",
+                    "che essi siano balzati",
+                    "che loro siano scorsi",
+                    "che loro siano scorse",
+                    "che essi siano scorsi",
+                    "che loro abbiano pulsato",
+                    "che essi abbiano pulsato",
+                    "che loro abbiano battuto",
+                    "che essi abbiano battuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "saluissem, săliissem",
+                "traduzioni": [
+                    "che io fossi balzato",
+                    "che io fossi balzata",
+                    "che io fossi scorso",
+                    "che io fossi scorsa",
+                    "che io avessi pulsato",
+                    "che io avessi battuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saluisses, săliisses",
+                "traduzioni": [
+                    "che tu fossi balzato",
+                    "che tu fossi balzata",
+                    "che tu fossi scorso",
+                    "che tu fossi scorsa",
+                    "che tu avessi pulsato",
+                    "che tu avessi battuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saluisset, săliisset",
+                "traduzioni": [
+                    "che lui fosse balzato",
+                    "che lei fosse balzata",
+                    "che egli fosse balzato",
+                    "che lui fosse scorso",
+                    "che lei fosse scorsa",
+                    "che egli fosse scorso",
+                    "che lui avesse pulsato",
+                    "che lei avesse pulsato",
+                    "che egli avesse pulsato",
+                    "che lui avesse battuto",
+                    "che lei avesse battuto",
+                    "che egli avesse battuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saluissēmus, săliissēmus",
+                "traduzioni": [
+                    "che noi fossimo balzati",
+                    "che noi fossimo balzate",
+                    "che noi fossimo scorsi",
+                    "che noi fossimo scorse",
+                    "che noi avessimo pulsato",
+                    "che noi avessimo battuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saluissētis, săliissētis",
+                "traduzioni": [
+                    "che voi foste balzati",
+                    "che voi foste balzate",
+                    "che voi foste scorsi",
+                    "che voi foste scorse",
+                    "che voi aveste pulsato",
+                    "che voi aveste battuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saluissent, săliissent",
+                "traduzioni": [
+                    "che loro fossero balzati",
+                    "che loro fossero balzate",
+                    "che essi fossero balzati",
+                    "che loro fossero scorsi",
+                    "che loro fossero scorse",
+                    "che essi fossero scorsi",
+                    "che loro avessero pulsato",
+                    "che essi avessero pulsato",
+                    "che loro avessero battuto",
+                    "che essi avessero battuto"
+                ]
+            }
+        ]
+    }
+}

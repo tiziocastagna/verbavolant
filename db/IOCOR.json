@@ -1,0 +1,503 @@
+{
+    "identifier": "IOCOR",
+    "conuigazione": "1",
+    "translation": [
+        "(intransitivo) scherzare",
+        "motteggiare"
+    ],
+    "valid_translations": [
+        "motteggiare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "iŏcor",
+                "traduzioni": [
+                    "io motteggio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "iŏcāris, iŏcāre",
+                "traduzioni": [
+                    "tu motteggi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "iŏcātur",
+                "traduzioni": [
+                    "lui motteggia",
+                    "lei motteggia",
+                    "egli motteggia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "iŏcāmur",
+                "traduzioni": [
+                    "noi motteggiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "iŏcamĭni",
+                "traduzioni": [
+                    "voi motteggiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "iŏcantur",
+                "traduzioni": [
+                    "loro motteggiano",
+                    "essi motteggiano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "iŏcābar",
+                "traduzioni": [
+                    "io motteggiavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "iŏcabāris, iŏcabāre",
+                "traduzioni": [
+                    "tu motteggiavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "iŏcabātur",
+                "traduzioni": [
+                    "lui motteggiava",
+                    "lei motteggiava",
+                    "egli motteggiava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "iŏcabāmur",
+                "traduzioni": [
+                    "noi motteggiavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "iŏcabamĭni",
+                "traduzioni": [
+                    "voi motteggiavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "iŏcabantur",
+                "traduzioni": [
+                    "loro motteggiavano",
+                    "essi motteggiavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "iŏcābor",
+                "traduzioni": [
+                    "io motteggerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "iŏcabĕris, iŏcabĕre",
+                "traduzioni": [
+                    "tu motteggerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "iŏcabĭtur",
+                "traduzioni": [
+                    "lui motteggerà",
+                    "lei motteggerà",
+                    "egli motteggerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "iŏcabĭmur",
+                "traduzioni": [
+                    "noi motteggeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "iŏcabimĭni",
+                "traduzioni": [
+                    "voi motteggerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "iŏcabuntur",
+                "traduzioni": [
+                    "loro motteggeranno",
+                    "essi motteggeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "iocatus, –a, –um  sum",
+                "traduzioni": [
+                    "io motteggiai",
+                    "io ho motteggiato",
+                    "io ebbi motteggiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "iocatus, –a, –um  es",
+                "traduzioni": [
+                    "tu motteggiasti",
+                    "tu hai motteggiato",
+                    "tu avesti motteggiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "iocatus, –a, –um  est",
+                "traduzioni": [
+                    "lui motteggiò",
+                    "lei motteggiò",
+                    "egli motteggiò",
+                    "lui ha motteggiato",
+                    "lei ha motteggiato",
+                    "egli ha motteggiato",
+                    "lui ebbe motteggiato",
+                    "lei ebbe motteggiato",
+                    "egli ebbe motteggiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "iocati, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi motteggiammo",
+                    "noi abbiamo motteggiato",
+                    "noi avemmo motteggiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "iocati, –ae, –a  estis",
+                "traduzioni": [
+                    "voi motteggiaste",
+                    "voi avete motteggiato",
+                    "voi aveste motteggiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "iocati, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro motteggiarono",
+                    "essi motteggiarono",
+                    "loro hanno motteggiato",
+                    "essi hanno motteggiato",
+                    "loro ebbero motteggiato",
+                    "essi ebbero motteggiato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "iocatus, –a, –um  eram",
+                "traduzioni": [
+                    "io avevo motteggiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "iocatus, –a, –um  eras",
+                "traduzioni": [
+                    "tu avevi motteggiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "iocatus, –a, –um  erat",
+                "traduzioni": [
+                    "lui aveva motteggiato",
+                    "lei aveva motteggiato",
+                    "egli aveva motteggiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "iocati, –ae, –a  eramus",
+                "traduzioni": [
+                    "noi avevamo motteggiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "iocati, –ae, –a  eratis",
+                "traduzioni": [
+                    "voi avevate motteggiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "iocati, –ae, –a erant",
+                "traduzioni": [
+                    "loro avevano motteggiato",
+                    "essi avevano motteggiato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "iocatus, –a, –um  ero",
+                "traduzioni": [
+                    "io avrò motteggiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "iocatus, –a, –um  eris",
+                "traduzioni": [
+                    "tu avrai motteggiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "iocatus, –a, –um  erit",
+                "traduzioni": [
+                    "lui avrà motteggiato",
+                    "lei avrà motteggiato",
+                    "egli avrà motteggiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "iocati, –ae, –a  erimus",
+                "traduzioni": [
+                    "noi avremo motteggiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "iocati, –ae, –a  eritis",
+                "traduzioni": [
+                    "voi avrete motteggiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "iocati, –ae, –a  erunt",
+                "traduzioni": [
+                    "loro avranno motteggiato",
+                    "essi avranno motteggiato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "iŏcer",
+                "traduzioni": [
+                    "che io motteggi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "iŏcēris, iŏcēre",
+                "traduzioni": [
+                    "che tu motteggi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "iŏcētur",
+                "traduzioni": [
+                    "che lui motteggi",
+                    "che lei motteggi",
+                    "che egli motteggi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "iŏcēmur",
+                "traduzioni": [
+                    "che noi motteggiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "iŏcemĭni",
+                "traduzioni": [
+                    "che voi motteggiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "iŏcentur",
+                "traduzioni": [
+                    "che loro motteggino",
+                    "che essi motteggino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "iŏcārer",
+                "traduzioni": [
+                    "che io motteggiassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "iŏcarēris, iŏcarēre",
+                "traduzioni": [
+                    "che tu motteggiassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "iŏcarētur",
+                "traduzioni": [
+                    "che lui motteggiasse",
+                    "che lei motteggiasse",
+                    "che egli motteggiasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "iŏcarēmur",
+                "traduzioni": [
+                    "che noi motteggiassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "iŏcaremĭni",
+                "traduzioni": [
+                    "che voi motteggiaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "iŏcarentur",
+                "traduzioni": [
+                    "che loro motteggiassero",
+                    "che essi motteggiassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "iocatus, –a, –um  sim",
+                "traduzioni": [
+                    "che io abbia motteggiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "iocatus, –a, –um  sis",
+                "traduzioni": [
+                    "che tu abbia motteggiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "iocatus, –a, –um  sit",
+                "traduzioni": [
+                    "che lui abbia motteggiato",
+                    "che lei abbia motteggiato",
+                    "che egli abbia motteggiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "iocati, –ae, –a  simus",
+                "traduzioni": [
+                    "che noi abbiamo motteggiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "iocati, –ae, –a  sitis",
+                "traduzioni": [
+                    "che voi abbiate motteggiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "iocati, –ae, –a  sint",
+                "traduzioni": [
+                    "che loro abbiano motteggiato",
+                    "che essi abbiano motteggiato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "iocatus, –a, –um  essem",
+                "traduzioni": [
+                    "che io avessi motteggiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "iocatus, –a, –um  esses",
+                "traduzioni": [
+                    "che tu avessi motteggiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "iocatus, –a, –um  esset",
+                "traduzioni": [
+                    "che lui avesse motteggiato",
+                    "che lei avesse motteggiato",
+                    "che egli avesse motteggiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "iocati, –ae, –a  essemus",
+                "traduzioni": [
+                    "che noi avessimo motteggiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "iocati, –ae, –a  essetis",
+                "traduzioni": [
+                    "che voi aveste motteggiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "iocati, –ae, –a  essent",
+                "traduzioni": [
+                    "che loro avessero motteggiato",
+                    "che essi avessero motteggiato"
+                ]
+            }
+        ]
+    }
+}

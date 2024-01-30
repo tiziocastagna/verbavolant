@@ -1,0 +1,722 @@
+{
+    "identifier": "RECIPERO",
+    "conuigazione": "1",
+    "translation": [
+        "ricuperare",
+        "riprendere",
+        "riconquistare"
+    ],
+    "valid_translations": [
+        "ricuperare",
+        "riprendere",
+        "riconquistare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕcĭpĕro",
+                "traduzioni": [
+                    "io ricupero",
+                    "io riprendo",
+                    "io riconquisto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕcĭpĕras",
+                "traduzioni": [
+                    "tu ricuperi",
+                    "tu riprendi",
+                    "tu riconquisti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕcĭpĕrat",
+                "traduzioni": [
+                    "lui ricupera",
+                    "lei ricupera",
+                    "egli ricupera",
+                    "lui riprende",
+                    "lei riprende",
+                    "egli riprende",
+                    "lui riconquista",
+                    "lei riconquista",
+                    "egli riconquista"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕcĭpĕrāmus",
+                "traduzioni": [
+                    "noi ricuperiamo",
+                    "noi riprendiamo",
+                    "noi riconquistiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕcĭpĕrātis",
+                "traduzioni": [
+                    "voi ricuperate",
+                    "voi riprendete",
+                    "voi riconquistate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕcĭpĕrant",
+                "traduzioni": [
+                    "loro ricuperano",
+                    "essi ricuperano",
+                    "loro riprendono",
+                    "essi riprendono",
+                    "loro riconquistano",
+                    "essi riconquistano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕcĭpĕrābam",
+                "traduzioni": [
+                    "io ricuperavo",
+                    "io riprendevo",
+                    "io riconquistavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕcĭpĕrābas",
+                "traduzioni": [
+                    "tu ricuperavi",
+                    "tu riprendevi",
+                    "tu riconquistavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕcĭpĕrābat",
+                "traduzioni": [
+                    "lui ricuperava",
+                    "lei ricuperava",
+                    "egli ricuperava",
+                    "lui riprendeva",
+                    "lei riprendeva",
+                    "egli riprendeva",
+                    "lui riconquistava",
+                    "lei riconquistava",
+                    "egli riconquistava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕcĭpĕrabāmus",
+                "traduzioni": [
+                    "noi ricuperavamo",
+                    "noi riprendevamo",
+                    "noi riconquistavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕcĭpĕrabātis",
+                "traduzioni": [
+                    "voi ricuperavate",
+                    "voi riprendevate",
+                    "voi riconquistavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕcĭpĕrābant",
+                "traduzioni": [
+                    "loro ricuperavano",
+                    "essi ricuperavano",
+                    "loro riprendevano",
+                    "essi riprendevano",
+                    "loro riconquistavano",
+                    "essi riconquistavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕcĭpĕrābo",
+                "traduzioni": [
+                    "io ricupererò",
+                    "io riprenderò",
+                    "io riconquisterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕcĭpĕrābis",
+                "traduzioni": [
+                    "tu ricupererai",
+                    "tu riprenderai",
+                    "tu riconquisterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕcĭpĕrābit",
+                "traduzioni": [
+                    "lui ricupererà",
+                    "lei ricupererà",
+                    "egli ricupererà",
+                    "lui riprenderà",
+                    "lei riprenderà",
+                    "egli riprenderà",
+                    "lui riconquisterà",
+                    "lei riconquisterà",
+                    "egli riconquisterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕcĭpĕrabĭmus",
+                "traduzioni": [
+                    "noi ricupereremo",
+                    "noi riprenderemo",
+                    "noi riconquisteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕcĭpĕrabĭtis",
+                "traduzioni": [
+                    "voi ricupererete",
+                    "voi riprenderete",
+                    "voi riconquisterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕcĭpĕrābunt",
+                "traduzioni": [
+                    "loro ricupereranno",
+                    "essi ricupereranno",
+                    "loro riprenderanno",
+                    "essi riprenderanno",
+                    "loro riconquisteranno",
+                    "essi riconquisteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "reciperavi",
+                "traduzioni": [
+                    "io ricuperai",
+                    "io ho ricuperato",
+                    "io ebbi ricuperato",
+                    "io ripresi",
+                    "io ho ripreso",
+                    "io ebbi ripreso",
+                    "io riconquistai",
+                    "io ho riconquistato",
+                    "io ebbi riconquistato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "reciperavisti",
+                "traduzioni": [
+                    "tu ricuperasti",
+                    "tu hai ricuperato",
+                    "tu avesti ricuperato",
+                    "tu riprendesti",
+                    "tu hai ripreso",
+                    "tu avesti ripreso",
+                    "tu riconquistasti",
+                    "tu hai riconquistato",
+                    "tu avesti riconquistato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "reciperavit",
+                "traduzioni": [
+                    "lui ricuperò",
+                    "lei ricuperò",
+                    "egli ricuperò",
+                    "lui ha ricuperato",
+                    "lei ha ricuperato",
+                    "egli ha ricuperato",
+                    "lui ebbe ricuperato",
+                    "lei ebbe ricuperato",
+                    "egli ebbe ricuperato",
+                    "lui riprese",
+                    "lei riprese",
+                    "egli riprese",
+                    "lui ha ripreso",
+                    "lei ha ripreso",
+                    "egli ha ripreso",
+                    "lui ebbe ripreso",
+                    "lei ebbe ripreso",
+                    "egli ebbe ripreso",
+                    "lui riconquistò",
+                    "lei riconquistò",
+                    "egli riconquistò",
+                    "lui ha riconquistato",
+                    "lei ha riconquistato",
+                    "egli ha riconquistato",
+                    "lui ebbe riconquistato",
+                    "lei ebbe riconquistato",
+                    "egli ebbe riconquistato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "reciperavĭmus",
+                "traduzioni": [
+                    "noi ricuperammo",
+                    "noi abbiamo ricuperato",
+                    "noi avemmo ricuperato",
+                    "noi riprendemmo",
+                    "noi abbiamo ripreso",
+                    "noi avemmo ripreso",
+                    "noi riconquistammo",
+                    "noi abbiamo riconquistato",
+                    "noi avemmo riconquistato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "reciperavistis",
+                "traduzioni": [
+                    "voi ricuperaste",
+                    "voi avete ricuperato",
+                    "voi aveste ricuperato",
+                    "voi riprendeste",
+                    "voi avete ripreso",
+                    "voi aveste ripreso",
+                    "voi riconquistaste",
+                    "voi avete riconquistato",
+                    "voi aveste riconquistato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "reciperavērunt, reciperavēre",
+                "traduzioni": [
+                    "loro ricuperarono",
+                    "essi ricuperarono",
+                    "loro hanno ricuperato",
+                    "essi hanno ricuperato",
+                    "loro ebbero ricuperato",
+                    "essi ebbero ricuperato",
+                    "loro ripresero",
+                    "essi ripresero",
+                    "loro hanno ripreso",
+                    "essi hanno ripreso",
+                    "loro ebbero ripreso",
+                    "essi ebbero ripreso",
+                    "loro riconquistarono",
+                    "essi riconquistarono",
+                    "loro hanno riconquistato",
+                    "essi hanno riconquistato",
+                    "loro ebbero riconquistato",
+                    "essi ebbero riconquistato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "reciperavĕram",
+                "traduzioni": [
+                    "io avevo ricuperato",
+                    "io avevo ripreso",
+                    "io avevo riconquistato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "reciperavĕras",
+                "traduzioni": [
+                    "tu avevi ricuperato",
+                    "tu avevi ripreso",
+                    "tu avevi riconquistato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "reciperavĕrat",
+                "traduzioni": [
+                    "lui aveva ricuperato",
+                    "lei aveva ricuperato",
+                    "egli aveva ricuperato",
+                    "lui aveva ripreso",
+                    "lei aveva ripreso",
+                    "egli aveva ripreso",
+                    "lui aveva riconquistato",
+                    "lei aveva riconquistato",
+                    "egli aveva riconquistato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "reciperaverāmus",
+                "traduzioni": [
+                    "noi avevamo ricuperato",
+                    "noi avevamo ripreso",
+                    "noi avevamo riconquistato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "reciperaverātis",
+                "traduzioni": [
+                    "voi avevate ricuperato",
+                    "voi avevate ripreso",
+                    "voi avevate riconquistato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "reciperavĕrant",
+                "traduzioni": [
+                    "loro avevano ricuperato",
+                    "essi avevano ricuperato",
+                    "loro avevano ripreso",
+                    "essi avevano ripreso",
+                    "loro avevano riconquistato",
+                    "essi avevano riconquistato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "reciperavĕro",
+                "traduzioni": [
+                    "io avrò ricuperato",
+                    "io avrò ripreso",
+                    "io avrò riconquistato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "reciperavĕris",
+                "traduzioni": [
+                    "tu avrai ricuperato",
+                    "tu avrai ripreso",
+                    "tu avrai riconquistato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "reciperavĕrit",
+                "traduzioni": [
+                    "lui avrà ricuperato",
+                    "lei avrà ricuperato",
+                    "egli avrà ricuperato",
+                    "lui avrà ripreso",
+                    "lei avrà ripreso",
+                    "egli avrà ripreso",
+                    "lui avrà riconquistato",
+                    "lei avrà riconquistato",
+                    "egli avrà riconquistato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "reciperaverĭmus",
+                "traduzioni": [
+                    "noi avremo ricuperato",
+                    "noi avremo ripreso",
+                    "noi avremo riconquistato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "reciperaverĭtis",
+                "traduzioni": [
+                    "voi avrete ricuperato",
+                    "voi avrete ripreso",
+                    "voi avrete riconquistato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "reciperavĕrint",
+                "traduzioni": [
+                    "loro avranno ricuperato",
+                    "essi avranno ricuperato",
+                    "loro avranno ripreso",
+                    "essi avranno ripreso",
+                    "loro avranno riconquistato",
+                    "essi avranno riconquistato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕcĭpĕrem",
+                "traduzioni": [
+                    "che io ricuperi",
+                    "che io riprenda",
+                    "che io riconquisti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕcĭpĕres",
+                "traduzioni": [
+                    "che tu ricuperi",
+                    "che tu riprenda",
+                    "che tu riconquisti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕcĭpĕret",
+                "traduzioni": [
+                    "che lui ricuperi",
+                    "che lei ricuperi",
+                    "che egli ricuperi",
+                    "che lui riprenda",
+                    "che lei riprenda",
+                    "che egli riprenda",
+                    "che lui riconquisti",
+                    "che lei riconquisti",
+                    "che egli riconquisti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕcĭpĕrēmus",
+                "traduzioni": [
+                    "che noi ricuperiamo",
+                    "che noi riprendiamo",
+                    "che noi riconquistiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕcĭpĕrētis",
+                "traduzioni": [
+                    "che voi ricuperiate",
+                    "che voi riprendiate",
+                    "che voi riconquistiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕcĭpĕrent",
+                "traduzioni": [
+                    "che loro ricuperino",
+                    "che essi ricuperino",
+                    "che loro riprendano",
+                    "che essi riprendano",
+                    "che loro riconquistino",
+                    "che essi riconquistino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕcĭpĕrārem",
+                "traduzioni": [
+                    "che io ricuperassi",
+                    "che io riprendessi",
+                    "che io riconquistassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕcĭpĕrāres",
+                "traduzioni": [
+                    "che tu ricuperassi",
+                    "che tu riprendessi",
+                    "che tu riconquistassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕcĭpĕrāret",
+                "traduzioni": [
+                    "che lui ricuperasse",
+                    "che lei ricuperasse",
+                    "che egli ricuperasse",
+                    "che lui riprendesse",
+                    "che lei riprendesse",
+                    "che egli riprendesse",
+                    "che lui riconquistasse",
+                    "che lei riconquistasse",
+                    "che egli riconquistasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕcĭpĕrarēmus",
+                "traduzioni": [
+                    "che noi ricuperassimo",
+                    "che noi riprendessimo",
+                    "che noi riconquistassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕcĭpĕrarētis",
+                "traduzioni": [
+                    "che voi ricuperaste",
+                    "che voi riprendeste",
+                    "che voi riconquistaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕcĭpĕrārent",
+                "traduzioni": [
+                    "che loro ricuperassero",
+                    "che essi ricuperassero",
+                    "che loro riprendessero",
+                    "che essi riprendessero",
+                    "che loro riconquistassero",
+                    "che essi riconquistassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "reciperavĕrim",
+                "traduzioni": [
+                    "che io abbia ricuperato",
+                    "che io abbia ripreso",
+                    "che io abbia riconquistato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "reciperavĕris",
+                "traduzioni": [
+                    "che tu abbia ricuperato",
+                    "che tu abbia ripreso",
+                    "che tu abbia riconquistato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "reciperavĕrit",
+                "traduzioni": [
+                    "che lui abbia ricuperato",
+                    "che lei abbia ricuperato",
+                    "che egli abbia ricuperato",
+                    "che lui abbia ripreso",
+                    "che lei abbia ripreso",
+                    "che egli abbia ripreso",
+                    "che lui abbia riconquistato",
+                    "che lei abbia riconquistato",
+                    "che egli abbia riconquistato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "reciperaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo ricuperato",
+                    "che noi abbiamo ripreso",
+                    "che noi abbiamo riconquistato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "reciperaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate ricuperato",
+                    "che voi abbiate ripreso",
+                    "che voi abbiate riconquistato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "reciperavĕrint",
+                "traduzioni": [
+                    "che loro abbiano ricuperato",
+                    "che essi abbiano ricuperato",
+                    "che loro abbiano ripreso",
+                    "che essi abbiano ripreso",
+                    "che loro abbiano riconquistato",
+                    "che essi abbiano riconquistato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "reciperavissem",
+                "traduzioni": [
+                    "che io avessi ricuperato",
+                    "che io avessi ripreso",
+                    "che io avessi riconquistato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "reciperavisses",
+                "traduzioni": [
+                    "che tu avessi ricuperato",
+                    "che tu avessi ripreso",
+                    "che tu avessi riconquistato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "reciperavisset",
+                "traduzioni": [
+                    "che lui avesse ricuperato",
+                    "che lei avesse ricuperato",
+                    "che egli avesse ricuperato",
+                    "che lui avesse ripreso",
+                    "che lei avesse ripreso",
+                    "che egli avesse ripreso",
+                    "che lui avesse riconquistato",
+                    "che lei avesse riconquistato",
+                    "che egli avesse riconquistato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "reciperavissēmus",
+                "traduzioni": [
+                    "che noi avessimo ricuperato",
+                    "che noi avessimo ripreso",
+                    "che noi avessimo riconquistato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "reciperavissētis",
+                "traduzioni": [
+                    "che voi aveste ricuperato",
+                    "che voi aveste ripreso",
+                    "che voi aveste riconquistato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "reciperavissent",
+                "traduzioni": [
+                    "che loro avessero ricuperato",
+                    "che essi avessero ricuperato",
+                    "che loro avessero ripreso",
+                    "che essi avessero ripreso",
+                    "che loro avessero riconquistato",
+                    "che essi avessero riconquistato"
+                ]
+            }
+        ]
+    }
+}

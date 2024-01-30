@@ -1,0 +1,736 @@
+{
+    "identifier": "BIBO",
+    "conuigazione": "3",
+    "translation": [
+        "bere",
+        "assorbire",
+        "succhiare"
+    ],
+    "valid_translations": [
+        "bere",
+        "assorbire",
+        "succhiare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "bĭbo",
+                "traduzioni": [
+                    "io bevo",
+                    "io assorb(isc)o",
+                    "io succhio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bĭbis",
+                "traduzioni": [
+                    "tu bevi",
+                    "tu assorb(isc)i",
+                    "tu succhi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bĭbit",
+                "traduzioni": [
+                    "lui beve",
+                    "lei beve",
+                    "egli beve",
+                    "lui assorb(isc)e",
+                    "lei assorb(isc)e",
+                    "egli assorb(isc)e",
+                    "lui succhia",
+                    "lei succhia",
+                    "egli succhia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bĭbĭmus",
+                "traduzioni": [
+                    "noi beviamo",
+                    "noi assorbiamo",
+                    "noi succhiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bĭbĭtis",
+                "traduzioni": [
+                    "voi bevete",
+                    "voi assorbite",
+                    "voi succhiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bĭbunt",
+                "traduzioni": [
+                    "loro bevono",
+                    "essi bevono",
+                    "loro assorb(isc)ono",
+                    "essi assorb(isc)ono",
+                    "loro succhiano",
+                    "essi succhiano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "bĭbēbam",
+                "traduzioni": [
+                    "io bevevo",
+                    "io assorbivo",
+                    "io succhiavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bĭbēbas",
+                "traduzioni": [
+                    "tu bevevi",
+                    "tu assorbivi",
+                    "tu succhiavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bĭbēbat",
+                "traduzioni": [
+                    "lui beveva",
+                    "lei beveva",
+                    "egli beveva",
+                    "lui assorbiva",
+                    "lei assorbiva",
+                    "egli assorbiva",
+                    "lui succhiava",
+                    "lei succhiava",
+                    "egli succhiava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bĭbebāmus",
+                "traduzioni": [
+                    "noi bevevamo",
+                    "noi assorbivamo",
+                    "noi succhiavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bĭbebātis",
+                "traduzioni": [
+                    "voi bevevate",
+                    "voi assorbivate",
+                    "voi succhiavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bĭbēbant",
+                "traduzioni": [
+                    "loro bevevano",
+                    "essi bevevano",
+                    "loro assorbivano",
+                    "essi assorbivano",
+                    "loro succhiavano",
+                    "essi succhiavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "bĭbam",
+                "traduzioni": [
+                    "io berrò",
+                    "io beverò",
+                    "io assorbirò",
+                    "io succhierò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bĭbes",
+                "traduzioni": [
+                    "tu berrai",
+                    "tu beverai",
+                    "tu assorbirai",
+                    "tu succhierai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bĭbet",
+                "traduzioni": [
+                    "lui berrà",
+                    "lei berrà",
+                    "egli berrà",
+                    "lui beverà",
+                    "lei beverà",
+                    "egli beverà",
+                    "lui assorbirà",
+                    "lei assorbirà",
+                    "egli assorbirà",
+                    "lui succhierà",
+                    "lei succhierà",
+                    "egli succhierà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bĭbēmus",
+                "traduzioni": [
+                    "noi berremo",
+                    "noi beveremo",
+                    "noi assorbiremo",
+                    "noi succhieremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bĭbētis",
+                "traduzioni": [
+                    "voi berrete",
+                    "voi beverete",
+                    "voi assorbirete",
+                    "voi succhierete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bĭbent",
+                "traduzioni": [
+                    "loro berranno",
+                    "essi berranno",
+                    "loro beveranno",
+                    "essi beveranno",
+                    "loro assorbiranno",
+                    "essi assorbiranno",
+                    "loro succhieranno",
+                    "essi succhieranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "bibi",
+                "traduzioni": [
+                    "io bevvi",
+                    "io bevetti",
+                    "io bevei",
+                    "io ho bevuto",
+                    "io ebbi bevuto",
+                    "io assorbii",
+                    "io ho assorbito",
+                    "io ebbi assorbito",
+                    "io succhiai",
+                    "io ho succhiato",
+                    "io ebbi succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bibisti",
+                "traduzioni": [
+                    "tu bevesti",
+                    "tu hai bevuto",
+                    "tu avesti bevuto",
+                    "tu assorbisti",
+                    "tu hai assorbito",
+                    "tu avesti assorbito",
+                    "tu succhiasti",
+                    "tu hai succhiato",
+                    "tu avesti succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bibit",
+                "traduzioni": [
+                    "lui bevve",
+                    "lei bevve",
+                    "egli bevve",
+                    "lui bevette",
+                    "lei bevette",
+                    "egli bevette",
+                    "lui ha bevuto",
+                    "lei ha bevuto",
+                    "egli ha bevuto",
+                    "lui ebbe bevuto",
+                    "lei ebbe bevuto",
+                    "egli ebbe bevuto",
+                    "lui assorbì",
+                    "lei assorbì",
+                    "egli assorbì",
+                    "lui ha assorbito",
+                    "lei ha assorbito",
+                    "egli ha assorbito",
+                    "lui ebbe assorbito",
+                    "lei ebbe assorbito",
+                    "egli ebbe assorbito",
+                    "lui succhiò",
+                    "lei succhiò",
+                    "egli succhiò",
+                    "lui ha succhiato",
+                    "lei ha succhiato",
+                    "egli ha succhiato",
+                    "lui ebbe succhiato",
+                    "lei ebbe succhiato",
+                    "egli ebbe succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bibĭmus",
+                "traduzioni": [
+                    "noi bevemmo",
+                    "noi abbiamo bevuto",
+                    "noi avemmo bevuto",
+                    "noi assorbimmo",
+                    "noi abbiamo assorbito",
+                    "noi avemmo assorbito",
+                    "noi succhiammo",
+                    "noi abbiamo succhiato",
+                    "noi avemmo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bibistis",
+                "traduzioni": [
+                    "voi beveste",
+                    "voi avete bevuto",
+                    "voi aveste bevuto",
+                    "voi assorbiste",
+                    "voi avete assorbito",
+                    "voi aveste assorbito",
+                    "voi succhiaste",
+                    "voi avete succhiato",
+                    "voi aveste succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bibērunt, bibēre",
+                "traduzioni": [
+                    "loro bevvero",
+                    "essi bevvero",
+                    "loro hanno bevuto",
+                    "essi hanno bevuto",
+                    "loro ebbero bevuto",
+                    "essi ebbero bevuto",
+                    "loro assorbirono",
+                    "essi assorbirono",
+                    "loro hanno assorbito",
+                    "essi hanno assorbito",
+                    "loro ebbero assorbito",
+                    "essi ebbero assorbito",
+                    "loro succhiarono",
+                    "essi succhiarono",
+                    "loro hanno succhiato",
+                    "essi hanno succhiato",
+                    "loro ebbero succhiato",
+                    "essi ebbero succhiato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "bibĕram",
+                "traduzioni": [
+                    "io avevo bevuto",
+                    "io avevo assorbito",
+                    "io avevo succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bibĕras",
+                "traduzioni": [
+                    "tu avevi bevuto",
+                    "tu avevi assorbito",
+                    "tu avevi succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bibĕrat",
+                "traduzioni": [
+                    "lui aveva bevuto",
+                    "lei aveva bevuto",
+                    "egli aveva bevuto",
+                    "lui aveva assorbito",
+                    "lei aveva assorbito",
+                    "egli aveva assorbito",
+                    "lui aveva succhiato",
+                    "lei aveva succhiato",
+                    "egli aveva succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "biberāmus",
+                "traduzioni": [
+                    "noi avevamo bevuto",
+                    "noi avevamo assorbito",
+                    "noi avevamo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "biberātis",
+                "traduzioni": [
+                    "voi avevate bevuto",
+                    "voi avevate assorbito",
+                    "voi avevate succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bibĕrant",
+                "traduzioni": [
+                    "loro avevano bevuto",
+                    "essi avevano bevuto",
+                    "loro avevano assorbito",
+                    "essi avevano assorbito",
+                    "loro avevano succhiato",
+                    "essi avevano succhiato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "bibĕro",
+                "traduzioni": [
+                    "io avrò bevuto",
+                    "io avrò assorbito",
+                    "io avrò succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bibĕris",
+                "traduzioni": [
+                    "tu avrai bevuto",
+                    "tu avrai assorbito",
+                    "tu avrai succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bibĕrit",
+                "traduzioni": [
+                    "lui avrà bevuto",
+                    "lei avrà bevuto",
+                    "egli avrà bevuto",
+                    "lui avrà assorbito",
+                    "lei avrà assorbito",
+                    "egli avrà assorbito",
+                    "lui avrà succhiato",
+                    "lei avrà succhiato",
+                    "egli avrà succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "biberĭmus",
+                "traduzioni": [
+                    "noi avremo bevuto",
+                    "noi avremo assorbito",
+                    "noi avremo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "biberĭtis",
+                "traduzioni": [
+                    "voi avrete bevuto",
+                    "voi avrete assorbito",
+                    "voi avrete succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bibĕrint",
+                "traduzioni": [
+                    "loro avranno bevuto",
+                    "essi avranno bevuto",
+                    "loro avranno assorbito",
+                    "essi avranno assorbito",
+                    "loro avranno succhiato",
+                    "essi avranno succhiato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "bĭbam",
+                "traduzioni": [
+                    "che io beva",
+                    "che io assorb(isc)a",
+                    "che io succhi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bĭbas",
+                "traduzioni": [
+                    "che tu beva",
+                    "che tu assorb(isc)a",
+                    "che tu succhi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bĭbat",
+                "traduzioni": [
+                    "che lui beva",
+                    "che lei beva",
+                    "che egli beva",
+                    "che lui assorb(isc)a",
+                    "che lei assorb(isc)a",
+                    "che egli assorb(isc)a",
+                    "che lui succhi",
+                    "che lei succhi",
+                    "che egli succhi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bĭbāmus",
+                "traduzioni": [
+                    "che noi beviamo",
+                    "che noi assorbiamo",
+                    "che noi succhiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bĭbātis",
+                "traduzioni": [
+                    "che voi beviate",
+                    "che voi assorbiate",
+                    "che voi succhiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bĭbant",
+                "traduzioni": [
+                    "che loro bevano",
+                    "che essi bevano",
+                    "che loro assorb(isc)ano",
+                    "che essi assorb(isc)ano",
+                    "che loro succhino",
+                    "che essi succhino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "bĭbĕrem",
+                "traduzioni": [
+                    "che io bevessi",
+                    "che io assorbissi",
+                    "che io succhiassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bĭbĕres",
+                "traduzioni": [
+                    "che tu bevessi",
+                    "che tu assorbissi",
+                    "che tu succhiassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bĭbĕret",
+                "traduzioni": [
+                    "che lui bevesse",
+                    "che lei bevesse",
+                    "che egli bevesse",
+                    "che lui assorbisse",
+                    "che lei assorbisse",
+                    "che egli assorbisse",
+                    "che lui succhiasse",
+                    "che lei succhiasse",
+                    "che egli succhiasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bĭberēmus",
+                "traduzioni": [
+                    "che noi bevessimo",
+                    "che noi assorbissimo",
+                    "che noi succhiassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bĭberētis",
+                "traduzioni": [
+                    "che voi beveste",
+                    "che voi assorbiste",
+                    "che voi succhiaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bĭbĕrent",
+                "traduzioni": [
+                    "che loro bevessero",
+                    "che essi bevessero",
+                    "che loro assorbissero",
+                    "che essi assorbissero",
+                    "che loro succhiassero",
+                    "che essi succhiassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "bibĕrim",
+                "traduzioni": [
+                    "che io abbia bevuto",
+                    "che io abbia assorbito",
+                    "che io abbia succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bibĕris",
+                "traduzioni": [
+                    "che tu abbia bevuto",
+                    "che tu abbia assorbito",
+                    "che tu abbia succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bibĕrit",
+                "traduzioni": [
+                    "che lui abbia bevuto",
+                    "che lei abbia bevuto",
+                    "che egli abbia bevuto",
+                    "che lui abbia assorbito",
+                    "che lei abbia assorbito",
+                    "che egli abbia assorbito",
+                    "che lui abbia succhiato",
+                    "che lei abbia succhiato",
+                    "che egli abbia succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "biberĭmus",
+                "traduzioni": [
+                    "che noi abbiamo bevuto",
+                    "che noi abbiamo assorbito",
+                    "che noi abbiamo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "biberĭtis",
+                "traduzioni": [
+                    "che voi abbiate bevuto",
+                    "che voi abbiate assorbito",
+                    "che voi abbiate succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bibĕrint",
+                "traduzioni": [
+                    "che loro abbiano bevuto",
+                    "che essi abbiano bevuto",
+                    "che loro abbiano assorbito",
+                    "che essi abbiano assorbito",
+                    "che loro abbiano succhiato",
+                    "che essi abbiano succhiato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "bibissem",
+                "traduzioni": [
+                    "che io avessi bevuto",
+                    "che io avessi assorbito",
+                    "che io avessi succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bibisses",
+                "traduzioni": [
+                    "che tu avessi bevuto",
+                    "che tu avessi assorbito",
+                    "che tu avessi succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bibisset",
+                "traduzioni": [
+                    "che lui avesse bevuto",
+                    "che lei avesse bevuto",
+                    "che egli avesse bevuto",
+                    "che lui avesse assorbito",
+                    "che lei avesse assorbito",
+                    "che egli avesse assorbito",
+                    "che lui avesse succhiato",
+                    "che lei avesse succhiato",
+                    "che egli avesse succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bibissēmus",
+                "traduzioni": [
+                    "che noi avessimo bevuto",
+                    "che noi avessimo assorbito",
+                    "che noi avessimo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bibissētis",
+                "traduzioni": [
+                    "che voi aveste bevuto",
+                    "che voi aveste assorbito",
+                    "che voi aveste succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bibissent",
+                "traduzioni": [
+                    "che loro avessero bevuto",
+                    "che essi avessero bevuto",
+                    "che loro avessero assorbito",
+                    "che essi avessero assorbito",
+                    "che loro avessero succhiato",
+                    "che essi avessero succhiato"
+                ]
+            }
+        ]
+    }
+}

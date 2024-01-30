@@ -1,0 +1,502 @@
+{
+    "identifier": "COMPLODO",
+    "conuigazione": "3",
+    "translation": [
+        "applaudire"
+    ],
+    "valid_translations": [
+        "applaudire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "complōdo",
+                "traduzioni": [
+                    "io applaud(isc)o"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "complōdis",
+                "traduzioni": [
+                    "tu applaud(isc)i"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "complōdit",
+                "traduzioni": [
+                    "lui applaud(isc)e",
+                    "lei applaud(isc)e",
+                    "egli applaud(isc)e"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "complōdĭmus",
+                "traduzioni": [
+                    "noi applaudiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "complōdĭtis",
+                "traduzioni": [
+                    "voi applaudite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "complōdunt",
+                "traduzioni": [
+                    "loro applaud(isc)ono",
+                    "essi applaud(isc)ono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "complōdēbam",
+                "traduzioni": [
+                    "io applaudivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "complōdēbas",
+                "traduzioni": [
+                    "tu applaudivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "complōdēbat",
+                "traduzioni": [
+                    "lui applaudiva",
+                    "lei applaudiva",
+                    "egli applaudiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "complōdebāmus",
+                "traduzioni": [
+                    "noi applaudivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "complōdebātis",
+                "traduzioni": [
+                    "voi applaudivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "complōdēbant",
+                "traduzioni": [
+                    "loro applaudivano",
+                    "essi applaudivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "complōdam",
+                "traduzioni": [
+                    "io applaudirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "complōdes",
+                "traduzioni": [
+                    "tu applaudirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "complōdet",
+                "traduzioni": [
+                    "lui applaudirà",
+                    "lei applaudirà",
+                    "egli applaudirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "complōdēmus",
+                "traduzioni": [
+                    "noi applaudiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "complōdētis",
+                "traduzioni": [
+                    "voi applaudirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "complōdent",
+                "traduzioni": [
+                    "loro applaudiranno",
+                    "essi applaudiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "complosi",
+                "traduzioni": [
+                    "io applaudii",
+                    "io ho applaudito",
+                    "io ebbi applaudito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "complosisti",
+                "traduzioni": [
+                    "tu applaudisti",
+                    "tu hai applaudito",
+                    "tu avesti applaudito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "complosit",
+                "traduzioni": [
+                    "lui applaudì",
+                    "lei applaudì",
+                    "egli applaudì",
+                    "lui ha applaudito",
+                    "lei ha applaudito",
+                    "egli ha applaudito",
+                    "lui ebbe applaudito",
+                    "lei ebbe applaudito",
+                    "egli ebbe applaudito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "complosĭmus",
+                "traduzioni": [
+                    "noi applaudimmo",
+                    "noi abbiamo applaudito",
+                    "noi avemmo applaudito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "complosistis",
+                "traduzioni": [
+                    "voi applaudiste",
+                    "voi avete applaudito",
+                    "voi aveste applaudito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "complosērunt, complosēre",
+                "traduzioni": [
+                    "loro applaudirono",
+                    "essi applaudirono",
+                    "loro hanno applaudito",
+                    "essi hanno applaudito",
+                    "loro ebbero applaudito",
+                    "essi ebbero applaudito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "complosĕram",
+                "traduzioni": [
+                    "io avevo applaudito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "complosĕras",
+                "traduzioni": [
+                    "tu avevi applaudito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "complosĕrat",
+                "traduzioni": [
+                    "lui aveva applaudito",
+                    "lei aveva applaudito",
+                    "egli aveva applaudito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "comploserāmus",
+                "traduzioni": [
+                    "noi avevamo applaudito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "comploserātis",
+                "traduzioni": [
+                    "voi avevate applaudito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "complosĕrant",
+                "traduzioni": [
+                    "loro avevano applaudito",
+                    "essi avevano applaudito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "complosĕro",
+                "traduzioni": [
+                    "io avrò applaudito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "complosĕris",
+                "traduzioni": [
+                    "tu avrai applaudito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "complosĕrit",
+                "traduzioni": [
+                    "lui avrà applaudito",
+                    "lei avrà applaudito",
+                    "egli avrà applaudito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "comploserĭmus",
+                "traduzioni": [
+                    "noi avremo applaudito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "comploserĭtis",
+                "traduzioni": [
+                    "voi avrete applaudito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "complosĕrint",
+                "traduzioni": [
+                    "loro avranno applaudito",
+                    "essi avranno applaudito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "complōdam",
+                "traduzioni": [
+                    "che io applaud(isc)a"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "complōdas",
+                "traduzioni": [
+                    "che tu applaud(isc)a"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "complōdat",
+                "traduzioni": [
+                    "che lui applaud(isc)a",
+                    "che lei applaud(isc)a",
+                    "che egli applaud(isc)a"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "complōdāmus",
+                "traduzioni": [
+                    "che noi applaudiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "complōdātis",
+                "traduzioni": [
+                    "che voi applaudiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "complōdant",
+                "traduzioni": [
+                    "che loro applaud(isc)ano",
+                    "che essi applaud(isc)ano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "complōdĕrem",
+                "traduzioni": [
+                    "che io applaudissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "complōdĕres",
+                "traduzioni": [
+                    "che tu applaudissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "complōdĕret",
+                "traduzioni": [
+                    "che lui applaudisse",
+                    "che lei applaudisse",
+                    "che egli applaudisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "complōderēmus",
+                "traduzioni": [
+                    "che noi applaudissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "complōderētis",
+                "traduzioni": [
+                    "che voi applaudiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "complōdĕrent",
+                "traduzioni": [
+                    "che loro applaudissero",
+                    "che essi applaudissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "complosĕrim",
+                "traduzioni": [
+                    "che io abbia applaudito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "complosĕris",
+                "traduzioni": [
+                    "che tu abbia applaudito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "complosĕrit",
+                "traduzioni": [
+                    "che lui abbia applaudito",
+                    "che lei abbia applaudito",
+                    "che egli abbia applaudito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "comploserĭmus",
+                "traduzioni": [
+                    "che noi abbiamo applaudito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "comploserĭtis",
+                "traduzioni": [
+                    "che voi abbiate applaudito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "complosĕrint",
+                "traduzioni": [
+                    "che loro abbiano applaudito",
+                    "che essi abbiano applaudito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "complosissem",
+                "traduzioni": [
+                    "che io avessi applaudito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "complosisses",
+                "traduzioni": [
+                    "che tu avessi applaudito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "complosisset",
+                "traduzioni": [
+                    "che lui avesse applaudito",
+                    "che lei avesse applaudito",
+                    "che egli avesse applaudito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "complosissēmus",
+                "traduzioni": [
+                    "che noi avessimo applaudito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "complosissētis",
+                "traduzioni": [
+                    "che voi aveste applaudito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "complosissent",
+                "traduzioni": [
+                    "che loro avessero applaudito",
+                    "che essi avessero applaudito"
+                ]
+            }
+        ]
+    }
+}

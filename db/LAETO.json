@@ -1,0 +1,613 @@
+{
+    "identifier": "LAETO",
+    "conuigazione": "1",
+    "translation": [
+        "allietare",
+        "rasserenare",
+        "(della terra) ingrassare"
+    ],
+    "valid_translations": [
+        "allietare",
+        "rasserenare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "laeto",
+                "traduzioni": [
+                    "io allieto",
+                    "io rassereno"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laetas",
+                "traduzioni": [
+                    "tu allieti",
+                    "tu rassereni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laetat",
+                "traduzioni": [
+                    "lui allieta",
+                    "lei allieta",
+                    "egli allieta",
+                    "lui rasserena",
+                    "lei rasserena",
+                    "egli rasserena"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laetāmus",
+                "traduzioni": [
+                    "noi allietiamo",
+                    "noi rassereniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laetātis",
+                "traduzioni": [
+                    "voi allietate",
+                    "voi rasserenate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laetant",
+                "traduzioni": [
+                    "loro allietano",
+                    "essi allietano",
+                    "loro rasserenano",
+                    "essi rasserenano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laetābam",
+                "traduzioni": [
+                    "io allietavo",
+                    "io rasserenavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laetābas",
+                "traduzioni": [
+                    "tu allietavi",
+                    "tu rasserenavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laetābat",
+                "traduzioni": [
+                    "lui allietava",
+                    "lei allietava",
+                    "egli allietava",
+                    "lui rasserenava",
+                    "lei rasserenava",
+                    "egli rasserenava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laetabāmus",
+                "traduzioni": [
+                    "noi allietavamo",
+                    "noi rasserenavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laetabātis",
+                "traduzioni": [
+                    "voi allietavate",
+                    "voi rasserenavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laetābant",
+                "traduzioni": [
+                    "loro allietavano",
+                    "essi allietavano",
+                    "loro rasserenavano",
+                    "essi rasserenavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "laetābo",
+                "traduzioni": [
+                    "io allieterò",
+                    "io rasserenerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laetābis",
+                "traduzioni": [
+                    "tu allieterai",
+                    "tu rasserenerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laetābit",
+                "traduzioni": [
+                    "lui allieterà",
+                    "lei allieterà",
+                    "egli allieterà",
+                    "lui rasserenerà",
+                    "lei rasserenerà",
+                    "egli rasserenerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laetabĭmus",
+                "traduzioni": [
+                    "noi allieteremo",
+                    "noi rassereneremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laetabĭtis",
+                "traduzioni": [
+                    "voi allieterete",
+                    "voi rasserenerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laetābunt",
+                "traduzioni": [
+                    "loro allieteranno",
+                    "essi allieteranno",
+                    "loro rassereneranno",
+                    "essi rassereneranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laetavi",
+                "traduzioni": [
+                    "io allietai",
+                    "io ho allietato",
+                    "io ebbi allietato",
+                    "io rasserenai",
+                    "io ho rasserenato",
+                    "io ebbi rasserenato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laetavisti",
+                "traduzioni": [
+                    "tu allietasti",
+                    "tu hai allietato",
+                    "tu avesti allietato",
+                    "tu rasserenasti",
+                    "tu hai rasserenato",
+                    "tu avesti rasserenato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laetavit",
+                "traduzioni": [
+                    "lui allietò",
+                    "lei allietò",
+                    "egli allietò",
+                    "lui ha allietato",
+                    "lei ha allietato",
+                    "egli ha allietato",
+                    "lui ebbe allietato",
+                    "lei ebbe allietato",
+                    "egli ebbe allietato",
+                    "lui rasserenò",
+                    "lei rasserenò",
+                    "egli rasserenò",
+                    "lui ha rasserenato",
+                    "lei ha rasserenato",
+                    "egli ha rasserenato",
+                    "lui ebbe rasserenato",
+                    "lei ebbe rasserenato",
+                    "egli ebbe rasserenato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laetavĭmus",
+                "traduzioni": [
+                    "noi allietammo",
+                    "noi abbiamo allietato",
+                    "noi avemmo allietato",
+                    "noi rasserenammo",
+                    "noi abbiamo rasserenato",
+                    "noi avemmo rasserenato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laetavistis",
+                "traduzioni": [
+                    "voi allietaste",
+                    "voi avete allietato",
+                    "voi aveste allietato",
+                    "voi rasserenaste",
+                    "voi avete rasserenato",
+                    "voi aveste rasserenato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laetavērunt, laetavēre",
+                "traduzioni": [
+                    "loro allietarono",
+                    "essi allietarono",
+                    "loro hanno allietato",
+                    "essi hanno allietato",
+                    "loro ebbero allietato",
+                    "essi ebbero allietato",
+                    "loro rasserenarono",
+                    "essi rasserenarono",
+                    "loro hanno rasserenato",
+                    "essi hanno rasserenato",
+                    "loro ebbero rasserenato",
+                    "essi ebbero rasserenato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laetavĕram",
+                "traduzioni": [
+                    "io avevo allietato",
+                    "io avevo rasserenato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laetavĕras",
+                "traduzioni": [
+                    "tu avevi allietato",
+                    "tu avevi rasserenato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laetavĕrat",
+                "traduzioni": [
+                    "lui aveva allietato",
+                    "lei aveva allietato",
+                    "egli aveva allietato",
+                    "lui aveva rasserenato",
+                    "lei aveva rasserenato",
+                    "egli aveva rasserenato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laetaverāmus",
+                "traduzioni": [
+                    "noi avevamo allietato",
+                    "noi avevamo rasserenato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laetaverātis",
+                "traduzioni": [
+                    "voi avevate allietato",
+                    "voi avevate rasserenato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laetavĕrant",
+                "traduzioni": [
+                    "loro avevano allietato",
+                    "essi avevano allietato",
+                    "loro avevano rasserenato",
+                    "essi avevano rasserenato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "laetavĕro",
+                "traduzioni": [
+                    "io avrò allietato",
+                    "io avrò rasserenato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laetavĕris",
+                "traduzioni": [
+                    "tu avrai allietato",
+                    "tu avrai rasserenato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laetavĕrit",
+                "traduzioni": [
+                    "lui avrà allietato",
+                    "lei avrà allietato",
+                    "egli avrà allietato",
+                    "lui avrà rasserenato",
+                    "lei avrà rasserenato",
+                    "egli avrà rasserenato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laetaverĭmus",
+                "traduzioni": [
+                    "noi avremo allietato",
+                    "noi avremo rasserenato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laetaverĭtis",
+                "traduzioni": [
+                    "voi avrete allietato",
+                    "voi avrete rasserenato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laetavĕrint",
+                "traduzioni": [
+                    "loro avranno allietato",
+                    "essi avranno allietato",
+                    "loro avranno rasserenato",
+                    "essi avranno rasserenato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "laetem",
+                "traduzioni": [
+                    "che io allieti",
+                    "che io rassereni"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laetes",
+                "traduzioni": [
+                    "che tu allieti",
+                    "che tu rassereni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laetet",
+                "traduzioni": [
+                    "che lui allieti",
+                    "che lei allieti",
+                    "che egli allieti",
+                    "che lui rassereni",
+                    "che lei rassereni",
+                    "che egli rassereni"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laetēmus",
+                "traduzioni": [
+                    "che noi allietiamo",
+                    "che noi rassereniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laetētis",
+                "traduzioni": [
+                    "che voi allietiate",
+                    "che voi rassereniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laetent",
+                "traduzioni": [
+                    "che loro allietino",
+                    "che essi allietino",
+                    "che loro rasserenino",
+                    "che essi rasserenino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laetārem",
+                "traduzioni": [
+                    "che io allietassi",
+                    "che io rasserenassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laetāres",
+                "traduzioni": [
+                    "che tu allietassi",
+                    "che tu rasserenassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laetāret",
+                "traduzioni": [
+                    "che lui allietasse",
+                    "che lei allietasse",
+                    "che egli allietasse",
+                    "che lui rasserenasse",
+                    "che lei rasserenasse",
+                    "che egli rasserenasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laetarēmus",
+                "traduzioni": [
+                    "che noi allietassimo",
+                    "che noi rasserenassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laetarētis",
+                "traduzioni": [
+                    "che voi allietaste",
+                    "che voi rasserenaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laetārent",
+                "traduzioni": [
+                    "che loro allietassero",
+                    "che essi allietassero",
+                    "che loro rasserenassero",
+                    "che essi rasserenassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laetavĕrim",
+                "traduzioni": [
+                    "che io abbia allietato",
+                    "che io abbia rasserenato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laetavĕris",
+                "traduzioni": [
+                    "che tu abbia allietato",
+                    "che tu abbia rasserenato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laetavĕrit",
+                "traduzioni": [
+                    "che lui abbia allietato",
+                    "che lei abbia allietato",
+                    "che egli abbia allietato",
+                    "che lui abbia rasserenato",
+                    "che lei abbia rasserenato",
+                    "che egli abbia rasserenato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laetaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo allietato",
+                    "che noi abbiamo rasserenato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laetaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate allietato",
+                    "che voi abbiate rasserenato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laetavĕrint",
+                "traduzioni": [
+                    "che loro abbiano allietato",
+                    "che essi abbiano allietato",
+                    "che loro abbiano rasserenato",
+                    "che essi abbiano rasserenato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laetavissem",
+                "traduzioni": [
+                    "che io avessi allietato",
+                    "che io avessi rasserenato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laetavisses",
+                "traduzioni": [
+                    "che tu avessi allietato",
+                    "che tu avessi rasserenato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laetavisset",
+                "traduzioni": [
+                    "che lui avesse allietato",
+                    "che lei avesse allietato",
+                    "che egli avesse allietato",
+                    "che lui avesse rasserenato",
+                    "che lei avesse rasserenato",
+                    "che egli avesse rasserenato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laetavissēmus",
+                "traduzioni": [
+                    "che noi avessimo allietato",
+                    "che noi avessimo rasserenato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laetavissētis",
+                "traduzioni": [
+                    "che voi aveste allietato",
+                    "che voi aveste rasserenato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laetavissent",
+                "traduzioni": [
+                    "che loro avessero allietato",
+                    "che essi avessero allietato",
+                    "che loro avessero rasserenato",
+                    "che essi avessero rasserenato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,502 @@
+{
+    "identifier": "TORNO",
+    "conuigazione": "1",
+    "translation": [
+        "tornire"
+    ],
+    "valid_translations": [
+        "tornire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "torno",
+                "traduzioni": [
+                    "io tornisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tornas",
+                "traduzioni": [
+                    "tu tornisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tornat",
+                "traduzioni": [
+                    "lui tornisce",
+                    "lei tornisce",
+                    "egli tornisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tornāmus",
+                "traduzioni": [
+                    "noi torniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tornātis",
+                "traduzioni": [
+                    "voi tornite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tornant",
+                "traduzioni": [
+                    "loro torniscono",
+                    "essi torniscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "tornābam",
+                "traduzioni": [
+                    "io tornivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tornābas",
+                "traduzioni": [
+                    "tu tornivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tornābat",
+                "traduzioni": [
+                    "lui torniva",
+                    "lei torniva",
+                    "egli torniva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tornabāmus",
+                "traduzioni": [
+                    "noi tornivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tornabātis",
+                "traduzioni": [
+                    "voi tornivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tornābant",
+                "traduzioni": [
+                    "loro tornivano",
+                    "essi tornivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "tornābo",
+                "traduzioni": [
+                    "io tornirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tornābis",
+                "traduzioni": [
+                    "tu tornirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tornābit",
+                "traduzioni": [
+                    "lui tornirà",
+                    "lei tornirà",
+                    "egli tornirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tornabĭmus",
+                "traduzioni": [
+                    "noi torniremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tornabĭtis",
+                "traduzioni": [
+                    "voi tornirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tornābunt",
+                "traduzioni": [
+                    "loro torniranno",
+                    "essi torniranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "tornavi",
+                "traduzioni": [
+                    "io tornii",
+                    "io ho tornito",
+                    "io ebbi tornito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tornavisti",
+                "traduzioni": [
+                    "tu tornisti",
+                    "tu hai tornito",
+                    "tu avesti tornito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tornavit",
+                "traduzioni": [
+                    "lui tornì",
+                    "lei tornì",
+                    "egli tornì",
+                    "lui ha tornito",
+                    "lei ha tornito",
+                    "egli ha tornito",
+                    "lui ebbe tornito",
+                    "lei ebbe tornito",
+                    "egli ebbe tornito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tornavĭmus",
+                "traduzioni": [
+                    "noi tornimmo",
+                    "noi abbiamo tornito",
+                    "noi avemmo tornito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tornavistis",
+                "traduzioni": [
+                    "voi torniste",
+                    "voi avete tornito",
+                    "voi aveste tornito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tornavērunt, tornavēre",
+                "traduzioni": [
+                    "loro tornirono",
+                    "essi tornirono",
+                    "loro hanno tornito",
+                    "essi hanno tornito",
+                    "loro ebbero tornito",
+                    "essi ebbero tornito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "tornavĕram",
+                "traduzioni": [
+                    "io avevo tornito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tornavĕras",
+                "traduzioni": [
+                    "tu avevi tornito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tornavĕrat",
+                "traduzioni": [
+                    "lui aveva tornito",
+                    "lei aveva tornito",
+                    "egli aveva tornito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tornaverāmus",
+                "traduzioni": [
+                    "noi avevamo tornito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tornaverātis",
+                "traduzioni": [
+                    "voi avevate tornito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tornavĕrant",
+                "traduzioni": [
+                    "loro avevano tornito",
+                    "essi avevano tornito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "tornavĕro",
+                "traduzioni": [
+                    "io avrò tornito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tornavĕris",
+                "traduzioni": [
+                    "tu avrai tornito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tornavĕrit",
+                "traduzioni": [
+                    "lui avrà tornito",
+                    "lei avrà tornito",
+                    "egli avrà tornito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tornaverĭmus",
+                "traduzioni": [
+                    "noi avremo tornito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tornaverĭtis",
+                "traduzioni": [
+                    "voi avrete tornito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tornavĕrint",
+                "traduzioni": [
+                    "loro avranno tornito",
+                    "essi avranno tornito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "tornem",
+                "traduzioni": [
+                    "che io tornisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tornes",
+                "traduzioni": [
+                    "che tu tornisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tornet",
+                "traduzioni": [
+                    "che lui tornisca",
+                    "che lei tornisca",
+                    "che egli tornisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tornēmus",
+                "traduzioni": [
+                    "che noi torniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tornētis",
+                "traduzioni": [
+                    "che voi torniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tornent",
+                "traduzioni": [
+                    "che loro torniscano",
+                    "che essi torniscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "tornārem",
+                "traduzioni": [
+                    "che io tornissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tornāres",
+                "traduzioni": [
+                    "che tu tornissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tornāret",
+                "traduzioni": [
+                    "che lui tornisse",
+                    "che lei tornisse",
+                    "che egli tornisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tornarēmus",
+                "traduzioni": [
+                    "che noi tornissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tornarētis",
+                "traduzioni": [
+                    "che voi torniste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tornārent",
+                "traduzioni": [
+                    "che loro tornissero",
+                    "che essi tornissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "tornavĕrim",
+                "traduzioni": [
+                    "che io abbia tornito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tornavĕris",
+                "traduzioni": [
+                    "che tu abbia tornito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tornavĕrit",
+                "traduzioni": [
+                    "che lui abbia tornito",
+                    "che lei abbia tornito",
+                    "che egli abbia tornito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tornaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo tornito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tornaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate tornito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tornavĕrint",
+                "traduzioni": [
+                    "che loro abbiano tornito",
+                    "che essi abbiano tornito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "tornavissem",
+                "traduzioni": [
+                    "che io avessi tornito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tornavisses",
+                "traduzioni": [
+                    "che tu avessi tornito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tornavisset",
+                "traduzioni": [
+                    "che lui avesse tornito",
+                    "che lei avesse tornito",
+                    "che egli avesse tornito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tornavissēmus",
+                "traduzioni": [
+                    "che noi avessimo tornito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tornavissētis",
+                "traduzioni": [
+                    "che voi aveste tornito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tornavissent",
+                "traduzioni": [
+                    "che loro avessero tornito",
+                    "che essi avessero tornito"
+                ]
+            }
+        ]
+    }
+}

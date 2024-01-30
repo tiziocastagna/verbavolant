@@ -1,0 +1,1233 @@
+{
+    "identifier": "DECLINO",
+    "conuigazione": "1",
+    "translation": [
+        "(transitivo) volgere",
+        "deviare",
+        "allontanare",
+        "(transitivo) piegare",
+        "(transitivo) scansare",
+        "evitare",
+        "sfuggire",
+        "(transitivo) grammatica declinare",
+        "coniugare",
+        "flettere",
+        "(intransitivo) (di malattie) diminuire",
+        "sfumare"
+    ],
+    "valid_translations": [
+        "deviare",
+        "allontanare",
+        "evitare",
+        "sfuggire",
+        "coniugare",
+        "flettere",
+        "sfumare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēclīno",
+                "traduzioni": [
+                    "io devio",
+                    "io allontano",
+                    "io evito",
+                    "io sfuggo",
+                    "io coniugo",
+                    "io fletto",
+                    "io sfumo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēclīnas",
+                "traduzioni": [
+                    "tu devi",
+                    "tu allontani",
+                    "tu eviti",
+                    "tu sfuggi",
+                    "tu coniughi",
+                    "tu fletti",
+                    "tu sfumi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēclīnat",
+                "traduzioni": [
+                    "lui devia",
+                    "lei devia",
+                    "egli devia",
+                    "lui allontana",
+                    "lei allontana",
+                    "egli allontana",
+                    "lui evita",
+                    "lei evita",
+                    "egli evita",
+                    "lui sfugge",
+                    "lei sfugge",
+                    "egli sfugge",
+                    "lui coniuga",
+                    "lei coniuga",
+                    "egli coniuga",
+                    "lui flette",
+                    "lei flette",
+                    "egli flette",
+                    "lui sfuma",
+                    "lei sfuma",
+                    "egli sfuma"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēclīnāmus",
+                "traduzioni": [
+                    "noi deviamo",
+                    "noi allontaniamo",
+                    "noi evitiamo",
+                    "noi sfuggiamo",
+                    "noi coniughiamo",
+                    "noi flettiamo",
+                    "noi sfumiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēclīnātis",
+                "traduzioni": [
+                    "voi deviate",
+                    "voi allontanate",
+                    "voi evitate",
+                    "voi sfuggite",
+                    "voi coniugate",
+                    "voi flettete",
+                    "voi sfumate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēclīnant",
+                "traduzioni": [
+                    "loro deviano",
+                    "essi deviano",
+                    "loro allontanano",
+                    "essi allontanano",
+                    "loro evitano",
+                    "essi evitano",
+                    "loro sfuggono",
+                    "essi sfuggono",
+                    "loro coniugano",
+                    "essi coniugano",
+                    "loro flettono",
+                    "essi flettono",
+                    "loro sfumano",
+                    "essi sfumano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēclīnābam",
+                "traduzioni": [
+                    "io deviavo",
+                    "io allontanavo",
+                    "io evitavo",
+                    "io sfuggivo",
+                    "io coniugavo",
+                    "io flettevo",
+                    "io sfumavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēclīnābas",
+                "traduzioni": [
+                    "tu deviavi",
+                    "tu allontanavi",
+                    "tu evitavi",
+                    "tu sfuggivi",
+                    "tu coniugavi",
+                    "tu flettevi",
+                    "tu sfumavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēclīnābat",
+                "traduzioni": [
+                    "lui deviava",
+                    "lei deviava",
+                    "egli deviava",
+                    "lui allontanava",
+                    "lei allontanava",
+                    "egli allontanava",
+                    "lui evitava",
+                    "lei evitava",
+                    "egli evitava",
+                    "lui sfuggiva",
+                    "lei sfuggiva",
+                    "egli sfuggiva",
+                    "lui coniugava",
+                    "lei coniugava",
+                    "egli coniugava",
+                    "lui fletteva",
+                    "lei fletteva",
+                    "egli fletteva",
+                    "lui sfumava",
+                    "lei sfumava",
+                    "egli sfumava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēclīnabāmus",
+                "traduzioni": [
+                    "noi deviavamo",
+                    "noi allontanavamo",
+                    "noi evitavamo",
+                    "noi sfuggivamo",
+                    "noi coniugavamo",
+                    "noi flettevamo",
+                    "noi sfumavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēclīnabātis",
+                "traduzioni": [
+                    "voi deviavate",
+                    "voi allontanavate",
+                    "voi evitavate",
+                    "voi sfuggivate",
+                    "voi coniugavate",
+                    "voi flettevate",
+                    "voi sfumavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēclīnābant",
+                "traduzioni": [
+                    "loro deviavano",
+                    "essi deviavano",
+                    "loro allontanavano",
+                    "essi allontanavano",
+                    "loro evitavano",
+                    "essi evitavano",
+                    "loro sfuggivano",
+                    "essi sfuggivano",
+                    "loro coniugavano",
+                    "essi coniugavano",
+                    "loro flettevano",
+                    "essi flettevano",
+                    "loro sfumavano",
+                    "essi sfumavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēclīnābo",
+                "traduzioni": [
+                    "io deverò",
+                    "io allontanerò",
+                    "io eviterò",
+                    "io sfuggirò",
+                    "io coniugherò",
+                    "io fletterò",
+                    "io sfumerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēclīnābis",
+                "traduzioni": [
+                    "tu deverai",
+                    "tu allontanerai",
+                    "tu eviterai",
+                    "tu sfuggirai",
+                    "tu coniugherai",
+                    "tu fletterai",
+                    "tu sfumerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēclīnābit",
+                "traduzioni": [
+                    "lui deverà",
+                    "lei deverà",
+                    "egli deverà",
+                    "lui allontanerà",
+                    "lei allontanerà",
+                    "egli allontanerà",
+                    "lui eviterà",
+                    "lei eviterà",
+                    "egli eviterà",
+                    "lui sfuggirà",
+                    "lei sfuggirà",
+                    "egli sfuggirà",
+                    "lui coniugherà",
+                    "lei coniugherà",
+                    "egli coniugherà",
+                    "lui fletterà",
+                    "lei fletterà",
+                    "egli fletterà",
+                    "lui sfumerà",
+                    "lei sfumerà",
+                    "egli sfumerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēclīnabĭmus",
+                "traduzioni": [
+                    "noi deveremo",
+                    "noi allontaneremo",
+                    "noi eviteremo",
+                    "noi sfuggiremo",
+                    "noi coniugheremo",
+                    "noi fletteremo",
+                    "noi sfumeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēclīnabĭtis",
+                "traduzioni": [
+                    "voi deverete",
+                    "voi allontanerete",
+                    "voi eviterete",
+                    "voi sfuggirete",
+                    "voi coniugherete",
+                    "voi fletterete",
+                    "voi sfumerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēclīnābunt",
+                "traduzioni": [
+                    "loro deveranno",
+                    "essi deveranno",
+                    "loro allontaneranno",
+                    "essi allontaneranno",
+                    "loro eviteranno",
+                    "essi eviteranno",
+                    "loro sfuggiranno",
+                    "essi sfuggiranno",
+                    "loro coniugheranno",
+                    "essi coniugheranno",
+                    "loro fletteranno",
+                    "essi fletteranno",
+                    "loro sfumeranno",
+                    "essi sfumeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "declinavi",
+                "traduzioni": [
+                    "io deviai",
+                    "io ho deviato",
+                    "io ebbi deviato",
+                    "io allontanai",
+                    "io ho allontanato",
+                    "io ebbi allontanato",
+                    "io evitai",
+                    "io ho evitato",
+                    "io ebbi evitato",
+                    "io sfuggii",
+                    "io sono sfuggito",
+                    "io sono sfuggita",
+                    "io fui sfuggito",
+                    "io fui sfuggita",
+                    "io coniugai",
+                    "io ho coniugato",
+                    "io ebbi coniugato",
+                    "io flessi",
+                    "io flettei",
+                    "io ho flesso",
+                    "io ebbi flesso",
+                    "io sfumai",
+                    "io sono sfumato",
+                    "io sono sfumata",
+                    "io fui sfumato",
+                    "io fui sfumata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "declinavisti",
+                "traduzioni": [
+                    "tu deviasti",
+                    "tu hai deviato",
+                    "tu avesti deviato",
+                    "tu allontanasti",
+                    "tu hai allontanato",
+                    "tu avesti allontanato",
+                    "tu evitasti",
+                    "tu hai evitato",
+                    "tu avesti evitato",
+                    "tu sfuggisti",
+                    "tu sei sfuggito",
+                    "tu sei sfuggita",
+                    "tu fosti sfuggito",
+                    "tu fosti sfuggita",
+                    "tu coniugasti",
+                    "tu hai coniugato",
+                    "tu avesti coniugato",
+                    "tu flettesti",
+                    "tu hai flesso",
+                    "tu avesti flesso",
+                    "tu sfumasti",
+                    "tu sei sfumato",
+                    "tu sei sfumata",
+                    "tu fosti sfumato",
+                    "tu fosti sfumata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "declinavit",
+                "traduzioni": [
+                    "lui deviò",
+                    "lei deviò",
+                    "egli deviò",
+                    "lui ha deviato",
+                    "lei ha deviato",
+                    "egli ha deviato",
+                    "lui ebbe deviato",
+                    "lei ebbe deviato",
+                    "egli ebbe deviato",
+                    "lui allontanò",
+                    "lei allontanò",
+                    "egli allontanò",
+                    "lui ha allontanato",
+                    "lei ha allontanato",
+                    "egli ha allontanato",
+                    "lui ebbe allontanato",
+                    "lei ebbe allontanato",
+                    "egli ebbe allontanato",
+                    "lui evitò",
+                    "lei evitò",
+                    "egli evitò",
+                    "lui ha evitato",
+                    "lei ha evitato",
+                    "egli ha evitato",
+                    "lui ebbe evitato",
+                    "lei ebbe evitato",
+                    "egli ebbe evitato",
+                    "lui sfuggì",
+                    "lei sfuggì",
+                    "egli sfuggì",
+                    "lui è sfuggito",
+                    "lei è sfuggita",
+                    "egli è sfuggito",
+                    "lui fu sfuggito",
+                    "lei fu sfuggita",
+                    "egli fu sfuggito",
+                    "lui coniugò",
+                    "lei coniugò",
+                    "egli coniugò",
+                    "lui ha coniugato",
+                    "lei ha coniugato",
+                    "egli ha coniugato",
+                    "lui ebbe coniugato",
+                    "lei ebbe coniugato",
+                    "egli ebbe coniugato",
+                    "lui flesse",
+                    "lei flesse",
+                    "egli flesse",
+                    "lui fletté",
+                    "lei fletté",
+                    "egli fletté",
+                    "lui ha flesso",
+                    "lei ha flesso",
+                    "egli ha flesso",
+                    "lui ebbe flesso",
+                    "lei ebbe flesso",
+                    "egli ebbe flesso",
+                    "lui sfumò",
+                    "lei sfumò",
+                    "egli sfumò",
+                    "lui è sfumato",
+                    "lei è sfumata",
+                    "egli è sfumato",
+                    "lui fu sfumato",
+                    "lei fu sfumata",
+                    "egli fu sfumato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "declinavĭmus",
+                "traduzioni": [
+                    "noi deviammo",
+                    "noi abbiamo deviato",
+                    "noi avemmo deviato",
+                    "noi allontanammo",
+                    "noi abbiamo allontanato",
+                    "noi avemmo allontanato",
+                    "noi evitammo",
+                    "noi abbiamo evitato",
+                    "noi avemmo evitato",
+                    "noi sfuggimmo",
+                    "noi siamo sfuggiti",
+                    "noi siamo sfuggite",
+                    "noi fummo sfuggiti",
+                    "noi fummo sfuggite",
+                    "noi coniugammo",
+                    "noi abbiamo coniugato",
+                    "noi avemmo coniugato",
+                    "noi flettemmo",
+                    "noi abbiamo flesso",
+                    "noi avemmo flesso",
+                    "noi sfumammo",
+                    "noi siamo sfumati",
+                    "noi siamo sfumate",
+                    "noi fummo sfumati",
+                    "noi fummo sfumate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "declinavistis",
+                "traduzioni": [
+                    "voi deviaste",
+                    "voi avete deviato",
+                    "voi aveste deviato",
+                    "voi allontanaste",
+                    "voi avete allontanato",
+                    "voi aveste allontanato",
+                    "voi evitaste",
+                    "voi avete evitato",
+                    "voi aveste evitato",
+                    "voi sfuggiste",
+                    "voi siete sfuggiti",
+                    "voi siete sfuggite",
+                    "voi foste sfuggiti",
+                    "voi foste sfuggite",
+                    "voi coniugaste",
+                    "voi avete coniugato",
+                    "voi aveste coniugato",
+                    "voi fletteste",
+                    "voi avete flesso",
+                    "voi aveste flesso",
+                    "voi sfumaste",
+                    "voi siete sfumati",
+                    "voi siete sfumate",
+                    "voi foste sfumati",
+                    "voi foste sfumate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "declinavēreunt, declinavēre",
+                "traduzioni": [
+                    "loro deviarono",
+                    "essi deviarono",
+                    "loro hanno deviato",
+                    "essi hanno deviato",
+                    "loro ebbero deviato",
+                    "essi ebbero deviato",
+                    "loro allontanarono",
+                    "essi allontanarono",
+                    "loro hanno allontanato",
+                    "essi hanno allontanato",
+                    "loro ebbero allontanato",
+                    "essi ebbero allontanato",
+                    "loro evitarono",
+                    "essi evitarono",
+                    "loro hanno evitato",
+                    "essi hanno evitato",
+                    "loro ebbero evitato",
+                    "essi ebbero evitato",
+                    "loro sfuggirono",
+                    "essi sfuggirono",
+                    "loro sono sfuggiti",
+                    "loro sono sfuggite",
+                    "essi sono sfuggiti",
+                    "loro furono sfuggiti",
+                    "loro furono sfuggite",
+                    "essi furono sfuggiti",
+                    "loro coniugarono",
+                    "essi coniugarono",
+                    "loro hanno coniugato",
+                    "essi hanno coniugato",
+                    "loro ebbero coniugato",
+                    "essi ebbero coniugato",
+                    "loro flessero",
+                    "essi flessero",
+                    "loro fletterono",
+                    "essi fletterono",
+                    "loro hanno flesso",
+                    "essi hanno flesso",
+                    "loro ebbero flesso",
+                    "essi ebbero flesso",
+                    "loro sfumarono",
+                    "essi sfumarono",
+                    "loro sono sfumati",
+                    "loro sono sfumate",
+                    "essi sono sfumati",
+                    "loro furono sfumati",
+                    "loro furono sfumate",
+                    "essi furono sfumati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "declinavĕram",
+                "traduzioni": [
+                    "io avevo deviato",
+                    "io avevo allontanato",
+                    "io avevo evitato",
+                    "io ero sfuggito",
+                    "io ero sfuggita",
+                    "io avevo coniugato",
+                    "io avevo flesso",
+                    "io ero sfumato",
+                    "io ero sfumata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "declinavĕras",
+                "traduzioni": [
+                    "tu avevi deviato",
+                    "tu avevi allontanato",
+                    "tu avevi evitato",
+                    "tu eri sfuggito",
+                    "tu eri sfuggita",
+                    "tu avevi coniugato",
+                    "tu avevi flesso",
+                    "tu eri sfumato",
+                    "tu eri sfumata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "declinavĕrat",
+                "traduzioni": [
+                    "lui aveva deviato",
+                    "lei aveva deviato",
+                    "egli aveva deviato",
+                    "lui aveva allontanato",
+                    "lei aveva allontanato",
+                    "egli aveva allontanato",
+                    "lui aveva evitato",
+                    "lei aveva evitato",
+                    "egli aveva evitato",
+                    "lui era sfuggito",
+                    "lei era sfuggita",
+                    "egli era sfuggito",
+                    "lui aveva coniugato",
+                    "lei aveva coniugato",
+                    "egli aveva coniugato",
+                    "lui aveva flesso",
+                    "lei aveva flesso",
+                    "egli aveva flesso",
+                    "lui era sfumato",
+                    "lei era sfumata",
+                    "egli era sfumato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "declinaverāmus",
+                "traduzioni": [
+                    "noi avevamo deviato",
+                    "noi avevamo allontanato",
+                    "noi avevamo evitato",
+                    "noi eravamo sfuggiti",
+                    "noi eravamo sfuggite",
+                    "noi avevamo coniugato",
+                    "noi avevamo flesso",
+                    "noi eravamo sfumati",
+                    "noi eravamo sfumate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "declinaverātis",
+                "traduzioni": [
+                    "voi avevate deviato",
+                    "voi avevate allontanato",
+                    "voi avevate evitato",
+                    "voi eravate sfuggiti",
+                    "voi eravate sfuggite",
+                    "voi avevate coniugato",
+                    "voi avevate flesso",
+                    "voi eravate sfumati",
+                    "voi eravate sfumate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "declinavĕrant",
+                "traduzioni": [
+                    "loro avevano deviato",
+                    "essi avevano deviato",
+                    "loro avevano allontanato",
+                    "essi avevano allontanato",
+                    "loro avevano evitato",
+                    "essi avevano evitato",
+                    "loro erano sfuggiti",
+                    "loro erano sfuggite",
+                    "essi erano sfuggiti",
+                    "loro avevano coniugato",
+                    "essi avevano coniugato",
+                    "loro avevano flesso",
+                    "essi avevano flesso",
+                    "loro erano sfumati",
+                    "loro erano sfumate",
+                    "essi erano sfumati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "declinavĕro",
+                "traduzioni": [
+                    "io avrò deviato",
+                    "io avrò allontanato",
+                    "io avrò evitato",
+                    "io sarò sfuggito",
+                    "io sarò sfuggita",
+                    "io avrò coniugato",
+                    "io avrò flesso",
+                    "io sarò sfumato",
+                    "io sarò sfumata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "declinavĕris",
+                "traduzioni": [
+                    "tu avrai deviato",
+                    "tu avrai allontanato",
+                    "tu avrai evitato",
+                    "tu sarai sfuggito",
+                    "tu sarai sfuggita",
+                    "tu avrai coniugato",
+                    "tu avrai flesso",
+                    "tu sarai sfumato",
+                    "tu sarai sfumata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "declinavĕrit",
+                "traduzioni": [
+                    "lui avrà deviato",
+                    "lei avrà deviato",
+                    "egli avrà deviato",
+                    "lui avrà allontanato",
+                    "lei avrà allontanato",
+                    "egli avrà allontanato",
+                    "lui avrà evitato",
+                    "lei avrà evitato",
+                    "egli avrà evitato",
+                    "lui sarà sfuggito",
+                    "lei sarà sfuggita",
+                    "egli sarà sfuggito",
+                    "lui avrà coniugato",
+                    "lei avrà coniugato",
+                    "egli avrà coniugato",
+                    "lui avrà flesso",
+                    "lei avrà flesso",
+                    "egli avrà flesso",
+                    "lui sarà sfumato",
+                    "lei sarà sfumata",
+                    "egli sarà sfumato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "declinaverĭmus",
+                "traduzioni": [
+                    "noi avremo deviato",
+                    "noi avremo allontanato",
+                    "noi avremo evitato",
+                    "noi saremo sfuggiti",
+                    "noi saremo sfuggite",
+                    "noi avremo coniugato",
+                    "noi avremo flesso",
+                    "noi saremo sfumati",
+                    "noi saremo sfumate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "declinaverĭtis",
+                "traduzioni": [
+                    "voi avrete deviato",
+                    "voi avrete allontanato",
+                    "voi avrete evitato",
+                    "voi sarete sfuggiti",
+                    "voi sarete sfuggite",
+                    "voi avrete coniugato",
+                    "voi avrete flesso",
+                    "voi sarete sfumati",
+                    "voi sarete sfumate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "declinavĕrint",
+                "traduzioni": [
+                    "loro avranno deviato",
+                    "essi avranno deviato",
+                    "loro avranno allontanato",
+                    "essi avranno allontanato",
+                    "loro avranno evitato",
+                    "essi avranno evitato",
+                    "loro saranno sfuggiti",
+                    "loro saranno sfuggite",
+                    "essi saranno sfuggiti",
+                    "loro avranno coniugato",
+                    "essi avranno coniugato",
+                    "loro avranno flesso",
+                    "essi avranno flesso",
+                    "loro saranno sfumati",
+                    "loro saranno sfumate",
+                    "essi saranno sfumati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēclīnem",
+                "traduzioni": [
+                    "che io devi",
+                    "che io allontani",
+                    "che io eviti",
+                    "che io sfugga",
+                    "che io coniughi",
+                    "che io fletta",
+                    "che io sfumi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēclīnes",
+                "traduzioni": [
+                    "che tu devi",
+                    "che tu allontani",
+                    "che tu eviti",
+                    "che tu sfugga",
+                    "che tu coniughi",
+                    "che tu fletta",
+                    "che tu sfumi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēclīnet",
+                "traduzioni": [
+                    "che lui devi",
+                    "che lei devi",
+                    "che egli devi",
+                    "che lui allontani",
+                    "che lei allontani",
+                    "che egli allontani",
+                    "che lui eviti",
+                    "che lei eviti",
+                    "che egli eviti",
+                    "che lui sfugga",
+                    "che lei sfugga",
+                    "che egli sfugga",
+                    "che lui coniughi",
+                    "che lei coniughi",
+                    "che egli coniughi",
+                    "che lui fletta",
+                    "che lei fletta",
+                    "che egli fletta",
+                    "che lui sfumi",
+                    "che lei sfumi",
+                    "che egli sfumi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēclīnēmus",
+                "traduzioni": [
+                    "che noi deviamo",
+                    "che noi allontaniamo",
+                    "che noi evitiamo",
+                    "che noi sfuggiamo",
+                    "che noi coniughiamo",
+                    "che noi flettiamo",
+                    "che noi sfumiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēclīnētis",
+                "traduzioni": [
+                    "che voi deviate",
+                    "che voi allontaniate",
+                    "che voi evitiate",
+                    "che voi sfuggiate",
+                    "che voi coniughiate",
+                    "che voi flettiate",
+                    "che voi sfumiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēclīnent",
+                "traduzioni": [
+                    "che loro devino",
+                    "che essi devino",
+                    "che loro allontanino",
+                    "che essi allontanino",
+                    "che loro evitino",
+                    "che essi evitino",
+                    "che loro sfuggano",
+                    "che essi sfuggano",
+                    "che loro coniughino",
+                    "che essi coniughino",
+                    "che loro flettano",
+                    "che essi flettano",
+                    "che loro sfumino",
+                    "che essi sfumino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēclīnārem",
+                "traduzioni": [
+                    "che io deviassi",
+                    "che io allontanassi",
+                    "che io evitassi",
+                    "che io sfuggissi",
+                    "che io coniugassi",
+                    "che io flettessi",
+                    "che io sfumassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēclīnāres",
+                "traduzioni": [
+                    "che tu deviassi",
+                    "che tu allontanassi",
+                    "che tu evitassi",
+                    "che tu sfuggissi",
+                    "che tu coniugassi",
+                    "che tu flettessi",
+                    "che tu sfumassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēclīnāret",
+                "traduzioni": [
+                    "che lui deviasse",
+                    "che lei deviasse",
+                    "che egli deviasse",
+                    "che lui allontanasse",
+                    "che lei allontanasse",
+                    "che egli allontanasse",
+                    "che lui evitasse",
+                    "che lei evitasse",
+                    "che egli evitasse",
+                    "che lui sfuggisse",
+                    "che lei sfuggisse",
+                    "che egli sfuggisse",
+                    "che lui coniugasse",
+                    "che lei coniugasse",
+                    "che egli coniugasse",
+                    "che lui flettesse",
+                    "che lei flettesse",
+                    "che egli flettesse",
+                    "che lui sfumasse",
+                    "che lei sfumasse",
+                    "che egli sfumasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēclīnarēmus",
+                "traduzioni": [
+                    "che noi deviassimo",
+                    "che noi allontanassimo",
+                    "che noi evitassimo",
+                    "che noi sfuggissimo",
+                    "che noi coniugassimo",
+                    "che noi flettessimo",
+                    "che noi sfumassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēclīnarētis",
+                "traduzioni": [
+                    "che voi deviaste",
+                    "che voi allontanaste",
+                    "che voi evitaste",
+                    "che voi sfuggiste",
+                    "che voi coniugaste",
+                    "che voi fletteste",
+                    "che voi sfumaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēclīnārent",
+                "traduzioni": [
+                    "che loro deviassero",
+                    "che essi deviassero",
+                    "che loro allontanassero",
+                    "che essi allontanassero",
+                    "che loro evitassero",
+                    "che essi evitassero",
+                    "che loro sfuggissero",
+                    "che essi sfuggissero",
+                    "che loro coniugassero",
+                    "che essi coniugassero",
+                    "che loro flettessero",
+                    "che essi flettessero",
+                    "che loro sfumassero",
+                    "che essi sfumassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "declinavĕrim",
+                "traduzioni": [
+                    "che io abbia deviato",
+                    "che io abbia allontanato",
+                    "che io abbia evitato",
+                    "che io sia sfuggito",
+                    "che io sia sfuggita",
+                    "che io abbia coniugato",
+                    "che io abbia flesso",
+                    "che io sia sfumato",
+                    "che io sia sfumata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "declinavĕris",
+                "traduzioni": [
+                    "che tu abbia deviato",
+                    "che tu abbia allontanato",
+                    "che tu abbia evitato",
+                    "che tu sia sfuggito",
+                    "che tu sia sfuggita",
+                    "che tu abbia coniugato",
+                    "che tu abbia flesso",
+                    "che tu sia sfumato",
+                    "che tu sia sfumata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "declinavĕrit",
+                "traduzioni": [
+                    "che lui abbia deviato",
+                    "che lei abbia deviato",
+                    "che egli abbia deviato",
+                    "che lui abbia allontanato",
+                    "che lei abbia allontanato",
+                    "che egli abbia allontanato",
+                    "che lui abbia evitato",
+                    "che lei abbia evitato",
+                    "che egli abbia evitato",
+                    "che lui sia sfuggito",
+                    "che lei sia sfuggita",
+                    "che egli sia sfuggito",
+                    "che lui abbia coniugato",
+                    "che lei abbia coniugato",
+                    "che egli abbia coniugato",
+                    "che lui abbia flesso",
+                    "che lei abbia flesso",
+                    "che egli abbia flesso",
+                    "che lui sia sfumato",
+                    "che lei sia sfumata",
+                    "che egli sia sfumato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "declinaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo deviato",
+                    "che noi abbiamo allontanato",
+                    "che noi abbiamo evitato",
+                    "che noi siamo sfuggiti",
+                    "che noi siamo sfuggite",
+                    "che noi abbiamo coniugato",
+                    "che noi abbiamo flesso",
+                    "che noi siamo sfumati",
+                    "che noi siamo sfumate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "declinaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate deviato",
+                    "che voi abbiate allontanato",
+                    "che voi abbiate evitato",
+                    "che voi siate sfuggiti",
+                    "che voi siate sfuggite",
+                    "che voi abbiate coniugato",
+                    "che voi abbiate flesso",
+                    "che voi siate sfumati",
+                    "che voi siate sfumate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "declinavĕrint",
+                "traduzioni": [
+                    "che loro abbiano deviato",
+                    "che essi abbiano deviato",
+                    "che loro abbiano allontanato",
+                    "che essi abbiano allontanato",
+                    "che loro abbiano evitato",
+                    "che essi abbiano evitato",
+                    "che loro siano sfuggiti",
+                    "che loro siano sfuggite",
+                    "che essi siano sfuggiti",
+                    "che loro abbiano coniugato",
+                    "che essi abbiano coniugato",
+                    "che loro abbiano flesso",
+                    "che essi abbiano flesso",
+                    "che loro siano sfumati",
+                    "che loro siano sfumate",
+                    "che essi siano sfumati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "declinavissem",
+                "traduzioni": [
+                    "che io avessi deviato",
+                    "che io avessi allontanato",
+                    "che io avessi evitato",
+                    "che io fossi sfuggito",
+                    "che io fossi sfuggita",
+                    "che io avessi coniugato",
+                    "che io avessi flesso",
+                    "che io fossi sfumato",
+                    "che io fossi sfumata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "declinavisses",
+                "traduzioni": [
+                    "che tu avessi deviato",
+                    "che tu avessi allontanato",
+                    "che tu avessi evitato",
+                    "che tu fossi sfuggito",
+                    "che tu fossi sfuggita",
+                    "che tu avessi coniugato",
+                    "che tu avessi flesso",
+                    "che tu fossi sfumato",
+                    "che tu fossi sfumata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "declinavisset",
+                "traduzioni": [
+                    "che lui avesse deviato",
+                    "che lei avesse deviato",
+                    "che egli avesse deviato",
+                    "che lui avesse allontanato",
+                    "che lei avesse allontanato",
+                    "che egli avesse allontanato",
+                    "che lui avesse evitato",
+                    "che lei avesse evitato",
+                    "che egli avesse evitato",
+                    "che lui fosse sfuggito",
+                    "che lei fosse sfuggita",
+                    "che egli fosse sfuggito",
+                    "che lui avesse coniugato",
+                    "che lei avesse coniugato",
+                    "che egli avesse coniugato",
+                    "che lui avesse flesso",
+                    "che lei avesse flesso",
+                    "che egli avesse flesso",
+                    "che lui fosse sfumato",
+                    "che lei fosse sfumata",
+                    "che egli fosse sfumato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "declinavissēmus",
+                "traduzioni": [
+                    "che noi avessimo deviato",
+                    "che noi avessimo allontanato",
+                    "che noi avessimo evitato",
+                    "che noi fossimo sfuggiti",
+                    "che noi fossimo sfuggite",
+                    "che noi avessimo coniugato",
+                    "che noi avessimo flesso",
+                    "che noi fossimo sfumati",
+                    "che noi fossimo sfumate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "declinavissētis",
+                "traduzioni": [
+                    "che voi aveste deviato",
+                    "che voi aveste allontanato",
+                    "che voi aveste evitato",
+                    "che voi foste sfuggiti",
+                    "che voi foste sfuggite",
+                    "che voi aveste coniugato",
+                    "che voi aveste flesso",
+                    "che voi foste sfumati",
+                    "che voi foste sfumate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "declinavissent",
+                "traduzioni": [
+                    "che loro avessero deviato",
+                    "che essi avessero deviato",
+                    "che loro avessero allontanato",
+                    "che essi avessero allontanato",
+                    "che loro avessero evitato",
+                    "che essi avessero evitato",
+                    "che loro fossero sfuggiti",
+                    "che loro fossero sfuggite",
+                    "che essi fossero sfuggiti",
+                    "che loro avessero coniugato",
+                    "che essi avessero coniugato",
+                    "che loro avessero flesso",
+                    "che essi avessero flesso",
+                    "che loro fossero sfumati",
+                    "che loro fossero sfumate",
+                    "che essi fossero sfumati"
+                ]
+            }
+        ]
+    }
+}

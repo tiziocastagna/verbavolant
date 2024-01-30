@@ -1,0 +1,612 @@
+{
+    "identifier": "DEPRETIO",
+    "conuigazione": "1",
+    "translation": [
+        "deprezzare",
+        "svalutare"
+    ],
+    "valid_translations": [
+        "deprezzare",
+        "svalutare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēprĕtĭo",
+                "traduzioni": [
+                    "io deprezzo",
+                    "io svaluto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēprĕtĭas",
+                "traduzioni": [
+                    "tu deprezzi",
+                    "tu svaluti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēprĕtĭat",
+                "traduzioni": [
+                    "lui deprezza",
+                    "lei deprezza",
+                    "egli deprezza",
+                    "lui svaluta",
+                    "lei svaluta",
+                    "egli svaluta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēprĕtĭāmus",
+                "traduzioni": [
+                    "noi deprezziamo",
+                    "noi svalutiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēprĕtĭātis",
+                "traduzioni": [
+                    "voi deprezzate",
+                    "voi svalutate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēprĕtĭant",
+                "traduzioni": [
+                    "loro deprezzano",
+                    "essi deprezzano",
+                    "loro svalutano",
+                    "essi svalutano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēprĕtĭābam",
+                "traduzioni": [
+                    "io deprezzavo",
+                    "io svalutavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēprĕtĭābas",
+                "traduzioni": [
+                    "tu deprezzavi",
+                    "tu svalutavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēprĕtĭābat",
+                "traduzioni": [
+                    "lui deprezzava",
+                    "lei deprezzava",
+                    "egli deprezzava",
+                    "lui svalutava",
+                    "lei svalutava",
+                    "egli svalutava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēprĕtĭabāmus",
+                "traduzioni": [
+                    "noi deprezzavamo",
+                    "noi svalutavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēprĕtĭabātis",
+                "traduzioni": [
+                    "voi deprezzavate",
+                    "voi svalutavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēprĕtĭābant",
+                "traduzioni": [
+                    "loro deprezzavano",
+                    "essi deprezzavano",
+                    "loro svalutavano",
+                    "essi svalutavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēprĕtĭābo",
+                "traduzioni": [
+                    "io deprezzerò",
+                    "io svaluterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēprĕtĭābis",
+                "traduzioni": [
+                    "tu deprezzerai",
+                    "tu svaluterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēprĕtĭābit",
+                "traduzioni": [
+                    "lui deprezzerà",
+                    "lei deprezzerà",
+                    "egli deprezzerà",
+                    "lui svaluterà",
+                    "lei svaluterà",
+                    "egli svaluterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēprĕtĭabĭmus",
+                "traduzioni": [
+                    "noi deprezzeremo",
+                    "noi svaluteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēprĕtĭabĭtis",
+                "traduzioni": [
+                    "voi deprezzerete",
+                    "voi svaluterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēprĕtĭābunt",
+                "traduzioni": [
+                    "loro deprezzeranno",
+                    "essi deprezzeranno",
+                    "loro svaluteranno",
+                    "essi svaluteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "depretiavi",
+                "traduzioni": [
+                    "io deprezzai",
+                    "io ho deprezzato",
+                    "io ebbi deprezzato",
+                    "io svalutai",
+                    "io ho svalutato",
+                    "io ebbi svalutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "depretiavisti",
+                "traduzioni": [
+                    "tu deprezzasti",
+                    "tu hai deprezzato",
+                    "tu avesti deprezzato",
+                    "tu svalutasti",
+                    "tu hai svalutato",
+                    "tu avesti svalutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "depretiavit",
+                "traduzioni": [
+                    "lui deprezzò",
+                    "lei deprezzò",
+                    "egli deprezzò",
+                    "lui ha deprezzato",
+                    "lei ha deprezzato",
+                    "egli ha deprezzato",
+                    "lui ebbe deprezzato",
+                    "lei ebbe deprezzato",
+                    "egli ebbe deprezzato",
+                    "lui svalutò",
+                    "lei svalutò",
+                    "egli svalutò",
+                    "lui ha svalutato",
+                    "lei ha svalutato",
+                    "egli ha svalutato",
+                    "lui ebbe svalutato",
+                    "lei ebbe svalutato",
+                    "egli ebbe svalutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "depretiavĭmus",
+                "traduzioni": [
+                    "noi deprezzammo",
+                    "noi abbiamo deprezzato",
+                    "noi avemmo deprezzato",
+                    "noi svalutammo",
+                    "noi abbiamo svalutato",
+                    "noi avemmo svalutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "depretiavistis",
+                "traduzioni": [
+                    "voi deprezzaste",
+                    "voi avete deprezzato",
+                    "voi aveste deprezzato",
+                    "voi svalutaste",
+                    "voi avete svalutato",
+                    "voi aveste svalutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "depretiavērunt, depretiavēre",
+                "traduzioni": [
+                    "loro deprezzarono",
+                    "essi deprezzarono",
+                    "loro hanno deprezzato",
+                    "essi hanno deprezzato",
+                    "loro ebbero deprezzato",
+                    "essi ebbero deprezzato",
+                    "loro svalutarono",
+                    "essi svalutarono",
+                    "loro hanno svalutato",
+                    "essi hanno svalutato",
+                    "loro ebbero svalutato",
+                    "essi ebbero svalutato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "depretiavĕram",
+                "traduzioni": [
+                    "io avevo deprezzato",
+                    "io avevo svalutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "depretiavĕras",
+                "traduzioni": [
+                    "tu avevi deprezzato",
+                    "tu avevi svalutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "depretiavĕrat",
+                "traduzioni": [
+                    "lui aveva deprezzato",
+                    "lei aveva deprezzato",
+                    "egli aveva deprezzato",
+                    "lui aveva svalutato",
+                    "lei aveva svalutato",
+                    "egli aveva svalutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "depretiaverāmus",
+                "traduzioni": [
+                    "noi avevamo deprezzato",
+                    "noi avevamo svalutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "depretiaverātis",
+                "traduzioni": [
+                    "voi avevate deprezzato",
+                    "voi avevate svalutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "depretiavĕrant",
+                "traduzioni": [
+                    "loro avevano deprezzato",
+                    "essi avevano deprezzato",
+                    "loro avevano svalutato",
+                    "essi avevano svalutato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "depretiavĕro",
+                "traduzioni": [
+                    "io avrò deprezzato",
+                    "io avrò svalutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "depretiavĕris",
+                "traduzioni": [
+                    "tu avrai deprezzato",
+                    "tu avrai svalutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "depretiavĕrit",
+                "traduzioni": [
+                    "lui avrà deprezzato",
+                    "lei avrà deprezzato",
+                    "egli avrà deprezzato",
+                    "lui avrà svalutato",
+                    "lei avrà svalutato",
+                    "egli avrà svalutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "depretiaverĭmus",
+                "traduzioni": [
+                    "noi avremo deprezzato",
+                    "noi avremo svalutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "depretiaverĭtis",
+                "traduzioni": [
+                    "voi avrete deprezzato",
+                    "voi avrete svalutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "depretiavĕrint",
+                "traduzioni": [
+                    "loro avranno deprezzato",
+                    "essi avranno deprezzato",
+                    "loro avranno svalutato",
+                    "essi avranno svalutato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēprĕtĭem",
+                "traduzioni": [
+                    "che io deprezzi",
+                    "che io svaluti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēprĕtĭes",
+                "traduzioni": [
+                    "che tu deprezzi",
+                    "che tu svaluti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēprĕtĭet",
+                "traduzioni": [
+                    "che lui deprezzi",
+                    "che lei deprezzi",
+                    "che egli deprezzi",
+                    "che lui svaluti",
+                    "che lei svaluti",
+                    "che egli svaluti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēprĕtĭēmus",
+                "traduzioni": [
+                    "che noi deprezziamo",
+                    "che noi svalutiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēprĕtĭētis",
+                "traduzioni": [
+                    "che voi deprezziate",
+                    "che voi svalutiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēprĕtĭent",
+                "traduzioni": [
+                    "che loro deprezzino",
+                    "che essi deprezzino",
+                    "che loro svalutino",
+                    "che essi svalutino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēprĕtĭārem",
+                "traduzioni": [
+                    "che io deprezzassi",
+                    "che io svalutassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēprĕtĭāres",
+                "traduzioni": [
+                    "che tu deprezzassi",
+                    "che tu svalutassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēprĕtĭāret",
+                "traduzioni": [
+                    "che lui deprezzasse",
+                    "che lei deprezzasse",
+                    "che egli deprezzasse",
+                    "che lui svalutasse",
+                    "che lei svalutasse",
+                    "che egli svalutasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēprĕtĭarēmus",
+                "traduzioni": [
+                    "che noi deprezzassimo",
+                    "che noi svalutassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēprĕtĭarētis",
+                "traduzioni": [
+                    "che voi deprezzaste",
+                    "che voi svalutaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēprĕtĭārent",
+                "traduzioni": [
+                    "che loro deprezzassero",
+                    "che essi deprezzassero",
+                    "che loro svalutassero",
+                    "che essi svalutassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "depretiavĕrim",
+                "traduzioni": [
+                    "che io abbia deprezzato",
+                    "che io abbia svalutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "depretiavĕris",
+                "traduzioni": [
+                    "che tu abbia deprezzato",
+                    "che tu abbia svalutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "depretiavĕrit",
+                "traduzioni": [
+                    "che lui abbia deprezzato",
+                    "che lei abbia deprezzato",
+                    "che egli abbia deprezzato",
+                    "che lui abbia svalutato",
+                    "che lei abbia svalutato",
+                    "che egli abbia svalutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "depretiaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo deprezzato",
+                    "che noi abbiamo svalutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "depretiaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate deprezzato",
+                    "che voi abbiate svalutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "depretiavĕrint",
+                "traduzioni": [
+                    "che loro abbiano deprezzato",
+                    "che essi abbiano deprezzato",
+                    "che loro abbiano svalutato",
+                    "che essi abbiano svalutato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "depretiavissem",
+                "traduzioni": [
+                    "che io avessi deprezzato",
+                    "che io avessi svalutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "depretiavisses",
+                "traduzioni": [
+                    "che tu avessi deprezzato",
+                    "che tu avessi svalutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "depretiavisset",
+                "traduzioni": [
+                    "che lui avesse deprezzato",
+                    "che lei avesse deprezzato",
+                    "che egli avesse deprezzato",
+                    "che lui avesse svalutato",
+                    "che lei avesse svalutato",
+                    "che egli avesse svalutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "depretiavissēmus",
+                "traduzioni": [
+                    "che noi avessimo deprezzato",
+                    "che noi avessimo svalutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "depretiavissētis",
+                "traduzioni": [
+                    "che voi aveste deprezzato",
+                    "che voi aveste svalutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "depretiavissent",
+                "traduzioni": [
+                    "che loro avessero deprezzato",
+                    "che essi avessero deprezzato",
+                    "che loro avessero svalutato",
+                    "che essi avessero svalutato"
+                ]
+            }
+        ]
+    }
+}

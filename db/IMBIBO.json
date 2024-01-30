@@ -1,0 +1,627 @@
+{
+    "identifier": "IMBIBO",
+    "conuigazione": "3",
+    "translation": [
+        "bere",
+        "(in senso figurato) cogitare",
+        "concepire"
+    ],
+    "valid_translations": [
+        "bere",
+        "concepire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "imbĭbo",
+                "traduzioni": [
+                    "io bevo",
+                    "io concepisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imbĭbis",
+                "traduzioni": [
+                    "tu bevi",
+                    "tu concepisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imbĭbit",
+                "traduzioni": [
+                    "lui beve",
+                    "lei beve",
+                    "egli beve",
+                    "lui concepisce",
+                    "lei concepisce",
+                    "egli concepisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imbĭbĭmus",
+                "traduzioni": [
+                    "noi beviamo",
+                    "noi concepiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imbĭbĭtis",
+                "traduzioni": [
+                    "voi bevete",
+                    "voi concepite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imbĭbunt",
+                "traduzioni": [
+                    "loro bevono",
+                    "essi bevono",
+                    "loro concepiscono",
+                    "essi concepiscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "imbĭbēbam",
+                "traduzioni": [
+                    "io bevevo",
+                    "io concepivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imbĭbēbas",
+                "traduzioni": [
+                    "tu bevevi",
+                    "tu concepivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imbĭbēbat",
+                "traduzioni": [
+                    "lui beveva",
+                    "lei beveva",
+                    "egli beveva",
+                    "lui concepiva",
+                    "lei concepiva",
+                    "egli concepiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imbĭbebāmus",
+                "traduzioni": [
+                    "noi bevevamo",
+                    "noi concepivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imbĭbebātis",
+                "traduzioni": [
+                    "voi bevevate",
+                    "voi concepivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imbĭbēbant",
+                "traduzioni": [
+                    "loro bevevano",
+                    "essi bevevano",
+                    "loro concepivano",
+                    "essi concepivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "imbĭbam",
+                "traduzioni": [
+                    "io berrò",
+                    "io beverò",
+                    "io concepirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imbĭbes",
+                "traduzioni": [
+                    "tu berrai",
+                    "tu beverai",
+                    "tu concepirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imbĭbet",
+                "traduzioni": [
+                    "lui berrà",
+                    "lei berrà",
+                    "egli berrà",
+                    "lui beverà",
+                    "lei beverà",
+                    "egli beverà",
+                    "lui concepirà",
+                    "lei concepirà",
+                    "egli concepirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imbĭbēmus",
+                "traduzioni": [
+                    "noi berremo",
+                    "noi beveremo",
+                    "noi concepiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imbĭbētis",
+                "traduzioni": [
+                    "voi berrete",
+                    "voi beverete",
+                    "voi concepirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imbĭbent",
+                "traduzioni": [
+                    "loro berranno",
+                    "essi berranno",
+                    "loro beveranno",
+                    "essi beveranno",
+                    "loro concepiranno",
+                    "essi concepiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "imbibi",
+                "traduzioni": [
+                    "io bevvi",
+                    "io bevetti",
+                    "io bevei",
+                    "io ho bevuto",
+                    "io ebbi bevuto",
+                    "io concepii",
+                    "io ho concepito",
+                    "io ebbi concepito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imbibisti",
+                "traduzioni": [
+                    "tu bevesti",
+                    "tu hai bevuto",
+                    "tu avesti bevuto",
+                    "tu concepisti",
+                    "tu hai concepito",
+                    "tu avesti concepito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imbibit",
+                "traduzioni": [
+                    "lui bevve",
+                    "lei bevve",
+                    "egli bevve",
+                    "lui bevette",
+                    "lei bevette",
+                    "egli bevette",
+                    "lui ha bevuto",
+                    "lei ha bevuto",
+                    "egli ha bevuto",
+                    "lui ebbe bevuto",
+                    "lei ebbe bevuto",
+                    "egli ebbe bevuto",
+                    "lui concepì",
+                    "lei concepì",
+                    "egli concepì",
+                    "lui ha concepito",
+                    "lei ha concepito",
+                    "egli ha concepito",
+                    "lui ebbe concepito",
+                    "lei ebbe concepito",
+                    "egli ebbe concepito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imbibĭmus",
+                "traduzioni": [
+                    "noi bevemmo",
+                    "noi abbiamo bevuto",
+                    "noi avemmo bevuto",
+                    "noi concepimmo",
+                    "noi abbiamo concepito",
+                    "noi avemmo concepito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imbibistis",
+                "traduzioni": [
+                    "voi beveste",
+                    "voi avete bevuto",
+                    "voi aveste bevuto",
+                    "voi concepiste",
+                    "voi avete concepito",
+                    "voi aveste concepito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imbibērunt, imbibēre",
+                "traduzioni": [
+                    "loro bevvero",
+                    "essi bevvero",
+                    "loro hanno bevuto",
+                    "essi hanno bevuto",
+                    "loro ebbero bevuto",
+                    "essi ebbero bevuto",
+                    "loro concepirono",
+                    "essi concepirono",
+                    "loro hanno concepito",
+                    "essi hanno concepito",
+                    "loro ebbero concepito",
+                    "essi ebbero concepito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "imbibĕram",
+                "traduzioni": [
+                    "io avevo bevuto",
+                    "io avevo concepito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imbibĕras",
+                "traduzioni": [
+                    "tu avevi bevuto",
+                    "tu avevi concepito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imbibĕrat",
+                "traduzioni": [
+                    "lui aveva bevuto",
+                    "lei aveva bevuto",
+                    "egli aveva bevuto",
+                    "lui aveva concepito",
+                    "lei aveva concepito",
+                    "egli aveva concepito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imbiberāmus",
+                "traduzioni": [
+                    "noi avevamo bevuto",
+                    "noi avevamo concepito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imbiberātis",
+                "traduzioni": [
+                    "voi avevate bevuto",
+                    "voi avevate concepito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imbibĕrant",
+                "traduzioni": [
+                    "loro avevano bevuto",
+                    "essi avevano bevuto",
+                    "loro avevano concepito",
+                    "essi avevano concepito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "imbibĕro",
+                "traduzioni": [
+                    "io avrò bevuto",
+                    "io avrò concepito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imbibĕris",
+                "traduzioni": [
+                    "tu avrai bevuto",
+                    "tu avrai concepito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imbibĕrit",
+                "traduzioni": [
+                    "lui avrà bevuto",
+                    "lei avrà bevuto",
+                    "egli avrà bevuto",
+                    "lui avrà concepito",
+                    "lei avrà concepito",
+                    "egli avrà concepito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imbiberĭmus",
+                "traduzioni": [
+                    "noi avremo bevuto",
+                    "noi avremo concepito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imbiberĭtis",
+                "traduzioni": [
+                    "voi avrete bevuto",
+                    "voi avrete concepito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imbibĕrint",
+                "traduzioni": [
+                    "loro avranno bevuto",
+                    "essi avranno bevuto",
+                    "loro avranno concepito",
+                    "essi avranno concepito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "imbĭbam",
+                "traduzioni": [
+                    "che io beva",
+                    "che io concepisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imbĭbas",
+                "traduzioni": [
+                    "che tu beva",
+                    "che tu concepisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imbĭbat",
+                "traduzioni": [
+                    "che lui beva",
+                    "che lei beva",
+                    "che egli beva",
+                    "che lui concepisca",
+                    "che lei concepisca",
+                    "che egli concepisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imbĭbāmus",
+                "traduzioni": [
+                    "che noi beviamo",
+                    "che noi concepiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imbĭbātis",
+                "traduzioni": [
+                    "che voi beviate",
+                    "che voi concepiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imbĭbant",
+                "traduzioni": [
+                    "che loro bevano",
+                    "che essi bevano",
+                    "che loro concepiscano",
+                    "che essi concepiscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "imbĭbĕrem",
+                "traduzioni": [
+                    "che io bevessi",
+                    "che io concepissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imbĭbĕres",
+                "traduzioni": [
+                    "che tu bevessi",
+                    "che tu concepissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imbĭbĕret",
+                "traduzioni": [
+                    "che lui bevesse",
+                    "che lei bevesse",
+                    "che egli bevesse",
+                    "che lui concepisse",
+                    "che lei concepisse",
+                    "che egli concepisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imbĭberēmus",
+                "traduzioni": [
+                    "che noi bevessimo",
+                    "che noi concepissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imbĭberētis",
+                "traduzioni": [
+                    "che voi beveste",
+                    "che voi concepiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imbĭbĕrent",
+                "traduzioni": [
+                    "che loro bevessero",
+                    "che essi bevessero",
+                    "che loro concepissero",
+                    "che essi concepissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "imbibĕrim",
+                "traduzioni": [
+                    "che io abbia bevuto",
+                    "che io abbia concepito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imbibĕris",
+                "traduzioni": [
+                    "che tu abbia bevuto",
+                    "che tu abbia concepito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imbibĕrit",
+                "traduzioni": [
+                    "che lui abbia bevuto",
+                    "che lei abbia bevuto",
+                    "che egli abbia bevuto",
+                    "che lui abbia concepito",
+                    "che lei abbia concepito",
+                    "che egli abbia concepito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imbiberĭmus",
+                "traduzioni": [
+                    "che noi abbiamo bevuto",
+                    "che noi abbiamo concepito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imbiberĭtis",
+                "traduzioni": [
+                    "che voi abbiate bevuto",
+                    "che voi abbiate concepito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imbibĕrint",
+                "traduzioni": [
+                    "che loro abbiano bevuto",
+                    "che essi abbiano bevuto",
+                    "che loro abbiano concepito",
+                    "che essi abbiano concepito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "imbibissem",
+                "traduzioni": [
+                    "che io avessi bevuto",
+                    "che io avessi concepito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imbibisses",
+                "traduzioni": [
+                    "che tu avessi bevuto",
+                    "che tu avessi concepito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imbibisset",
+                "traduzioni": [
+                    "che lui avesse bevuto",
+                    "che lei avesse bevuto",
+                    "che egli avesse bevuto",
+                    "che lui avesse concepito",
+                    "che lei avesse concepito",
+                    "che egli avesse concepito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imbibissēmus",
+                "traduzioni": [
+                    "che noi avessimo bevuto",
+                    "che noi avessimo concepito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imbibissētis",
+                "traduzioni": [
+                    "che voi aveste bevuto",
+                    "che voi aveste concepito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imbibissent",
+                "traduzioni": [
+                    "che loro avessero bevuto",
+                    "che essi avessero bevuto",
+                    "che loro avessero concepito",
+                    "che essi avessero concepito"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,642 @@
+{
+    "identifier": "ADLIDO",
+    "conuigazione": "3",
+    "translation": [
+        "danneggiare",
+        "rovinare"
+    ],
+    "valid_translations": [
+        "danneggiare",
+        "rovinare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adlīdo",
+                "traduzioni": [
+                    "io danneggio",
+                    "io rovino"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adlīdis",
+                "traduzioni": [
+                    "tu danneggi",
+                    "tu rovini"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adlīdit",
+                "traduzioni": [
+                    "lui danneggia",
+                    "lei danneggia",
+                    "egli danneggia",
+                    "lui rovina",
+                    "lei rovina",
+                    "egli rovina"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adlīdĭmus",
+                "traduzioni": [
+                    "noi danneggiamo",
+                    "noi roviniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adlīdĭtis",
+                "traduzioni": [
+                    "voi danneggiate",
+                    "voi rovinate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adlīdunt",
+                "traduzioni": [
+                    "loro danneggiano",
+                    "essi danneggiano",
+                    "loro rovinano",
+                    "essi rovinano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adlīdēbam",
+                "traduzioni": [
+                    "io danneggiavo",
+                    "io rovinavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adlīdēbas",
+                "traduzioni": [
+                    "tu danneggiavi",
+                    "tu rovinavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adlīdēbat",
+                "traduzioni": [
+                    "lui danneggiava",
+                    "lei danneggiava",
+                    "egli danneggiava",
+                    "lui rovinava",
+                    "lei rovinava",
+                    "egli rovinava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adlīdebāmus",
+                "traduzioni": [
+                    "noi danneggiavamo",
+                    "noi rovinavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adlīdebātis",
+                "traduzioni": [
+                    "voi danneggiavate",
+                    "voi rovinavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adlīdēbant",
+                "traduzioni": [
+                    "loro danneggiavano",
+                    "essi danneggiavano",
+                    "loro rovinavano",
+                    "essi rovinavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adlīdam",
+                "traduzioni": [
+                    "io danneggerò",
+                    "io rovinerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adlīdes",
+                "traduzioni": [
+                    "tu danneggerai",
+                    "tu rovinerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adlīdet",
+                "traduzioni": [
+                    "lui danneggerà",
+                    "lei danneggerà",
+                    "egli danneggerà",
+                    "lui rovinerà",
+                    "lei rovinerà",
+                    "egli rovinerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adlīdēmus",
+                "traduzioni": [
+                    "noi danneggeremo",
+                    "noi rovineremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adlīdētis",
+                "traduzioni": [
+                    "voi danneggerete",
+                    "voi rovinerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adlīdent",
+                "traduzioni": [
+                    "loro danneggeranno",
+                    "essi danneggeranno",
+                    "loro rovineranno",
+                    "essi rovineranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adlisi",
+                "traduzioni": [
+                    "io danneggiai",
+                    "io ho danneggiato",
+                    "io ebbi danneggiato",
+                    "io rovinai",
+                    "io sono rovinato",
+                    "io sono rovinata",
+                    "io fui rovinato",
+                    "io fui rovinata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adlisisti",
+                "traduzioni": [
+                    "tu danneggiasti",
+                    "tu hai danneggiato",
+                    "tu avesti danneggiato",
+                    "tu rovinasti",
+                    "tu sei rovinato",
+                    "tu sei rovinata",
+                    "tu fosti rovinato",
+                    "tu fosti rovinata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adlisit",
+                "traduzioni": [
+                    "lui danneggiò",
+                    "lei danneggiò",
+                    "egli danneggiò",
+                    "lui ha danneggiato",
+                    "lei ha danneggiato",
+                    "egli ha danneggiato",
+                    "lui ebbe danneggiato",
+                    "lei ebbe danneggiato",
+                    "egli ebbe danneggiato",
+                    "lui rovinò",
+                    "lei rovinò",
+                    "egli rovinò",
+                    "lui è rovinato",
+                    "lei è rovinata",
+                    "egli è rovinato",
+                    "lui fu rovinato",
+                    "lei fu rovinata",
+                    "egli fu rovinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adlisĭmus",
+                "traduzioni": [
+                    "noi danneggiammo",
+                    "noi abbiamo danneggiato",
+                    "noi avemmo danneggiato",
+                    "noi rovinammo",
+                    "noi siamo rovinati",
+                    "noi siamo rovinate",
+                    "noi fummo rovinati",
+                    "noi fummo rovinate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adlisistis",
+                "traduzioni": [
+                    "voi danneggiaste",
+                    "voi avete danneggiato",
+                    "voi aveste danneggiato",
+                    "voi rovinaste",
+                    "voi siete rovinati",
+                    "voi siete rovinate",
+                    "voi foste rovinati",
+                    "voi foste rovinate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adlisērunt, adlisēre",
+                "traduzioni": [
+                    "loro danneggiarono",
+                    "essi danneggiarono",
+                    "loro hanno danneggiato",
+                    "essi hanno danneggiato",
+                    "loro ebbero danneggiato",
+                    "essi ebbero danneggiato",
+                    "loro rovinarono",
+                    "essi rovinarono",
+                    "loro sono rovinati",
+                    "loro sono rovinate",
+                    "essi sono rovinati",
+                    "loro furono rovinati",
+                    "loro furono rovinate",
+                    "essi furono rovinati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adlisĕram",
+                "traduzioni": [
+                    "io avevo danneggiato",
+                    "io ero rovinato",
+                    "io ero rovinata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adlisĕras",
+                "traduzioni": [
+                    "tu avevi danneggiato",
+                    "tu eri rovinato",
+                    "tu eri rovinata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adlisĕrat",
+                "traduzioni": [
+                    "lui aveva danneggiato",
+                    "lei aveva danneggiato",
+                    "egli aveva danneggiato",
+                    "lui era rovinato",
+                    "lei era rovinata",
+                    "egli era rovinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adliserāmus",
+                "traduzioni": [
+                    "noi avevamo danneggiato",
+                    "noi eravamo rovinati",
+                    "noi eravamo rovinate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adliserātis",
+                "traduzioni": [
+                    "voi avevate danneggiato",
+                    "voi eravate rovinati",
+                    "voi eravate rovinate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adlisĕrant",
+                "traduzioni": [
+                    "loro avevano danneggiato",
+                    "essi avevano danneggiato",
+                    "loro erano rovinati",
+                    "loro erano rovinate",
+                    "essi erano rovinati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adlisĕro",
+                "traduzioni": [
+                    "io avrò danneggiato",
+                    "io sarò rovinato",
+                    "io sarò rovinata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adlisĕris",
+                "traduzioni": [
+                    "tu avrai danneggiato",
+                    "tu sarai rovinato",
+                    "tu sarai rovinata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adlisĕrit",
+                "traduzioni": [
+                    "lui avrà danneggiato",
+                    "lei avrà danneggiato",
+                    "egli avrà danneggiato",
+                    "lui sarà rovinato",
+                    "lei sarà rovinata",
+                    "egli sarà rovinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adliserĭmus",
+                "traduzioni": [
+                    "noi avremo danneggiato",
+                    "noi saremo rovinati",
+                    "noi saremo rovinate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adliserĭtis",
+                "traduzioni": [
+                    "voi avrete danneggiato",
+                    "voi sarete rovinati",
+                    "voi sarete rovinate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adlisĕrint",
+                "traduzioni": [
+                    "loro avranno danneggiato",
+                    "essi avranno danneggiato",
+                    "loro saranno rovinati",
+                    "loro saranno rovinate",
+                    "essi saranno rovinati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adlīdam",
+                "traduzioni": [
+                    "che io danneggi",
+                    "che io rovini"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adlīdas",
+                "traduzioni": [
+                    "che tu danneggi",
+                    "che tu rovini"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adlīdat",
+                "traduzioni": [
+                    "che lui danneggi",
+                    "che lei danneggi",
+                    "che egli danneggi",
+                    "che lui rovini",
+                    "che lei rovini",
+                    "che egli rovini"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adlīdāmus",
+                "traduzioni": [
+                    "che noi danneggiamo",
+                    "che noi roviniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adlīdātis",
+                "traduzioni": [
+                    "che voi danneggiate",
+                    "che voi roviniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adlīdant",
+                "traduzioni": [
+                    "che loro danneggino",
+                    "che essi danneggino",
+                    "che loro rovinino",
+                    "che essi rovinino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adlīdĕrem",
+                "traduzioni": [
+                    "che io danneggiassi",
+                    "che io rovinassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adlīdĕres",
+                "traduzioni": [
+                    "che tu danneggiassi",
+                    "che tu rovinassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adlīdĕret",
+                "traduzioni": [
+                    "che lui danneggiasse",
+                    "che lei danneggiasse",
+                    "che egli danneggiasse",
+                    "che lui rovinasse",
+                    "che lei rovinasse",
+                    "che egli rovinasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adlīderēmus",
+                "traduzioni": [
+                    "che noi danneggiassimo",
+                    "che noi rovinassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adlīderētis",
+                "traduzioni": [
+                    "che voi danneggiaste",
+                    "che voi rovinaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adlīdĕrent",
+                "traduzioni": [
+                    "che loro danneggiassero",
+                    "che essi danneggiassero",
+                    "che loro rovinassero",
+                    "che essi rovinassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adlisĕrim",
+                "traduzioni": [
+                    "che io abbia danneggiato",
+                    "che io sia rovinato",
+                    "che io sia rovinata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adlisĕris",
+                "traduzioni": [
+                    "che tu abbia danneggiato",
+                    "che tu sia rovinato",
+                    "che tu sia rovinata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adlisĕrit",
+                "traduzioni": [
+                    "che lui abbia danneggiato",
+                    "che lei abbia danneggiato",
+                    "che egli abbia danneggiato",
+                    "che lui sia rovinato",
+                    "che lei sia rovinata",
+                    "che egli sia rovinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adliserĭmus",
+                "traduzioni": [
+                    "che noi abbiamo danneggiato",
+                    "che noi siamo rovinati",
+                    "che noi siamo rovinate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adliserĭtis",
+                "traduzioni": [
+                    "che voi abbiate danneggiato",
+                    "che voi siate rovinati",
+                    "che voi siate rovinate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adlisĕrint",
+                "traduzioni": [
+                    "che loro abbiano danneggiato",
+                    "che essi abbiano danneggiato",
+                    "che loro siano rovinati",
+                    "che loro siano rovinate",
+                    "che essi siano rovinati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adlisissem",
+                "traduzioni": [
+                    "che io avessi danneggiato",
+                    "che io fossi rovinato",
+                    "che io fossi rovinata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adlisisses",
+                "traduzioni": [
+                    "che tu avessi danneggiato",
+                    "che tu fossi rovinato",
+                    "che tu fossi rovinata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adlisisset",
+                "traduzioni": [
+                    "che lui avesse danneggiato",
+                    "che lei avesse danneggiato",
+                    "che egli avesse danneggiato",
+                    "che lui fosse rovinato",
+                    "che lei fosse rovinata",
+                    "che egli fosse rovinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adlisissēmus",
+                "traduzioni": [
+                    "che noi avessimo danneggiato",
+                    "che noi fossimo rovinati",
+                    "che noi fossimo rovinate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adlisissētis",
+                "traduzioni": [
+                    "che voi aveste danneggiato",
+                    "che voi foste rovinati",
+                    "che voi foste rovinate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adlisissent",
+                "traduzioni": [
+                    "che loro avessero danneggiato",
+                    "che essi avessero danneggiato",
+                    "che loro fossero rovinati",
+                    "che loro fossero rovinate",
+                    "che essi fossero rovinati"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,974 @@
+{
+    "identifier": "CONRIGO",
+    "conuigazione": "3",
+    "translation": [
+        "raddrizzare",
+        "rettificare",
+        "innovare",
+        "sanare",
+        "(passivo e riflessivo) rinsavire",
+        "medicina guarire",
+        "trattare"
+    ],
+    "valid_translations": [
+        "raddrizzare",
+        "rettificare",
+        "innovare",
+        "sanare",
+        "trattare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conrĭgo",
+                "traduzioni": [
+                    "io raddrizzo",
+                    "io rettifico",
+                    "io innovo",
+                    "io sano",
+                    "io tratto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conrĭgis",
+                "traduzioni": [
+                    "tu raddrizzi",
+                    "tu rettifichi",
+                    "tu innovi",
+                    "tu sani",
+                    "tu tratti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conrĭgit",
+                "traduzioni": [
+                    "lui raddrizza",
+                    "lei raddrizza",
+                    "egli raddrizza",
+                    "lui rettifica",
+                    "lei rettifica",
+                    "egli rettifica",
+                    "lui innova",
+                    "lei innova",
+                    "egli innova",
+                    "lui sana",
+                    "lei sana",
+                    "egli sana",
+                    "lui tratta",
+                    "lei tratta",
+                    "egli tratta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conrĭgĭmus",
+                "traduzioni": [
+                    "noi raddrizziamo",
+                    "noi rettifichiamo",
+                    "noi innoviamo",
+                    "noi saniamo",
+                    "noi trattiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conrĭgĭtis",
+                "traduzioni": [
+                    "voi raddrizzate",
+                    "voi rettificate",
+                    "voi innovate",
+                    "voi sanate",
+                    "voi trattate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conrĭgunt",
+                "traduzioni": [
+                    "loro raddrizzano",
+                    "essi raddrizzano",
+                    "loro rettificano",
+                    "essi rettificano",
+                    "loro innovano",
+                    "essi innovano",
+                    "loro sanano",
+                    "essi sanano",
+                    "loro trattano",
+                    "essi trattano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conrĭgēbam",
+                "traduzioni": [
+                    "io raddrizzavo",
+                    "io rettificavo",
+                    "io innovavo",
+                    "io sanavo",
+                    "io trattavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conrĭgēbas",
+                "traduzioni": [
+                    "tu raddrizzavi",
+                    "tu rettificavi",
+                    "tu innovavi",
+                    "tu sanavi",
+                    "tu trattavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conrĭgēbat",
+                "traduzioni": [
+                    "lui raddrizzava",
+                    "lei raddrizzava",
+                    "egli raddrizzava",
+                    "lui rettificava",
+                    "lei rettificava",
+                    "egli rettificava",
+                    "lui innovava",
+                    "lei innovava",
+                    "egli innovava",
+                    "lui sanava",
+                    "lei sanava",
+                    "egli sanava",
+                    "lui trattava",
+                    "lei trattava",
+                    "egli trattava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conrĭgebāmus",
+                "traduzioni": [
+                    "noi raddrizzavamo",
+                    "noi rettificavamo",
+                    "noi innovavamo",
+                    "noi sanavamo",
+                    "noi trattavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conrĭgebātis",
+                "traduzioni": [
+                    "voi raddrizzavate",
+                    "voi rettificavate",
+                    "voi innovavate",
+                    "voi sanavate",
+                    "voi trattavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conrĭgēbant",
+                "traduzioni": [
+                    "loro raddrizzavano",
+                    "essi raddrizzavano",
+                    "loro rettificavano",
+                    "essi rettificavano",
+                    "loro innovavano",
+                    "essi innovavano",
+                    "loro sanavano",
+                    "essi sanavano",
+                    "loro trattavano",
+                    "essi trattavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conrĭgam",
+                "traduzioni": [
+                    "io raddrizzerò",
+                    "io rettificherò",
+                    "io innoverò",
+                    "io sanerò",
+                    "io tratterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conrĭges",
+                "traduzioni": [
+                    "tu raddrizzerai",
+                    "tu rettificherai",
+                    "tu innoverai",
+                    "tu sanerai",
+                    "tu tratterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conrĭget",
+                "traduzioni": [
+                    "lui raddrizzerà",
+                    "lei raddrizzerà",
+                    "egli raddrizzerà",
+                    "lui rettificherà",
+                    "lei rettificherà",
+                    "egli rettificherà",
+                    "lui innoverà",
+                    "lei innoverà",
+                    "egli innoverà",
+                    "lui sanerà",
+                    "lei sanerà",
+                    "egli sanerà",
+                    "lui tratterà",
+                    "lei tratterà",
+                    "egli tratterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conrĭgēmus",
+                "traduzioni": [
+                    "noi raddrizzeremo",
+                    "noi rettificheremo",
+                    "noi innoveremo",
+                    "noi saneremo",
+                    "noi tratteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conrĭgētis",
+                "traduzioni": [
+                    "voi raddrizzerete",
+                    "voi rettificherete",
+                    "voi innoverete",
+                    "voi sanerete",
+                    "voi tratterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conrĭgent",
+                "traduzioni": [
+                    "loro raddrizzeranno",
+                    "essi raddrizzeranno",
+                    "loro rettificheranno",
+                    "essi rettificheranno",
+                    "loro innoveranno",
+                    "essi innoveranno",
+                    "loro saneranno",
+                    "essi saneranno",
+                    "loro tratteranno",
+                    "essi tratteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conrexi",
+                "traduzioni": [
+                    "io raddrizzai",
+                    "io ho raddrizzato",
+                    "io ebbi raddrizzato",
+                    "io rettificai",
+                    "io ho rettificato",
+                    "io ebbi rettificato",
+                    "io innovai",
+                    "io ho innovato",
+                    "io ebbi innovato",
+                    "io sanai",
+                    "io sono sanato",
+                    "io sono sanata",
+                    "io fui sanato",
+                    "io fui sanata",
+                    "io trattai",
+                    "io ho trattato",
+                    "io ebbi trattato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conrexisti",
+                "traduzioni": [
+                    "tu raddrizzasti",
+                    "tu hai raddrizzato",
+                    "tu avesti raddrizzato",
+                    "tu rettificasti",
+                    "tu hai rettificato",
+                    "tu avesti rettificato",
+                    "tu innovasti",
+                    "tu hai innovato",
+                    "tu avesti innovato",
+                    "tu sanasti",
+                    "tu sei sanato",
+                    "tu sei sanata",
+                    "tu fosti sanato",
+                    "tu fosti sanata",
+                    "tu trattasti",
+                    "tu hai trattato",
+                    "tu avesti trattato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conrexit",
+                "traduzioni": [
+                    "lui raddrizzò",
+                    "lei raddrizzò",
+                    "egli raddrizzò",
+                    "lui ha raddrizzato",
+                    "lei ha raddrizzato",
+                    "egli ha raddrizzato",
+                    "lui ebbe raddrizzato",
+                    "lei ebbe raddrizzato",
+                    "egli ebbe raddrizzato",
+                    "lui rettificò",
+                    "lei rettificò",
+                    "egli rettificò",
+                    "lui ha rettificato",
+                    "lei ha rettificato",
+                    "egli ha rettificato",
+                    "lui ebbe rettificato",
+                    "lei ebbe rettificato",
+                    "egli ebbe rettificato",
+                    "lui innovò",
+                    "lei innovò",
+                    "egli innovò",
+                    "lui ha innovato",
+                    "lei ha innovato",
+                    "egli ha innovato",
+                    "lui ebbe innovato",
+                    "lei ebbe innovato",
+                    "egli ebbe innovato",
+                    "lui sanò",
+                    "lei sanò",
+                    "egli sanò",
+                    "lui è sanato",
+                    "lei è sanata",
+                    "egli è sanato",
+                    "lui fu sanato",
+                    "lei fu sanata",
+                    "egli fu sanato",
+                    "lui trattò",
+                    "lei trattò",
+                    "egli trattò",
+                    "lui ha trattato",
+                    "lei ha trattato",
+                    "egli ha trattato",
+                    "lui ebbe trattato",
+                    "lei ebbe trattato",
+                    "egli ebbe trattato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conrexĭmus",
+                "traduzioni": [
+                    "noi raddrizzammo",
+                    "noi abbiamo raddrizzato",
+                    "noi avemmo raddrizzato",
+                    "noi rettificammo",
+                    "noi abbiamo rettificato",
+                    "noi avemmo rettificato",
+                    "noi innovammo",
+                    "noi abbiamo innovato",
+                    "noi avemmo innovato",
+                    "noi sanammo",
+                    "noi siamo sanati",
+                    "noi siamo sanate",
+                    "noi fummo sanati",
+                    "noi fummo sanate",
+                    "noi trattammo",
+                    "noi abbiamo trattato",
+                    "noi avemmo trattato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conrexistis",
+                "traduzioni": [
+                    "voi raddrizzaste",
+                    "voi avete raddrizzato",
+                    "voi aveste raddrizzato",
+                    "voi rettificaste",
+                    "voi avete rettificato",
+                    "voi aveste rettificato",
+                    "voi innovaste",
+                    "voi avete innovato",
+                    "voi aveste innovato",
+                    "voi sanaste",
+                    "voi siete sanati",
+                    "voi siete sanate",
+                    "voi foste sanati",
+                    "voi foste sanate",
+                    "voi trattaste",
+                    "voi avete trattato",
+                    "voi aveste trattato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conrexērunt, conrexēre",
+                "traduzioni": [
+                    "loro raddrizzarono",
+                    "essi raddrizzarono",
+                    "loro hanno raddrizzato",
+                    "essi hanno raddrizzato",
+                    "loro ebbero raddrizzato",
+                    "essi ebbero raddrizzato",
+                    "loro rettificarono",
+                    "essi rettificarono",
+                    "loro hanno rettificato",
+                    "essi hanno rettificato",
+                    "loro ebbero rettificato",
+                    "essi ebbero rettificato",
+                    "loro innovarono",
+                    "essi innovarono",
+                    "loro hanno innovato",
+                    "essi hanno innovato",
+                    "loro ebbero innovato",
+                    "essi ebbero innovato",
+                    "loro sanarono",
+                    "essi sanarono",
+                    "loro sono sanati",
+                    "loro sono sanate",
+                    "essi sono sanati",
+                    "loro furono sanati",
+                    "loro furono sanate",
+                    "essi furono sanati",
+                    "loro trattarono",
+                    "essi trattarono",
+                    "loro hanno trattato",
+                    "essi hanno trattato",
+                    "loro ebbero trattato",
+                    "essi ebbero trattato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conrexĕram",
+                "traduzioni": [
+                    "io avevo raddrizzato",
+                    "io avevo rettificato",
+                    "io avevo innovato",
+                    "io ero sanato",
+                    "io ero sanata",
+                    "io avevo trattato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conrexĕras",
+                "traduzioni": [
+                    "tu avevi raddrizzato",
+                    "tu avevi rettificato",
+                    "tu avevi innovato",
+                    "tu eri sanato",
+                    "tu eri sanata",
+                    "tu avevi trattato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conrexĕrat",
+                "traduzioni": [
+                    "lui aveva raddrizzato",
+                    "lei aveva raddrizzato",
+                    "egli aveva raddrizzato",
+                    "lui aveva rettificato",
+                    "lei aveva rettificato",
+                    "egli aveva rettificato",
+                    "lui aveva innovato",
+                    "lei aveva innovato",
+                    "egli aveva innovato",
+                    "lui era sanato",
+                    "lei era sanata",
+                    "egli era sanato",
+                    "lui aveva trattato",
+                    "lei aveva trattato",
+                    "egli aveva trattato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conrexerāmus",
+                "traduzioni": [
+                    "noi avevamo raddrizzato",
+                    "noi avevamo rettificato",
+                    "noi avevamo innovato",
+                    "noi eravamo sanati",
+                    "noi eravamo sanate",
+                    "noi avevamo trattato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conrexerātis",
+                "traduzioni": [
+                    "voi avevate raddrizzato",
+                    "voi avevate rettificato",
+                    "voi avevate innovato",
+                    "voi eravate sanati",
+                    "voi eravate sanate",
+                    "voi avevate trattato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conrexĕrant",
+                "traduzioni": [
+                    "loro avevano raddrizzato",
+                    "essi avevano raddrizzato",
+                    "loro avevano rettificato",
+                    "essi avevano rettificato",
+                    "loro avevano innovato",
+                    "essi avevano innovato",
+                    "loro erano sanati",
+                    "loro erano sanate",
+                    "essi erano sanati",
+                    "loro avevano trattato",
+                    "essi avevano trattato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conrexĕro",
+                "traduzioni": [
+                    "io avrò raddrizzato",
+                    "io avrò rettificato",
+                    "io avrò innovato",
+                    "io sarò sanato",
+                    "io sarò sanata",
+                    "io avrò trattato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conrexĕris",
+                "traduzioni": [
+                    "tu avrai raddrizzato",
+                    "tu avrai rettificato",
+                    "tu avrai innovato",
+                    "tu sarai sanato",
+                    "tu sarai sanata",
+                    "tu avrai trattato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conrexĕrit",
+                "traduzioni": [
+                    "lui avrà raddrizzato",
+                    "lei avrà raddrizzato",
+                    "egli avrà raddrizzato",
+                    "lui avrà rettificato",
+                    "lei avrà rettificato",
+                    "egli avrà rettificato",
+                    "lui avrà innovato",
+                    "lei avrà innovato",
+                    "egli avrà innovato",
+                    "lui sarà sanato",
+                    "lei sarà sanata",
+                    "egli sarà sanato",
+                    "lui avrà trattato",
+                    "lei avrà trattato",
+                    "egli avrà trattato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conrexerĭmus",
+                "traduzioni": [
+                    "noi avremo raddrizzato",
+                    "noi avremo rettificato",
+                    "noi avremo innovato",
+                    "noi saremo sanati",
+                    "noi saremo sanate",
+                    "noi avremo trattato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conrexerĭtis",
+                "traduzioni": [
+                    "voi avrete raddrizzato",
+                    "voi avrete rettificato",
+                    "voi avrete innovato",
+                    "voi sarete sanati",
+                    "voi sarete sanate",
+                    "voi avrete trattato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conrexĕrint",
+                "traduzioni": [
+                    "loro avranno raddrizzato",
+                    "essi avranno raddrizzato",
+                    "loro avranno rettificato",
+                    "essi avranno rettificato",
+                    "loro avranno innovato",
+                    "essi avranno innovato",
+                    "loro saranno sanati",
+                    "loro saranno sanate",
+                    "essi saranno sanati",
+                    "loro avranno trattato",
+                    "essi avranno trattato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conrĭgam",
+                "traduzioni": [
+                    "che io raddrizzi",
+                    "che io rettifichi",
+                    "che io innovi",
+                    "che io sani",
+                    "che io tratti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conrĭgas",
+                "traduzioni": [
+                    "che tu raddrizzi",
+                    "che tu rettifichi",
+                    "che tu innovi",
+                    "che tu sani",
+                    "che tu tratti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conrĭgat",
+                "traduzioni": [
+                    "che lui raddrizzi",
+                    "che lei raddrizzi",
+                    "che egli raddrizzi",
+                    "che lui rettifichi",
+                    "che lei rettifichi",
+                    "che egli rettifichi",
+                    "che lui innovi",
+                    "che lei innovi",
+                    "che egli innovi",
+                    "che lui sani",
+                    "che lei sani",
+                    "che egli sani",
+                    "che lui tratti",
+                    "che lei tratti",
+                    "che egli tratti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conrĭgāmus",
+                "traduzioni": [
+                    "che noi raddrizziamo",
+                    "che noi rettifichiamo",
+                    "che noi innoviamo",
+                    "che noi saniamo",
+                    "che noi trattiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conrĭgātis",
+                "traduzioni": [
+                    "che voi raddrizziate",
+                    "che voi rettifichiate",
+                    "che voi innoviate",
+                    "che voi saniate",
+                    "che voi trattiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conrĭgant",
+                "traduzioni": [
+                    "che loro raddrizzino",
+                    "che essi raddrizzino",
+                    "che loro rettifichino",
+                    "che essi rettifichino",
+                    "che loro innovino",
+                    "che essi innovino",
+                    "che loro sanino",
+                    "che essi sanino",
+                    "che loro trattino",
+                    "che essi trattino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conrĭgĕrem",
+                "traduzioni": [
+                    "che io raddrizzassi",
+                    "che io rettificassi",
+                    "che io innovassi",
+                    "che io sanassi",
+                    "che io trattassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conrĭgĕres",
+                "traduzioni": [
+                    "che tu raddrizzassi",
+                    "che tu rettificassi",
+                    "che tu innovassi",
+                    "che tu sanassi",
+                    "che tu trattassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conrĭgĕret",
+                "traduzioni": [
+                    "che lui raddrizzasse",
+                    "che lei raddrizzasse",
+                    "che egli raddrizzasse",
+                    "che lui rettificasse",
+                    "che lei rettificasse",
+                    "che egli rettificasse",
+                    "che lui innovasse",
+                    "che lei innovasse",
+                    "che egli innovasse",
+                    "che lui sanasse",
+                    "che lei sanasse",
+                    "che egli sanasse",
+                    "che lui trattasse",
+                    "che lei trattasse",
+                    "che egli trattasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conrĭgerēmus",
+                "traduzioni": [
+                    "che noi raddrizzassimo",
+                    "che noi rettificassimo",
+                    "che noi innovassimo",
+                    "che noi sanassimo",
+                    "che noi trattassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conrĭgerētis",
+                "traduzioni": [
+                    "che voi raddrizzaste",
+                    "che voi rettificaste",
+                    "che voi innovaste",
+                    "che voi sanaste",
+                    "che voi trattaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conrĭgĕrent",
+                "traduzioni": [
+                    "che loro raddrizzassero",
+                    "che essi raddrizzassero",
+                    "che loro rettificassero",
+                    "che essi rettificassero",
+                    "che loro innovassero",
+                    "che essi innovassero",
+                    "che loro sanassero",
+                    "che essi sanassero",
+                    "che loro trattassero",
+                    "che essi trattassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conrexĕrim",
+                "traduzioni": [
+                    "che io abbia raddrizzato",
+                    "che io abbia rettificato",
+                    "che io abbia innovato",
+                    "che io sia sanato",
+                    "che io sia sanata",
+                    "che io abbia trattato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conrexĕris",
+                "traduzioni": [
+                    "che tu abbia raddrizzato",
+                    "che tu abbia rettificato",
+                    "che tu abbia innovato",
+                    "che tu sia sanato",
+                    "che tu sia sanata",
+                    "che tu abbia trattato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conrexĕrit",
+                "traduzioni": [
+                    "che lui abbia raddrizzato",
+                    "che lei abbia raddrizzato",
+                    "che egli abbia raddrizzato",
+                    "che lui abbia rettificato",
+                    "che lei abbia rettificato",
+                    "che egli abbia rettificato",
+                    "che lui abbia innovato",
+                    "che lei abbia innovato",
+                    "che egli abbia innovato",
+                    "che lui sia sanato",
+                    "che lei sia sanata",
+                    "che egli sia sanato",
+                    "che lui abbia trattato",
+                    "che lei abbia trattato",
+                    "che egli abbia trattato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conrexerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo raddrizzato",
+                    "che noi abbiamo rettificato",
+                    "che noi abbiamo innovato",
+                    "che noi siamo sanati",
+                    "che noi siamo sanate",
+                    "che noi abbiamo trattato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conrexerĭtis",
+                "traduzioni": [
+                    "che voi abbiate raddrizzato",
+                    "che voi abbiate rettificato",
+                    "che voi abbiate innovato",
+                    "che voi siate sanati",
+                    "che voi siate sanate",
+                    "che voi abbiate trattato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conrexĕrint",
+                "traduzioni": [
+                    "che loro abbiano raddrizzato",
+                    "che essi abbiano raddrizzato",
+                    "che loro abbiano rettificato",
+                    "che essi abbiano rettificato",
+                    "che loro abbiano innovato",
+                    "che essi abbiano innovato",
+                    "che loro siano sanati",
+                    "che loro siano sanate",
+                    "che essi siano sanati",
+                    "che loro abbiano trattato",
+                    "che essi abbiano trattato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conrexissem",
+                "traduzioni": [
+                    "che io avessi raddrizzato",
+                    "che io avessi rettificato",
+                    "che io avessi innovato",
+                    "che io fossi sanato",
+                    "che io fossi sanata",
+                    "che io avessi trattato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conrexisses",
+                "traduzioni": [
+                    "che tu avessi raddrizzato",
+                    "che tu avessi rettificato",
+                    "che tu avessi innovato",
+                    "che tu fossi sanato",
+                    "che tu fossi sanata",
+                    "che tu avessi trattato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conrexisset",
+                "traduzioni": [
+                    "che lui avesse raddrizzato",
+                    "che lei avesse raddrizzato",
+                    "che egli avesse raddrizzato",
+                    "che lui avesse rettificato",
+                    "che lei avesse rettificato",
+                    "che egli avesse rettificato",
+                    "che lui avesse innovato",
+                    "che lei avesse innovato",
+                    "che egli avesse innovato",
+                    "che lui fosse sanato",
+                    "che lei fosse sanata",
+                    "che egli fosse sanato",
+                    "che lui avesse trattato",
+                    "che lei avesse trattato",
+                    "che egli avesse trattato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conrexissēmus",
+                "traduzioni": [
+                    "che noi avessimo raddrizzato",
+                    "che noi avessimo rettificato",
+                    "che noi avessimo innovato",
+                    "che noi fossimo sanati",
+                    "che noi fossimo sanate",
+                    "che noi avessimo trattato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conrexissētis",
+                "traduzioni": [
+                    "che voi aveste raddrizzato",
+                    "che voi aveste rettificato",
+                    "che voi aveste innovato",
+                    "che voi foste sanati",
+                    "che voi foste sanate",
+                    "che voi aveste trattato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conrexissent",
+                "traduzioni": [
+                    "che loro avessero raddrizzato",
+                    "che essi avessero raddrizzato",
+                    "che loro avessero rettificato",
+                    "che essi avessero rettificato",
+                    "che loro avessero innovato",
+                    "che essi avessero innovato",
+                    "che loro fossero sanati",
+                    "che loro fossero sanate",
+                    "che essi fossero sanati",
+                    "che loro avessero trattato",
+                    "che essi avessero trattato"
+                ]
+            }
+        ]
+    }
+}

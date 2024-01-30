@@ -1,0 +1,832 @@
+{
+    "identifier": "LINQUO",
+    "conuigazione": "3",
+    "translation": [
+        "lasciare",
+        "abbandonare",
+        "trascurare",
+        "tralasciare"
+    ],
+    "valid_translations": [
+        "lasciare",
+        "abbandonare",
+        "trascurare",
+        "tralasciare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "linquo",
+                "traduzioni": [
+                    "io lascio",
+                    "io abbandono",
+                    "io trascuro",
+                    "io tralascio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "linquis",
+                "traduzioni": [
+                    "tu lasci",
+                    "tu abbandoni",
+                    "tu trascuri",
+                    "tu tralasci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "linquit",
+                "traduzioni": [
+                    "lui lascia",
+                    "lei lascia",
+                    "egli lascia",
+                    "lui abbandona",
+                    "lei abbandona",
+                    "egli abbandona",
+                    "lui trascura",
+                    "lei trascura",
+                    "egli trascura",
+                    "lui tralascia",
+                    "lei tralascia",
+                    "egli tralascia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "linquĭmus",
+                "traduzioni": [
+                    "noi lasciamo",
+                    "noi abbandoniamo",
+                    "noi trascuriamo",
+                    "noi tralasciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "linquĭtis",
+                "traduzioni": [
+                    "voi lasciate",
+                    "voi abbandonate",
+                    "voi trascurate",
+                    "voi tralasciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "linquunt",
+                "traduzioni": [
+                    "loro lasciano",
+                    "essi lasciano",
+                    "loro abbandonano",
+                    "essi abbandonano",
+                    "loro trascurano",
+                    "essi trascurano",
+                    "loro tralasciano",
+                    "essi tralasciano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "linquēbam",
+                "traduzioni": [
+                    "io lasciavo",
+                    "io abbandonavo",
+                    "io trascuravo",
+                    "io tralasciavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "linquēbas",
+                "traduzioni": [
+                    "tu lasciavi",
+                    "tu abbandonavi",
+                    "tu trascuravi",
+                    "tu tralasciavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "linquēbat",
+                "traduzioni": [
+                    "lui lasciava",
+                    "lei lasciava",
+                    "egli lasciava",
+                    "lui abbandonava",
+                    "lei abbandonava",
+                    "egli abbandonava",
+                    "lui trascurava",
+                    "lei trascurava",
+                    "egli trascurava",
+                    "lui tralasciava",
+                    "lei tralasciava",
+                    "egli tralasciava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "linquebāmus",
+                "traduzioni": [
+                    "noi lasciavamo",
+                    "noi abbandonavamo",
+                    "noi trascuravamo",
+                    "noi tralasciavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "linquebātis",
+                "traduzioni": [
+                    "voi lasciavate",
+                    "voi abbandonavate",
+                    "voi trascuravate",
+                    "voi tralasciavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "linquēbant",
+                "traduzioni": [
+                    "loro lasciavano",
+                    "essi lasciavano",
+                    "loro abbandonavano",
+                    "essi abbandonavano",
+                    "loro trascuravano",
+                    "essi trascuravano",
+                    "loro tralasciavano",
+                    "essi tralasciavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "linquam",
+                "traduzioni": [
+                    "io lascerò",
+                    "io abbandonerò",
+                    "io trascurerò",
+                    "io tralascerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "linques",
+                "traduzioni": [
+                    "tu lascerai",
+                    "tu abbandonerai",
+                    "tu trascurerai",
+                    "tu tralascerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "linquet",
+                "traduzioni": [
+                    "lui lascerà",
+                    "lei lascerà",
+                    "egli lascerà",
+                    "lui abbandonerà",
+                    "lei abbandonerà",
+                    "egli abbandonerà",
+                    "lui trascurerà",
+                    "lei trascurerà",
+                    "egli trascurerà",
+                    "lui tralascerà",
+                    "lei tralascerà",
+                    "egli tralascerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "linquēmus",
+                "traduzioni": [
+                    "noi lasceremo",
+                    "noi abbandoneremo",
+                    "noi trascureremo",
+                    "noi tralasceremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "linquētis",
+                "traduzioni": [
+                    "voi lascerete",
+                    "voi abbandonerete",
+                    "voi trascurerete",
+                    "voi tralascerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "linquent",
+                "traduzioni": [
+                    "loro lasceranno",
+                    "essi lasceranno",
+                    "loro abbandoneranno",
+                    "essi abbandoneranno",
+                    "loro trascureranno",
+                    "essi trascureranno",
+                    "loro tralasceranno",
+                    "essi tralasceranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "liqui",
+                "traduzioni": [
+                    "io lasciai",
+                    "io ho lasciato",
+                    "io ebbi lasciato",
+                    "io abbandonai",
+                    "io ho abbandonato",
+                    "io ebbi abbandonato",
+                    "io trascurai",
+                    "io ho trascurato",
+                    "io ebbi trascurato",
+                    "io tralasciai",
+                    "io ho tralasciato",
+                    "io ebbi tralasciato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "liquisti",
+                "traduzioni": [
+                    "tu lasciasti",
+                    "tu hai lasciato",
+                    "tu avesti lasciato",
+                    "tu abbandonasti",
+                    "tu hai abbandonato",
+                    "tu avesti abbandonato",
+                    "tu trascurasti",
+                    "tu hai trascurato",
+                    "tu avesti trascurato",
+                    "tu tralasciasti",
+                    "tu hai tralasciato",
+                    "tu avesti tralasciato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "liquit",
+                "traduzioni": [
+                    "lui lasciò",
+                    "lei lasciò",
+                    "egli lasciò",
+                    "lui ha lasciato",
+                    "lei ha lasciato",
+                    "egli ha lasciato",
+                    "lui ebbe lasciato",
+                    "lei ebbe lasciato",
+                    "egli ebbe lasciato",
+                    "lui abbandonò",
+                    "lei abbandonò",
+                    "egli abbandonò",
+                    "lui ha abbandonato",
+                    "lei ha abbandonato",
+                    "egli ha abbandonato",
+                    "lui ebbe abbandonato",
+                    "lei ebbe abbandonato",
+                    "egli ebbe abbandonato",
+                    "lui trascurò",
+                    "lei trascurò",
+                    "egli trascurò",
+                    "lui ha trascurato",
+                    "lei ha trascurato",
+                    "egli ha trascurato",
+                    "lui ebbe trascurato",
+                    "lei ebbe trascurato",
+                    "egli ebbe trascurato",
+                    "lui tralasciò",
+                    "lei tralasciò",
+                    "egli tralasciò",
+                    "lui ha tralasciato",
+                    "lei ha tralasciato",
+                    "egli ha tralasciato",
+                    "lui ebbe tralasciato",
+                    "lei ebbe tralasciato",
+                    "egli ebbe tralasciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "liquĭmus",
+                "traduzioni": [
+                    "noi lasciammo",
+                    "noi abbiamo lasciato",
+                    "noi avemmo lasciato",
+                    "noi abbandonammo",
+                    "noi abbiamo abbandonato",
+                    "noi avemmo abbandonato",
+                    "noi trascurammo",
+                    "noi abbiamo trascurato",
+                    "noi avemmo trascurato",
+                    "noi tralasciammo",
+                    "noi abbiamo tralasciato",
+                    "noi avemmo tralasciato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "liquistis",
+                "traduzioni": [
+                    "voi lasciaste",
+                    "voi avete lasciato",
+                    "voi aveste lasciato",
+                    "voi abbandonaste",
+                    "voi avete abbandonato",
+                    "voi aveste abbandonato",
+                    "voi trascuraste",
+                    "voi avete trascurato",
+                    "voi aveste trascurato",
+                    "voi tralasciaste",
+                    "voi avete tralasciato",
+                    "voi aveste tralasciato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "liquērunt, liquēre",
+                "traduzioni": [
+                    "loro lasciarono",
+                    "essi lasciarono",
+                    "loro hanno lasciato",
+                    "essi hanno lasciato",
+                    "loro ebbero lasciato",
+                    "essi ebbero lasciato",
+                    "loro abbandonarono",
+                    "essi abbandonarono",
+                    "loro hanno abbandonato",
+                    "essi hanno abbandonato",
+                    "loro ebbero abbandonato",
+                    "essi ebbero abbandonato",
+                    "loro trascurarono",
+                    "essi trascurarono",
+                    "loro hanno trascurato",
+                    "essi hanno trascurato",
+                    "loro ebbero trascurato",
+                    "essi ebbero trascurato",
+                    "loro tralasciarono",
+                    "essi tralasciarono",
+                    "loro hanno tralasciato",
+                    "essi hanno tralasciato",
+                    "loro ebbero tralasciato",
+                    "essi ebbero tralasciato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "liquĕram",
+                "traduzioni": [
+                    "io avevo lasciato",
+                    "io avevo abbandonato",
+                    "io avevo trascurato",
+                    "io avevo tralasciato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "liquĕras",
+                "traduzioni": [
+                    "tu avevi lasciato",
+                    "tu avevi abbandonato",
+                    "tu avevi trascurato",
+                    "tu avevi tralasciato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "liquĕrat",
+                "traduzioni": [
+                    "lui aveva lasciato",
+                    "lei aveva lasciato",
+                    "egli aveva lasciato",
+                    "lui aveva abbandonato",
+                    "lei aveva abbandonato",
+                    "egli aveva abbandonato",
+                    "lui aveva trascurato",
+                    "lei aveva trascurato",
+                    "egli aveva trascurato",
+                    "lui aveva tralasciato",
+                    "lei aveva tralasciato",
+                    "egli aveva tralasciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "liquerāmus",
+                "traduzioni": [
+                    "noi avevamo lasciato",
+                    "noi avevamo abbandonato",
+                    "noi avevamo trascurato",
+                    "noi avevamo tralasciato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "liquerātis",
+                "traduzioni": [
+                    "voi avevate lasciato",
+                    "voi avevate abbandonato",
+                    "voi avevate trascurato",
+                    "voi avevate tralasciato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "liquĕrant",
+                "traduzioni": [
+                    "loro avevano lasciato",
+                    "essi avevano lasciato",
+                    "loro avevano abbandonato",
+                    "essi avevano abbandonato",
+                    "loro avevano trascurato",
+                    "essi avevano trascurato",
+                    "loro avevano tralasciato",
+                    "essi avevano tralasciato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "liquĕro",
+                "traduzioni": [
+                    "io avrò lasciato",
+                    "io avrò abbandonato",
+                    "io avrò trascurato",
+                    "io avrò tralasciato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "liquĕris",
+                "traduzioni": [
+                    "tu avrai lasciato",
+                    "tu avrai abbandonato",
+                    "tu avrai trascurato",
+                    "tu avrai tralasciato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "liquĕrit",
+                "traduzioni": [
+                    "lui avrà lasciato",
+                    "lei avrà lasciato",
+                    "egli avrà lasciato",
+                    "lui avrà abbandonato",
+                    "lei avrà abbandonato",
+                    "egli avrà abbandonato",
+                    "lui avrà trascurato",
+                    "lei avrà trascurato",
+                    "egli avrà trascurato",
+                    "lui avrà tralasciato",
+                    "lei avrà tralasciato",
+                    "egli avrà tralasciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "liquerĭmus",
+                "traduzioni": [
+                    "noi avremo lasciato",
+                    "noi avremo abbandonato",
+                    "noi avremo trascurato",
+                    "noi avremo tralasciato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "liquerĭtis",
+                "traduzioni": [
+                    "voi avrete lasciato",
+                    "voi avrete abbandonato",
+                    "voi avrete trascurato",
+                    "voi avrete tralasciato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "liquĕrint",
+                "traduzioni": [
+                    "loro avranno lasciato",
+                    "essi avranno lasciato",
+                    "loro avranno abbandonato",
+                    "essi avranno abbandonato",
+                    "loro avranno trascurato",
+                    "essi avranno trascurato",
+                    "loro avranno tralasciato",
+                    "essi avranno tralasciato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "linquam",
+                "traduzioni": [
+                    "che io lasci",
+                    "che io abbandoni",
+                    "che io trascuri",
+                    "che io tralasci"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "linquas",
+                "traduzioni": [
+                    "che tu lasci",
+                    "che tu abbandoni",
+                    "che tu trascuri",
+                    "che tu tralasci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "linquat",
+                "traduzioni": [
+                    "che lui lasci",
+                    "che lei lasci",
+                    "che egli lasci",
+                    "che lui abbandoni",
+                    "che lei abbandoni",
+                    "che egli abbandoni",
+                    "che lui trascuri",
+                    "che lei trascuri",
+                    "che egli trascuri",
+                    "che lui tralasci",
+                    "che lei tralasci",
+                    "che egli tralasci"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "linquāmus",
+                "traduzioni": [
+                    "che noi lasciamo",
+                    "che noi abbandoniamo",
+                    "che noi trascuriamo",
+                    "che noi tralasciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "linquātis",
+                "traduzioni": [
+                    "che voi lasciate",
+                    "che voi abbandoniate",
+                    "che voi trascuriate",
+                    "che voi tralasciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "linquant",
+                "traduzioni": [
+                    "che loro lascino",
+                    "che essi lascino",
+                    "che loro abbandonino",
+                    "che essi abbandonino",
+                    "che loro trascurino",
+                    "che essi trascurino",
+                    "che loro tralascino",
+                    "che essi tralascino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "linquĕrem",
+                "traduzioni": [
+                    "che io lasciassi",
+                    "che io abbandonassi",
+                    "che io trascurassi",
+                    "che io tralasciassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "linquĕres",
+                "traduzioni": [
+                    "che tu lasciassi",
+                    "che tu abbandonassi",
+                    "che tu trascurassi",
+                    "che tu tralasciassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "linquĕret",
+                "traduzioni": [
+                    "che lui lasciasse",
+                    "che lei lasciasse",
+                    "che egli lasciasse",
+                    "che lui abbandonasse",
+                    "che lei abbandonasse",
+                    "che egli abbandonasse",
+                    "che lui trascurasse",
+                    "che lei trascurasse",
+                    "che egli trascurasse",
+                    "che lui tralasciasse",
+                    "che lei tralasciasse",
+                    "che egli tralasciasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "linquerēmus",
+                "traduzioni": [
+                    "che noi lasciassimo",
+                    "che noi abbandonassimo",
+                    "che noi trascurassimo",
+                    "che noi tralasciassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "linquerētis",
+                "traduzioni": [
+                    "che voi lasciaste",
+                    "che voi abbandonaste",
+                    "che voi trascuraste",
+                    "che voi tralasciaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "linquĕrent",
+                "traduzioni": [
+                    "che loro lasciassero",
+                    "che essi lasciassero",
+                    "che loro abbandonassero",
+                    "che essi abbandonassero",
+                    "che loro trascurassero",
+                    "che essi trascurassero",
+                    "che loro tralasciassero",
+                    "che essi tralasciassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "liquĕrim",
+                "traduzioni": [
+                    "che io abbia lasciato",
+                    "che io abbia abbandonato",
+                    "che io abbia trascurato",
+                    "che io abbia tralasciato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "liquĕris",
+                "traduzioni": [
+                    "che tu abbia lasciato",
+                    "che tu abbia abbandonato",
+                    "che tu abbia trascurato",
+                    "che tu abbia tralasciato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "liquĕrit",
+                "traduzioni": [
+                    "che lui abbia lasciato",
+                    "che lei abbia lasciato",
+                    "che egli abbia lasciato",
+                    "che lui abbia abbandonato",
+                    "che lei abbia abbandonato",
+                    "che egli abbia abbandonato",
+                    "che lui abbia trascurato",
+                    "che lei abbia trascurato",
+                    "che egli abbia trascurato",
+                    "che lui abbia tralasciato",
+                    "che lei abbia tralasciato",
+                    "che egli abbia tralasciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "liquerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo lasciato",
+                    "che noi abbiamo abbandonato",
+                    "che noi abbiamo trascurato",
+                    "che noi abbiamo tralasciato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "liquerĭtis",
+                "traduzioni": [
+                    "che voi abbiate lasciato",
+                    "che voi abbiate abbandonato",
+                    "che voi abbiate trascurato",
+                    "che voi abbiate tralasciato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "liquĕrint",
+                "traduzioni": [
+                    "che loro abbiano lasciato",
+                    "che essi abbiano lasciato",
+                    "che loro abbiano abbandonato",
+                    "che essi abbiano abbandonato",
+                    "che loro abbiano trascurato",
+                    "che essi abbiano trascurato",
+                    "che loro abbiano tralasciato",
+                    "che essi abbiano tralasciato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "liquissem",
+                "traduzioni": [
+                    "che io avessi lasciato",
+                    "che io avessi abbandonato",
+                    "che io avessi trascurato",
+                    "che io avessi tralasciato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "liquisses",
+                "traduzioni": [
+                    "che tu avessi lasciato",
+                    "che tu avessi abbandonato",
+                    "che tu avessi trascurato",
+                    "che tu avessi tralasciato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "liquisset",
+                "traduzioni": [
+                    "che lui avesse lasciato",
+                    "che lei avesse lasciato",
+                    "che egli avesse lasciato",
+                    "che lui avesse abbandonato",
+                    "che lei avesse abbandonato",
+                    "che egli avesse abbandonato",
+                    "che lui avesse trascurato",
+                    "che lei avesse trascurato",
+                    "che egli avesse trascurato",
+                    "che lui avesse tralasciato",
+                    "che lei avesse tralasciato",
+                    "che egli avesse tralasciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "liquissēmus",
+                "traduzioni": [
+                    "che noi avessimo lasciato",
+                    "che noi avessimo abbandonato",
+                    "che noi avessimo trascurato",
+                    "che noi avessimo tralasciato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "liquissētis",
+                "traduzioni": [
+                    "che voi aveste lasciato",
+                    "che voi aveste abbandonato",
+                    "che voi aveste trascurato",
+                    "che voi aveste tralasciato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "liquissent",
+                "traduzioni": [
+                    "che loro avessero lasciato",
+                    "che essi avessero lasciato",
+                    "che loro avessero abbandonato",
+                    "che essi avessero abbandonato",
+                    "che loro avessero trascurato",
+                    "che essi avessero trascurato",
+                    "che loro avessero tralasciato",
+                    "che essi avessero tralasciato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,943 @@
+{
+    "identifier": "CONSERVO",
+    "conuigazione": "1",
+    "translation": [
+        "mantenere",
+        "conservare",
+        "custodire",
+        "osservare",
+        "rispettare"
+    ],
+    "valid_translations": [
+        "mantenere",
+        "conservare",
+        "custodire",
+        "osservare",
+        "rispettare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conservo",
+                "traduzioni": [
+                    "io mantengo",
+                    "io conservo",
+                    "io custodisco",
+                    "io osservo",
+                    "io rispetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conservas",
+                "traduzioni": [
+                    "tu mantieni",
+                    "tu conservi",
+                    "tu custodisci",
+                    "tu osservi",
+                    "tu rispetti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conservat",
+                "traduzioni": [
+                    "lui mantiene",
+                    "lei mantiene",
+                    "egli mantiene",
+                    "lui conserva",
+                    "lei conserva",
+                    "egli conserva",
+                    "lui custodisce",
+                    "lei custodisce",
+                    "egli custodisce",
+                    "lui osserva",
+                    "lei osserva",
+                    "egli osserva",
+                    "lui rispetta",
+                    "lei rispetta",
+                    "egli rispetta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conservāmus",
+                "traduzioni": [
+                    "noi manteniamo",
+                    "noi conserviamo",
+                    "noi custodiamo",
+                    "noi osserviamo",
+                    "noi rispettiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conservātis",
+                "traduzioni": [
+                    "voi mantenete",
+                    "voi conservate",
+                    "voi custodite",
+                    "voi osservate",
+                    "voi rispettate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conservant",
+                "traduzioni": [
+                    "loro mantengono",
+                    "essi mantengono",
+                    "loro conservano",
+                    "essi conservano",
+                    "loro custodiscono",
+                    "essi custodiscono",
+                    "loro osservano",
+                    "essi osservano",
+                    "loro rispettano",
+                    "essi rispettano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conservābam",
+                "traduzioni": [
+                    "io mantenevo",
+                    "io conservavo",
+                    "io custodivo",
+                    "io osservavo",
+                    "io rispettavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conservābas",
+                "traduzioni": [
+                    "tu mantenevi",
+                    "tu conservavi",
+                    "tu custodivi",
+                    "tu osservavi",
+                    "tu rispettavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conservābat",
+                "traduzioni": [
+                    "lui manteneva",
+                    "lei manteneva",
+                    "egli manteneva",
+                    "lui conservava",
+                    "lei conservava",
+                    "egli conservava",
+                    "lui custodiva",
+                    "lei custodiva",
+                    "egli custodiva",
+                    "lui osservava",
+                    "lei osservava",
+                    "egli osservava",
+                    "lui rispettava",
+                    "lei rispettava",
+                    "egli rispettava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conservabāmus",
+                "traduzioni": [
+                    "noi mantenevamo",
+                    "noi conservavamo",
+                    "noi custodivamo",
+                    "noi osservavamo",
+                    "noi rispettavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conservabātis",
+                "traduzioni": [
+                    "voi mantenevate",
+                    "voi conservavate",
+                    "voi custodivate",
+                    "voi osservavate",
+                    "voi rispettavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conservābant",
+                "traduzioni": [
+                    "loro mantenevano",
+                    "essi mantenevano",
+                    "loro conservavano",
+                    "essi conservavano",
+                    "loro custodivano",
+                    "essi custodivano",
+                    "loro osservavano",
+                    "essi osservavano",
+                    "loro rispettavano",
+                    "essi rispettavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conservābo",
+                "traduzioni": [
+                    "io manterrò",
+                    "io conserverò",
+                    "io custodirò",
+                    "io osserverò",
+                    "io rispetterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conservābis",
+                "traduzioni": [
+                    "tu manterrai",
+                    "tu conserverai",
+                    "tu custodirai",
+                    "tu osserverai",
+                    "tu rispetterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conservābit",
+                "traduzioni": [
+                    "lui manterrà",
+                    "lei manterrà",
+                    "egli manterrà",
+                    "lui conserverà",
+                    "lei conserverà",
+                    "egli conserverà",
+                    "lui custodirà",
+                    "lei custodirà",
+                    "egli custodirà",
+                    "lui osserverà",
+                    "lei osserverà",
+                    "egli osserverà",
+                    "lui rispetterà",
+                    "lei rispetterà",
+                    "egli rispetterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conservabĭmus",
+                "traduzioni": [
+                    "noi manterremo",
+                    "noi conserveremo",
+                    "noi custodiremo",
+                    "noi osserveremo",
+                    "noi rispetteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conservabĭtis",
+                "traduzioni": [
+                    "voi manterrete",
+                    "voi conserverete",
+                    "voi custodirete",
+                    "voi osserverete",
+                    "voi rispetterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conservābunt",
+                "traduzioni": [
+                    "loro manterranno",
+                    "essi manterranno",
+                    "loro conserveranno",
+                    "essi conserveranno",
+                    "loro custodiranno",
+                    "essi custodiranno",
+                    "loro osserveranno",
+                    "essi osserveranno",
+                    "loro rispetteranno",
+                    "essi rispetteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conservavi",
+                "traduzioni": [
+                    "io mantenni",
+                    "io mantenetti",
+                    "io ho mantenuto",
+                    "io ebbi mantenuto",
+                    "io conservai",
+                    "io ho conservato",
+                    "io ebbi conservato",
+                    "io custodii",
+                    "io ho custodito",
+                    "io ebbi custodito",
+                    "io osservai",
+                    "io ho osservato",
+                    "io ebbi osservato",
+                    "io rispettai",
+                    "io ho rispettato",
+                    "io ebbi rispettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conservavisti",
+                "traduzioni": [
+                    "tu mantenesti",
+                    "tu hai mantenuto",
+                    "tu avesti mantenuto",
+                    "tu conservasti",
+                    "tu hai conservato",
+                    "tu avesti conservato",
+                    "tu custodisti",
+                    "tu hai custodito",
+                    "tu avesti custodito",
+                    "tu osservasti",
+                    "tu hai osservato",
+                    "tu avesti osservato",
+                    "tu rispettasti",
+                    "tu hai rispettato",
+                    "tu avesti rispettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conservavit",
+                "traduzioni": [
+                    "lui mantenne",
+                    "lei mantenne",
+                    "egli mantenne",
+                    "lui ha mantenuto",
+                    "lei ha mantenuto",
+                    "egli ha mantenuto",
+                    "lui ebbe mantenuto",
+                    "lei ebbe mantenuto",
+                    "egli ebbe mantenuto",
+                    "lui conservò",
+                    "lei conservò",
+                    "egli conservò",
+                    "lui ha conservato",
+                    "lei ha conservato",
+                    "egli ha conservato",
+                    "lui ebbe conservato",
+                    "lei ebbe conservato",
+                    "egli ebbe conservato",
+                    "lui custodì",
+                    "lei custodì",
+                    "egli custodì",
+                    "lui ha custodito",
+                    "lei ha custodito",
+                    "egli ha custodito",
+                    "lui ebbe custodito",
+                    "lei ebbe custodito",
+                    "egli ebbe custodito",
+                    "lui osservò",
+                    "lei osservò",
+                    "egli osservò",
+                    "lui ha osservato",
+                    "lei ha osservato",
+                    "egli ha osservato",
+                    "lui ebbe osservato",
+                    "lei ebbe osservato",
+                    "egli ebbe osservato",
+                    "lui rispettò",
+                    "lei rispettò",
+                    "egli rispettò",
+                    "lui ha rispettato",
+                    "lei ha rispettato",
+                    "egli ha rispettato",
+                    "lui ebbe rispettato",
+                    "lei ebbe rispettato",
+                    "egli ebbe rispettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conservavĭmus",
+                "traduzioni": [
+                    "noi mantenemmo",
+                    "noi abbiamo mantenuto",
+                    "noi avemmo mantenuto",
+                    "noi conservammo",
+                    "noi abbiamo conservato",
+                    "noi avemmo conservato",
+                    "noi custodimmo",
+                    "noi abbiamo custodito",
+                    "noi avemmo custodito",
+                    "noi osservammo",
+                    "noi abbiamo osservato",
+                    "noi avemmo osservato",
+                    "noi rispettammo",
+                    "noi abbiamo rispettato",
+                    "noi avemmo rispettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conservavistis",
+                "traduzioni": [
+                    "voi manteneste",
+                    "voi avete mantenuto",
+                    "voi aveste mantenuto",
+                    "voi conservaste",
+                    "voi avete conservato",
+                    "voi aveste conservato",
+                    "voi custodiste",
+                    "voi avete custodito",
+                    "voi aveste custodito",
+                    "voi osservaste",
+                    "voi avete osservato",
+                    "voi aveste osservato",
+                    "voi rispettaste",
+                    "voi avete rispettato",
+                    "voi aveste rispettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conservavērunt, conservavēre",
+                "traduzioni": [
+                    "loro mantennero",
+                    "essi mantennero",
+                    "loro hanno mantenuto",
+                    "essi hanno mantenuto",
+                    "loro ebbero mantenuto",
+                    "essi ebbero mantenuto",
+                    "loro conservarono",
+                    "essi conservarono",
+                    "loro hanno conservato",
+                    "essi hanno conservato",
+                    "loro ebbero conservato",
+                    "essi ebbero conservato",
+                    "loro custodirono",
+                    "essi custodirono",
+                    "loro hanno custodito",
+                    "essi hanno custodito",
+                    "loro ebbero custodito",
+                    "essi ebbero custodito",
+                    "loro osservarono",
+                    "essi osservarono",
+                    "loro hanno osservato",
+                    "essi hanno osservato",
+                    "loro ebbero osservato",
+                    "essi ebbero osservato",
+                    "loro rispettarono",
+                    "essi rispettarono",
+                    "loro hanno rispettato",
+                    "essi hanno rispettato",
+                    "loro ebbero rispettato",
+                    "essi ebbero rispettato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conservavĕram",
+                "traduzioni": [
+                    "io avevo mantenuto",
+                    "io avevo conservato",
+                    "io avevo custodito",
+                    "io avevo osservato",
+                    "io avevo rispettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conservavĕras",
+                "traduzioni": [
+                    "tu avevi mantenuto",
+                    "tu avevi conservato",
+                    "tu avevi custodito",
+                    "tu avevi osservato",
+                    "tu avevi rispettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conservavĕrat",
+                "traduzioni": [
+                    "lui aveva mantenuto",
+                    "lei aveva mantenuto",
+                    "egli aveva mantenuto",
+                    "lui aveva conservato",
+                    "lei aveva conservato",
+                    "egli aveva conservato",
+                    "lui aveva custodito",
+                    "lei aveva custodito",
+                    "egli aveva custodito",
+                    "lui aveva osservato",
+                    "lei aveva osservato",
+                    "egli aveva osservato",
+                    "lui aveva rispettato",
+                    "lei aveva rispettato",
+                    "egli aveva rispettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conservaverāmus",
+                "traduzioni": [
+                    "noi avevamo mantenuto",
+                    "noi avevamo conservato",
+                    "noi avevamo custodito",
+                    "noi avevamo osservato",
+                    "noi avevamo rispettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conservaverātis",
+                "traduzioni": [
+                    "voi avevate mantenuto",
+                    "voi avevate conservato",
+                    "voi avevate custodito",
+                    "voi avevate osservato",
+                    "voi avevate rispettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conservavĕrant",
+                "traduzioni": [
+                    "loro avevano mantenuto",
+                    "essi avevano mantenuto",
+                    "loro avevano conservato",
+                    "essi avevano conservato",
+                    "loro avevano custodito",
+                    "essi avevano custodito",
+                    "loro avevano osservato",
+                    "essi avevano osservato",
+                    "loro avevano rispettato",
+                    "essi avevano rispettato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conservavĕro",
+                "traduzioni": [
+                    "io avrò mantenuto",
+                    "io avrò conservato",
+                    "io avrò custodito",
+                    "io avrò osservato",
+                    "io avrò rispettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conservavĕris",
+                "traduzioni": [
+                    "tu avrai mantenuto",
+                    "tu avrai conservato",
+                    "tu avrai custodito",
+                    "tu avrai osservato",
+                    "tu avrai rispettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conservavĕrit",
+                "traduzioni": [
+                    "lui avrà mantenuto",
+                    "lei avrà mantenuto",
+                    "egli avrà mantenuto",
+                    "lui avrà conservato",
+                    "lei avrà conservato",
+                    "egli avrà conservato",
+                    "lui avrà custodito",
+                    "lei avrà custodito",
+                    "egli avrà custodito",
+                    "lui avrà osservato",
+                    "lei avrà osservato",
+                    "egli avrà osservato",
+                    "lui avrà rispettato",
+                    "lei avrà rispettato",
+                    "egli avrà rispettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conservaverĭmus",
+                "traduzioni": [
+                    "noi avremo mantenuto",
+                    "noi avremo conservato",
+                    "noi avremo custodito",
+                    "noi avremo osservato",
+                    "noi avremo rispettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conservaverĭtis",
+                "traduzioni": [
+                    "voi avrete mantenuto",
+                    "voi avrete conservato",
+                    "voi avrete custodito",
+                    "voi avrete osservato",
+                    "voi avrete rispettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conservavĕrint",
+                "traduzioni": [
+                    "loro avranno mantenuto",
+                    "essi avranno mantenuto",
+                    "loro avranno conservato",
+                    "essi avranno conservato",
+                    "loro avranno custodito",
+                    "essi avranno custodito",
+                    "loro avranno osservato",
+                    "essi avranno osservato",
+                    "loro avranno rispettato",
+                    "essi avranno rispettato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conservem",
+                "traduzioni": [
+                    "che io mantenga",
+                    "che io conservi",
+                    "che io custodisca",
+                    "che io osservi",
+                    "che io rispetti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conserves",
+                "traduzioni": [
+                    "che tu mantenga",
+                    "che tu conservi",
+                    "che tu custodisca",
+                    "che tu osservi",
+                    "che tu rispetti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conservet",
+                "traduzioni": [
+                    "che lui mantenga",
+                    "che lei mantenga",
+                    "che egli mantenga",
+                    "che lui conservi",
+                    "che lei conservi",
+                    "che egli conservi",
+                    "che lui custodisca",
+                    "che lei custodisca",
+                    "che egli custodisca",
+                    "che lui osservi",
+                    "che lei osservi",
+                    "che egli osservi",
+                    "che lui rispetti",
+                    "che lei rispetti",
+                    "che egli rispetti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conservēmus",
+                "traduzioni": [
+                    "che noi manteniamo",
+                    "che noi conserviamo",
+                    "che noi custodiamo",
+                    "che noi osserviamo",
+                    "che noi rispettiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conservētis",
+                "traduzioni": [
+                    "che voi manteniate",
+                    "che voi conserviate",
+                    "che voi custodiate",
+                    "che voi osserviate",
+                    "che voi rispettiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conservent",
+                "traduzioni": [
+                    "che loro mantengano",
+                    "che essi mantengano",
+                    "che loro conservino",
+                    "che essi conservino",
+                    "che loro custodiscano",
+                    "che essi custodiscano",
+                    "che loro osservino",
+                    "che essi osservino",
+                    "che loro rispettino",
+                    "che essi rispettino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conservārem",
+                "traduzioni": [
+                    "che io mantenessi",
+                    "che io conservassi",
+                    "che io custodissi",
+                    "che io osservassi",
+                    "che io rispettassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conservāres",
+                "traduzioni": [
+                    "che tu mantenessi",
+                    "che tu conservassi",
+                    "che tu custodissi",
+                    "che tu osservassi",
+                    "che tu rispettassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conservāret",
+                "traduzioni": [
+                    "che lui mantenesse",
+                    "che lei mantenesse",
+                    "che egli mantenesse",
+                    "che lui conservasse",
+                    "che lei conservasse",
+                    "che egli conservasse",
+                    "che lui custodisse",
+                    "che lei custodisse",
+                    "che egli custodisse",
+                    "che lui osservasse",
+                    "che lei osservasse",
+                    "che egli osservasse",
+                    "che lui rispettasse",
+                    "che lei rispettasse",
+                    "che egli rispettasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conservarēmus",
+                "traduzioni": [
+                    "che noi mantenessimo",
+                    "che noi conservassimo",
+                    "che noi custodissimo",
+                    "che noi osservassimo",
+                    "che noi rispettassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conservarētis",
+                "traduzioni": [
+                    "che voi manteneste",
+                    "che voi conservaste",
+                    "che voi custodiste",
+                    "che voi osservaste",
+                    "che voi rispettaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conservārent",
+                "traduzioni": [
+                    "che loro mantenessero",
+                    "che essi mantenessero",
+                    "che loro conservassero",
+                    "che essi conservassero",
+                    "che loro custodissero",
+                    "che essi custodissero",
+                    "che loro osservassero",
+                    "che essi osservassero",
+                    "che loro rispettassero",
+                    "che essi rispettassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conservavĕrim",
+                "traduzioni": [
+                    "che io abbia mantenuto",
+                    "che io abbia conservato",
+                    "che io abbia custodito",
+                    "che io abbia osservato",
+                    "che io abbia rispettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conservavĕris",
+                "traduzioni": [
+                    "che tu abbia mantenuto",
+                    "che tu abbia conservato",
+                    "che tu abbia custodito",
+                    "che tu abbia osservato",
+                    "che tu abbia rispettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conservavĕrit",
+                "traduzioni": [
+                    "che lui abbia mantenuto",
+                    "che lei abbia mantenuto",
+                    "che egli abbia mantenuto",
+                    "che lui abbia conservato",
+                    "che lei abbia conservato",
+                    "che egli abbia conservato",
+                    "che lui abbia custodito",
+                    "che lei abbia custodito",
+                    "che egli abbia custodito",
+                    "che lui abbia osservato",
+                    "che lei abbia osservato",
+                    "che egli abbia osservato",
+                    "che lui abbia rispettato",
+                    "che lei abbia rispettato",
+                    "che egli abbia rispettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conservaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo mantenuto",
+                    "che noi abbiamo conservato",
+                    "che noi abbiamo custodito",
+                    "che noi abbiamo osservato",
+                    "che noi abbiamo rispettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conservaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate mantenuto",
+                    "che voi abbiate conservato",
+                    "che voi abbiate custodito",
+                    "che voi abbiate osservato",
+                    "che voi abbiate rispettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conservavĕrint",
+                "traduzioni": [
+                    "che loro abbiano mantenuto",
+                    "che essi abbiano mantenuto",
+                    "che loro abbiano conservato",
+                    "che essi abbiano conservato",
+                    "che loro abbiano custodito",
+                    "che essi abbiano custodito",
+                    "che loro abbiano osservato",
+                    "che essi abbiano osservato",
+                    "che loro abbiano rispettato",
+                    "che essi abbiano rispettato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conservavissem",
+                "traduzioni": [
+                    "che io avessi mantenuto",
+                    "che io avessi conservato",
+                    "che io avessi custodito",
+                    "che io avessi osservato",
+                    "che io avessi rispettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conservavisses",
+                "traduzioni": [
+                    "che tu avessi mantenuto",
+                    "che tu avessi conservato",
+                    "che tu avessi custodito",
+                    "che tu avessi osservato",
+                    "che tu avessi rispettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conservavisset",
+                "traduzioni": [
+                    "che lui avesse mantenuto",
+                    "che lei avesse mantenuto",
+                    "che egli avesse mantenuto",
+                    "che lui avesse conservato",
+                    "che lei avesse conservato",
+                    "che egli avesse conservato",
+                    "che lui avesse custodito",
+                    "che lei avesse custodito",
+                    "che egli avesse custodito",
+                    "che lui avesse osservato",
+                    "che lei avesse osservato",
+                    "che egli avesse osservato",
+                    "che lui avesse rispettato",
+                    "che lei avesse rispettato",
+                    "che egli avesse rispettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conservavissēmus",
+                "traduzioni": [
+                    "che noi avessimo mantenuto",
+                    "che noi avessimo conservato",
+                    "che noi avessimo custodito",
+                    "che noi avessimo osservato",
+                    "che noi avessimo rispettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conservavissētis",
+                "traduzioni": [
+                    "che voi aveste mantenuto",
+                    "che voi aveste conservato",
+                    "che voi aveste custodito",
+                    "che voi aveste osservato",
+                    "che voi aveste rispettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conservavissent",
+                "traduzioni": [
+                    "che loro avessero mantenuto",
+                    "che essi avessero mantenuto",
+                    "che loro avessero conservato",
+                    "che essi avessero conservato",
+                    "che loro avessero custodito",
+                    "che essi avessero custodito",
+                    "che loro avessero osservato",
+                    "che essi avessero osservato",
+                    "che loro avessero rispettato",
+                    "che essi avessero rispettato"
+                ]
+            }
+        ]
+    }
+}

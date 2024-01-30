@@ -1,0 +1,833 @@
+{
+    "identifier": "CONSIDERO",
+    "conuigazione": "1",
+    "translation": [
+        "esaminare",
+        "considerare",
+        "ponderare",
+        "valutare",
+        "(ut o ne + congiuntivo) badare"
+    ],
+    "valid_translations": [
+        "esaminare",
+        "considerare",
+        "ponderare",
+        "valutare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "consīdĕro",
+                "traduzioni": [
+                    "io esamino",
+                    "io considero",
+                    "io pondero",
+                    "io valuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consīdĕras",
+                "traduzioni": [
+                    "tu esamini",
+                    "tu consideri",
+                    "tu ponderi",
+                    "tu valuti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consīdĕrat",
+                "traduzioni": [
+                    "lui esamina",
+                    "lei esamina",
+                    "egli esamina",
+                    "lui considera",
+                    "lei considera",
+                    "egli considera",
+                    "lui pondera",
+                    "lei pondera",
+                    "egli pondera",
+                    "lui valuta",
+                    "lei valuta",
+                    "egli valuta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consīdĕrāmus",
+                "traduzioni": [
+                    "noi esaminiamo",
+                    "noi consideriamo",
+                    "noi ponderiamo",
+                    "noi valutiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consīdĕrātis",
+                "traduzioni": [
+                    "voi esaminate",
+                    "voi considerate",
+                    "voi ponderate",
+                    "voi valutate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consīdĕrant",
+                "traduzioni": [
+                    "loro esaminano",
+                    "essi esaminano",
+                    "loro considerano",
+                    "essi considerano",
+                    "loro ponderano",
+                    "essi ponderano",
+                    "loro valutano",
+                    "essi valutano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consīdĕrābam",
+                "traduzioni": [
+                    "io esaminavo",
+                    "io consideravo",
+                    "io ponderavo",
+                    "io valutavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consīdĕrābas",
+                "traduzioni": [
+                    "tu esaminavi",
+                    "tu consideravi",
+                    "tu ponderavi",
+                    "tu valutavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consīdĕrābat",
+                "traduzioni": [
+                    "lui esaminava",
+                    "lei esaminava",
+                    "egli esaminava",
+                    "lui considerava",
+                    "lei considerava",
+                    "egli considerava",
+                    "lui ponderava",
+                    "lei ponderava",
+                    "egli ponderava",
+                    "lui valutava",
+                    "lei valutava",
+                    "egli valutava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consīdĕrabāmus",
+                "traduzioni": [
+                    "noi esaminavamo",
+                    "noi consideravamo",
+                    "noi ponderavamo",
+                    "noi valutavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consīdĕrabātis",
+                "traduzioni": [
+                    "voi esaminavate",
+                    "voi consideravate",
+                    "voi ponderavate",
+                    "voi valutavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consīdĕrābant",
+                "traduzioni": [
+                    "loro esaminavano",
+                    "essi esaminavano",
+                    "loro consideravano",
+                    "essi consideravano",
+                    "loro ponderavano",
+                    "essi ponderavano",
+                    "loro valutavano",
+                    "essi valutavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "consīdĕrābo",
+                "traduzioni": [
+                    "io esaminerò",
+                    "io considererò",
+                    "io pondererò",
+                    "io valuterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consīdĕrābis",
+                "traduzioni": [
+                    "tu esaminerai",
+                    "tu considererai",
+                    "tu pondererai",
+                    "tu valuterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consīdĕrābit",
+                "traduzioni": [
+                    "lui esaminerà",
+                    "lei esaminerà",
+                    "egli esaminerà",
+                    "lui considererà",
+                    "lei considererà",
+                    "egli considererà",
+                    "lui pondererà",
+                    "lei pondererà",
+                    "egli pondererà",
+                    "lui valuterà",
+                    "lei valuterà",
+                    "egli valuterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consīdĕrabĭmus",
+                "traduzioni": [
+                    "noi esamineremo",
+                    "noi considereremo",
+                    "noi pondereremo",
+                    "noi valuteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consīdĕrabĭtis",
+                "traduzioni": [
+                    "voi esaminerete",
+                    "voi considererete",
+                    "voi pondererete",
+                    "voi valuterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consīdĕrābunt",
+                "traduzioni": [
+                    "loro esamineranno",
+                    "essi esamineranno",
+                    "loro considereranno",
+                    "essi considereranno",
+                    "loro pondereranno",
+                    "essi pondereranno",
+                    "loro valuteranno",
+                    "essi valuteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consideravi",
+                "traduzioni": [
+                    "io esaminai",
+                    "io ho esaminato",
+                    "io ebbi esaminato",
+                    "io considerai",
+                    "io ho considerato",
+                    "io ebbi considerato",
+                    "io ponderai",
+                    "io ho ponderato",
+                    "io ebbi ponderato",
+                    "io valutai",
+                    "io ho valutato",
+                    "io ebbi valutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consideravisti",
+                "traduzioni": [
+                    "tu esaminasti",
+                    "tu hai esaminato",
+                    "tu avesti esaminato",
+                    "tu considerasti",
+                    "tu hai considerato",
+                    "tu avesti considerato",
+                    "tu ponderasti",
+                    "tu hai ponderato",
+                    "tu avesti ponderato",
+                    "tu valutasti",
+                    "tu hai valutato",
+                    "tu avesti valutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consideravit",
+                "traduzioni": [
+                    "lui esaminò",
+                    "lei esaminò",
+                    "egli esaminò",
+                    "lui ha esaminato",
+                    "lei ha esaminato",
+                    "egli ha esaminato",
+                    "lui ebbe esaminato",
+                    "lei ebbe esaminato",
+                    "egli ebbe esaminato",
+                    "lui considerò",
+                    "lei considerò",
+                    "egli considerò",
+                    "lui ha considerato",
+                    "lei ha considerato",
+                    "egli ha considerato",
+                    "lui ebbe considerato",
+                    "lei ebbe considerato",
+                    "egli ebbe considerato",
+                    "lui ponderò",
+                    "lei ponderò",
+                    "egli ponderò",
+                    "lui ha ponderato",
+                    "lei ha ponderato",
+                    "egli ha ponderato",
+                    "lui ebbe ponderato",
+                    "lei ebbe ponderato",
+                    "egli ebbe ponderato",
+                    "lui valutò",
+                    "lei valutò",
+                    "egli valutò",
+                    "lui ha valutato",
+                    "lei ha valutato",
+                    "egli ha valutato",
+                    "lui ebbe valutato",
+                    "lei ebbe valutato",
+                    "egli ebbe valutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consideravĭmus",
+                "traduzioni": [
+                    "noi esaminammo",
+                    "noi abbiamo esaminato",
+                    "noi avemmo esaminato",
+                    "noi considerammo",
+                    "noi abbiamo considerato",
+                    "noi avemmo considerato",
+                    "noi ponderammo",
+                    "noi abbiamo ponderato",
+                    "noi avemmo ponderato",
+                    "noi valutammo",
+                    "noi abbiamo valutato",
+                    "noi avemmo valutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consideravistis",
+                "traduzioni": [
+                    "voi esaminaste",
+                    "voi avete esaminato",
+                    "voi aveste esaminato",
+                    "voi consideraste",
+                    "voi avete considerato",
+                    "voi aveste considerato",
+                    "voi ponderaste",
+                    "voi avete ponderato",
+                    "voi aveste ponderato",
+                    "voi valutaste",
+                    "voi avete valutato",
+                    "voi aveste valutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consideravērunt, consideravēre",
+                "traduzioni": [
+                    "loro esaminarono",
+                    "essi esaminarono",
+                    "loro hanno esaminato",
+                    "essi hanno esaminato",
+                    "loro ebbero esaminato",
+                    "essi ebbero esaminato",
+                    "loro considerarono",
+                    "essi considerarono",
+                    "loro hanno considerato",
+                    "essi hanno considerato",
+                    "loro ebbero considerato",
+                    "essi ebbero considerato",
+                    "loro ponderarono",
+                    "essi ponderarono",
+                    "loro hanno ponderato",
+                    "essi hanno ponderato",
+                    "loro ebbero ponderato",
+                    "essi ebbero ponderato",
+                    "loro valutarono",
+                    "essi valutarono",
+                    "loro hanno valutato",
+                    "essi hanno valutato",
+                    "loro ebbero valutato",
+                    "essi ebbero valutato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consideravĕram",
+                "traduzioni": [
+                    "io avevo esaminato",
+                    "io avevo considerato",
+                    "io avevo ponderato",
+                    "io avevo valutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consideravĕras",
+                "traduzioni": [
+                    "tu avevi esaminato",
+                    "tu avevi considerato",
+                    "tu avevi ponderato",
+                    "tu avevi valutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consideravĕrat",
+                "traduzioni": [
+                    "lui aveva esaminato",
+                    "lei aveva esaminato",
+                    "egli aveva esaminato",
+                    "lui aveva considerato",
+                    "lei aveva considerato",
+                    "egli aveva considerato",
+                    "lui aveva ponderato",
+                    "lei aveva ponderato",
+                    "egli aveva ponderato",
+                    "lui aveva valutato",
+                    "lei aveva valutato",
+                    "egli aveva valutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consideraverāmus",
+                "traduzioni": [
+                    "noi avevamo esaminato",
+                    "noi avevamo considerato",
+                    "noi avevamo ponderato",
+                    "noi avevamo valutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consideraverātis",
+                "traduzioni": [
+                    "voi avevate esaminato",
+                    "voi avevate considerato",
+                    "voi avevate ponderato",
+                    "voi avevate valutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consideravĕrant",
+                "traduzioni": [
+                    "loro avevano esaminato",
+                    "essi avevano esaminato",
+                    "loro avevano considerato",
+                    "essi avevano considerato",
+                    "loro avevano ponderato",
+                    "essi avevano ponderato",
+                    "loro avevano valutato",
+                    "essi avevano valutato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "consideravĕro",
+                "traduzioni": [
+                    "io avrò esaminato",
+                    "io avrò considerato",
+                    "io avrò ponderato",
+                    "io avrò valutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consideravĕris",
+                "traduzioni": [
+                    "tu avrai esaminato",
+                    "tu avrai considerato",
+                    "tu avrai ponderato",
+                    "tu avrai valutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consideravĕrit",
+                "traduzioni": [
+                    "lui avrà esaminato",
+                    "lei avrà esaminato",
+                    "egli avrà esaminato",
+                    "lui avrà considerato",
+                    "lei avrà considerato",
+                    "egli avrà considerato",
+                    "lui avrà ponderato",
+                    "lei avrà ponderato",
+                    "egli avrà ponderato",
+                    "lui avrà valutato",
+                    "lei avrà valutato",
+                    "egli avrà valutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consideraverĭmus",
+                "traduzioni": [
+                    "noi avremo esaminato",
+                    "noi avremo considerato",
+                    "noi avremo ponderato",
+                    "noi avremo valutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consideraverĭtis",
+                "traduzioni": [
+                    "voi avrete esaminato",
+                    "voi avrete considerato",
+                    "voi avrete ponderato",
+                    "voi avrete valutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consideravĕrint",
+                "traduzioni": [
+                    "loro avranno esaminato",
+                    "essi avranno esaminato",
+                    "loro avranno considerato",
+                    "essi avranno considerato",
+                    "loro avranno ponderato",
+                    "essi avranno ponderato",
+                    "loro avranno valutato",
+                    "essi avranno valutato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "consīdĕrem",
+                "traduzioni": [
+                    "che io esamini",
+                    "che io consideri",
+                    "che io ponderi",
+                    "che io valuti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consīdĕres",
+                "traduzioni": [
+                    "che tu esamini",
+                    "che tu consideri",
+                    "che tu ponderi",
+                    "che tu valuti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consīdĕret",
+                "traduzioni": [
+                    "che lui esamini",
+                    "che lei esamini",
+                    "che egli esamini",
+                    "che lui consideri",
+                    "che lei consideri",
+                    "che egli consideri",
+                    "che lui ponderi",
+                    "che lei ponderi",
+                    "che egli ponderi",
+                    "che lui valuti",
+                    "che lei valuti",
+                    "che egli valuti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consīdĕrēmus",
+                "traduzioni": [
+                    "che noi esaminiamo",
+                    "che noi consideriamo",
+                    "che noi ponderiamo",
+                    "che noi valutiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consīdĕrētis",
+                "traduzioni": [
+                    "che voi esaminiate",
+                    "che voi consideriate",
+                    "che voi ponderiate",
+                    "che voi valutiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consīdĕrent",
+                "traduzioni": [
+                    "che loro esaminino",
+                    "che essi esaminino",
+                    "che loro considerino",
+                    "che essi considerino",
+                    "che loro ponderino",
+                    "che essi ponderino",
+                    "che loro valutino",
+                    "che essi valutino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consīdĕrārem",
+                "traduzioni": [
+                    "che io esaminassi",
+                    "che io considerassi",
+                    "che io ponderassi",
+                    "che io valutassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consīdĕrāres",
+                "traduzioni": [
+                    "che tu esaminassi",
+                    "che tu considerassi",
+                    "che tu ponderassi",
+                    "che tu valutassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consīdĕrāret",
+                "traduzioni": [
+                    "che lui esaminasse",
+                    "che lei esaminasse",
+                    "che egli esaminasse",
+                    "che lui considerasse",
+                    "che lei considerasse",
+                    "che egli considerasse",
+                    "che lui ponderasse",
+                    "che lei ponderasse",
+                    "che egli ponderasse",
+                    "che lui valutasse",
+                    "che lei valutasse",
+                    "che egli valutasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consīdĕrarēmus",
+                "traduzioni": [
+                    "che noi esaminassimo",
+                    "che noi considerassimo",
+                    "che noi ponderassimo",
+                    "che noi valutassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consīdĕrarētis",
+                "traduzioni": [
+                    "che voi esaminaste",
+                    "che voi consideraste",
+                    "che voi ponderaste",
+                    "che voi valutaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consīdĕrārent",
+                "traduzioni": [
+                    "che loro esaminassero",
+                    "che essi esaminassero",
+                    "che loro considerassero",
+                    "che essi considerassero",
+                    "che loro ponderassero",
+                    "che essi ponderassero",
+                    "che loro valutassero",
+                    "che essi valutassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consideravĕrim",
+                "traduzioni": [
+                    "che io abbia esaminato",
+                    "che io abbia considerato",
+                    "che io abbia ponderato",
+                    "che io abbia valutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consideravĕris",
+                "traduzioni": [
+                    "che tu abbia esaminato",
+                    "che tu abbia considerato",
+                    "che tu abbia ponderato",
+                    "che tu abbia valutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consideravĕrit",
+                "traduzioni": [
+                    "che lui abbia esaminato",
+                    "che lei abbia esaminato",
+                    "che egli abbia esaminato",
+                    "che lui abbia considerato",
+                    "che lei abbia considerato",
+                    "che egli abbia considerato",
+                    "che lui abbia ponderato",
+                    "che lei abbia ponderato",
+                    "che egli abbia ponderato",
+                    "che lui abbia valutato",
+                    "che lei abbia valutato",
+                    "che egli abbia valutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consideraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo esaminato",
+                    "che noi abbiamo considerato",
+                    "che noi abbiamo ponderato",
+                    "che noi abbiamo valutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consideraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate esaminato",
+                    "che voi abbiate considerato",
+                    "che voi abbiate ponderato",
+                    "che voi abbiate valutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consideravĕrint",
+                "traduzioni": [
+                    "che loro abbiano esaminato",
+                    "che essi abbiano esaminato",
+                    "che loro abbiano considerato",
+                    "che essi abbiano considerato",
+                    "che loro abbiano ponderato",
+                    "che essi abbiano ponderato",
+                    "che loro abbiano valutato",
+                    "che essi abbiano valutato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consideravissem",
+                "traduzioni": [
+                    "che io avessi esaminato",
+                    "che io avessi considerato",
+                    "che io avessi ponderato",
+                    "che io avessi valutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consideravisses",
+                "traduzioni": [
+                    "che tu avessi esaminato",
+                    "che tu avessi considerato",
+                    "che tu avessi ponderato",
+                    "che tu avessi valutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consideravisset",
+                "traduzioni": [
+                    "che lui avesse esaminato",
+                    "che lei avesse esaminato",
+                    "che egli avesse esaminato",
+                    "che lui avesse considerato",
+                    "che lei avesse considerato",
+                    "che egli avesse considerato",
+                    "che lui avesse ponderato",
+                    "che lei avesse ponderato",
+                    "che egli avesse ponderato",
+                    "che lui avesse valutato",
+                    "che lei avesse valutato",
+                    "che egli avesse valutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consideravissēmus",
+                "traduzioni": [
+                    "che noi avessimo esaminato",
+                    "che noi avessimo considerato",
+                    "che noi avessimo ponderato",
+                    "che noi avessimo valutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consideravissētis",
+                "traduzioni": [
+                    "che voi aveste esaminato",
+                    "che voi aveste considerato",
+                    "che voi aveste ponderato",
+                    "che voi aveste valutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consideravissent",
+                "traduzioni": [
+                    "che loro avessero esaminato",
+                    "che essi avessero esaminato",
+                    "che loro avessero considerato",
+                    "che essi avessero considerato",
+                    "che loro avessero ponderato",
+                    "che essi avessero ponderato",
+                    "che loro avessero valutato",
+                    "che essi avessero valutato"
+                ]
+            }
+        ]
+    }
+}

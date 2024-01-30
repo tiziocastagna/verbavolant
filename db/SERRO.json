@@ -1,0 +1,502 @@
+{
+    "identifier": "SERRO",
+    "conuigazione": "1",
+    "translation": [
+        "segare"
+    ],
+    "valid_translations": [
+        "segare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "serro",
+                "traduzioni": [
+                    "io sego"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serras",
+                "traduzioni": [
+                    "tu seghi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serrat",
+                "traduzioni": [
+                    "lui sega",
+                    "lei sega",
+                    "egli sega"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serrāmus",
+                "traduzioni": [
+                    "noi seghiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serrātis",
+                "traduzioni": [
+                    "voi segate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serrant",
+                "traduzioni": [
+                    "loro segano",
+                    "essi segano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "serrābam",
+                "traduzioni": [
+                    "io segavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serrābas",
+                "traduzioni": [
+                    "tu segavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serrābat",
+                "traduzioni": [
+                    "lui segava",
+                    "lei segava",
+                    "egli segava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serrabāmus",
+                "traduzioni": [
+                    "noi segavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serrabātis",
+                "traduzioni": [
+                    "voi segavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serrābant",
+                "traduzioni": [
+                    "loro segavano",
+                    "essi segavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "serrābo",
+                "traduzioni": [
+                    "io segherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serrābis",
+                "traduzioni": [
+                    "tu segherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serrābit",
+                "traduzioni": [
+                    "lui segherà",
+                    "lei segherà",
+                    "egli segherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serrabĭmus",
+                "traduzioni": [
+                    "noi segheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serrabĭtis",
+                "traduzioni": [
+                    "voi segherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serrābunt",
+                "traduzioni": [
+                    "loro segheranno",
+                    "essi segheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "serravi",
+                "traduzioni": [
+                    "io segai",
+                    "io ho segato",
+                    "io ebbi segato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serravisti",
+                "traduzioni": [
+                    "tu segasti",
+                    "tu hai segato",
+                    "tu avesti segato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serravit",
+                "traduzioni": [
+                    "lui segò",
+                    "lei segò",
+                    "egli segò",
+                    "lui ha segato",
+                    "lei ha segato",
+                    "egli ha segato",
+                    "lui ebbe segato",
+                    "lei ebbe segato",
+                    "egli ebbe segato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serravĭmus",
+                "traduzioni": [
+                    "noi segammo",
+                    "noi abbiamo segato",
+                    "noi avemmo segato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serravistis",
+                "traduzioni": [
+                    "voi segaste",
+                    "voi avete segato",
+                    "voi aveste segato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serravērunt, serravēre",
+                "traduzioni": [
+                    "loro segarono",
+                    "essi segarono",
+                    "loro hanno segato",
+                    "essi hanno segato",
+                    "loro ebbero segato",
+                    "essi ebbero segato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "serravĕram",
+                "traduzioni": [
+                    "io avevo segato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serravĕras",
+                "traduzioni": [
+                    "tu avevi segato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serravĕrat",
+                "traduzioni": [
+                    "lui aveva segato",
+                    "lei aveva segato",
+                    "egli aveva segato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serraverāmus",
+                "traduzioni": [
+                    "noi avevamo segato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serraverātis",
+                "traduzioni": [
+                    "voi avevate segato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serravĕrant",
+                "traduzioni": [
+                    "loro avevano segato",
+                    "essi avevano segato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "serravĕro",
+                "traduzioni": [
+                    "io avrò segato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serravĕris",
+                "traduzioni": [
+                    "tu avrai segato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serravĕrit",
+                "traduzioni": [
+                    "lui avrà segato",
+                    "lei avrà segato",
+                    "egli avrà segato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serraverĭmus",
+                "traduzioni": [
+                    "noi avremo segato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serraverĭtis",
+                "traduzioni": [
+                    "voi avrete segato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serravĕrint",
+                "traduzioni": [
+                    "loro avranno segato",
+                    "essi avranno segato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "serrem",
+                "traduzioni": [
+                    "che io seghi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serres",
+                "traduzioni": [
+                    "che tu seghi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serret",
+                "traduzioni": [
+                    "che lui seghi",
+                    "che lei seghi",
+                    "che egli seghi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serrēmus",
+                "traduzioni": [
+                    "che noi seghiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serrētis",
+                "traduzioni": [
+                    "che voi seghiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serrent",
+                "traduzioni": [
+                    "che loro seghino",
+                    "che essi seghino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "serrārem",
+                "traduzioni": [
+                    "che io segassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serrāres",
+                "traduzioni": [
+                    "che tu segassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serrāret",
+                "traduzioni": [
+                    "che lui segasse",
+                    "che lei segasse",
+                    "che egli segasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serrarēmus",
+                "traduzioni": [
+                    "che noi segassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serrarētis",
+                "traduzioni": [
+                    "che voi segaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serrārent",
+                "traduzioni": [
+                    "che loro segassero",
+                    "che essi segassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "serravĕrim",
+                "traduzioni": [
+                    "che io abbia segato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serravĕris",
+                "traduzioni": [
+                    "che tu abbia segato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serravĕrit",
+                "traduzioni": [
+                    "che lui abbia segato",
+                    "che lei abbia segato",
+                    "che egli abbia segato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo segato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate segato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serravĕrint",
+                "traduzioni": [
+                    "che loro abbiano segato",
+                    "che essi abbiano segato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "serravissem",
+                "traduzioni": [
+                    "che io avessi segato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serravisses",
+                "traduzioni": [
+                    "che tu avessi segato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serravisset",
+                "traduzioni": [
+                    "che lui avesse segato",
+                    "che lei avesse segato",
+                    "che egli avesse segato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serravissēmus",
+                "traduzioni": [
+                    "che noi avessimo segato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serravissētis",
+                "traduzioni": [
+                    "che voi aveste segato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serravissent",
+                "traduzioni": [
+                    "che loro avessero segato",
+                    "che essi avessero segato"
+                ]
+            }
+        ]
+    }
+}

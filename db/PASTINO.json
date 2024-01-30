@@ -1,0 +1,502 @@
+{
+    "identifier": "PASTINO",
+    "conuigazione": "1",
+    "translation": [
+        "zappare"
+    ],
+    "valid_translations": [
+        "zappare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pastĭno",
+                "traduzioni": [
+                    "io zappo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pastĭnas",
+                "traduzioni": [
+                    "tu zappi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pastĭnat",
+                "traduzioni": [
+                    "lui zappa",
+                    "lei zappa",
+                    "egli zappa"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pastĭnāmus",
+                "traduzioni": [
+                    "noi zappiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pastĭnātis",
+                "traduzioni": [
+                    "voi zappate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pastĭnant",
+                "traduzioni": [
+                    "loro zappano",
+                    "essi zappano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pastĭnābam",
+                "traduzioni": [
+                    "io zappavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pastĭnābas",
+                "traduzioni": [
+                    "tu zappavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pastĭnābat",
+                "traduzioni": [
+                    "lui zappava",
+                    "lei zappava",
+                    "egli zappava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pastĭnabāmus",
+                "traduzioni": [
+                    "noi zappavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pastĭnabātis",
+                "traduzioni": [
+                    "voi zappavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pastĭnābant",
+                "traduzioni": [
+                    "loro zappavano",
+                    "essi zappavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pastĭnābo",
+                "traduzioni": [
+                    "io zapperò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pastĭnābis",
+                "traduzioni": [
+                    "tu zapperai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pastĭnābit",
+                "traduzioni": [
+                    "lui zapperà",
+                    "lei zapperà",
+                    "egli zapperà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pastĭnabĭmus",
+                "traduzioni": [
+                    "noi zapperemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pastĭnabĭtis",
+                "traduzioni": [
+                    "voi zapperete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pastĭnābunt",
+                "traduzioni": [
+                    "loro zapperanno",
+                    "essi zapperanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pastinavi",
+                "traduzioni": [
+                    "io zappai",
+                    "io ho zappato",
+                    "io ebbi zappato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pastinavisti",
+                "traduzioni": [
+                    "tu zappasti",
+                    "tu hai zappato",
+                    "tu avesti zappato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pastinavit",
+                "traduzioni": [
+                    "lui zappò",
+                    "lei zappò",
+                    "egli zappò",
+                    "lui ha zappato",
+                    "lei ha zappato",
+                    "egli ha zappato",
+                    "lui ebbe zappato",
+                    "lei ebbe zappato",
+                    "egli ebbe zappato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pastinavĭmus",
+                "traduzioni": [
+                    "noi zappammo",
+                    "noi abbiamo zappato",
+                    "noi avemmo zappato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pastinavistis",
+                "traduzioni": [
+                    "voi zappaste",
+                    "voi avete zappato",
+                    "voi aveste zappato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pastinavērunt, pastinavēre",
+                "traduzioni": [
+                    "loro zapparono",
+                    "essi zapparono",
+                    "loro hanno zappato",
+                    "essi hanno zappato",
+                    "loro ebbero zappato",
+                    "essi ebbero zappato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pastinavĕram",
+                "traduzioni": [
+                    "io avevo zappato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pastinavĕras",
+                "traduzioni": [
+                    "tu avevi zappato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pastinavĕrat",
+                "traduzioni": [
+                    "lui aveva zappato",
+                    "lei aveva zappato",
+                    "egli aveva zappato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pastinaverāmus",
+                "traduzioni": [
+                    "noi avevamo zappato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pastinaverātis",
+                "traduzioni": [
+                    "voi avevate zappato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pastinavĕrant",
+                "traduzioni": [
+                    "loro avevano zappato",
+                    "essi avevano zappato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pastinavĕro",
+                "traduzioni": [
+                    "io avrò zappato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pastinavĕris",
+                "traduzioni": [
+                    "tu avrai zappato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pastinavĕrit",
+                "traduzioni": [
+                    "lui avrà zappato",
+                    "lei avrà zappato",
+                    "egli avrà zappato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pastinaverĭmus",
+                "traduzioni": [
+                    "noi avremo zappato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pastinaverĭtis",
+                "traduzioni": [
+                    "voi avrete zappato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pastinavĕrint",
+                "traduzioni": [
+                    "loro avranno zappato",
+                    "essi avranno zappato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pastĭnem",
+                "traduzioni": [
+                    "che io zappi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pastĭnes",
+                "traduzioni": [
+                    "che tu zappi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pastĭnet",
+                "traduzioni": [
+                    "che lui zappi",
+                    "che lei zappi",
+                    "che egli zappi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pastĭnēmus",
+                "traduzioni": [
+                    "che noi zappiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pastĭnētis",
+                "traduzioni": [
+                    "che voi zappiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pastĭnent",
+                "traduzioni": [
+                    "che loro zappino",
+                    "che essi zappino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pastĭnārem",
+                "traduzioni": [
+                    "che io zappassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pastĭnāres",
+                "traduzioni": [
+                    "che tu zappassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pastĭnāret",
+                "traduzioni": [
+                    "che lui zappasse",
+                    "che lei zappasse",
+                    "che egli zappasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pastĭnarēmus",
+                "traduzioni": [
+                    "che noi zappassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pastĭnarētis",
+                "traduzioni": [
+                    "che voi zappaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pastĭnārent",
+                "traduzioni": [
+                    "che loro zappassero",
+                    "che essi zappassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pastinavĕrim",
+                "traduzioni": [
+                    "che io abbia zappato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pastinavĕris",
+                "traduzioni": [
+                    "che tu abbia zappato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pastinavĕrit",
+                "traduzioni": [
+                    "che lui abbia zappato",
+                    "che lei abbia zappato",
+                    "che egli abbia zappato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pastinaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo zappato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pastinaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate zappato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pastinavĕrint",
+                "traduzioni": [
+                    "che loro abbiano zappato",
+                    "che essi abbiano zappato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pastinavissem",
+                "traduzioni": [
+                    "che io avessi zappato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pastinavisses",
+                "traduzioni": [
+                    "che tu avessi zappato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pastinavisset",
+                "traduzioni": [
+                    "che lui avesse zappato",
+                    "che lei avesse zappato",
+                    "che egli avesse zappato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pastinavissēmus",
+                "traduzioni": [
+                    "che noi avessimo zappato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pastinavissētis",
+                "traduzioni": [
+                    "che voi aveste zappato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pastinavissent",
+                "traduzioni": [
+                    "che loro avessero zappato",
+                    "che essi avessero zappato"
+                ]
+            }
+        ]
+    }
+}

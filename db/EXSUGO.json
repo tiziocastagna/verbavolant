@@ -1,0 +1,955 @@
+{
+    "identifier": "EXSUGO",
+    "conuigazione": "3",
+    "translation": [
+        "spremere",
+        "premere",
+        "strizzare",
+        "(in senso figurato) inaridire",
+        "vuotare",
+        "succhiare"
+    ],
+    "valid_translations": [
+        "spremere",
+        "premere",
+        "strizzare",
+        "vuotare",
+        "succhiare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "exsūgo",
+                "traduzioni": [
+                    "io spremo",
+                    "io premo",
+                    "io strizzo",
+                    "io vuoto",
+                    "io succhio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "exsūgis",
+                "traduzioni": [
+                    "tu spremi",
+                    "tu premi",
+                    "tu strizzi",
+                    "tu vuoti",
+                    "tu succhi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "exsūgit",
+                "traduzioni": [
+                    "lui spreme",
+                    "lei spreme",
+                    "egli spreme",
+                    "lui preme",
+                    "lei preme",
+                    "egli preme",
+                    "lui strizza",
+                    "lei strizza",
+                    "egli strizza",
+                    "lui vuota",
+                    "lei vuota",
+                    "egli vuota",
+                    "lui succhia",
+                    "lei succhia",
+                    "egli succhia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "exsūgĭmus",
+                "traduzioni": [
+                    "noi spremiamo",
+                    "noi premiamo",
+                    "noi strizziamo",
+                    "noi vuotiamo",
+                    "noi succhiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "exsūgĭtis",
+                "traduzioni": [
+                    "voi spremete",
+                    "voi premete",
+                    "voi strizzate",
+                    "voi vuotate",
+                    "voi succhiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "exsūgunt",
+                "traduzioni": [
+                    "loro spremono",
+                    "essi spremono",
+                    "loro premono",
+                    "essi premono",
+                    "loro strizzano",
+                    "essi strizzano",
+                    "loro vuotano",
+                    "essi vuotano",
+                    "loro succhiano",
+                    "essi succhiano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "exsūgēbam",
+                "traduzioni": [
+                    "io spremevo",
+                    "io premevo",
+                    "io strizzavo",
+                    "io vuotavo",
+                    "io succhiavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "exsūgēbas",
+                "traduzioni": [
+                    "tu spremevi",
+                    "tu premevi",
+                    "tu strizzavi",
+                    "tu vuotavi",
+                    "tu succhiavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "exsūgēbat",
+                "traduzioni": [
+                    "lui spremeva",
+                    "lei spremeva",
+                    "egli spremeva",
+                    "lui premeva",
+                    "lei premeva",
+                    "egli premeva",
+                    "lui strizzava",
+                    "lei strizzava",
+                    "egli strizzava",
+                    "lui vuotava",
+                    "lei vuotava",
+                    "egli vuotava",
+                    "lui succhiava",
+                    "lei succhiava",
+                    "egli succhiava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "exsūgebāmus",
+                "traduzioni": [
+                    "noi spremevamo",
+                    "noi premevamo",
+                    "noi strizzavamo",
+                    "noi vuotavamo",
+                    "noi succhiavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "exsūgebātis",
+                "traduzioni": [
+                    "voi spremevate",
+                    "voi premevate",
+                    "voi strizzavate",
+                    "voi vuotavate",
+                    "voi succhiavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "exsūgēbant",
+                "traduzioni": [
+                    "loro spremevano",
+                    "essi spremevano",
+                    "loro premevano",
+                    "essi premevano",
+                    "loro strizzavano",
+                    "essi strizzavano",
+                    "loro vuotavano",
+                    "essi vuotavano",
+                    "loro succhiavano",
+                    "essi succhiavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "exsūgam, exsūgebo",
+                "traduzioni": [
+                    "io spremerò",
+                    "io premerò",
+                    "io strizzerò",
+                    "io vuoterò",
+                    "io succhierò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "exsūges",
+                "traduzioni": [
+                    "tu spremerai",
+                    "tu premerai",
+                    "tu strizzerai",
+                    "tu vuoterai",
+                    "tu succhierai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "exsūget",
+                "traduzioni": [
+                    "lui spremerà",
+                    "lei spremerà",
+                    "egli spremerà",
+                    "lui premerà",
+                    "lei premerà",
+                    "egli premerà",
+                    "lui strizzerà",
+                    "lei strizzerà",
+                    "egli strizzerà",
+                    "lui vuoterà",
+                    "lei vuoterà",
+                    "egli vuoterà",
+                    "lui succhierà",
+                    "lei succhierà",
+                    "egli succhierà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "exsūgēmus",
+                "traduzioni": [
+                    "noi spremeremo",
+                    "noi premeremo",
+                    "noi strizzeremo",
+                    "noi vuoteremo",
+                    "noi succhieremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "exsūgētis",
+                "traduzioni": [
+                    "voi spremerete",
+                    "voi premerete",
+                    "voi strizzerete",
+                    "voi vuoterete",
+                    "voi succhierete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "exsūgent",
+                "traduzioni": [
+                    "loro spremeranno",
+                    "essi spremeranno",
+                    "loro premeranno",
+                    "essi premeranno",
+                    "loro strizzeranno",
+                    "essi strizzeranno",
+                    "loro vuoteranno",
+                    "essi vuoteranno",
+                    "loro succhieranno",
+                    "essi succhieranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "exsuxi",
+                "traduzioni": [
+                    "io spremetti",
+                    "io spremei",
+                    "io ho spremuto",
+                    "io ebbi spremuto",
+                    "io premetti",
+                    "io premei",
+                    "io ho premuto",
+                    "io ebbi premuto",
+                    "io strizzai",
+                    "io ho strizzato",
+                    "io ebbi strizzato",
+                    "io vuotai",
+                    "io ho vuotato",
+                    "io ebbi vuotato",
+                    "io succhiai",
+                    "io ho succhiato",
+                    "io ebbi succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "exsuxisti",
+                "traduzioni": [
+                    "tu spremesti",
+                    "tu hai spremuto",
+                    "tu avesti spremuto",
+                    "tu premesti",
+                    "tu hai premuto",
+                    "tu avesti premuto",
+                    "tu strizzasti",
+                    "tu hai strizzato",
+                    "tu avesti strizzato",
+                    "tu vuotasti",
+                    "tu hai vuotato",
+                    "tu avesti vuotato",
+                    "tu succhiasti",
+                    "tu hai succhiato",
+                    "tu avesti succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "exsuxit",
+                "traduzioni": [
+                    "lui spremette",
+                    "lei spremette",
+                    "egli spremette",
+                    "lui spremé",
+                    "lei spremé",
+                    "egli spremé",
+                    "lui ha spremuto",
+                    "lei ha spremuto",
+                    "egli ha spremuto",
+                    "lui ebbe spremuto",
+                    "lei ebbe spremuto",
+                    "egli ebbe spremuto",
+                    "lui premette",
+                    "lei premette",
+                    "egli premette",
+                    "lui premé",
+                    "lei premé",
+                    "egli premé",
+                    "lui ha premuto",
+                    "lei ha premuto",
+                    "egli ha premuto",
+                    "lui ebbe premuto",
+                    "lei ebbe premuto",
+                    "egli ebbe premuto",
+                    "lui strizzò",
+                    "lei strizzò",
+                    "egli strizzò",
+                    "lui ha strizzato",
+                    "lei ha strizzato",
+                    "egli ha strizzato",
+                    "lui ebbe strizzato",
+                    "lei ebbe strizzato",
+                    "egli ebbe strizzato",
+                    "lui vuotò",
+                    "lei vuotò",
+                    "egli vuotò",
+                    "lui ha vuotato",
+                    "lei ha vuotato",
+                    "egli ha vuotato",
+                    "lui ebbe vuotato",
+                    "lei ebbe vuotato",
+                    "egli ebbe vuotato",
+                    "lui succhiò",
+                    "lei succhiò",
+                    "egli succhiò",
+                    "lui ha succhiato",
+                    "lei ha succhiato",
+                    "egli ha succhiato",
+                    "lui ebbe succhiato",
+                    "lei ebbe succhiato",
+                    "egli ebbe succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "exsuxĭmus",
+                "traduzioni": [
+                    "noi sprememmo",
+                    "noi abbiamo spremuto",
+                    "noi avemmo spremuto",
+                    "noi prememmo",
+                    "noi abbiamo premuto",
+                    "noi avemmo premuto",
+                    "noi strizzammo",
+                    "noi abbiamo strizzato",
+                    "noi avemmo strizzato",
+                    "noi vuotammo",
+                    "noi abbiamo vuotato",
+                    "noi avemmo vuotato",
+                    "noi succhiammo",
+                    "noi abbiamo succhiato",
+                    "noi avemmo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "exsuxistis",
+                "traduzioni": [
+                    "voi spremeste",
+                    "voi avete spremuto",
+                    "voi aveste spremuto",
+                    "voi premeste",
+                    "voi avete premuto",
+                    "voi aveste premuto",
+                    "voi strizzaste",
+                    "voi avete strizzato",
+                    "voi aveste strizzato",
+                    "voi vuotaste",
+                    "voi avete vuotato",
+                    "voi aveste vuotato",
+                    "voi succhiaste",
+                    "voi avete succhiato",
+                    "voi aveste succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "exsuxērunt, exsuxēre",
+                "traduzioni": [
+                    "loro spremettero",
+                    "essi spremettero",
+                    "loro spremerono",
+                    "essi spremerono",
+                    "loro hanno spremuto",
+                    "essi hanno spremuto",
+                    "loro ebbero spremuto",
+                    "essi ebbero spremuto",
+                    "loro premettero",
+                    "essi premettero",
+                    "loro premerono",
+                    "essi premerono",
+                    "loro hanno premuto",
+                    "essi hanno premuto",
+                    "loro ebbero premuto",
+                    "essi ebbero premuto",
+                    "loro strizzarono",
+                    "essi strizzarono",
+                    "loro hanno strizzato",
+                    "essi hanno strizzato",
+                    "loro ebbero strizzato",
+                    "essi ebbero strizzato",
+                    "loro vuotarono",
+                    "essi vuotarono",
+                    "loro hanno vuotato",
+                    "essi hanno vuotato",
+                    "loro ebbero vuotato",
+                    "essi ebbero vuotato",
+                    "loro succhiarono",
+                    "essi succhiarono",
+                    "loro hanno succhiato",
+                    "essi hanno succhiato",
+                    "loro ebbero succhiato",
+                    "essi ebbero succhiato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "exsuxĕram",
+                "traduzioni": [
+                    "io avevo spremuto",
+                    "io avevo premuto",
+                    "io avevo strizzato",
+                    "io avevo vuotato",
+                    "io avevo succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "exsuxĕras",
+                "traduzioni": [
+                    "tu avevi spremuto",
+                    "tu avevi premuto",
+                    "tu avevi strizzato",
+                    "tu avevi vuotato",
+                    "tu avevi succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "exsuxĕrat",
+                "traduzioni": [
+                    "lui aveva spremuto",
+                    "lei aveva spremuto",
+                    "egli aveva spremuto",
+                    "lui aveva premuto",
+                    "lei aveva premuto",
+                    "egli aveva premuto",
+                    "lui aveva strizzato",
+                    "lei aveva strizzato",
+                    "egli aveva strizzato",
+                    "lui aveva vuotato",
+                    "lei aveva vuotato",
+                    "egli aveva vuotato",
+                    "lui aveva succhiato",
+                    "lei aveva succhiato",
+                    "egli aveva succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "exsuxerāmus",
+                "traduzioni": [
+                    "noi avevamo spremuto",
+                    "noi avevamo premuto",
+                    "noi avevamo strizzato",
+                    "noi avevamo vuotato",
+                    "noi avevamo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "exsuxerātis",
+                "traduzioni": [
+                    "voi avevate spremuto",
+                    "voi avevate premuto",
+                    "voi avevate strizzato",
+                    "voi avevate vuotato",
+                    "voi avevate succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "exsuxĕrant",
+                "traduzioni": [
+                    "loro avevano spremuto",
+                    "essi avevano spremuto",
+                    "loro avevano premuto",
+                    "essi avevano premuto",
+                    "loro avevano strizzato",
+                    "essi avevano strizzato",
+                    "loro avevano vuotato",
+                    "essi avevano vuotato",
+                    "loro avevano succhiato",
+                    "essi avevano succhiato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "exsuxĕro",
+                "traduzioni": [
+                    "io avrò spremuto",
+                    "io avrò premuto",
+                    "io avrò strizzato",
+                    "io avrò vuotato",
+                    "io avrò succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "exsuxĕris",
+                "traduzioni": [
+                    "tu avrai spremuto",
+                    "tu avrai premuto",
+                    "tu avrai strizzato",
+                    "tu avrai vuotato",
+                    "tu avrai succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "exsuxĕrit",
+                "traduzioni": [
+                    "lui avrà spremuto",
+                    "lei avrà spremuto",
+                    "egli avrà spremuto",
+                    "lui avrà premuto",
+                    "lei avrà premuto",
+                    "egli avrà premuto",
+                    "lui avrà strizzato",
+                    "lei avrà strizzato",
+                    "egli avrà strizzato",
+                    "lui avrà vuotato",
+                    "lei avrà vuotato",
+                    "egli avrà vuotato",
+                    "lui avrà succhiato",
+                    "lei avrà succhiato",
+                    "egli avrà succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "exsuxerĭmus",
+                "traduzioni": [
+                    "noi avremo spremuto",
+                    "noi avremo premuto",
+                    "noi avremo strizzato",
+                    "noi avremo vuotato",
+                    "noi avremo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "exsuxerĭtis",
+                "traduzioni": [
+                    "voi avrete spremuto",
+                    "voi avrete premuto",
+                    "voi avrete strizzato",
+                    "voi avrete vuotato",
+                    "voi avrete succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "exsuxĕrint",
+                "traduzioni": [
+                    "loro avranno spremuto",
+                    "essi avranno spremuto",
+                    "loro avranno premuto",
+                    "essi avranno premuto",
+                    "loro avranno strizzato",
+                    "essi avranno strizzato",
+                    "loro avranno vuotato",
+                    "essi avranno vuotato",
+                    "loro avranno succhiato",
+                    "essi avranno succhiato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "exsūgam",
+                "traduzioni": [
+                    "che io sprema",
+                    "che io prema",
+                    "che io strizzi",
+                    "che io vuoti",
+                    "che io succhi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "exsūgas",
+                "traduzioni": [
+                    "che tu sprema",
+                    "che tu prema",
+                    "che tu strizzi",
+                    "che tu vuoti",
+                    "che tu succhi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "exsūgat",
+                "traduzioni": [
+                    "che lui sprema",
+                    "che lei sprema",
+                    "che egli sprema",
+                    "che lui prema",
+                    "che lei prema",
+                    "che egli prema",
+                    "che lui strizzi",
+                    "che lei strizzi",
+                    "che egli strizzi",
+                    "che lui vuoti",
+                    "che lei vuoti",
+                    "che egli vuoti",
+                    "che lui succhi",
+                    "che lei succhi",
+                    "che egli succhi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "exsūgāmus",
+                "traduzioni": [
+                    "che noi spremiamo",
+                    "che noi premiamo",
+                    "che noi strizziamo",
+                    "che noi vuotiamo",
+                    "che noi succhiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "exsūgātis",
+                "traduzioni": [
+                    "che voi spremiate",
+                    "che voi premiate",
+                    "che voi strizziate",
+                    "che voi vuotiate",
+                    "che voi succhiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "exsūgant",
+                "traduzioni": [
+                    "che loro spremano",
+                    "che essi spremano",
+                    "che loro premano",
+                    "che essi premano",
+                    "che loro strizzino",
+                    "che essi strizzino",
+                    "che loro vuotino",
+                    "che essi vuotino",
+                    "che loro succhino",
+                    "che essi succhino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "exsūgĕrem",
+                "traduzioni": [
+                    "che io spremessi",
+                    "che io premessi",
+                    "che io strizzassi",
+                    "che io vuotassi",
+                    "che io succhiassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "exsūgĕres",
+                "traduzioni": [
+                    "che tu spremessi",
+                    "che tu premessi",
+                    "che tu strizzassi",
+                    "che tu vuotassi",
+                    "che tu succhiassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "exsūgĕret",
+                "traduzioni": [
+                    "che lui spremesse",
+                    "che lei spremesse",
+                    "che egli spremesse",
+                    "che lui premesse",
+                    "che lei premesse",
+                    "che egli premesse",
+                    "che lui strizzasse",
+                    "che lei strizzasse",
+                    "che egli strizzasse",
+                    "che lui vuotasse",
+                    "che lei vuotasse",
+                    "che egli vuotasse",
+                    "che lui succhiasse",
+                    "che lei succhiasse",
+                    "che egli succhiasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "exsūgerēmus",
+                "traduzioni": [
+                    "che noi spremessimo",
+                    "che noi premessimo",
+                    "che noi strizzassimo",
+                    "che noi vuotassimo",
+                    "che noi succhiassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "exsūgerētis",
+                "traduzioni": [
+                    "che voi spremeste",
+                    "che voi premeste",
+                    "che voi strizzaste",
+                    "che voi vuotaste",
+                    "che voi succhiaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "exsūgĕrent",
+                "traduzioni": [
+                    "che loro spremessero",
+                    "che essi spremessero",
+                    "che loro premessero",
+                    "che essi premessero",
+                    "che loro strizzassero",
+                    "che essi strizzassero",
+                    "che loro vuotassero",
+                    "che essi vuotassero",
+                    "che loro succhiassero",
+                    "che essi succhiassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "exsuxĕrim",
+                "traduzioni": [
+                    "che io abbia spremuto",
+                    "che io abbia premuto",
+                    "che io abbia strizzato",
+                    "che io abbia vuotato",
+                    "che io abbia succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "exsuxĕris",
+                "traduzioni": [
+                    "che tu abbia spremuto",
+                    "che tu abbia premuto",
+                    "che tu abbia strizzato",
+                    "che tu abbia vuotato",
+                    "che tu abbia succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "exsuxĕrit",
+                "traduzioni": [
+                    "che lui abbia spremuto",
+                    "che lei abbia spremuto",
+                    "che egli abbia spremuto",
+                    "che lui abbia premuto",
+                    "che lei abbia premuto",
+                    "che egli abbia premuto",
+                    "che lui abbia strizzato",
+                    "che lei abbia strizzato",
+                    "che egli abbia strizzato",
+                    "che lui abbia vuotato",
+                    "che lei abbia vuotato",
+                    "che egli abbia vuotato",
+                    "che lui abbia succhiato",
+                    "che lei abbia succhiato",
+                    "che egli abbia succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "exsuxerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo spremuto",
+                    "che noi abbiamo premuto",
+                    "che noi abbiamo strizzato",
+                    "che noi abbiamo vuotato",
+                    "che noi abbiamo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "exsuxerĭtis",
+                "traduzioni": [
+                    "che voi abbiate spremuto",
+                    "che voi abbiate premuto",
+                    "che voi abbiate strizzato",
+                    "che voi abbiate vuotato",
+                    "che voi abbiate succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "exsuxĕrint",
+                "traduzioni": [
+                    "che loro abbiano spremuto",
+                    "che essi abbiano spremuto",
+                    "che loro abbiano premuto",
+                    "che essi abbiano premuto",
+                    "che loro abbiano strizzato",
+                    "che essi abbiano strizzato",
+                    "che loro abbiano vuotato",
+                    "che essi abbiano vuotato",
+                    "che loro abbiano succhiato",
+                    "che essi abbiano succhiato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "exsuxissem",
+                "traduzioni": [
+                    "che io avessi spremuto",
+                    "che io avessi premuto",
+                    "che io avessi strizzato",
+                    "che io avessi vuotato",
+                    "che io avessi succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "exsuxisses",
+                "traduzioni": [
+                    "che tu avessi spremuto",
+                    "che tu avessi premuto",
+                    "che tu avessi strizzato",
+                    "che tu avessi vuotato",
+                    "che tu avessi succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "exsuxisset",
+                "traduzioni": [
+                    "che lui avesse spremuto",
+                    "che lei avesse spremuto",
+                    "che egli avesse spremuto",
+                    "che lui avesse premuto",
+                    "che lei avesse premuto",
+                    "che egli avesse premuto",
+                    "che lui avesse strizzato",
+                    "che lei avesse strizzato",
+                    "che egli avesse strizzato",
+                    "che lui avesse vuotato",
+                    "che lei avesse vuotato",
+                    "che egli avesse vuotato",
+                    "che lui avesse succhiato",
+                    "che lei avesse succhiato",
+                    "che egli avesse succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "exsuxissēmus",
+                "traduzioni": [
+                    "che noi avessimo spremuto",
+                    "che noi avessimo premuto",
+                    "che noi avessimo strizzato",
+                    "che noi avessimo vuotato",
+                    "che noi avessimo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "exsuxissētis",
+                "traduzioni": [
+                    "che voi aveste spremuto",
+                    "che voi aveste premuto",
+                    "che voi aveste strizzato",
+                    "che voi aveste vuotato",
+                    "che voi aveste succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "exsuxissent",
+                "traduzioni": [
+                    "che loro avessero spremuto",
+                    "che essi avessero spremuto",
+                    "che loro avessero premuto",
+                    "che essi avessero premuto",
+                    "che loro avessero strizzato",
+                    "che essi avessero strizzato",
+                    "che loro avessero vuotato",
+                    "che essi avessero vuotato",
+                    "che loro avessero succhiato",
+                    "che essi avessero succhiato"
+                ]
+            }
+        ]
+    }
+}

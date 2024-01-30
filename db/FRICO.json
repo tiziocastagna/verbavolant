@@ -1,0 +1,723 @@
+{
+    "identifier": "FRICO",
+    "conuigazione": "1",
+    "translation": [
+        "sfregare",
+        "strofinare",
+        "medicina massaggiare",
+        "frizionare"
+    ],
+    "valid_translations": [
+        "sfregare",
+        "strofinare",
+        "frizionare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "frĭco",
+                "traduzioni": [
+                    "io sfrego",
+                    "io strofino",
+                    "io friziono"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frĭcas",
+                "traduzioni": [
+                    "tu sfreghi",
+                    "tu strofini",
+                    "tu frizioni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frĭcat",
+                "traduzioni": [
+                    "lui sfrega",
+                    "lei sfrega",
+                    "egli sfrega",
+                    "lui strofina",
+                    "lei strofina",
+                    "egli strofina",
+                    "lui friziona",
+                    "lei friziona",
+                    "egli friziona"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frĭcāmus",
+                "traduzioni": [
+                    "noi sfreghiamo",
+                    "noi strofiniamo",
+                    "noi frizioniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frĭcātis",
+                "traduzioni": [
+                    "voi sfregate",
+                    "voi strofinate",
+                    "voi frizionate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frĭcant",
+                "traduzioni": [
+                    "loro sfregano",
+                    "essi sfregano",
+                    "loro strofinano",
+                    "essi strofinano",
+                    "loro frizionano",
+                    "essi frizionano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "frĭcābam",
+                "traduzioni": [
+                    "io sfregavo",
+                    "io strofinavo",
+                    "io frizionavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frĭcābas",
+                "traduzioni": [
+                    "tu sfregavi",
+                    "tu strofinavi",
+                    "tu frizionavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frĭcābat",
+                "traduzioni": [
+                    "lui sfregava",
+                    "lei sfregava",
+                    "egli sfregava",
+                    "lui strofinava",
+                    "lei strofinava",
+                    "egli strofinava",
+                    "lui frizionava",
+                    "lei frizionava",
+                    "egli frizionava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frĭcabāmus",
+                "traduzioni": [
+                    "noi sfregavamo",
+                    "noi strofinavamo",
+                    "noi frizionavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frĭcabātis",
+                "traduzioni": [
+                    "voi sfregavate",
+                    "voi strofinavate",
+                    "voi frizionavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frĭcābant",
+                "traduzioni": [
+                    "loro sfregavano",
+                    "essi sfregavano",
+                    "loro strofinavano",
+                    "essi strofinavano",
+                    "loro frizionavano",
+                    "essi frizionavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "frĭcābo",
+                "traduzioni": [
+                    "io sfregherò",
+                    "io strofinerò",
+                    "io frizionerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frĭcābis",
+                "traduzioni": [
+                    "tu sfregherai",
+                    "tu strofinerai",
+                    "tu frizionerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frĭcābit",
+                "traduzioni": [
+                    "lui sfregherà",
+                    "lei sfregherà",
+                    "egli sfregherà",
+                    "lui strofinerà",
+                    "lei strofinerà",
+                    "egli strofinerà",
+                    "lui frizionerà",
+                    "lei frizionerà",
+                    "egli frizionerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frĭcabĭmus",
+                "traduzioni": [
+                    "noi sfregheremo",
+                    "noi strofineremo",
+                    "noi frizioneremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frĭcabĭtis",
+                "traduzioni": [
+                    "voi sfregherete",
+                    "voi strofinerete",
+                    "voi frizionerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frĭcābunt",
+                "traduzioni": [
+                    "loro sfregheranno",
+                    "essi sfregheranno",
+                    "loro strofineranno",
+                    "essi strofineranno",
+                    "loro frizioneranno",
+                    "essi frizioneranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fricui",
+                "traduzioni": [
+                    "io sfregai",
+                    "io ho sfregato",
+                    "io ebbi sfregato",
+                    "io strofinai",
+                    "io ho strofinato",
+                    "io ebbi strofinato",
+                    "io frizionai",
+                    "io ho frizionato",
+                    "io ebbi frizionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fricuisti",
+                "traduzioni": [
+                    "tu sfregasti",
+                    "tu hai sfregato",
+                    "tu avesti sfregato",
+                    "tu strofinasti",
+                    "tu hai strofinato",
+                    "tu avesti strofinato",
+                    "tu frizionasti",
+                    "tu hai frizionato",
+                    "tu avesti frizionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fricuit",
+                "traduzioni": [
+                    "lui sfregò",
+                    "lei sfregò",
+                    "egli sfregò",
+                    "lui ha sfregato",
+                    "lei ha sfregato",
+                    "egli ha sfregato",
+                    "lui ebbe sfregato",
+                    "lei ebbe sfregato",
+                    "egli ebbe sfregato",
+                    "lui strofinò",
+                    "lei strofinò",
+                    "egli strofinò",
+                    "lui ha strofinato",
+                    "lei ha strofinato",
+                    "egli ha strofinato",
+                    "lui ebbe strofinato",
+                    "lei ebbe strofinato",
+                    "egli ebbe strofinato",
+                    "lui frizionò",
+                    "lei frizionò",
+                    "egli frizionò",
+                    "lui ha frizionato",
+                    "lei ha frizionato",
+                    "egli ha frizionato",
+                    "lui ebbe frizionato",
+                    "lei ebbe frizionato",
+                    "egli ebbe frizionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fricuĭmus",
+                "traduzioni": [
+                    "noi sfregammo",
+                    "noi abbiamo sfregato",
+                    "noi avemmo sfregato",
+                    "noi strofinammo",
+                    "noi abbiamo strofinato",
+                    "noi avemmo strofinato",
+                    "noi frizionammo",
+                    "noi abbiamo frizionato",
+                    "noi avemmo frizionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fricuistis",
+                "traduzioni": [
+                    "voi sfregaste",
+                    "voi avete sfregato",
+                    "voi aveste sfregato",
+                    "voi strofinaste",
+                    "voi avete strofinato",
+                    "voi aveste strofinato",
+                    "voi frizionaste",
+                    "voi avete frizionato",
+                    "voi aveste frizionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fricuērunt, fricuēre",
+                "traduzioni": [
+                    "loro sfregarono",
+                    "essi sfregarono",
+                    "loro hanno sfregato",
+                    "essi hanno sfregato",
+                    "loro ebbero sfregato",
+                    "essi ebbero sfregato",
+                    "loro strofinarono",
+                    "essi strofinarono",
+                    "loro hanno strofinato",
+                    "essi hanno strofinato",
+                    "loro ebbero strofinato",
+                    "essi ebbero strofinato",
+                    "loro frizionarono",
+                    "essi frizionarono",
+                    "loro hanno frizionato",
+                    "essi hanno frizionato",
+                    "loro ebbero frizionato",
+                    "essi ebbero frizionato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fricuĕram",
+                "traduzioni": [
+                    "io avevo sfregato",
+                    "io avevo strofinato",
+                    "io avevo frizionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fricuĕras",
+                "traduzioni": [
+                    "tu avevi sfregato",
+                    "tu avevi strofinato",
+                    "tu avevi frizionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fricuĕrat",
+                "traduzioni": [
+                    "lui aveva sfregato",
+                    "lei aveva sfregato",
+                    "egli aveva sfregato",
+                    "lui aveva strofinato",
+                    "lei aveva strofinato",
+                    "egli aveva strofinato",
+                    "lui aveva frizionato",
+                    "lei aveva frizionato",
+                    "egli aveva frizionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fricuerāmus",
+                "traduzioni": [
+                    "noi avevamo sfregato",
+                    "noi avevamo strofinato",
+                    "noi avevamo frizionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fricuerātis",
+                "traduzioni": [
+                    "voi avevate sfregato",
+                    "voi avevate strofinato",
+                    "voi avevate frizionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fricuĕrant",
+                "traduzioni": [
+                    "loro avevano sfregato",
+                    "essi avevano sfregato",
+                    "loro avevano strofinato",
+                    "essi avevano strofinato",
+                    "loro avevano frizionato",
+                    "essi avevano frizionato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "fricuĕro",
+                "traduzioni": [
+                    "io avrò sfregato",
+                    "io avrò strofinato",
+                    "io avrò frizionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fricuĕris",
+                "traduzioni": [
+                    "tu avrai sfregato",
+                    "tu avrai strofinato",
+                    "tu avrai frizionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fricuĕrit",
+                "traduzioni": [
+                    "lui avrà sfregato",
+                    "lei avrà sfregato",
+                    "egli avrà sfregato",
+                    "lui avrà strofinato",
+                    "lei avrà strofinato",
+                    "egli avrà strofinato",
+                    "lui avrà frizionato",
+                    "lei avrà frizionato",
+                    "egli avrà frizionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fricuerĭmus",
+                "traduzioni": [
+                    "noi avremo sfregato",
+                    "noi avremo strofinato",
+                    "noi avremo frizionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fricuerĭtis",
+                "traduzioni": [
+                    "voi avrete sfregato",
+                    "voi avrete strofinato",
+                    "voi avrete frizionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fricuĕrint",
+                "traduzioni": [
+                    "loro avranno sfregato",
+                    "essi avranno sfregato",
+                    "loro avranno strofinato",
+                    "essi avranno strofinato",
+                    "loro avranno frizionato",
+                    "essi avranno frizionato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "frĭcem",
+                "traduzioni": [
+                    "che io sfreghi",
+                    "che io strofini",
+                    "che io frizioni"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frĭces",
+                "traduzioni": [
+                    "che tu sfreghi",
+                    "che tu strofini",
+                    "che tu frizioni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frĭcet",
+                "traduzioni": [
+                    "che lui sfreghi",
+                    "che lei sfreghi",
+                    "che egli sfreghi",
+                    "che lui strofini",
+                    "che lei strofini",
+                    "che egli strofini",
+                    "che lui frizioni",
+                    "che lei frizioni",
+                    "che egli frizioni"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frĭcēmus",
+                "traduzioni": [
+                    "che noi sfreghiamo",
+                    "che noi strofiniamo",
+                    "che noi frizioniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frĭcētis",
+                "traduzioni": [
+                    "che voi sfreghiate",
+                    "che voi strofiniate",
+                    "che voi frizioniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frĭcent",
+                "traduzioni": [
+                    "che loro sfreghino",
+                    "che essi sfreghino",
+                    "che loro strofinino",
+                    "che essi strofinino",
+                    "che loro frizionino",
+                    "che essi frizionino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "frĭcārem",
+                "traduzioni": [
+                    "che io sfregassi",
+                    "che io strofinassi",
+                    "che io frizionassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frĭcāres",
+                "traduzioni": [
+                    "che tu sfregassi",
+                    "che tu strofinassi",
+                    "che tu frizionassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frĭcāret",
+                "traduzioni": [
+                    "che lui sfregasse",
+                    "che lei sfregasse",
+                    "che egli sfregasse",
+                    "che lui strofinasse",
+                    "che lei strofinasse",
+                    "che egli strofinasse",
+                    "che lui frizionasse",
+                    "che lei frizionasse",
+                    "che egli frizionasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frĭcarēmus",
+                "traduzioni": [
+                    "che noi sfregassimo",
+                    "che noi strofinassimo",
+                    "che noi frizionassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frĭcarētis",
+                "traduzioni": [
+                    "che voi sfregaste",
+                    "che voi strofinaste",
+                    "che voi frizionaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frĭcārent",
+                "traduzioni": [
+                    "che loro sfregassero",
+                    "che essi sfregassero",
+                    "che loro strofinassero",
+                    "che essi strofinassero",
+                    "che loro frizionassero",
+                    "che essi frizionassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fricuĕrim",
+                "traduzioni": [
+                    "che io abbia sfregato",
+                    "che io abbia strofinato",
+                    "che io abbia frizionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fricuĕris",
+                "traduzioni": [
+                    "che tu abbia sfregato",
+                    "che tu abbia strofinato",
+                    "che tu abbia frizionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fricuĕrit",
+                "traduzioni": [
+                    "che lui abbia sfregato",
+                    "che lei abbia sfregato",
+                    "che egli abbia sfregato",
+                    "che lui abbia strofinato",
+                    "che lei abbia strofinato",
+                    "che egli abbia strofinato",
+                    "che lui abbia frizionato",
+                    "che lei abbia frizionato",
+                    "che egli abbia frizionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fricuerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo sfregato",
+                    "che noi abbiamo strofinato",
+                    "che noi abbiamo frizionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fricuerĭtis",
+                "traduzioni": [
+                    "che voi abbiate sfregato",
+                    "che voi abbiate strofinato",
+                    "che voi abbiate frizionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fricuĕrint",
+                "traduzioni": [
+                    "che loro abbiano sfregato",
+                    "che essi abbiano sfregato",
+                    "che loro abbiano strofinato",
+                    "che essi abbiano strofinato",
+                    "che loro abbiano frizionato",
+                    "che essi abbiano frizionato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fricuissem",
+                "traduzioni": [
+                    "che io avessi sfregato",
+                    "che io avessi strofinato",
+                    "che io avessi frizionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fricuisses",
+                "traduzioni": [
+                    "che tu avessi sfregato",
+                    "che tu avessi strofinato",
+                    "che tu avessi frizionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fricuisset",
+                "traduzioni": [
+                    "che lui avesse sfregato",
+                    "che lei avesse sfregato",
+                    "che egli avesse sfregato",
+                    "che lui avesse strofinato",
+                    "che lei avesse strofinato",
+                    "che egli avesse strofinato",
+                    "che lui avesse frizionato",
+                    "che lei avesse frizionato",
+                    "che egli avesse frizionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fricuissēmus",
+                "traduzioni": [
+                    "che noi avessimo sfregato",
+                    "che noi avessimo strofinato",
+                    "che noi avessimo frizionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fricuissētis",
+                "traduzioni": [
+                    "che voi aveste sfregato",
+                    "che voi aveste strofinato",
+                    "che voi aveste frizionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fricuissent",
+                "traduzioni": [
+                    "che loro avessero sfregato",
+                    "che essi avessero sfregato",
+                    "che loro avessero strofinato",
+                    "che essi avessero strofinato",
+                    "che loro avessero frizionato",
+                    "che essi avessero frizionato"
+                ]
+            }
+        ]
+    }
+}

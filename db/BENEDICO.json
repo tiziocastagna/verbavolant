@@ -1,0 +1,613 @@
+{
+    "identifier": "BENEDICO",
+    "conuigazione": "3",
+    "translation": [
+        "lodare",
+        "(+ accusativo o dativo) benedire",
+        "consacrare"
+    ],
+    "valid_translations": [
+        "lodare",
+        "consacrare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "benedico",
+                "traduzioni": [
+                    "io lodo",
+                    "io consacro"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "benedicis",
+                "traduzioni": [
+                    "tu lodi",
+                    "tu consacri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "benedicit",
+                "traduzioni": [
+                    "lui loda",
+                    "lei loda",
+                    "egli loda",
+                    "lui consacra",
+                    "lei consacra",
+                    "egli consacra"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "benedicĭmus",
+                "traduzioni": [
+                    "noi lodiamo",
+                    "noi consacriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "benedicĭtis",
+                "traduzioni": [
+                    "voi lodate",
+                    "voi consacrate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "benedicunt",
+                "traduzioni": [
+                    "loro lodano",
+                    "essi lodano",
+                    "loro consacrano",
+                    "essi consacrano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "benedicēbam",
+                "traduzioni": [
+                    "io lodavo",
+                    "io consacravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "benedicēbas",
+                "traduzioni": [
+                    "tu lodavi",
+                    "tu consacravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "benedicēbat",
+                "traduzioni": [
+                    "lui lodava",
+                    "lei lodava",
+                    "egli lodava",
+                    "lui consacrava",
+                    "lei consacrava",
+                    "egli consacrava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "benedicebāmus",
+                "traduzioni": [
+                    "noi lodavamo",
+                    "noi consacravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "benedicebātis",
+                "traduzioni": [
+                    "voi lodavate",
+                    "voi consacravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "benedicēbant",
+                "traduzioni": [
+                    "loro lodavano",
+                    "essi lodavano",
+                    "loro consacravano",
+                    "essi consacravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "benedicam",
+                "traduzioni": [
+                    "io loderò",
+                    "io consacrerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "benedices",
+                "traduzioni": [
+                    "tu loderai",
+                    "tu consacrerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "benedicet",
+                "traduzioni": [
+                    "lui loderà",
+                    "lei loderà",
+                    "egli loderà",
+                    "lui consacrerà",
+                    "lei consacrerà",
+                    "egli consacrerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "benedicēmus",
+                "traduzioni": [
+                    "noi loderemo",
+                    "noi consacreremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "benedicētis",
+                "traduzioni": [
+                    "voi loderete",
+                    "voi consacrerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "benedicent",
+                "traduzioni": [
+                    "loro loderanno",
+                    "essi loderanno",
+                    "loro consacreranno",
+                    "essi consacreranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "benedixi",
+                "traduzioni": [
+                    "io lodai",
+                    "io ho lodato",
+                    "io ebbi lodato",
+                    "io consacrai",
+                    "io ho consacrato",
+                    "io ebbi consacrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "benedixisti",
+                "traduzioni": [
+                    "tu lodasti",
+                    "tu hai lodato",
+                    "tu avesti lodato",
+                    "tu consacrasti",
+                    "tu hai consacrato",
+                    "tu avesti consacrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "benedixit",
+                "traduzioni": [
+                    "lui lodò",
+                    "lei lodò",
+                    "egli lodò",
+                    "lui ha lodato",
+                    "lei ha lodato",
+                    "egli ha lodato",
+                    "lui ebbe lodato",
+                    "lei ebbe lodato",
+                    "egli ebbe lodato",
+                    "lui consacrò",
+                    "lei consacrò",
+                    "egli consacrò",
+                    "lui ha consacrato",
+                    "lei ha consacrato",
+                    "egli ha consacrato",
+                    "lui ebbe consacrato",
+                    "lei ebbe consacrato",
+                    "egli ebbe consacrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "benedixĭmus",
+                "traduzioni": [
+                    "noi lodammo",
+                    "noi abbiamo lodato",
+                    "noi avemmo lodato",
+                    "noi consacrammo",
+                    "noi abbiamo consacrato",
+                    "noi avemmo consacrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "benedixistis",
+                "traduzioni": [
+                    "voi lodaste",
+                    "voi avete lodato",
+                    "voi aveste lodato",
+                    "voi consacraste",
+                    "voi avete consacrato",
+                    "voi aveste consacrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "benedixērunt, benedixēre",
+                "traduzioni": [
+                    "loro lodarono",
+                    "essi lodarono",
+                    "loro hanno lodato",
+                    "essi hanno lodato",
+                    "loro ebbero lodato",
+                    "essi ebbero lodato",
+                    "loro consacrarono",
+                    "essi consacrarono",
+                    "loro hanno consacrato",
+                    "essi hanno consacrato",
+                    "loro ebbero consacrato",
+                    "essi ebbero consacrato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "benedixĕram",
+                "traduzioni": [
+                    "io avevo lodato",
+                    "io avevo consacrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "benedixĕras",
+                "traduzioni": [
+                    "tu avevi lodato",
+                    "tu avevi consacrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "benedixĕrat",
+                "traduzioni": [
+                    "lui aveva lodato",
+                    "lei aveva lodato",
+                    "egli aveva lodato",
+                    "lui aveva consacrato",
+                    "lei aveva consacrato",
+                    "egli aveva consacrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "benedixerāmus",
+                "traduzioni": [
+                    "noi avevamo lodato",
+                    "noi avevamo consacrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "benedixerātis",
+                "traduzioni": [
+                    "voi avevate lodato",
+                    "voi avevate consacrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "benedixĕrant",
+                "traduzioni": [
+                    "loro avevano lodato",
+                    "essi avevano lodato",
+                    "loro avevano consacrato",
+                    "essi avevano consacrato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "benedixĕro",
+                "traduzioni": [
+                    "io avrò lodato",
+                    "io avrò consacrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "benedixĕris",
+                "traduzioni": [
+                    "tu avrai lodato",
+                    "tu avrai consacrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "benedixĕrit",
+                "traduzioni": [
+                    "lui avrà lodato",
+                    "lei avrà lodato",
+                    "egli avrà lodato",
+                    "lui avrà consacrato",
+                    "lei avrà consacrato",
+                    "egli avrà consacrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "benedixerĭmus",
+                "traduzioni": [
+                    "noi avremo lodato",
+                    "noi avremo consacrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "benedixerĭtis",
+                "traduzioni": [
+                    "voi avrete lodato",
+                    "voi avrete consacrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "benedixĕrint",
+                "traduzioni": [
+                    "loro avranno lodato",
+                    "essi avranno lodato",
+                    "loro avranno consacrato",
+                    "essi avranno consacrato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "benedicam",
+                "traduzioni": [
+                    "che io lodi",
+                    "che io consacri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "benedicas",
+                "traduzioni": [
+                    "che tu lodi",
+                    "che tu consacri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "benedicat",
+                "traduzioni": [
+                    "che lui lodi",
+                    "che lei lodi",
+                    "che egli lodi",
+                    "che lui consacri",
+                    "che lei consacri",
+                    "che egli consacri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "benedicāmus",
+                "traduzioni": [
+                    "che noi lodiamo",
+                    "che noi consacriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "benedicātis",
+                "traduzioni": [
+                    "che voi lodiate",
+                    "che voi consacriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "benedicant",
+                "traduzioni": [
+                    "che loro lodino",
+                    "che essi lodino",
+                    "che loro consacrino",
+                    "che essi consacrino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "benedicĕrem",
+                "traduzioni": [
+                    "che io lodassi",
+                    "che io consacrassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "benedicĕres",
+                "traduzioni": [
+                    "che tu lodassi",
+                    "che tu consacrassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "benedicĕret",
+                "traduzioni": [
+                    "che lui lodasse",
+                    "che lei lodasse",
+                    "che egli lodasse",
+                    "che lui consacrasse",
+                    "che lei consacrasse",
+                    "che egli consacrasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "benedicerēmus",
+                "traduzioni": [
+                    "che noi lodassimo",
+                    "che noi consacrassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "benedicerētis",
+                "traduzioni": [
+                    "che voi lodaste",
+                    "che voi consacraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "benedicĕrent",
+                "traduzioni": [
+                    "che loro lodassero",
+                    "che essi lodassero",
+                    "che loro consacrassero",
+                    "che essi consacrassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "benedixĕrim",
+                "traduzioni": [
+                    "che io abbia lodato",
+                    "che io abbia consacrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "benedixĕris",
+                "traduzioni": [
+                    "che tu abbia lodato",
+                    "che tu abbia consacrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "benedixĕrit",
+                "traduzioni": [
+                    "che lui abbia lodato",
+                    "che lei abbia lodato",
+                    "che egli abbia lodato",
+                    "che lui abbia consacrato",
+                    "che lei abbia consacrato",
+                    "che egli abbia consacrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "benedixerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo lodato",
+                    "che noi abbiamo consacrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "benedixerĭtis",
+                "traduzioni": [
+                    "che voi abbiate lodato",
+                    "che voi abbiate consacrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "benedixĕrint",
+                "traduzioni": [
+                    "che loro abbiano lodato",
+                    "che essi abbiano lodato",
+                    "che loro abbiano consacrato",
+                    "che essi abbiano consacrato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "benedixissem",
+                "traduzioni": [
+                    "che io avessi lodato",
+                    "che io avessi consacrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "benedixisses",
+                "traduzioni": [
+                    "che tu avessi lodato",
+                    "che tu avessi consacrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "benedixisset",
+                "traduzioni": [
+                    "che lui avesse lodato",
+                    "che lei avesse lodato",
+                    "che egli avesse lodato",
+                    "che lui avesse consacrato",
+                    "che lei avesse consacrato",
+                    "che egli avesse consacrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "benedixissēmus",
+                "traduzioni": [
+                    "che noi avessimo lodato",
+                    "che noi avessimo consacrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "benedixissētis",
+                "traduzioni": [
+                    "che voi aveste lodato",
+                    "che voi aveste consacrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "benedixissent",
+                "traduzioni": [
+                    "che loro avessero lodato",
+                    "che essi avessero lodato",
+                    "che loro avessero consacrato",
+                    "che essi avessero consacrato"
+                ]
+            }
+        ]
+    }
+}

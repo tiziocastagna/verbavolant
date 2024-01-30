@@ -1,0 +1,534 @@
+{
+    "identifier": "DEFLEO",
+    "conuigazione": "2",
+    "translation": [
+        "(transitivo) compiangere",
+        "lamentare",
+        "(intransitivo) piangere"
+    ],
+    "valid_translations": [
+        "lamentare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēflĕo",
+                "traduzioni": [
+                    "io lamento"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēfles",
+                "traduzioni": [
+                    "tu lamenti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēflet",
+                "traduzioni": [
+                    "lui lamenta",
+                    "lei lamenta",
+                    "egli lamenta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēflēmus",
+                "traduzioni": [
+                    "noi lamentiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēflētis",
+                "traduzioni": [
+                    "voi lamentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēflent",
+                "traduzioni": [
+                    "loro lamentano",
+                    "essi lamentano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēflēbam",
+                "traduzioni": [
+                    "io lamentavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēflēbas",
+                "traduzioni": [
+                    "tu lamentavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēflēbat",
+                "traduzioni": [
+                    "lui lamentava",
+                    "lei lamentava",
+                    "egli lamentava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēflebāmus",
+                "traduzioni": [
+                    "noi lamentavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēflebātis",
+                "traduzioni": [
+                    "voi lamentavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēflēbant",
+                "traduzioni": [
+                    "loro lamentavano",
+                    "essi lamentavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēflēbo",
+                "traduzioni": [
+                    "io lamenterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēflēbis",
+                "traduzioni": [
+                    "tu lamenterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēflēbit",
+                "traduzioni": [
+                    "lui lamenterà",
+                    "lei lamenterà",
+                    "egli lamenterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēflebĭmus",
+                "traduzioni": [
+                    "noi lamenteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēflebĭtis",
+                "traduzioni": [
+                    "voi lamenterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēflēbunt",
+                "traduzioni": [
+                    "loro lamenteranno",
+                    "essi lamenteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "deflevi",
+                "traduzioni": [
+                    "io lamentai",
+                    "io sono lamentato",
+                    "io sono lamentata",
+                    "io fui lamentato",
+                    "io fui lamentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "deflevisti",
+                "traduzioni": [
+                    "tu lamentasti",
+                    "tu sei lamentato",
+                    "tu sei lamentata",
+                    "tu fosti lamentato",
+                    "tu fosti lamentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "deflevit",
+                "traduzioni": [
+                    "lui lamentò",
+                    "lei lamentò",
+                    "egli lamentò",
+                    "lui è lamentato",
+                    "lei è lamentata",
+                    "egli è lamentato",
+                    "lui fu lamentato",
+                    "lei fu lamentata",
+                    "egli fu lamentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "deflevĭmus",
+                "traduzioni": [
+                    "noi lamentammo",
+                    "noi siamo lamentati",
+                    "noi siamo lamentate",
+                    "noi fummo lamentati",
+                    "noi fummo lamentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "deflevistis",
+                "traduzioni": [
+                    "voi lamentaste",
+                    "voi siete lamentati",
+                    "voi siete lamentate",
+                    "voi foste lamentati",
+                    "voi foste lamentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "deflevērunt, deflevēre",
+                "traduzioni": [
+                    "loro lamentarono",
+                    "essi lamentarono",
+                    "loro sono lamentati",
+                    "loro sono lamentate",
+                    "essi sono lamentati",
+                    "loro furono lamentati",
+                    "loro furono lamentate",
+                    "essi furono lamentati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "deflevĕram",
+                "traduzioni": [
+                    "io ero lamentato",
+                    "io ero lamentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "deflevĕras",
+                "traduzioni": [
+                    "tu eri lamentato",
+                    "tu eri lamentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "deflevĕrat",
+                "traduzioni": [
+                    "lui era lamentato",
+                    "lei era lamentata",
+                    "egli era lamentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "defleverāmus",
+                "traduzioni": [
+                    "noi eravamo lamentati",
+                    "noi eravamo lamentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "defleverātis",
+                "traduzioni": [
+                    "voi eravate lamentati",
+                    "voi eravate lamentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "deflevĕrant",
+                "traduzioni": [
+                    "loro erano lamentati",
+                    "loro erano lamentate",
+                    "essi erano lamentati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "deflevĕro",
+                "traduzioni": [
+                    "io sarò lamentato",
+                    "io sarò lamentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "deflevĕris",
+                "traduzioni": [
+                    "tu sarai lamentato",
+                    "tu sarai lamentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "deflevĕrit",
+                "traduzioni": [
+                    "lui sarà lamentato",
+                    "lei sarà lamentata",
+                    "egli sarà lamentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "defleverĭmus",
+                "traduzioni": [
+                    "noi saremo lamentati",
+                    "noi saremo lamentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "defleverĭtis",
+                "traduzioni": [
+                    "voi sarete lamentati",
+                    "voi sarete lamentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "deflevĕrint",
+                "traduzioni": [
+                    "loro saranno lamentati",
+                    "loro saranno lamentate",
+                    "essi saranno lamentati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēflĕam",
+                "traduzioni": [
+                    "che io lamenti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēflĕas",
+                "traduzioni": [
+                    "che tu lamenti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēflĕat",
+                "traduzioni": [
+                    "che lui lamenti",
+                    "che lei lamenti",
+                    "che egli lamenti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēfleāmus",
+                "traduzioni": [
+                    "che noi lamentiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēfleātis",
+                "traduzioni": [
+                    "che voi lamentiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēflĕant",
+                "traduzioni": [
+                    "che loro lamentino",
+                    "che essi lamentino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēflērem",
+                "traduzioni": [
+                    "che io lamentassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēflēres",
+                "traduzioni": [
+                    "che tu lamentassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēflēret",
+                "traduzioni": [
+                    "che lui lamentasse",
+                    "che lei lamentasse",
+                    "che egli lamentasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēflerēmus",
+                "traduzioni": [
+                    "che noi lamentassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēflerētis",
+                "traduzioni": [
+                    "che voi lamentaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēflērent",
+                "traduzioni": [
+                    "che loro lamentassero",
+                    "che essi lamentassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "deflevĕrim",
+                "traduzioni": [
+                    "che io sia lamentato",
+                    "che io sia lamentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "deflevĕris",
+                "traduzioni": [
+                    "che tu sia lamentato",
+                    "che tu sia lamentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "deflevĕrit",
+                "traduzioni": [
+                    "che lui sia lamentato",
+                    "che lei sia lamentata",
+                    "che egli sia lamentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "defleverĭmus",
+                "traduzioni": [
+                    "che noi siamo lamentati",
+                    "che noi siamo lamentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "defleverĭtis",
+                "traduzioni": [
+                    "che voi siate lamentati",
+                    "che voi siate lamentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "deflevĕrint",
+                "traduzioni": [
+                    "che loro siano lamentati",
+                    "che loro siano lamentate",
+                    "che essi siano lamentati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "deflevissem",
+                "traduzioni": [
+                    "che io fossi lamentato",
+                    "che io fossi lamentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "deflevisses",
+                "traduzioni": [
+                    "che tu fossi lamentato",
+                    "che tu fossi lamentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "deflevisset",
+                "traduzioni": [
+                    "che lui fosse lamentato",
+                    "che lei fosse lamentata",
+                    "che egli fosse lamentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "deflevissēmus",
+                "traduzioni": [
+                    "che noi fossimo lamentati",
+                    "che noi fossimo lamentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "deflevissētis",
+                "traduzioni": [
+                    "che voi foste lamentati",
+                    "che voi foste lamentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "deflevissent",
+                "traduzioni": [
+                    "che loro fossero lamentati",
+                    "che loro fossero lamentate",
+                    "che essi fossero lamentati"
+                ]
+            }
+        ]
+    }
+}

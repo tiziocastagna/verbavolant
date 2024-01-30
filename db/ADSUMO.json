@@ -1,0 +1,948 @@
+{
+    "identifier": "ADSUMO",
+    "conuigazione": "3",
+    "translation": [
+        "assumere",
+        "aggiungere",
+        "ricevere",
+        "accogliere",
+        "intraprendere"
+    ],
+    "valid_translations": [
+        "assumere",
+        "aggiungere",
+        "ricevere",
+        "accogliere",
+        "intraprendere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adsūmo",
+                "traduzioni": [
+                    "io assumo",
+                    "io aggiungo",
+                    "io ricevo",
+                    "io accolgo",
+                    "io intraprendo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adsūmis",
+                "traduzioni": [
+                    "tu assumi",
+                    "tu aggiungi",
+                    "tu ricevi",
+                    "tu accogli",
+                    "tu intraprendi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adsūmit",
+                "traduzioni": [
+                    "lui assume",
+                    "lei assume",
+                    "egli assume",
+                    "lui aggiunge",
+                    "lei aggiunge",
+                    "egli aggiunge",
+                    "lui riceve",
+                    "lei riceve",
+                    "egli riceve",
+                    "lui accoglie",
+                    "lei accoglie",
+                    "egli accoglie",
+                    "lui intraprende",
+                    "lei intraprende",
+                    "egli intraprende"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adsūmĭmus",
+                "traduzioni": [
+                    "noi assumiamo",
+                    "noi aggiungiamo",
+                    "noi riceviamo",
+                    "noi accogliamo",
+                    "noi intraprendiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adsūmĭtis",
+                "traduzioni": [
+                    "voi assumete",
+                    "voi aggiungete",
+                    "voi ricevete",
+                    "voi accogliete",
+                    "voi intraprendete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adsūmunt",
+                "traduzioni": [
+                    "loro assumono",
+                    "essi assumono",
+                    "loro aggiungono",
+                    "essi aggiungono",
+                    "loro ricevono",
+                    "essi ricevono",
+                    "loro accolgono",
+                    "essi accolgono",
+                    "loro intraprendono",
+                    "essi intraprendono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adsūmēbam",
+                "traduzioni": [
+                    "io assumevo",
+                    "io aggiungevo",
+                    "io ricevevo",
+                    "io accoglievo",
+                    "io intraprendevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adsūmēbas",
+                "traduzioni": [
+                    "tu assumevi",
+                    "tu aggiungevi",
+                    "tu ricevevi",
+                    "tu accoglievi",
+                    "tu intraprendevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adsūmēbat",
+                "traduzioni": [
+                    "lui assumeva",
+                    "lei assumeva",
+                    "egli assumeva",
+                    "lui aggiungeva",
+                    "lei aggiungeva",
+                    "egli aggiungeva",
+                    "lui riceveva",
+                    "lei riceveva",
+                    "egli riceveva",
+                    "lui accoglieva",
+                    "lei accoglieva",
+                    "egli accoglieva",
+                    "lui intraprendeva",
+                    "lei intraprendeva",
+                    "egli intraprendeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adsūmebāmus",
+                "traduzioni": [
+                    "noi assumevamo",
+                    "noi aggiungevamo",
+                    "noi ricevevamo",
+                    "noi accoglievamo",
+                    "noi intraprendevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adsūmebātis",
+                "traduzioni": [
+                    "voi assumevate",
+                    "voi aggiungevate",
+                    "voi ricevevate",
+                    "voi accoglievate",
+                    "voi intraprendevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adsūmēbant",
+                "traduzioni": [
+                    "loro assumevano",
+                    "essi assumevano",
+                    "loro aggiungevano",
+                    "essi aggiungevano",
+                    "loro ricevevano",
+                    "essi ricevevano",
+                    "loro accoglievano",
+                    "essi accoglievano",
+                    "loro intraprendevano",
+                    "essi intraprendevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adsūmam",
+                "traduzioni": [
+                    "io assumerò",
+                    "io aggiungerò",
+                    "io riceverò",
+                    "io accoglierò",
+                    "io intraprenderò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adsūmes",
+                "traduzioni": [
+                    "tu assumerai",
+                    "tu aggiungerai",
+                    "tu riceverai",
+                    "tu accoglierai",
+                    "tu intraprenderai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adsūmet",
+                "traduzioni": [
+                    "lui assumerà",
+                    "lei assumerà",
+                    "egli assumerà",
+                    "lui aggiungerà",
+                    "lei aggiungerà",
+                    "egli aggiungerà",
+                    "lui riceverà",
+                    "lei riceverà",
+                    "egli riceverà",
+                    "lui accoglierà",
+                    "lei accoglierà",
+                    "egli accoglierà",
+                    "lui intraprenderà",
+                    "lei intraprenderà",
+                    "egli intraprenderà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adsūmēmus",
+                "traduzioni": [
+                    "noi assumeremo",
+                    "noi aggiungeremo",
+                    "noi riceveremo",
+                    "noi accoglieremo",
+                    "noi intraprenderemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adsūmētis",
+                "traduzioni": [
+                    "voi assumerete",
+                    "voi aggiungerete",
+                    "voi riceverete",
+                    "voi accoglierete",
+                    "voi intraprenderete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adsūment",
+                "traduzioni": [
+                    "loro assumeranno",
+                    "essi assumeranno",
+                    "loro aggiungeranno",
+                    "essi aggiungeranno",
+                    "loro riceveranno",
+                    "essi riceveranno",
+                    "loro accoglieranno",
+                    "essi accoglieranno",
+                    "loro intraprenderanno",
+                    "essi intraprenderanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adsumpsi",
+                "traduzioni": [
+                    "io assunsi",
+                    "io ho assunto",
+                    "io ebbi assunto",
+                    "io aggiunsi",
+                    "io ho aggiunto",
+                    "io ebbi aggiunto",
+                    "io ricevetti",
+                    "io ricevei",
+                    "io ho ricevuto",
+                    "io ebbi ricevuto",
+                    "io accolsi",
+                    "io ho accolto",
+                    "io ebbi accolto",
+                    "io intrapresi",
+                    "io ho intrapreso",
+                    "io ebbi intrapreso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adsumpsisti",
+                "traduzioni": [
+                    "tu assumesti",
+                    "tu hai assunto",
+                    "tu avesti assunto",
+                    "tu aggiungesti",
+                    "tu hai aggiunto",
+                    "tu avesti aggiunto",
+                    "tu ricevesti",
+                    "tu hai ricevuto",
+                    "tu avesti ricevuto",
+                    "tu accogliesti",
+                    "tu hai accolto",
+                    "tu avesti accolto",
+                    "tu intraprendesti",
+                    "tu hai intrapreso",
+                    "tu avesti intrapreso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adsumpsit",
+                "traduzioni": [
+                    "lui assunse",
+                    "lei assunse",
+                    "egli assunse",
+                    "lui ha assunto",
+                    "lei ha assunto",
+                    "egli ha assunto",
+                    "lui ebbe assunto",
+                    "lei ebbe assunto",
+                    "egli ebbe assunto",
+                    "lui aggiunse",
+                    "lei aggiunse",
+                    "egli aggiunse",
+                    "lui ha aggiunto",
+                    "lei ha aggiunto",
+                    "egli ha aggiunto",
+                    "lui ebbe aggiunto",
+                    "lei ebbe aggiunto",
+                    "egli ebbe aggiunto",
+                    "lui ricevette",
+                    "lei ricevette",
+                    "egli ricevette",
+                    "lui ricevé",
+                    "lei ricevé",
+                    "egli ricevé",
+                    "lui ha ricevuto",
+                    "lei ha ricevuto",
+                    "egli ha ricevuto",
+                    "lui ebbe ricevuto",
+                    "lei ebbe ricevuto",
+                    "egli ebbe ricevuto",
+                    "lui accolse",
+                    "lei accolse",
+                    "egli accolse",
+                    "lui ha accolto",
+                    "lei ha accolto",
+                    "egli ha accolto",
+                    "lui ebbe accolto",
+                    "lei ebbe accolto",
+                    "egli ebbe accolto",
+                    "lui intraprese",
+                    "lei intraprese",
+                    "egli intraprese",
+                    "lui ha intrapreso",
+                    "lei ha intrapreso",
+                    "egli ha intrapreso",
+                    "lui ebbe intrapreso",
+                    "lei ebbe intrapreso",
+                    "egli ebbe intrapreso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adsumpsĭmus",
+                "traduzioni": [
+                    "noi assumemmo",
+                    "noi abbiamo assunto",
+                    "noi avemmo assunto",
+                    "noi aggiungemmo",
+                    "noi abbiamo aggiunto",
+                    "noi avemmo aggiunto",
+                    "noi ricevemmo",
+                    "noi abbiamo ricevuto",
+                    "noi avemmo ricevuto",
+                    "noi accogliemmo",
+                    "noi abbiamo accolto",
+                    "noi avemmo accolto",
+                    "noi intraprendemmo",
+                    "noi abbiamo intrapreso",
+                    "noi avemmo intrapreso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adsumpsistis",
+                "traduzioni": [
+                    "voi assumeste",
+                    "voi avete assunto",
+                    "voi aveste assunto",
+                    "voi aggiungeste",
+                    "voi avete aggiunto",
+                    "voi aveste aggiunto",
+                    "voi riceveste",
+                    "voi avete ricevuto",
+                    "voi aveste ricevuto",
+                    "voi accoglieste",
+                    "voi avete accolto",
+                    "voi aveste accolto",
+                    "voi intraprendeste",
+                    "voi avete intrapreso",
+                    "voi aveste intrapreso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adsumpsērunt, adsumpsēre",
+                "traduzioni": [
+                    "loro assunsero",
+                    "essi assunsero",
+                    "loro hanno assunto",
+                    "essi hanno assunto",
+                    "loro ebbero assunto",
+                    "essi ebbero assunto",
+                    "loro aggiunsero",
+                    "essi aggiunsero",
+                    "loro hanno aggiunto",
+                    "essi hanno aggiunto",
+                    "loro ebbero aggiunto",
+                    "essi ebbero aggiunto",
+                    "loro ricevettero",
+                    "essi ricevettero",
+                    "loro riceverono",
+                    "essi riceverono",
+                    "loro hanno ricevuto",
+                    "essi hanno ricevuto",
+                    "loro ebbero ricevuto",
+                    "essi ebbero ricevuto",
+                    "loro accolsero",
+                    "essi accolsero",
+                    "loro hanno accolto",
+                    "essi hanno accolto",
+                    "loro ebbero accolto",
+                    "essi ebbero accolto",
+                    "loro intrapresero",
+                    "essi intrapresero",
+                    "loro hanno intrapreso",
+                    "essi hanno intrapreso",
+                    "loro ebbero intrapreso",
+                    "essi ebbero intrapreso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adsumpsĕram",
+                "traduzioni": [
+                    "io avevo assunto",
+                    "io avevo aggiunto",
+                    "io avevo ricevuto",
+                    "io avevo accolto",
+                    "io avevo intrapreso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adsumpsĕras",
+                "traduzioni": [
+                    "tu avevi assunto",
+                    "tu avevi aggiunto",
+                    "tu avevi ricevuto",
+                    "tu avevi accolto",
+                    "tu avevi intrapreso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adsumpsĕrat",
+                "traduzioni": [
+                    "lui aveva assunto",
+                    "lei aveva assunto",
+                    "egli aveva assunto",
+                    "lui aveva aggiunto",
+                    "lei aveva aggiunto",
+                    "egli aveva aggiunto",
+                    "lui aveva ricevuto",
+                    "lei aveva ricevuto",
+                    "egli aveva ricevuto",
+                    "lui aveva accolto",
+                    "lei aveva accolto",
+                    "egli aveva accolto",
+                    "lui aveva intrapreso",
+                    "lei aveva intrapreso",
+                    "egli aveva intrapreso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adsumpserāmus",
+                "traduzioni": [
+                    "noi avevamo assunto",
+                    "noi avevamo aggiunto",
+                    "noi avevamo ricevuto",
+                    "noi avevamo accolto",
+                    "noi avevamo intrapreso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adsumpserātis",
+                "traduzioni": [
+                    "voi avevate assunto",
+                    "voi avevate aggiunto",
+                    "voi avevate ricevuto",
+                    "voi avevate accolto",
+                    "voi avevate intrapreso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adsumpsĕrant",
+                "traduzioni": [
+                    "loro avevano assunto",
+                    "essi avevano assunto",
+                    "loro avevano aggiunto",
+                    "essi avevano aggiunto",
+                    "loro avevano ricevuto",
+                    "essi avevano ricevuto",
+                    "loro avevano accolto",
+                    "essi avevano accolto",
+                    "loro avevano intrapreso",
+                    "essi avevano intrapreso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adsumpsĕro",
+                "traduzioni": [
+                    "io avrò assunto",
+                    "io avrò aggiunto",
+                    "io avrò ricevuto",
+                    "io avrò accolto",
+                    "io avrò intrapreso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adsumpsĕris",
+                "traduzioni": [
+                    "tu avrai assunto",
+                    "tu avrai aggiunto",
+                    "tu avrai ricevuto",
+                    "tu avrai accolto",
+                    "tu avrai intrapreso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adsumpsĕrit",
+                "traduzioni": [
+                    "lui avrà assunto",
+                    "lei avrà assunto",
+                    "egli avrà assunto",
+                    "lui avrà aggiunto",
+                    "lei avrà aggiunto",
+                    "egli avrà aggiunto",
+                    "lui avrà ricevuto",
+                    "lei avrà ricevuto",
+                    "egli avrà ricevuto",
+                    "lui avrà accolto",
+                    "lei avrà accolto",
+                    "egli avrà accolto",
+                    "lui avrà intrapreso",
+                    "lei avrà intrapreso",
+                    "egli avrà intrapreso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adsumpserĭmus",
+                "traduzioni": [
+                    "noi avremo assunto",
+                    "noi avremo aggiunto",
+                    "noi avremo ricevuto",
+                    "noi avremo accolto",
+                    "noi avremo intrapreso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adsumpserĭtis",
+                "traduzioni": [
+                    "voi avrete assunto",
+                    "voi avrete aggiunto",
+                    "voi avrete ricevuto",
+                    "voi avrete accolto",
+                    "voi avrete intrapreso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adsumpsĕrint",
+                "traduzioni": [
+                    "loro avranno assunto",
+                    "essi avranno assunto",
+                    "loro avranno aggiunto",
+                    "essi avranno aggiunto",
+                    "loro avranno ricevuto",
+                    "essi avranno ricevuto",
+                    "loro avranno accolto",
+                    "essi avranno accolto",
+                    "loro avranno intrapreso",
+                    "essi avranno intrapreso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adsūmam",
+                "traduzioni": [
+                    "che io assuma",
+                    "che io aggiunga",
+                    "che io riceva",
+                    "che io accolga",
+                    "che io intraprenda"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adsūmas",
+                "traduzioni": [
+                    "che tu assuma",
+                    "che tu aggiunga",
+                    "che tu riceva",
+                    "che tu accolga",
+                    "che tu intraprenda"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adsūmat",
+                "traduzioni": [
+                    "che lui assuma",
+                    "che lei assuma",
+                    "che egli assuma",
+                    "che lui aggiunga",
+                    "che lei aggiunga",
+                    "che egli aggiunga",
+                    "che lui riceva",
+                    "che lei riceva",
+                    "che egli riceva",
+                    "che lui accolga",
+                    "che lei accolga",
+                    "che egli accolga",
+                    "che lui intraprenda",
+                    "che lei intraprenda",
+                    "che egli intraprenda"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adsūmāmus",
+                "traduzioni": [
+                    "che noi assumiamo",
+                    "che noi aggiungiamo",
+                    "che noi riceviamo",
+                    "che noi accogliamo",
+                    "che noi intraprendiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adsūmātis",
+                "traduzioni": [
+                    "che voi assumiate",
+                    "che voi aggiungiate",
+                    "che voi riceviate",
+                    "che voi accogliate",
+                    "che voi intraprendiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adsūmant",
+                "traduzioni": [
+                    "che loro assumano",
+                    "che essi assumano",
+                    "che loro aggiungano",
+                    "che essi aggiungano",
+                    "che loro ricevano",
+                    "che essi ricevano",
+                    "che loro accolgano",
+                    "che essi accolgano",
+                    "che loro intraprendano",
+                    "che essi intraprendano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adsūmĕrem",
+                "traduzioni": [
+                    "che io assumessi",
+                    "che io aggiungessi",
+                    "che io ricevessi",
+                    "che io accogliessi",
+                    "che io intraprendessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adsūmĕres",
+                "traduzioni": [
+                    "che tu assumessi",
+                    "che tu aggiungessi",
+                    "che tu ricevessi",
+                    "che tu accogliessi",
+                    "che tu intraprendessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adsūmĕret",
+                "traduzioni": [
+                    "che lui assumesse",
+                    "che lei assumesse",
+                    "che egli assumesse",
+                    "che lui aggiungesse",
+                    "che lei aggiungesse",
+                    "che egli aggiungesse",
+                    "che lui ricevesse",
+                    "che lei ricevesse",
+                    "che egli ricevesse",
+                    "che lui accogliesse",
+                    "che lei accogliesse",
+                    "che egli accogliesse",
+                    "che lui intraprendesse",
+                    "che lei intraprendesse",
+                    "che egli intraprendesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adsūmerēmus",
+                "traduzioni": [
+                    "che noi assumessimo",
+                    "che noi aggiungessimo",
+                    "che noi ricevessimo",
+                    "che noi accogliessimo",
+                    "che noi intraprendessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adsūmerētis",
+                "traduzioni": [
+                    "che voi assumeste",
+                    "che voi aggiungeste",
+                    "che voi riceveste",
+                    "che voi accoglieste",
+                    "che voi intraprendeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adsūmĕrent",
+                "traduzioni": [
+                    "che loro assumessero",
+                    "che essi assumessero",
+                    "che loro aggiungessero",
+                    "che essi aggiungessero",
+                    "che loro ricevessero",
+                    "che essi ricevessero",
+                    "che loro accogliessero",
+                    "che essi accogliessero",
+                    "che loro intraprendessero",
+                    "che essi intraprendessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adsumpsĕrim",
+                "traduzioni": [
+                    "che io abbia assunto",
+                    "che io abbia aggiunto",
+                    "che io abbia ricevuto",
+                    "che io abbia accolto",
+                    "che io abbia intrapreso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adsumpsĕris",
+                "traduzioni": [
+                    "che tu abbia assunto",
+                    "che tu abbia aggiunto",
+                    "che tu abbia ricevuto",
+                    "che tu abbia accolto",
+                    "che tu abbia intrapreso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adsumpsĕrit",
+                "traduzioni": [
+                    "che lui abbia assunto",
+                    "che lei abbia assunto",
+                    "che egli abbia assunto",
+                    "che lui abbia aggiunto",
+                    "che lei abbia aggiunto",
+                    "che egli abbia aggiunto",
+                    "che lui abbia ricevuto",
+                    "che lei abbia ricevuto",
+                    "che egli abbia ricevuto",
+                    "che lui abbia accolto",
+                    "che lei abbia accolto",
+                    "che egli abbia accolto",
+                    "che lui abbia intrapreso",
+                    "che lei abbia intrapreso",
+                    "che egli abbia intrapreso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adsumpserĭmus",
+                "traduzioni": [
+                    "che noi abbiamo assunto",
+                    "che noi abbiamo aggiunto",
+                    "che noi abbiamo ricevuto",
+                    "che noi abbiamo accolto",
+                    "che noi abbiamo intrapreso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adsumpserĭtis",
+                "traduzioni": [
+                    "che voi abbiate assunto",
+                    "che voi abbiate aggiunto",
+                    "che voi abbiate ricevuto",
+                    "che voi abbiate accolto",
+                    "che voi abbiate intrapreso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adsumpsĕrint",
+                "traduzioni": [
+                    "che loro abbiano assunto",
+                    "che essi abbiano assunto",
+                    "che loro abbiano aggiunto",
+                    "che essi abbiano aggiunto",
+                    "che loro abbiano ricevuto",
+                    "che essi abbiano ricevuto",
+                    "che loro abbiano accolto",
+                    "che essi abbiano accolto",
+                    "che loro abbiano intrapreso",
+                    "che essi abbiano intrapreso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adsumpsissem",
+                "traduzioni": [
+                    "che io avessi assunto",
+                    "che io avessi aggiunto",
+                    "che io avessi ricevuto",
+                    "che io avessi accolto",
+                    "che io avessi intrapreso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adsumpsisses",
+                "traduzioni": [
+                    "che tu avessi assunto",
+                    "che tu avessi aggiunto",
+                    "che tu avessi ricevuto",
+                    "che tu avessi accolto",
+                    "che tu avessi intrapreso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adsumpsisset",
+                "traduzioni": [
+                    "che lui avesse assunto",
+                    "che lei avesse assunto",
+                    "che egli avesse assunto",
+                    "che lui avesse aggiunto",
+                    "che lei avesse aggiunto",
+                    "che egli avesse aggiunto",
+                    "che lui avesse ricevuto",
+                    "che lei avesse ricevuto",
+                    "che egli avesse ricevuto",
+                    "che lui avesse accolto",
+                    "che lei avesse accolto",
+                    "che egli avesse accolto",
+                    "che lui avesse intrapreso",
+                    "che lei avesse intrapreso",
+                    "che egli avesse intrapreso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adsumpsissēmus",
+                "traduzioni": [
+                    "che noi avessimo assunto",
+                    "che noi avessimo aggiunto",
+                    "che noi avessimo ricevuto",
+                    "che noi avessimo accolto",
+                    "che noi avessimo intrapreso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adsumpsissētis",
+                "traduzioni": [
+                    "che voi aveste assunto",
+                    "che voi aveste aggiunto",
+                    "che voi aveste ricevuto",
+                    "che voi aveste accolto",
+                    "che voi aveste intrapreso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adsumpsissent",
+                "traduzioni": [
+                    "che loro avessero assunto",
+                    "che essi avessero assunto",
+                    "che loro avessero aggiunto",
+                    "che essi avessero aggiunto",
+                    "che loro avessero ricevuto",
+                    "che essi avessero ricevuto",
+                    "che loro avessero accolto",
+                    "che essi avessero accolto",
+                    "che loro avessero intrapreso",
+                    "che essi avessero intrapreso"
+                ]
+            }
+        ]
+    }
+}

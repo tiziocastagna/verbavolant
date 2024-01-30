@@ -1,0 +1,503 @@
+{
+    "identifier": "COMPEDIO",
+    "conuigazione": "4",
+    "translation": [
+        "incatenare",
+        "(in senso figurato) impedire"
+    ],
+    "valid_translations": [
+        "incatenare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "compĕdĭo",
+                "traduzioni": [
+                    "io incateno"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compĕdis",
+                "traduzioni": [
+                    "tu incateni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compĕdit",
+                "traduzioni": [
+                    "lui incatena",
+                    "lei incatena",
+                    "egli incatena"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compĕdīmus",
+                "traduzioni": [
+                    "noi incateniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compĕdītis",
+                "traduzioni": [
+                    "voi incatenate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compĕdĭunt",
+                "traduzioni": [
+                    "loro incatenano",
+                    "essi incatenano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "compĕdiēbam",
+                "traduzioni": [
+                    "io incatenavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compĕdiēbas",
+                "traduzioni": [
+                    "tu incatenavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compĕdiēbat",
+                "traduzioni": [
+                    "lui incatenava",
+                    "lei incatenava",
+                    "egli incatenava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compĕdiebāmus",
+                "traduzioni": [
+                    "noi incatenavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compĕdiebātis",
+                "traduzioni": [
+                    "voi incatenavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compĕdiēbant",
+                "traduzioni": [
+                    "loro incatenavano",
+                    "essi incatenavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "compĕdĭam",
+                "traduzioni": [
+                    "io incatenerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compĕdĭes",
+                "traduzioni": [
+                    "tu incatenerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compĕdĭet",
+                "traduzioni": [
+                    "lui incatenerà",
+                    "lei incatenerà",
+                    "egli incatenerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compĕdiēmus",
+                "traduzioni": [
+                    "noi incateneremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compĕdiētis",
+                "traduzioni": [
+                    "voi incatenerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compĕdĭent",
+                "traduzioni": [
+                    "loro incateneranno",
+                    "essi incateneranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "compedivi",
+                "traduzioni": [
+                    "io incatenai",
+                    "io ho incatenato",
+                    "io ebbi incatenato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compedivisti",
+                "traduzioni": [
+                    "tu incatenasti",
+                    "tu hai incatenato",
+                    "tu avesti incatenato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compedivit",
+                "traduzioni": [
+                    "lui incatenò",
+                    "lei incatenò",
+                    "egli incatenò",
+                    "lui ha incatenato",
+                    "lei ha incatenato",
+                    "egli ha incatenato",
+                    "lui ebbe incatenato",
+                    "lei ebbe incatenato",
+                    "egli ebbe incatenato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compedivĭmus",
+                "traduzioni": [
+                    "noi incatenammo",
+                    "noi abbiamo incatenato",
+                    "noi avemmo incatenato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compedivistis",
+                "traduzioni": [
+                    "voi incatenaste",
+                    "voi avete incatenato",
+                    "voi aveste incatenato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compedivērunt, compedivēre",
+                "traduzioni": [
+                    "loro incatenarono",
+                    "essi incatenarono",
+                    "loro hanno incatenato",
+                    "essi hanno incatenato",
+                    "loro ebbero incatenato",
+                    "essi ebbero incatenato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "compedivĕram",
+                "traduzioni": [
+                    "io avevo incatenato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compedivĕras",
+                "traduzioni": [
+                    "tu avevi incatenato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compedivĕrat",
+                "traduzioni": [
+                    "lui aveva incatenato",
+                    "lei aveva incatenato",
+                    "egli aveva incatenato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compediverāmus",
+                "traduzioni": [
+                    "noi avevamo incatenato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compediverātis",
+                "traduzioni": [
+                    "voi avevate incatenato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compedivĕrant",
+                "traduzioni": [
+                    "loro avevano incatenato",
+                    "essi avevano incatenato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "compedivĕro",
+                "traduzioni": [
+                    "io avrò incatenato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compedivĕris",
+                "traduzioni": [
+                    "tu avrai incatenato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compedivĕrit",
+                "traduzioni": [
+                    "lui avrà incatenato",
+                    "lei avrà incatenato",
+                    "egli avrà incatenato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compediverĭmus",
+                "traduzioni": [
+                    "noi avremo incatenato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compediverĭtis",
+                "traduzioni": [
+                    "voi avrete incatenato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compedivĕrint",
+                "traduzioni": [
+                    "loro avranno incatenato",
+                    "essi avranno incatenato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "compĕdĭam",
+                "traduzioni": [
+                    "che io incateni"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compĕdĭas",
+                "traduzioni": [
+                    "che tu incateni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compĕdĭat",
+                "traduzioni": [
+                    "che lui incateni",
+                    "che lei incateni",
+                    "che egli incateni"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compĕdiāmus",
+                "traduzioni": [
+                    "che noi incateniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compĕdiātis",
+                "traduzioni": [
+                    "che voi incateniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compĕdĭant",
+                "traduzioni": [
+                    "che loro incatenino",
+                    "che essi incatenino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "compĕdīrem",
+                "traduzioni": [
+                    "che io incatenassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compĕdīres",
+                "traduzioni": [
+                    "che tu incatenassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compĕdīret",
+                "traduzioni": [
+                    "che lui incatenasse",
+                    "che lei incatenasse",
+                    "che egli incatenasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compĕdirēmus",
+                "traduzioni": [
+                    "che noi incatenassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compĕdirētis",
+                "traduzioni": [
+                    "che voi incatenaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compĕdīrent",
+                "traduzioni": [
+                    "che loro incatenassero",
+                    "che essi incatenassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "compedivĕrim",
+                "traduzioni": [
+                    "che io abbia incatenato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compedivĕris",
+                "traduzioni": [
+                    "che tu abbia incatenato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compedivĕrit",
+                "traduzioni": [
+                    "che lui abbia incatenato",
+                    "che lei abbia incatenato",
+                    "che egli abbia incatenato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compediverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo incatenato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compediverĭtis",
+                "traduzioni": [
+                    "che voi abbiate incatenato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compedivĕrint",
+                "traduzioni": [
+                    "che loro abbiano incatenato",
+                    "che essi abbiano incatenato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "compedivissem",
+                "traduzioni": [
+                    "che io avessi incatenato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compedivisses",
+                "traduzioni": [
+                    "che tu avessi incatenato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compedivisset",
+                "traduzioni": [
+                    "che lui avesse incatenato",
+                    "che lei avesse incatenato",
+                    "che egli avesse incatenato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compedivissēmus",
+                "traduzioni": [
+                    "che noi avessimo incatenato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compedivissētis",
+                "traduzioni": [
+                    "che voi aveste incatenato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compedivissent",
+                "traduzioni": [
+                    "che loro avessero incatenato",
+                    "che essi avessero incatenato"
+                ]
+            }
+        ]
+    }
+}

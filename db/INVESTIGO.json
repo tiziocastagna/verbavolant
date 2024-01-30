@@ -1,0 +1,832 @@
+{
+    "identifier": "INVESTIGO",
+    "conuigazione": "1",
+    "translation": [
+        "investigare",
+        "indagare",
+        "trovare",
+        "decifrare"
+    ],
+    "valid_translations": [
+        "investigare",
+        "indagare",
+        "trovare",
+        "decifrare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "investīgo",
+                "traduzioni": [
+                    "io investigo",
+                    "io indago",
+                    "io trovo",
+                    "io decifro"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "investīgas",
+                "traduzioni": [
+                    "tu investighi",
+                    "tu indaghi",
+                    "tu trovi",
+                    "tu decifri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "investīgat",
+                "traduzioni": [
+                    "lui investiga",
+                    "lei investiga",
+                    "egli investiga",
+                    "lui indaga",
+                    "lei indaga",
+                    "egli indaga",
+                    "lui trova",
+                    "lei trova",
+                    "egli trova",
+                    "lui decifra",
+                    "lei decifra",
+                    "egli decifra"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "investīgāmus",
+                "traduzioni": [
+                    "noi investighiamo",
+                    "noi indaghiamo",
+                    "noi troviamo",
+                    "noi decifriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "investīgātis",
+                "traduzioni": [
+                    "voi investigate",
+                    "voi indagate",
+                    "voi trovate",
+                    "voi decifrate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "investīgant",
+                "traduzioni": [
+                    "loro investigano",
+                    "essi investigano",
+                    "loro indagano",
+                    "essi indagano",
+                    "loro trovano",
+                    "essi trovano",
+                    "loro decifrano",
+                    "essi decifrano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "investīgābam",
+                "traduzioni": [
+                    "io investigavo",
+                    "io indagavo",
+                    "io trovavo",
+                    "io decifravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "investīgābas",
+                "traduzioni": [
+                    "tu investigavi",
+                    "tu indagavi",
+                    "tu trovavi",
+                    "tu decifravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "investīgābat",
+                "traduzioni": [
+                    "lui investigava",
+                    "lei investigava",
+                    "egli investigava",
+                    "lui indagava",
+                    "lei indagava",
+                    "egli indagava",
+                    "lui trovava",
+                    "lei trovava",
+                    "egli trovava",
+                    "lui decifrava",
+                    "lei decifrava",
+                    "egli decifrava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "investīgabāmus",
+                "traduzioni": [
+                    "noi investigavamo",
+                    "noi indagavamo",
+                    "noi trovavamo",
+                    "noi decifravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "investīgabātis",
+                "traduzioni": [
+                    "voi investigavate",
+                    "voi indagavate",
+                    "voi trovavate",
+                    "voi decifravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "investīgābant",
+                "traduzioni": [
+                    "loro investigavano",
+                    "essi investigavano",
+                    "loro indagavano",
+                    "essi indagavano",
+                    "loro trovavano",
+                    "essi trovavano",
+                    "loro decifravano",
+                    "essi decifravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "investīgābo",
+                "traduzioni": [
+                    "io investigherò",
+                    "io indagherò",
+                    "io troverò",
+                    "io decifrerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "investīgābis",
+                "traduzioni": [
+                    "tu investigherai",
+                    "tu indagherai",
+                    "tu troverai",
+                    "tu decifrerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "investīgābit",
+                "traduzioni": [
+                    "lui investigherà",
+                    "lei investigherà",
+                    "egli investigherà",
+                    "lui indagherà",
+                    "lei indagherà",
+                    "egli indagherà",
+                    "lui troverà",
+                    "lei troverà",
+                    "egli troverà",
+                    "lui decifrerà",
+                    "lei decifrerà",
+                    "egli decifrerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "investīgabĭmus",
+                "traduzioni": [
+                    "noi investigheremo",
+                    "noi indagheremo",
+                    "noi troveremo",
+                    "noi decifreremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "investīgabĭtis",
+                "traduzioni": [
+                    "voi investigherete",
+                    "voi indagherete",
+                    "voi troverete",
+                    "voi decifrerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "investīgābunt",
+                "traduzioni": [
+                    "loro investigheranno",
+                    "essi investigheranno",
+                    "loro indagheranno",
+                    "essi indagheranno",
+                    "loro troveranno",
+                    "essi troveranno",
+                    "loro decifreranno",
+                    "essi decifreranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "investigavi",
+                "traduzioni": [
+                    "io investigai",
+                    "io ho investigato",
+                    "io ebbi investigato",
+                    "io indagai",
+                    "io ho indagato",
+                    "io ebbi indagato",
+                    "io trovai",
+                    "io ho trovato",
+                    "io ebbi trovato",
+                    "io decifrai",
+                    "io ho decifrato",
+                    "io ebbi decifrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "investigavisti",
+                "traduzioni": [
+                    "tu investigasti",
+                    "tu hai investigato",
+                    "tu avesti investigato",
+                    "tu indagasti",
+                    "tu hai indagato",
+                    "tu avesti indagato",
+                    "tu trovasti",
+                    "tu hai trovato",
+                    "tu avesti trovato",
+                    "tu decifrasti",
+                    "tu hai decifrato",
+                    "tu avesti decifrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "investigavit",
+                "traduzioni": [
+                    "lui investigò",
+                    "lei investigò",
+                    "egli investigò",
+                    "lui ha investigato",
+                    "lei ha investigato",
+                    "egli ha investigato",
+                    "lui ebbe investigato",
+                    "lei ebbe investigato",
+                    "egli ebbe investigato",
+                    "lui indagò",
+                    "lei indagò",
+                    "egli indagò",
+                    "lui ha indagato",
+                    "lei ha indagato",
+                    "egli ha indagato",
+                    "lui ebbe indagato",
+                    "lei ebbe indagato",
+                    "egli ebbe indagato",
+                    "lui trovò",
+                    "lei trovò",
+                    "egli trovò",
+                    "lui ha trovato",
+                    "lei ha trovato",
+                    "egli ha trovato",
+                    "lui ebbe trovato",
+                    "lei ebbe trovato",
+                    "egli ebbe trovato",
+                    "lui decifrò",
+                    "lei decifrò",
+                    "egli decifrò",
+                    "lui ha decifrato",
+                    "lei ha decifrato",
+                    "egli ha decifrato",
+                    "lui ebbe decifrato",
+                    "lei ebbe decifrato",
+                    "egli ebbe decifrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "investigavĭmus",
+                "traduzioni": [
+                    "noi investigammo",
+                    "noi abbiamo investigato",
+                    "noi avemmo investigato",
+                    "noi indagammo",
+                    "noi abbiamo indagato",
+                    "noi avemmo indagato",
+                    "noi trovammo",
+                    "noi abbiamo trovato",
+                    "noi avemmo trovato",
+                    "noi deciframmo",
+                    "noi abbiamo decifrato",
+                    "noi avemmo decifrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "investigavistis",
+                "traduzioni": [
+                    "voi investigaste",
+                    "voi avete investigato",
+                    "voi aveste investigato",
+                    "voi indagaste",
+                    "voi avete indagato",
+                    "voi aveste indagato",
+                    "voi trovaste",
+                    "voi avete trovato",
+                    "voi aveste trovato",
+                    "voi decifraste",
+                    "voi avete decifrato",
+                    "voi aveste decifrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "investigavērunt, investigavēre",
+                "traduzioni": [
+                    "loro investigarono",
+                    "essi investigarono",
+                    "loro hanno investigato",
+                    "essi hanno investigato",
+                    "loro ebbero investigato",
+                    "essi ebbero investigato",
+                    "loro indagarono",
+                    "essi indagarono",
+                    "loro hanno indagato",
+                    "essi hanno indagato",
+                    "loro ebbero indagato",
+                    "essi ebbero indagato",
+                    "loro trovarono",
+                    "essi trovarono",
+                    "loro hanno trovato",
+                    "essi hanno trovato",
+                    "loro ebbero trovato",
+                    "essi ebbero trovato",
+                    "loro decifrarono",
+                    "essi decifrarono",
+                    "loro hanno decifrato",
+                    "essi hanno decifrato",
+                    "loro ebbero decifrato",
+                    "essi ebbero decifrato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "investigavĕram",
+                "traduzioni": [
+                    "io avevo investigato",
+                    "io avevo indagato",
+                    "io avevo trovato",
+                    "io avevo decifrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "investigavĕras",
+                "traduzioni": [
+                    "tu avevi investigato",
+                    "tu avevi indagato",
+                    "tu avevi trovato",
+                    "tu avevi decifrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "investigavĕrat",
+                "traduzioni": [
+                    "lui aveva investigato",
+                    "lei aveva investigato",
+                    "egli aveva investigato",
+                    "lui aveva indagato",
+                    "lei aveva indagato",
+                    "egli aveva indagato",
+                    "lui aveva trovato",
+                    "lei aveva trovato",
+                    "egli aveva trovato",
+                    "lui aveva decifrato",
+                    "lei aveva decifrato",
+                    "egli aveva decifrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "investigaverāmus",
+                "traduzioni": [
+                    "noi avevamo investigato",
+                    "noi avevamo indagato",
+                    "noi avevamo trovato",
+                    "noi avevamo decifrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "investigaverātis",
+                "traduzioni": [
+                    "voi avevate investigato",
+                    "voi avevate indagato",
+                    "voi avevate trovato",
+                    "voi avevate decifrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "investigavĕrant",
+                "traduzioni": [
+                    "loro avevano investigato",
+                    "essi avevano investigato",
+                    "loro avevano indagato",
+                    "essi avevano indagato",
+                    "loro avevano trovato",
+                    "essi avevano trovato",
+                    "loro avevano decifrato",
+                    "essi avevano decifrato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "investigavĕro",
+                "traduzioni": [
+                    "io avrò investigato",
+                    "io avrò indagato",
+                    "io avrò trovato",
+                    "io avrò decifrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "investigavĕris",
+                "traduzioni": [
+                    "tu avrai investigato",
+                    "tu avrai indagato",
+                    "tu avrai trovato",
+                    "tu avrai decifrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "investigavĕrit",
+                "traduzioni": [
+                    "lui avrà investigato",
+                    "lei avrà investigato",
+                    "egli avrà investigato",
+                    "lui avrà indagato",
+                    "lei avrà indagato",
+                    "egli avrà indagato",
+                    "lui avrà trovato",
+                    "lei avrà trovato",
+                    "egli avrà trovato",
+                    "lui avrà decifrato",
+                    "lei avrà decifrato",
+                    "egli avrà decifrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "investigaverĭmus",
+                "traduzioni": [
+                    "noi avremo investigato",
+                    "noi avremo indagato",
+                    "noi avremo trovato",
+                    "noi avremo decifrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "investigaverĭtis",
+                "traduzioni": [
+                    "voi avrete investigato",
+                    "voi avrete indagato",
+                    "voi avrete trovato",
+                    "voi avrete decifrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "investigavĕrint",
+                "traduzioni": [
+                    "loro avranno investigato",
+                    "essi avranno investigato",
+                    "loro avranno indagato",
+                    "essi avranno indagato",
+                    "loro avranno trovato",
+                    "essi avranno trovato",
+                    "loro avranno decifrato",
+                    "essi avranno decifrato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "investīgem",
+                "traduzioni": [
+                    "che io investighi",
+                    "che io indaghi",
+                    "che io trovi",
+                    "che io decifri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "investīges",
+                "traduzioni": [
+                    "che tu investighi",
+                    "che tu indaghi",
+                    "che tu trovi",
+                    "che tu decifri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "investīget",
+                "traduzioni": [
+                    "che lui investighi",
+                    "che lei investighi",
+                    "che egli investighi",
+                    "che lui indaghi",
+                    "che lei indaghi",
+                    "che egli indaghi",
+                    "che lui trovi",
+                    "che lei trovi",
+                    "che egli trovi",
+                    "che lui decifri",
+                    "che lei decifri",
+                    "che egli decifri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "investīgēmus",
+                "traduzioni": [
+                    "che noi investighiamo",
+                    "che noi indaghiamo",
+                    "che noi troviamo",
+                    "che noi decifriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "investīgētis",
+                "traduzioni": [
+                    "che voi investighiate",
+                    "che voi indaghiate",
+                    "che voi troviate",
+                    "che voi decifriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "investīgent",
+                "traduzioni": [
+                    "che loro investighino",
+                    "che essi investighino",
+                    "che loro indaghino",
+                    "che essi indaghino",
+                    "che loro trovino",
+                    "che essi trovino",
+                    "che loro decifrino",
+                    "che essi decifrino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "investīgārem",
+                "traduzioni": [
+                    "che io investigassi",
+                    "che io indagassi",
+                    "che io trovassi",
+                    "che io decifrassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "investīgāres",
+                "traduzioni": [
+                    "che tu investigassi",
+                    "che tu indagassi",
+                    "che tu trovassi",
+                    "che tu decifrassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "investīgāret",
+                "traduzioni": [
+                    "che lui investigasse",
+                    "che lei investigasse",
+                    "che egli investigasse",
+                    "che lui indagasse",
+                    "che lei indagasse",
+                    "che egli indagasse",
+                    "che lui trovasse",
+                    "che lei trovasse",
+                    "che egli trovasse",
+                    "che lui decifrasse",
+                    "che lei decifrasse",
+                    "che egli decifrasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "investīgarēmus",
+                "traduzioni": [
+                    "che noi investigassimo",
+                    "che noi indagassimo",
+                    "che noi trovassimo",
+                    "che noi decifrassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "investīgarētis",
+                "traduzioni": [
+                    "che voi investigaste",
+                    "che voi indagaste",
+                    "che voi trovaste",
+                    "che voi decifraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "investīgārent",
+                "traduzioni": [
+                    "che loro investigassero",
+                    "che essi investigassero",
+                    "che loro indagassero",
+                    "che essi indagassero",
+                    "che loro trovassero",
+                    "che essi trovassero",
+                    "che loro decifrassero",
+                    "che essi decifrassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "investigavĕrim",
+                "traduzioni": [
+                    "che io abbia investigato",
+                    "che io abbia indagato",
+                    "che io abbia trovato",
+                    "che io abbia decifrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "investigavĕris",
+                "traduzioni": [
+                    "che tu abbia investigato",
+                    "che tu abbia indagato",
+                    "che tu abbia trovato",
+                    "che tu abbia decifrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "investigavĕrit",
+                "traduzioni": [
+                    "che lui abbia investigato",
+                    "che lei abbia investigato",
+                    "che egli abbia investigato",
+                    "che lui abbia indagato",
+                    "che lei abbia indagato",
+                    "che egli abbia indagato",
+                    "che lui abbia trovato",
+                    "che lei abbia trovato",
+                    "che egli abbia trovato",
+                    "che lui abbia decifrato",
+                    "che lei abbia decifrato",
+                    "che egli abbia decifrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "investigaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo investigato",
+                    "che noi abbiamo indagato",
+                    "che noi abbiamo trovato",
+                    "che noi abbiamo decifrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "investigaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate investigato",
+                    "che voi abbiate indagato",
+                    "che voi abbiate trovato",
+                    "che voi abbiate decifrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "investigavĕrint",
+                "traduzioni": [
+                    "che loro abbiano investigato",
+                    "che essi abbiano investigato",
+                    "che loro abbiano indagato",
+                    "che essi abbiano indagato",
+                    "che loro abbiano trovato",
+                    "che essi abbiano trovato",
+                    "che loro abbiano decifrato",
+                    "che essi abbiano decifrato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "investigavissem",
+                "traduzioni": [
+                    "che io avessi investigato",
+                    "che io avessi indagato",
+                    "che io avessi trovato",
+                    "che io avessi decifrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "investigavisses",
+                "traduzioni": [
+                    "che tu avessi investigato",
+                    "che tu avessi indagato",
+                    "che tu avessi trovato",
+                    "che tu avessi decifrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "investigavisset",
+                "traduzioni": [
+                    "che lui avesse investigato",
+                    "che lei avesse investigato",
+                    "che egli avesse investigato",
+                    "che lui avesse indagato",
+                    "che lei avesse indagato",
+                    "che egli avesse indagato",
+                    "che lui avesse trovato",
+                    "che lei avesse trovato",
+                    "che egli avesse trovato",
+                    "che lui avesse decifrato",
+                    "che lei avesse decifrato",
+                    "che egli avesse decifrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "investigavissēmus",
+                "traduzioni": [
+                    "che noi avessimo investigato",
+                    "che noi avessimo indagato",
+                    "che noi avessimo trovato",
+                    "che noi avessimo decifrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "investigavissētis",
+                "traduzioni": [
+                    "che voi aveste investigato",
+                    "che voi aveste indagato",
+                    "che voi aveste trovato",
+                    "che voi aveste decifrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "investigavissent",
+                "traduzioni": [
+                    "che loro avessero investigato",
+                    "che essi avessero investigato",
+                    "che loro avessero indagato",
+                    "che essi avessero indagato",
+                    "che loro avessero trovato",
+                    "che essi avessero trovato",
+                    "che loro avessero decifrato",
+                    "che essi avessero decifrato"
+                ]
+            }
+        ]
+    }
+}

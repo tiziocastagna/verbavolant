@@ -1,0 +1,765 @@
+{
+    "identifier": "CEDO",
+    "conuigazione": "3",
+    "translation": [
+        "(intransitivo) sparire",
+        "svanire",
+        "(intransitivo) cedere",
+        "(intransitivo) avanzare",
+        "camminare",
+        "(intransitivo) riuscire",
+        "(intransitivo) passare",
+        "(intransitivo) trascorrere",
+        "(transitivo) concedere",
+        "cedere"
+    ],
+    "valid_translations": [
+        "svanire",
+        "camminare",
+        "cedere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cēdo",
+                "traduzioni": [
+                    "io svanisco",
+                    "io cammino",
+                    "io cedo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cēdis",
+                "traduzioni": [
+                    "tu svanisci",
+                    "tu cammini",
+                    "tu cedi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cēdit",
+                "traduzioni": [
+                    "lui svanisce",
+                    "lei svanisce",
+                    "egli svanisce",
+                    "lui cammina",
+                    "lei cammina",
+                    "egli cammina",
+                    "lui cede",
+                    "lei cede",
+                    "egli cede"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cēdĭmus",
+                "traduzioni": [
+                    "noi svaniamo",
+                    "noi camminiamo",
+                    "noi cediamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cēdĭtis",
+                "traduzioni": [
+                    "voi svanite",
+                    "voi camminate",
+                    "voi cedete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cēdunt",
+                "traduzioni": [
+                    "loro svaniscono",
+                    "essi svaniscono",
+                    "loro camminano",
+                    "essi camminano",
+                    "loro cedono",
+                    "essi cedono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cēdēbam",
+                "traduzioni": [
+                    "io svanivo",
+                    "io camminavo",
+                    "io cedevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cēdēbas",
+                "traduzioni": [
+                    "tu svanivi",
+                    "tu camminavi",
+                    "tu cedevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cēdēbat",
+                "traduzioni": [
+                    "lui svaniva",
+                    "lei svaniva",
+                    "egli svaniva",
+                    "lui camminava",
+                    "lei camminava",
+                    "egli camminava",
+                    "lui cedeva",
+                    "lei cedeva",
+                    "egli cedeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cēdebāmus",
+                "traduzioni": [
+                    "noi svanivamo",
+                    "noi camminavamo",
+                    "noi cedevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cēdebātis",
+                "traduzioni": [
+                    "voi svanivate",
+                    "voi camminavate",
+                    "voi cedevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cēdēbant",
+                "traduzioni": [
+                    "loro svanivano",
+                    "essi svanivano",
+                    "loro camminavano",
+                    "essi camminavano",
+                    "loro cedevano",
+                    "essi cedevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cēdam",
+                "traduzioni": [
+                    "io svanirò",
+                    "io camminerò",
+                    "io cederò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cēdes",
+                "traduzioni": [
+                    "tu svanirai",
+                    "tu camminerai",
+                    "tu cederai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cēdet",
+                "traduzioni": [
+                    "lui svanirà",
+                    "lei svanirà",
+                    "egli svanirà",
+                    "lui camminerà",
+                    "lei camminerà",
+                    "egli camminerà",
+                    "lui cederà",
+                    "lei cederà",
+                    "egli cederà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cēdēmus",
+                "traduzioni": [
+                    "noi svaniremo",
+                    "noi cammineremo",
+                    "noi cederemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cēdētis",
+                "traduzioni": [
+                    "voi svanirete",
+                    "voi camminerete",
+                    "voi cederete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cēdent",
+                "traduzioni": [
+                    "loro svaniranno",
+                    "essi svaniranno",
+                    "loro cammineranno",
+                    "essi cammineranno",
+                    "loro cederanno",
+                    "essi cederanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cessi",
+                "traduzioni": [
+                    "io svanii",
+                    "io sono svanito",
+                    "io sono svanita",
+                    "io fui svanito",
+                    "io fui svanita",
+                    "io camminai",
+                    "io ho camminato",
+                    "io ebbi camminato",
+                    "io cedetti",
+                    "io cedei",
+                    "io ho ceduto",
+                    "io ebbi ceduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cessisti",
+                "traduzioni": [
+                    "tu svanisti",
+                    "tu sei svanito",
+                    "tu sei svanita",
+                    "tu fosti svanito",
+                    "tu fosti svanita",
+                    "tu camminasti",
+                    "tu hai camminato",
+                    "tu avesti camminato",
+                    "tu cedesti",
+                    "tu hai ceduto",
+                    "tu avesti ceduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cessit",
+                "traduzioni": [
+                    "lui svanì",
+                    "lei svanì",
+                    "egli svanì",
+                    "lui è svanito",
+                    "lei è svanita",
+                    "egli è svanito",
+                    "lui fu svanito",
+                    "lei fu svanita",
+                    "egli fu svanito",
+                    "lui camminò",
+                    "lei camminò",
+                    "egli camminò",
+                    "lui ha camminato",
+                    "lei ha camminato",
+                    "egli ha camminato",
+                    "lui ebbe camminato",
+                    "lei ebbe camminato",
+                    "egli ebbe camminato",
+                    "lui cedette",
+                    "lei cedette",
+                    "egli cedette",
+                    "lui cedé",
+                    "lei cedé",
+                    "egli cedé",
+                    "lui ha ceduto",
+                    "lei ha ceduto",
+                    "egli ha ceduto",
+                    "lui ebbe ceduto",
+                    "lei ebbe ceduto",
+                    "egli ebbe ceduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cessĭmus",
+                "traduzioni": [
+                    "noi svanimmo",
+                    "noi siamo svaniti",
+                    "noi siamo svanite",
+                    "noi fummo svaniti",
+                    "noi fummo svanite",
+                    "noi camminammo",
+                    "noi abbiamo camminato",
+                    "noi avemmo camminato",
+                    "noi cedemmo",
+                    "noi abbiamo ceduto",
+                    "noi avemmo ceduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cessistis",
+                "traduzioni": [
+                    "voi svaniste",
+                    "voi siete svaniti",
+                    "voi siete svanite",
+                    "voi foste svaniti",
+                    "voi foste svanite",
+                    "voi camminaste",
+                    "voi avete camminato",
+                    "voi aveste camminato",
+                    "voi cedeste",
+                    "voi avete ceduto",
+                    "voi aveste ceduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cessērunt, cessēre",
+                "traduzioni": [
+                    "loro svanirono",
+                    "essi svanirono",
+                    "loro sono svaniti",
+                    "loro sono svanite",
+                    "essi sono svaniti",
+                    "loro furono svaniti",
+                    "loro furono svanite",
+                    "essi furono svaniti",
+                    "loro camminarono",
+                    "essi camminarono",
+                    "loro hanno camminato",
+                    "essi hanno camminato",
+                    "loro ebbero camminato",
+                    "essi ebbero camminato",
+                    "loro cedettero",
+                    "essi cedettero",
+                    "loro cederono",
+                    "essi cederono",
+                    "loro hanno ceduto",
+                    "essi hanno ceduto",
+                    "loro ebbero ceduto",
+                    "essi ebbero ceduto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cessĕram",
+                "traduzioni": [
+                    "io ero svanito",
+                    "io ero svanita",
+                    "io avevo camminato",
+                    "io avevo ceduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cessĕras",
+                "traduzioni": [
+                    "tu eri svanito",
+                    "tu eri svanita",
+                    "tu avevi camminato",
+                    "tu avevi ceduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cessĕrat",
+                "traduzioni": [
+                    "lui era svanito",
+                    "lei era svanita",
+                    "egli era svanito",
+                    "lui aveva camminato",
+                    "lei aveva camminato",
+                    "egli aveva camminato",
+                    "lui aveva ceduto",
+                    "lei aveva ceduto",
+                    "egli aveva ceduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cesserāmus",
+                "traduzioni": [
+                    "noi eravamo svaniti",
+                    "noi eravamo svanite",
+                    "noi avevamo camminato",
+                    "noi avevamo ceduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cesserātis",
+                "traduzioni": [
+                    "voi eravate svaniti",
+                    "voi eravate svanite",
+                    "voi avevate camminato",
+                    "voi avevate ceduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cessĕrant",
+                "traduzioni": [
+                    "loro erano svaniti",
+                    "loro erano svanite",
+                    "essi erano svaniti",
+                    "loro avevano camminato",
+                    "essi avevano camminato",
+                    "loro avevano ceduto",
+                    "essi avevano ceduto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cessĕro",
+                "traduzioni": [
+                    "io sarò svanito",
+                    "io sarò svanita",
+                    "io avrò camminato",
+                    "io avrò ceduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cessĕris",
+                "traduzioni": [
+                    "tu sarai svanito",
+                    "tu sarai svanita",
+                    "tu avrai camminato",
+                    "tu avrai ceduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cessĕrit",
+                "traduzioni": [
+                    "lui sarà svanito",
+                    "lei sarà svanita",
+                    "egli sarà svanito",
+                    "lui avrà camminato",
+                    "lei avrà camminato",
+                    "egli avrà camminato",
+                    "lui avrà ceduto",
+                    "lei avrà ceduto",
+                    "egli avrà ceduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cesserĭmus",
+                "traduzioni": [
+                    "noi saremo svaniti",
+                    "noi saremo svanite",
+                    "noi avremo camminato",
+                    "noi avremo ceduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cesserĭtis",
+                "traduzioni": [
+                    "voi sarete svaniti",
+                    "voi sarete svanite",
+                    "voi avrete camminato",
+                    "voi avrete ceduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cessĕrint",
+                "traduzioni": [
+                    "loro saranno svaniti",
+                    "loro saranno svanite",
+                    "essi saranno svaniti",
+                    "loro avranno camminato",
+                    "essi avranno camminato",
+                    "loro avranno ceduto",
+                    "essi avranno ceduto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cēdam",
+                "traduzioni": [
+                    "che io svanisca",
+                    "che io cammini",
+                    "che io ceda"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cēdas",
+                "traduzioni": [
+                    "che tu svanisca",
+                    "che tu cammini",
+                    "che tu ceda"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cēdat",
+                "traduzioni": [
+                    "che lui svanisca",
+                    "che lei svanisca",
+                    "che egli svanisca",
+                    "che lui cammini",
+                    "che lei cammini",
+                    "che egli cammini",
+                    "che lui ceda",
+                    "che lei ceda",
+                    "che egli ceda"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cēdāmus",
+                "traduzioni": [
+                    "che noi svaniamo",
+                    "che noi camminiamo",
+                    "che noi cediamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cēdātis",
+                "traduzioni": [
+                    "che voi svaniate",
+                    "che voi camminiate",
+                    "che voi cediate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cēdant",
+                "traduzioni": [
+                    "che loro svaniscano",
+                    "che essi svaniscano",
+                    "che loro camminino",
+                    "che essi camminino",
+                    "che loro cedano",
+                    "che essi cedano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cēdĕrem",
+                "traduzioni": [
+                    "che io svanissi",
+                    "che io camminassi",
+                    "che io cedessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cēdĕres",
+                "traduzioni": [
+                    "che tu svanissi",
+                    "che tu camminassi",
+                    "che tu cedessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cēdĕret",
+                "traduzioni": [
+                    "che lui svanisse",
+                    "che lei svanisse",
+                    "che egli svanisse",
+                    "che lui camminasse",
+                    "che lei camminasse",
+                    "che egli camminasse",
+                    "che lui cedesse",
+                    "che lei cedesse",
+                    "che egli cedesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cēderēmus",
+                "traduzioni": [
+                    "che noi svanissimo",
+                    "che noi camminassimo",
+                    "che noi cedessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cēderētis",
+                "traduzioni": [
+                    "che voi svaniste",
+                    "che voi camminaste",
+                    "che voi cedeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cēdĕrent",
+                "traduzioni": [
+                    "che loro svanissero",
+                    "che essi svanissero",
+                    "che loro camminassero",
+                    "che essi camminassero",
+                    "che loro cedessero",
+                    "che essi cedessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cessĕrim",
+                "traduzioni": [
+                    "che io sia svanito",
+                    "che io sia svanita",
+                    "che io abbia camminato",
+                    "che io abbia ceduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cessĕris",
+                "traduzioni": [
+                    "che tu sia svanito",
+                    "che tu sia svanita",
+                    "che tu abbia camminato",
+                    "che tu abbia ceduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cessĕrit",
+                "traduzioni": [
+                    "che lui sia svanito",
+                    "che lei sia svanita",
+                    "che egli sia svanito",
+                    "che lui abbia camminato",
+                    "che lei abbia camminato",
+                    "che egli abbia camminato",
+                    "che lui abbia ceduto",
+                    "che lei abbia ceduto",
+                    "che egli abbia ceduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cesserĭmus",
+                "traduzioni": [
+                    "che noi siamo svaniti",
+                    "che noi siamo svanite",
+                    "che noi abbiamo camminato",
+                    "che noi abbiamo ceduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cesserĭtis",
+                "traduzioni": [
+                    "che voi siate svaniti",
+                    "che voi siate svanite",
+                    "che voi abbiate camminato",
+                    "che voi abbiate ceduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cessĕrint",
+                "traduzioni": [
+                    "che loro siano svaniti",
+                    "che loro siano svanite",
+                    "che essi siano svaniti",
+                    "che loro abbiano camminato",
+                    "che essi abbiano camminato",
+                    "che loro abbiano ceduto",
+                    "che essi abbiano ceduto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cessissem",
+                "traduzioni": [
+                    "che io fossi svanito",
+                    "che io fossi svanita",
+                    "che io avessi camminato",
+                    "che io avessi ceduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cessisses",
+                "traduzioni": [
+                    "che tu fossi svanito",
+                    "che tu fossi svanita",
+                    "che tu avessi camminato",
+                    "che tu avessi ceduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cessisset",
+                "traduzioni": [
+                    "che lui fosse svanito",
+                    "che lei fosse svanita",
+                    "che egli fosse svanito",
+                    "che lui avesse camminato",
+                    "che lei avesse camminato",
+                    "che egli avesse camminato",
+                    "che lui avesse ceduto",
+                    "che lei avesse ceduto",
+                    "che egli avesse ceduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cessissēmus",
+                "traduzioni": [
+                    "che noi fossimo svaniti",
+                    "che noi fossimo svanite",
+                    "che noi avessimo camminato",
+                    "che noi avessimo ceduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cessissētis",
+                "traduzioni": [
+                    "che voi foste svaniti",
+                    "che voi foste svanite",
+                    "che voi aveste camminato",
+                    "che voi aveste ceduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cessissent",
+                "traduzioni": [
+                    "che loro fossero svaniti",
+                    "che loro fossero svanite",
+                    "che essi fossero svaniti",
+                    "che loro avessero camminato",
+                    "che essi avessero camminato",
+                    "che loro avessero ceduto",
+                    "che essi avessero ceduto"
+                ]
+            }
+        ]
+    }
+}

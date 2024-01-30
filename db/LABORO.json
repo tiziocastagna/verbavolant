@@ -1,0 +1,616 @@
+{
+    "identifier": "LABORO",
+    "conuigazione": "1",
+    "translation": [
+        "darsi da fare",
+        "(intransitivo) soffrire",
+        "(transitivo) fare",
+        "eseguire",
+        "fabbricare",
+        "(transitivo) coltivare"
+    ],
+    "valid_translations": [
+        "eseguire",
+        "fabbricare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăbōro",
+                "traduzioni": [
+                    "io esegu(isc)o",
+                    "io fabbrico"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăbōras",
+                "traduzioni": [
+                    "tu esegu(isc)i",
+                    "tu fabbrichi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăbōrat",
+                "traduzioni": [
+                    "lui esegu(isc)e",
+                    "lei esegu(isc)e",
+                    "egli esegu(isc)e",
+                    "lui fabbrica",
+                    "lei fabbrica",
+                    "egli fabbrica"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăbōrāmus",
+                "traduzioni": [
+                    "noi eseguiamo",
+                    "noi fabbrichiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăbōrātis",
+                "traduzioni": [
+                    "voi eseguite",
+                    "voi fabbricate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăbōrant",
+                "traduzioni": [
+                    "loro esegu(isc)ono",
+                    "essi esegu(isc)ono",
+                    "loro fabbricano",
+                    "essi fabbricano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăbōrābam",
+                "traduzioni": [
+                    "io eseguivo",
+                    "io fabbricavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăbōrābas",
+                "traduzioni": [
+                    "tu eseguivi",
+                    "tu fabbricavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăbōrābat",
+                "traduzioni": [
+                    "lui eseguiva",
+                    "lei eseguiva",
+                    "egli eseguiva",
+                    "lui fabbricava",
+                    "lei fabbricava",
+                    "egli fabbricava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăbōrabāmus",
+                "traduzioni": [
+                    "noi eseguivamo",
+                    "noi fabbricavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăbōrabātis",
+                "traduzioni": [
+                    "voi eseguivate",
+                    "voi fabbricavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăbōrābant",
+                "traduzioni": [
+                    "loro eseguivano",
+                    "essi eseguivano",
+                    "loro fabbricavano",
+                    "essi fabbricavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăbōrābo",
+                "traduzioni": [
+                    "io eseguirò",
+                    "io fabbricherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăbōrābis",
+                "traduzioni": [
+                    "tu eseguirai",
+                    "tu fabbricherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăbōrābit",
+                "traduzioni": [
+                    "lui eseguirà",
+                    "lei eseguirà",
+                    "egli eseguirà",
+                    "lui fabbricherà",
+                    "lei fabbricherà",
+                    "egli fabbricherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăbōrabĭmus",
+                "traduzioni": [
+                    "noi eseguiremo",
+                    "noi fabbricheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăbōrabĭtis",
+                "traduzioni": [
+                    "voi eseguirete",
+                    "voi fabbricherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăbōrābunt",
+                "traduzioni": [
+                    "loro eseguiranno",
+                    "essi eseguiranno",
+                    "loro fabbricheranno",
+                    "essi fabbricheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laboravi",
+                "traduzioni": [
+                    "io eseguii",
+                    "io ho eseguito",
+                    "io ebbi eseguito",
+                    "io fabbricai",
+                    "io ho fabbricato",
+                    "io ebbi fabbricato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laboravisti",
+                "traduzioni": [
+                    "tu eseguisti",
+                    "tu hai eseguito",
+                    "tu avesti eseguito",
+                    "tu fabbricasti",
+                    "tu hai fabbricato",
+                    "tu avesti fabbricato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laboravit",
+                "traduzioni": [
+                    "lui eseguì",
+                    "lei eseguì",
+                    "egli eseguì",
+                    "lui ha eseguito",
+                    "lei ha eseguito",
+                    "egli ha eseguito",
+                    "lui ebbe eseguito",
+                    "lei ebbe eseguito",
+                    "egli ebbe eseguito",
+                    "lui fabbricò",
+                    "lei fabbricò",
+                    "egli fabbricò",
+                    "lui ha fabbricato",
+                    "lei ha fabbricato",
+                    "egli ha fabbricato",
+                    "lui ebbe fabbricato",
+                    "lei ebbe fabbricato",
+                    "egli ebbe fabbricato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laboravĭmus",
+                "traduzioni": [
+                    "noi eseguimmo",
+                    "noi abbiamo eseguito",
+                    "noi avemmo eseguito",
+                    "noi fabbricammo",
+                    "noi abbiamo fabbricato",
+                    "noi avemmo fabbricato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laboravistis",
+                "traduzioni": [
+                    "voi eseguiste",
+                    "voi avete eseguito",
+                    "voi aveste eseguito",
+                    "voi fabbricaste",
+                    "voi avete fabbricato",
+                    "voi aveste fabbricato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laboravēreunt, laboravēre",
+                "traduzioni": [
+                    "loro eseguirono",
+                    "essi eseguirono",
+                    "loro hanno eseguito",
+                    "essi hanno eseguito",
+                    "loro ebbero eseguito",
+                    "essi ebbero eseguito",
+                    "loro fabbricarono",
+                    "essi fabbricarono",
+                    "loro hanno fabbricato",
+                    "essi hanno fabbricato",
+                    "loro ebbero fabbricato",
+                    "essi ebbero fabbricato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laboravĕram",
+                "traduzioni": [
+                    "io avevo eseguito",
+                    "io avevo fabbricato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laboravĕras",
+                "traduzioni": [
+                    "tu avevi eseguito",
+                    "tu avevi fabbricato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laboravĕrat",
+                "traduzioni": [
+                    "lui aveva eseguito",
+                    "lei aveva eseguito",
+                    "egli aveva eseguito",
+                    "lui aveva fabbricato",
+                    "lei aveva fabbricato",
+                    "egli aveva fabbricato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laboraverāmus",
+                "traduzioni": [
+                    "noi avevamo eseguito",
+                    "noi avevamo fabbricato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laboraverātis",
+                "traduzioni": [
+                    "voi avevate eseguito",
+                    "voi avevate fabbricato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laboravĕrant",
+                "traduzioni": [
+                    "loro avevano eseguito",
+                    "essi avevano eseguito",
+                    "loro avevano fabbricato",
+                    "essi avevano fabbricato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "laboravĕro",
+                "traduzioni": [
+                    "io avrò eseguito",
+                    "io avrò fabbricato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laboravĕris",
+                "traduzioni": [
+                    "tu avrai eseguito",
+                    "tu avrai fabbricato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laboravĕrit",
+                "traduzioni": [
+                    "lui avrà eseguito",
+                    "lei avrà eseguito",
+                    "egli avrà eseguito",
+                    "lui avrà fabbricato",
+                    "lei avrà fabbricato",
+                    "egli avrà fabbricato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laboraverĭmus",
+                "traduzioni": [
+                    "noi avremo eseguito",
+                    "noi avremo fabbricato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laboraverĭtis",
+                "traduzioni": [
+                    "voi avrete eseguito",
+                    "voi avrete fabbricato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laboravĕrint",
+                "traduzioni": [
+                    "loro avranno eseguito",
+                    "essi avranno eseguito",
+                    "loro avranno fabbricato",
+                    "essi avranno fabbricato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăbōrem",
+                "traduzioni": [
+                    "che io esegu(isc)a",
+                    "che io fabbrichi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăbōres",
+                "traduzioni": [
+                    "che tu esegu(isc)a",
+                    "che tu fabbrichi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăbōret",
+                "traduzioni": [
+                    "che lui esegu(isc)a",
+                    "che lei esegu(isc)a",
+                    "che egli esegu(isc)a",
+                    "che lui fabbrichi",
+                    "che lei fabbrichi",
+                    "che egli fabbrichi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăbōrēmus",
+                "traduzioni": [
+                    "che noi eseguiamo",
+                    "che noi fabbrichiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăbōrētis",
+                "traduzioni": [
+                    "che voi eseguiate",
+                    "che voi fabbrichiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăbōrent",
+                "traduzioni": [
+                    "che loro esegu(isc)ano",
+                    "che essi esegu(isc)ano",
+                    "che loro fabbrichino",
+                    "che essi fabbrichino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăbōrārem",
+                "traduzioni": [
+                    "che io eseguissi",
+                    "che io fabbricassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăbōrāres",
+                "traduzioni": [
+                    "che tu eseguissi",
+                    "che tu fabbricassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăbōrāret",
+                "traduzioni": [
+                    "che lui eseguisse",
+                    "che lei eseguisse",
+                    "che egli eseguisse",
+                    "che lui fabbricasse",
+                    "che lei fabbricasse",
+                    "che egli fabbricasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăbōrarēmus",
+                "traduzioni": [
+                    "che noi eseguissimo",
+                    "che noi fabbricassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăbōrarētis",
+                "traduzioni": [
+                    "che voi eseguiste",
+                    "che voi fabbricaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăbōrārent",
+                "traduzioni": [
+                    "che loro eseguissero",
+                    "che essi eseguissero",
+                    "che loro fabbricassero",
+                    "che essi fabbricassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laboravĕrim",
+                "traduzioni": [
+                    "che io abbia eseguito",
+                    "che io abbia fabbricato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laboravĕris",
+                "traduzioni": [
+                    "che tu abbia eseguito",
+                    "che tu abbia fabbricato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laboravĕrit",
+                "traduzioni": [
+                    "che lui abbia eseguito",
+                    "che lei abbia eseguito",
+                    "che egli abbia eseguito",
+                    "che lui abbia fabbricato",
+                    "che lei abbia fabbricato",
+                    "che egli abbia fabbricato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laboraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo eseguito",
+                    "che noi abbiamo fabbricato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laboraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate eseguito",
+                    "che voi abbiate fabbricato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laboravĕrint",
+                "traduzioni": [
+                    "che loro abbiano eseguito",
+                    "che essi abbiano eseguito",
+                    "che loro abbiano fabbricato",
+                    "che essi abbiano fabbricato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "laboravissem",
+                "traduzioni": [
+                    "che io avessi eseguito",
+                    "che io avessi fabbricato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "laboravisses",
+                "traduzioni": [
+                    "che tu avessi eseguito",
+                    "che tu avessi fabbricato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "laboravisset",
+                "traduzioni": [
+                    "che lui avesse eseguito",
+                    "che lei avesse eseguito",
+                    "che egli avesse eseguito",
+                    "che lui avesse fabbricato",
+                    "che lei avesse fabbricato",
+                    "che egli avesse fabbricato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laboravissēmus",
+                "traduzioni": [
+                    "che noi avessimo eseguito",
+                    "che noi avessimo fabbricato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laboravissētis",
+                "traduzioni": [
+                    "che voi aveste eseguito",
+                    "che voi aveste fabbricato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "laboravissent",
+                "traduzioni": [
+                    "che loro avessero eseguito",
+                    "che essi avessero eseguito",
+                    "che loro avessero fabbricato",
+                    "che essi avessero fabbricato"
+                ]
+            }
+        ]
+    }
+}

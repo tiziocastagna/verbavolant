@@ -1,0 +1,923 @@
+{
+    "identifier": "PENETRO",
+    "conuigazione": "1",
+    "translation": [
+        "far entrare",
+        "penetrare",
+        "entrare",
+        "giungere",
+        "attraversare"
+    ],
+    "valid_translations": [
+        "penetrare",
+        "entrare",
+        "giungere",
+        "attraversare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pĕnĕtro",
+                "traduzioni": [
+                    "io penetro",
+                    "io entro",
+                    "io giungo",
+                    "io attraverso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pĕnĕtras",
+                "traduzioni": [
+                    "tu penetri",
+                    "tu entri",
+                    "tu giungi",
+                    "tu attraversi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pĕnĕtrat",
+                "traduzioni": [
+                    "lui penetra",
+                    "lei penetra",
+                    "egli penetra",
+                    "lui entra",
+                    "lei entra",
+                    "egli entra",
+                    "lui giunge",
+                    "lei giunge",
+                    "egli giunge",
+                    "lui attraversa",
+                    "lei attraversa",
+                    "egli attraversa"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pĕnĕtrāmus",
+                "traduzioni": [
+                    "noi penetriamo",
+                    "noi entriamo",
+                    "noi giungiamo",
+                    "noi attraversiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pĕnĕtrātis",
+                "traduzioni": [
+                    "voi penetrate",
+                    "voi entrate",
+                    "voi giungete",
+                    "voi attraversate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pĕnĕtrant",
+                "traduzioni": [
+                    "loro penetrano",
+                    "essi penetrano",
+                    "loro entrano",
+                    "essi entrano",
+                    "loro giungono",
+                    "essi giungono",
+                    "loro attraversano",
+                    "essi attraversano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pĕnĕtrābam",
+                "traduzioni": [
+                    "io penetravo",
+                    "io entravo",
+                    "io giungevo",
+                    "io attraversavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pĕnĕtrābas",
+                "traduzioni": [
+                    "tu penetravi",
+                    "tu entravi",
+                    "tu giungevi",
+                    "tu attraversavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pĕnĕtrābat",
+                "traduzioni": [
+                    "lui penetrava",
+                    "lei penetrava",
+                    "egli penetrava",
+                    "lui entrava",
+                    "lei entrava",
+                    "egli entrava",
+                    "lui giungeva",
+                    "lei giungeva",
+                    "egli giungeva",
+                    "lui attraversava",
+                    "lei attraversava",
+                    "egli attraversava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pĕnĕtrabāmus",
+                "traduzioni": [
+                    "noi penetravamo",
+                    "noi entravamo",
+                    "noi giungevamo",
+                    "noi attraversavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pĕnĕtrabātis",
+                "traduzioni": [
+                    "voi penetravate",
+                    "voi entravate",
+                    "voi giungevate",
+                    "voi attraversavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pĕnĕtrābant",
+                "traduzioni": [
+                    "loro penetravano",
+                    "essi penetravano",
+                    "loro entravano",
+                    "essi entravano",
+                    "loro giungevano",
+                    "essi giungevano",
+                    "loro attraversavano",
+                    "essi attraversavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pĕnĕtrābo",
+                "traduzioni": [
+                    "io penetrerò",
+                    "io entrerò",
+                    "io giungerò",
+                    "io attraverserò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pĕnĕtrābis",
+                "traduzioni": [
+                    "tu penetrerai",
+                    "tu entrerai",
+                    "tu giungerai",
+                    "tu attraverserai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pĕnĕtrābit",
+                "traduzioni": [
+                    "lui penetrerà",
+                    "lei penetrerà",
+                    "egli penetrerà",
+                    "lui entrerà",
+                    "lei entrerà",
+                    "egli entrerà",
+                    "lui giungerà",
+                    "lei giungerà",
+                    "egli giungerà",
+                    "lui attraverserà",
+                    "lei attraverserà",
+                    "egli attraverserà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pĕnĕtrabĭmus",
+                "traduzioni": [
+                    "noi penetreremo",
+                    "noi entreremo",
+                    "noi giungeremo",
+                    "noi attraverseremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pĕnĕtrabĭtis",
+                "traduzioni": [
+                    "voi penetrerete",
+                    "voi entrerete",
+                    "voi giungerete",
+                    "voi attraverserete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pĕnĕtrābunt",
+                "traduzioni": [
+                    "loro penetreranno",
+                    "essi penetreranno",
+                    "loro entreranno",
+                    "essi entreranno",
+                    "loro giungeranno",
+                    "essi giungeranno",
+                    "loro attraverseranno",
+                    "essi attraverseranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "penetravi",
+                "traduzioni": [
+                    "io penetrai",
+                    "io sono penetrato",
+                    "io sono penetrata",
+                    "io fui penetrato",
+                    "io fui penetrata",
+                    "io entrai",
+                    "io sono entrato",
+                    "io sono entrata",
+                    "io fui entrato",
+                    "io fui entrata",
+                    "io giunsi",
+                    "io sono giunto",
+                    "io sono giunta",
+                    "io fui giunto",
+                    "io fui giunta",
+                    "io attraversai",
+                    "io ho attraversato",
+                    "io ebbi attraversato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "penetravisti",
+                "traduzioni": [
+                    "tu penetrasti",
+                    "tu sei penetrato",
+                    "tu sei penetrata",
+                    "tu fosti penetrato",
+                    "tu fosti penetrata",
+                    "tu entrasti",
+                    "tu sei entrato",
+                    "tu sei entrata",
+                    "tu fosti entrato",
+                    "tu fosti entrata",
+                    "tu giungesti",
+                    "tu sei giunto",
+                    "tu sei giunta",
+                    "tu fosti giunto",
+                    "tu fosti giunta",
+                    "tu attraversasti",
+                    "tu hai attraversato",
+                    "tu avesti attraversato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "penetravit",
+                "traduzioni": [
+                    "lui penetrò",
+                    "lei penetrò",
+                    "egli penetrò",
+                    "lui è penetrato",
+                    "lei è penetrata",
+                    "egli è penetrato",
+                    "lui fu penetrato",
+                    "lei fu penetrata",
+                    "egli fu penetrato",
+                    "lui entrò",
+                    "lei entrò",
+                    "egli entrò",
+                    "lui è entrato",
+                    "lei è entrata",
+                    "egli è entrato",
+                    "lui fu entrato",
+                    "lei fu entrata",
+                    "egli fu entrato",
+                    "lui giunse",
+                    "lei giunse",
+                    "egli giunse",
+                    "lui è giunto",
+                    "lei è giunta",
+                    "egli è giunto",
+                    "lui fu giunto",
+                    "lei fu giunta",
+                    "egli fu giunto",
+                    "lui attraversò",
+                    "lei attraversò",
+                    "egli attraversò",
+                    "lui ha attraversato",
+                    "lei ha attraversato",
+                    "egli ha attraversato",
+                    "lui ebbe attraversato",
+                    "lei ebbe attraversato",
+                    "egli ebbe attraversato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "penetravĭmus",
+                "traduzioni": [
+                    "noi penetrammo",
+                    "noi siamo penetrati",
+                    "noi siamo penetrate",
+                    "noi fummo penetrati",
+                    "noi fummo penetrate",
+                    "noi entrammo",
+                    "noi siamo entrati",
+                    "noi siamo entrate",
+                    "noi fummo entrati",
+                    "noi fummo entrate",
+                    "noi giungemmo",
+                    "noi siamo giunti",
+                    "noi siamo giunte",
+                    "noi fummo giunti",
+                    "noi fummo giunte",
+                    "noi attraversammo",
+                    "noi abbiamo attraversato",
+                    "noi avemmo attraversato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "penetravistis",
+                "traduzioni": [
+                    "voi penetraste",
+                    "voi siete penetrati",
+                    "voi siete penetrate",
+                    "voi foste penetrati",
+                    "voi foste penetrate",
+                    "voi entraste",
+                    "voi siete entrati",
+                    "voi siete entrate",
+                    "voi foste entrati",
+                    "voi foste entrate",
+                    "voi giungeste",
+                    "voi siete giunti",
+                    "voi siete giunte",
+                    "voi foste giunti",
+                    "voi foste giunte",
+                    "voi attraversaste",
+                    "voi avete attraversato",
+                    "voi aveste attraversato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "penetravēreunt, penetravēre",
+                "traduzioni": [
+                    "loro penetrarono",
+                    "essi penetrarono",
+                    "loro sono penetrati",
+                    "loro sono penetrate",
+                    "essi sono penetrati",
+                    "loro furono penetrati",
+                    "loro furono penetrate",
+                    "essi furono penetrati",
+                    "loro entrarono",
+                    "essi entrarono",
+                    "loro sono entrati",
+                    "loro sono entrate",
+                    "essi sono entrati",
+                    "loro furono entrati",
+                    "loro furono entrate",
+                    "essi furono entrati",
+                    "loro giunsero",
+                    "essi giunsero",
+                    "loro sono giunti",
+                    "loro sono giunte",
+                    "essi sono giunti",
+                    "loro furono giunti",
+                    "loro furono giunte",
+                    "essi furono giunti",
+                    "loro attraversarono",
+                    "essi attraversarono",
+                    "loro hanno attraversato",
+                    "essi hanno attraversato",
+                    "loro ebbero attraversato",
+                    "essi ebbero attraversato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "penetravĕram",
+                "traduzioni": [
+                    "io ero penetrato",
+                    "io ero penetrata",
+                    "io ero entrato",
+                    "io ero entrata",
+                    "io ero giunto",
+                    "io ero giunta",
+                    "io avevo attraversato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "penetravĕras",
+                "traduzioni": [
+                    "tu eri penetrato",
+                    "tu eri penetrata",
+                    "tu eri entrato",
+                    "tu eri entrata",
+                    "tu eri giunto",
+                    "tu eri giunta",
+                    "tu avevi attraversato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "penetravĕrat",
+                "traduzioni": [
+                    "lui era penetrato",
+                    "lei era penetrata",
+                    "egli era penetrato",
+                    "lui era entrato",
+                    "lei era entrata",
+                    "egli era entrato",
+                    "lui era giunto",
+                    "lei era giunta",
+                    "egli era giunto",
+                    "lui aveva attraversato",
+                    "lei aveva attraversato",
+                    "egli aveva attraversato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "penetraverāmus",
+                "traduzioni": [
+                    "noi eravamo penetrati",
+                    "noi eravamo penetrate",
+                    "noi eravamo entrati",
+                    "noi eravamo entrate",
+                    "noi eravamo giunti",
+                    "noi eravamo giunte",
+                    "noi avevamo attraversato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "penetraverātis",
+                "traduzioni": [
+                    "voi eravate penetrati",
+                    "voi eravate penetrate",
+                    "voi eravate entrati",
+                    "voi eravate entrate",
+                    "voi eravate giunti",
+                    "voi eravate giunte",
+                    "voi avevate attraversato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "penetravĕrant",
+                "traduzioni": [
+                    "loro erano penetrati",
+                    "loro erano penetrate",
+                    "essi erano penetrati",
+                    "loro erano entrati",
+                    "loro erano entrate",
+                    "essi erano entrati",
+                    "loro erano giunti",
+                    "loro erano giunte",
+                    "essi erano giunti",
+                    "loro avevano attraversato",
+                    "essi avevano attraversato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "penetravĕro",
+                "traduzioni": [
+                    "io sarò penetrato",
+                    "io sarò penetrata",
+                    "io sarò entrato",
+                    "io sarò entrata",
+                    "io sarò giunto",
+                    "io sarò giunta",
+                    "io avrò attraversato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "penetravĕris",
+                "traduzioni": [
+                    "tu sarai penetrato",
+                    "tu sarai penetrata",
+                    "tu sarai entrato",
+                    "tu sarai entrata",
+                    "tu sarai giunto",
+                    "tu sarai giunta",
+                    "tu avrai attraversato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "penetravĕrit",
+                "traduzioni": [
+                    "lui sarà penetrato",
+                    "lei sarà penetrata",
+                    "egli sarà penetrato",
+                    "lui sarà entrato",
+                    "lei sarà entrata",
+                    "egli sarà entrato",
+                    "lui sarà giunto",
+                    "lei sarà giunta",
+                    "egli sarà giunto",
+                    "lui avrà attraversato",
+                    "lei avrà attraversato",
+                    "egli avrà attraversato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "penetraverĭmus",
+                "traduzioni": [
+                    "noi saremo penetrati",
+                    "noi saremo penetrate",
+                    "noi saremo entrati",
+                    "noi saremo entrate",
+                    "noi saremo giunti",
+                    "noi saremo giunte",
+                    "noi avremo attraversato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "penetraverĭtis",
+                "traduzioni": [
+                    "voi sarete penetrati",
+                    "voi sarete penetrate",
+                    "voi sarete entrati",
+                    "voi sarete entrate",
+                    "voi sarete giunti",
+                    "voi sarete giunte",
+                    "voi avrete attraversato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "penetravĕrint",
+                "traduzioni": [
+                    "loro saranno penetrati",
+                    "loro saranno penetrate",
+                    "essi saranno penetrati",
+                    "loro saranno entrati",
+                    "loro saranno entrate",
+                    "essi saranno entrati",
+                    "loro saranno giunti",
+                    "loro saranno giunte",
+                    "essi saranno giunti",
+                    "loro avranno attraversato",
+                    "essi avranno attraversato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pĕnĕtrem",
+                "traduzioni": [
+                    "che io penetri",
+                    "che io entri",
+                    "che io giunga",
+                    "che io attraversi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pĕnĕtres",
+                "traduzioni": [
+                    "che tu penetri",
+                    "che tu entri",
+                    "che tu giunga",
+                    "che tu attraversi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pĕnĕtret",
+                "traduzioni": [
+                    "che lui penetri",
+                    "che lei penetri",
+                    "che egli penetri",
+                    "che lui entri",
+                    "che lei entri",
+                    "che egli entri",
+                    "che lui giunga",
+                    "che lei giunga",
+                    "che egli giunga",
+                    "che lui attraversi",
+                    "che lei attraversi",
+                    "che egli attraversi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pĕnĕtrēmus",
+                "traduzioni": [
+                    "che noi penetriamo",
+                    "che noi entriamo",
+                    "che noi giungiamo",
+                    "che noi attraversiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pĕnĕtrētis",
+                "traduzioni": [
+                    "che voi penetriate",
+                    "che voi entriate",
+                    "che voi giungiate",
+                    "che voi attraversiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pĕnĕtrent",
+                "traduzioni": [
+                    "che loro penetrino",
+                    "che essi penetrino",
+                    "che loro entrino",
+                    "che essi entrino",
+                    "che loro giungano",
+                    "che essi giungano",
+                    "che loro attraversino",
+                    "che essi attraversino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pĕnĕtrārem",
+                "traduzioni": [
+                    "che io penetrassi",
+                    "che io entrassi",
+                    "che io giungessi",
+                    "che io attraversassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pĕnĕtrāres",
+                "traduzioni": [
+                    "che tu penetrassi",
+                    "che tu entrassi",
+                    "che tu giungessi",
+                    "che tu attraversassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pĕnĕtrāret",
+                "traduzioni": [
+                    "che lui penetrasse",
+                    "che lei penetrasse",
+                    "che egli penetrasse",
+                    "che lui entrasse",
+                    "che lei entrasse",
+                    "che egli entrasse",
+                    "che lui giungesse",
+                    "che lei giungesse",
+                    "che egli giungesse",
+                    "che lui attraversasse",
+                    "che lei attraversasse",
+                    "che egli attraversasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pĕnĕtrarēmus",
+                "traduzioni": [
+                    "che noi penetrassimo",
+                    "che noi entrassimo",
+                    "che noi giungessimo",
+                    "che noi attraversassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pĕnĕtrarētis",
+                "traduzioni": [
+                    "che voi penetraste",
+                    "che voi entraste",
+                    "che voi giungeste",
+                    "che voi attraversaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pĕnĕtrārent",
+                "traduzioni": [
+                    "che loro penetrassero",
+                    "che essi penetrassero",
+                    "che loro entrassero",
+                    "che essi entrassero",
+                    "che loro giungessero",
+                    "che essi giungessero",
+                    "che loro attraversassero",
+                    "che essi attraversassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "penetravĕrim",
+                "traduzioni": [
+                    "che io sia penetrato",
+                    "che io sia penetrata",
+                    "che io sia entrato",
+                    "che io sia entrata",
+                    "che io sia giunto",
+                    "che io sia giunta",
+                    "che io abbia attraversato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "penetravĕris",
+                "traduzioni": [
+                    "che tu sia penetrato",
+                    "che tu sia penetrata",
+                    "che tu sia entrato",
+                    "che tu sia entrata",
+                    "che tu sia giunto",
+                    "che tu sia giunta",
+                    "che tu abbia attraversato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "penetravĕrit",
+                "traduzioni": [
+                    "che lui sia penetrato",
+                    "che lei sia penetrata",
+                    "che egli sia penetrato",
+                    "che lui sia entrato",
+                    "che lei sia entrata",
+                    "che egli sia entrato",
+                    "che lui sia giunto",
+                    "che lei sia giunta",
+                    "che egli sia giunto",
+                    "che lui abbia attraversato",
+                    "che lei abbia attraversato",
+                    "che egli abbia attraversato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "penetraverĭmus",
+                "traduzioni": [
+                    "che noi siamo penetrati",
+                    "che noi siamo penetrate",
+                    "che noi siamo entrati",
+                    "che noi siamo entrate",
+                    "che noi siamo giunti",
+                    "che noi siamo giunte",
+                    "che noi abbiamo attraversato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "penetraverĭtis",
+                "traduzioni": [
+                    "che voi siate penetrati",
+                    "che voi siate penetrate",
+                    "che voi siate entrati",
+                    "che voi siate entrate",
+                    "che voi siate giunti",
+                    "che voi siate giunte",
+                    "che voi abbiate attraversato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "penetravĕrint",
+                "traduzioni": [
+                    "che loro siano penetrati",
+                    "che loro siano penetrate",
+                    "che essi siano penetrati",
+                    "che loro siano entrati",
+                    "che loro siano entrate",
+                    "che essi siano entrati",
+                    "che loro siano giunti",
+                    "che loro siano giunte",
+                    "che essi siano giunti",
+                    "che loro abbiano attraversato",
+                    "che essi abbiano attraversato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "penetravissem",
+                "traduzioni": [
+                    "che io fossi penetrato",
+                    "che io fossi penetrata",
+                    "che io fossi entrato",
+                    "che io fossi entrata",
+                    "che io fossi giunto",
+                    "che io fossi giunta",
+                    "che io avessi attraversato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "penetravisses",
+                "traduzioni": [
+                    "che tu fossi penetrato",
+                    "che tu fossi penetrata",
+                    "che tu fossi entrato",
+                    "che tu fossi entrata",
+                    "che tu fossi giunto",
+                    "che tu fossi giunta",
+                    "che tu avessi attraversato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "penetravisset",
+                "traduzioni": [
+                    "che lui fosse penetrato",
+                    "che lei fosse penetrata",
+                    "che egli fosse penetrato",
+                    "che lui fosse entrato",
+                    "che lei fosse entrata",
+                    "che egli fosse entrato",
+                    "che lui fosse giunto",
+                    "che lei fosse giunta",
+                    "che egli fosse giunto",
+                    "che lui avesse attraversato",
+                    "che lei avesse attraversato",
+                    "che egli avesse attraversato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "penetravissēmus",
+                "traduzioni": [
+                    "che noi fossimo penetrati",
+                    "che noi fossimo penetrate",
+                    "che noi fossimo entrati",
+                    "che noi fossimo entrate",
+                    "che noi fossimo giunti",
+                    "che noi fossimo giunte",
+                    "che noi avessimo attraversato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "penetravissētis",
+                "traduzioni": [
+                    "che voi foste penetrati",
+                    "che voi foste penetrate",
+                    "che voi foste entrati",
+                    "che voi foste entrate",
+                    "che voi foste giunti",
+                    "che voi foste giunte",
+                    "che voi aveste attraversato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "penetravissent",
+                "traduzioni": [
+                    "che loro fossero penetrati",
+                    "che loro fossero penetrate",
+                    "che essi fossero penetrati",
+                    "che loro fossero entrati",
+                    "che loro fossero entrate",
+                    "che essi fossero entrati",
+                    "che loro fossero giunti",
+                    "che loro fossero giunte",
+                    "che essi fossero giunti",
+                    "che loro avessero attraversato",
+                    "che essi avessero attraversato"
+                ]
+            }
+        ]
+    }
+}

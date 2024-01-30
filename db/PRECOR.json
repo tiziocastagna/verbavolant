@@ -1,0 +1,942 @@
+{
+    "identifier": "PRECOR",
+    "conuigazione": "1",
+    "translation": [
+        "pregare",
+        "supplicare",
+        "implorare",
+        "invocare",
+        "desiderare"
+    ],
+    "valid_translations": [
+        "pregare",
+        "supplicare",
+        "implorare",
+        "invocare",
+        "desiderare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "prĕcor",
+                "traduzioni": [
+                    "io prego",
+                    "io supplico",
+                    "io imploro",
+                    "io invoco",
+                    "io desidero"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prĕcāris, prĕcāre",
+                "traduzioni": [
+                    "tu preghi",
+                    "tu supplichi",
+                    "tu implori",
+                    "tu invochi",
+                    "tu desideri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prĕcātur",
+                "traduzioni": [
+                    "lui prega",
+                    "lei prega",
+                    "egli prega",
+                    "lui supplica",
+                    "lei supplica",
+                    "egli supplica",
+                    "lui implora",
+                    "lei implora",
+                    "egli implora",
+                    "lui invoca",
+                    "lei invoca",
+                    "egli invoca",
+                    "lui desidera",
+                    "lei desidera",
+                    "egli desidera"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prĕcāmur",
+                "traduzioni": [
+                    "noi preghiamo",
+                    "noi supplichiamo",
+                    "noi imploriamo",
+                    "noi invochiamo",
+                    "noi desideriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prĕcamĭni",
+                "traduzioni": [
+                    "voi pregate",
+                    "voi supplicate",
+                    "voi implorate",
+                    "voi invocate",
+                    "voi desiderate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prĕcantur",
+                "traduzioni": [
+                    "loro pregano",
+                    "essi pregano",
+                    "loro supplicano",
+                    "essi supplicano",
+                    "loro implorano",
+                    "essi implorano",
+                    "loro invocano",
+                    "essi invocano",
+                    "loro desiderano",
+                    "essi desiderano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "prĕcābar",
+                "traduzioni": [
+                    "io pregavo",
+                    "io supplicavo",
+                    "io imploravo",
+                    "io invocavo",
+                    "io desideravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prĕcabāris, prĕcabāre",
+                "traduzioni": [
+                    "tu pregavi",
+                    "tu supplicavi",
+                    "tu imploravi",
+                    "tu invocavi",
+                    "tu desideravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prĕcabātur",
+                "traduzioni": [
+                    "lui pregava",
+                    "lei pregava",
+                    "egli pregava",
+                    "lui supplicava",
+                    "lei supplicava",
+                    "egli supplicava",
+                    "lui implorava",
+                    "lei implorava",
+                    "egli implorava",
+                    "lui invocava",
+                    "lei invocava",
+                    "egli invocava",
+                    "lui desiderava",
+                    "lei desiderava",
+                    "egli desiderava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prĕcabāmur",
+                "traduzioni": [
+                    "noi pregavamo",
+                    "noi supplicavamo",
+                    "noi imploravamo",
+                    "noi invocavamo",
+                    "noi desideravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prĕcabamĭni",
+                "traduzioni": [
+                    "voi pregavate",
+                    "voi supplicavate",
+                    "voi imploravate",
+                    "voi invocavate",
+                    "voi desideravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prĕcabantur",
+                "traduzioni": [
+                    "loro pregavano",
+                    "essi pregavano",
+                    "loro supplicavano",
+                    "essi supplicavano",
+                    "loro imploravano",
+                    "essi imploravano",
+                    "loro invocavano",
+                    "essi invocavano",
+                    "loro desideravano",
+                    "essi desideravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "prĕcābor",
+                "traduzioni": [
+                    "io pregherò",
+                    "io supplicherò",
+                    "io implorerò",
+                    "io invocherò",
+                    "io desidererò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prĕcabĕris, prĕcabĕre",
+                "traduzioni": [
+                    "tu pregherai",
+                    "tu supplicherai",
+                    "tu implorerai",
+                    "tu invocherai",
+                    "tu desidererai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prĕcabĭtur",
+                "traduzioni": [
+                    "lui pregherà",
+                    "lei pregherà",
+                    "egli pregherà",
+                    "lui supplicherà",
+                    "lei supplicherà",
+                    "egli supplicherà",
+                    "lui implorerà",
+                    "lei implorerà",
+                    "egli implorerà",
+                    "lui invocherà",
+                    "lei invocherà",
+                    "egli invocherà",
+                    "lui desidererà",
+                    "lei desidererà",
+                    "egli desidererà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prĕcabĭmur",
+                "traduzioni": [
+                    "noi pregheremo",
+                    "noi supplicheremo",
+                    "noi imploreremo",
+                    "noi invocheremo",
+                    "noi desidereremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prĕcabimĭni",
+                "traduzioni": [
+                    "voi pregherete",
+                    "voi supplicherete",
+                    "voi implorerete",
+                    "voi invocherete",
+                    "voi desidererete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prĕcabuntur",
+                "traduzioni": [
+                    "loro pregheranno",
+                    "essi pregheranno",
+                    "loro supplicheranno",
+                    "essi supplicheranno",
+                    "loro imploreranno",
+                    "essi imploreranno",
+                    "loro invocheranno",
+                    "essi invocheranno",
+                    "loro desidereranno",
+                    "essi desidereranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "precatus, –a, –um  sum",
+                "traduzioni": [
+                    "io pregai",
+                    "io ho pregato",
+                    "io ebbi pregato",
+                    "io supplicai",
+                    "io ho supplicato",
+                    "io ebbi supplicato",
+                    "io implorai",
+                    "io ho implorato",
+                    "io ebbi implorato",
+                    "io invocai",
+                    "io ho invocato",
+                    "io ebbi invocato",
+                    "io desiderai",
+                    "io ho desiderato",
+                    "io ebbi desiderato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "precatus, –a, –um  es",
+                "traduzioni": [
+                    "tu pregasti",
+                    "tu hai pregato",
+                    "tu avesti pregato",
+                    "tu supplicasti",
+                    "tu hai supplicato",
+                    "tu avesti supplicato",
+                    "tu implorasti",
+                    "tu hai implorato",
+                    "tu avesti implorato",
+                    "tu invocasti",
+                    "tu hai invocato",
+                    "tu avesti invocato",
+                    "tu desiderasti",
+                    "tu hai desiderato",
+                    "tu avesti desiderato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "precatus, –a, –um  est",
+                "traduzioni": [
+                    "lui pregò",
+                    "lei pregò",
+                    "egli pregò",
+                    "lui ha pregato",
+                    "lei ha pregato",
+                    "egli ha pregato",
+                    "lui ebbe pregato",
+                    "lei ebbe pregato",
+                    "egli ebbe pregato",
+                    "lui supplicò",
+                    "lei supplicò",
+                    "egli supplicò",
+                    "lui ha supplicato",
+                    "lei ha supplicato",
+                    "egli ha supplicato",
+                    "lui ebbe supplicato",
+                    "lei ebbe supplicato",
+                    "egli ebbe supplicato",
+                    "lui implorò",
+                    "lei implorò",
+                    "egli implorò",
+                    "lui ha implorato",
+                    "lei ha implorato",
+                    "egli ha implorato",
+                    "lui ebbe implorato",
+                    "lei ebbe implorato",
+                    "egli ebbe implorato",
+                    "lui invocò",
+                    "lei invocò",
+                    "egli invocò",
+                    "lui ha invocato",
+                    "lei ha invocato",
+                    "egli ha invocato",
+                    "lui ebbe invocato",
+                    "lei ebbe invocato",
+                    "egli ebbe invocato",
+                    "lui desiderò",
+                    "lei desiderò",
+                    "egli desiderò",
+                    "lui ha desiderato",
+                    "lei ha desiderato",
+                    "egli ha desiderato",
+                    "lui ebbe desiderato",
+                    "lei ebbe desiderato",
+                    "egli ebbe desiderato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "precati, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi pregammo",
+                    "noi abbiamo pregato",
+                    "noi avemmo pregato",
+                    "noi supplicammo",
+                    "noi abbiamo supplicato",
+                    "noi avemmo supplicato",
+                    "noi implorammo",
+                    "noi abbiamo implorato",
+                    "noi avemmo implorato",
+                    "noi invocammo",
+                    "noi abbiamo invocato",
+                    "noi avemmo invocato",
+                    "noi desiderammo",
+                    "noi abbiamo desiderato",
+                    "noi avemmo desiderato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "precati, –ae, –a  estis",
+                "traduzioni": [
+                    "voi pregaste",
+                    "voi avete pregato",
+                    "voi aveste pregato",
+                    "voi supplicaste",
+                    "voi avete supplicato",
+                    "voi aveste supplicato",
+                    "voi imploraste",
+                    "voi avete implorato",
+                    "voi aveste implorato",
+                    "voi invocaste",
+                    "voi avete invocato",
+                    "voi aveste invocato",
+                    "voi desideraste",
+                    "voi avete desiderato",
+                    "voi aveste desiderato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "precati, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro pregarono",
+                    "essi pregarono",
+                    "loro hanno pregato",
+                    "essi hanno pregato",
+                    "loro ebbero pregato",
+                    "essi ebbero pregato",
+                    "loro supplicarono",
+                    "essi supplicarono",
+                    "loro hanno supplicato",
+                    "essi hanno supplicato",
+                    "loro ebbero supplicato",
+                    "essi ebbero supplicato",
+                    "loro implorarono",
+                    "essi implorarono",
+                    "loro hanno implorato",
+                    "essi hanno implorato",
+                    "loro ebbero implorato",
+                    "essi ebbero implorato",
+                    "loro invocarono",
+                    "essi invocarono",
+                    "loro hanno invocato",
+                    "essi hanno invocato",
+                    "loro ebbero invocato",
+                    "essi ebbero invocato",
+                    "loro desiderarono",
+                    "essi desiderarono",
+                    "loro hanno desiderato",
+                    "essi hanno desiderato",
+                    "loro ebbero desiderato",
+                    "essi ebbero desiderato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "precatus, –a, –um  eram",
+                "traduzioni": [
+                    "io avevo pregato",
+                    "io avevo supplicato",
+                    "io avevo implorato",
+                    "io avevo invocato",
+                    "io avevo desiderato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "precatus, –a, –um  eras",
+                "traduzioni": [
+                    "tu avevi pregato",
+                    "tu avevi supplicato",
+                    "tu avevi implorato",
+                    "tu avevi invocato",
+                    "tu avevi desiderato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "precatus, –a, –um  erat",
+                "traduzioni": [
+                    "lui aveva pregato",
+                    "lei aveva pregato",
+                    "egli aveva pregato",
+                    "lui aveva supplicato",
+                    "lei aveva supplicato",
+                    "egli aveva supplicato",
+                    "lui aveva implorato",
+                    "lei aveva implorato",
+                    "egli aveva implorato",
+                    "lui aveva invocato",
+                    "lei aveva invocato",
+                    "egli aveva invocato",
+                    "lui aveva desiderato",
+                    "lei aveva desiderato",
+                    "egli aveva desiderato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "precati, –ae, –a  eramus",
+                "traduzioni": [
+                    "noi avevamo pregato",
+                    "noi avevamo supplicato",
+                    "noi avevamo implorato",
+                    "noi avevamo invocato",
+                    "noi avevamo desiderato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "precati, –ae, –a  eratis",
+                "traduzioni": [
+                    "voi avevate pregato",
+                    "voi avevate supplicato",
+                    "voi avevate implorato",
+                    "voi avevate invocato",
+                    "voi avevate desiderato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "precati, –ae, –a erant",
+                "traduzioni": [
+                    "loro avevano pregato",
+                    "essi avevano pregato",
+                    "loro avevano supplicato",
+                    "essi avevano supplicato",
+                    "loro avevano implorato",
+                    "essi avevano implorato",
+                    "loro avevano invocato",
+                    "essi avevano invocato",
+                    "loro avevano desiderato",
+                    "essi avevano desiderato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "precatus, –a, –um  ero",
+                "traduzioni": [
+                    "io avrò pregato",
+                    "io avrò supplicato",
+                    "io avrò implorato",
+                    "io avrò invocato",
+                    "io avrò desiderato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "precatus, –a, –um  eris",
+                "traduzioni": [
+                    "tu avrai pregato",
+                    "tu avrai supplicato",
+                    "tu avrai implorato",
+                    "tu avrai invocato",
+                    "tu avrai desiderato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "precatus, –a, –um  erit",
+                "traduzioni": [
+                    "lui avrà pregato",
+                    "lei avrà pregato",
+                    "egli avrà pregato",
+                    "lui avrà supplicato",
+                    "lei avrà supplicato",
+                    "egli avrà supplicato",
+                    "lui avrà implorato",
+                    "lei avrà implorato",
+                    "egli avrà implorato",
+                    "lui avrà invocato",
+                    "lei avrà invocato",
+                    "egli avrà invocato",
+                    "lui avrà desiderato",
+                    "lei avrà desiderato",
+                    "egli avrà desiderato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "precati, –ae, –a  erimus",
+                "traduzioni": [
+                    "noi avremo pregato",
+                    "noi avremo supplicato",
+                    "noi avremo implorato",
+                    "noi avremo invocato",
+                    "noi avremo desiderato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "precati, –ae, –a  eritis",
+                "traduzioni": [
+                    "voi avrete pregato",
+                    "voi avrete supplicato",
+                    "voi avrete implorato",
+                    "voi avrete invocato",
+                    "voi avrete desiderato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "precati, –ae, –a  erunt",
+                "traduzioni": [
+                    "loro avranno pregato",
+                    "essi avranno pregato",
+                    "loro avranno supplicato",
+                    "essi avranno supplicato",
+                    "loro avranno implorato",
+                    "essi avranno implorato",
+                    "loro avranno invocato",
+                    "essi avranno invocato",
+                    "loro avranno desiderato",
+                    "essi avranno desiderato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "prĕcer",
+                "traduzioni": [
+                    "che io preghi",
+                    "che io supplichi",
+                    "che io implori",
+                    "che io invochi",
+                    "che io desideri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prĕcēris, prĕcēre",
+                "traduzioni": [
+                    "che tu preghi",
+                    "che tu supplichi",
+                    "che tu implori",
+                    "che tu invochi",
+                    "che tu desideri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prĕcētur",
+                "traduzioni": [
+                    "che lui preghi",
+                    "che lei preghi",
+                    "che egli preghi",
+                    "che lui supplichi",
+                    "che lei supplichi",
+                    "che egli supplichi",
+                    "che lui implori",
+                    "che lei implori",
+                    "che egli implori",
+                    "che lui invochi",
+                    "che lei invochi",
+                    "che egli invochi",
+                    "che lui desideri",
+                    "che lei desideri",
+                    "che egli desideri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prĕcēmur",
+                "traduzioni": [
+                    "che noi preghiamo",
+                    "che noi supplichiamo",
+                    "che noi imploriamo",
+                    "che noi invochiamo",
+                    "che noi desideriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prĕcemĭni",
+                "traduzioni": [
+                    "che voi preghiate",
+                    "che voi supplichiate",
+                    "che voi imploriate",
+                    "che voi invochiate",
+                    "che voi desideriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prĕcentur",
+                "traduzioni": [
+                    "che loro preghino",
+                    "che essi preghino",
+                    "che loro supplichino",
+                    "che essi supplichino",
+                    "che loro implorino",
+                    "che essi implorino",
+                    "che loro invochino",
+                    "che essi invochino",
+                    "che loro desiderino",
+                    "che essi desiderino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "prĕcārer",
+                "traduzioni": [
+                    "che io pregassi",
+                    "che io supplicassi",
+                    "che io implorassi",
+                    "che io invocassi",
+                    "che io desiderassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prĕcarēris, prĕcarēre",
+                "traduzioni": [
+                    "che tu pregassi",
+                    "che tu supplicassi",
+                    "che tu implorassi",
+                    "che tu invocassi",
+                    "che tu desiderassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prĕcarētur",
+                "traduzioni": [
+                    "che lui pregasse",
+                    "che lei pregasse",
+                    "che egli pregasse",
+                    "che lui supplicasse",
+                    "che lei supplicasse",
+                    "che egli supplicasse",
+                    "che lui implorasse",
+                    "che lei implorasse",
+                    "che egli implorasse",
+                    "che lui invocasse",
+                    "che lei invocasse",
+                    "che egli invocasse",
+                    "che lui desiderasse",
+                    "che lei desiderasse",
+                    "che egli desiderasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prĕcarēmur",
+                "traduzioni": [
+                    "che noi pregassimo",
+                    "che noi supplicassimo",
+                    "che noi implorassimo",
+                    "che noi invocassimo",
+                    "che noi desiderassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prĕcaremĭni",
+                "traduzioni": [
+                    "che voi pregaste",
+                    "che voi supplicaste",
+                    "che voi imploraste",
+                    "che voi invocaste",
+                    "che voi desideraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prĕcarentur",
+                "traduzioni": [
+                    "che loro pregassero",
+                    "che essi pregassero",
+                    "che loro supplicassero",
+                    "che essi supplicassero",
+                    "che loro implorassero",
+                    "che essi implorassero",
+                    "che loro invocassero",
+                    "che essi invocassero",
+                    "che loro desiderassero",
+                    "che essi desiderassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "precatus, –a, –um  sim",
+                "traduzioni": [
+                    "che io abbia pregato",
+                    "che io abbia supplicato",
+                    "che io abbia implorato",
+                    "che io abbia invocato",
+                    "che io abbia desiderato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "precatus, –a, –um  sis",
+                "traduzioni": [
+                    "che tu abbia pregato",
+                    "che tu abbia supplicato",
+                    "che tu abbia implorato",
+                    "che tu abbia invocato",
+                    "che tu abbia desiderato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "precatus, –a, –um  sit",
+                "traduzioni": [
+                    "che lui abbia pregato",
+                    "che lei abbia pregato",
+                    "che egli abbia pregato",
+                    "che lui abbia supplicato",
+                    "che lei abbia supplicato",
+                    "che egli abbia supplicato",
+                    "che lui abbia implorato",
+                    "che lei abbia implorato",
+                    "che egli abbia implorato",
+                    "che lui abbia invocato",
+                    "che lei abbia invocato",
+                    "che egli abbia invocato",
+                    "che lui abbia desiderato",
+                    "che lei abbia desiderato",
+                    "che egli abbia desiderato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "precati, –ae, –a  simus",
+                "traduzioni": [
+                    "che noi abbiamo pregato",
+                    "che noi abbiamo supplicato",
+                    "che noi abbiamo implorato",
+                    "che noi abbiamo invocato",
+                    "che noi abbiamo desiderato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "precati, –ae, –a  sitis",
+                "traduzioni": [
+                    "che voi abbiate pregato",
+                    "che voi abbiate supplicato",
+                    "che voi abbiate implorato",
+                    "che voi abbiate invocato",
+                    "che voi abbiate desiderato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "precati, –ae, –a  sint",
+                "traduzioni": [
+                    "che loro abbiano pregato",
+                    "che essi abbiano pregato",
+                    "che loro abbiano supplicato",
+                    "che essi abbiano supplicato",
+                    "che loro abbiano implorato",
+                    "che essi abbiano implorato",
+                    "che loro abbiano invocato",
+                    "che essi abbiano invocato",
+                    "che loro abbiano desiderato",
+                    "che essi abbiano desiderato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "precatus, –a, –um  essem",
+                "traduzioni": [
+                    "che io avessi pregato",
+                    "che io avessi supplicato",
+                    "che io avessi implorato",
+                    "che io avessi invocato",
+                    "che io avessi desiderato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "precatus, –a, –um  esses",
+                "traduzioni": [
+                    "che tu avessi pregato",
+                    "che tu avessi supplicato",
+                    "che tu avessi implorato",
+                    "che tu avessi invocato",
+                    "che tu avessi desiderato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "precatus, –a, –um  esset",
+                "traduzioni": [
+                    "che lui avesse pregato",
+                    "che lei avesse pregato",
+                    "che egli avesse pregato",
+                    "che lui avesse supplicato",
+                    "che lei avesse supplicato",
+                    "che egli avesse supplicato",
+                    "che lui avesse implorato",
+                    "che lei avesse implorato",
+                    "che egli avesse implorato",
+                    "che lui avesse invocato",
+                    "che lei avesse invocato",
+                    "che egli avesse invocato",
+                    "che lui avesse desiderato",
+                    "che lei avesse desiderato",
+                    "che egli avesse desiderato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "precati, –ae, –a  essemus",
+                "traduzioni": [
+                    "che noi avessimo pregato",
+                    "che noi avessimo supplicato",
+                    "che noi avessimo implorato",
+                    "che noi avessimo invocato",
+                    "che noi avessimo desiderato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "precati, –ae, –a  essetis",
+                "traduzioni": [
+                    "che voi aveste pregato",
+                    "che voi aveste supplicato",
+                    "che voi aveste implorato",
+                    "che voi aveste invocato",
+                    "che voi aveste desiderato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "precati, –ae, –a  essent",
+                "traduzioni": [
+                    "che loro avessero pregato",
+                    "che essi avessero pregato",
+                    "che loro avessero supplicato",
+                    "che essi avessero supplicato",
+                    "che loro avessero implorato",
+                    "che essi avessero implorato",
+                    "che loro avessero invocato",
+                    "che essi avessero invocato",
+                    "che loro avessero desiderato",
+                    "che essi avessero desiderato"
+                ]
+            }
+        ]
+    }
+}

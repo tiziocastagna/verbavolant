@@ -1,0 +1,757 @@
+{
+    "identifier": "PERMEO",
+    "conuigazione": "1",
+    "translation": [
+        "(transitivo) passare",
+        "attraversare",
+        "(transitivo) permeare",
+        "pervadere",
+        "(transitivo) inondare",
+        "(intransitivo) arrivare",
+        "giungere",
+        "(intransitivo) penetrare"
+    ],
+    "valid_translations": [
+        "attraversare",
+        "pervadere",
+        "giungere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "permĕo",
+                "traduzioni": [
+                    "io attraverso",
+                    "io pervado",
+                    "io giungo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permĕas",
+                "traduzioni": [
+                    "tu attraversi",
+                    "tu pervadi",
+                    "tu giungi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permĕat",
+                "traduzioni": [
+                    "lui attraversa",
+                    "lei attraversa",
+                    "egli attraversa",
+                    "lui pervade",
+                    "lei pervade",
+                    "egli pervade",
+                    "lui giunge",
+                    "lei giunge",
+                    "egli giunge"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permĕāmus",
+                "traduzioni": [
+                    "noi attraversiamo",
+                    "noi pervadiamo",
+                    "noi giungiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permĕātis",
+                "traduzioni": [
+                    "voi attraversate",
+                    "voi pervadete",
+                    "voi giungete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permĕant",
+                "traduzioni": [
+                    "loro attraversano",
+                    "essi attraversano",
+                    "loro pervadono",
+                    "essi pervadono",
+                    "loro giungono",
+                    "essi giungono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "permĕābam",
+                "traduzioni": [
+                    "io attraversavo",
+                    "io pervadevo",
+                    "io giungevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permĕābas",
+                "traduzioni": [
+                    "tu attraversavi",
+                    "tu pervadevi",
+                    "tu giungevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permĕābat",
+                "traduzioni": [
+                    "lui attraversava",
+                    "lei attraversava",
+                    "egli attraversava",
+                    "lui pervadeva",
+                    "lei pervadeva",
+                    "egli pervadeva",
+                    "lui giungeva",
+                    "lei giungeva",
+                    "egli giungeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permĕabāmus",
+                "traduzioni": [
+                    "noi attraversavamo",
+                    "noi pervadevamo",
+                    "noi giungevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permĕabātis",
+                "traduzioni": [
+                    "voi attraversavate",
+                    "voi pervadevate",
+                    "voi giungevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permĕābant",
+                "traduzioni": [
+                    "loro attraversavano",
+                    "essi attraversavano",
+                    "loro pervadevano",
+                    "essi pervadevano",
+                    "loro giungevano",
+                    "essi giungevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "permĕābo",
+                "traduzioni": [
+                    "io attraverserò",
+                    "io pervaderò",
+                    "io giungerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permĕābis",
+                "traduzioni": [
+                    "tu attraverserai",
+                    "tu pervaderai",
+                    "tu giungerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permĕābit",
+                "traduzioni": [
+                    "lui attraverserà",
+                    "lei attraverserà",
+                    "egli attraverserà",
+                    "lui pervaderà",
+                    "lei pervaderà",
+                    "egli pervaderà",
+                    "lui giungerà",
+                    "lei giungerà",
+                    "egli giungerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permĕabĭmus",
+                "traduzioni": [
+                    "noi attraverseremo",
+                    "noi pervaderemo",
+                    "noi giungeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permĕabĭtis",
+                "traduzioni": [
+                    "voi attraverserete",
+                    "voi pervaderete",
+                    "voi giungerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permĕābunt",
+                "traduzioni": [
+                    "loro attraverseranno",
+                    "essi attraverseranno",
+                    "loro pervaderanno",
+                    "essi pervaderanno",
+                    "loro giungeranno",
+                    "essi giungeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "permeavi",
+                "traduzioni": [
+                    "io attraversai",
+                    "io ho attraversato",
+                    "io ebbi attraversato",
+                    "io pervasi",
+                    "io ho pervaso",
+                    "io ebbi pervaso",
+                    "io giunsi",
+                    "io sono giunto",
+                    "io sono giunta",
+                    "io fui giunto",
+                    "io fui giunta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permeavisti",
+                "traduzioni": [
+                    "tu attraversasti",
+                    "tu hai attraversato",
+                    "tu avesti attraversato",
+                    "tu pervadesti",
+                    "tu hai pervaso",
+                    "tu avesti pervaso",
+                    "tu giungesti",
+                    "tu sei giunto",
+                    "tu sei giunta",
+                    "tu fosti giunto",
+                    "tu fosti giunta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permeavit",
+                "traduzioni": [
+                    "lui attraversò",
+                    "lei attraversò",
+                    "egli attraversò",
+                    "lui ha attraversato",
+                    "lei ha attraversato",
+                    "egli ha attraversato",
+                    "lui ebbe attraversato",
+                    "lei ebbe attraversato",
+                    "egli ebbe attraversato",
+                    "lui pervase",
+                    "lei pervase",
+                    "egli pervase",
+                    "lui ha pervaso",
+                    "lei ha pervaso",
+                    "egli ha pervaso",
+                    "lui ebbe pervaso",
+                    "lei ebbe pervaso",
+                    "egli ebbe pervaso",
+                    "lui giunse",
+                    "lei giunse",
+                    "egli giunse",
+                    "lui è giunto",
+                    "lei è giunta",
+                    "egli è giunto",
+                    "lui fu giunto",
+                    "lei fu giunta",
+                    "egli fu giunto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permeavĭmus",
+                "traduzioni": [
+                    "noi attraversammo",
+                    "noi abbiamo attraversato",
+                    "noi avemmo attraversato",
+                    "noi pervademmo",
+                    "noi abbiamo pervaso",
+                    "noi avemmo pervaso",
+                    "noi giungemmo",
+                    "noi siamo giunti",
+                    "noi siamo giunte",
+                    "noi fummo giunti",
+                    "noi fummo giunte"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permeavistis",
+                "traduzioni": [
+                    "voi attraversaste",
+                    "voi avete attraversato",
+                    "voi aveste attraversato",
+                    "voi pervadeste",
+                    "voi avete pervaso",
+                    "voi aveste pervaso",
+                    "voi giungeste",
+                    "voi siete giunti",
+                    "voi siete giunte",
+                    "voi foste giunti",
+                    "voi foste giunte"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permeavēreunt, permeavēre",
+                "traduzioni": [
+                    "loro attraversarono",
+                    "essi attraversarono",
+                    "loro hanno attraversato",
+                    "essi hanno attraversato",
+                    "loro ebbero attraversato",
+                    "essi ebbero attraversato",
+                    "loro pervasero",
+                    "essi pervasero",
+                    "loro hanno pervaso",
+                    "essi hanno pervaso",
+                    "loro ebbero pervaso",
+                    "essi ebbero pervaso",
+                    "loro giunsero",
+                    "essi giunsero",
+                    "loro sono giunti",
+                    "loro sono giunte",
+                    "essi sono giunti",
+                    "loro furono giunti",
+                    "loro furono giunte",
+                    "essi furono giunti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "permeavĕram",
+                "traduzioni": [
+                    "io avevo attraversato",
+                    "io avevo pervaso",
+                    "io ero giunto",
+                    "io ero giunta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permeavĕras",
+                "traduzioni": [
+                    "tu avevi attraversato",
+                    "tu avevi pervaso",
+                    "tu eri giunto",
+                    "tu eri giunta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permeavĕrat",
+                "traduzioni": [
+                    "lui aveva attraversato",
+                    "lei aveva attraversato",
+                    "egli aveva attraversato",
+                    "lui aveva pervaso",
+                    "lei aveva pervaso",
+                    "egli aveva pervaso",
+                    "lui era giunto",
+                    "lei era giunta",
+                    "egli era giunto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permeaverāmus",
+                "traduzioni": [
+                    "noi avevamo attraversato",
+                    "noi avevamo pervaso",
+                    "noi eravamo giunti",
+                    "noi eravamo giunte"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permeaverātis",
+                "traduzioni": [
+                    "voi avevate attraversato",
+                    "voi avevate pervaso",
+                    "voi eravate giunti",
+                    "voi eravate giunte"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permeavĕrant",
+                "traduzioni": [
+                    "loro avevano attraversato",
+                    "essi avevano attraversato",
+                    "loro avevano pervaso",
+                    "essi avevano pervaso",
+                    "loro erano giunti",
+                    "loro erano giunte",
+                    "essi erano giunti"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "permeavĕro",
+                "traduzioni": [
+                    "io avrò attraversato",
+                    "io avrò pervaso",
+                    "io sarò giunto",
+                    "io sarò giunta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permeavĕris",
+                "traduzioni": [
+                    "tu avrai attraversato",
+                    "tu avrai pervaso",
+                    "tu sarai giunto",
+                    "tu sarai giunta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permeavĕrit",
+                "traduzioni": [
+                    "lui avrà attraversato",
+                    "lei avrà attraversato",
+                    "egli avrà attraversato",
+                    "lui avrà pervaso",
+                    "lei avrà pervaso",
+                    "egli avrà pervaso",
+                    "lui sarà giunto",
+                    "lei sarà giunta",
+                    "egli sarà giunto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permeaverĭmus",
+                "traduzioni": [
+                    "noi avremo attraversato",
+                    "noi avremo pervaso",
+                    "noi saremo giunti",
+                    "noi saremo giunte"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permeaverĭtis",
+                "traduzioni": [
+                    "voi avrete attraversato",
+                    "voi avrete pervaso",
+                    "voi sarete giunti",
+                    "voi sarete giunte"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permeavĕrint",
+                "traduzioni": [
+                    "loro avranno attraversato",
+                    "essi avranno attraversato",
+                    "loro avranno pervaso",
+                    "essi avranno pervaso",
+                    "loro saranno giunti",
+                    "loro saranno giunte",
+                    "essi saranno giunti"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "permĕem",
+                "traduzioni": [
+                    "che io attraversi",
+                    "che io pervada",
+                    "che io giunga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permĕes",
+                "traduzioni": [
+                    "che tu attraversi",
+                    "che tu pervada",
+                    "che tu giunga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permĕet",
+                "traduzioni": [
+                    "che lui attraversi",
+                    "che lei attraversi",
+                    "che egli attraversi",
+                    "che lui pervada",
+                    "che lei pervada",
+                    "che egli pervada",
+                    "che lui giunga",
+                    "che lei giunga",
+                    "che egli giunga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permĕēmus",
+                "traduzioni": [
+                    "che noi attraversiamo",
+                    "che noi pervadiamo",
+                    "che noi giungiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permĕētis",
+                "traduzioni": [
+                    "che voi attraversiate",
+                    "che voi pervadiate",
+                    "che voi giungiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permĕent",
+                "traduzioni": [
+                    "che loro attraversino",
+                    "che essi attraversino",
+                    "che loro pervadano",
+                    "che essi pervadano",
+                    "che loro giungano",
+                    "che essi giungano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "permĕārem",
+                "traduzioni": [
+                    "che io attraversassi",
+                    "che io pervadessi",
+                    "che io giungessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permĕāres",
+                "traduzioni": [
+                    "che tu attraversassi",
+                    "che tu pervadessi",
+                    "che tu giungessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permĕāret",
+                "traduzioni": [
+                    "che lui attraversasse",
+                    "che lei attraversasse",
+                    "che egli attraversasse",
+                    "che lui pervadesse",
+                    "che lei pervadesse",
+                    "che egli pervadesse",
+                    "che lui giungesse",
+                    "che lei giungesse",
+                    "che egli giungesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permĕarēmus",
+                "traduzioni": [
+                    "che noi attraversassimo",
+                    "che noi pervadessimo",
+                    "che noi giungessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permĕarētis",
+                "traduzioni": [
+                    "che voi attraversaste",
+                    "che voi pervadeste",
+                    "che voi giungeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permĕārent",
+                "traduzioni": [
+                    "che loro attraversassero",
+                    "che essi attraversassero",
+                    "che loro pervadessero",
+                    "che essi pervadessero",
+                    "che loro giungessero",
+                    "che essi giungessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "permeavĕrim",
+                "traduzioni": [
+                    "che io abbia attraversato",
+                    "che io abbia pervaso",
+                    "che io sia giunto",
+                    "che io sia giunta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permeavĕris",
+                "traduzioni": [
+                    "che tu abbia attraversato",
+                    "che tu abbia pervaso",
+                    "che tu sia giunto",
+                    "che tu sia giunta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permeavĕrit",
+                "traduzioni": [
+                    "che lui abbia attraversato",
+                    "che lei abbia attraversato",
+                    "che egli abbia attraversato",
+                    "che lui abbia pervaso",
+                    "che lei abbia pervaso",
+                    "che egli abbia pervaso",
+                    "che lui sia giunto",
+                    "che lei sia giunta",
+                    "che egli sia giunto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permeaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo attraversato",
+                    "che noi abbiamo pervaso",
+                    "che noi siamo giunti",
+                    "che noi siamo giunte"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permeaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate attraversato",
+                    "che voi abbiate pervaso",
+                    "che voi siate giunti",
+                    "che voi siate giunte"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permeavĕrint",
+                "traduzioni": [
+                    "che loro abbiano attraversato",
+                    "che essi abbiano attraversato",
+                    "che loro abbiano pervaso",
+                    "che essi abbiano pervaso",
+                    "che loro siano giunti",
+                    "che loro siano giunte",
+                    "che essi siano giunti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "permeavissem",
+                "traduzioni": [
+                    "che io avessi attraversato",
+                    "che io avessi pervaso",
+                    "che io fossi giunto",
+                    "che io fossi giunta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permeavisses",
+                "traduzioni": [
+                    "che tu avessi attraversato",
+                    "che tu avessi pervaso",
+                    "che tu fossi giunto",
+                    "che tu fossi giunta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permeavisset",
+                "traduzioni": [
+                    "che lui avesse attraversato",
+                    "che lei avesse attraversato",
+                    "che egli avesse attraversato",
+                    "che lui avesse pervaso",
+                    "che lei avesse pervaso",
+                    "che egli avesse pervaso",
+                    "che lui fosse giunto",
+                    "che lei fosse giunta",
+                    "che egli fosse giunto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permeavissēmus",
+                "traduzioni": [
+                    "che noi avessimo attraversato",
+                    "che noi avessimo pervaso",
+                    "che noi fossimo giunti",
+                    "che noi fossimo giunte"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permeavissētis",
+                "traduzioni": [
+                    "che voi aveste attraversato",
+                    "che voi aveste pervaso",
+                    "che voi foste giunti",
+                    "che voi foste giunte"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permeavissent",
+                "traduzioni": [
+                    "che loro avessero attraversato",
+                    "che essi avessero attraversato",
+                    "che loro avessero pervaso",
+                    "che essi avessero pervaso",
+                    "che loro fossero giunti",
+                    "che loro fossero giunte",
+                    "che essi fossero giunti"
+                ]
+            }
+        ]
+    }
+}

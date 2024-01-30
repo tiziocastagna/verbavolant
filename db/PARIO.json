@@ -1,0 +1,1304 @@
+{
+    "identifier": "PARIO",
+    "conuigazione": "3",
+    "translation": [
+        "partorire",
+        "generare",
+        "inventare",
+        "creare",
+        "procurare",
+        "ottenere",
+        "acquistare",
+        "(in senso negativo) cagionare",
+        "suscitare"
+    ],
+    "valid_translations": [
+        "partorire",
+        "generare",
+        "inventare",
+        "creare",
+        "procurare",
+        "ottenere",
+        "acquistare",
+        "suscitare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "părĭo",
+                "traduzioni": [
+                    "io partorisco",
+                    "io genero",
+                    "io invento",
+                    "io creo",
+                    "io procuro",
+                    "io ottengo",
+                    "io acquisto",
+                    "io suscito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "păris",
+                "traduzioni": [
+                    "tu partorisci",
+                    "tu generi",
+                    "tu inventi",
+                    "tu crei",
+                    "tu procuri",
+                    "tu ottieni",
+                    "tu acquisti",
+                    "tu susciti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "părit",
+                "traduzioni": [
+                    "lui partorisce",
+                    "lei partorisce",
+                    "egli partorisce",
+                    "lui genera",
+                    "lei genera",
+                    "egli genera",
+                    "lui inventa",
+                    "lei inventa",
+                    "egli inventa",
+                    "lui crea",
+                    "lei crea",
+                    "egli crea",
+                    "lui procura",
+                    "lei procura",
+                    "egli procura",
+                    "lui ottiene",
+                    "lei ottiene",
+                    "egli ottiene",
+                    "lui acquista",
+                    "lei acquista",
+                    "egli acquista",
+                    "lui suscita",
+                    "lei suscita",
+                    "egli suscita"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "părīmus",
+                "traduzioni": [
+                    "noi partoriamo",
+                    "noi generiamo",
+                    "noi inventiamo",
+                    "noi creiamo",
+                    "noi procuriamo",
+                    "noi otteniamo",
+                    "noi acquistiamo",
+                    "noi suscitiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "părītis",
+                "traduzioni": [
+                    "voi partorite",
+                    "voi generate",
+                    "voi inventate",
+                    "voi create",
+                    "voi procurate",
+                    "voi ottenete",
+                    "voi acquistate",
+                    "voi suscitate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "păriunt",
+                "traduzioni": [
+                    "loro partoriscono",
+                    "essi partoriscono",
+                    "loro generano",
+                    "essi generano",
+                    "loro inventano",
+                    "essi inventano",
+                    "loro creano",
+                    "essi creano",
+                    "loro procurano",
+                    "essi procurano",
+                    "loro ottengono",
+                    "essi ottengono",
+                    "loro acquistano",
+                    "essi acquistano",
+                    "loro suscitano",
+                    "essi suscitano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "păriēbam",
+                "traduzioni": [
+                    "io partorivo",
+                    "io generavo",
+                    "io inventavo",
+                    "io creavo",
+                    "io procuravo",
+                    "io ottenevo",
+                    "io acquistavo",
+                    "io suscitavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "păriēbas",
+                "traduzioni": [
+                    "tu partorivi",
+                    "tu generavi",
+                    "tu inventavi",
+                    "tu creavi",
+                    "tu procuravi",
+                    "tu ottenevi",
+                    "tu acquistavi",
+                    "tu suscitavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "păriēbat",
+                "traduzioni": [
+                    "lui partoriva",
+                    "lei partoriva",
+                    "egli partoriva",
+                    "lui generava",
+                    "lei generava",
+                    "egli generava",
+                    "lui inventava",
+                    "lei inventava",
+                    "egli inventava",
+                    "lui creava",
+                    "lei creava",
+                    "egli creava",
+                    "lui procurava",
+                    "lei procurava",
+                    "egli procurava",
+                    "lui otteneva",
+                    "lei otteneva",
+                    "egli otteneva",
+                    "lui acquistava",
+                    "lei acquistava",
+                    "egli acquistava",
+                    "lui suscitava",
+                    "lei suscitava",
+                    "egli suscitava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "păriebāmus",
+                "traduzioni": [
+                    "noi partorivamo",
+                    "noi generavamo",
+                    "noi inventavamo",
+                    "noi creavamo",
+                    "noi procuravamo",
+                    "noi ottenevamo",
+                    "noi acquistavamo",
+                    "noi suscitavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "păriebātis",
+                "traduzioni": [
+                    "voi partorivate",
+                    "voi generavate",
+                    "voi inventavate",
+                    "voi creavate",
+                    "voi procuravate",
+                    "voi ottenevate",
+                    "voi acquistavate",
+                    "voi suscitavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "păriēbant",
+                "traduzioni": [
+                    "loro partorivano",
+                    "essi partorivano",
+                    "loro generavano",
+                    "essi generavano",
+                    "loro inventavano",
+                    "essi inventavano",
+                    "loro creavano",
+                    "essi creavano",
+                    "loro procuravano",
+                    "essi procuravano",
+                    "loro ottenevano",
+                    "essi ottenevano",
+                    "loro acquistavano",
+                    "essi acquistavano",
+                    "loro suscitavano",
+                    "essi suscitavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "părĭam",
+                "traduzioni": [
+                    "io partorirò",
+                    "io genererò",
+                    "io inventerò",
+                    "io creerò",
+                    "io procurerò",
+                    "io otterrò",
+                    "io acquisterò",
+                    "io susciterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "părĭes, păribis",
+                "traduzioni": [
+                    "tu partorirai",
+                    "tu genererai",
+                    "tu inventerai",
+                    "tu creerai",
+                    "tu procurerai",
+                    "tu otterrai",
+                    "tu acquisterai",
+                    "tu susciterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "părĭet",
+                "traduzioni": [
+                    "lui partorirà",
+                    "lei partorirà",
+                    "egli partorirà",
+                    "lui genererà",
+                    "lei genererà",
+                    "egli genererà",
+                    "lui inventerà",
+                    "lei inventerà",
+                    "egli inventerà",
+                    "lui creerà",
+                    "lei creerà",
+                    "egli creerà",
+                    "lui procurerà",
+                    "lei procurerà",
+                    "egli procurerà",
+                    "lui otterrà",
+                    "lei otterrà",
+                    "egli otterrà",
+                    "lui acquisterà",
+                    "lei acquisterà",
+                    "egli acquisterà",
+                    "lui susciterà",
+                    "lei susciterà",
+                    "egli susciterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "păriēmus",
+                "traduzioni": [
+                    "noi partoriremo",
+                    "noi genereremo",
+                    "noi inventeremo",
+                    "noi creeremo",
+                    "noi procureremo",
+                    "noi otterremo",
+                    "noi acquisteremo",
+                    "noi susciteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "păriētis",
+                "traduzioni": [
+                    "voi partorirete",
+                    "voi genererete",
+                    "voi inventerete",
+                    "voi creerete",
+                    "voi procurerete",
+                    "voi otterrete",
+                    "voi acquisterete",
+                    "voi susciterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "părĭent",
+                "traduzioni": [
+                    "loro partoriranno",
+                    "essi partoriranno",
+                    "loro genereranno",
+                    "essi genereranno",
+                    "loro inventeranno",
+                    "essi inventeranno",
+                    "loro creeranno",
+                    "essi creeranno",
+                    "loro procureranno",
+                    "essi procureranno",
+                    "loro otterranno",
+                    "essi otterranno",
+                    "loro acquisteranno",
+                    "essi acquisteranno",
+                    "loro susciteranno",
+                    "essi susciteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "peperi",
+                "traduzioni": [
+                    "io partorii",
+                    "io ho partorito",
+                    "io ebbi partorito",
+                    "io generai",
+                    "io ho generato",
+                    "io ebbi generato",
+                    "io inventai",
+                    "io ho inventato",
+                    "io ebbi inventato",
+                    "io creai",
+                    "io ho creato",
+                    "io ebbi creato",
+                    "io procurai",
+                    "io ho procurato",
+                    "io ebbi procurato",
+                    "io ottenni",
+                    "io ottenetti",
+                    "io ho ottenuto",
+                    "io ebbi ottenuto",
+                    "io acquistai",
+                    "io ho acquistato",
+                    "io ebbi acquistato",
+                    "io suscitai",
+                    "io sono suscitato",
+                    "io sono suscitata",
+                    "io fui suscitato",
+                    "io fui suscitata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peperisti",
+                "traduzioni": [
+                    "tu partoristi",
+                    "tu hai partorito",
+                    "tu avesti partorito",
+                    "tu generasti",
+                    "tu hai generato",
+                    "tu avesti generato",
+                    "tu inventasti",
+                    "tu hai inventato",
+                    "tu avesti inventato",
+                    "tu creasti",
+                    "tu hai creato",
+                    "tu avesti creato",
+                    "tu procurasti",
+                    "tu hai procurato",
+                    "tu avesti procurato",
+                    "tu ottenesti",
+                    "tu hai ottenuto",
+                    "tu avesti ottenuto",
+                    "tu acquistasti",
+                    "tu hai acquistato",
+                    "tu avesti acquistato",
+                    "tu suscitasti",
+                    "tu sei suscitato",
+                    "tu sei suscitata",
+                    "tu fosti suscitato",
+                    "tu fosti suscitata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peperit",
+                "traduzioni": [
+                    "lui partorì",
+                    "lei partorì",
+                    "egli partorì",
+                    "lui ha partorito",
+                    "lei ha partorito",
+                    "egli ha partorito",
+                    "lui ebbe partorito",
+                    "lei ebbe partorito",
+                    "egli ebbe partorito",
+                    "lui generò",
+                    "lei generò",
+                    "egli generò",
+                    "lui ha generato",
+                    "lei ha generato",
+                    "egli ha generato",
+                    "lui ebbe generato",
+                    "lei ebbe generato",
+                    "egli ebbe generato",
+                    "lui inventò",
+                    "lei inventò",
+                    "egli inventò",
+                    "lui ha inventato",
+                    "lei ha inventato",
+                    "egli ha inventato",
+                    "lui ebbe inventato",
+                    "lei ebbe inventato",
+                    "egli ebbe inventato",
+                    "lui creò",
+                    "lei creò",
+                    "egli creò",
+                    "lui ha creato",
+                    "lei ha creato",
+                    "egli ha creato",
+                    "lui ebbe creato",
+                    "lei ebbe creato",
+                    "egli ebbe creato",
+                    "lui procurò",
+                    "lei procurò",
+                    "egli procurò",
+                    "lui ha procurato",
+                    "lei ha procurato",
+                    "egli ha procurato",
+                    "lui ebbe procurato",
+                    "lei ebbe procurato",
+                    "egli ebbe procurato",
+                    "lui ottenne",
+                    "lei ottenne",
+                    "egli ottenne",
+                    "lui ha ottenuto",
+                    "lei ha ottenuto",
+                    "egli ha ottenuto",
+                    "lui ebbe ottenuto",
+                    "lei ebbe ottenuto",
+                    "egli ebbe ottenuto",
+                    "lui acquistò",
+                    "lei acquistò",
+                    "egli acquistò",
+                    "lui ha acquistato",
+                    "lei ha acquistato",
+                    "egli ha acquistato",
+                    "lui ebbe acquistato",
+                    "lei ebbe acquistato",
+                    "egli ebbe acquistato",
+                    "lui suscitò",
+                    "lei suscitò",
+                    "egli suscitò",
+                    "lui è suscitato",
+                    "lei è suscitata",
+                    "egli è suscitato",
+                    "lui fu suscitato",
+                    "lei fu suscitata",
+                    "egli fu suscitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peperĭmus",
+                "traduzioni": [
+                    "noi partorimmo",
+                    "noi abbiamo partorito",
+                    "noi avemmo partorito",
+                    "noi generammo",
+                    "noi abbiamo generato",
+                    "noi avemmo generato",
+                    "noi inventammo",
+                    "noi abbiamo inventato",
+                    "noi avemmo inventato",
+                    "noi creammo",
+                    "noi abbiamo creato",
+                    "noi avemmo creato",
+                    "noi procurammo",
+                    "noi abbiamo procurato",
+                    "noi avemmo procurato",
+                    "noi ottenemmo",
+                    "noi abbiamo ottenuto",
+                    "noi avemmo ottenuto",
+                    "noi acquistammo",
+                    "noi abbiamo acquistato",
+                    "noi avemmo acquistato",
+                    "noi suscitammo",
+                    "noi siamo suscitati",
+                    "noi siamo suscitate",
+                    "noi fummo suscitati",
+                    "noi fummo suscitate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peperistis",
+                "traduzioni": [
+                    "voi partoriste",
+                    "voi avete partorito",
+                    "voi aveste partorito",
+                    "voi generaste",
+                    "voi avete generato",
+                    "voi aveste generato",
+                    "voi inventaste",
+                    "voi avete inventato",
+                    "voi aveste inventato",
+                    "voi creaste",
+                    "voi avete creato",
+                    "voi aveste creato",
+                    "voi procuraste",
+                    "voi avete procurato",
+                    "voi aveste procurato",
+                    "voi otteneste",
+                    "voi avete ottenuto",
+                    "voi aveste ottenuto",
+                    "voi acquistaste",
+                    "voi avete acquistato",
+                    "voi aveste acquistato",
+                    "voi suscitaste",
+                    "voi siete suscitati",
+                    "voi siete suscitate",
+                    "voi foste suscitati",
+                    "voi foste suscitate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peperērunt, peperēre",
+                "traduzioni": [
+                    "loro partorirono",
+                    "essi partorirono",
+                    "loro hanno partorito",
+                    "essi hanno partorito",
+                    "loro ebbero partorito",
+                    "essi ebbero partorito",
+                    "loro generarono",
+                    "essi generarono",
+                    "loro hanno generato",
+                    "essi hanno generato",
+                    "loro ebbero generato",
+                    "essi ebbero generato",
+                    "loro inventarono",
+                    "essi inventarono",
+                    "loro hanno inventato",
+                    "essi hanno inventato",
+                    "loro ebbero inventato",
+                    "essi ebbero inventato",
+                    "loro crearono",
+                    "essi crearono",
+                    "loro hanno creato",
+                    "essi hanno creato",
+                    "loro ebbero creato",
+                    "essi ebbero creato",
+                    "loro procurarono",
+                    "essi procurarono",
+                    "loro hanno procurato",
+                    "essi hanno procurato",
+                    "loro ebbero procurato",
+                    "essi ebbero procurato",
+                    "loro ottennero",
+                    "essi ottennero",
+                    "loro hanno ottenuto",
+                    "essi hanno ottenuto",
+                    "loro ebbero ottenuto",
+                    "essi ebbero ottenuto",
+                    "loro acquistarono",
+                    "essi acquistarono",
+                    "loro hanno acquistato",
+                    "essi hanno acquistato",
+                    "loro ebbero acquistato",
+                    "essi ebbero acquistato",
+                    "loro suscitarono",
+                    "essi suscitarono",
+                    "loro sono suscitati",
+                    "loro sono suscitate",
+                    "essi sono suscitati",
+                    "loro furono suscitati",
+                    "loro furono suscitate",
+                    "essi furono suscitati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "peperĕram",
+                "traduzioni": [
+                    "io avevo partorito",
+                    "io avevo generato",
+                    "io avevo inventato",
+                    "io avevo creato",
+                    "io avevo procurato",
+                    "io avevo ottenuto",
+                    "io avevo acquistato",
+                    "io ero suscitato",
+                    "io ero suscitata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peperĕras",
+                "traduzioni": [
+                    "tu avevi partorito",
+                    "tu avevi generato",
+                    "tu avevi inventato",
+                    "tu avevi creato",
+                    "tu avevi procurato",
+                    "tu avevi ottenuto",
+                    "tu avevi acquistato",
+                    "tu eri suscitato",
+                    "tu eri suscitata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peperĕrat",
+                "traduzioni": [
+                    "lui aveva partorito",
+                    "lei aveva partorito",
+                    "egli aveva partorito",
+                    "lui aveva generato",
+                    "lei aveva generato",
+                    "egli aveva generato",
+                    "lui aveva inventato",
+                    "lei aveva inventato",
+                    "egli aveva inventato",
+                    "lui aveva creato",
+                    "lei aveva creato",
+                    "egli aveva creato",
+                    "lui aveva procurato",
+                    "lei aveva procurato",
+                    "egli aveva procurato",
+                    "lui aveva ottenuto",
+                    "lei aveva ottenuto",
+                    "egli aveva ottenuto",
+                    "lui aveva acquistato",
+                    "lei aveva acquistato",
+                    "egli aveva acquistato",
+                    "lui era suscitato",
+                    "lei era suscitata",
+                    "egli era suscitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pepererāmus",
+                "traduzioni": [
+                    "noi avevamo partorito",
+                    "noi avevamo generato",
+                    "noi avevamo inventato",
+                    "noi avevamo creato",
+                    "noi avevamo procurato",
+                    "noi avevamo ottenuto",
+                    "noi avevamo acquistato",
+                    "noi eravamo suscitati",
+                    "noi eravamo suscitate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pepererātis",
+                "traduzioni": [
+                    "voi avevate partorito",
+                    "voi avevate generato",
+                    "voi avevate inventato",
+                    "voi avevate creato",
+                    "voi avevate procurato",
+                    "voi avevate ottenuto",
+                    "voi avevate acquistato",
+                    "voi eravate suscitati",
+                    "voi eravate suscitate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peperĕrant",
+                "traduzioni": [
+                    "loro avevano partorito",
+                    "essi avevano partorito",
+                    "loro avevano generato",
+                    "essi avevano generato",
+                    "loro avevano inventato",
+                    "essi avevano inventato",
+                    "loro avevano creato",
+                    "essi avevano creato",
+                    "loro avevano procurato",
+                    "essi avevano procurato",
+                    "loro avevano ottenuto",
+                    "essi avevano ottenuto",
+                    "loro avevano acquistato",
+                    "essi avevano acquistato",
+                    "loro erano suscitati",
+                    "loro erano suscitate",
+                    "essi erano suscitati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "peperĕro",
+                "traduzioni": [
+                    "io avrò partorito",
+                    "io avrò generato",
+                    "io avrò inventato",
+                    "io avrò creato",
+                    "io avrò procurato",
+                    "io avrò ottenuto",
+                    "io avrò acquistato",
+                    "io sarò suscitato",
+                    "io sarò suscitata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peperĕris",
+                "traduzioni": [
+                    "tu avrai partorito",
+                    "tu avrai generato",
+                    "tu avrai inventato",
+                    "tu avrai creato",
+                    "tu avrai procurato",
+                    "tu avrai ottenuto",
+                    "tu avrai acquistato",
+                    "tu sarai suscitato",
+                    "tu sarai suscitata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peperĕrit",
+                "traduzioni": [
+                    "lui avrà partorito",
+                    "lei avrà partorito",
+                    "egli avrà partorito",
+                    "lui avrà generato",
+                    "lei avrà generato",
+                    "egli avrà generato",
+                    "lui avrà inventato",
+                    "lei avrà inventato",
+                    "egli avrà inventato",
+                    "lui avrà creato",
+                    "lei avrà creato",
+                    "egli avrà creato",
+                    "lui avrà procurato",
+                    "lei avrà procurato",
+                    "egli avrà procurato",
+                    "lui avrà ottenuto",
+                    "lei avrà ottenuto",
+                    "egli avrà ottenuto",
+                    "lui avrà acquistato",
+                    "lei avrà acquistato",
+                    "egli avrà acquistato",
+                    "lui sarà suscitato",
+                    "lei sarà suscitata",
+                    "egli sarà suscitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pepererĭmus",
+                "traduzioni": [
+                    "noi avremo partorito",
+                    "noi avremo generato",
+                    "noi avremo inventato",
+                    "noi avremo creato",
+                    "noi avremo procurato",
+                    "noi avremo ottenuto",
+                    "noi avremo acquistato",
+                    "noi saremo suscitati",
+                    "noi saremo suscitate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pepererĭtis",
+                "traduzioni": [
+                    "voi avrete partorito",
+                    "voi avrete generato",
+                    "voi avrete inventato",
+                    "voi avrete creato",
+                    "voi avrete procurato",
+                    "voi avrete ottenuto",
+                    "voi avrete acquistato",
+                    "voi sarete suscitati",
+                    "voi sarete suscitate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peperĕrint",
+                "traduzioni": [
+                    "loro avranno partorito",
+                    "essi avranno partorito",
+                    "loro avranno generato",
+                    "essi avranno generato",
+                    "loro avranno inventato",
+                    "essi avranno inventato",
+                    "loro avranno creato",
+                    "essi avranno creato",
+                    "loro avranno procurato",
+                    "essi avranno procurato",
+                    "loro avranno ottenuto",
+                    "essi avranno ottenuto",
+                    "loro avranno acquistato",
+                    "essi avranno acquistato",
+                    "loro saranno suscitati",
+                    "loro saranno suscitate",
+                    "essi saranno suscitati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "părĭam",
+                "traduzioni": [
+                    "che io partorisca",
+                    "che io generi",
+                    "che io inventi",
+                    "che io crei",
+                    "che io procuri",
+                    "che io ottenga",
+                    "che io acquisti",
+                    "che io susciti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "părĭas",
+                "traduzioni": [
+                    "che tu partorisca",
+                    "che tu generi",
+                    "che tu inventi",
+                    "che tu crei",
+                    "che tu procuri",
+                    "che tu ottenga",
+                    "che tu acquisti",
+                    "che tu susciti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "părĭat",
+                "traduzioni": [
+                    "che lui partorisca",
+                    "che lei partorisca",
+                    "che egli partorisca",
+                    "che lui generi",
+                    "che lei generi",
+                    "che egli generi",
+                    "che lui inventi",
+                    "che lei inventi",
+                    "che egli inventi",
+                    "che lui crei",
+                    "che lei crei",
+                    "che egli crei",
+                    "che lui procuri",
+                    "che lei procuri",
+                    "che egli procuri",
+                    "che lui ottenga",
+                    "che lei ottenga",
+                    "che egli ottenga",
+                    "che lui acquisti",
+                    "che lei acquisti",
+                    "che egli acquisti",
+                    "che lui susciti",
+                    "che lei susciti",
+                    "che egli susciti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "păriāmus",
+                "traduzioni": [
+                    "che noi partoriamo",
+                    "che noi generiamo",
+                    "che noi inventiamo",
+                    "che noi creiamo",
+                    "che noi procuriamo",
+                    "che noi otteniamo",
+                    "che noi acquistiamo",
+                    "che noi suscitiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "păriātis",
+                "traduzioni": [
+                    "che voi partoriate",
+                    "che voi generiate",
+                    "che voi inventiate",
+                    "che voi creiate",
+                    "che voi procuriate",
+                    "che voi otteniate",
+                    "che voi acquistiate",
+                    "che voi suscitiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "părĭant",
+                "traduzioni": [
+                    "che loro partoriscano",
+                    "che essi partoriscano",
+                    "che loro generino",
+                    "che essi generino",
+                    "che loro inventino",
+                    "che essi inventino",
+                    "che loro creino",
+                    "che essi creino",
+                    "che loro procurino",
+                    "che essi procurino",
+                    "che loro ottengano",
+                    "che essi ottengano",
+                    "che loro acquistino",
+                    "che essi acquistino",
+                    "che loro suscitino",
+                    "che essi suscitino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "părĕrem",
+                "traduzioni": [
+                    "che io partorissi",
+                    "che io generassi",
+                    "che io inventassi",
+                    "che io creassi",
+                    "che io procurassi",
+                    "che io ottenessi",
+                    "che io acquistassi",
+                    "che io suscitassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "părĕres",
+                "traduzioni": [
+                    "che tu partorissi",
+                    "che tu generassi",
+                    "che tu inventassi",
+                    "che tu creassi",
+                    "che tu procurassi",
+                    "che tu ottenessi",
+                    "che tu acquistassi",
+                    "che tu suscitassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "părĕret",
+                "traduzioni": [
+                    "che lui partorisse",
+                    "che lei partorisse",
+                    "che egli partorisse",
+                    "che lui generasse",
+                    "che lei generasse",
+                    "che egli generasse",
+                    "che lui inventasse",
+                    "che lei inventasse",
+                    "che egli inventasse",
+                    "che lui creasse",
+                    "che lei creasse",
+                    "che egli creasse",
+                    "che lui procurasse",
+                    "che lei procurasse",
+                    "che egli procurasse",
+                    "che lui ottenesse",
+                    "che lei ottenesse",
+                    "che egli ottenesse",
+                    "che lui acquistasse",
+                    "che lei acquistasse",
+                    "che egli acquistasse",
+                    "che lui suscitasse",
+                    "che lei suscitasse",
+                    "che egli suscitasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "părerēmus",
+                "traduzioni": [
+                    "che noi partorissimo",
+                    "che noi generassimo",
+                    "che noi inventassimo",
+                    "che noi creassimo",
+                    "che noi procurassimo",
+                    "che noi ottenessimo",
+                    "che noi acquistassimo",
+                    "che noi suscitassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "părerētis",
+                "traduzioni": [
+                    "che voi partoriste",
+                    "che voi generaste",
+                    "che voi inventaste",
+                    "che voi creaste",
+                    "che voi procuraste",
+                    "che voi otteneste",
+                    "che voi acquistaste",
+                    "che voi suscitaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "părĕrent",
+                "traduzioni": [
+                    "che loro partorissero",
+                    "che essi partorissero",
+                    "che loro generassero",
+                    "che essi generassero",
+                    "che loro inventassero",
+                    "che essi inventassero",
+                    "che loro creassero",
+                    "che essi creassero",
+                    "che loro procurassero",
+                    "che essi procurassero",
+                    "che loro ottenessero",
+                    "che essi ottenessero",
+                    "che loro acquistassero",
+                    "che essi acquistassero",
+                    "che loro suscitassero",
+                    "che essi suscitassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "peperĕrim",
+                "traduzioni": [
+                    "che io abbia partorito",
+                    "che io abbia generato",
+                    "che io abbia inventato",
+                    "che io abbia creato",
+                    "che io abbia procurato",
+                    "che io abbia ottenuto",
+                    "che io abbia acquistato",
+                    "che io sia suscitato",
+                    "che io sia suscitata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peperĕris",
+                "traduzioni": [
+                    "che tu abbia partorito",
+                    "che tu abbia generato",
+                    "che tu abbia inventato",
+                    "che tu abbia creato",
+                    "che tu abbia procurato",
+                    "che tu abbia ottenuto",
+                    "che tu abbia acquistato",
+                    "che tu sia suscitato",
+                    "che tu sia suscitata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peperĕrit",
+                "traduzioni": [
+                    "che lui abbia partorito",
+                    "che lei abbia partorito",
+                    "che egli abbia partorito",
+                    "che lui abbia generato",
+                    "che lei abbia generato",
+                    "che egli abbia generato",
+                    "che lui abbia inventato",
+                    "che lei abbia inventato",
+                    "che egli abbia inventato",
+                    "che lui abbia creato",
+                    "che lei abbia creato",
+                    "che egli abbia creato",
+                    "che lui abbia procurato",
+                    "che lei abbia procurato",
+                    "che egli abbia procurato",
+                    "che lui abbia ottenuto",
+                    "che lei abbia ottenuto",
+                    "che egli abbia ottenuto",
+                    "che lui abbia acquistato",
+                    "che lei abbia acquistato",
+                    "che egli abbia acquistato",
+                    "che lui sia suscitato",
+                    "che lei sia suscitata",
+                    "che egli sia suscitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pepererĭmus",
+                "traduzioni": [
+                    "che noi abbiamo partorito",
+                    "che noi abbiamo generato",
+                    "che noi abbiamo inventato",
+                    "che noi abbiamo creato",
+                    "che noi abbiamo procurato",
+                    "che noi abbiamo ottenuto",
+                    "che noi abbiamo acquistato",
+                    "che noi siamo suscitati",
+                    "che noi siamo suscitate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pepererĭtis",
+                "traduzioni": [
+                    "che voi abbiate partorito",
+                    "che voi abbiate generato",
+                    "che voi abbiate inventato",
+                    "che voi abbiate creato",
+                    "che voi abbiate procurato",
+                    "che voi abbiate ottenuto",
+                    "che voi abbiate acquistato",
+                    "che voi siate suscitati",
+                    "che voi siate suscitate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peperĕrint",
+                "traduzioni": [
+                    "che loro abbiano partorito",
+                    "che essi abbiano partorito",
+                    "che loro abbiano generato",
+                    "che essi abbiano generato",
+                    "che loro abbiano inventato",
+                    "che essi abbiano inventato",
+                    "che loro abbiano creato",
+                    "che essi abbiano creato",
+                    "che loro abbiano procurato",
+                    "che essi abbiano procurato",
+                    "che loro abbiano ottenuto",
+                    "che essi abbiano ottenuto",
+                    "che loro abbiano acquistato",
+                    "che essi abbiano acquistato",
+                    "che loro siano suscitati",
+                    "che loro siano suscitate",
+                    "che essi siano suscitati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "peperissem",
+                "traduzioni": [
+                    "che io avessi partorito",
+                    "che io avessi generato",
+                    "che io avessi inventato",
+                    "che io avessi creato",
+                    "che io avessi procurato",
+                    "che io avessi ottenuto",
+                    "che io avessi acquistato",
+                    "che io fossi suscitato",
+                    "che io fossi suscitata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peperisses",
+                "traduzioni": [
+                    "che tu avessi partorito",
+                    "che tu avessi generato",
+                    "che tu avessi inventato",
+                    "che tu avessi creato",
+                    "che tu avessi procurato",
+                    "che tu avessi ottenuto",
+                    "che tu avessi acquistato",
+                    "che tu fossi suscitato",
+                    "che tu fossi suscitata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peperisset",
+                "traduzioni": [
+                    "che lui avesse partorito",
+                    "che lei avesse partorito",
+                    "che egli avesse partorito",
+                    "che lui avesse generato",
+                    "che lei avesse generato",
+                    "che egli avesse generato",
+                    "che lui avesse inventato",
+                    "che lei avesse inventato",
+                    "che egli avesse inventato",
+                    "che lui avesse creato",
+                    "che lei avesse creato",
+                    "che egli avesse creato",
+                    "che lui avesse procurato",
+                    "che lei avesse procurato",
+                    "che egli avesse procurato",
+                    "che lui avesse ottenuto",
+                    "che lei avesse ottenuto",
+                    "che egli avesse ottenuto",
+                    "che lui avesse acquistato",
+                    "che lei avesse acquistato",
+                    "che egli avesse acquistato",
+                    "che lui fosse suscitato",
+                    "che lei fosse suscitata",
+                    "che egli fosse suscitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peperissēmus",
+                "traduzioni": [
+                    "che noi avessimo partorito",
+                    "che noi avessimo generato",
+                    "che noi avessimo inventato",
+                    "che noi avessimo creato",
+                    "che noi avessimo procurato",
+                    "che noi avessimo ottenuto",
+                    "che noi avessimo acquistato",
+                    "che noi fossimo suscitati",
+                    "che noi fossimo suscitate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peperissētis",
+                "traduzioni": [
+                    "che voi aveste partorito",
+                    "che voi aveste generato",
+                    "che voi aveste inventato",
+                    "che voi aveste creato",
+                    "che voi aveste procurato",
+                    "che voi aveste ottenuto",
+                    "che voi aveste acquistato",
+                    "che voi foste suscitati",
+                    "che voi foste suscitate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peperissent",
+                "traduzioni": [
+                    "che loro avessero partorito",
+                    "che essi avessero partorito",
+                    "che loro avessero generato",
+                    "che essi avessero generato",
+                    "che loro avessero inventato",
+                    "che essi avessero inventato",
+                    "che loro avessero creato",
+                    "che essi avessero creato",
+                    "che loro avessero procurato",
+                    "che essi avessero procurato",
+                    "che loro avessero ottenuto",
+                    "che essi avessero ottenuto",
+                    "che loro avessero acquistato",
+                    "che essi avessero acquistato",
+                    "che loro fossero suscitati",
+                    "che loro fossero suscitate",
+                    "che essi fossero suscitati"
+                ]
+            }
+        ]
+    }
+}

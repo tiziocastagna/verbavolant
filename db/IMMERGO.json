@@ -1,0 +1,783 @@
+{
+    "identifier": "IMMERGO",
+    "conuigazione": "3",
+    "translation": [
+        "sprofondare",
+        "immergere",
+        "tuffare"
+    ],
+    "valid_translations": [
+        "sprofondare",
+        "immergere",
+        "tuffare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "immergo",
+                "traduzioni": [
+                    "io sprofondo",
+                    "io immergo",
+                    "io tuffo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immergis",
+                "traduzioni": [
+                    "tu sprofondi",
+                    "tu immergi",
+                    "tu tuffi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immergit",
+                "traduzioni": [
+                    "lui sprofonda",
+                    "lei sprofonda",
+                    "egli sprofonda",
+                    "lui immerge",
+                    "lei immerge",
+                    "egli immerge",
+                    "lui tuffa",
+                    "lei tuffa",
+                    "egli tuffa"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immergĭmus",
+                "traduzioni": [
+                    "noi sprofondiamo",
+                    "noi immergiamo",
+                    "noi tuffiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immergĭtis",
+                "traduzioni": [
+                    "voi sprofondate",
+                    "voi immergete",
+                    "voi tuffate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immergunt",
+                "traduzioni": [
+                    "loro sprofondano",
+                    "essi sprofondano",
+                    "loro immergono",
+                    "essi immergono",
+                    "loro tuffano",
+                    "essi tuffano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "immergēbam",
+                "traduzioni": [
+                    "io sprofondavo",
+                    "io immergevo",
+                    "io tuffavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immergēbas",
+                "traduzioni": [
+                    "tu sprofondavi",
+                    "tu immergevi",
+                    "tu tuffavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immergēbat",
+                "traduzioni": [
+                    "lui sprofondava",
+                    "lei sprofondava",
+                    "egli sprofondava",
+                    "lui immergeva",
+                    "lei immergeva",
+                    "egli immergeva",
+                    "lui tuffava",
+                    "lei tuffava",
+                    "egli tuffava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immergebāmus",
+                "traduzioni": [
+                    "noi sprofondavamo",
+                    "noi immergevamo",
+                    "noi tuffavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immergebātis",
+                "traduzioni": [
+                    "voi sprofondavate",
+                    "voi immergevate",
+                    "voi tuffavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immergēbant",
+                "traduzioni": [
+                    "loro sprofondavano",
+                    "essi sprofondavano",
+                    "loro immergevano",
+                    "essi immergevano",
+                    "loro tuffavano",
+                    "essi tuffavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "immergam",
+                "traduzioni": [
+                    "io sprofonderò",
+                    "io immergerò",
+                    "io tufferò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immerges",
+                "traduzioni": [
+                    "tu sprofonderai",
+                    "tu immergerai",
+                    "tu tufferai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immerget",
+                "traduzioni": [
+                    "lui sprofonderà",
+                    "lei sprofonderà",
+                    "egli sprofonderà",
+                    "lui immergerà",
+                    "lei immergerà",
+                    "egli immergerà",
+                    "lui tufferà",
+                    "lei tufferà",
+                    "egli tufferà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immergēmus",
+                "traduzioni": [
+                    "noi sprofonderemo",
+                    "noi immergeremo",
+                    "noi tufferemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immergētis",
+                "traduzioni": [
+                    "voi sprofonderete",
+                    "voi immergerete",
+                    "voi tufferete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immergent",
+                "traduzioni": [
+                    "loro sprofonderanno",
+                    "essi sprofonderanno",
+                    "loro immergeranno",
+                    "essi immergeranno",
+                    "loro tufferanno",
+                    "essi tufferanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "immersi",
+                "traduzioni": [
+                    "io sprofondai",
+                    "io sono sprofondato",
+                    "io sono sprofondata",
+                    "io fui sprofondato",
+                    "io fui sprofondata",
+                    "io immersi",
+                    "io immerse",
+                    "io sono immerso",
+                    "io sono immersa",
+                    "io fui immerso",
+                    "io fui immersa",
+                    "io tuffai",
+                    "io ho tuffato",
+                    "io ebbi tuffato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immersisti",
+                "traduzioni": [
+                    "tu sprofondasti",
+                    "tu sei sprofondato",
+                    "tu sei sprofondata",
+                    "tu fosti sprofondato",
+                    "tu fosti sprofondata",
+                    "tu immergesti",
+                    "tu sei immerso",
+                    "tu sei immersa",
+                    "tu fosti immerso",
+                    "tu fosti immersa",
+                    "tu tuffasti",
+                    "tu hai tuffato",
+                    "tu avesti tuffato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immersit",
+                "traduzioni": [
+                    "lui sprofondò",
+                    "lei sprofondò",
+                    "egli sprofondò",
+                    "lui è sprofondato",
+                    "lei è sprofondata",
+                    "egli è sprofondato",
+                    "lui fu sprofondato",
+                    "lei fu sprofondata",
+                    "egli fu sprofondato",
+                    "lui immerse",
+                    "lei immerse",
+                    "egli immerse",
+                    "lui è immerso",
+                    "lei è immersa",
+                    "egli è immerso",
+                    "lui fu immerso",
+                    "lei fu immersa",
+                    "egli fu immerso",
+                    "lui tuffò",
+                    "lei tuffò",
+                    "egli tuffò",
+                    "lui ha tuffato",
+                    "lei ha tuffato",
+                    "egli ha tuffato",
+                    "lui ebbe tuffato",
+                    "lei ebbe tuffato",
+                    "egli ebbe tuffato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immersĭmus",
+                "traduzioni": [
+                    "noi sprofondammo",
+                    "noi siamo sprofondati",
+                    "noi siamo sprofondate",
+                    "noi fummo sprofondati",
+                    "noi fummo sprofondate",
+                    "noi immergemmo",
+                    "noi siamo immersi",
+                    "noi siamo immerse",
+                    "noi fummo immersi",
+                    "noi fummo immerse",
+                    "noi tuffammo",
+                    "noi abbiamo tuffato",
+                    "noi avemmo tuffato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immersistis",
+                "traduzioni": [
+                    "voi sprofondaste",
+                    "voi siete sprofondati",
+                    "voi siete sprofondate",
+                    "voi foste sprofondati",
+                    "voi foste sprofondate",
+                    "voi immergeste",
+                    "voi siete immersi",
+                    "voi siete immerse",
+                    "voi foste immersi",
+                    "voi foste immerse",
+                    "voi tuffaste",
+                    "voi avete tuffato",
+                    "voi aveste tuffato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immersērunt, immersēre",
+                "traduzioni": [
+                    "loro sprofondarono",
+                    "essi sprofondarono",
+                    "loro sono sprofondati",
+                    "loro sono sprofondate",
+                    "essi sono sprofondati",
+                    "loro furono sprofondati",
+                    "loro furono sprofondate",
+                    "essi furono sprofondati",
+                    "loro immersero",
+                    "essi immersero",
+                    "loro sono immersi",
+                    "loro sono immerse",
+                    "essi sono immersi",
+                    "loro furono immersi",
+                    "loro furono immerse",
+                    "essi furono immersi",
+                    "loro tuffarono",
+                    "essi tuffarono",
+                    "loro hanno tuffato",
+                    "essi hanno tuffato",
+                    "loro ebbero tuffato",
+                    "essi ebbero tuffato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "immersĕram",
+                "traduzioni": [
+                    "io ero sprofondato",
+                    "io ero sprofondata",
+                    "io ero immerso",
+                    "io ero immersa",
+                    "io avevo tuffato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immersĕras",
+                "traduzioni": [
+                    "tu eri sprofondato",
+                    "tu eri sprofondata",
+                    "tu eri immerso",
+                    "tu eri immersa",
+                    "tu avevi tuffato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immersĕrat",
+                "traduzioni": [
+                    "lui era sprofondato",
+                    "lei era sprofondata",
+                    "egli era sprofondato",
+                    "lui era immerso",
+                    "lei era immersa",
+                    "egli era immerso",
+                    "lui aveva tuffato",
+                    "lei aveva tuffato",
+                    "egli aveva tuffato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immerserāmus",
+                "traduzioni": [
+                    "noi eravamo sprofondati",
+                    "noi eravamo sprofondate",
+                    "noi eravamo immersi",
+                    "noi eravamo immerse",
+                    "noi avevamo tuffato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immerserātis",
+                "traduzioni": [
+                    "voi eravate sprofondati",
+                    "voi eravate sprofondate",
+                    "voi eravate immersi",
+                    "voi eravate immerse",
+                    "voi avevate tuffato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immersĕrant",
+                "traduzioni": [
+                    "loro erano sprofondati",
+                    "loro erano sprofondate",
+                    "essi erano sprofondati",
+                    "loro erano immersi",
+                    "loro erano immerse",
+                    "essi erano immersi",
+                    "loro avevano tuffato",
+                    "essi avevano tuffato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "immersĕro",
+                "traduzioni": [
+                    "io sarò sprofondato",
+                    "io sarò sprofondata",
+                    "io sarò immerso",
+                    "io sarò immersa",
+                    "io avrò tuffato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immersĕris",
+                "traduzioni": [
+                    "tu sarai sprofondato",
+                    "tu sarai sprofondata",
+                    "tu sarai immerso",
+                    "tu sarai immersa",
+                    "tu avrai tuffato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immersĕrit",
+                "traduzioni": [
+                    "lui sarà sprofondato",
+                    "lei sarà sprofondata",
+                    "egli sarà sprofondato",
+                    "lui sarà immerso",
+                    "lei sarà immersa",
+                    "egli sarà immerso",
+                    "lui avrà tuffato",
+                    "lei avrà tuffato",
+                    "egli avrà tuffato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immerserĭmus",
+                "traduzioni": [
+                    "noi saremo sprofondati",
+                    "noi saremo sprofondate",
+                    "noi saremo immersi",
+                    "noi saremo immerse",
+                    "noi avremo tuffato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immerserĭtis",
+                "traduzioni": [
+                    "voi sarete sprofondati",
+                    "voi sarete sprofondate",
+                    "voi sarete immersi",
+                    "voi sarete immerse",
+                    "voi avrete tuffato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immersĕrint",
+                "traduzioni": [
+                    "loro saranno sprofondati",
+                    "loro saranno sprofondate",
+                    "essi saranno sprofondati",
+                    "loro saranno immersi",
+                    "loro saranno immerse",
+                    "essi saranno immersi",
+                    "loro avranno tuffato",
+                    "essi avranno tuffato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "immergam",
+                "traduzioni": [
+                    "che io sprofondi",
+                    "che io immerga",
+                    "che io tuffi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immergas",
+                "traduzioni": [
+                    "che tu sprofondi",
+                    "che tu immerga",
+                    "che tu tuffi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immergat",
+                "traduzioni": [
+                    "che lui sprofondi",
+                    "che lei sprofondi",
+                    "che egli sprofondi",
+                    "che lui immerga",
+                    "che lei immerga",
+                    "che egli immerga",
+                    "che lui tuffi",
+                    "che lei tuffi",
+                    "che egli tuffi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immergāmus",
+                "traduzioni": [
+                    "che noi sprofondiamo",
+                    "che noi immergiamo",
+                    "che noi tuffiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immergātis",
+                "traduzioni": [
+                    "che voi sprofondiate",
+                    "che voi immergiate",
+                    "che voi tuffiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immergant",
+                "traduzioni": [
+                    "che loro sprofondino",
+                    "che essi sprofondino",
+                    "che loro immergano",
+                    "che essi immergano",
+                    "che loro tuffino",
+                    "che essi tuffino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "immergĕrem",
+                "traduzioni": [
+                    "che io sprofondassi",
+                    "che io immergessi",
+                    "che io tuffassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immergĕres",
+                "traduzioni": [
+                    "che tu sprofondassi",
+                    "che tu immergessi",
+                    "che tu tuffassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immergĕret",
+                "traduzioni": [
+                    "che lui sprofondasse",
+                    "che lei sprofondasse",
+                    "che egli sprofondasse",
+                    "che lui immergesse",
+                    "che lei immergesse",
+                    "che egli immergesse",
+                    "che lui tuffasse",
+                    "che lei tuffasse",
+                    "che egli tuffasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immergerēmus",
+                "traduzioni": [
+                    "che noi sprofondassimo",
+                    "che noi immergessimo",
+                    "che noi tuffassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immergerētis",
+                "traduzioni": [
+                    "che voi sprofondaste",
+                    "che voi immergeste",
+                    "che voi tuffaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immergĕrent",
+                "traduzioni": [
+                    "che loro sprofondassero",
+                    "che essi sprofondassero",
+                    "che loro immergessero",
+                    "che essi immergessero",
+                    "che loro tuffassero",
+                    "che essi tuffassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "immersĕrim",
+                "traduzioni": [
+                    "che io sia sprofondato",
+                    "che io sia sprofondata",
+                    "che io sia immerso",
+                    "che io sia immersa",
+                    "che io abbia tuffato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immersĕris",
+                "traduzioni": [
+                    "che tu sia sprofondato",
+                    "che tu sia sprofondata",
+                    "che tu sia immerso",
+                    "che tu sia immersa",
+                    "che tu abbia tuffato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immersĕrit",
+                "traduzioni": [
+                    "che lui sia sprofondato",
+                    "che lei sia sprofondata",
+                    "che egli sia sprofondato",
+                    "che lui sia immerso",
+                    "che lei sia immersa",
+                    "che egli sia immerso",
+                    "che lui abbia tuffato",
+                    "che lei abbia tuffato",
+                    "che egli abbia tuffato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immerserĭmus",
+                "traduzioni": [
+                    "che noi siamo sprofondati",
+                    "che noi siamo sprofondate",
+                    "che noi siamo immersi",
+                    "che noi siamo immerse",
+                    "che noi abbiamo tuffato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immerserĭtis",
+                "traduzioni": [
+                    "che voi siate sprofondati",
+                    "che voi siate sprofondate",
+                    "che voi siate immersi",
+                    "che voi siate immerse",
+                    "che voi abbiate tuffato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immersĕrint",
+                "traduzioni": [
+                    "che loro siano sprofondati",
+                    "che loro siano sprofondate",
+                    "che essi siano sprofondati",
+                    "che loro siano immersi",
+                    "che loro siano immerse",
+                    "che essi siano immersi",
+                    "che loro abbiano tuffato",
+                    "che essi abbiano tuffato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "immersissem",
+                "traduzioni": [
+                    "che io fossi sprofondato",
+                    "che io fossi sprofondata",
+                    "che io fossi immerso",
+                    "che io fossi immersa",
+                    "che io avessi tuffato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immersisses",
+                "traduzioni": [
+                    "che tu fossi sprofondato",
+                    "che tu fossi sprofondata",
+                    "che tu fossi immerso",
+                    "che tu fossi immersa",
+                    "che tu avessi tuffato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immersisset",
+                "traduzioni": [
+                    "che lui fosse sprofondato",
+                    "che lei fosse sprofondata",
+                    "che egli fosse sprofondato",
+                    "che lui fosse immerso",
+                    "che lei fosse immersa",
+                    "che egli fosse immerso",
+                    "che lui avesse tuffato",
+                    "che lei avesse tuffato",
+                    "che egli avesse tuffato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immersissēmus",
+                "traduzioni": [
+                    "che noi fossimo sprofondati",
+                    "che noi fossimo sprofondate",
+                    "che noi fossimo immersi",
+                    "che noi fossimo immerse",
+                    "che noi avessimo tuffato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immersissētis",
+                "traduzioni": [
+                    "che voi foste sprofondati",
+                    "che voi foste sprofondate",
+                    "che voi foste immersi",
+                    "che voi foste immerse",
+                    "che voi aveste tuffato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immersissent",
+                "traduzioni": [
+                    "che loro fossero sprofondati",
+                    "che loro fossero sprofondate",
+                    "che essi fossero sprofondati",
+                    "che loro fossero immersi",
+                    "che loro fossero immerse",
+                    "che essi fossero immersi",
+                    "che loro avessero tuffato",
+                    "che essi avessero tuffato"
+                ]
+            }
+        ]
+    }
+}

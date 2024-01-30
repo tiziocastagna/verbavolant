@@ -1,0 +1,752 @@
+{
+    "identifier": "EVITO",
+    "conuigazione": "1",
+    "translation": [
+        "evitare",
+        "sfuggire",
+        "schivare"
+    ],
+    "valid_translations": [
+        "evitare",
+        "sfuggire",
+        "schivare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēvīto",
+                "traduzioni": [
+                    "io evito",
+                    "io sfuggo",
+                    "io schivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēvītas",
+                "traduzioni": [
+                    "tu eviti",
+                    "tu sfuggi",
+                    "tu schivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēvītat",
+                "traduzioni": [
+                    "lui evita",
+                    "lei evita",
+                    "egli evita",
+                    "lui sfugge",
+                    "lei sfugge",
+                    "egli sfugge",
+                    "lui schiva",
+                    "lei schiva",
+                    "egli schiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēvītāmus",
+                "traduzioni": [
+                    "noi evitiamo",
+                    "noi sfuggiamo",
+                    "noi schiviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēvītātis",
+                "traduzioni": [
+                    "voi evitate",
+                    "voi sfuggite",
+                    "voi schivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēvītant",
+                "traduzioni": [
+                    "loro evitano",
+                    "essi evitano",
+                    "loro sfuggono",
+                    "essi sfuggono",
+                    "loro schivano",
+                    "essi schivano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēvītābam",
+                "traduzioni": [
+                    "io evitavo",
+                    "io sfuggivo",
+                    "io schivavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēvītābas",
+                "traduzioni": [
+                    "tu evitavi",
+                    "tu sfuggivi",
+                    "tu schivavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēvītābat",
+                "traduzioni": [
+                    "lui evitava",
+                    "lei evitava",
+                    "egli evitava",
+                    "lui sfuggiva",
+                    "lei sfuggiva",
+                    "egli sfuggiva",
+                    "lui schivava",
+                    "lei schivava",
+                    "egli schivava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēvītabāmus",
+                "traduzioni": [
+                    "noi evitavamo",
+                    "noi sfuggivamo",
+                    "noi schivavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēvītabātis",
+                "traduzioni": [
+                    "voi evitavate",
+                    "voi sfuggivate",
+                    "voi schivavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēvītābant",
+                "traduzioni": [
+                    "loro evitavano",
+                    "essi evitavano",
+                    "loro sfuggivano",
+                    "essi sfuggivano",
+                    "loro schivavano",
+                    "essi schivavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēvītābo",
+                "traduzioni": [
+                    "io eviterò",
+                    "io sfuggirò",
+                    "io schiverò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēvītābis",
+                "traduzioni": [
+                    "tu eviterai",
+                    "tu sfuggirai",
+                    "tu schiverai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēvītābit",
+                "traduzioni": [
+                    "lui eviterà",
+                    "lei eviterà",
+                    "egli eviterà",
+                    "lui sfuggirà",
+                    "lei sfuggirà",
+                    "egli sfuggirà",
+                    "lui schiverà",
+                    "lei schiverà",
+                    "egli schiverà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēvītabĭmus",
+                "traduzioni": [
+                    "noi eviteremo",
+                    "noi sfuggiremo",
+                    "noi schiveremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēvītabĭtis",
+                "traduzioni": [
+                    "voi eviterete",
+                    "voi sfuggirete",
+                    "voi schiverete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēvītābunt",
+                "traduzioni": [
+                    "loro eviteranno",
+                    "essi eviteranno",
+                    "loro sfuggiranno",
+                    "essi sfuggiranno",
+                    "loro schiveranno",
+                    "essi schiveranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "evitavi",
+                "traduzioni": [
+                    "io evitai",
+                    "io ho evitato",
+                    "io ebbi evitato",
+                    "io sfuggii",
+                    "io sono sfuggito",
+                    "io sono sfuggita",
+                    "io fui sfuggito",
+                    "io fui sfuggita",
+                    "io schivai",
+                    "io ho schivato",
+                    "io ebbi schivato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "evitavisti",
+                "traduzioni": [
+                    "tu evitasti",
+                    "tu hai evitato",
+                    "tu avesti evitato",
+                    "tu sfuggisti",
+                    "tu sei sfuggito",
+                    "tu sei sfuggita",
+                    "tu fosti sfuggito",
+                    "tu fosti sfuggita",
+                    "tu schivasti",
+                    "tu hai schivato",
+                    "tu avesti schivato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "evitavit",
+                "traduzioni": [
+                    "lui evitò",
+                    "lei evitò",
+                    "egli evitò",
+                    "lui ha evitato",
+                    "lei ha evitato",
+                    "egli ha evitato",
+                    "lui ebbe evitato",
+                    "lei ebbe evitato",
+                    "egli ebbe evitato",
+                    "lui sfuggì",
+                    "lei sfuggì",
+                    "egli sfuggì",
+                    "lui è sfuggito",
+                    "lei è sfuggita",
+                    "egli è sfuggito",
+                    "lui fu sfuggito",
+                    "lei fu sfuggita",
+                    "egli fu sfuggito",
+                    "lui schivò",
+                    "lei schivò",
+                    "egli schivò",
+                    "lui ha schivato",
+                    "lei ha schivato",
+                    "egli ha schivato",
+                    "lui ebbe schivato",
+                    "lei ebbe schivato",
+                    "egli ebbe schivato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "evitavĭmus",
+                "traduzioni": [
+                    "noi evitammo",
+                    "noi abbiamo evitato",
+                    "noi avemmo evitato",
+                    "noi sfuggimmo",
+                    "noi siamo sfuggiti",
+                    "noi siamo sfuggite",
+                    "noi fummo sfuggiti",
+                    "noi fummo sfuggite",
+                    "noi schivammo",
+                    "noi abbiamo schivato",
+                    "noi avemmo schivato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "evitavistis",
+                "traduzioni": [
+                    "voi evitaste",
+                    "voi avete evitato",
+                    "voi aveste evitato",
+                    "voi sfuggiste",
+                    "voi siete sfuggiti",
+                    "voi siete sfuggite",
+                    "voi foste sfuggiti",
+                    "voi foste sfuggite",
+                    "voi schivaste",
+                    "voi avete schivato",
+                    "voi aveste schivato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "evitavērunt, evitavēre",
+                "traduzioni": [
+                    "loro evitarono",
+                    "essi evitarono",
+                    "loro hanno evitato",
+                    "essi hanno evitato",
+                    "loro ebbero evitato",
+                    "essi ebbero evitato",
+                    "loro sfuggirono",
+                    "essi sfuggirono",
+                    "loro sono sfuggiti",
+                    "loro sono sfuggite",
+                    "essi sono sfuggiti",
+                    "loro furono sfuggiti",
+                    "loro furono sfuggite",
+                    "essi furono sfuggiti",
+                    "loro schivarono",
+                    "essi schivarono",
+                    "loro hanno schivato",
+                    "essi hanno schivato",
+                    "loro ebbero schivato",
+                    "essi ebbero schivato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "evitavĕram",
+                "traduzioni": [
+                    "io avevo evitato",
+                    "io ero sfuggito",
+                    "io ero sfuggita",
+                    "io avevo schivato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "evitavĕras",
+                "traduzioni": [
+                    "tu avevi evitato",
+                    "tu eri sfuggito",
+                    "tu eri sfuggita",
+                    "tu avevi schivato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "evitavĕrat",
+                "traduzioni": [
+                    "lui aveva evitato",
+                    "lei aveva evitato",
+                    "egli aveva evitato",
+                    "lui era sfuggito",
+                    "lei era sfuggita",
+                    "egli era sfuggito",
+                    "lui aveva schivato",
+                    "lei aveva schivato",
+                    "egli aveva schivato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "evitaverāmus",
+                "traduzioni": [
+                    "noi avevamo evitato",
+                    "noi eravamo sfuggiti",
+                    "noi eravamo sfuggite",
+                    "noi avevamo schivato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "evitaverātis",
+                "traduzioni": [
+                    "voi avevate evitato",
+                    "voi eravate sfuggiti",
+                    "voi eravate sfuggite",
+                    "voi avevate schivato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "evitavĕrant",
+                "traduzioni": [
+                    "loro avevano evitato",
+                    "essi avevano evitato",
+                    "loro erano sfuggiti",
+                    "loro erano sfuggite",
+                    "essi erano sfuggiti",
+                    "loro avevano schivato",
+                    "essi avevano schivato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "evitavĕro",
+                "traduzioni": [
+                    "io avrò evitato",
+                    "io sarò sfuggito",
+                    "io sarò sfuggita",
+                    "io avrò schivato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "evitavĕris",
+                "traduzioni": [
+                    "tu avrai evitato",
+                    "tu sarai sfuggito",
+                    "tu sarai sfuggita",
+                    "tu avrai schivato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "evitavĕrit",
+                "traduzioni": [
+                    "lui avrà evitato",
+                    "lei avrà evitato",
+                    "egli avrà evitato",
+                    "lui sarà sfuggito",
+                    "lei sarà sfuggita",
+                    "egli sarà sfuggito",
+                    "lui avrà schivato",
+                    "lei avrà schivato",
+                    "egli avrà schivato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "evitaverĭmus",
+                "traduzioni": [
+                    "noi avremo evitato",
+                    "noi saremo sfuggiti",
+                    "noi saremo sfuggite",
+                    "noi avremo schivato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "evitaverĭtis",
+                "traduzioni": [
+                    "voi avrete evitato",
+                    "voi sarete sfuggiti",
+                    "voi sarete sfuggite",
+                    "voi avrete schivato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "evitavĕrint",
+                "traduzioni": [
+                    "loro avranno evitato",
+                    "essi avranno evitato",
+                    "loro saranno sfuggiti",
+                    "loro saranno sfuggite",
+                    "essi saranno sfuggiti",
+                    "loro avranno schivato",
+                    "essi avranno schivato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēvītem",
+                "traduzioni": [
+                    "che io eviti",
+                    "che io sfugga",
+                    "che io schivi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēvītes",
+                "traduzioni": [
+                    "che tu eviti",
+                    "che tu sfugga",
+                    "che tu schivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēvītet",
+                "traduzioni": [
+                    "che lui eviti",
+                    "che lei eviti",
+                    "che egli eviti",
+                    "che lui sfugga",
+                    "che lei sfugga",
+                    "che egli sfugga",
+                    "che lui schivi",
+                    "che lei schivi",
+                    "che egli schivi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēvītēmus",
+                "traduzioni": [
+                    "che noi evitiamo",
+                    "che noi sfuggiamo",
+                    "che noi schiviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēvītētis",
+                "traduzioni": [
+                    "che voi evitiate",
+                    "che voi sfuggiate",
+                    "che voi schiviate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēvītent",
+                "traduzioni": [
+                    "che loro evitino",
+                    "che essi evitino",
+                    "che loro sfuggano",
+                    "che essi sfuggano",
+                    "che loro schivino",
+                    "che essi schivino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēvītārem",
+                "traduzioni": [
+                    "che io evitassi",
+                    "che io sfuggissi",
+                    "che io schivassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēvītāres",
+                "traduzioni": [
+                    "che tu evitassi",
+                    "che tu sfuggissi",
+                    "che tu schivassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēvītāret",
+                "traduzioni": [
+                    "che lui evitasse",
+                    "che lei evitasse",
+                    "che egli evitasse",
+                    "che lui sfuggisse",
+                    "che lei sfuggisse",
+                    "che egli sfuggisse",
+                    "che lui schivasse",
+                    "che lei schivasse",
+                    "che egli schivasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēvītarēmus",
+                "traduzioni": [
+                    "che noi evitassimo",
+                    "che noi sfuggissimo",
+                    "che noi schivassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēvītarētis",
+                "traduzioni": [
+                    "che voi evitaste",
+                    "che voi sfuggiste",
+                    "che voi schivaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēvītārent",
+                "traduzioni": [
+                    "che loro evitassero",
+                    "che essi evitassero",
+                    "che loro sfuggissero",
+                    "che essi sfuggissero",
+                    "che loro schivassero",
+                    "che essi schivassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "evitavĕrim",
+                "traduzioni": [
+                    "che io abbia evitato",
+                    "che io sia sfuggito",
+                    "che io sia sfuggita",
+                    "che io abbia schivato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "evitavĕris",
+                "traduzioni": [
+                    "che tu abbia evitato",
+                    "che tu sia sfuggito",
+                    "che tu sia sfuggita",
+                    "che tu abbia schivato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "evitavĕrit",
+                "traduzioni": [
+                    "che lui abbia evitato",
+                    "che lei abbia evitato",
+                    "che egli abbia evitato",
+                    "che lui sia sfuggito",
+                    "che lei sia sfuggita",
+                    "che egli sia sfuggito",
+                    "che lui abbia schivato",
+                    "che lei abbia schivato",
+                    "che egli abbia schivato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "evitaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo evitato",
+                    "che noi siamo sfuggiti",
+                    "che noi siamo sfuggite",
+                    "che noi abbiamo schivato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "evitaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate evitato",
+                    "che voi siate sfuggiti",
+                    "che voi siate sfuggite",
+                    "che voi abbiate schivato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "evitavĕrint",
+                "traduzioni": [
+                    "che loro abbiano evitato",
+                    "che essi abbiano evitato",
+                    "che loro siano sfuggiti",
+                    "che loro siano sfuggite",
+                    "che essi siano sfuggiti",
+                    "che loro abbiano schivato",
+                    "che essi abbiano schivato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "evitavissem",
+                "traduzioni": [
+                    "che io avessi evitato",
+                    "che io fossi sfuggito",
+                    "che io fossi sfuggita",
+                    "che io avessi schivato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "evitavisses",
+                "traduzioni": [
+                    "che tu avessi evitato",
+                    "che tu fossi sfuggito",
+                    "che tu fossi sfuggita",
+                    "che tu avessi schivato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "evitavisset",
+                "traduzioni": [
+                    "che lui avesse evitato",
+                    "che lei avesse evitato",
+                    "che egli avesse evitato",
+                    "che lui fosse sfuggito",
+                    "che lei fosse sfuggita",
+                    "che egli fosse sfuggito",
+                    "che lui avesse schivato",
+                    "che lei avesse schivato",
+                    "che egli avesse schivato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "evitavissēmus",
+                "traduzioni": [
+                    "che noi avessimo evitato",
+                    "che noi fossimo sfuggiti",
+                    "che noi fossimo sfuggite",
+                    "che noi avessimo schivato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "evitavissētis",
+                "traduzioni": [
+                    "che voi aveste evitato",
+                    "che voi foste sfuggiti",
+                    "che voi foste sfuggite",
+                    "che voi aveste schivato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "evitavissent",
+                "traduzioni": [
+                    "che loro avessero evitato",
+                    "che essi avessero evitato",
+                    "che loro fossero sfuggiti",
+                    "che loro fossero sfuggite",
+                    "che essi fossero sfuggiti",
+                    "che loro avessero schivato",
+                    "che essi avessero schivato"
+                ]
+            }
+        ]
+    }
+}

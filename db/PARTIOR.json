@@ -1,0 +1,724 @@
+{
+    "identifier": "PARTIOR",
+    "conuigazione": "4",
+    "translation": [
+        "dividere",
+        "ripartire",
+        "distribuire",
+        "spartire"
+    ],
+    "valid_translations": [
+        "dividere",
+        "ripartire",
+        "distribuire",
+        "spartire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "partĭor",
+                "traduzioni": [
+                    "io divido",
+                    "io distribuisco",
+                    "io spartisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "partīris, partīre",
+                "traduzioni": [
+                    "tu dividi",
+                    "tu distribuisci",
+                    "tu spartisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "partītur",
+                "traduzioni": [
+                    "lui divide",
+                    "lei divide",
+                    "egli divide",
+                    "lui distribuisce",
+                    "lei distribuisce",
+                    "egli distribuisce",
+                    "lui spartisce",
+                    "lei spartisce",
+                    "egli spartisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "partīmur",
+                "traduzioni": [
+                    "noi dividiamo",
+                    "noi distribuiamo",
+                    "noi spartiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "partimĭni",
+                "traduzioni": [
+                    "voi dividete",
+                    "voi distribuite",
+                    "voi spartite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "partiuntur",
+                "traduzioni": [
+                    "loro dividono",
+                    "essi dividono",
+                    "loro distribuiscono",
+                    "essi distribuiscono",
+                    "loro spartiscono",
+                    "essi spartiscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "partiēbar",
+                "traduzioni": [
+                    "io dividevo",
+                    "io distribuivo",
+                    "io spartivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "partiebāris, partiebāre",
+                "traduzioni": [
+                    "tu dividevi",
+                    "tu distribuivi",
+                    "tu spartivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "partiebātur",
+                "traduzioni": [
+                    "lui divideva",
+                    "lei divideva",
+                    "egli divideva",
+                    "lui distribuiva",
+                    "lei distribuiva",
+                    "egli distribuiva",
+                    "lui spartiva",
+                    "lei spartiva",
+                    "egli spartiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "partiebāmur",
+                "traduzioni": [
+                    "noi dividevamo",
+                    "noi distribuivamo",
+                    "noi spartivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "partiebamĭni",
+                "traduzioni": [
+                    "voi dividevate",
+                    "voi distribuivate",
+                    "voi spartivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "partiebantur",
+                "traduzioni": [
+                    "loro dividevano",
+                    "essi dividevano",
+                    "loro distribuivano",
+                    "essi distribuivano",
+                    "loro spartivano",
+                    "essi spartivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "partĭar",
+                "traduzioni": [
+                    "io dividerò",
+                    "io distribuirò",
+                    "io spartirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "partiēris, partiēre",
+                "traduzioni": [
+                    "tu dividerai",
+                    "tu distribuirai",
+                    "tu spartirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "partiētur",
+                "traduzioni": [
+                    "lui dividerà",
+                    "lei dividerà",
+                    "egli dividerà",
+                    "lui distribuirà",
+                    "lei distribuirà",
+                    "egli distribuirà",
+                    "lui spartirà",
+                    "lei spartirà",
+                    "egli spartirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "partiēmur",
+                "traduzioni": [
+                    "noi divideremo",
+                    "noi distribuiremo",
+                    "noi spartiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "partiemĭni",
+                "traduzioni": [
+                    "voi dividerete",
+                    "voi distribuirete",
+                    "voi spartirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "partientur",
+                "traduzioni": [
+                    "loro divideranno",
+                    "essi divideranno",
+                    "loro distribuiranno",
+                    "essi distribuiranno",
+                    "loro spartiranno",
+                    "essi spartiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "partitus, –a, –um  sum",
+                "traduzioni": [
+                    "io divisi",
+                    "io ho diviso",
+                    "io ebbi diviso",
+                    "io distribuii",
+                    "io ho distribuito",
+                    "io ebbi distribuito",
+                    "io spartii",
+                    "io ho spartito",
+                    "io ebbi spartito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "partitus, –a, –um  es",
+                "traduzioni": [
+                    "tu dividesti",
+                    "tu hai diviso",
+                    "tu avesti diviso",
+                    "tu distribuisti",
+                    "tu hai distribuito",
+                    "tu avesti distribuito",
+                    "tu spartisti",
+                    "tu hai spartito",
+                    "tu avesti spartito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "partitus, –a, –um  est",
+                "traduzioni": [
+                    "lui divise",
+                    "lei divise",
+                    "egli divise",
+                    "lui ha diviso",
+                    "lei ha diviso",
+                    "egli ha diviso",
+                    "lui ebbe diviso",
+                    "lei ebbe diviso",
+                    "egli ebbe diviso",
+                    "lui distribuì",
+                    "lei distribuì",
+                    "egli distribuì",
+                    "lui ha distribuito",
+                    "lei ha distribuito",
+                    "egli ha distribuito",
+                    "lui ebbe distribuito",
+                    "lei ebbe distribuito",
+                    "egli ebbe distribuito",
+                    "lui spartì",
+                    "lei spartì",
+                    "egli spartì",
+                    "lui ha spartito",
+                    "lei ha spartito",
+                    "egli ha spartito",
+                    "lui ebbe spartito",
+                    "lei ebbe spartito",
+                    "egli ebbe spartito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "partiti, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi dividemmo",
+                    "noi abbiamo diviso",
+                    "noi avemmo diviso",
+                    "noi distribuimmo",
+                    "noi abbiamo distribuito",
+                    "noi avemmo distribuito",
+                    "noi spartimmo",
+                    "noi abbiamo spartito",
+                    "noi avemmo spartito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "partiti, –ae, –a  estis",
+                "traduzioni": [
+                    "voi divideste",
+                    "voi avete diviso",
+                    "voi aveste diviso",
+                    "voi distribuiste",
+                    "voi avete distribuito",
+                    "voi aveste distribuito",
+                    "voi spartiste",
+                    "voi avete spartito",
+                    "voi aveste spartito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "partiti, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro divisero",
+                    "essi divisero",
+                    "loro hanno diviso",
+                    "essi hanno diviso",
+                    "loro ebbero diviso",
+                    "essi ebbero diviso",
+                    "loro distribuirono",
+                    "essi distribuirono",
+                    "loro hanno distribuito",
+                    "essi hanno distribuito",
+                    "loro ebbero distribuito",
+                    "essi ebbero distribuito",
+                    "loro spartirono",
+                    "essi spartirono",
+                    "loro hanno spartito",
+                    "essi hanno spartito",
+                    "loro ebbero spartito",
+                    "essi ebbero spartito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "partitus, –a, –um  eram",
+                "traduzioni": [
+                    "io avevo diviso",
+                    "io avevo distribuito",
+                    "io avevo spartito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "partitus, –a, –um  eras",
+                "traduzioni": [
+                    "tu avevi diviso",
+                    "tu avevi distribuito",
+                    "tu avevi spartito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "partitus, –a, –um  erat",
+                "traduzioni": [
+                    "lui aveva diviso",
+                    "lei aveva diviso",
+                    "egli aveva diviso",
+                    "lui aveva distribuito",
+                    "lei aveva distribuito",
+                    "egli aveva distribuito",
+                    "lui aveva spartito",
+                    "lei aveva spartito",
+                    "egli aveva spartito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "partiti, –ae, –a  eramus",
+                "traduzioni": [
+                    "noi avevamo diviso",
+                    "noi avevamo distribuito",
+                    "noi avevamo spartito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "partiti, –ae, –a  eratis",
+                "traduzioni": [
+                    "voi avevate diviso",
+                    "voi avevate distribuito",
+                    "voi avevate spartito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "partiti, –ae, –a erant",
+                "traduzioni": [
+                    "loro avevano diviso",
+                    "essi avevano diviso",
+                    "loro avevano distribuito",
+                    "essi avevano distribuito",
+                    "loro avevano spartito",
+                    "essi avevano spartito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "partitus, –a, –um  ero",
+                "traduzioni": [
+                    "io avrò diviso",
+                    "io avrò distribuito",
+                    "io avrò spartito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "partitus, –a, –um  eris",
+                "traduzioni": [
+                    "tu avrai diviso",
+                    "tu avrai distribuito",
+                    "tu avrai spartito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "partitus, –a, –um  erit",
+                "traduzioni": [
+                    "lui avrà diviso",
+                    "lei avrà diviso",
+                    "egli avrà diviso",
+                    "lui avrà distribuito",
+                    "lei avrà distribuito",
+                    "egli avrà distribuito",
+                    "lui avrà spartito",
+                    "lei avrà spartito",
+                    "egli avrà spartito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "partiti, –ae, –a  erimus",
+                "traduzioni": [
+                    "noi avremo diviso",
+                    "noi avremo distribuito",
+                    "noi avremo spartito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "partiti, –ae, –a  eritis",
+                "traduzioni": [
+                    "voi avrete diviso",
+                    "voi avrete distribuito",
+                    "voi avrete spartito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "partiti, –ae, –a  erunt",
+                "traduzioni": [
+                    "loro avranno diviso",
+                    "essi avranno diviso",
+                    "loro avranno distribuito",
+                    "essi avranno distribuito",
+                    "loro avranno spartito",
+                    "essi avranno spartito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "partĭar",
+                "traduzioni": [
+                    "che io divida",
+                    "che io distribuisca",
+                    "che io spartisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "partiāris, partiāre",
+                "traduzioni": [
+                    "che tu divida",
+                    "che tu distribuisca",
+                    "che tu spartisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "partiātur",
+                "traduzioni": [
+                    "che lui divida",
+                    "che lei divida",
+                    "che egli divida",
+                    "che lui distribuisca",
+                    "che lei distribuisca",
+                    "che egli distribuisca",
+                    "che lui spartisca",
+                    "che lei spartisca",
+                    "che egli spartisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "partiāmur",
+                "traduzioni": [
+                    "che noi dividiamo",
+                    "che noi distribuiamo",
+                    "che noi spartiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "partiamĭni",
+                "traduzioni": [
+                    "che voi dividiate",
+                    "che voi distribuiate",
+                    "che voi spartiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "partiantur",
+                "traduzioni": [
+                    "che loro dividano",
+                    "che essi dividano",
+                    "che loro distribuiscano",
+                    "che essi distribuiscano",
+                    "che loro spartiscano",
+                    "che essi spartiscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "partīrer",
+                "traduzioni": [
+                    "che io dividessi",
+                    "che io distribuissi",
+                    "che io spartissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "partirēris, partirēre",
+                "traduzioni": [
+                    "che tu dividessi",
+                    "che tu distribuissi",
+                    "che tu spartissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "partirētur",
+                "traduzioni": [
+                    "che lui dividesse",
+                    "che lei dividesse",
+                    "che egli dividesse",
+                    "che lui distribuisse",
+                    "che lei distribuisse",
+                    "che egli distribuisse",
+                    "che lui spartisse",
+                    "che lei spartisse",
+                    "che egli spartisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "partirēmur",
+                "traduzioni": [
+                    "che noi dividessimo",
+                    "che noi distribuissimo",
+                    "che noi spartissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "partirēmini",
+                "traduzioni": [
+                    "che voi divideste",
+                    "che voi distribuiste",
+                    "che voi spartiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "partirentur",
+                "traduzioni": [
+                    "che loro dividessero",
+                    "che essi dividessero",
+                    "che loro distribuissero",
+                    "che essi distribuissero",
+                    "che loro spartissero",
+                    "che essi spartissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "partitus, –a, –um  sim",
+                "traduzioni": [
+                    "che io abbia diviso",
+                    "che io abbia distribuito",
+                    "che io abbia spartito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "partitus, –a, –um  sis",
+                "traduzioni": [
+                    "che tu abbia diviso",
+                    "che tu abbia distribuito",
+                    "che tu abbia spartito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "partitus, –a, –um  sit",
+                "traduzioni": [
+                    "che lui abbia diviso",
+                    "che lei abbia diviso",
+                    "che egli abbia diviso",
+                    "che lui abbia distribuito",
+                    "che lei abbia distribuito",
+                    "che egli abbia distribuito",
+                    "che lui abbia spartito",
+                    "che lei abbia spartito",
+                    "che egli abbia spartito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "partiti, –ae, –a  simus",
+                "traduzioni": [
+                    "che noi abbiamo diviso",
+                    "che noi abbiamo distribuito",
+                    "che noi abbiamo spartito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "partiti, –ae, –a  sitis",
+                "traduzioni": [
+                    "che voi abbiate diviso",
+                    "che voi abbiate distribuito",
+                    "che voi abbiate spartito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "partiti, –ae, –a  sint",
+                "traduzioni": [
+                    "che loro abbiano diviso",
+                    "che essi abbiano diviso",
+                    "che loro abbiano distribuito",
+                    "che essi abbiano distribuito",
+                    "che loro abbiano spartito",
+                    "che essi abbiano spartito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "partitus, –a, –um  essem",
+                "traduzioni": [
+                    "che io avessi diviso",
+                    "che io avessi distribuito",
+                    "che io avessi spartito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "partitus, –a, –um  esses",
+                "traduzioni": [
+                    "che tu avessi diviso",
+                    "che tu avessi distribuito",
+                    "che tu avessi spartito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "partitus, –a, –um  esset",
+                "traduzioni": [
+                    "che lui avesse diviso",
+                    "che lei avesse diviso",
+                    "che egli avesse diviso",
+                    "che lui avesse distribuito",
+                    "che lei avesse distribuito",
+                    "che egli avesse distribuito",
+                    "che lui avesse spartito",
+                    "che lei avesse spartito",
+                    "che egli avesse spartito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "partiti, –ae, –a  essemus",
+                "traduzioni": [
+                    "che noi avessimo diviso",
+                    "che noi avessimo distribuito",
+                    "che noi avessimo spartito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "partiti, –ae, –a  essetis",
+                "traduzioni": [
+                    "che voi aveste diviso",
+                    "che voi aveste distribuito",
+                    "che voi aveste spartito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "partiti, –ae, –a  essent",
+                "traduzioni": [
+                    "che loro avessero diviso",
+                    "che essi avessero diviso",
+                    "che loro avessero distribuito",
+                    "che essi avessero distribuito",
+                    "che loro avessero spartito",
+                    "che essi avessero spartito"
+                ]
+            }
+        ]
+    }
+}

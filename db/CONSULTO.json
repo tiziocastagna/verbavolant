@@ -1,0 +1,949 @@
+{
+    "identifier": "CONSULTO",
+    "conuigazione": "1",
+    "translation": [
+        "deliberare",
+        "riflettere",
+        "(transitivo) dibattere",
+        "interpellare",
+        "interrogare",
+        "consultare"
+    ],
+    "valid_translations": [
+        "deliberare",
+        "riflettere",
+        "interpellare",
+        "interrogare",
+        "consultare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "consulto",
+                "traduzioni": [
+                    "io delibero",
+                    "io rifletto",
+                    "io interpello",
+                    "io interrogo",
+                    "io consulto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consultas",
+                "traduzioni": [
+                    "tu deliberi",
+                    "tu rifletti",
+                    "tu interpelli",
+                    "tu interroghi",
+                    "tu consulti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consultat",
+                "traduzioni": [
+                    "lui delibera",
+                    "lei delibera",
+                    "egli delibera",
+                    "lui riflette",
+                    "lei riflette",
+                    "egli riflette",
+                    "lui interpella",
+                    "lei interpella",
+                    "egli interpella",
+                    "lui interroga",
+                    "lei interroga",
+                    "egli interroga",
+                    "lui consulta",
+                    "lei consulta",
+                    "egli consulta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consultāmus",
+                "traduzioni": [
+                    "noi deliberiamo",
+                    "noi riflettiamo",
+                    "noi interpelliamo",
+                    "noi interroghiamo",
+                    "noi consultiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consultātis",
+                "traduzioni": [
+                    "voi deliberate",
+                    "voi riflettete",
+                    "voi interpellate",
+                    "voi interrogate",
+                    "voi consultate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consultant",
+                "traduzioni": [
+                    "loro deliberano",
+                    "essi deliberano",
+                    "loro riflettono",
+                    "essi riflettono",
+                    "loro interpellano",
+                    "essi interpellano",
+                    "loro interrogano",
+                    "essi interrogano",
+                    "loro consultano",
+                    "essi consultano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consultābam",
+                "traduzioni": [
+                    "io deliberavo",
+                    "io riflettevo",
+                    "io interpellavo",
+                    "io interrogavo",
+                    "io consultavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consultābas",
+                "traduzioni": [
+                    "tu deliberavi",
+                    "tu riflettevi",
+                    "tu interpellavi",
+                    "tu interrogavi",
+                    "tu consultavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consultābat",
+                "traduzioni": [
+                    "lui deliberava",
+                    "lei deliberava",
+                    "egli deliberava",
+                    "lui rifletteva",
+                    "lei rifletteva",
+                    "egli rifletteva",
+                    "lui interpellava",
+                    "lei interpellava",
+                    "egli interpellava",
+                    "lui interrogava",
+                    "lei interrogava",
+                    "egli interrogava",
+                    "lui consultava",
+                    "lei consultava",
+                    "egli consultava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consultabāmus",
+                "traduzioni": [
+                    "noi deliberavamo",
+                    "noi riflettevamo",
+                    "noi interpellavamo",
+                    "noi interrogavamo",
+                    "noi consultavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consultabātis",
+                "traduzioni": [
+                    "voi deliberavate",
+                    "voi riflettevate",
+                    "voi interpellavate",
+                    "voi interrogavate",
+                    "voi consultavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consultābant",
+                "traduzioni": [
+                    "loro deliberavano",
+                    "essi deliberavano",
+                    "loro riflettevano",
+                    "essi riflettevano",
+                    "loro interpellavano",
+                    "essi interpellavano",
+                    "loro interrogavano",
+                    "essi interrogavano",
+                    "loro consultavano",
+                    "essi consultavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "consultābo",
+                "traduzioni": [
+                    "io delibererò",
+                    "io rifletterò",
+                    "io interpellerò",
+                    "io interrogherò",
+                    "io consulterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consultābis",
+                "traduzioni": [
+                    "tu delibererai",
+                    "tu rifletterai",
+                    "tu interpellerai",
+                    "tu interrogherai",
+                    "tu consulterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consultābit",
+                "traduzioni": [
+                    "lui delibererà",
+                    "lei delibererà",
+                    "egli delibererà",
+                    "lui rifletterà",
+                    "lei rifletterà",
+                    "egli rifletterà",
+                    "lui interpellerà",
+                    "lei interpellerà",
+                    "egli interpellerà",
+                    "lui interrogherà",
+                    "lei interrogherà",
+                    "egli interrogherà",
+                    "lui consulterà",
+                    "lei consulterà",
+                    "egli consulterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consultabĭmus",
+                "traduzioni": [
+                    "noi delibereremo",
+                    "noi rifletteremo",
+                    "noi interpelleremo",
+                    "noi interrogheremo",
+                    "noi consulteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consultabĭtis",
+                "traduzioni": [
+                    "voi delibererete",
+                    "voi rifletterete",
+                    "voi interpellerete",
+                    "voi interrogherete",
+                    "voi consulterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consultābunt",
+                "traduzioni": [
+                    "loro delibereranno",
+                    "essi delibereranno",
+                    "loro rifletteranno",
+                    "essi rifletteranno",
+                    "loro interpelleranno",
+                    "essi interpelleranno",
+                    "loro interrogheranno",
+                    "essi interrogheranno",
+                    "loro consulteranno",
+                    "essi consulteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consultavi",
+                "traduzioni": [
+                    "io deliberai",
+                    "io ho deliberato",
+                    "io ebbi deliberato",
+                    "io riflessi",
+                    "io riflettei",
+                    "io ho riflesso",
+                    "io ebbi riflesso",
+                    "io interpellai",
+                    "io ho interpellato",
+                    "io ebbi interpellato",
+                    "io interrogai",
+                    "io ho interrogato",
+                    "io ebbi interrogato",
+                    "io consultai",
+                    "io ho consultato",
+                    "io ebbi consultato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consultavisti",
+                "traduzioni": [
+                    "tu deliberasti",
+                    "tu hai deliberato",
+                    "tu avesti deliberato",
+                    "tu riflettesti",
+                    "tu hai riflesso",
+                    "tu avesti riflesso",
+                    "tu interpellasti",
+                    "tu hai interpellato",
+                    "tu avesti interpellato",
+                    "tu interrogasti",
+                    "tu hai interrogato",
+                    "tu avesti interrogato",
+                    "tu consultasti",
+                    "tu hai consultato",
+                    "tu avesti consultato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consultavit",
+                "traduzioni": [
+                    "lui deliberò",
+                    "lei deliberò",
+                    "egli deliberò",
+                    "lui ha deliberato",
+                    "lei ha deliberato",
+                    "egli ha deliberato",
+                    "lui ebbe deliberato",
+                    "lei ebbe deliberato",
+                    "egli ebbe deliberato",
+                    "lui riflesse",
+                    "lei riflesse",
+                    "egli riflesse",
+                    "lui rifletté",
+                    "lei rifletté",
+                    "egli rifletté",
+                    "lui ha riflesso",
+                    "lei ha riflesso",
+                    "egli ha riflesso",
+                    "lui ebbe riflesso",
+                    "lei ebbe riflesso",
+                    "egli ebbe riflesso",
+                    "lui interpellò",
+                    "lei interpellò",
+                    "egli interpellò",
+                    "lui ha interpellato",
+                    "lei ha interpellato",
+                    "egli ha interpellato",
+                    "lui ebbe interpellato",
+                    "lei ebbe interpellato",
+                    "egli ebbe interpellato",
+                    "lui interrogò",
+                    "lei interrogò",
+                    "egli interrogò",
+                    "lui ha interrogato",
+                    "lei ha interrogato",
+                    "egli ha interrogato",
+                    "lui ebbe interrogato",
+                    "lei ebbe interrogato",
+                    "egli ebbe interrogato",
+                    "lui consultò",
+                    "lei consultò",
+                    "egli consultò",
+                    "lui ha consultato",
+                    "lei ha consultato",
+                    "egli ha consultato",
+                    "lui ebbe consultato",
+                    "lei ebbe consultato",
+                    "egli ebbe consultato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consultavĭmus",
+                "traduzioni": [
+                    "noi deliberammo",
+                    "noi abbiamo deliberato",
+                    "noi avemmo deliberato",
+                    "noi riflettemmo",
+                    "noi abbiamo riflesso",
+                    "noi avemmo riflesso",
+                    "noi interpellammo",
+                    "noi abbiamo interpellato",
+                    "noi avemmo interpellato",
+                    "noi interrogammo",
+                    "noi abbiamo interrogato",
+                    "noi avemmo interrogato",
+                    "noi consultammo",
+                    "noi abbiamo consultato",
+                    "noi avemmo consultato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consultavistis",
+                "traduzioni": [
+                    "voi deliberaste",
+                    "voi avete deliberato",
+                    "voi aveste deliberato",
+                    "voi rifletteste",
+                    "voi avete riflesso",
+                    "voi aveste riflesso",
+                    "voi interpellaste",
+                    "voi avete interpellato",
+                    "voi aveste interpellato",
+                    "voi interrogaste",
+                    "voi avete interrogato",
+                    "voi aveste interrogato",
+                    "voi consultaste",
+                    "voi avete consultato",
+                    "voi aveste consultato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consultavēreunt, consultavēre",
+                "traduzioni": [
+                    "loro deliberarono",
+                    "essi deliberarono",
+                    "loro hanno deliberato",
+                    "essi hanno deliberato",
+                    "loro ebbero deliberato",
+                    "essi ebbero deliberato",
+                    "loro riflessero",
+                    "essi riflessero",
+                    "loro rifletterono",
+                    "essi rifletterono",
+                    "loro hanno riflesso",
+                    "essi hanno riflesso",
+                    "loro ebbero riflesso",
+                    "essi ebbero riflesso",
+                    "loro interpellarono",
+                    "essi interpellarono",
+                    "loro hanno interpellato",
+                    "essi hanno interpellato",
+                    "loro ebbero interpellato",
+                    "essi ebbero interpellato",
+                    "loro interrogarono",
+                    "essi interrogarono",
+                    "loro hanno interrogato",
+                    "essi hanno interrogato",
+                    "loro ebbero interrogato",
+                    "essi ebbero interrogato",
+                    "loro consultarono",
+                    "essi consultarono",
+                    "loro hanno consultato",
+                    "essi hanno consultato",
+                    "loro ebbero consultato",
+                    "essi ebbero consultato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consultavĕram",
+                "traduzioni": [
+                    "io avevo deliberato",
+                    "io avevo riflesso",
+                    "io avevo interpellato",
+                    "io avevo interrogato",
+                    "io avevo consultato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consultavĕras",
+                "traduzioni": [
+                    "tu avevi deliberato",
+                    "tu avevi riflesso",
+                    "tu avevi interpellato",
+                    "tu avevi interrogato",
+                    "tu avevi consultato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consultavĕrat",
+                "traduzioni": [
+                    "lui aveva deliberato",
+                    "lei aveva deliberato",
+                    "egli aveva deliberato",
+                    "lui aveva riflesso",
+                    "lei aveva riflesso",
+                    "egli aveva riflesso",
+                    "lui aveva interpellato",
+                    "lei aveva interpellato",
+                    "egli aveva interpellato",
+                    "lui aveva interrogato",
+                    "lei aveva interrogato",
+                    "egli aveva interrogato",
+                    "lui aveva consultato",
+                    "lei aveva consultato",
+                    "egli aveva consultato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consultaverāmus",
+                "traduzioni": [
+                    "noi avevamo deliberato",
+                    "noi avevamo riflesso",
+                    "noi avevamo interpellato",
+                    "noi avevamo interrogato",
+                    "noi avevamo consultato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consultaverātis",
+                "traduzioni": [
+                    "voi avevate deliberato",
+                    "voi avevate riflesso",
+                    "voi avevate interpellato",
+                    "voi avevate interrogato",
+                    "voi avevate consultato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consultavĕrant",
+                "traduzioni": [
+                    "loro avevano deliberato",
+                    "essi avevano deliberato",
+                    "loro avevano riflesso",
+                    "essi avevano riflesso",
+                    "loro avevano interpellato",
+                    "essi avevano interpellato",
+                    "loro avevano interrogato",
+                    "essi avevano interrogato",
+                    "loro avevano consultato",
+                    "essi avevano consultato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "consultavĕro",
+                "traduzioni": [
+                    "io avrò deliberato",
+                    "io avrò riflesso",
+                    "io avrò interpellato",
+                    "io avrò interrogato",
+                    "io avrò consultato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consultavĕris",
+                "traduzioni": [
+                    "tu avrai deliberato",
+                    "tu avrai riflesso",
+                    "tu avrai interpellato",
+                    "tu avrai interrogato",
+                    "tu avrai consultato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consultavĕrit",
+                "traduzioni": [
+                    "lui avrà deliberato",
+                    "lei avrà deliberato",
+                    "egli avrà deliberato",
+                    "lui avrà riflesso",
+                    "lei avrà riflesso",
+                    "egli avrà riflesso",
+                    "lui avrà interpellato",
+                    "lei avrà interpellato",
+                    "egli avrà interpellato",
+                    "lui avrà interrogato",
+                    "lei avrà interrogato",
+                    "egli avrà interrogato",
+                    "lui avrà consultato",
+                    "lei avrà consultato",
+                    "egli avrà consultato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consultaverĭmus",
+                "traduzioni": [
+                    "noi avremo deliberato",
+                    "noi avremo riflesso",
+                    "noi avremo interpellato",
+                    "noi avremo interrogato",
+                    "noi avremo consultato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consultaverĭtis",
+                "traduzioni": [
+                    "voi avrete deliberato",
+                    "voi avrete riflesso",
+                    "voi avrete interpellato",
+                    "voi avrete interrogato",
+                    "voi avrete consultato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consultavĕrint",
+                "traduzioni": [
+                    "loro avranno deliberato",
+                    "essi avranno deliberato",
+                    "loro avranno riflesso",
+                    "essi avranno riflesso",
+                    "loro avranno interpellato",
+                    "essi avranno interpellato",
+                    "loro avranno interrogato",
+                    "essi avranno interrogato",
+                    "loro avranno consultato",
+                    "essi avranno consultato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "consultem",
+                "traduzioni": [
+                    "che io deliberi",
+                    "che io rifletta",
+                    "che io interpelli",
+                    "che io interroghi",
+                    "che io consulti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consultes",
+                "traduzioni": [
+                    "che tu deliberi",
+                    "che tu rifletta",
+                    "che tu interpelli",
+                    "che tu interroghi",
+                    "che tu consulti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consultet",
+                "traduzioni": [
+                    "che lui deliberi",
+                    "che lei deliberi",
+                    "che egli deliberi",
+                    "che lui rifletta",
+                    "che lei rifletta",
+                    "che egli rifletta",
+                    "che lui interpelli",
+                    "che lei interpelli",
+                    "che egli interpelli",
+                    "che lui interroghi",
+                    "che lei interroghi",
+                    "che egli interroghi",
+                    "che lui consulti",
+                    "che lei consulti",
+                    "che egli consulti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consultēmus",
+                "traduzioni": [
+                    "che noi deliberiamo",
+                    "che noi riflettiamo",
+                    "che noi interpelliamo",
+                    "che noi interroghiamo",
+                    "che noi consultiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consultētis",
+                "traduzioni": [
+                    "che voi deliberiate",
+                    "che voi riflettiate",
+                    "che voi interpelliate",
+                    "che voi interroghiate",
+                    "che voi consultiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consultent",
+                "traduzioni": [
+                    "che loro deliberino",
+                    "che essi deliberino",
+                    "che loro riflettano",
+                    "che essi riflettano",
+                    "che loro interpellino",
+                    "che essi interpellino",
+                    "che loro interroghino",
+                    "che essi interroghino",
+                    "che loro consultino",
+                    "che essi consultino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consultārem",
+                "traduzioni": [
+                    "che io deliberassi",
+                    "che io riflettessi",
+                    "che io interpellassi",
+                    "che io interrogassi",
+                    "che io consultassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consultāres",
+                "traduzioni": [
+                    "che tu deliberassi",
+                    "che tu riflettessi",
+                    "che tu interpellassi",
+                    "che tu interrogassi",
+                    "che tu consultassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consultāret",
+                "traduzioni": [
+                    "che lui deliberasse",
+                    "che lei deliberasse",
+                    "che egli deliberasse",
+                    "che lui riflettesse",
+                    "che lei riflettesse",
+                    "che egli riflettesse",
+                    "che lui interpellasse",
+                    "che lei interpellasse",
+                    "che egli interpellasse",
+                    "che lui interrogasse",
+                    "che lei interrogasse",
+                    "che egli interrogasse",
+                    "che lui consultasse",
+                    "che lei consultasse",
+                    "che egli consultasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consultarēmus",
+                "traduzioni": [
+                    "che noi deliberassimo",
+                    "che noi riflettessimo",
+                    "che noi interpellassimo",
+                    "che noi interrogassimo",
+                    "che noi consultassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consultarētis",
+                "traduzioni": [
+                    "che voi deliberaste",
+                    "che voi rifletteste",
+                    "che voi interpellaste",
+                    "che voi interrogaste",
+                    "che voi consultaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consultārent",
+                "traduzioni": [
+                    "che loro deliberassero",
+                    "che essi deliberassero",
+                    "che loro riflettessero",
+                    "che essi riflettessero",
+                    "che loro interpellassero",
+                    "che essi interpellassero",
+                    "che loro interrogassero",
+                    "che essi interrogassero",
+                    "che loro consultassero",
+                    "che essi consultassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consultavĕrim",
+                "traduzioni": [
+                    "che io abbia deliberato",
+                    "che io abbia riflesso",
+                    "che io abbia interpellato",
+                    "che io abbia interrogato",
+                    "che io abbia consultato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consultavĕris",
+                "traduzioni": [
+                    "che tu abbia deliberato",
+                    "che tu abbia riflesso",
+                    "che tu abbia interpellato",
+                    "che tu abbia interrogato",
+                    "che tu abbia consultato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consultavĕrit",
+                "traduzioni": [
+                    "che lui abbia deliberato",
+                    "che lei abbia deliberato",
+                    "che egli abbia deliberato",
+                    "che lui abbia riflesso",
+                    "che lei abbia riflesso",
+                    "che egli abbia riflesso",
+                    "che lui abbia interpellato",
+                    "che lei abbia interpellato",
+                    "che egli abbia interpellato",
+                    "che lui abbia interrogato",
+                    "che lei abbia interrogato",
+                    "che egli abbia interrogato",
+                    "che lui abbia consultato",
+                    "che lei abbia consultato",
+                    "che egli abbia consultato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consultaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo deliberato",
+                    "che noi abbiamo riflesso",
+                    "che noi abbiamo interpellato",
+                    "che noi abbiamo interrogato",
+                    "che noi abbiamo consultato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consultaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate deliberato",
+                    "che voi abbiate riflesso",
+                    "che voi abbiate interpellato",
+                    "che voi abbiate interrogato",
+                    "che voi abbiate consultato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consultavĕrint",
+                "traduzioni": [
+                    "che loro abbiano deliberato",
+                    "che essi abbiano deliberato",
+                    "che loro abbiano riflesso",
+                    "che essi abbiano riflesso",
+                    "che loro abbiano interpellato",
+                    "che essi abbiano interpellato",
+                    "che loro abbiano interrogato",
+                    "che essi abbiano interrogato",
+                    "che loro abbiano consultato",
+                    "che essi abbiano consultato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consultavissem",
+                "traduzioni": [
+                    "che io avessi deliberato",
+                    "che io avessi riflesso",
+                    "che io avessi interpellato",
+                    "che io avessi interrogato",
+                    "che io avessi consultato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consultavisses",
+                "traduzioni": [
+                    "che tu avessi deliberato",
+                    "che tu avessi riflesso",
+                    "che tu avessi interpellato",
+                    "che tu avessi interrogato",
+                    "che tu avessi consultato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consultavisset",
+                "traduzioni": [
+                    "che lui avesse deliberato",
+                    "che lei avesse deliberato",
+                    "che egli avesse deliberato",
+                    "che lui avesse riflesso",
+                    "che lei avesse riflesso",
+                    "che egli avesse riflesso",
+                    "che lui avesse interpellato",
+                    "che lei avesse interpellato",
+                    "che egli avesse interpellato",
+                    "che lui avesse interrogato",
+                    "che lei avesse interrogato",
+                    "che egli avesse interrogato",
+                    "che lui avesse consultato",
+                    "che lei avesse consultato",
+                    "che egli avesse consultato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consultavissēmus",
+                "traduzioni": [
+                    "che noi avessimo deliberato",
+                    "che noi avessimo riflesso",
+                    "che noi avessimo interpellato",
+                    "che noi avessimo interrogato",
+                    "che noi avessimo consultato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consultavissētis",
+                "traduzioni": [
+                    "che voi aveste deliberato",
+                    "che voi aveste riflesso",
+                    "che voi aveste interpellato",
+                    "che voi aveste interrogato",
+                    "che voi aveste consultato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consultavissent",
+                "traduzioni": [
+                    "che loro avessero deliberato",
+                    "che essi avessero deliberato",
+                    "che loro avessero riflesso",
+                    "che essi avessero riflesso",
+                    "che loro avessero interpellato",
+                    "che essi avessero interpellato",
+                    "che loro avessero interrogato",
+                    "che essi avessero interrogato",
+                    "che loro avessero consultato",
+                    "che essi avessero consultato"
+                ]
+            }
+        ]
+    }
+}

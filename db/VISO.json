@@ -1,0 +1,729 @@
+{
+    "identifier": "VISO",
+    "conuigazione": "3",
+    "translation": [
+        "(intransitivo) recarsi per vedere",
+        "andare a guardare",
+        "(intransitivo) (ad + accusativo) visitare",
+        "(transitivo) controllare",
+        "esaminare",
+        "(transitivo) contemplare",
+        "osservare",
+        "(transitivo) ispezionare",
+        "controllare",
+        "(transitivo) spiare"
+    ],
+    "valid_translations": [
+        "esaminare",
+        "osservare",
+        "controllare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "vīso",
+                "traduzioni": [
+                    "io esamino",
+                    "io osservo",
+                    "io controllo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vīsis",
+                "traduzioni": [
+                    "tu esamini",
+                    "tu osservi",
+                    "tu controlli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vīsit",
+                "traduzioni": [
+                    "lui esamina",
+                    "lei esamina",
+                    "egli esamina",
+                    "lui osserva",
+                    "lei osserva",
+                    "egli osserva",
+                    "lui controlla",
+                    "lei controlla",
+                    "egli controlla"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vīsĭmus",
+                "traduzioni": [
+                    "noi esaminiamo",
+                    "noi osserviamo",
+                    "noi controlliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vīsĭtis",
+                "traduzioni": [
+                    "voi esaminate",
+                    "voi osservate",
+                    "voi controllate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vīsunt",
+                "traduzioni": [
+                    "loro esaminano",
+                    "essi esaminano",
+                    "loro osservano",
+                    "essi osservano",
+                    "loro controllano",
+                    "essi controllano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "vīsēbam",
+                "traduzioni": [
+                    "io esaminavo",
+                    "io osservavo",
+                    "io controllavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vīsēbas",
+                "traduzioni": [
+                    "tu esaminavi",
+                    "tu osservavi",
+                    "tu controllavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vīsēbat",
+                "traduzioni": [
+                    "lui esaminava",
+                    "lei esaminava",
+                    "egli esaminava",
+                    "lui osservava",
+                    "lei osservava",
+                    "egli osservava",
+                    "lui controllava",
+                    "lei controllava",
+                    "egli controllava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vīsebāmus",
+                "traduzioni": [
+                    "noi esaminavamo",
+                    "noi osservavamo",
+                    "noi controllavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vīsebātis",
+                "traduzioni": [
+                    "voi esaminavate",
+                    "voi osservavate",
+                    "voi controllavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vīsēbant",
+                "traduzioni": [
+                    "loro esaminavano",
+                    "essi esaminavano",
+                    "loro osservavano",
+                    "essi osservavano",
+                    "loro controllavano",
+                    "essi controllavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "vīsam",
+                "traduzioni": [
+                    "io esaminerò",
+                    "io osserverò",
+                    "io controllerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vīses",
+                "traduzioni": [
+                    "tu esaminerai",
+                    "tu osserverai",
+                    "tu controllerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vīset",
+                "traduzioni": [
+                    "lui esaminerà",
+                    "lei esaminerà",
+                    "egli esaminerà",
+                    "lui osserverà",
+                    "lei osserverà",
+                    "egli osserverà",
+                    "lui controllerà",
+                    "lei controllerà",
+                    "egli controllerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vīsēmus",
+                "traduzioni": [
+                    "noi esamineremo",
+                    "noi osserveremo",
+                    "noi controlleremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vīsētis",
+                "traduzioni": [
+                    "voi esaminerete",
+                    "voi osserverete",
+                    "voi controllerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vīsent",
+                "traduzioni": [
+                    "loro esamineranno",
+                    "essi esamineranno",
+                    "loro osserveranno",
+                    "essi osserveranno",
+                    "loro controlleranno",
+                    "essi controlleranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "visi",
+                "traduzioni": [
+                    "io esaminai",
+                    "io ho esaminato",
+                    "io ebbi esaminato",
+                    "io osservai",
+                    "io ho osservato",
+                    "io ebbi osservato",
+                    "io controllai",
+                    "io ho controllato",
+                    "io ebbi controllato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "visisti",
+                "traduzioni": [
+                    "tu esaminasti",
+                    "tu hai esaminato",
+                    "tu avesti esaminato",
+                    "tu osservasti",
+                    "tu hai osservato",
+                    "tu avesti osservato",
+                    "tu controllasti",
+                    "tu hai controllato",
+                    "tu avesti controllato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "visit",
+                "traduzioni": [
+                    "lui esaminò",
+                    "lei esaminò",
+                    "egli esaminò",
+                    "lui ha esaminato",
+                    "lei ha esaminato",
+                    "egli ha esaminato",
+                    "lui ebbe esaminato",
+                    "lei ebbe esaminato",
+                    "egli ebbe esaminato",
+                    "lui osservò",
+                    "lei osservò",
+                    "egli osservò",
+                    "lui ha osservato",
+                    "lei ha osservato",
+                    "egli ha osservato",
+                    "lui ebbe osservato",
+                    "lei ebbe osservato",
+                    "egli ebbe osservato",
+                    "lui controllò",
+                    "lei controllò",
+                    "egli controllò",
+                    "lui ha controllato",
+                    "lei ha controllato",
+                    "egli ha controllato",
+                    "lui ebbe controllato",
+                    "lei ebbe controllato",
+                    "egli ebbe controllato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "visĭmus",
+                "traduzioni": [
+                    "noi esaminammo",
+                    "noi abbiamo esaminato",
+                    "noi avemmo esaminato",
+                    "noi osservammo",
+                    "noi abbiamo osservato",
+                    "noi avemmo osservato",
+                    "noi controllammo",
+                    "noi abbiamo controllato",
+                    "noi avemmo controllato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "visistis",
+                "traduzioni": [
+                    "voi esaminaste",
+                    "voi avete esaminato",
+                    "voi aveste esaminato",
+                    "voi osservaste",
+                    "voi avete osservato",
+                    "voi aveste osservato",
+                    "voi controllaste",
+                    "voi avete controllato",
+                    "voi aveste controllato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "visērunt, visēre",
+                "traduzioni": [
+                    "loro esaminarono",
+                    "essi esaminarono",
+                    "loro hanno esaminato",
+                    "essi hanno esaminato",
+                    "loro ebbero esaminato",
+                    "essi ebbero esaminato",
+                    "loro osservarono",
+                    "essi osservarono",
+                    "loro hanno osservato",
+                    "essi hanno osservato",
+                    "loro ebbero osservato",
+                    "essi ebbero osservato",
+                    "loro controllarono",
+                    "essi controllarono",
+                    "loro hanno controllato",
+                    "essi hanno controllato",
+                    "loro ebbero controllato",
+                    "essi ebbero controllato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "visĕram",
+                "traduzioni": [
+                    "io avevo esaminato",
+                    "io avevo osservato",
+                    "io avevo controllato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "visĕras",
+                "traduzioni": [
+                    "tu avevi esaminato",
+                    "tu avevi osservato",
+                    "tu avevi controllato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "visĕrat",
+                "traduzioni": [
+                    "lui aveva esaminato",
+                    "lei aveva esaminato",
+                    "egli aveva esaminato",
+                    "lui aveva osservato",
+                    "lei aveva osservato",
+                    "egli aveva osservato",
+                    "lui aveva controllato",
+                    "lei aveva controllato",
+                    "egli aveva controllato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "viserāmus",
+                "traduzioni": [
+                    "noi avevamo esaminato",
+                    "noi avevamo osservato",
+                    "noi avevamo controllato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "viserātis",
+                "traduzioni": [
+                    "voi avevate esaminato",
+                    "voi avevate osservato",
+                    "voi avevate controllato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "visĕrant",
+                "traduzioni": [
+                    "loro avevano esaminato",
+                    "essi avevano esaminato",
+                    "loro avevano osservato",
+                    "essi avevano osservato",
+                    "loro avevano controllato",
+                    "essi avevano controllato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "visĕro",
+                "traduzioni": [
+                    "io avrò esaminato",
+                    "io avrò osservato",
+                    "io avrò controllato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "visĕris",
+                "traduzioni": [
+                    "tu avrai esaminato",
+                    "tu avrai osservato",
+                    "tu avrai controllato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "visĕrit",
+                "traduzioni": [
+                    "lui avrà esaminato",
+                    "lei avrà esaminato",
+                    "egli avrà esaminato",
+                    "lui avrà osservato",
+                    "lei avrà osservato",
+                    "egli avrà osservato",
+                    "lui avrà controllato",
+                    "lei avrà controllato",
+                    "egli avrà controllato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "viserĭmus",
+                "traduzioni": [
+                    "noi avremo esaminato",
+                    "noi avremo osservato",
+                    "noi avremo controllato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "viserĭtis",
+                "traduzioni": [
+                    "voi avrete esaminato",
+                    "voi avrete osservato",
+                    "voi avrete controllato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "visĕrint",
+                "traduzioni": [
+                    "loro avranno esaminato",
+                    "essi avranno esaminato",
+                    "loro avranno osservato",
+                    "essi avranno osservato",
+                    "loro avranno controllato",
+                    "essi avranno controllato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "vīsam",
+                "traduzioni": [
+                    "che io esamini",
+                    "che io osservi",
+                    "che io controlli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vīsas",
+                "traduzioni": [
+                    "che tu esamini",
+                    "che tu osservi",
+                    "che tu controlli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vīsat",
+                "traduzioni": [
+                    "che lui esamini",
+                    "che lei esamini",
+                    "che egli esamini",
+                    "che lui osservi",
+                    "che lei osservi",
+                    "che egli osservi",
+                    "che lui controlli",
+                    "che lei controlli",
+                    "che egli controlli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vīsāmus",
+                "traduzioni": [
+                    "che noi esaminiamo",
+                    "che noi osserviamo",
+                    "che noi controlliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vīsātis",
+                "traduzioni": [
+                    "che voi esaminiate",
+                    "che voi osserviate",
+                    "che voi controlliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vīsant",
+                "traduzioni": [
+                    "che loro esaminino",
+                    "che essi esaminino",
+                    "che loro osservino",
+                    "che essi osservino",
+                    "che loro controllino",
+                    "che essi controllino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "vīsĕrem",
+                "traduzioni": [
+                    "che io esaminassi",
+                    "che io osservassi",
+                    "che io controllassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vīsĕres",
+                "traduzioni": [
+                    "che tu esaminassi",
+                    "che tu osservassi",
+                    "che tu controllassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vīsĕret",
+                "traduzioni": [
+                    "che lui esaminasse",
+                    "che lei esaminasse",
+                    "che egli esaminasse",
+                    "che lui osservasse",
+                    "che lei osservasse",
+                    "che egli osservasse",
+                    "che lui controllasse",
+                    "che lei controllasse",
+                    "che egli controllasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vīserēmus",
+                "traduzioni": [
+                    "che noi esaminassimo",
+                    "che noi osservassimo",
+                    "che noi controllassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vīserētis",
+                "traduzioni": [
+                    "che voi esaminaste",
+                    "che voi osservaste",
+                    "che voi controllaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vīsĕrent",
+                "traduzioni": [
+                    "che loro esaminassero",
+                    "che essi esaminassero",
+                    "che loro osservassero",
+                    "che essi osservassero",
+                    "che loro controllassero",
+                    "che essi controllassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "visĕrim",
+                "traduzioni": [
+                    "che io abbia esaminato",
+                    "che io abbia osservato",
+                    "che io abbia controllato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "visĕris",
+                "traduzioni": [
+                    "che tu abbia esaminato",
+                    "che tu abbia osservato",
+                    "che tu abbia controllato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "visĕrit",
+                "traduzioni": [
+                    "che lui abbia esaminato",
+                    "che lei abbia esaminato",
+                    "che egli abbia esaminato",
+                    "che lui abbia osservato",
+                    "che lei abbia osservato",
+                    "che egli abbia osservato",
+                    "che lui abbia controllato",
+                    "che lei abbia controllato",
+                    "che egli abbia controllato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "viserĭmus",
+                "traduzioni": [
+                    "che noi abbiamo esaminato",
+                    "che noi abbiamo osservato",
+                    "che noi abbiamo controllato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "viserĭtis",
+                "traduzioni": [
+                    "che voi abbiate esaminato",
+                    "che voi abbiate osservato",
+                    "che voi abbiate controllato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "visĕrint",
+                "traduzioni": [
+                    "che loro abbiano esaminato",
+                    "che essi abbiano esaminato",
+                    "che loro abbiano osservato",
+                    "che essi abbiano osservato",
+                    "che loro abbiano controllato",
+                    "che essi abbiano controllato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "visissem",
+                "traduzioni": [
+                    "che io avessi esaminato",
+                    "che io avessi osservato",
+                    "che io avessi controllato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "visisses",
+                "traduzioni": [
+                    "che tu avessi esaminato",
+                    "che tu avessi osservato",
+                    "che tu avessi controllato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "visisset",
+                "traduzioni": [
+                    "che lui avesse esaminato",
+                    "che lei avesse esaminato",
+                    "che egli avesse esaminato",
+                    "che lui avesse osservato",
+                    "che lei avesse osservato",
+                    "che egli avesse osservato",
+                    "che lui avesse controllato",
+                    "che lei avesse controllato",
+                    "che egli avesse controllato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "visissēmus",
+                "traduzioni": [
+                    "che noi avessimo esaminato",
+                    "che noi avessimo osservato",
+                    "che noi avessimo controllato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "visissētis",
+                "traduzioni": [
+                    "che voi aveste esaminato",
+                    "che voi aveste osservato",
+                    "che voi aveste controllato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "visissent",
+                "traduzioni": [
+                    "che loro avessero esaminato",
+                    "che essi avessero esaminato",
+                    "che loro avessero osservato",
+                    "che essi avessero osservato",
+                    "che loro avessero controllato",
+                    "che essi avessero controllato"
+                ]
+            }
+        ]
+    }
+}

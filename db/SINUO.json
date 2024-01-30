@@ -1,0 +1,723 @@
+{
+    "identifier": "SINUO",
+    "conuigazione": "1",
+    "translation": [
+        "curvare",
+        "incurvare",
+        "scavare",
+        "(del mare) ondeggiare"
+    ],
+    "valid_translations": [
+        "curvare",
+        "incurvare",
+        "scavare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sĭnŭo",
+                "traduzioni": [
+                    "io curvo",
+                    "io incurvo",
+                    "io scavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sĭnŭas",
+                "traduzioni": [
+                    "tu curvi",
+                    "tu incurvi",
+                    "tu scavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sĭnŭat",
+                "traduzioni": [
+                    "lui curva",
+                    "lei curva",
+                    "egli curva",
+                    "lui incurva",
+                    "lei incurva",
+                    "egli incurva",
+                    "lui scava",
+                    "lei scava",
+                    "egli scava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sĭnŭāmus",
+                "traduzioni": [
+                    "noi curviamo",
+                    "noi incurviamo",
+                    "noi scaviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sĭnŭātis",
+                "traduzioni": [
+                    "voi curvate",
+                    "voi incurvate",
+                    "voi scavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sĭnŭant",
+                "traduzioni": [
+                    "loro curvano",
+                    "essi curvano",
+                    "loro incurvano",
+                    "essi incurvano",
+                    "loro scavano",
+                    "essi scavano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sĭnŭābam",
+                "traduzioni": [
+                    "io curvavo",
+                    "io incurvavo",
+                    "io scavavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sĭnŭābas",
+                "traduzioni": [
+                    "tu curvavi",
+                    "tu incurvavi",
+                    "tu scavavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sĭnŭābat",
+                "traduzioni": [
+                    "lui curvava",
+                    "lei curvava",
+                    "egli curvava",
+                    "lui incurvava",
+                    "lei incurvava",
+                    "egli incurvava",
+                    "lui scavava",
+                    "lei scavava",
+                    "egli scavava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sĭnŭabāmus",
+                "traduzioni": [
+                    "noi curvavamo",
+                    "noi incurvavamo",
+                    "noi scavavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sĭnŭabātis",
+                "traduzioni": [
+                    "voi curvavate",
+                    "voi incurvavate",
+                    "voi scavavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sĭnŭābant",
+                "traduzioni": [
+                    "loro curvavano",
+                    "essi curvavano",
+                    "loro incurvavano",
+                    "essi incurvavano",
+                    "loro scavavano",
+                    "essi scavavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sĭnŭābo",
+                "traduzioni": [
+                    "io curverò",
+                    "io incurverò",
+                    "io scaverò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sĭnŭābis",
+                "traduzioni": [
+                    "tu curverai",
+                    "tu incurverai",
+                    "tu scaverai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sĭnŭābit",
+                "traduzioni": [
+                    "lui curverà",
+                    "lei curverà",
+                    "egli curverà",
+                    "lui incurverà",
+                    "lei incurverà",
+                    "egli incurverà",
+                    "lui scaverà",
+                    "lei scaverà",
+                    "egli scaverà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sĭnŭabĭmus",
+                "traduzioni": [
+                    "noi curveremo",
+                    "noi incurveremo",
+                    "noi scaveremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sĭnŭabĭtis",
+                "traduzioni": [
+                    "voi curverete",
+                    "voi incurverete",
+                    "voi scaverete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sĭnŭābunt",
+                "traduzioni": [
+                    "loro curveranno",
+                    "essi curveranno",
+                    "loro incurveranno",
+                    "essi incurveranno",
+                    "loro scaveranno",
+                    "essi scaveranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sinuavi",
+                "traduzioni": [
+                    "io curvai",
+                    "io ho curvato",
+                    "io ebbi curvato",
+                    "io incurvai",
+                    "io ho incurvato",
+                    "io ebbi incurvato",
+                    "io scavai",
+                    "io ho scavato",
+                    "io ebbi scavato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sinuavisti",
+                "traduzioni": [
+                    "tu curvasti",
+                    "tu hai curvato",
+                    "tu avesti curvato",
+                    "tu incurvasti",
+                    "tu hai incurvato",
+                    "tu avesti incurvato",
+                    "tu scavasti",
+                    "tu hai scavato",
+                    "tu avesti scavato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sinuavit",
+                "traduzioni": [
+                    "lui curvò",
+                    "lei curvò",
+                    "egli curvò",
+                    "lui ha curvato",
+                    "lei ha curvato",
+                    "egli ha curvato",
+                    "lui ebbe curvato",
+                    "lei ebbe curvato",
+                    "egli ebbe curvato",
+                    "lui incurvò",
+                    "lei incurvò",
+                    "egli incurvò",
+                    "lui ha incurvato",
+                    "lei ha incurvato",
+                    "egli ha incurvato",
+                    "lui ebbe incurvato",
+                    "lei ebbe incurvato",
+                    "egli ebbe incurvato",
+                    "lui scavò",
+                    "lei scavò",
+                    "egli scavò",
+                    "lui ha scavato",
+                    "lei ha scavato",
+                    "egli ha scavato",
+                    "lui ebbe scavato",
+                    "lei ebbe scavato",
+                    "egli ebbe scavato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sinuavĭmus",
+                "traduzioni": [
+                    "noi curvammo",
+                    "noi abbiamo curvato",
+                    "noi avemmo curvato",
+                    "noi incurvammo",
+                    "noi abbiamo incurvato",
+                    "noi avemmo incurvato",
+                    "noi scavammo",
+                    "noi abbiamo scavato",
+                    "noi avemmo scavato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sinuavistis",
+                "traduzioni": [
+                    "voi curvaste",
+                    "voi avete curvato",
+                    "voi aveste curvato",
+                    "voi incurvaste",
+                    "voi avete incurvato",
+                    "voi aveste incurvato",
+                    "voi scavaste",
+                    "voi avete scavato",
+                    "voi aveste scavato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sinuavērunt, sinuavēre",
+                "traduzioni": [
+                    "loro curvarono",
+                    "essi curvarono",
+                    "loro hanno curvato",
+                    "essi hanno curvato",
+                    "loro ebbero curvato",
+                    "essi ebbero curvato",
+                    "loro incurvarono",
+                    "essi incurvarono",
+                    "loro hanno incurvato",
+                    "essi hanno incurvato",
+                    "loro ebbero incurvato",
+                    "essi ebbero incurvato",
+                    "loro scavarono",
+                    "essi scavarono",
+                    "loro hanno scavato",
+                    "essi hanno scavato",
+                    "loro ebbero scavato",
+                    "essi ebbero scavato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sinuavĕram",
+                "traduzioni": [
+                    "io avevo curvato",
+                    "io avevo incurvato",
+                    "io avevo scavato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sinuavĕras",
+                "traduzioni": [
+                    "tu avevi curvato",
+                    "tu avevi incurvato",
+                    "tu avevi scavato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sinuavĕrat",
+                "traduzioni": [
+                    "lui aveva curvato",
+                    "lei aveva curvato",
+                    "egli aveva curvato",
+                    "lui aveva incurvato",
+                    "lei aveva incurvato",
+                    "egli aveva incurvato",
+                    "lui aveva scavato",
+                    "lei aveva scavato",
+                    "egli aveva scavato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sinuaverāmus",
+                "traduzioni": [
+                    "noi avevamo curvato",
+                    "noi avevamo incurvato",
+                    "noi avevamo scavato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sinuaverātis",
+                "traduzioni": [
+                    "voi avevate curvato",
+                    "voi avevate incurvato",
+                    "voi avevate scavato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sinuavĕrant",
+                "traduzioni": [
+                    "loro avevano curvato",
+                    "essi avevano curvato",
+                    "loro avevano incurvato",
+                    "essi avevano incurvato",
+                    "loro avevano scavato",
+                    "essi avevano scavato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sinuavĕro",
+                "traduzioni": [
+                    "io avrò curvato",
+                    "io avrò incurvato",
+                    "io avrò scavato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sinuavĕris",
+                "traduzioni": [
+                    "tu avrai curvato",
+                    "tu avrai incurvato",
+                    "tu avrai scavato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sinuavĕrit",
+                "traduzioni": [
+                    "lui avrà curvato",
+                    "lei avrà curvato",
+                    "egli avrà curvato",
+                    "lui avrà incurvato",
+                    "lei avrà incurvato",
+                    "egli avrà incurvato",
+                    "lui avrà scavato",
+                    "lei avrà scavato",
+                    "egli avrà scavato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sinuaverĭmus",
+                "traduzioni": [
+                    "noi avremo curvato",
+                    "noi avremo incurvato",
+                    "noi avremo scavato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sinuaverĭtis",
+                "traduzioni": [
+                    "voi avrete curvato",
+                    "voi avrete incurvato",
+                    "voi avrete scavato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sinuavĕrint",
+                "traduzioni": [
+                    "loro avranno curvato",
+                    "essi avranno curvato",
+                    "loro avranno incurvato",
+                    "essi avranno incurvato",
+                    "loro avranno scavato",
+                    "essi avranno scavato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sĭnŭem",
+                "traduzioni": [
+                    "che io curvi",
+                    "che io incurvi",
+                    "che io scavi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sĭnŭes",
+                "traduzioni": [
+                    "che tu curvi",
+                    "che tu incurvi",
+                    "che tu scavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sĭnŭet",
+                "traduzioni": [
+                    "che lui curvi",
+                    "che lei curvi",
+                    "che egli curvi",
+                    "che lui incurvi",
+                    "che lei incurvi",
+                    "che egli incurvi",
+                    "che lui scavi",
+                    "che lei scavi",
+                    "che egli scavi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sĭnŭēmus",
+                "traduzioni": [
+                    "che noi curviamo",
+                    "che noi incurviamo",
+                    "che noi scaviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sĭnŭētis",
+                "traduzioni": [
+                    "che voi curviate",
+                    "che voi incurviate",
+                    "che voi scaviate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sĭnŭent",
+                "traduzioni": [
+                    "che loro curvino",
+                    "che essi curvino",
+                    "che loro incurvino",
+                    "che essi incurvino",
+                    "che loro scavino",
+                    "che essi scavino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sĭnŭārem",
+                "traduzioni": [
+                    "che io curvassi",
+                    "che io incurvassi",
+                    "che io scavassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sĭnŭāres",
+                "traduzioni": [
+                    "che tu curvassi",
+                    "che tu incurvassi",
+                    "che tu scavassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sĭnŭāret",
+                "traduzioni": [
+                    "che lui curvasse",
+                    "che lei curvasse",
+                    "che egli curvasse",
+                    "che lui incurvasse",
+                    "che lei incurvasse",
+                    "che egli incurvasse",
+                    "che lui scavasse",
+                    "che lei scavasse",
+                    "che egli scavasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sĭnŭarēmus",
+                "traduzioni": [
+                    "che noi curvassimo",
+                    "che noi incurvassimo",
+                    "che noi scavassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sĭnŭarētis",
+                "traduzioni": [
+                    "che voi curvaste",
+                    "che voi incurvaste",
+                    "che voi scavaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sĭnŭārent",
+                "traduzioni": [
+                    "che loro curvassero",
+                    "che essi curvassero",
+                    "che loro incurvassero",
+                    "che essi incurvassero",
+                    "che loro scavassero",
+                    "che essi scavassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sinuavĕrim",
+                "traduzioni": [
+                    "che io abbia curvato",
+                    "che io abbia incurvato",
+                    "che io abbia scavato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sinuavĕris",
+                "traduzioni": [
+                    "che tu abbia curvato",
+                    "che tu abbia incurvato",
+                    "che tu abbia scavato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sinuavĕrit",
+                "traduzioni": [
+                    "che lui abbia curvato",
+                    "che lei abbia curvato",
+                    "che egli abbia curvato",
+                    "che lui abbia incurvato",
+                    "che lei abbia incurvato",
+                    "che egli abbia incurvato",
+                    "che lui abbia scavato",
+                    "che lei abbia scavato",
+                    "che egli abbia scavato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sinuaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo curvato",
+                    "che noi abbiamo incurvato",
+                    "che noi abbiamo scavato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sinuaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate curvato",
+                    "che voi abbiate incurvato",
+                    "che voi abbiate scavato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sinuavĕrint",
+                "traduzioni": [
+                    "che loro abbiano curvato",
+                    "che essi abbiano curvato",
+                    "che loro abbiano incurvato",
+                    "che essi abbiano incurvato",
+                    "che loro abbiano scavato",
+                    "che essi abbiano scavato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sinuavissem",
+                "traduzioni": [
+                    "che io avessi curvato",
+                    "che io avessi incurvato",
+                    "che io avessi scavato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sinuavisses",
+                "traduzioni": [
+                    "che tu avessi curvato",
+                    "che tu avessi incurvato",
+                    "che tu avessi scavato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sinuavisset",
+                "traduzioni": [
+                    "che lui avesse curvato",
+                    "che lei avesse curvato",
+                    "che egli avesse curvato",
+                    "che lui avesse incurvato",
+                    "che lei avesse incurvato",
+                    "che egli avesse incurvato",
+                    "che lui avesse scavato",
+                    "che lei avesse scavato",
+                    "che egli avesse scavato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sinuavissēmus",
+                "traduzioni": [
+                    "che noi avessimo curvato",
+                    "che noi avessimo incurvato",
+                    "che noi avessimo scavato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sinuavissētis",
+                "traduzioni": [
+                    "che voi aveste curvato",
+                    "che voi aveste incurvato",
+                    "che voi aveste scavato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sinuavissent",
+                "traduzioni": [
+                    "che loro avessero curvato",
+                    "che essi avessero curvato",
+                    "che loro avessero incurvato",
+                    "che essi avessero incurvato",
+                    "che loro avessero scavato",
+                    "che essi avessero scavato"
+                ]
+            }
+        ]
+    }
+}

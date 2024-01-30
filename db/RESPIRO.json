@@ -1,0 +1,677 @@
+{
+    "identifier": "RESPIRO",
+    "conuigazione": "1",
+    "translation": [
+        "(intransitivo) respirare",
+        "(intransitivo; di cose) rallentare",
+        "restare",
+        "cessare",
+        "del vento) soffiare",
+        "(intransitivo) risuonare",
+        "(transitivo) esalare"
+    ],
+    "valid_translations": [
+        "restare",
+        "cessare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "respīro",
+                "traduzioni": [
+                    "io resto",
+                    "io cesso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "respīras",
+                "traduzioni": [
+                    "tu resti",
+                    "tu cessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "respīrat",
+                "traduzioni": [
+                    "lui resta",
+                    "lei resta",
+                    "egli resta",
+                    "lui cessa",
+                    "lei cessa",
+                    "egli cessa"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "respīrāmus",
+                "traduzioni": [
+                    "noi restiamo",
+                    "noi cessiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "respīrātis",
+                "traduzioni": [
+                    "voi restate",
+                    "voi cessate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "respīrant",
+                "traduzioni": [
+                    "loro restano",
+                    "essi restano",
+                    "loro cessano",
+                    "essi cessano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "respīrābam",
+                "traduzioni": [
+                    "io restavo",
+                    "io cessavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "respīrābas",
+                "traduzioni": [
+                    "tu restavi",
+                    "tu cessavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "respīrābat",
+                "traduzioni": [
+                    "lui restava",
+                    "lei restava",
+                    "egli restava",
+                    "lui cessava",
+                    "lei cessava",
+                    "egli cessava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "respīrabāmus",
+                "traduzioni": [
+                    "noi restavamo",
+                    "noi cessavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "respīrabātis",
+                "traduzioni": [
+                    "voi restavate",
+                    "voi cessavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "respīrābant",
+                "traduzioni": [
+                    "loro restavano",
+                    "essi restavano",
+                    "loro cessavano",
+                    "essi cessavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "respīrābo",
+                "traduzioni": [
+                    "io resterò",
+                    "io cesserò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "respīrābis",
+                "traduzioni": [
+                    "tu resterai",
+                    "tu cesserai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "respīrābit",
+                "traduzioni": [
+                    "lui resterà",
+                    "lei resterà",
+                    "egli resterà",
+                    "lui cesserà",
+                    "lei cesserà",
+                    "egli cesserà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "respīrabĭmus",
+                "traduzioni": [
+                    "noi resteremo",
+                    "noi cesseremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "respīrabĭtis",
+                "traduzioni": [
+                    "voi resterete",
+                    "voi cesserete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "respīrābunt",
+                "traduzioni": [
+                    "loro resteranno",
+                    "essi resteranno",
+                    "loro cesseranno",
+                    "essi cesseranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "respiravi",
+                "traduzioni": [
+                    "io restai",
+                    "io sono restato",
+                    "io sono restata",
+                    "io fui restato",
+                    "io fui restata",
+                    "io cessai",
+                    "io sono cessato",
+                    "io sono cessata",
+                    "io fui cessato",
+                    "io fui cessata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "respiravisti",
+                "traduzioni": [
+                    "tu restasti",
+                    "tu sei restato",
+                    "tu sei restata",
+                    "tu fosti restato",
+                    "tu fosti restata",
+                    "tu cessasti",
+                    "tu sei cessato",
+                    "tu sei cessata",
+                    "tu fosti cessato",
+                    "tu fosti cessata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "respiravit",
+                "traduzioni": [
+                    "lui restò",
+                    "lei restò",
+                    "egli restò",
+                    "lui è restato",
+                    "lei è restata",
+                    "egli è restato",
+                    "lui fu restato",
+                    "lei fu restata",
+                    "egli fu restato",
+                    "lui cessò",
+                    "lei cessò",
+                    "egli cessò",
+                    "lui è cessato",
+                    "lei è cessata",
+                    "egli è cessato",
+                    "lui fu cessato",
+                    "lei fu cessata",
+                    "egli fu cessato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "respiravĭmus",
+                "traduzioni": [
+                    "noi restammo",
+                    "noi siamo restati",
+                    "noi siamo restate",
+                    "noi fummo restati",
+                    "noi fummo restate",
+                    "noi cessammo",
+                    "noi siamo cessati",
+                    "noi siamo cessate",
+                    "noi fummo cessati",
+                    "noi fummo cessate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "respiravistis",
+                "traduzioni": [
+                    "voi restaste",
+                    "voi siete restati",
+                    "voi siete restate",
+                    "voi foste restati",
+                    "voi foste restate",
+                    "voi cessaste",
+                    "voi siete cessati",
+                    "voi siete cessate",
+                    "voi foste cessati",
+                    "voi foste cessate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "respiravēreunt, respiravēre",
+                "traduzioni": [
+                    "loro restarono",
+                    "essi restarono",
+                    "loro sono restati",
+                    "loro sono restate",
+                    "essi sono restati",
+                    "loro furono restati",
+                    "loro furono restate",
+                    "essi furono restati",
+                    "loro cessarono",
+                    "essi cessarono",
+                    "loro sono cessati",
+                    "loro sono cessate",
+                    "essi sono cessati",
+                    "loro furono cessati",
+                    "loro furono cessate",
+                    "essi furono cessati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "respiravĕram",
+                "traduzioni": [
+                    "io ero restato",
+                    "io ero restata",
+                    "io ero cessato",
+                    "io ero cessata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "respiravĕras",
+                "traduzioni": [
+                    "tu eri restato",
+                    "tu eri restata",
+                    "tu eri cessato",
+                    "tu eri cessata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "respiravĕrat",
+                "traduzioni": [
+                    "lui era restato",
+                    "lei era restata",
+                    "egli era restato",
+                    "lui era cessato",
+                    "lei era cessata",
+                    "egli era cessato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "respiraverāmus",
+                "traduzioni": [
+                    "noi eravamo restati",
+                    "noi eravamo restate",
+                    "noi eravamo cessati",
+                    "noi eravamo cessate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "respiraverātis",
+                "traduzioni": [
+                    "voi eravate restati",
+                    "voi eravate restate",
+                    "voi eravate cessati",
+                    "voi eravate cessate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "respiravĕrant",
+                "traduzioni": [
+                    "loro erano restati",
+                    "loro erano restate",
+                    "essi erano restati",
+                    "loro erano cessati",
+                    "loro erano cessate",
+                    "essi erano cessati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "respiravĕro",
+                "traduzioni": [
+                    "io sarò restato",
+                    "io sarò restata",
+                    "io sarò cessato",
+                    "io sarò cessata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "respiravĕris",
+                "traduzioni": [
+                    "tu sarai restato",
+                    "tu sarai restata",
+                    "tu sarai cessato",
+                    "tu sarai cessata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "respiravĕrit",
+                "traduzioni": [
+                    "lui sarà restato",
+                    "lei sarà restata",
+                    "egli sarà restato",
+                    "lui sarà cessato",
+                    "lei sarà cessata",
+                    "egli sarà cessato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "respiraverĭmus",
+                "traduzioni": [
+                    "noi saremo restati",
+                    "noi saremo restate",
+                    "noi saremo cessati",
+                    "noi saremo cessate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "respiraverĭtis",
+                "traduzioni": [
+                    "voi sarete restati",
+                    "voi sarete restate",
+                    "voi sarete cessati",
+                    "voi sarete cessate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "respiravĕrint",
+                "traduzioni": [
+                    "loro saranno restati",
+                    "loro saranno restate",
+                    "essi saranno restati",
+                    "loro saranno cessati",
+                    "loro saranno cessate",
+                    "essi saranno cessati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "respīrem",
+                "traduzioni": [
+                    "che io resti",
+                    "che io cessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "respīres",
+                "traduzioni": [
+                    "che tu resti",
+                    "che tu cessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "respīret",
+                "traduzioni": [
+                    "che lui resti",
+                    "che lei resti",
+                    "che egli resti",
+                    "che lui cessi",
+                    "che lei cessi",
+                    "che egli cessi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "respīrēmus",
+                "traduzioni": [
+                    "che noi restiamo",
+                    "che noi cessiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "respīrētis",
+                "traduzioni": [
+                    "che voi restiate",
+                    "che voi cessiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "respīrent",
+                "traduzioni": [
+                    "che loro restino",
+                    "che essi restino",
+                    "che loro cessino",
+                    "che essi cessino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "respīrārem",
+                "traduzioni": [
+                    "che io restassi",
+                    "che io cessassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "respīrāres",
+                "traduzioni": [
+                    "che tu restassi",
+                    "che tu cessassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "respīrāret",
+                "traduzioni": [
+                    "che lui restasse",
+                    "che lei restasse",
+                    "che egli restasse",
+                    "che lui cessasse",
+                    "che lei cessasse",
+                    "che egli cessasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "respīrarēmus",
+                "traduzioni": [
+                    "che noi restassimo",
+                    "che noi cessassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "respīrarētis",
+                "traduzioni": [
+                    "che voi restaste",
+                    "che voi cessaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "respīrārent",
+                "traduzioni": [
+                    "che loro restassero",
+                    "che essi restassero",
+                    "che loro cessassero",
+                    "che essi cessassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "respiravĕrim",
+                "traduzioni": [
+                    "che io sia restato",
+                    "che io sia restata",
+                    "che io sia cessato",
+                    "che io sia cessata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "respiravĕris",
+                "traduzioni": [
+                    "che tu sia restato",
+                    "che tu sia restata",
+                    "che tu sia cessato",
+                    "che tu sia cessata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "respiravĕrit",
+                "traduzioni": [
+                    "che lui sia restato",
+                    "che lei sia restata",
+                    "che egli sia restato",
+                    "che lui sia cessato",
+                    "che lei sia cessata",
+                    "che egli sia cessato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "respiraverĭmus",
+                "traduzioni": [
+                    "che noi siamo restati",
+                    "che noi siamo restate",
+                    "che noi siamo cessati",
+                    "che noi siamo cessate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "respiraverĭtis",
+                "traduzioni": [
+                    "che voi siate restati",
+                    "che voi siate restate",
+                    "che voi siate cessati",
+                    "che voi siate cessate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "respiravĕrint",
+                "traduzioni": [
+                    "che loro siano restati",
+                    "che loro siano restate",
+                    "che essi siano restati",
+                    "che loro siano cessati",
+                    "che loro siano cessate",
+                    "che essi siano cessati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "respiravissem",
+                "traduzioni": [
+                    "che io fossi restato",
+                    "che io fossi restata",
+                    "che io fossi cessato",
+                    "che io fossi cessata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "respiravisses",
+                "traduzioni": [
+                    "che tu fossi restato",
+                    "che tu fossi restata",
+                    "che tu fossi cessato",
+                    "che tu fossi cessata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "respiravisset",
+                "traduzioni": [
+                    "che lui fosse restato",
+                    "che lei fosse restata",
+                    "che egli fosse restato",
+                    "che lui fosse cessato",
+                    "che lei fosse cessata",
+                    "che egli fosse cessato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "respiravissēmus",
+                "traduzioni": [
+                    "che noi fossimo restati",
+                    "che noi fossimo restate",
+                    "che noi fossimo cessati",
+                    "che noi fossimo cessate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "respiravissētis",
+                "traduzioni": [
+                    "che voi foste restati",
+                    "che voi foste restate",
+                    "che voi foste cessati",
+                    "che voi foste cessate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "respiravissent",
+                "traduzioni": [
+                    "che loro fossero restati",
+                    "che loro fossero restate",
+                    "che essi fossero restati",
+                    "che loro fossero cessati",
+                    "che loro fossero cessate",
+                    "che essi fossero cessati"
+                ]
+            }
+        ]
+    }
+}

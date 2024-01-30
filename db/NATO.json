@@ -1,0 +1,727 @@
+{
+    "identifier": "NATO",
+    "conuigazione": "1",
+    "translation": [
+        "(intransitivo) nuotare",
+        "(intransitivo) navigare",
+        "galleggiare",
+        "(intransitivo; spesso + ablativo) traboccare",
+        "(intransitivo; poetico) ondeggiare",
+        "fluttuare",
+        "(intransitivo; in senso figurato) vacillare",
+        "oscillare"
+    ],
+    "valid_translations": [
+        "galleggiare",
+        "fluttuare",
+        "oscillare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "năto",
+                "traduzioni": [
+                    "io galleggio",
+                    "io fluttuo",
+                    "io oscillo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nătas",
+                "traduzioni": [
+                    "tu galleggi",
+                    "tu fluttui",
+                    "tu oscilli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nătat",
+                "traduzioni": [
+                    "lui galleggia",
+                    "lei galleggia",
+                    "egli galleggia",
+                    "lui fluttua",
+                    "lei fluttua",
+                    "egli fluttua",
+                    "lui oscilla",
+                    "lei oscilla",
+                    "egli oscilla"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nătāmus",
+                "traduzioni": [
+                    "noi galleggiamo",
+                    "noi fluttuiamo",
+                    "noi oscilliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nătātis",
+                "traduzioni": [
+                    "voi galleggiate",
+                    "voi fluttuate",
+                    "voi oscillate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nătant",
+                "traduzioni": [
+                    "loro galleggiano",
+                    "essi galleggiano",
+                    "loro fluttuano",
+                    "essi fluttuano",
+                    "loro oscillano",
+                    "essi oscillano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "nătābam",
+                "traduzioni": [
+                    "io galleggiavo",
+                    "io fluttuavo",
+                    "io oscillavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nătābas",
+                "traduzioni": [
+                    "tu galleggiavi",
+                    "tu fluttuavi",
+                    "tu oscillavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nătābat",
+                "traduzioni": [
+                    "lui galleggiava",
+                    "lei galleggiava",
+                    "egli galleggiava",
+                    "lui fluttuava",
+                    "lei fluttuava",
+                    "egli fluttuava",
+                    "lui oscillava",
+                    "lei oscillava",
+                    "egli oscillava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nătabāmus",
+                "traduzioni": [
+                    "noi galleggiavamo",
+                    "noi fluttuavamo",
+                    "noi oscillavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nătabātis",
+                "traduzioni": [
+                    "voi galleggiavate",
+                    "voi fluttuavate",
+                    "voi oscillavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nătābant",
+                "traduzioni": [
+                    "loro galleggiavano",
+                    "essi galleggiavano",
+                    "loro fluttuavano",
+                    "essi fluttuavano",
+                    "loro oscillavano",
+                    "essi oscillavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "nătābo",
+                "traduzioni": [
+                    "io galleggerò",
+                    "io fluttuerò",
+                    "io oscillerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nătābis",
+                "traduzioni": [
+                    "tu galleggerai",
+                    "tu fluttuerai",
+                    "tu oscillerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nătābit",
+                "traduzioni": [
+                    "lui galleggerà",
+                    "lei galleggerà",
+                    "egli galleggerà",
+                    "lui fluttuerà",
+                    "lei fluttuerà",
+                    "egli fluttuerà",
+                    "lui oscillerà",
+                    "lei oscillerà",
+                    "egli oscillerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nătabĭmus",
+                "traduzioni": [
+                    "noi galleggeremo",
+                    "noi fluttueremo",
+                    "noi oscilleremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nătabĭtis",
+                "traduzioni": [
+                    "voi galleggerete",
+                    "voi fluttuerete",
+                    "voi oscillerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nătābunt",
+                "traduzioni": [
+                    "loro galleggeranno",
+                    "essi galleggeranno",
+                    "loro fluttueranno",
+                    "essi fluttueranno",
+                    "loro oscilleranno",
+                    "essi oscilleranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "natavi",
+                "traduzioni": [
+                    "io galleggiai",
+                    "io ho galleggiato",
+                    "io ebbi galleggiato",
+                    "io fluttuai",
+                    "io ho fluttuato",
+                    "io ebbi fluttuato",
+                    "io oscillai",
+                    "io ho oscillato",
+                    "io ebbi oscillato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "natavisti",
+                "traduzioni": [
+                    "tu galleggiasti",
+                    "tu hai galleggiato",
+                    "tu avesti galleggiato",
+                    "tu fluttuasti",
+                    "tu hai fluttuato",
+                    "tu avesti fluttuato",
+                    "tu oscillasti",
+                    "tu hai oscillato",
+                    "tu avesti oscillato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "natavit",
+                "traduzioni": [
+                    "lui galleggiò",
+                    "lei galleggiò",
+                    "egli galleggiò",
+                    "lui ha galleggiato",
+                    "lei ha galleggiato",
+                    "egli ha galleggiato",
+                    "lui ebbe galleggiato",
+                    "lei ebbe galleggiato",
+                    "egli ebbe galleggiato",
+                    "lui fluttuò",
+                    "lei fluttuò",
+                    "egli fluttuò",
+                    "lui ha fluttuato",
+                    "lei ha fluttuato",
+                    "egli ha fluttuato",
+                    "lui ebbe fluttuato",
+                    "lei ebbe fluttuato",
+                    "egli ebbe fluttuato",
+                    "lui oscillò",
+                    "lei oscillò",
+                    "egli oscillò",
+                    "lui ha oscillato",
+                    "lei ha oscillato",
+                    "egli ha oscillato",
+                    "lui ebbe oscillato",
+                    "lei ebbe oscillato",
+                    "egli ebbe oscillato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "natavĭmus",
+                "traduzioni": [
+                    "noi galleggiammo",
+                    "noi abbiamo galleggiato",
+                    "noi avemmo galleggiato",
+                    "noi fluttuammo",
+                    "noi abbiamo fluttuato",
+                    "noi avemmo fluttuato",
+                    "noi oscillammo",
+                    "noi abbiamo oscillato",
+                    "noi avemmo oscillato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "natavistis",
+                "traduzioni": [
+                    "voi galleggiaste",
+                    "voi avete galleggiato",
+                    "voi aveste galleggiato",
+                    "voi fluttuaste",
+                    "voi avete fluttuato",
+                    "voi aveste fluttuato",
+                    "voi oscillaste",
+                    "voi avete oscillato",
+                    "voi aveste oscillato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "natavēreunt, natavēre",
+                "traduzioni": [
+                    "loro galleggiarono",
+                    "essi galleggiarono",
+                    "loro hanno galleggiato",
+                    "essi hanno galleggiato",
+                    "loro ebbero galleggiato",
+                    "essi ebbero galleggiato",
+                    "loro fluttuarono",
+                    "essi fluttuarono",
+                    "loro hanno fluttuato",
+                    "essi hanno fluttuato",
+                    "loro ebbero fluttuato",
+                    "essi ebbero fluttuato",
+                    "loro oscillarono",
+                    "essi oscillarono",
+                    "loro hanno oscillato",
+                    "essi hanno oscillato",
+                    "loro ebbero oscillato",
+                    "essi ebbero oscillato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "natavĕram",
+                "traduzioni": [
+                    "io avevo galleggiato",
+                    "io avevo fluttuato",
+                    "io avevo oscillato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "natavĕras",
+                "traduzioni": [
+                    "tu avevi galleggiato",
+                    "tu avevi fluttuato",
+                    "tu avevi oscillato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "natavĕrat",
+                "traduzioni": [
+                    "lui aveva galleggiato",
+                    "lei aveva galleggiato",
+                    "egli aveva galleggiato",
+                    "lui aveva fluttuato",
+                    "lei aveva fluttuato",
+                    "egli aveva fluttuato",
+                    "lui aveva oscillato",
+                    "lei aveva oscillato",
+                    "egli aveva oscillato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nataverāmus",
+                "traduzioni": [
+                    "noi avevamo galleggiato",
+                    "noi avevamo fluttuato",
+                    "noi avevamo oscillato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nataverātis",
+                "traduzioni": [
+                    "voi avevate galleggiato",
+                    "voi avevate fluttuato",
+                    "voi avevate oscillato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "natavĕrant",
+                "traduzioni": [
+                    "loro avevano galleggiato",
+                    "essi avevano galleggiato",
+                    "loro avevano fluttuato",
+                    "essi avevano fluttuato",
+                    "loro avevano oscillato",
+                    "essi avevano oscillato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "natavĕro",
+                "traduzioni": [
+                    "io avrò galleggiato",
+                    "io avrò fluttuato",
+                    "io avrò oscillato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "natavĕris",
+                "traduzioni": [
+                    "tu avrai galleggiato",
+                    "tu avrai fluttuato",
+                    "tu avrai oscillato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "natavĕrit",
+                "traduzioni": [
+                    "lui avrà galleggiato",
+                    "lei avrà galleggiato",
+                    "egli avrà galleggiato",
+                    "lui avrà fluttuato",
+                    "lei avrà fluttuato",
+                    "egli avrà fluttuato",
+                    "lui avrà oscillato",
+                    "lei avrà oscillato",
+                    "egli avrà oscillato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nataverĭmus",
+                "traduzioni": [
+                    "noi avremo galleggiato",
+                    "noi avremo fluttuato",
+                    "noi avremo oscillato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nataverĭtis",
+                "traduzioni": [
+                    "voi avrete galleggiato",
+                    "voi avrete fluttuato",
+                    "voi avrete oscillato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "natavĕrint",
+                "traduzioni": [
+                    "loro avranno galleggiato",
+                    "essi avranno galleggiato",
+                    "loro avranno fluttuato",
+                    "essi avranno fluttuato",
+                    "loro avranno oscillato",
+                    "essi avranno oscillato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "nătem",
+                "traduzioni": [
+                    "che io galleggi",
+                    "che io fluttui",
+                    "che io oscilli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nătes",
+                "traduzioni": [
+                    "che tu galleggi",
+                    "che tu fluttui",
+                    "che tu oscilli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nătet",
+                "traduzioni": [
+                    "che lui galleggi",
+                    "che lei galleggi",
+                    "che egli galleggi",
+                    "che lui fluttui",
+                    "che lei fluttui",
+                    "che egli fluttui",
+                    "che lui oscilli",
+                    "che lei oscilli",
+                    "che egli oscilli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nătēmus",
+                "traduzioni": [
+                    "che noi galleggiamo",
+                    "che noi fluttuiamo",
+                    "che noi oscilliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nătētis",
+                "traduzioni": [
+                    "che voi galleggiate",
+                    "che voi fluttuiate",
+                    "che voi oscilliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nătent",
+                "traduzioni": [
+                    "che loro galleggino",
+                    "che essi galleggino",
+                    "che loro fluttuino",
+                    "che essi fluttuino",
+                    "che loro oscillino",
+                    "che essi oscillino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "nătārem",
+                "traduzioni": [
+                    "che io galleggiassi",
+                    "che io fluttuassi",
+                    "che io oscillassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nătāres",
+                "traduzioni": [
+                    "che tu galleggiassi",
+                    "che tu fluttuassi",
+                    "che tu oscillassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nătāret",
+                "traduzioni": [
+                    "che lui galleggiasse",
+                    "che lei galleggiasse",
+                    "che egli galleggiasse",
+                    "che lui fluttuasse",
+                    "che lei fluttuasse",
+                    "che egli fluttuasse",
+                    "che lui oscillasse",
+                    "che lei oscillasse",
+                    "che egli oscillasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nătarēmus",
+                "traduzioni": [
+                    "che noi galleggiassimo",
+                    "che noi fluttuassimo",
+                    "che noi oscillassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nătarētis",
+                "traduzioni": [
+                    "che voi galleggiaste",
+                    "che voi fluttuaste",
+                    "che voi oscillaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nătārent",
+                "traduzioni": [
+                    "che loro galleggiassero",
+                    "che essi galleggiassero",
+                    "che loro fluttuassero",
+                    "che essi fluttuassero",
+                    "che loro oscillassero",
+                    "che essi oscillassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "natavĕrim",
+                "traduzioni": [
+                    "che io abbia galleggiato",
+                    "che io abbia fluttuato",
+                    "che io abbia oscillato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "natavĕris",
+                "traduzioni": [
+                    "che tu abbia galleggiato",
+                    "che tu abbia fluttuato",
+                    "che tu abbia oscillato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "natavĕrit",
+                "traduzioni": [
+                    "che lui abbia galleggiato",
+                    "che lei abbia galleggiato",
+                    "che egli abbia galleggiato",
+                    "che lui abbia fluttuato",
+                    "che lei abbia fluttuato",
+                    "che egli abbia fluttuato",
+                    "che lui abbia oscillato",
+                    "che lei abbia oscillato",
+                    "che egli abbia oscillato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nataverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo galleggiato",
+                    "che noi abbiamo fluttuato",
+                    "che noi abbiamo oscillato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nataverĭtis",
+                "traduzioni": [
+                    "che voi abbiate galleggiato",
+                    "che voi abbiate fluttuato",
+                    "che voi abbiate oscillato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "natavĕrint",
+                "traduzioni": [
+                    "che loro abbiano galleggiato",
+                    "che essi abbiano galleggiato",
+                    "che loro abbiano fluttuato",
+                    "che essi abbiano fluttuato",
+                    "che loro abbiano oscillato",
+                    "che essi abbiano oscillato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "natavissem",
+                "traduzioni": [
+                    "che io avessi galleggiato",
+                    "che io avessi fluttuato",
+                    "che io avessi oscillato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "natavisses",
+                "traduzioni": [
+                    "che tu avessi galleggiato",
+                    "che tu avessi fluttuato",
+                    "che tu avessi oscillato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "natavisset",
+                "traduzioni": [
+                    "che lui avesse galleggiato",
+                    "che lei avesse galleggiato",
+                    "che egli avesse galleggiato",
+                    "che lui avesse fluttuato",
+                    "che lei avesse fluttuato",
+                    "che egli avesse fluttuato",
+                    "che lui avesse oscillato",
+                    "che lei avesse oscillato",
+                    "che egli avesse oscillato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "natavissēmus",
+                "traduzioni": [
+                    "che noi avessimo galleggiato",
+                    "che noi avessimo fluttuato",
+                    "che noi avessimo oscillato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "natavissētis",
+                "traduzioni": [
+                    "che voi aveste galleggiato",
+                    "che voi aveste fluttuato",
+                    "che voi aveste oscillato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "natavissent",
+                "traduzioni": [
+                    "che loro avessero galleggiato",
+                    "che essi avessero galleggiato",
+                    "che loro avessero fluttuato",
+                    "che essi avessero fluttuato",
+                    "che loro avessero oscillato",
+                    "che essi avessero oscillato"
+                ]
+            }
+        ]
+    }
+}

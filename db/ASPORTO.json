@@ -1,0 +1,612 @@
+{
+    "identifier": "ASPORTO",
+    "conuigazione": "1",
+    "translation": [
+        "asportare",
+        "rimuovere"
+    ],
+    "valid_translations": [
+        "asportare",
+        "rimuovere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "asporto",
+                "traduzioni": [
+                    "io asporto",
+                    "io rimuovo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "asportas",
+                "traduzioni": [
+                    "tu asporti",
+                    "tu rimuovi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "asportat",
+                "traduzioni": [
+                    "lui asporta",
+                    "lei asporta",
+                    "egli asporta",
+                    "lui rimuove",
+                    "lei rimuove",
+                    "egli rimuove"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "asportāmus",
+                "traduzioni": [
+                    "noi asportiamo",
+                    "noi rim(u)oviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "asportātis",
+                "traduzioni": [
+                    "voi asportate",
+                    "voi rim(u)ovete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "asportant",
+                "traduzioni": [
+                    "loro asportano",
+                    "essi asportano",
+                    "loro rimuovono",
+                    "essi rimuovono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "asportābam",
+                "traduzioni": [
+                    "io asportavo",
+                    "io rim(u)ovevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "asportābas",
+                "traduzioni": [
+                    "tu asportavi",
+                    "tu rim(u)ovevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "asportābat",
+                "traduzioni": [
+                    "lui asportava",
+                    "lei asportava",
+                    "egli asportava",
+                    "lui rim(u)oveva",
+                    "lei rim(u)oveva",
+                    "egli rim(u)oveva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "asportabāmus",
+                "traduzioni": [
+                    "noi asportavamo",
+                    "noi rim(u)ovevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "asportabātis",
+                "traduzioni": [
+                    "voi asportavate",
+                    "voi rim(u)ovevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "asportābant",
+                "traduzioni": [
+                    "loro asportavano",
+                    "essi asportavano",
+                    "loro rim(u)ovevano",
+                    "essi rim(u)ovevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "asportābo",
+                "traduzioni": [
+                    "io asporterò",
+                    "io rim(u)overò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "asportābis",
+                "traduzioni": [
+                    "tu asporterai",
+                    "tu rim(u)overai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "asportābit",
+                "traduzioni": [
+                    "lui asporterà",
+                    "lei asporterà",
+                    "egli asporterà",
+                    "lui rim(u)overà",
+                    "lei rim(u)overà",
+                    "egli rim(u)overà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "asportabĭmus",
+                "traduzioni": [
+                    "noi asporteremo",
+                    "noi rim(u)overemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "asportabĭtis",
+                "traduzioni": [
+                    "voi asporterete",
+                    "voi rim(u)overete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "asportābunt",
+                "traduzioni": [
+                    "loro asporteranno",
+                    "essi asporteranno",
+                    "loro rim(u)overanno",
+                    "essi rim(u)overanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "asportavi",
+                "traduzioni": [
+                    "io asportai",
+                    "io ho asportato",
+                    "io ebbi asportato",
+                    "io rimossi",
+                    "io ho rimosso",
+                    "io ebbi rimosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "asportavisti",
+                "traduzioni": [
+                    "tu asportasti",
+                    "tu hai asportato",
+                    "tu avesti asportato",
+                    "tu rim(u)ovesti",
+                    "tu hai rimosso",
+                    "tu avesti rimosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "asportavit",
+                "traduzioni": [
+                    "lui asportò",
+                    "lei asportò",
+                    "egli asportò",
+                    "lui ha asportato",
+                    "lei ha asportato",
+                    "egli ha asportato",
+                    "lui ebbe asportato",
+                    "lei ebbe asportato",
+                    "egli ebbe asportato",
+                    "lui rimosse",
+                    "lei rimosse",
+                    "egli rimosse",
+                    "lui ha rimosso",
+                    "lei ha rimosso",
+                    "egli ha rimosso",
+                    "lui ebbe rimosso",
+                    "lei ebbe rimosso",
+                    "egli ebbe rimosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "asportavĭmus",
+                "traduzioni": [
+                    "noi asportammo",
+                    "noi abbiamo asportato",
+                    "noi avemmo asportato",
+                    "noi rim(u)ovemmo",
+                    "noi abbiamo rimosso",
+                    "noi avemmo rimosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "asportavistis",
+                "traduzioni": [
+                    "voi asportaste",
+                    "voi avete asportato",
+                    "voi aveste asportato",
+                    "voi rim(u)oveste",
+                    "voi avete rimosso",
+                    "voi aveste rimosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "asportavērunt, asportavēre",
+                "traduzioni": [
+                    "loro asportarono",
+                    "essi asportarono",
+                    "loro hanno asportato",
+                    "essi hanno asportato",
+                    "loro ebbero asportato",
+                    "essi ebbero asportato",
+                    "loro rimossero",
+                    "essi rimossero",
+                    "loro hanno rimosso",
+                    "essi hanno rimosso",
+                    "loro ebbero rimosso",
+                    "essi ebbero rimosso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "asportavĕram",
+                "traduzioni": [
+                    "io avevo asportato",
+                    "io avevo rimosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "asportavĕras",
+                "traduzioni": [
+                    "tu avevi asportato",
+                    "tu avevi rimosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "asportavĕrat",
+                "traduzioni": [
+                    "lui aveva asportato",
+                    "lei aveva asportato",
+                    "egli aveva asportato",
+                    "lui aveva rimosso",
+                    "lei aveva rimosso",
+                    "egli aveva rimosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "asportaverāmus",
+                "traduzioni": [
+                    "noi avevamo asportato",
+                    "noi avevamo rimosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "asportaverātis",
+                "traduzioni": [
+                    "voi avevate asportato",
+                    "voi avevate rimosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "asportavĕrant",
+                "traduzioni": [
+                    "loro avevano asportato",
+                    "essi avevano asportato",
+                    "loro avevano rimosso",
+                    "essi avevano rimosso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "asportavĕro",
+                "traduzioni": [
+                    "io avrò asportato",
+                    "io avrò rimosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "asportavĕris",
+                "traduzioni": [
+                    "tu avrai asportato",
+                    "tu avrai rimosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "asportavĕrit",
+                "traduzioni": [
+                    "lui avrà asportato",
+                    "lei avrà asportato",
+                    "egli avrà asportato",
+                    "lui avrà rimosso",
+                    "lei avrà rimosso",
+                    "egli avrà rimosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "asportaverĭmus",
+                "traduzioni": [
+                    "noi avremo asportato",
+                    "noi avremo rimosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "asportaverĭtis",
+                "traduzioni": [
+                    "voi avrete asportato",
+                    "voi avrete rimosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "asportavĕrint",
+                "traduzioni": [
+                    "loro avranno asportato",
+                    "essi avranno asportato",
+                    "loro avranno rimosso",
+                    "essi avranno rimosso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "asportem",
+                "traduzioni": [
+                    "che io asporti",
+                    "che io rimuova"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "asportes",
+                "traduzioni": [
+                    "che tu asporti",
+                    "che tu rimuova"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "asportet",
+                "traduzioni": [
+                    "che lui asporti",
+                    "che lei asporti",
+                    "che egli asporti",
+                    "che lui rimuova",
+                    "che lei rimuova",
+                    "che egli rimuova"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "asportēmus",
+                "traduzioni": [
+                    "che noi asportiamo",
+                    "che noi rim(u)oviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "asportētis",
+                "traduzioni": [
+                    "che voi asportiate",
+                    "che voi rim(u)oviate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "asportent",
+                "traduzioni": [
+                    "che loro asportino",
+                    "che essi asportino",
+                    "che loro rimuovano",
+                    "che essi rimuovano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "asportārem",
+                "traduzioni": [
+                    "che io asportassi",
+                    "che io rim(u)ovessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "asportāres",
+                "traduzioni": [
+                    "che tu asportassi",
+                    "che tu rim(u)ovessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "asportāret",
+                "traduzioni": [
+                    "che lui asportasse",
+                    "che lei asportasse",
+                    "che egli asportasse",
+                    "che lui rim(u)ovesse",
+                    "che lei rim(u)ovesse",
+                    "che egli rim(u)ovesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "asportarēmus",
+                "traduzioni": [
+                    "che noi asportassimo",
+                    "che noi rim(u)ovessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "asportarētis",
+                "traduzioni": [
+                    "che voi asportaste",
+                    "che voi rim(u)oveste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "asportārent",
+                "traduzioni": [
+                    "che loro asportassero",
+                    "che essi asportassero",
+                    "che loro rim(u)ovessero",
+                    "che essi rim(u)ovessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "asportavĕrim",
+                "traduzioni": [
+                    "che io abbia asportato",
+                    "che io abbia rimosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "asportavĕris",
+                "traduzioni": [
+                    "che tu abbia asportato",
+                    "che tu abbia rimosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "asportavĕrit",
+                "traduzioni": [
+                    "che lui abbia asportato",
+                    "che lei abbia asportato",
+                    "che egli abbia asportato",
+                    "che lui abbia rimosso",
+                    "che lei abbia rimosso",
+                    "che egli abbia rimosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "asportaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo asportato",
+                    "che noi abbiamo rimosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "asportaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate asportato",
+                    "che voi abbiate rimosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "asportavĕrint",
+                "traduzioni": [
+                    "che loro abbiano asportato",
+                    "che essi abbiano asportato",
+                    "che loro abbiano rimosso",
+                    "che essi abbiano rimosso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "asportavissem",
+                "traduzioni": [
+                    "che io avessi asportato",
+                    "che io avessi rimosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "asportavisses",
+                "traduzioni": [
+                    "che tu avessi asportato",
+                    "che tu avessi rimosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "asportavisset",
+                "traduzioni": [
+                    "che lui avesse asportato",
+                    "che lei avesse asportato",
+                    "che egli avesse asportato",
+                    "che lui avesse rimosso",
+                    "che lei avesse rimosso",
+                    "che egli avesse rimosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "asportavissēmus",
+                "traduzioni": [
+                    "che noi avessimo asportato",
+                    "che noi avessimo rimosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "asportavissētis",
+                "traduzioni": [
+                    "che voi aveste asportato",
+                    "che voi aveste rimosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "asportavissent",
+                "traduzioni": [
+                    "che loro avessero asportato",
+                    "che essi avessero asportato",
+                    "che loro avessero rimosso",
+                    "che essi avessero rimosso"
+                ]
+            }
+        ]
+    }
+}

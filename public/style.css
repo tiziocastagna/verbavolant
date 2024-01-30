@@ -11,8 +11,11 @@ body {
 }
 
 p {
-    margin: 10px 0;
-    
+    margin: 10px 0;    
+}
+
+ul {
+    overflow: none;
 }
 
 #center_div {

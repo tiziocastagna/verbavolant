@@ -1,0 +1,502 @@
+{
+    "identifier": "DESPONSO",
+    "conuigazione": "1",
+    "translation": [
+        "fidanzare"
+    ],
+    "valid_translations": [
+        "fidanzare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "desponso",
+                "traduzioni": [
+                    "io fidanzo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "desponsas",
+                "traduzioni": [
+                    "tu fidanzi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "desponsat",
+                "traduzioni": [
+                    "lui fidanza",
+                    "lei fidanza",
+                    "egli fidanza"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "desponsāmus",
+                "traduzioni": [
+                    "noi fidanziamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "desponsātis",
+                "traduzioni": [
+                    "voi fidanzate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "desponsant",
+                "traduzioni": [
+                    "loro fidanzano",
+                    "essi fidanzano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "desponsābam",
+                "traduzioni": [
+                    "io fidanzavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "desponsābas",
+                "traduzioni": [
+                    "tu fidanzavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "desponsābat",
+                "traduzioni": [
+                    "lui fidanzava",
+                    "lei fidanzava",
+                    "egli fidanzava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "desponsabāmus",
+                "traduzioni": [
+                    "noi fidanzavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "desponsabātis",
+                "traduzioni": [
+                    "voi fidanzavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "desponsābant",
+                "traduzioni": [
+                    "loro fidanzavano",
+                    "essi fidanzavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "desponsābo",
+                "traduzioni": [
+                    "io fidanzerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "desponsābis",
+                "traduzioni": [
+                    "tu fidanzerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "desponsābit",
+                "traduzioni": [
+                    "lui fidanzerà",
+                    "lei fidanzerà",
+                    "egli fidanzerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "desponsabĭmus",
+                "traduzioni": [
+                    "noi fidanzeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "desponsabĭtis",
+                "traduzioni": [
+                    "voi fidanzerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "desponsābunt",
+                "traduzioni": [
+                    "loro fidanzeranno",
+                    "essi fidanzeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "desponsavi",
+                "traduzioni": [
+                    "io fidanzai",
+                    "io ho fidanzato",
+                    "io ebbi fidanzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "desponsavisti",
+                "traduzioni": [
+                    "tu fidanzasti",
+                    "tu hai fidanzato",
+                    "tu avesti fidanzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "desponsavit",
+                "traduzioni": [
+                    "lui fidanzò",
+                    "lei fidanzò",
+                    "egli fidanzò",
+                    "lui ha fidanzato",
+                    "lei ha fidanzato",
+                    "egli ha fidanzato",
+                    "lui ebbe fidanzato",
+                    "lei ebbe fidanzato",
+                    "egli ebbe fidanzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "desponsavĭmus",
+                "traduzioni": [
+                    "noi fidanzammo",
+                    "noi abbiamo fidanzato",
+                    "noi avemmo fidanzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "desponsavistis",
+                "traduzioni": [
+                    "voi fidanzaste",
+                    "voi avete fidanzato",
+                    "voi aveste fidanzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "desponsavērunt, desponsavēre",
+                "traduzioni": [
+                    "loro fidanzarono",
+                    "essi fidanzarono",
+                    "loro hanno fidanzato",
+                    "essi hanno fidanzato",
+                    "loro ebbero fidanzato",
+                    "essi ebbero fidanzato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "desponsavĕram",
+                "traduzioni": [
+                    "io avevo fidanzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "desponsavĕras",
+                "traduzioni": [
+                    "tu avevi fidanzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "desponsavĕrat",
+                "traduzioni": [
+                    "lui aveva fidanzato",
+                    "lei aveva fidanzato",
+                    "egli aveva fidanzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "desponsaverāmus",
+                "traduzioni": [
+                    "noi avevamo fidanzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "desponsaverātis",
+                "traduzioni": [
+                    "voi avevate fidanzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "desponsavĕrant",
+                "traduzioni": [
+                    "loro avevano fidanzato",
+                    "essi avevano fidanzato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "desponsavĕro",
+                "traduzioni": [
+                    "io avrò fidanzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "desponsavĕris",
+                "traduzioni": [
+                    "tu avrai fidanzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "desponsavĕrit",
+                "traduzioni": [
+                    "lui avrà fidanzato",
+                    "lei avrà fidanzato",
+                    "egli avrà fidanzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "desponsaverĭmus",
+                "traduzioni": [
+                    "noi avremo fidanzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "desponsaverĭtis",
+                "traduzioni": [
+                    "voi avrete fidanzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "desponsavĕrint",
+                "traduzioni": [
+                    "loro avranno fidanzato",
+                    "essi avranno fidanzato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "desponsem",
+                "traduzioni": [
+                    "che io fidanzi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "desponses",
+                "traduzioni": [
+                    "che tu fidanzi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "desponset",
+                "traduzioni": [
+                    "che lui fidanzi",
+                    "che lei fidanzi",
+                    "che egli fidanzi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "desponsēmus",
+                "traduzioni": [
+                    "che noi fidanziamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "desponsētis",
+                "traduzioni": [
+                    "che voi fidanziate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "desponsent",
+                "traduzioni": [
+                    "che loro fidanzino",
+                    "che essi fidanzino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "desponsārem",
+                "traduzioni": [
+                    "che io fidanzassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "desponsāres",
+                "traduzioni": [
+                    "che tu fidanzassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "desponsāret",
+                "traduzioni": [
+                    "che lui fidanzasse",
+                    "che lei fidanzasse",
+                    "che egli fidanzasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "desponsarēmus",
+                "traduzioni": [
+                    "che noi fidanzassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "desponsarētis",
+                "traduzioni": [
+                    "che voi fidanzaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "desponsārent",
+                "traduzioni": [
+                    "che loro fidanzassero",
+                    "che essi fidanzassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "desponsavĕrim",
+                "traduzioni": [
+                    "che io abbia fidanzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "desponsavĕris",
+                "traduzioni": [
+                    "che tu abbia fidanzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "desponsavĕrit",
+                "traduzioni": [
+                    "che lui abbia fidanzato",
+                    "che lei abbia fidanzato",
+                    "che egli abbia fidanzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "desponsaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo fidanzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "desponsaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate fidanzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "desponsavĕrint",
+                "traduzioni": [
+                    "che loro abbiano fidanzato",
+                    "che essi abbiano fidanzato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "desponsavissem",
+                "traduzioni": [
+                    "che io avessi fidanzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "desponsavisses",
+                "traduzioni": [
+                    "che tu avessi fidanzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "desponsavisset",
+                "traduzioni": [
+                    "che lui avesse fidanzato",
+                    "che lei avesse fidanzato",
+                    "che egli avesse fidanzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "desponsavissēmus",
+                "traduzioni": [
+                    "che noi avessimo fidanzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "desponsavissētis",
+                "traduzioni": [
+                    "che voi aveste fidanzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "desponsavissent",
+                "traduzioni": [
+                    "che loro avessero fidanzato",
+                    "che essi avessero fidanzato"
+                ]
+            }
+        ]
+    }
+}

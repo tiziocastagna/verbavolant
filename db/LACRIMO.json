@@ -1,0 +1,644 @@
+{
+    "identifier": "LACRIMO",
+    "conuigazione": "1",
+    "translation": [
+        "(intransitivo) lacrimare",
+        "piangere",
+        "(transitivo; in senso figurato) stillare",
+        "gocciolare"
+    ],
+    "valid_translations": [
+        "piangere",
+        "gocciolare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăcrĭmo",
+                "traduzioni": [
+                    "io piango",
+                    "io gocciolo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăcrĭmas",
+                "traduzioni": [
+                    "tu piangi",
+                    "tu goccioli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăcrĭmat",
+                "traduzioni": [
+                    "lui piange",
+                    "lei piange",
+                    "egli piange",
+                    "lui gocciola",
+                    "lei gocciola",
+                    "egli gocciola"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăcrĭmāmus",
+                "traduzioni": [
+                    "noi piangiamo",
+                    "noi goccioliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăcrĭmātis",
+                "traduzioni": [
+                    "voi piangete",
+                    "voi gocciolate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăcrĭmant",
+                "traduzioni": [
+                    "loro piangono",
+                    "essi piangono",
+                    "loro gocciolano",
+                    "essi gocciolano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăcrĭmābam",
+                "traduzioni": [
+                    "io piangevo",
+                    "io gocciolavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăcrĭmābas",
+                "traduzioni": [
+                    "tu piangevi",
+                    "tu gocciolavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăcrĭmābat",
+                "traduzioni": [
+                    "lui piangeva",
+                    "lei piangeva",
+                    "egli piangeva",
+                    "lui gocciolava",
+                    "lei gocciolava",
+                    "egli gocciolava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăcrĭmabāmus",
+                "traduzioni": [
+                    "noi piangevamo",
+                    "noi gocciolavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăcrĭmabātis",
+                "traduzioni": [
+                    "voi piangevate",
+                    "voi gocciolavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăcrĭmābant",
+                "traduzioni": [
+                    "loro piangevano",
+                    "essi piangevano",
+                    "loro gocciolavano",
+                    "essi gocciolavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăcrĭmābo",
+                "traduzioni": [
+                    "io piangerò",
+                    "io gocciolerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăcrĭmābis",
+                "traduzioni": [
+                    "tu piangerai",
+                    "tu gocciolerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăcrĭmābit",
+                "traduzioni": [
+                    "lui piangerà",
+                    "lei piangerà",
+                    "egli piangerà",
+                    "lui gocciolerà",
+                    "lei gocciolerà",
+                    "egli gocciolerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăcrĭmabĭmus",
+                "traduzioni": [
+                    "noi piangeremo",
+                    "noi goccioleremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăcrĭmabĭtis",
+                "traduzioni": [
+                    "voi piangerete",
+                    "voi gocciolerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăcrĭmābunt",
+                "traduzioni": [
+                    "loro piangeranno",
+                    "essi piangeranno",
+                    "loro goccioleranno",
+                    "essi goccioleranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lacrimavi",
+                "traduzioni": [
+                    "io piansi",
+                    "io ho pianto",
+                    "io ebbi pianto",
+                    "io gocciolai",
+                    "io sono gocciolato",
+                    "io sono gocciolata",
+                    "io fui gocciolato",
+                    "io fui gocciolata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lacrimavisti",
+                "traduzioni": [
+                    "tu piangesti",
+                    "tu hai pianto",
+                    "tu avesti pianto",
+                    "tu gocciolasti",
+                    "tu sei gocciolato",
+                    "tu sei gocciolata",
+                    "tu fosti gocciolato",
+                    "tu fosti gocciolata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lacrimavit",
+                "traduzioni": [
+                    "lui pianse",
+                    "lei pianse",
+                    "egli pianse",
+                    "lui ha pianto",
+                    "lei ha pianto",
+                    "egli ha pianto",
+                    "lui ebbe pianto",
+                    "lei ebbe pianto",
+                    "egli ebbe pianto",
+                    "lui gocciolò",
+                    "lei gocciolò",
+                    "egli gocciolò",
+                    "lui è gocciolato",
+                    "lei è gocciolata",
+                    "egli è gocciolato",
+                    "lui fu gocciolato",
+                    "lei fu gocciolata",
+                    "egli fu gocciolato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lacrimavĭmus",
+                "traduzioni": [
+                    "noi piangemmo",
+                    "noi abbiamo pianto",
+                    "noi avemmo pianto",
+                    "noi gocciolammo",
+                    "noi siamo gocciolati",
+                    "noi siamo gocciolate",
+                    "noi fummo gocciolati",
+                    "noi fummo gocciolate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lacrimavistis",
+                "traduzioni": [
+                    "voi piangeste",
+                    "voi avete pianto",
+                    "voi aveste pianto",
+                    "voi gocciolaste",
+                    "voi siete gocciolati",
+                    "voi siete gocciolate",
+                    "voi foste gocciolati",
+                    "voi foste gocciolate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lacrimavēreunt, lacrimavēre",
+                "traduzioni": [
+                    "loro piansero",
+                    "essi piansero",
+                    "loro hanno pianto",
+                    "essi hanno pianto",
+                    "loro ebbero pianto",
+                    "essi ebbero pianto",
+                    "loro gocciolarono",
+                    "essi gocciolarono",
+                    "loro sono gocciolati",
+                    "loro sono gocciolate",
+                    "essi sono gocciolati",
+                    "loro furono gocciolati",
+                    "loro furono gocciolate",
+                    "essi furono gocciolati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lacrimavĕram",
+                "traduzioni": [
+                    "io avevo pianto",
+                    "io ero gocciolato",
+                    "io ero gocciolata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lacrimavĕras",
+                "traduzioni": [
+                    "tu avevi pianto",
+                    "tu eri gocciolato",
+                    "tu eri gocciolata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lacrimavĕrat",
+                "traduzioni": [
+                    "lui aveva pianto",
+                    "lei aveva pianto",
+                    "egli aveva pianto",
+                    "lui era gocciolato",
+                    "lei era gocciolata",
+                    "egli era gocciolato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lacrimaverāmus",
+                "traduzioni": [
+                    "noi avevamo pianto",
+                    "noi eravamo gocciolati",
+                    "noi eravamo gocciolate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lacrimaverātis",
+                "traduzioni": [
+                    "voi avevate pianto",
+                    "voi eravate gocciolati",
+                    "voi eravate gocciolate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lacrimavĕrant",
+                "traduzioni": [
+                    "loro avevano pianto",
+                    "essi avevano pianto",
+                    "loro erano gocciolati",
+                    "loro erano gocciolate",
+                    "essi erano gocciolati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lacrimavĕro",
+                "traduzioni": [
+                    "io avrò pianto",
+                    "io sarò gocciolato",
+                    "io sarò gocciolata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lacrimavĕris",
+                "traduzioni": [
+                    "tu avrai pianto",
+                    "tu sarai gocciolato",
+                    "tu sarai gocciolata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lacrimavĕrit",
+                "traduzioni": [
+                    "lui avrà pianto",
+                    "lei avrà pianto",
+                    "egli avrà pianto",
+                    "lui sarà gocciolato",
+                    "lei sarà gocciolata",
+                    "egli sarà gocciolato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lacrimaverĭmus",
+                "traduzioni": [
+                    "noi avremo pianto",
+                    "noi saremo gocciolati",
+                    "noi saremo gocciolate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lacrimaverĭtis",
+                "traduzioni": [
+                    "voi avrete pianto",
+                    "voi sarete gocciolati",
+                    "voi sarete gocciolate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lacrimavĕrint",
+                "traduzioni": [
+                    "loro avranno pianto",
+                    "essi avranno pianto",
+                    "loro saranno gocciolati",
+                    "loro saranno gocciolate",
+                    "essi saranno gocciolati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăcrĭmem",
+                "traduzioni": [
+                    "che io pianga",
+                    "che io goccioli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăcrĭmes",
+                "traduzioni": [
+                    "che tu pianga",
+                    "che tu goccioli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăcrĭmet",
+                "traduzioni": [
+                    "che lui pianga",
+                    "che lei pianga",
+                    "che egli pianga",
+                    "che lui goccioli",
+                    "che lei goccioli",
+                    "che egli goccioli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăcrĭmēmus",
+                "traduzioni": [
+                    "che noi piangiamo",
+                    "che noi goccioliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăcrĭmētis",
+                "traduzioni": [
+                    "che voi piangiate",
+                    "che voi goccioliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăcrĭment",
+                "traduzioni": [
+                    "che loro piangano",
+                    "che essi piangano",
+                    "che loro gocciolino",
+                    "che essi gocciolino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăcrĭmārem",
+                "traduzioni": [
+                    "che io piangessi",
+                    "che io gocciolassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăcrĭmāres",
+                "traduzioni": [
+                    "che tu piangessi",
+                    "che tu gocciolassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăcrĭmāret",
+                "traduzioni": [
+                    "che lui piangesse",
+                    "che lei piangesse",
+                    "che egli piangesse",
+                    "che lui gocciolasse",
+                    "che lei gocciolasse",
+                    "che egli gocciolasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăcrĭmarēmus",
+                "traduzioni": [
+                    "che noi piangessimo",
+                    "che noi gocciolassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăcrĭmarētis",
+                "traduzioni": [
+                    "che voi piangeste",
+                    "che voi gocciolaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăcrĭmārent",
+                "traduzioni": [
+                    "che loro piangessero",
+                    "che essi piangessero",
+                    "che loro gocciolassero",
+                    "che essi gocciolassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lacrimavĕrim",
+                "traduzioni": [
+                    "che io abbia pianto",
+                    "che io sia gocciolato",
+                    "che io sia gocciolata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lacrimavĕris",
+                "traduzioni": [
+                    "che tu abbia pianto",
+                    "che tu sia gocciolato",
+                    "che tu sia gocciolata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lacrimavĕrit",
+                "traduzioni": [
+                    "che lui abbia pianto",
+                    "che lei abbia pianto",
+                    "che egli abbia pianto",
+                    "che lui sia gocciolato",
+                    "che lei sia gocciolata",
+                    "che egli sia gocciolato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lacrimaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo pianto",
+                    "che noi siamo gocciolati",
+                    "che noi siamo gocciolate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lacrimaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate pianto",
+                    "che voi siate gocciolati",
+                    "che voi siate gocciolate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lacrimavĕrint",
+                "traduzioni": [
+                    "che loro abbiano pianto",
+                    "che essi abbiano pianto",
+                    "che loro siano gocciolati",
+                    "che loro siano gocciolate",
+                    "che essi siano gocciolati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lacrimavissem",
+                "traduzioni": [
+                    "che io avessi pianto",
+                    "che io fossi gocciolato",
+                    "che io fossi gocciolata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lacrimavisses",
+                "traduzioni": [
+                    "che tu avessi pianto",
+                    "che tu fossi gocciolato",
+                    "che tu fossi gocciolata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lacrimavisset",
+                "traduzioni": [
+                    "che lui avesse pianto",
+                    "che lei avesse pianto",
+                    "che egli avesse pianto",
+                    "che lui fosse gocciolato",
+                    "che lei fosse gocciolata",
+                    "che egli fosse gocciolato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lacrimavissēmus",
+                "traduzioni": [
+                    "che noi avessimo pianto",
+                    "che noi fossimo gocciolati",
+                    "che noi fossimo gocciolate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lacrimavissētis",
+                "traduzioni": [
+                    "che voi aveste pianto",
+                    "che voi foste gocciolati",
+                    "che voi foste gocciolate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lacrimavissent",
+                "traduzioni": [
+                    "che loro avessero pianto",
+                    "che essi avessero pianto",
+                    "che loro fossero gocciolati",
+                    "che loro fossero gocciolate",
+                    "che essi fossero gocciolati"
+                ]
+            }
+        ]
+    }
+}

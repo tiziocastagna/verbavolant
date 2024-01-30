@@ -1,0 +1,1228 @@
+{
+    "identifier": "IMPUTO",
+    "conuigazione": "1",
+    "translation": [
+        "imputare",
+        "addebitare",
+        "vantare",
+        "dare",
+        "accordare",
+        "concedere",
+        "tassare"
+    ],
+    "valid_translations": [
+        "imputare",
+        "addebitare",
+        "vantare",
+        "dare",
+        "accordare",
+        "concedere",
+        "tassare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "impŭto",
+                "traduzioni": [
+                    "io imputo",
+                    "io addebito",
+                    "io vanto",
+                    "io do",
+                    "io dò",
+                    "io accordo",
+                    "io concedo",
+                    "io tasso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impŭtas",
+                "traduzioni": [
+                    "tu imputi",
+                    "tu addebiti",
+                    "tu vanti",
+                    "tu dai",
+                    "tu accordi",
+                    "tu concedi",
+                    "tu tassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impŭtat",
+                "traduzioni": [
+                    "lui imputa",
+                    "lei imputa",
+                    "egli imputa",
+                    "lui addebita",
+                    "lei addebita",
+                    "egli addebita",
+                    "lui vanta",
+                    "lei vanta",
+                    "egli vanta",
+                    "lui dà",
+                    "lei dà",
+                    "egli dà",
+                    "lui da",
+                    "lei da",
+                    "egli da",
+                    "lui accorda",
+                    "lei accorda",
+                    "egli accorda",
+                    "lui concede",
+                    "lei concede",
+                    "egli concede",
+                    "lui tassa",
+                    "lei tassa",
+                    "egli tassa"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impŭtāmus",
+                "traduzioni": [
+                    "noi imputiamo",
+                    "noi addebitiamo",
+                    "noi vantiamo",
+                    "noi diamo",
+                    "noi accordiamo",
+                    "noi concediamo",
+                    "noi tassiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impŭtātis",
+                "traduzioni": [
+                    "voi imputate",
+                    "voi addebitate",
+                    "voi vantate",
+                    "voi date",
+                    "voi accordate",
+                    "voi concedete",
+                    "voi tassate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impŭtant",
+                "traduzioni": [
+                    "loro imputano",
+                    "essi imputano",
+                    "loro addebitano",
+                    "essi addebitano",
+                    "loro vantano",
+                    "essi vantano",
+                    "loro dànno",
+                    "essi dànno",
+                    "loro danno",
+                    "essi danno",
+                    "loro accordano",
+                    "essi accordano",
+                    "loro concedono",
+                    "essi concedono",
+                    "loro tassano",
+                    "essi tassano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "impŭtābam",
+                "traduzioni": [
+                    "io imputavo",
+                    "io addebitavo",
+                    "io vantavo",
+                    "io davo",
+                    "io accordavo",
+                    "io concedevo",
+                    "io tassavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impŭtābas",
+                "traduzioni": [
+                    "tu imputavi",
+                    "tu addebitavi",
+                    "tu vantavi",
+                    "tu davi",
+                    "tu accordavi",
+                    "tu concedevi",
+                    "tu tassavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impŭtābat",
+                "traduzioni": [
+                    "lui imputava",
+                    "lei imputava",
+                    "egli imputava",
+                    "lui addebitava",
+                    "lei addebitava",
+                    "egli addebitava",
+                    "lui vantava",
+                    "lei vantava",
+                    "egli vantava",
+                    "lui dava",
+                    "lei dava",
+                    "egli dava",
+                    "lui accordava",
+                    "lei accordava",
+                    "egli accordava",
+                    "lui concedeva",
+                    "lei concedeva",
+                    "egli concedeva",
+                    "lui tassava",
+                    "lei tassava",
+                    "egli tassava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impŭtabāmus",
+                "traduzioni": [
+                    "noi imputavamo",
+                    "noi addebitavamo",
+                    "noi vantavamo",
+                    "noi davamo",
+                    "noi accordavamo",
+                    "noi concedevamo",
+                    "noi tassavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impŭtabātis",
+                "traduzioni": [
+                    "voi imputavate",
+                    "voi addebitavate",
+                    "voi vantavate",
+                    "voi davate",
+                    "voi accordavate",
+                    "voi concedevate",
+                    "voi tassavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impŭtābant",
+                "traduzioni": [
+                    "loro imputavano",
+                    "essi imputavano",
+                    "loro addebitavano",
+                    "essi addebitavano",
+                    "loro vantavano",
+                    "essi vantavano",
+                    "loro davano",
+                    "essi davano",
+                    "loro accordavano",
+                    "essi accordavano",
+                    "loro concedevano",
+                    "essi concedevano",
+                    "loro tassavano",
+                    "essi tassavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "impŭtābo",
+                "traduzioni": [
+                    "io imputerò",
+                    "io addebiterò",
+                    "io vanterò",
+                    "io darò",
+                    "io accorderò",
+                    "io concederò",
+                    "io tasserò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impŭtābis",
+                "traduzioni": [
+                    "tu imputerai",
+                    "tu addebiterai",
+                    "tu vanterai",
+                    "tu darai",
+                    "tu accorderai",
+                    "tu concederai",
+                    "tu tasserai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impŭtābit",
+                "traduzioni": [
+                    "lui imputerà",
+                    "lei imputerà",
+                    "egli imputerà",
+                    "lui addebiterà",
+                    "lei addebiterà",
+                    "egli addebiterà",
+                    "lui vanterà",
+                    "lei vanterà",
+                    "egli vanterà",
+                    "lui darà",
+                    "lei darà",
+                    "egli darà",
+                    "lui accorderà",
+                    "lei accorderà",
+                    "egli accorderà",
+                    "lui concederà",
+                    "lei concederà",
+                    "egli concederà",
+                    "lui tasserà",
+                    "lei tasserà",
+                    "egli tasserà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impŭtabĭmus",
+                "traduzioni": [
+                    "noi imputeremo",
+                    "noi addebiteremo",
+                    "noi vanteremo",
+                    "noi daremo",
+                    "noi accorderemo",
+                    "noi concederemo",
+                    "noi tasseremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impŭtabĭtis",
+                "traduzioni": [
+                    "voi imputerete",
+                    "voi addebiterete",
+                    "voi vanterete",
+                    "voi darete",
+                    "voi accorderete",
+                    "voi concederete",
+                    "voi tasserete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impŭtābunt",
+                "traduzioni": [
+                    "loro imputeranno",
+                    "essi imputeranno",
+                    "loro addebiteranno",
+                    "essi addebiteranno",
+                    "loro vanteranno",
+                    "essi vanteranno",
+                    "loro daranno",
+                    "essi daranno",
+                    "loro accorderanno",
+                    "essi accorderanno",
+                    "loro concederanno",
+                    "essi concederanno",
+                    "loro tasseranno",
+                    "essi tasseranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "imputavi",
+                "traduzioni": [
+                    "io imputai",
+                    "io ho imputato",
+                    "io ebbi imputato",
+                    "io addebitai",
+                    "io ho addebitato",
+                    "io ebbi addebitato",
+                    "io vantai",
+                    "io ho vantato",
+                    "io ebbi vantato",
+                    "io diedi",
+                    "io detti",
+                    "io ho dato",
+                    "io ebbi dato",
+                    "io accordai",
+                    "io ho accordato",
+                    "io ebbi accordato",
+                    "io concessi",
+                    "io ho concesso",
+                    "io ho conceduto",
+                    "io ebbi concesso",
+                    "io ebbi conceduto",
+                    "io tassai",
+                    "io ho tassato",
+                    "io ebbi tassato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imputavisti",
+                "traduzioni": [
+                    "tu imputasti",
+                    "tu hai imputato",
+                    "tu avesti imputato",
+                    "tu addebitasti",
+                    "tu hai addebitato",
+                    "tu avesti addebitato",
+                    "tu vantasti",
+                    "tu hai vantato",
+                    "tu avesti vantato",
+                    "tu desti",
+                    "tu hai dato",
+                    "tu avesti dato",
+                    "tu accordasti",
+                    "tu hai accordato",
+                    "tu avesti accordato",
+                    "tu concedesti",
+                    "tu hai concesso",
+                    "tu hai conceduto",
+                    "tu avesti concesso",
+                    "tu avesti conceduto",
+                    "tu tassasti",
+                    "tu hai tassato",
+                    "tu avesti tassato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imputavit",
+                "traduzioni": [
+                    "lui imputò",
+                    "lei imputò",
+                    "egli imputò",
+                    "lui ha imputato",
+                    "lei ha imputato",
+                    "egli ha imputato",
+                    "lui ebbe imputato",
+                    "lei ebbe imputato",
+                    "egli ebbe imputato",
+                    "lui addebitò",
+                    "lei addebitò",
+                    "egli addebitò",
+                    "lui ha addebitato",
+                    "lei ha addebitato",
+                    "egli ha addebitato",
+                    "lui ebbe addebitato",
+                    "lei ebbe addebitato",
+                    "egli ebbe addebitato",
+                    "lui vantò",
+                    "lei vantò",
+                    "egli vantò",
+                    "lui ha vantato",
+                    "lei ha vantato",
+                    "egli ha vantato",
+                    "lui ebbe vantato",
+                    "lei ebbe vantato",
+                    "egli ebbe vantato",
+                    "lui diede",
+                    "lei diede",
+                    "egli diede",
+                    "lui dette",
+                    "lei dette",
+                    "egli dette",
+                    "lui ha dato",
+                    "lei ha dato",
+                    "egli ha dato",
+                    "lui ebbe dato",
+                    "lei ebbe dato",
+                    "egli ebbe dato",
+                    "lui accordò",
+                    "lei accordò",
+                    "egli accordò",
+                    "lui ha accordato",
+                    "lei ha accordato",
+                    "egli ha accordato",
+                    "lui ebbe accordato",
+                    "lei ebbe accordato",
+                    "egli ebbe accordato",
+                    "lui concesse",
+                    "lei concesse",
+                    "egli concesse",
+                    "lui ha concesso",
+                    "lei ha concesso",
+                    "egli ha concesso",
+                    "lui ha conceduto",
+                    "lei ha conceduto",
+                    "egli ha conceduto",
+                    "lui ebbe concesso",
+                    "lei ebbe concesso",
+                    "egli ebbe concesso",
+                    "lui ebbe conceduto",
+                    "lei ebbe conceduto",
+                    "egli ebbe conceduto",
+                    "lui tassò",
+                    "lei tassò",
+                    "egli tassò",
+                    "lui ha tassato",
+                    "lei ha tassato",
+                    "egli ha tassato",
+                    "lui ebbe tassato",
+                    "lei ebbe tassato",
+                    "egli ebbe tassato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imputavĭmus",
+                "traduzioni": [
+                    "noi imputammo",
+                    "noi abbiamo imputato",
+                    "noi avemmo imputato",
+                    "noi addebitammo",
+                    "noi abbiamo addebitato",
+                    "noi avemmo addebitato",
+                    "noi vantammo",
+                    "noi abbiamo vantato",
+                    "noi avemmo vantato",
+                    "noi demmo",
+                    "noi abbiamo dato",
+                    "noi avemmo dato",
+                    "noi accordammo",
+                    "noi abbiamo accordato",
+                    "noi avemmo accordato",
+                    "noi concedemmo",
+                    "noi abbiamo concesso",
+                    "noi abbiamo conceduto",
+                    "noi avemmo concesso",
+                    "noi avemmo conceduto",
+                    "noi tassammo",
+                    "noi abbiamo tassato",
+                    "noi avemmo tassato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imputavistis",
+                "traduzioni": [
+                    "voi imputaste",
+                    "voi avete imputato",
+                    "voi aveste imputato",
+                    "voi addebitaste",
+                    "voi avete addebitato",
+                    "voi aveste addebitato",
+                    "voi vantaste",
+                    "voi avete vantato",
+                    "voi aveste vantato",
+                    "voi deste",
+                    "voi avete dato",
+                    "voi aveste dato",
+                    "voi accordaste",
+                    "voi avete accordato",
+                    "voi aveste accordato",
+                    "voi concedeste",
+                    "voi avete concesso",
+                    "voi avete conceduto",
+                    "voi aveste concesso",
+                    "voi aveste conceduto",
+                    "voi tassaste",
+                    "voi avete tassato",
+                    "voi aveste tassato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imputavērunt, imputavēre",
+                "traduzioni": [
+                    "loro imputarono",
+                    "essi imputarono",
+                    "loro hanno imputato",
+                    "essi hanno imputato",
+                    "loro ebbero imputato",
+                    "essi ebbero imputato",
+                    "loro addebitarono",
+                    "essi addebitarono",
+                    "loro hanno addebitato",
+                    "essi hanno addebitato",
+                    "loro ebbero addebitato",
+                    "essi ebbero addebitato",
+                    "loro vantarono",
+                    "essi vantarono",
+                    "loro hanno vantato",
+                    "essi hanno vantato",
+                    "loro ebbero vantato",
+                    "essi ebbero vantato",
+                    "loro diedero",
+                    "essi diedero",
+                    "loro dettero",
+                    "essi dettero",
+                    "loro hanno dato",
+                    "essi hanno dato",
+                    "loro ebbero dato",
+                    "essi ebbero dato",
+                    "loro accordarono",
+                    "essi accordarono",
+                    "loro hanno accordato",
+                    "essi hanno accordato",
+                    "loro ebbero accordato",
+                    "essi ebbero accordato",
+                    "loro concessero",
+                    "essi concessero",
+                    "loro hanno concesso",
+                    "essi hanno concesso",
+                    "loro hanno conceduto",
+                    "essi hanno conceduto",
+                    "loro ebbero concesso",
+                    "essi ebbero concesso",
+                    "loro ebbero conceduto",
+                    "essi ebbero conceduto",
+                    "loro tassarono",
+                    "essi tassarono",
+                    "loro hanno tassato",
+                    "essi hanno tassato",
+                    "loro ebbero tassato",
+                    "essi ebbero tassato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "imputavĕram",
+                "traduzioni": [
+                    "io avevo imputato",
+                    "io avevo addebitato",
+                    "io avevo vantato",
+                    "io avevo dato",
+                    "io avevo accordato",
+                    "io avevo concesso",
+                    "io avevo conceduto",
+                    "io avevo tassato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imputavĕras",
+                "traduzioni": [
+                    "tu avevi imputato",
+                    "tu avevi addebitato",
+                    "tu avevi vantato",
+                    "tu avevi dato",
+                    "tu avevi accordato",
+                    "tu avevi concesso",
+                    "tu avevi conceduto",
+                    "tu avevi tassato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imputavĕrat",
+                "traduzioni": [
+                    "lui aveva imputato",
+                    "lei aveva imputato",
+                    "egli aveva imputato",
+                    "lui aveva addebitato",
+                    "lei aveva addebitato",
+                    "egli aveva addebitato",
+                    "lui aveva vantato",
+                    "lei aveva vantato",
+                    "egli aveva vantato",
+                    "lui aveva dato",
+                    "lei aveva dato",
+                    "egli aveva dato",
+                    "lui aveva accordato",
+                    "lei aveva accordato",
+                    "egli aveva accordato",
+                    "lui aveva concesso",
+                    "lei aveva concesso",
+                    "egli aveva concesso",
+                    "lui aveva conceduto",
+                    "lei aveva conceduto",
+                    "egli aveva conceduto",
+                    "lui aveva tassato",
+                    "lei aveva tassato",
+                    "egli aveva tassato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imputaverāmus",
+                "traduzioni": [
+                    "noi avevamo imputato",
+                    "noi avevamo addebitato",
+                    "noi avevamo vantato",
+                    "noi avevamo dato",
+                    "noi avevamo accordato",
+                    "noi avevamo concesso",
+                    "noi avevamo conceduto",
+                    "noi avevamo tassato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imputaverātis",
+                "traduzioni": [
+                    "voi avevate imputato",
+                    "voi avevate addebitato",
+                    "voi avevate vantato",
+                    "voi avevate dato",
+                    "voi avevate accordato",
+                    "voi avevate concesso",
+                    "voi avevate conceduto",
+                    "voi avevate tassato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imputavĕrant",
+                "traduzioni": [
+                    "loro avevano imputato",
+                    "essi avevano imputato",
+                    "loro avevano addebitato",
+                    "essi avevano addebitato",
+                    "loro avevano vantato",
+                    "essi avevano vantato",
+                    "loro avevano dato",
+                    "essi avevano dato",
+                    "loro avevano accordato",
+                    "essi avevano accordato",
+                    "loro avevano concesso",
+                    "essi avevano concesso",
+                    "loro avevano conceduto",
+                    "essi avevano conceduto",
+                    "loro avevano tassato",
+                    "essi avevano tassato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "imputavĕro",
+                "traduzioni": [
+                    "io avrò imputato",
+                    "io avrò addebitato",
+                    "io avrò vantato",
+                    "io avrò dato",
+                    "io avrò accordato",
+                    "io avrò concesso",
+                    "io avrò conceduto",
+                    "io avrò tassato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imputavĕris",
+                "traduzioni": [
+                    "tu avrai imputato",
+                    "tu avrai addebitato",
+                    "tu avrai vantato",
+                    "tu avrai dato",
+                    "tu avrai accordato",
+                    "tu avrai concesso",
+                    "tu avrai conceduto",
+                    "tu avrai tassato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imputavĕrit",
+                "traduzioni": [
+                    "lui avrà imputato",
+                    "lei avrà imputato",
+                    "egli avrà imputato",
+                    "lui avrà addebitato",
+                    "lei avrà addebitato",
+                    "egli avrà addebitato",
+                    "lui avrà vantato",
+                    "lei avrà vantato",
+                    "egli avrà vantato",
+                    "lui avrà dato",
+                    "lei avrà dato",
+                    "egli avrà dato",
+                    "lui avrà accordato",
+                    "lei avrà accordato",
+                    "egli avrà accordato",
+                    "lui avrà concesso",
+                    "lei avrà concesso",
+                    "egli avrà concesso",
+                    "lui avrà conceduto",
+                    "lei avrà conceduto",
+                    "egli avrà conceduto",
+                    "lui avrà tassato",
+                    "lei avrà tassato",
+                    "egli avrà tassato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imputaverĭmus",
+                "traduzioni": [
+                    "noi avremo imputato",
+                    "noi avremo addebitato",
+                    "noi avremo vantato",
+                    "noi avremo dato",
+                    "noi avremo accordato",
+                    "noi avremo concesso",
+                    "noi avremo conceduto",
+                    "noi avremo tassato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imputaverĭtis",
+                "traduzioni": [
+                    "voi avrete imputato",
+                    "voi avrete addebitato",
+                    "voi avrete vantato",
+                    "voi avrete dato",
+                    "voi avrete accordato",
+                    "voi avrete concesso",
+                    "voi avrete conceduto",
+                    "voi avrete tassato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imputavĕrint",
+                "traduzioni": [
+                    "loro avranno imputato",
+                    "essi avranno imputato",
+                    "loro avranno addebitato",
+                    "essi avranno addebitato",
+                    "loro avranno vantato",
+                    "essi avranno vantato",
+                    "loro avranno dato",
+                    "essi avranno dato",
+                    "loro avranno accordato",
+                    "essi avranno accordato",
+                    "loro avranno concesso",
+                    "essi avranno concesso",
+                    "loro avranno conceduto",
+                    "essi avranno conceduto",
+                    "loro avranno tassato",
+                    "essi avranno tassato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "impŭtem",
+                "traduzioni": [
+                    "che io imputi",
+                    "che io addebiti",
+                    "che io vanti",
+                    "che io dia",
+                    "che io accordi",
+                    "che io conceda",
+                    "che io tassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impŭtes",
+                "traduzioni": [
+                    "che tu imputi",
+                    "che tu addebiti",
+                    "che tu vanti",
+                    "che tu dia",
+                    "che tu accordi",
+                    "che tu conceda",
+                    "che tu tassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impŭtet",
+                "traduzioni": [
+                    "che lui imputi",
+                    "che lei imputi",
+                    "che egli imputi",
+                    "che lui addebiti",
+                    "che lei addebiti",
+                    "che egli addebiti",
+                    "che lui vanti",
+                    "che lei vanti",
+                    "che egli vanti",
+                    "che lui dia",
+                    "che lei dia",
+                    "che egli dia",
+                    "che lui accordi",
+                    "che lei accordi",
+                    "che egli accordi",
+                    "che lui conceda",
+                    "che lei conceda",
+                    "che egli conceda",
+                    "che lui tassi",
+                    "che lei tassi",
+                    "che egli tassi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impŭtēmus",
+                "traduzioni": [
+                    "che noi imputiamo",
+                    "che noi addebitiamo",
+                    "che noi vantiamo",
+                    "che noi diamo",
+                    "che noi accordiamo",
+                    "che noi concediamo",
+                    "che noi tassiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impŭtētis",
+                "traduzioni": [
+                    "che voi imputiate",
+                    "che voi addebitiate",
+                    "che voi vantiate",
+                    "che voi diate",
+                    "che voi accordiate",
+                    "che voi concediate",
+                    "che voi tassiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impŭtent",
+                "traduzioni": [
+                    "che loro imputino",
+                    "che essi imputino",
+                    "che loro addebitino",
+                    "che essi addebitino",
+                    "che loro vantino",
+                    "che essi vantino",
+                    "che loro diano",
+                    "che essi diano",
+                    "che loro accordino",
+                    "che essi accordino",
+                    "che loro concedano",
+                    "che essi concedano",
+                    "che loro tassino",
+                    "che essi tassino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "impŭtārem",
+                "traduzioni": [
+                    "che io imputassi",
+                    "che io addebitassi",
+                    "che io vantassi",
+                    "che io dessi",
+                    "che io accordassi",
+                    "che io concedessi",
+                    "che io tassassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impŭtāres",
+                "traduzioni": [
+                    "che tu imputassi",
+                    "che tu addebitassi",
+                    "che tu vantassi",
+                    "che tu dessi",
+                    "che tu accordassi",
+                    "che tu concedessi",
+                    "che tu tassassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impŭtāret",
+                "traduzioni": [
+                    "che lui imputasse",
+                    "che lei imputasse",
+                    "che egli imputasse",
+                    "che lui addebitasse",
+                    "che lei addebitasse",
+                    "che egli addebitasse",
+                    "che lui vantasse",
+                    "che lei vantasse",
+                    "che egli vantasse",
+                    "che lui desse",
+                    "che lei desse",
+                    "che egli desse",
+                    "che lui accordasse",
+                    "che lei accordasse",
+                    "che egli accordasse",
+                    "che lui concedesse",
+                    "che lei concedesse",
+                    "che egli concedesse",
+                    "che lui tassasse",
+                    "che lei tassasse",
+                    "che egli tassasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impŭtarēmus",
+                "traduzioni": [
+                    "che noi imputassimo",
+                    "che noi addebitassimo",
+                    "che noi vantassimo",
+                    "che noi dessimo",
+                    "che noi accordassimo",
+                    "che noi concedessimo",
+                    "che noi tassassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impŭtarētis",
+                "traduzioni": [
+                    "che voi imputaste",
+                    "che voi addebitaste",
+                    "che voi vantaste",
+                    "che voi deste",
+                    "che voi accordaste",
+                    "che voi concedeste",
+                    "che voi tassaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impŭtārent",
+                "traduzioni": [
+                    "che loro imputassero",
+                    "che essi imputassero",
+                    "che loro addebitassero",
+                    "che essi addebitassero",
+                    "che loro vantassero",
+                    "che essi vantassero",
+                    "che loro dessero",
+                    "che essi dessero",
+                    "che loro accordassero",
+                    "che essi accordassero",
+                    "che loro concedessero",
+                    "che essi concedessero",
+                    "che loro tassassero",
+                    "che essi tassassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "imputavĕrim",
+                "traduzioni": [
+                    "che io abbia imputato",
+                    "che io abbia addebitato",
+                    "che io abbia vantato",
+                    "che io abbia dato",
+                    "che io abbia accordato",
+                    "che io abbia concesso",
+                    "che io abbia conceduto",
+                    "che io abbia tassato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imputavĕris",
+                "traduzioni": [
+                    "che tu abbia imputato",
+                    "che tu abbia addebitato",
+                    "che tu abbia vantato",
+                    "che tu abbia dato",
+                    "che tu abbia accordato",
+                    "che tu abbia concesso",
+                    "che tu abbia conceduto",
+                    "che tu abbia tassato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imputavĕrit",
+                "traduzioni": [
+                    "che lui abbia imputato",
+                    "che lei abbia imputato",
+                    "che egli abbia imputato",
+                    "che lui abbia addebitato",
+                    "che lei abbia addebitato",
+                    "che egli abbia addebitato",
+                    "che lui abbia vantato",
+                    "che lei abbia vantato",
+                    "che egli abbia vantato",
+                    "che lui abbia dato",
+                    "che lei abbia dato",
+                    "che egli abbia dato",
+                    "che lui abbia accordato",
+                    "che lei abbia accordato",
+                    "che egli abbia accordato",
+                    "che lui abbia concesso",
+                    "che lei abbia concesso",
+                    "che egli abbia concesso",
+                    "che lui abbia conceduto",
+                    "che lei abbia conceduto",
+                    "che egli abbia conceduto",
+                    "che lui abbia tassato",
+                    "che lei abbia tassato",
+                    "che egli abbia tassato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imputaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo imputato",
+                    "che noi abbiamo addebitato",
+                    "che noi abbiamo vantato",
+                    "che noi abbiamo dato",
+                    "che noi abbiamo accordato",
+                    "che noi abbiamo concesso",
+                    "che noi abbiamo conceduto",
+                    "che noi abbiamo tassato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imputaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate imputato",
+                    "che voi abbiate addebitato",
+                    "che voi abbiate vantato",
+                    "che voi abbiate dato",
+                    "che voi abbiate accordato",
+                    "che voi abbiate concesso",
+                    "che voi abbiate conceduto",
+                    "che voi abbiate tassato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imputavĕrint",
+                "traduzioni": [
+                    "che loro abbiano imputato",
+                    "che essi abbiano imputato",
+                    "che loro abbiano addebitato",
+                    "che essi abbiano addebitato",
+                    "che loro abbiano vantato",
+                    "che essi abbiano vantato",
+                    "che loro abbiano dato",
+                    "che essi abbiano dato",
+                    "che loro abbiano accordato",
+                    "che essi abbiano accordato",
+                    "che loro abbiano concesso",
+                    "che essi abbiano concesso",
+                    "che loro abbiano conceduto",
+                    "che essi abbiano conceduto",
+                    "che loro abbiano tassato",
+                    "che essi abbiano tassato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "imputavissem",
+                "traduzioni": [
+                    "che io avessi imputato",
+                    "che io avessi addebitato",
+                    "che io avessi vantato",
+                    "che io avessi dato",
+                    "che io avessi accordato",
+                    "che io avessi concesso",
+                    "che io avessi conceduto",
+                    "che io avessi tassato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "imputavisses",
+                "traduzioni": [
+                    "che tu avessi imputato",
+                    "che tu avessi addebitato",
+                    "che tu avessi vantato",
+                    "che tu avessi dato",
+                    "che tu avessi accordato",
+                    "che tu avessi concesso",
+                    "che tu avessi conceduto",
+                    "che tu avessi tassato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "imputavisset",
+                "traduzioni": [
+                    "che lui avesse imputato",
+                    "che lei avesse imputato",
+                    "che egli avesse imputato",
+                    "che lui avesse addebitato",
+                    "che lei avesse addebitato",
+                    "che egli avesse addebitato",
+                    "che lui avesse vantato",
+                    "che lei avesse vantato",
+                    "che egli avesse vantato",
+                    "che lui avesse dato",
+                    "che lei avesse dato",
+                    "che egli avesse dato",
+                    "che lui avesse accordato",
+                    "che lei avesse accordato",
+                    "che egli avesse accordato",
+                    "che lui avesse concesso",
+                    "che lei avesse concesso",
+                    "che egli avesse concesso",
+                    "che lui avesse conceduto",
+                    "che lei avesse conceduto",
+                    "che egli avesse conceduto",
+                    "che lui avesse tassato",
+                    "che lei avesse tassato",
+                    "che egli avesse tassato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "imputavissēmus",
+                "traduzioni": [
+                    "che noi avessimo imputato",
+                    "che noi avessimo addebitato",
+                    "che noi avessimo vantato",
+                    "che noi avessimo dato",
+                    "che noi avessimo accordato",
+                    "che noi avessimo concesso",
+                    "che noi avessimo conceduto",
+                    "che noi avessimo tassato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "imputavissētis",
+                "traduzioni": [
+                    "che voi aveste imputato",
+                    "che voi aveste addebitato",
+                    "che voi aveste vantato",
+                    "che voi aveste dato",
+                    "che voi aveste accordato",
+                    "che voi aveste concesso",
+                    "che voi aveste conceduto",
+                    "che voi aveste tassato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "imputavissent",
+                "traduzioni": [
+                    "che loro avessero imputato",
+                    "che essi avessero imputato",
+                    "che loro avessero addebitato",
+                    "che essi avessero addebitato",
+                    "che loro avessero vantato",
+                    "che essi avessero vantato",
+                    "che loro avessero dato",
+                    "che essi avessero dato",
+                    "che loro avessero accordato",
+                    "che essi avessero accordato",
+                    "che loro avessero concesso",
+                    "che essi avessero concesso",
+                    "che loro avessero conceduto",
+                    "che essi avessero conceduto",
+                    "che loro avessero tassato",
+                    "che essi avessero tassato"
+                ]
+            }
+        ]
+    }
+}

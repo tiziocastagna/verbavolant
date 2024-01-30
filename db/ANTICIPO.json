@@ -1,0 +1,722 @@
+{
+    "identifier": "ANTICIPO",
+    "conuigazione": "1",
+    "translation": [
+        "occupare",
+        "anticipare",
+        "prevenire"
+    ],
+    "valid_translations": [
+        "occupare",
+        "anticipare",
+        "prevenire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "antĭcĭpo",
+                "traduzioni": [
+                    "io occupo",
+                    "io anticipo",
+                    "io prevengo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "antĭcĭpas",
+                "traduzioni": [
+                    "tu occupi",
+                    "tu anticipi",
+                    "tu previeni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "antĭcĭpat",
+                "traduzioni": [
+                    "lui occupa",
+                    "lei occupa",
+                    "egli occupa",
+                    "lui anticipa",
+                    "lei anticipa",
+                    "egli anticipa",
+                    "lui previene",
+                    "lei previene",
+                    "egli previene"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "antĭcĭpāmus",
+                "traduzioni": [
+                    "noi occupiamo",
+                    "noi anticipiamo",
+                    "noi preveniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "antĭcĭpātis",
+                "traduzioni": [
+                    "voi occupate",
+                    "voi anticipate",
+                    "voi prevenite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "antĭcĭpant",
+                "traduzioni": [
+                    "loro occupano",
+                    "essi occupano",
+                    "loro anticipano",
+                    "essi anticipano",
+                    "loro prevengono",
+                    "essi prevengono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "antĭcĭpābam",
+                "traduzioni": [
+                    "io occupavo",
+                    "io anticipavo",
+                    "io prevenivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "antĭcĭpābas",
+                "traduzioni": [
+                    "tu occupavi",
+                    "tu anticipavi",
+                    "tu prevenivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "antĭcĭpābat",
+                "traduzioni": [
+                    "lui occupava",
+                    "lei occupava",
+                    "egli occupava",
+                    "lui anticipava",
+                    "lei anticipava",
+                    "egli anticipava",
+                    "lui preveniva",
+                    "lei preveniva",
+                    "egli preveniva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "antĭcĭpabāmus",
+                "traduzioni": [
+                    "noi occupavamo",
+                    "noi anticipavamo",
+                    "noi prevenivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "antĭcĭpabātis",
+                "traduzioni": [
+                    "voi occupavate",
+                    "voi anticipavate",
+                    "voi prevenivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "antĭcĭpābant",
+                "traduzioni": [
+                    "loro occupavano",
+                    "essi occupavano",
+                    "loro anticipavano",
+                    "essi anticipavano",
+                    "loro prevenivano",
+                    "essi prevenivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "antĭcĭpābo",
+                "traduzioni": [
+                    "io occuperò",
+                    "io anticiperò",
+                    "io preverrò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "antĭcĭpābis",
+                "traduzioni": [
+                    "tu occuperai",
+                    "tu anticiperai",
+                    "tu preverrai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "antĭcĭpābit",
+                "traduzioni": [
+                    "lui occuperà",
+                    "lei occuperà",
+                    "egli occuperà",
+                    "lui anticiperà",
+                    "lei anticiperà",
+                    "egli anticiperà",
+                    "lui preverrà",
+                    "lei preverrà",
+                    "egli preverrà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "antĭcĭpabĭmus",
+                "traduzioni": [
+                    "noi occuperemo",
+                    "noi anticiperemo",
+                    "noi preverremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "antĭcĭpabĭtis",
+                "traduzioni": [
+                    "voi occuperete",
+                    "voi anticiperete",
+                    "voi preverrete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "antĭcĭpābunt",
+                "traduzioni": [
+                    "loro occuperanno",
+                    "essi occuperanno",
+                    "loro anticiperanno",
+                    "essi anticiperanno",
+                    "loro preverranno",
+                    "essi preverranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "anticipavi",
+                "traduzioni": [
+                    "io occupai",
+                    "io ho occupato",
+                    "io ebbi occupato",
+                    "io anticipai",
+                    "io ho anticipato",
+                    "io ebbi anticipato",
+                    "io prevenni",
+                    "io ho prevenuto",
+                    "io ebbi prevenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "anticipavisti",
+                "traduzioni": [
+                    "tu occupasti",
+                    "tu hai occupato",
+                    "tu avesti occupato",
+                    "tu anticipasti",
+                    "tu hai anticipato",
+                    "tu avesti anticipato",
+                    "tu prevenisti",
+                    "tu hai prevenuto",
+                    "tu avesti prevenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "anticipavit",
+                "traduzioni": [
+                    "lui occupò",
+                    "lei occupò",
+                    "egli occupò",
+                    "lui ha occupato",
+                    "lei ha occupato",
+                    "egli ha occupato",
+                    "lui ebbe occupato",
+                    "lei ebbe occupato",
+                    "egli ebbe occupato",
+                    "lui anticipò",
+                    "lei anticipò",
+                    "egli anticipò",
+                    "lui ha anticipato",
+                    "lei ha anticipato",
+                    "egli ha anticipato",
+                    "lui ebbe anticipato",
+                    "lei ebbe anticipato",
+                    "egli ebbe anticipato",
+                    "lui prevenne",
+                    "lei prevenne",
+                    "egli prevenne",
+                    "lui ha prevenuto",
+                    "lei ha prevenuto",
+                    "egli ha prevenuto",
+                    "lui ebbe prevenuto",
+                    "lei ebbe prevenuto",
+                    "egli ebbe prevenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "anticipavĭmus",
+                "traduzioni": [
+                    "noi occupammo",
+                    "noi abbiamo occupato",
+                    "noi avemmo occupato",
+                    "noi anticipammo",
+                    "noi abbiamo anticipato",
+                    "noi avemmo anticipato",
+                    "noi prevenimmo",
+                    "noi abbiamo prevenuto",
+                    "noi avemmo prevenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "anticipavistis",
+                "traduzioni": [
+                    "voi occupaste",
+                    "voi avete occupato",
+                    "voi aveste occupato",
+                    "voi anticipaste",
+                    "voi avete anticipato",
+                    "voi aveste anticipato",
+                    "voi preveniste",
+                    "voi avete prevenuto",
+                    "voi aveste prevenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "anticipavērunt, anticipavēre",
+                "traduzioni": [
+                    "loro occuparono",
+                    "essi occuparono",
+                    "loro hanno occupato",
+                    "essi hanno occupato",
+                    "loro ebbero occupato",
+                    "essi ebbero occupato",
+                    "loro anticiparono",
+                    "essi anticiparono",
+                    "loro hanno anticipato",
+                    "essi hanno anticipato",
+                    "loro ebbero anticipato",
+                    "essi ebbero anticipato",
+                    "loro prevennero",
+                    "essi prevennero",
+                    "loro hanno prevenuto",
+                    "essi hanno prevenuto",
+                    "loro ebbero prevenuto",
+                    "essi ebbero prevenuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "anticipavĕram",
+                "traduzioni": [
+                    "io avevo occupato",
+                    "io avevo anticipato",
+                    "io avevo prevenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "anticipavĕras",
+                "traduzioni": [
+                    "tu avevi occupato",
+                    "tu avevi anticipato",
+                    "tu avevi prevenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "anticipavĕrat",
+                "traduzioni": [
+                    "lui aveva occupato",
+                    "lei aveva occupato",
+                    "egli aveva occupato",
+                    "lui aveva anticipato",
+                    "lei aveva anticipato",
+                    "egli aveva anticipato",
+                    "lui aveva prevenuto",
+                    "lei aveva prevenuto",
+                    "egli aveva prevenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "anticipaverāmus",
+                "traduzioni": [
+                    "noi avevamo occupato",
+                    "noi avevamo anticipato",
+                    "noi avevamo prevenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "anticipaverātis",
+                "traduzioni": [
+                    "voi avevate occupato",
+                    "voi avevate anticipato",
+                    "voi avevate prevenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "anticipavĕrant",
+                "traduzioni": [
+                    "loro avevano occupato",
+                    "essi avevano occupato",
+                    "loro avevano anticipato",
+                    "essi avevano anticipato",
+                    "loro avevano prevenuto",
+                    "essi avevano prevenuto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "anticipavĕro",
+                "traduzioni": [
+                    "io avrò occupato",
+                    "io avrò anticipato",
+                    "io avrò prevenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "anticipavĕris",
+                "traduzioni": [
+                    "tu avrai occupato",
+                    "tu avrai anticipato",
+                    "tu avrai prevenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "anticipavĕrit",
+                "traduzioni": [
+                    "lui avrà occupato",
+                    "lei avrà occupato",
+                    "egli avrà occupato",
+                    "lui avrà anticipato",
+                    "lei avrà anticipato",
+                    "egli avrà anticipato",
+                    "lui avrà prevenuto",
+                    "lei avrà prevenuto",
+                    "egli avrà prevenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "anticipaverĭmus",
+                "traduzioni": [
+                    "noi avremo occupato",
+                    "noi avremo anticipato",
+                    "noi avremo prevenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "anticipaverĭtis",
+                "traduzioni": [
+                    "voi avrete occupato",
+                    "voi avrete anticipato",
+                    "voi avrete prevenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "anticipavĕrint",
+                "traduzioni": [
+                    "loro avranno occupato",
+                    "essi avranno occupato",
+                    "loro avranno anticipato",
+                    "essi avranno anticipato",
+                    "loro avranno prevenuto",
+                    "essi avranno prevenuto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "antĭcĭpem",
+                "traduzioni": [
+                    "che io occupi",
+                    "che io anticipi",
+                    "che io prevenga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "antĭcĭpes",
+                "traduzioni": [
+                    "che tu occupi",
+                    "che tu anticipi",
+                    "che tu prevenga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "antĭcĭpet",
+                "traduzioni": [
+                    "che lui occupi",
+                    "che lei occupi",
+                    "che egli occupi",
+                    "che lui anticipi",
+                    "che lei anticipi",
+                    "che egli anticipi",
+                    "che lui prevenga",
+                    "che lei prevenga",
+                    "che egli prevenga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "antĭcĭpēmus",
+                "traduzioni": [
+                    "che noi occupiamo",
+                    "che noi anticipiamo",
+                    "che noi preveniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "antĭcĭpētis",
+                "traduzioni": [
+                    "che voi occupiate",
+                    "che voi anticipiate",
+                    "che voi preveniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "antĭcĭpent",
+                "traduzioni": [
+                    "che loro occupino",
+                    "che essi occupino",
+                    "che loro anticipino",
+                    "che essi anticipino",
+                    "che loro prevengano",
+                    "che essi prevengano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "antĭcĭpārem",
+                "traduzioni": [
+                    "che io occupassi",
+                    "che io anticipassi",
+                    "che io prevenissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "antĭcĭpāres",
+                "traduzioni": [
+                    "che tu occupassi",
+                    "che tu anticipassi",
+                    "che tu prevenissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "antĭcĭpāret",
+                "traduzioni": [
+                    "che lui occupasse",
+                    "che lei occupasse",
+                    "che egli occupasse",
+                    "che lui anticipasse",
+                    "che lei anticipasse",
+                    "che egli anticipasse",
+                    "che lui prevenisse",
+                    "che lei prevenisse",
+                    "che egli prevenisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "antĭcĭparēmus",
+                "traduzioni": [
+                    "che noi occupassimo",
+                    "che noi anticipassimo",
+                    "che noi prevenissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "antĭcĭparētis",
+                "traduzioni": [
+                    "che voi occupaste",
+                    "che voi anticipaste",
+                    "che voi preveniste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "antĭcĭpārent",
+                "traduzioni": [
+                    "che loro occupassero",
+                    "che essi occupassero",
+                    "che loro anticipassero",
+                    "che essi anticipassero",
+                    "che loro prevenissero",
+                    "che essi prevenissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "anticipavĕrim",
+                "traduzioni": [
+                    "che io abbia occupato",
+                    "che io abbia anticipato",
+                    "che io abbia prevenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "anticipavĕris",
+                "traduzioni": [
+                    "che tu abbia occupato",
+                    "che tu abbia anticipato",
+                    "che tu abbia prevenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "anticipavĕrit",
+                "traduzioni": [
+                    "che lui abbia occupato",
+                    "che lei abbia occupato",
+                    "che egli abbia occupato",
+                    "che lui abbia anticipato",
+                    "che lei abbia anticipato",
+                    "che egli abbia anticipato",
+                    "che lui abbia prevenuto",
+                    "che lei abbia prevenuto",
+                    "che egli abbia prevenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "anticipaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo occupato",
+                    "che noi abbiamo anticipato",
+                    "che noi abbiamo prevenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "anticipaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate occupato",
+                    "che voi abbiate anticipato",
+                    "che voi abbiate prevenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "anticipavĕrint",
+                "traduzioni": [
+                    "che loro abbiano occupato",
+                    "che essi abbiano occupato",
+                    "che loro abbiano anticipato",
+                    "che essi abbiano anticipato",
+                    "che loro abbiano prevenuto",
+                    "che essi abbiano prevenuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "anticipavissem",
+                "traduzioni": [
+                    "che io avessi occupato",
+                    "che io avessi anticipato",
+                    "che io avessi prevenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "anticipavisses",
+                "traduzioni": [
+                    "che tu avessi occupato",
+                    "che tu avessi anticipato",
+                    "che tu avessi prevenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "anticipavisset",
+                "traduzioni": [
+                    "che lui avesse occupato",
+                    "che lei avesse occupato",
+                    "che egli avesse occupato",
+                    "che lui avesse anticipato",
+                    "che lei avesse anticipato",
+                    "che egli avesse anticipato",
+                    "che lui avesse prevenuto",
+                    "che lei avesse prevenuto",
+                    "che egli avesse prevenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "anticipavissēmus",
+                "traduzioni": [
+                    "che noi avessimo occupato",
+                    "che noi avessimo anticipato",
+                    "che noi avessimo prevenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "anticipavissētis",
+                "traduzioni": [
+                    "che voi aveste occupato",
+                    "che voi aveste anticipato",
+                    "che voi aveste prevenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "anticipavissent",
+                "traduzioni": [
+                    "che loro avessero occupato",
+                    "che essi avessero occupato",
+                    "che loro avessero anticipato",
+                    "che essi avessero anticipato",
+                    "che loro avessero prevenuto",
+                    "che essi avessero prevenuto"
+                ]
+            }
+        ]
+    }
+}

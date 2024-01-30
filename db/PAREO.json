@@ -1,0 +1,675 @@
+{
+    "identifier": "PAREO",
+    "conuigazione": "2",
+    "translation": [
+        "apparire",
+        "comparire",
+        "farsi vedere",
+        "(con dativo) obbedire",
+        "(impersonale [paret]) pare"
+    ],
+    "valid_translations": [
+        "apparire",
+        "comparire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pārĕo",
+                "traduzioni": [
+                    "io appaio",
+                    "io compaio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pāres",
+                "traduzioni": [
+                    "tu appari",
+                    "tu compari"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pāret",
+                "traduzioni": [
+                    "lui appare",
+                    "lei appare",
+                    "egli appare",
+                    "lui compare",
+                    "lei compare",
+                    "egli compare"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pārēmus",
+                "traduzioni": [
+                    "noi appariamo",
+                    "noi compariamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pārētis",
+                "traduzioni": [
+                    "voi apparite",
+                    "voi comparite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pārent",
+                "traduzioni": [
+                    "loro appaiono",
+                    "essi appaiono",
+                    "loro compaiono",
+                    "essi compaiono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pārēbam",
+                "traduzioni": [
+                    "io apparivo",
+                    "io comparivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pārēbas",
+                "traduzioni": [
+                    "tu apparivi",
+                    "tu comparivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pārēbat",
+                "traduzioni": [
+                    "lui appariva",
+                    "lei appariva",
+                    "egli appariva",
+                    "lui compariva",
+                    "lei compariva",
+                    "egli compariva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pārebāmus",
+                "traduzioni": [
+                    "noi apparivamo",
+                    "noi comparivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pārebātis",
+                "traduzioni": [
+                    "voi apparivate",
+                    "voi comparivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pārēbant",
+                "traduzioni": [
+                    "loro apparivano",
+                    "essi apparivano",
+                    "loro comparivano",
+                    "essi comparivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pārēbo",
+                "traduzioni": [
+                    "io apparirò",
+                    "io comparirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pārēbis",
+                "traduzioni": [
+                    "tu apparirai",
+                    "tu comparirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pārēbit",
+                "traduzioni": [
+                    "lui apparirà",
+                    "lei apparirà",
+                    "egli apparirà",
+                    "lui comparirà",
+                    "lei comparirà",
+                    "egli comparirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pārebĭmus",
+                "traduzioni": [
+                    "noi appariremo",
+                    "noi compariremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pārebĭtis",
+                "traduzioni": [
+                    "voi apparirete",
+                    "voi comparirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pārēbunt",
+                "traduzioni": [
+                    "loro appariranno",
+                    "essi appariranno",
+                    "loro compariranno",
+                    "essi compariranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "parui",
+                "traduzioni": [
+                    "io apparvi",
+                    "io sono apparso",
+                    "io sono apparsa",
+                    "io fui apparso",
+                    "io fui apparsa",
+                    "io comparvi",
+                    "io sono comparso",
+                    "io sono comparsa",
+                    "io fui comparso",
+                    "io fui comparsa"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "paruisti",
+                "traduzioni": [
+                    "tu apparisti",
+                    "tu sei apparso",
+                    "tu sei apparsa",
+                    "tu fosti apparso",
+                    "tu fosti apparsa",
+                    "tu comparisti",
+                    "tu sei comparso",
+                    "tu sei comparsa",
+                    "tu fosti comparso",
+                    "tu fosti comparsa"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "paruit",
+                "traduzioni": [
+                    "lui apparve",
+                    "lei apparve",
+                    "egli apparve",
+                    "lui è apparso",
+                    "lei è apparsa",
+                    "egli è apparso",
+                    "lui fu apparso",
+                    "lei fu apparsa",
+                    "egli fu apparso",
+                    "lui comparve",
+                    "lei comparve",
+                    "egli comparve",
+                    "lui è comparso",
+                    "lei è comparsa",
+                    "egli è comparso",
+                    "lui fu comparso",
+                    "lei fu comparsa",
+                    "egli fu comparso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "paruĭmus",
+                "traduzioni": [
+                    "noi apparimmo",
+                    "noi siamo apparsi",
+                    "noi siamo apparse",
+                    "noi fummo apparsi",
+                    "noi fummo apparse",
+                    "noi comparimmo",
+                    "noi siamo comparsi",
+                    "noi siamo comparse",
+                    "noi fummo comparsi",
+                    "noi fummo comparse"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "paruistis",
+                "traduzioni": [
+                    "voi appariste",
+                    "voi siete apparsi",
+                    "voi siete apparse",
+                    "voi foste apparsi",
+                    "voi foste apparse",
+                    "voi compariste",
+                    "voi siete comparsi",
+                    "voi siete comparse",
+                    "voi foste comparsi",
+                    "voi foste comparse"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "paruēreunt, paruēre",
+                "traduzioni": [
+                    "loro apparvero",
+                    "essi apparvero",
+                    "loro sono apparsi",
+                    "loro sono apparse",
+                    "essi sono apparsi",
+                    "loro furono apparsi",
+                    "loro furono apparse",
+                    "essi furono apparsi",
+                    "loro comparvero",
+                    "essi comparvero",
+                    "loro sono comparsi",
+                    "loro sono comparse",
+                    "essi sono comparsi",
+                    "loro furono comparsi",
+                    "loro furono comparse",
+                    "essi furono comparsi"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "paruĕram",
+                "traduzioni": [
+                    "io ero apparso",
+                    "io ero apparsa",
+                    "io ero comparso",
+                    "io ero comparsa"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "paruĕras",
+                "traduzioni": [
+                    "tu eri apparso",
+                    "tu eri apparsa",
+                    "tu eri comparso",
+                    "tu eri comparsa"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "paruĕrat",
+                "traduzioni": [
+                    "lui era apparso",
+                    "lei era apparsa",
+                    "egli era apparso",
+                    "lui era comparso",
+                    "lei era comparsa",
+                    "egli era comparso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "paruerāmus",
+                "traduzioni": [
+                    "noi eravamo apparsi",
+                    "noi eravamo apparse",
+                    "noi eravamo comparsi",
+                    "noi eravamo comparse"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "paruerātis",
+                "traduzioni": [
+                    "voi eravate apparsi",
+                    "voi eravate apparse",
+                    "voi eravate comparsi",
+                    "voi eravate comparse"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "paruĕrant",
+                "traduzioni": [
+                    "loro erano apparsi",
+                    "loro erano apparse",
+                    "essi erano apparsi",
+                    "loro erano comparsi",
+                    "loro erano comparse",
+                    "essi erano comparsi"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "paruĕro",
+                "traduzioni": [
+                    "io sarò apparso",
+                    "io sarò apparsa",
+                    "io sarò comparso",
+                    "io sarò comparsa"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "paruĕris",
+                "traduzioni": [
+                    "tu sarai apparso",
+                    "tu sarai apparsa",
+                    "tu sarai comparso",
+                    "tu sarai comparsa"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "paruĕrit",
+                "traduzioni": [
+                    "lui sarà apparso",
+                    "lei sarà apparsa",
+                    "egli sarà apparso",
+                    "lui sarà comparso",
+                    "lei sarà comparsa",
+                    "egli sarà comparso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "paruerĭmus",
+                "traduzioni": [
+                    "noi saremo apparsi",
+                    "noi saremo apparse",
+                    "noi saremo comparsi",
+                    "noi saremo comparse"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "paruerĭtis",
+                "traduzioni": [
+                    "voi sarete apparsi",
+                    "voi sarete apparse",
+                    "voi sarete comparsi",
+                    "voi sarete comparse"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "paruĕrint",
+                "traduzioni": [
+                    "loro saranno apparsi",
+                    "loro saranno apparse",
+                    "essi saranno apparsi",
+                    "loro saranno comparsi",
+                    "loro saranno comparse",
+                    "essi saranno comparsi"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pārĕam",
+                "traduzioni": [
+                    "che io appaia",
+                    "che io compaia"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pārĕas",
+                "traduzioni": [
+                    "che tu appaia",
+                    "che tu compaia"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pārĕat",
+                "traduzioni": [
+                    "che lui appaia",
+                    "che lei appaia",
+                    "che egli appaia",
+                    "che lui compaia",
+                    "che lei compaia",
+                    "che egli compaia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pāreāmus",
+                "traduzioni": [
+                    "che noi appariamo",
+                    "che noi compariamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pāreātis",
+                "traduzioni": [
+                    "che voi appariate",
+                    "che voi compariate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pārĕant",
+                "traduzioni": [
+                    "che loro appaiano",
+                    "che essi appaiano",
+                    "che loro compaiano",
+                    "che essi compaiano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pārērem",
+                "traduzioni": [
+                    "che io apparissi",
+                    "che io comparissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pārēres",
+                "traduzioni": [
+                    "che tu apparissi",
+                    "che tu comparissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pārēret",
+                "traduzioni": [
+                    "che lui apparisse",
+                    "che lei apparisse",
+                    "che egli apparisse",
+                    "che lui comparisse",
+                    "che lei comparisse",
+                    "che egli comparisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pārerēmus",
+                "traduzioni": [
+                    "che noi apparissimo",
+                    "che noi comparissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pārerētis",
+                "traduzioni": [
+                    "che voi appariste",
+                    "che voi compariste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pārērent",
+                "traduzioni": [
+                    "che loro apparissero",
+                    "che essi apparissero",
+                    "che loro comparissero",
+                    "che essi comparissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "paruĕrim",
+                "traduzioni": [
+                    "che io sia apparso",
+                    "che io sia apparsa",
+                    "che io sia comparso",
+                    "che io sia comparsa"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "paruĕris",
+                "traduzioni": [
+                    "che tu sia apparso",
+                    "che tu sia apparsa",
+                    "che tu sia comparso",
+                    "che tu sia comparsa"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "paruĕrit",
+                "traduzioni": [
+                    "che lui sia apparso",
+                    "che lei sia apparsa",
+                    "che egli sia apparso",
+                    "che lui sia comparso",
+                    "che lei sia comparsa",
+                    "che egli sia comparso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "paruerĭmus",
+                "traduzioni": [
+                    "che noi siamo apparsi",
+                    "che noi siamo apparse",
+                    "che noi siamo comparsi",
+                    "che noi siamo comparse"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "paruerĭtis",
+                "traduzioni": [
+                    "che voi siate apparsi",
+                    "che voi siate apparse",
+                    "che voi siate comparsi",
+                    "che voi siate comparse"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "paruĕrint",
+                "traduzioni": [
+                    "che loro siano apparsi",
+                    "che loro siano apparse",
+                    "che essi siano apparsi",
+                    "che loro siano comparsi",
+                    "che loro siano comparse",
+                    "che essi siano comparsi"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "paruissem",
+                "traduzioni": [
+                    "che io fossi apparso",
+                    "che io fossi apparsa",
+                    "che io fossi comparso",
+                    "che io fossi comparsa"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "paruisses",
+                "traduzioni": [
+                    "che tu fossi apparso",
+                    "che tu fossi apparsa",
+                    "che tu fossi comparso",
+                    "che tu fossi comparsa"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "paruisset",
+                "traduzioni": [
+                    "che lui fosse apparso",
+                    "che lei fosse apparsa",
+                    "che egli fosse apparso",
+                    "che lui fosse comparso",
+                    "che lei fosse comparsa",
+                    "che egli fosse comparso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "paruissēmus",
+                "traduzioni": [
+                    "che noi fossimo apparsi",
+                    "che noi fossimo apparse",
+                    "che noi fossimo comparsi",
+                    "che noi fossimo comparse"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "paruissētis",
+                "traduzioni": [
+                    "che voi foste apparsi",
+                    "che voi foste apparse",
+                    "che voi foste comparsi",
+                    "che voi foste comparse"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "paruissent",
+                "traduzioni": [
+                    "che loro fossero apparsi",
+                    "che loro fossero apparse",
+                    "che essi fossero apparsi",
+                    "che loro fossero comparsi",
+                    "che loro fossero comparse",
+                    "che essi fossero comparsi"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,832 @@
+{
+    "identifier": "ARIOLOR",
+    "conuigazione": "1",
+    "translation": [
+        "vaticinare",
+        "indovinare",
+        "vaneggiare",
+        "sragionare"
+    ],
+    "valid_translations": [
+        "vaticinare",
+        "indovinare",
+        "vaneggiare",
+        "sragionare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ărĭŏlor",
+                "traduzioni": [
+                    "io vaticino",
+                    "io indovino",
+                    "io vaneggio",
+                    "io sragiono"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ărĭŏlāris, ărĭŏlāre",
+                "traduzioni": [
+                    "tu vaticini",
+                    "tu indovini",
+                    "tu vaneggi",
+                    "tu sragioni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ărĭŏlātur",
+                "traduzioni": [
+                    "lui vaticina",
+                    "lei vaticina",
+                    "egli vaticina",
+                    "lui indovina",
+                    "lei indovina",
+                    "egli indovina",
+                    "lui vaneggia",
+                    "lei vaneggia",
+                    "egli vaneggia",
+                    "lui sragiona",
+                    "lei sragiona",
+                    "egli sragiona"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ărĭŏlāmur",
+                "traduzioni": [
+                    "noi vaticiniamo",
+                    "noi indoviniamo",
+                    "noi vaneggiamo",
+                    "noi sragioniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ărĭŏlamĭni",
+                "traduzioni": [
+                    "voi vaticinate",
+                    "voi indovinate",
+                    "voi vaneggiate",
+                    "voi sragionate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ărĭŏlantur",
+                "traduzioni": [
+                    "loro vaticinano",
+                    "essi vaticinano",
+                    "loro indovinano",
+                    "essi indovinano",
+                    "loro vaneggiano",
+                    "essi vaneggiano",
+                    "loro sragionano",
+                    "essi sragionano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ărĭŏlābar",
+                "traduzioni": [
+                    "io vaticinavo",
+                    "io indovinavo",
+                    "io vaneggiavo",
+                    "io sragionavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ărĭŏlabāris, ărĭŏlabāre",
+                "traduzioni": [
+                    "tu vaticinavi",
+                    "tu indovinavi",
+                    "tu vaneggiavi",
+                    "tu sragionavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ărĭŏlabātur",
+                "traduzioni": [
+                    "lui vaticinava",
+                    "lei vaticinava",
+                    "egli vaticinava",
+                    "lui indovinava",
+                    "lei indovinava",
+                    "egli indovinava",
+                    "lui vaneggiava",
+                    "lei vaneggiava",
+                    "egli vaneggiava",
+                    "lui sragionava",
+                    "lei sragionava",
+                    "egli sragionava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ărĭŏlabāmus",
+                "traduzioni": [
+                    "noi vaticinavamo",
+                    "noi indovinavamo",
+                    "noi vaneggiavamo",
+                    "noi sragionavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ărĭŏlabamĭni",
+                "traduzioni": [
+                    "voi vaticinavate",
+                    "voi indovinavate",
+                    "voi vaneggiavate",
+                    "voi sragionavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ărĭŏlantur",
+                "traduzioni": [
+                    "loro vaticinavano",
+                    "essi vaticinavano",
+                    "loro indovinavano",
+                    "essi indovinavano",
+                    "loro vaneggiavano",
+                    "essi vaneggiavano",
+                    "loro sragionavano",
+                    "essi sragionavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ărĭŏlābor",
+                "traduzioni": [
+                    "io vaticinerò",
+                    "io indovinerò",
+                    "io vaneggerò",
+                    "io sragionerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ărĭŏlabĕris, ărĭŏlabĕre",
+                "traduzioni": [
+                    "tu vaticinerai",
+                    "tu indovinerai",
+                    "tu vaneggerai",
+                    "tu sragionerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ărĭŏlabĭtur",
+                "traduzioni": [
+                    "lui vaticinerà",
+                    "lei vaticinerà",
+                    "egli vaticinerà",
+                    "lui indovinerà",
+                    "lei indovinerà",
+                    "egli indovinerà",
+                    "lui vaneggerà",
+                    "lei vaneggerà",
+                    "egli vaneggerà",
+                    "lui sragionerà",
+                    "lei sragionerà",
+                    "egli sragionerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ărĭŏlabĭmur",
+                "traduzioni": [
+                    "noi vaticineremo",
+                    "noi indovineremo",
+                    "noi vaneggeremo",
+                    "noi sragioneremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ărĭŏlabimĭni",
+                "traduzioni": [
+                    "voi vaticinerete",
+                    "voi indovinerete",
+                    "voi vaneggerete",
+                    "voi sragionerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ărĭŏlabuntur",
+                "traduzioni": [
+                    "loro vaticineranno",
+                    "essi vaticineranno",
+                    "loro indovineranno",
+                    "essi indovineranno",
+                    "loro vaneggeranno",
+                    "essi vaneggeranno",
+                    "loro sragioneranno",
+                    "essi sragioneranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ariolatus, –a, –um  sum",
+                "traduzioni": [
+                    "io vaticinai",
+                    "io ho vaticinato",
+                    "io ebbi vaticinato",
+                    "io indovinai",
+                    "io ho indovinato",
+                    "io ebbi indovinato",
+                    "io vaneggiai",
+                    "io ho vaneggiato",
+                    "io ebbi vaneggiato",
+                    "io sragionai",
+                    "io ho sragionato",
+                    "io ebbi sragionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ariolatus, –a, –um  es",
+                "traduzioni": [
+                    "tu vaticinasti",
+                    "tu hai vaticinato",
+                    "tu avesti vaticinato",
+                    "tu indovinasti",
+                    "tu hai indovinato",
+                    "tu avesti indovinato",
+                    "tu vaneggiasti",
+                    "tu hai vaneggiato",
+                    "tu avesti vaneggiato",
+                    "tu sragionasti",
+                    "tu hai sragionato",
+                    "tu avesti sragionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ariolatus, –a, –um  est",
+                "traduzioni": [
+                    "lui vaticinò",
+                    "lei vaticinò",
+                    "egli vaticinò",
+                    "lui ha vaticinato",
+                    "lei ha vaticinato",
+                    "egli ha vaticinato",
+                    "lui ebbe vaticinato",
+                    "lei ebbe vaticinato",
+                    "egli ebbe vaticinato",
+                    "lui indovinò",
+                    "lei indovinò",
+                    "egli indovinò",
+                    "lui ha indovinato",
+                    "lei ha indovinato",
+                    "egli ha indovinato",
+                    "lui ebbe indovinato",
+                    "lei ebbe indovinato",
+                    "egli ebbe indovinato",
+                    "lui vaneggiò",
+                    "lei vaneggiò",
+                    "egli vaneggiò",
+                    "lui ha vaneggiato",
+                    "lei ha vaneggiato",
+                    "egli ha vaneggiato",
+                    "lui ebbe vaneggiato",
+                    "lei ebbe vaneggiato",
+                    "egli ebbe vaneggiato",
+                    "lui sragionò",
+                    "lei sragionò",
+                    "egli sragionò",
+                    "lui ha sragionato",
+                    "lei ha sragionato",
+                    "egli ha sragionato",
+                    "lui ebbe sragionato",
+                    "lei ebbe sragionato",
+                    "egli ebbe sragionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ariolati, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi vaticinammo",
+                    "noi abbiamo vaticinato",
+                    "noi avemmo vaticinato",
+                    "noi indovinammo",
+                    "noi abbiamo indovinato",
+                    "noi avemmo indovinato",
+                    "noi vaneggiammo",
+                    "noi abbiamo vaneggiato",
+                    "noi avemmo vaneggiato",
+                    "noi sragionammo",
+                    "noi abbiamo sragionato",
+                    "noi avemmo sragionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ariolati, –ae, –a  estis",
+                "traduzioni": [
+                    "voi vaticinaste",
+                    "voi avete vaticinato",
+                    "voi aveste vaticinato",
+                    "voi indovinaste",
+                    "voi avete indovinato",
+                    "voi aveste indovinato",
+                    "voi vaneggiaste",
+                    "voi avete vaneggiato",
+                    "voi aveste vaneggiato",
+                    "voi sragionaste",
+                    "voi avete sragionato",
+                    "voi aveste sragionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ariolati, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro vaticinarono",
+                    "essi vaticinarono",
+                    "loro hanno vaticinato",
+                    "essi hanno vaticinato",
+                    "loro ebbero vaticinato",
+                    "essi ebbero vaticinato",
+                    "loro indovinarono",
+                    "essi indovinarono",
+                    "loro hanno indovinato",
+                    "essi hanno indovinato",
+                    "loro ebbero indovinato",
+                    "essi ebbero indovinato",
+                    "loro vaneggiarono",
+                    "essi vaneggiarono",
+                    "loro hanno vaneggiato",
+                    "essi hanno vaneggiato",
+                    "loro ebbero vaneggiato",
+                    "essi ebbero vaneggiato",
+                    "loro sragionarono",
+                    "essi sragionarono",
+                    "loro hanno sragionato",
+                    "essi hanno sragionato",
+                    "loro ebbero sragionato",
+                    "essi ebbero sragionato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ariolatus, –a, –um  eram",
+                "traduzioni": [
+                    "io avevo vaticinato",
+                    "io avevo indovinato",
+                    "io avevo vaneggiato",
+                    "io avevo sragionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ariolatus, –a, –um  eras",
+                "traduzioni": [
+                    "tu avevi vaticinato",
+                    "tu avevi indovinato",
+                    "tu avevi vaneggiato",
+                    "tu avevi sragionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ariolatus, –a, –um  erat",
+                "traduzioni": [
+                    "lui aveva vaticinato",
+                    "lei aveva vaticinato",
+                    "egli aveva vaticinato",
+                    "lui aveva indovinato",
+                    "lei aveva indovinato",
+                    "egli aveva indovinato",
+                    "lui aveva vaneggiato",
+                    "lei aveva vaneggiato",
+                    "egli aveva vaneggiato",
+                    "lui aveva sragionato",
+                    "lei aveva sragionato",
+                    "egli aveva sragionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ariolati, –ae, –a  eramus",
+                "traduzioni": [
+                    "noi avevamo vaticinato",
+                    "noi avevamo indovinato",
+                    "noi avevamo vaneggiato",
+                    "noi avevamo sragionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ariolati, –ae, –a  eratis",
+                "traduzioni": [
+                    "voi avevate vaticinato",
+                    "voi avevate indovinato",
+                    "voi avevate vaneggiato",
+                    "voi avevate sragionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ariolati, –ae, –a erant",
+                "traduzioni": [
+                    "loro avevano vaticinato",
+                    "essi avevano vaticinato",
+                    "loro avevano indovinato",
+                    "essi avevano indovinato",
+                    "loro avevano vaneggiato",
+                    "essi avevano vaneggiato",
+                    "loro avevano sragionato",
+                    "essi avevano sragionato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ariolatus, –a, –um  ero",
+                "traduzioni": [
+                    "io avrò vaticinato",
+                    "io avrò indovinato",
+                    "io avrò vaneggiato",
+                    "io avrò sragionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ariolatus, –a, –um  eris",
+                "traduzioni": [
+                    "tu avrai vaticinato",
+                    "tu avrai indovinato",
+                    "tu avrai vaneggiato",
+                    "tu avrai sragionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ariolatus, –a, –um  erit",
+                "traduzioni": [
+                    "lui avrà vaticinato",
+                    "lei avrà vaticinato",
+                    "egli avrà vaticinato",
+                    "lui avrà indovinato",
+                    "lei avrà indovinato",
+                    "egli avrà indovinato",
+                    "lui avrà vaneggiato",
+                    "lei avrà vaneggiato",
+                    "egli avrà vaneggiato",
+                    "lui avrà sragionato",
+                    "lei avrà sragionato",
+                    "egli avrà sragionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ariolati, –ae, –a  erimus",
+                "traduzioni": [
+                    "noi avremo vaticinato",
+                    "noi avremo indovinato",
+                    "noi avremo vaneggiato",
+                    "noi avremo sragionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ariolati, –ae, –a  eritis",
+                "traduzioni": [
+                    "voi avrete vaticinato",
+                    "voi avrete indovinato",
+                    "voi avrete vaneggiato",
+                    "voi avrete sragionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ariolati, –ae, –a  erunt",
+                "traduzioni": [
+                    "loro avranno vaticinato",
+                    "essi avranno vaticinato",
+                    "loro avranno indovinato",
+                    "essi avranno indovinato",
+                    "loro avranno vaneggiato",
+                    "essi avranno vaneggiato",
+                    "loro avranno sragionato",
+                    "essi avranno sragionato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ărĭŏler",
+                "traduzioni": [
+                    "che io vaticini",
+                    "che io indovini",
+                    "che io vaneggi",
+                    "che io sragioni"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ărĭŏlēris, ărĭŏlēre",
+                "traduzioni": [
+                    "che tu vaticini",
+                    "che tu indovini",
+                    "che tu vaneggi",
+                    "che tu sragioni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ărĭŏlētur",
+                "traduzioni": [
+                    "che lui vaticini",
+                    "che lei vaticini",
+                    "che egli vaticini",
+                    "che lui indovini",
+                    "che lei indovini",
+                    "che egli indovini",
+                    "che lui vaneggi",
+                    "che lei vaneggi",
+                    "che egli vaneggi",
+                    "che lui sragioni",
+                    "che lei sragioni",
+                    "che egli sragioni"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ărĭŏlēmur",
+                "traduzioni": [
+                    "che noi vaticiniamo",
+                    "che noi indoviniamo",
+                    "che noi vaneggiamo",
+                    "che noi sragioniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ărĭŏlemĭni",
+                "traduzioni": [
+                    "che voi vaticiniate",
+                    "che voi indoviniate",
+                    "che voi vaneggiate",
+                    "che voi sragioniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ărĭŏlentur",
+                "traduzioni": [
+                    "che loro vaticinino",
+                    "che essi vaticinino",
+                    "che loro indovinino",
+                    "che essi indovinino",
+                    "che loro vaneggino",
+                    "che essi vaneggino",
+                    "che loro sragionino",
+                    "che essi sragionino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ărĭŏlārer",
+                "traduzioni": [
+                    "che io vaticinassi",
+                    "che io indovinassi",
+                    "che io vaneggiassi",
+                    "che io sragionassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ărĭŏlarēris, ărĭŏlarēre",
+                "traduzioni": [
+                    "che tu vaticinassi",
+                    "che tu indovinassi",
+                    "che tu vaneggiassi",
+                    "che tu sragionassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ărĭŏlarētur",
+                "traduzioni": [
+                    "che lui vaticinasse",
+                    "che lei vaticinasse",
+                    "che egli vaticinasse",
+                    "che lui indovinasse",
+                    "che lei indovinasse",
+                    "che egli indovinasse",
+                    "che lui vaneggiasse",
+                    "che lei vaneggiasse",
+                    "che egli vaneggiasse",
+                    "che lui sragionasse",
+                    "che lei sragionasse",
+                    "che egli sragionasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ărĭŏlāremur",
+                "traduzioni": [
+                    "che noi vaticinassimo",
+                    "che noi indovinassimo",
+                    "che noi vaneggiassimo",
+                    "che noi sragionassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ărĭŏlaremĭni",
+                "traduzioni": [
+                    "che voi vaticinaste",
+                    "che voi indovinaste",
+                    "che voi vaneggiaste",
+                    "che voi sragionaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ărĭŏlarentur",
+                "traduzioni": [
+                    "che loro vaticinassero",
+                    "che essi vaticinassero",
+                    "che loro indovinassero",
+                    "che essi indovinassero",
+                    "che loro vaneggiassero",
+                    "che essi vaneggiassero",
+                    "che loro sragionassero",
+                    "che essi sragionassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ariolatus, –a, –um  sim",
+                "traduzioni": [
+                    "che io abbia vaticinato",
+                    "che io abbia indovinato",
+                    "che io abbia vaneggiato",
+                    "che io abbia sragionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ariolatus, –a, –um  sis",
+                "traduzioni": [
+                    "che tu abbia vaticinato",
+                    "che tu abbia indovinato",
+                    "che tu abbia vaneggiato",
+                    "che tu abbia sragionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ariolatus, –a, –um  sit",
+                "traduzioni": [
+                    "che lui abbia vaticinato",
+                    "che lei abbia vaticinato",
+                    "che egli abbia vaticinato",
+                    "che lui abbia indovinato",
+                    "che lei abbia indovinato",
+                    "che egli abbia indovinato",
+                    "che lui abbia vaneggiato",
+                    "che lei abbia vaneggiato",
+                    "che egli abbia vaneggiato",
+                    "che lui abbia sragionato",
+                    "che lei abbia sragionato",
+                    "che egli abbia sragionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ariolati, –ae, –a  simus",
+                "traduzioni": [
+                    "che noi abbiamo vaticinato",
+                    "che noi abbiamo indovinato",
+                    "che noi abbiamo vaneggiato",
+                    "che noi abbiamo sragionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ariolati, –ae, –a  sitis",
+                "traduzioni": [
+                    "che voi abbiate vaticinato",
+                    "che voi abbiate indovinato",
+                    "che voi abbiate vaneggiato",
+                    "che voi abbiate sragionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ariolati, –ae, –a  sint",
+                "traduzioni": [
+                    "che loro abbiano vaticinato",
+                    "che essi abbiano vaticinato",
+                    "che loro abbiano indovinato",
+                    "che essi abbiano indovinato",
+                    "che loro abbiano vaneggiato",
+                    "che essi abbiano vaneggiato",
+                    "che loro abbiano sragionato",
+                    "che essi abbiano sragionato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ariolatus, –a, –um  essem",
+                "traduzioni": [
+                    "che io avessi vaticinato",
+                    "che io avessi indovinato",
+                    "che io avessi vaneggiato",
+                    "che io avessi sragionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ariolatus, –a, –um  esses",
+                "traduzioni": [
+                    "che tu avessi vaticinato",
+                    "che tu avessi indovinato",
+                    "che tu avessi vaneggiato",
+                    "che tu avessi sragionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ariolatus, –a, –um  esset",
+                "traduzioni": [
+                    "che lui avesse vaticinato",
+                    "che lei avesse vaticinato",
+                    "che egli avesse vaticinato",
+                    "che lui avesse indovinato",
+                    "che lei avesse indovinato",
+                    "che egli avesse indovinato",
+                    "che lui avesse vaneggiato",
+                    "che lei avesse vaneggiato",
+                    "che egli avesse vaneggiato",
+                    "che lui avesse sragionato",
+                    "che lei avesse sragionato",
+                    "che egli avesse sragionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ariolati, –ae, –a  essemus",
+                "traduzioni": [
+                    "che noi avessimo vaticinato",
+                    "che noi avessimo indovinato",
+                    "che noi avessimo vaneggiato",
+                    "che noi avessimo sragionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ariolati, –ae, –a  essetis",
+                "traduzioni": [
+                    "che voi aveste vaticinato",
+                    "che voi aveste indovinato",
+                    "che voi aveste vaneggiato",
+                    "che voi aveste sragionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ariolati, –ae, –a  essent",
+                "traduzioni": [
+                    "che loro avessero vaticinato",
+                    "che essi avessero vaticinato",
+                    "che loro avessero indovinato",
+                    "che essi avessero indovinato",
+                    "che loro avessero vaneggiato",
+                    "che essi avessero vaneggiato",
+                    "che loro avessero sragionato",
+                    "che essi avessero sragionato"
+                ]
+            }
+        ]
+    }
+}

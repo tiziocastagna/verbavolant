@@ -1,0 +1,724 @@
+{
+    "identifier": "DEBELLO",
+    "conuigazione": "1",
+    "translation": [
+        "(intransitivo) vincere",
+        "(transitivo) debellare",
+        "sottomettere",
+        "domare",
+        "vincere"
+    ],
+    "valid_translations": [
+        "sottomettere",
+        "domare",
+        "vincere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēbello",
+                "traduzioni": [
+                    "io sottometto",
+                    "io domo",
+                    "io vinco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēbellas",
+                "traduzioni": [
+                    "tu sottometti",
+                    "tu domi",
+                    "tu vinci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēbellat",
+                "traduzioni": [
+                    "lui sottomette",
+                    "lei sottomette",
+                    "egli sottomette",
+                    "lui doma",
+                    "lei doma",
+                    "egli doma",
+                    "lui vince",
+                    "lei vince",
+                    "egli vince"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēbellāmus",
+                "traduzioni": [
+                    "noi sottomettiamo",
+                    "noi domiamo",
+                    "noi vinciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēbellātis",
+                "traduzioni": [
+                    "voi sottomettete",
+                    "voi domate",
+                    "voi vincete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēbellant",
+                "traduzioni": [
+                    "loro sottomettono",
+                    "essi sottomettono",
+                    "loro domano",
+                    "essi domano",
+                    "loro vincono",
+                    "essi vincono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēbellābam",
+                "traduzioni": [
+                    "io sottomettevo",
+                    "io domavo",
+                    "io vincevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēbellābas",
+                "traduzioni": [
+                    "tu sottomettevi",
+                    "tu domavi",
+                    "tu vincevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēbellābat",
+                "traduzioni": [
+                    "lui sottometteva",
+                    "lei sottometteva",
+                    "egli sottometteva",
+                    "lui domava",
+                    "lei domava",
+                    "egli domava",
+                    "lui vinceva",
+                    "lei vinceva",
+                    "egli vinceva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēbellabāmus",
+                "traduzioni": [
+                    "noi sottomettevamo",
+                    "noi domavamo",
+                    "noi vincevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēbellabātis",
+                "traduzioni": [
+                    "voi sottomettevate",
+                    "voi domavate",
+                    "voi vincevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēbellābant",
+                "traduzioni": [
+                    "loro sottomettevano",
+                    "essi sottomettevano",
+                    "loro domavano",
+                    "essi domavano",
+                    "loro vincevano",
+                    "essi vincevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēbellābo",
+                "traduzioni": [
+                    "io sottometterò",
+                    "io domerò",
+                    "io vincerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēbellābis",
+                "traduzioni": [
+                    "tu sottometterai",
+                    "tu domerai",
+                    "tu vincerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēbellābit",
+                "traduzioni": [
+                    "lui sottometterà",
+                    "lei sottometterà",
+                    "egli sottometterà",
+                    "lui domerà",
+                    "lei domerà",
+                    "egli domerà",
+                    "lui vincerà",
+                    "lei vincerà",
+                    "egli vincerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēbellabĭmus",
+                "traduzioni": [
+                    "noi sottometteremo",
+                    "noi domeremo",
+                    "noi vinceremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēbellabĭtis",
+                "traduzioni": [
+                    "voi sottometterete",
+                    "voi domerete",
+                    "voi vincerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēbellābunt",
+                "traduzioni": [
+                    "loro sottometteranno",
+                    "essi sottometteranno",
+                    "loro domeranno",
+                    "essi domeranno",
+                    "loro vinceranno",
+                    "essi vinceranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "debellavi",
+                "traduzioni": [
+                    "io sottomisi",
+                    "io ho sottomesso",
+                    "io ebbi sottomesso",
+                    "io domai",
+                    "io ho domato",
+                    "io ebbi domato",
+                    "io vinsi",
+                    "io ho vinto",
+                    "io ebbi vinto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "debellavisti",
+                "traduzioni": [
+                    "tu sottomettesti",
+                    "tu hai sottomesso",
+                    "tu avesti sottomesso",
+                    "tu domasti",
+                    "tu hai domato",
+                    "tu avesti domato",
+                    "tu vincesti",
+                    "tu hai vinto",
+                    "tu avesti vinto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "debellavit",
+                "traduzioni": [
+                    "lui sottomise",
+                    "lei sottomise",
+                    "egli sottomise",
+                    "lui ha sottomesso",
+                    "lei ha sottomesso",
+                    "egli ha sottomesso",
+                    "lui ebbe sottomesso",
+                    "lei ebbe sottomesso",
+                    "egli ebbe sottomesso",
+                    "lui domò",
+                    "lei domò",
+                    "egli domò",
+                    "lui ha domato",
+                    "lei ha domato",
+                    "egli ha domato",
+                    "lui ebbe domato",
+                    "lei ebbe domato",
+                    "egli ebbe domato",
+                    "lui vinse",
+                    "lei vinse",
+                    "egli vinse",
+                    "lui ha vinto",
+                    "lei ha vinto",
+                    "egli ha vinto",
+                    "lui ebbe vinto",
+                    "lei ebbe vinto",
+                    "egli ebbe vinto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "debellavĭmus",
+                "traduzioni": [
+                    "noi sottomettemmo",
+                    "noi abbiamo sottomesso",
+                    "noi avemmo sottomesso",
+                    "noi domammo",
+                    "noi abbiamo domato",
+                    "noi avemmo domato",
+                    "noi vincemmo",
+                    "noi abbiamo vinto",
+                    "noi avemmo vinto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "debellavistis",
+                "traduzioni": [
+                    "voi sottometteste",
+                    "voi avete sottomesso",
+                    "voi aveste sottomesso",
+                    "voi domaste",
+                    "voi avete domato",
+                    "voi aveste domato",
+                    "voi vinceste",
+                    "voi avete vinto",
+                    "voi aveste vinto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "debellavēreunt, debellavēre",
+                "traduzioni": [
+                    "loro sottomisero",
+                    "essi sottomisero",
+                    "loro hanno sottomesso",
+                    "essi hanno sottomesso",
+                    "loro ebbero sottomesso",
+                    "essi ebbero sottomesso",
+                    "loro domarono",
+                    "essi domarono",
+                    "loro hanno domato",
+                    "essi hanno domato",
+                    "loro ebbero domato",
+                    "essi ebbero domato",
+                    "loro vinsero",
+                    "essi vinsero",
+                    "loro hanno vinto",
+                    "essi hanno vinto",
+                    "loro ebbero vinto",
+                    "essi ebbero vinto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "debellavĕram",
+                "traduzioni": [
+                    "io avevo sottomesso",
+                    "io avevo domato",
+                    "io avevo vinto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "debellavĕras",
+                "traduzioni": [
+                    "tu avevi sottomesso",
+                    "tu avevi domato",
+                    "tu avevi vinto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "debellavĕrat",
+                "traduzioni": [
+                    "lui aveva sottomesso",
+                    "lei aveva sottomesso",
+                    "egli aveva sottomesso",
+                    "lui aveva domato",
+                    "lei aveva domato",
+                    "egli aveva domato",
+                    "lui aveva vinto",
+                    "lei aveva vinto",
+                    "egli aveva vinto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "debellaverāmus",
+                "traduzioni": [
+                    "noi avevamo sottomesso",
+                    "noi avevamo domato",
+                    "noi avevamo vinto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "debellaverātis",
+                "traduzioni": [
+                    "voi avevate sottomesso",
+                    "voi avevate domato",
+                    "voi avevate vinto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "debellavĕrant",
+                "traduzioni": [
+                    "loro avevano sottomesso",
+                    "essi avevano sottomesso",
+                    "loro avevano domato",
+                    "essi avevano domato",
+                    "loro avevano vinto",
+                    "essi avevano vinto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "debellavĕro",
+                "traduzioni": [
+                    "io avrò sottomesso",
+                    "io avrò domato",
+                    "io avrò vinto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "debellavĕris",
+                "traduzioni": [
+                    "tu avrai sottomesso",
+                    "tu avrai domato",
+                    "tu avrai vinto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "debellavĕrit",
+                "traduzioni": [
+                    "lui avrà sottomesso",
+                    "lei avrà sottomesso",
+                    "egli avrà sottomesso",
+                    "lui avrà domato",
+                    "lei avrà domato",
+                    "egli avrà domato",
+                    "lui avrà vinto",
+                    "lei avrà vinto",
+                    "egli avrà vinto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "debellaverĭmus",
+                "traduzioni": [
+                    "noi avremo sottomesso",
+                    "noi avremo domato",
+                    "noi avremo vinto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "debellaverĭtis",
+                "traduzioni": [
+                    "voi avrete sottomesso",
+                    "voi avrete domato",
+                    "voi avrete vinto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "debellavĕrint",
+                "traduzioni": [
+                    "loro avranno sottomesso",
+                    "essi avranno sottomesso",
+                    "loro avranno domato",
+                    "essi avranno domato",
+                    "loro avranno vinto",
+                    "essi avranno vinto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēbellem",
+                "traduzioni": [
+                    "che io sottometta",
+                    "che io domi",
+                    "che io vinca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēbelles",
+                "traduzioni": [
+                    "che tu sottometta",
+                    "che tu domi",
+                    "che tu vinca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēbellet",
+                "traduzioni": [
+                    "che lui sottometta",
+                    "che lei sottometta",
+                    "che egli sottometta",
+                    "che lui domi",
+                    "che lei domi",
+                    "che egli domi",
+                    "che lui vinca",
+                    "che lei vinca",
+                    "che egli vinca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēbellēmus",
+                "traduzioni": [
+                    "che noi sottomettiamo",
+                    "che noi domiamo",
+                    "che noi vinciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēbellētis",
+                "traduzioni": [
+                    "che voi sottomettiate",
+                    "che voi domiate",
+                    "che voi vinciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēbellent",
+                "traduzioni": [
+                    "che loro sottomettano",
+                    "che essi sottomettano",
+                    "che loro domino",
+                    "che essi domino",
+                    "che loro vincano",
+                    "che essi vincano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēbellārem",
+                "traduzioni": [
+                    "che io sottomettessi",
+                    "che io domassi",
+                    "che io vincessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēbellāres",
+                "traduzioni": [
+                    "che tu sottomettessi",
+                    "che tu domassi",
+                    "che tu vincessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēbellāret",
+                "traduzioni": [
+                    "che lui sottomettesse",
+                    "che lei sottomettesse",
+                    "che egli sottomettesse",
+                    "che lui domasse",
+                    "che lei domasse",
+                    "che egli domasse",
+                    "che lui vincesse",
+                    "che lei vincesse",
+                    "che egli vincesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēbellarēmus",
+                "traduzioni": [
+                    "che noi sottomettessimo",
+                    "che noi domassimo",
+                    "che noi vincessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēbellarētis",
+                "traduzioni": [
+                    "che voi sottometteste",
+                    "che voi domaste",
+                    "che voi vinceste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēbellārent",
+                "traduzioni": [
+                    "che loro sottomettessero",
+                    "che essi sottomettessero",
+                    "che loro domassero",
+                    "che essi domassero",
+                    "che loro vincessero",
+                    "che essi vincessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "debellavĕrim",
+                "traduzioni": [
+                    "che io abbia sottomesso",
+                    "che io abbia domato",
+                    "che io abbia vinto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "debellavĕris",
+                "traduzioni": [
+                    "che tu abbia sottomesso",
+                    "che tu abbia domato",
+                    "che tu abbia vinto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "debellavĕrit",
+                "traduzioni": [
+                    "che lui abbia sottomesso",
+                    "che lei abbia sottomesso",
+                    "che egli abbia sottomesso",
+                    "che lui abbia domato",
+                    "che lei abbia domato",
+                    "che egli abbia domato",
+                    "che lui abbia vinto",
+                    "che lei abbia vinto",
+                    "che egli abbia vinto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "debellaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo sottomesso",
+                    "che noi abbiamo domato",
+                    "che noi abbiamo vinto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "debellaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate sottomesso",
+                    "che voi abbiate domato",
+                    "che voi abbiate vinto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "debellavĕrint",
+                "traduzioni": [
+                    "che loro abbiano sottomesso",
+                    "che essi abbiano sottomesso",
+                    "che loro abbiano domato",
+                    "che essi abbiano domato",
+                    "che loro abbiano vinto",
+                    "che essi abbiano vinto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "debellavissem",
+                "traduzioni": [
+                    "che io avessi sottomesso",
+                    "che io avessi domato",
+                    "che io avessi vinto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "debellavisses",
+                "traduzioni": [
+                    "che tu avessi sottomesso",
+                    "che tu avessi domato",
+                    "che tu avessi vinto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "debellavisset",
+                "traduzioni": [
+                    "che lui avesse sottomesso",
+                    "che lei avesse sottomesso",
+                    "che egli avesse sottomesso",
+                    "che lui avesse domato",
+                    "che lei avesse domato",
+                    "che egli avesse domato",
+                    "che lui avesse vinto",
+                    "che lei avesse vinto",
+                    "che egli avesse vinto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "debellavissēmus",
+                "traduzioni": [
+                    "che noi avessimo sottomesso",
+                    "che noi avessimo domato",
+                    "che noi avessimo vinto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "debellavissētis",
+                "traduzioni": [
+                    "che voi aveste sottomesso",
+                    "che voi aveste domato",
+                    "che voi aveste vinto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "debellavissent",
+                "traduzioni": [
+                    "che loro avessero sottomesso",
+                    "che essi avessero sottomesso",
+                    "che loro avessero domato",
+                    "che essi avessero domato",
+                    "che loro avessero vinto",
+                    "che essi avessero vinto"
+                ]
+            }
+        ]
+    }
+}

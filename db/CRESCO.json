@@ -1,0 +1,1062 @@
+{
+    "identifier": "CRESCO",
+    "conuigazione": "3",
+    "translation": [
+        "nascere",
+        "spuntare",
+        "derivare",
+        "crescere",
+        "aumentare"
+    ],
+    "valid_translations": [
+        "nascere",
+        "spuntare",
+        "derivare",
+        "crescere",
+        "aumentare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cresco",
+                "traduzioni": [
+                    "io nasco",
+                    "io spunto",
+                    "io derivo",
+                    "io cresco",
+                    "io aumento"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crescis",
+                "traduzioni": [
+                    "tu nasci",
+                    "tu spunti",
+                    "tu derivi",
+                    "tu cresci",
+                    "tu aumenti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crescit",
+                "traduzioni": [
+                    "lui nasce",
+                    "lei nasce",
+                    "egli nasce",
+                    "lui spunta",
+                    "lei spunta",
+                    "egli spunta",
+                    "lui deriva",
+                    "lei deriva",
+                    "egli deriva",
+                    "lui cresce",
+                    "lei cresce",
+                    "egli cresce",
+                    "lui aumenta",
+                    "lei aumenta",
+                    "egli aumenta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crescĭmus",
+                "traduzioni": [
+                    "noi nasciamo",
+                    "noi spuntiamo",
+                    "noi deriviamo",
+                    "noi cresciamo",
+                    "noi aumentiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crescĭtis",
+                "traduzioni": [
+                    "voi nascete",
+                    "voi spuntate",
+                    "voi derivate",
+                    "voi crescete",
+                    "voi aumentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crescunt",
+                "traduzioni": [
+                    "loro nascono",
+                    "essi nascono",
+                    "loro spuntano",
+                    "essi spuntano",
+                    "loro derivano",
+                    "essi derivano",
+                    "loro crescono",
+                    "essi crescono",
+                    "loro aumentano",
+                    "essi aumentano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "crescēbam",
+                "traduzioni": [
+                    "io nascevo",
+                    "io spuntavo",
+                    "io derivavo",
+                    "io crescevo",
+                    "io aumentavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crescēbas",
+                "traduzioni": [
+                    "tu nascevi",
+                    "tu spuntavi",
+                    "tu derivavi",
+                    "tu crescevi",
+                    "tu aumentavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crescēbat",
+                "traduzioni": [
+                    "lui nasceva",
+                    "lei nasceva",
+                    "egli nasceva",
+                    "lui spuntava",
+                    "lei spuntava",
+                    "egli spuntava",
+                    "lui derivava",
+                    "lei derivava",
+                    "egli derivava",
+                    "lui cresceva",
+                    "lei cresceva",
+                    "egli cresceva",
+                    "lui aumentava",
+                    "lei aumentava",
+                    "egli aumentava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crescebāmus",
+                "traduzioni": [
+                    "noi nascevamo",
+                    "noi spuntavamo",
+                    "noi derivavamo",
+                    "noi crescevamo",
+                    "noi aumentavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crescebātis",
+                "traduzioni": [
+                    "voi nascevate",
+                    "voi spuntavate",
+                    "voi derivavate",
+                    "voi crescevate",
+                    "voi aumentavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crescēbant",
+                "traduzioni": [
+                    "loro nascevano",
+                    "essi nascevano",
+                    "loro spuntavano",
+                    "essi spuntavano",
+                    "loro derivavano",
+                    "essi derivavano",
+                    "loro crescevano",
+                    "essi crescevano",
+                    "loro aumentavano",
+                    "essi aumentavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "crescam",
+                "traduzioni": [
+                    "io nascerò",
+                    "io spunterò",
+                    "io deriverò",
+                    "io crescerò",
+                    "io aumenterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cresces",
+                "traduzioni": [
+                    "tu nascerai",
+                    "tu spunterai",
+                    "tu deriverai",
+                    "tu crescerai",
+                    "tu aumenterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crescet",
+                "traduzioni": [
+                    "lui nascerà",
+                    "lei nascerà",
+                    "egli nascerà",
+                    "lui spunterà",
+                    "lei spunterà",
+                    "egli spunterà",
+                    "lui deriverà",
+                    "lei deriverà",
+                    "egli deriverà",
+                    "lui crescerà",
+                    "lei crescerà",
+                    "egli crescerà",
+                    "lui aumenterà",
+                    "lei aumenterà",
+                    "egli aumenterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crescēmus",
+                "traduzioni": [
+                    "noi nasceremo",
+                    "noi spunteremo",
+                    "noi deriveremo",
+                    "noi cresceremo",
+                    "noi aumenteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crescētis",
+                "traduzioni": [
+                    "voi nascerete",
+                    "voi spunterete",
+                    "voi deriverete",
+                    "voi crescerete",
+                    "voi aumenterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crescent",
+                "traduzioni": [
+                    "loro nasceranno",
+                    "essi nasceranno",
+                    "loro spunteranno",
+                    "essi spunteranno",
+                    "loro deriveranno",
+                    "essi deriveranno",
+                    "loro cresceranno",
+                    "essi cresceranno",
+                    "loro aumenteranno",
+                    "essi aumenteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "crevi",
+                "traduzioni": [
+                    "io nacqui",
+                    "io sono nato",
+                    "io sono nata",
+                    "io fui nato",
+                    "io fui nata",
+                    "io spuntai",
+                    "io ho spuntato",
+                    "io ebbi spuntato",
+                    "io derivai",
+                    "io sono derivato",
+                    "io sono derivata",
+                    "io fui derivato",
+                    "io fui derivata",
+                    "io crebbi",
+                    "io sono cresciuto",
+                    "io sono cresciuta",
+                    "io fui cresciuto",
+                    "io fui cresciuta",
+                    "io aumentai",
+                    "io sono aumentato",
+                    "io sono aumentata",
+                    "io fui aumentato",
+                    "io fui aumentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crevisti",
+                "traduzioni": [
+                    "tu nascesti",
+                    "tu sei nato",
+                    "tu sei nata",
+                    "tu fosti nato",
+                    "tu fosti nata",
+                    "tu spuntasti",
+                    "tu hai spuntato",
+                    "tu avesti spuntato",
+                    "tu derivasti",
+                    "tu sei derivato",
+                    "tu sei derivata",
+                    "tu fosti derivato",
+                    "tu fosti derivata",
+                    "tu crescesti",
+                    "tu sei cresciuto",
+                    "tu sei cresciuta",
+                    "tu fosti cresciuto",
+                    "tu fosti cresciuta",
+                    "tu aumentasti",
+                    "tu sei aumentato",
+                    "tu sei aumentata",
+                    "tu fosti aumentato",
+                    "tu fosti aumentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crevit",
+                "traduzioni": [
+                    "lui nacque",
+                    "lei nacque",
+                    "egli nacque",
+                    "lui è nato",
+                    "lei è nata",
+                    "egli è nato",
+                    "lui fu nato",
+                    "lei fu nata",
+                    "egli fu nato",
+                    "lui spuntò",
+                    "lei spuntò",
+                    "egli spuntò",
+                    "lui ha spuntato",
+                    "lei ha spuntato",
+                    "egli ha spuntato",
+                    "lui ebbe spuntato",
+                    "lei ebbe spuntato",
+                    "egli ebbe spuntato",
+                    "lui derivò",
+                    "lei derivò",
+                    "egli derivò",
+                    "lui è derivato",
+                    "lei è derivata",
+                    "egli è derivato",
+                    "lui fu derivato",
+                    "lei fu derivata",
+                    "egli fu derivato",
+                    "lui crebbe",
+                    "lei crebbe",
+                    "egli crebbe",
+                    "lui è cresciuto",
+                    "lei è cresciuta",
+                    "egli è cresciuto",
+                    "lui fu cresciuto",
+                    "lei fu cresciuta",
+                    "egli fu cresciuto",
+                    "lui aumentò",
+                    "lei aumentò",
+                    "egli aumentò",
+                    "lui è aumentato",
+                    "lei è aumentata",
+                    "egli è aumentato",
+                    "lui fu aumentato",
+                    "lei fu aumentata",
+                    "egli fu aumentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crevĭmus",
+                "traduzioni": [
+                    "noi nascemmo",
+                    "noi siamo nati",
+                    "noi siamo nate",
+                    "noi fummo nati",
+                    "noi fummo nate",
+                    "noi spuntammo",
+                    "noi abbiamo spuntato",
+                    "noi avemmo spuntato",
+                    "noi derivammo",
+                    "noi siamo derivati",
+                    "noi siamo derivate",
+                    "noi fummo derivati",
+                    "noi fummo derivate",
+                    "noi crescemmo",
+                    "noi siamo cresciuti",
+                    "noi siamo cresciute",
+                    "noi fummo cresciuti",
+                    "noi fummo cresciute",
+                    "noi aumentammo",
+                    "noi siamo aumentati",
+                    "noi siamo aumentate",
+                    "noi fummo aumentati",
+                    "noi fummo aumentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crevistis",
+                "traduzioni": [
+                    "voi nasceste",
+                    "voi siete nati",
+                    "voi siete nate",
+                    "voi foste nati",
+                    "voi foste nate",
+                    "voi spuntaste",
+                    "voi avete spuntato",
+                    "voi aveste spuntato",
+                    "voi derivaste",
+                    "voi siete derivati",
+                    "voi siete derivate",
+                    "voi foste derivati",
+                    "voi foste derivate",
+                    "voi cresceste",
+                    "voi siete cresciuti",
+                    "voi siete cresciute",
+                    "voi foste cresciuti",
+                    "voi foste cresciute",
+                    "voi aumentaste",
+                    "voi siete aumentati",
+                    "voi siete aumentate",
+                    "voi foste aumentati",
+                    "voi foste aumentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crevērunt, crevēre",
+                "traduzioni": [
+                    "loro nacquero",
+                    "essi nacquero",
+                    "loro sono nati",
+                    "loro sono nate",
+                    "essi sono nati",
+                    "loro furono nati",
+                    "loro furono nate",
+                    "essi furono nati",
+                    "loro spuntarono",
+                    "essi spuntarono",
+                    "loro hanno spuntato",
+                    "essi hanno spuntato",
+                    "loro ebbero spuntato",
+                    "essi ebbero spuntato",
+                    "loro derivarono",
+                    "essi derivarono",
+                    "loro sono derivati",
+                    "loro sono derivate",
+                    "essi sono derivati",
+                    "loro furono derivati",
+                    "loro furono derivate",
+                    "essi furono derivati",
+                    "loro crebbero",
+                    "essi crebbero",
+                    "loro sono cresciuti",
+                    "loro sono cresciute",
+                    "essi sono cresciuti",
+                    "loro furono cresciuti",
+                    "loro furono cresciute",
+                    "essi furono cresciuti",
+                    "loro aumentarono",
+                    "essi aumentarono",
+                    "loro sono aumentati",
+                    "loro sono aumentate",
+                    "essi sono aumentati",
+                    "loro furono aumentati",
+                    "loro furono aumentate",
+                    "essi furono aumentati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "crevĕram",
+                "traduzioni": [
+                    "io ero nato",
+                    "io ero nata",
+                    "io avevo spuntato",
+                    "io ero derivato",
+                    "io ero derivata",
+                    "io ero cresciuto",
+                    "io ero cresciuta",
+                    "io ero aumentato",
+                    "io ero aumentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crevĕras",
+                "traduzioni": [
+                    "tu eri nato",
+                    "tu eri nata",
+                    "tu avevi spuntato",
+                    "tu eri derivato",
+                    "tu eri derivata",
+                    "tu eri cresciuto",
+                    "tu eri cresciuta",
+                    "tu eri aumentato",
+                    "tu eri aumentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crevĕrat",
+                "traduzioni": [
+                    "lui era nato",
+                    "lei era nata",
+                    "egli era nato",
+                    "lui aveva spuntato",
+                    "lei aveva spuntato",
+                    "egli aveva spuntato",
+                    "lui era derivato",
+                    "lei era derivata",
+                    "egli era derivato",
+                    "lui era cresciuto",
+                    "lei era cresciuta",
+                    "egli era cresciuto",
+                    "lui era aumentato",
+                    "lei era aumentata",
+                    "egli era aumentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "creverāmus",
+                "traduzioni": [
+                    "noi eravamo nati",
+                    "noi eravamo nate",
+                    "noi avevamo spuntato",
+                    "noi eravamo derivati",
+                    "noi eravamo derivate",
+                    "noi eravamo cresciuti",
+                    "noi eravamo cresciute",
+                    "noi eravamo aumentati",
+                    "noi eravamo aumentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "creverātis",
+                "traduzioni": [
+                    "voi eravate nati",
+                    "voi eravate nate",
+                    "voi avevate spuntato",
+                    "voi eravate derivati",
+                    "voi eravate derivate",
+                    "voi eravate cresciuti",
+                    "voi eravate cresciute",
+                    "voi eravate aumentati",
+                    "voi eravate aumentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crevĕrant",
+                "traduzioni": [
+                    "loro erano nati",
+                    "loro erano nate",
+                    "essi erano nati",
+                    "loro avevano spuntato",
+                    "essi avevano spuntato",
+                    "loro erano derivati",
+                    "loro erano derivate",
+                    "essi erano derivati",
+                    "loro erano cresciuti",
+                    "loro erano cresciute",
+                    "essi erano cresciuti",
+                    "loro erano aumentati",
+                    "loro erano aumentate",
+                    "essi erano aumentati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "crevĕro",
+                "traduzioni": [
+                    "io sarò nato",
+                    "io sarò nata",
+                    "io avrò spuntato",
+                    "io sarò derivato",
+                    "io sarò derivata",
+                    "io sarò cresciuto",
+                    "io sarò cresciuta",
+                    "io sarò aumentato",
+                    "io sarò aumentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crevĕris",
+                "traduzioni": [
+                    "tu sarai nato",
+                    "tu sarai nata",
+                    "tu avrai spuntato",
+                    "tu sarai derivato",
+                    "tu sarai derivata",
+                    "tu sarai cresciuto",
+                    "tu sarai cresciuta",
+                    "tu sarai aumentato",
+                    "tu sarai aumentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crevĕrit",
+                "traduzioni": [
+                    "lui sarà nato",
+                    "lei sarà nata",
+                    "egli sarà nato",
+                    "lui avrà spuntato",
+                    "lei avrà spuntato",
+                    "egli avrà spuntato",
+                    "lui sarà derivato",
+                    "lei sarà derivata",
+                    "egli sarà derivato",
+                    "lui sarà cresciuto",
+                    "lei sarà cresciuta",
+                    "egli sarà cresciuto",
+                    "lui sarà aumentato",
+                    "lei sarà aumentata",
+                    "egli sarà aumentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "creverĭmus",
+                "traduzioni": [
+                    "noi saremo nati",
+                    "noi saremo nate",
+                    "noi avremo spuntato",
+                    "noi saremo derivati",
+                    "noi saremo derivate",
+                    "noi saremo cresciuti",
+                    "noi saremo cresciute",
+                    "noi saremo aumentati",
+                    "noi saremo aumentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "creverĭtis",
+                "traduzioni": [
+                    "voi sarete nati",
+                    "voi sarete nate",
+                    "voi avrete spuntato",
+                    "voi sarete derivati",
+                    "voi sarete derivate",
+                    "voi sarete cresciuti",
+                    "voi sarete cresciute",
+                    "voi sarete aumentati",
+                    "voi sarete aumentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crevĕrint",
+                "traduzioni": [
+                    "loro saranno nati",
+                    "loro saranno nate",
+                    "essi saranno nati",
+                    "loro avranno spuntato",
+                    "essi avranno spuntato",
+                    "loro saranno derivati",
+                    "loro saranno derivate",
+                    "essi saranno derivati",
+                    "loro saranno cresciuti",
+                    "loro saranno cresciute",
+                    "essi saranno cresciuti",
+                    "loro saranno aumentati",
+                    "loro saranno aumentate",
+                    "essi saranno aumentati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "crescam",
+                "traduzioni": [
+                    "che io nasca",
+                    "che io spunti",
+                    "che io derivi",
+                    "che io cresca",
+                    "che io aumenti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crescas",
+                "traduzioni": [
+                    "che tu nasca",
+                    "che tu spunti",
+                    "che tu derivi",
+                    "che tu cresca",
+                    "che tu aumenti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crescat",
+                "traduzioni": [
+                    "che lui nasca",
+                    "che lei nasca",
+                    "che egli nasca",
+                    "che lui spunti",
+                    "che lei spunti",
+                    "che egli spunti",
+                    "che lui derivi",
+                    "che lei derivi",
+                    "che egli derivi",
+                    "che lui cresca",
+                    "che lei cresca",
+                    "che egli cresca",
+                    "che lui aumenti",
+                    "che lei aumenti",
+                    "che egli aumenti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crescāmus",
+                "traduzioni": [
+                    "che noi nasciamo",
+                    "che noi spuntiamo",
+                    "che noi deriviamo",
+                    "che noi cresciamo",
+                    "che noi aumentiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crescātis",
+                "traduzioni": [
+                    "che voi nasciate",
+                    "che voi spuntiate",
+                    "che voi deriviate",
+                    "che voi cresciate",
+                    "che voi aumentiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crescant",
+                "traduzioni": [
+                    "che loro nascano",
+                    "che essi nascano",
+                    "che loro spuntino",
+                    "che essi spuntino",
+                    "che loro derivino",
+                    "che essi derivino",
+                    "che loro crescano",
+                    "che essi crescano",
+                    "che loro aumentino",
+                    "che essi aumentino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "crescĕrem",
+                "traduzioni": [
+                    "che io nascessi",
+                    "che io spuntassi",
+                    "che io derivassi",
+                    "che io crescessi",
+                    "che io aumentassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crescĕres",
+                "traduzioni": [
+                    "che tu nascessi",
+                    "che tu spuntassi",
+                    "che tu derivassi",
+                    "che tu crescessi",
+                    "che tu aumentassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crescĕret",
+                "traduzioni": [
+                    "che lui nascesse",
+                    "che lei nascesse",
+                    "che egli nascesse",
+                    "che lui spuntasse",
+                    "che lei spuntasse",
+                    "che egli spuntasse",
+                    "che lui derivasse",
+                    "che lei derivasse",
+                    "che egli derivasse",
+                    "che lui crescesse",
+                    "che lei crescesse",
+                    "che egli crescesse",
+                    "che lui aumentasse",
+                    "che lei aumentasse",
+                    "che egli aumentasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crescerēmus",
+                "traduzioni": [
+                    "che noi nascessimo",
+                    "che noi spuntassimo",
+                    "che noi derivassimo",
+                    "che noi crescessimo",
+                    "che noi aumentassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crescerētis",
+                "traduzioni": [
+                    "che voi nasceste",
+                    "che voi spuntaste",
+                    "che voi derivaste",
+                    "che voi cresceste",
+                    "che voi aumentaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crescĕrent",
+                "traduzioni": [
+                    "che loro nascessero",
+                    "che essi nascessero",
+                    "che loro spuntassero",
+                    "che essi spuntassero",
+                    "che loro derivassero",
+                    "che essi derivassero",
+                    "che loro crescessero",
+                    "che essi crescessero",
+                    "che loro aumentassero",
+                    "che essi aumentassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "crevĕrim",
+                "traduzioni": [
+                    "che io sia nato",
+                    "che io sia nata",
+                    "che io abbia spuntato",
+                    "che io sia derivato",
+                    "che io sia derivata",
+                    "che io sia cresciuto",
+                    "che io sia cresciuta",
+                    "che io sia aumentato",
+                    "che io sia aumentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crevĕris",
+                "traduzioni": [
+                    "che tu sia nato",
+                    "che tu sia nata",
+                    "che tu abbia spuntato",
+                    "che tu sia derivato",
+                    "che tu sia derivata",
+                    "che tu sia cresciuto",
+                    "che tu sia cresciuta",
+                    "che tu sia aumentato",
+                    "che tu sia aumentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crevĕrit",
+                "traduzioni": [
+                    "che lui sia nato",
+                    "che lei sia nata",
+                    "che egli sia nato",
+                    "che lui abbia spuntato",
+                    "che lei abbia spuntato",
+                    "che egli abbia spuntato",
+                    "che lui sia derivato",
+                    "che lei sia derivata",
+                    "che egli sia derivato",
+                    "che lui sia cresciuto",
+                    "che lei sia cresciuta",
+                    "che egli sia cresciuto",
+                    "che lui sia aumentato",
+                    "che lei sia aumentata",
+                    "che egli sia aumentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "creverĭmus",
+                "traduzioni": [
+                    "che noi siamo nati",
+                    "che noi siamo nate",
+                    "che noi abbiamo spuntato",
+                    "che noi siamo derivati",
+                    "che noi siamo derivate",
+                    "che noi siamo cresciuti",
+                    "che noi siamo cresciute",
+                    "che noi siamo aumentati",
+                    "che noi siamo aumentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "creverĭtis",
+                "traduzioni": [
+                    "che voi siate nati",
+                    "che voi siate nate",
+                    "che voi abbiate spuntato",
+                    "che voi siate derivati",
+                    "che voi siate derivate",
+                    "che voi siate cresciuti",
+                    "che voi siate cresciute",
+                    "che voi siate aumentati",
+                    "che voi siate aumentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crevĕrint",
+                "traduzioni": [
+                    "che loro siano nati",
+                    "che loro siano nate",
+                    "che essi siano nati",
+                    "che loro abbiano spuntato",
+                    "che essi abbiano spuntato",
+                    "che loro siano derivati",
+                    "che loro siano derivate",
+                    "che essi siano derivati",
+                    "che loro siano cresciuti",
+                    "che loro siano cresciute",
+                    "che essi siano cresciuti",
+                    "che loro siano aumentati",
+                    "che loro siano aumentate",
+                    "che essi siano aumentati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "crevissem",
+                "traduzioni": [
+                    "che io fossi nato",
+                    "che io fossi nata",
+                    "che io avessi spuntato",
+                    "che io fossi derivato",
+                    "che io fossi derivata",
+                    "che io fossi cresciuto",
+                    "che io fossi cresciuta",
+                    "che io fossi aumentato",
+                    "che io fossi aumentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crevisses",
+                "traduzioni": [
+                    "che tu fossi nato",
+                    "che tu fossi nata",
+                    "che tu avessi spuntato",
+                    "che tu fossi derivato",
+                    "che tu fossi derivata",
+                    "che tu fossi cresciuto",
+                    "che tu fossi cresciuta",
+                    "che tu fossi aumentato",
+                    "che tu fossi aumentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crevisset",
+                "traduzioni": [
+                    "che lui fosse nato",
+                    "che lei fosse nata",
+                    "che egli fosse nato",
+                    "che lui avesse spuntato",
+                    "che lei avesse spuntato",
+                    "che egli avesse spuntato",
+                    "che lui fosse derivato",
+                    "che lei fosse derivata",
+                    "che egli fosse derivato",
+                    "che lui fosse cresciuto",
+                    "che lei fosse cresciuta",
+                    "che egli fosse cresciuto",
+                    "che lui fosse aumentato",
+                    "che lei fosse aumentata",
+                    "che egli fosse aumentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crevissēmus",
+                "traduzioni": [
+                    "che noi fossimo nati",
+                    "che noi fossimo nate",
+                    "che noi avessimo spuntato",
+                    "che noi fossimo derivati",
+                    "che noi fossimo derivate",
+                    "che noi fossimo cresciuti",
+                    "che noi fossimo cresciute",
+                    "che noi fossimo aumentati",
+                    "che noi fossimo aumentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crevissētis",
+                "traduzioni": [
+                    "che voi foste nati",
+                    "che voi foste nate",
+                    "che voi aveste spuntato",
+                    "che voi foste derivati",
+                    "che voi foste derivate",
+                    "che voi foste cresciuti",
+                    "che voi foste cresciute",
+                    "che voi foste aumentati",
+                    "che voi foste aumentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crevissent",
+                "traduzioni": [
+                    "che loro fossero nati",
+                    "che loro fossero nate",
+                    "che essi fossero nati",
+                    "che loro avessero spuntato",
+                    "che essi avessero spuntato",
+                    "che loro fossero derivati",
+                    "che loro fossero derivate",
+                    "che essi fossero derivati",
+                    "che loro fossero cresciuti",
+                    "che loro fossero cresciute",
+                    "che essi fossero cresciuti",
+                    "che loro fossero aumentati",
+                    "che loro fossero aumentate",
+                    "che essi fossero aumentati"
+                ]
+            }
+        ]
+    }
+}

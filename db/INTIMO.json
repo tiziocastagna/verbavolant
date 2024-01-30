@@ -1,0 +1,867 @@
+{
+    "identifier": "INTIMO",
+    "conuigazione": "1",
+    "translation": [
+        "immergere",
+        "far entrare",
+        "comunicare",
+        "annunciare",
+        "far conoscere",
+        "far sapere",
+        "imprimere",
+        "diritto intimare"
+    ],
+    "valid_translations": [
+        "immergere",
+        "comunicare",
+        "annunciare",
+        "imprimere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "intĭmo",
+                "traduzioni": [
+                    "io immergo",
+                    "io comunico",
+                    "io annuncio",
+                    "io imprimo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "intĭmas",
+                "traduzioni": [
+                    "tu immergi",
+                    "tu comunichi",
+                    "tu annunci",
+                    "tu imprimi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "intĭmat",
+                "traduzioni": [
+                    "lui immerge",
+                    "lei immerge",
+                    "egli immerge",
+                    "lui comunica",
+                    "lei comunica",
+                    "egli comunica",
+                    "lui annuncia",
+                    "lei annuncia",
+                    "egli annuncia",
+                    "lui imprime",
+                    "lei imprime",
+                    "egli imprime"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "intĭmāmus",
+                "traduzioni": [
+                    "noi immergiamo",
+                    "noi comunichiamo",
+                    "noi annunciamo",
+                    "noi imprimiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "intĭmātis",
+                "traduzioni": [
+                    "voi immergete",
+                    "voi comunicate",
+                    "voi annunciate",
+                    "voi imprimete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "intĭmant",
+                "traduzioni": [
+                    "loro immergono",
+                    "essi immergono",
+                    "loro comunicano",
+                    "essi comunicano",
+                    "loro annunciano",
+                    "essi annunciano",
+                    "loro imprimono",
+                    "essi imprimono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "intĭmābam",
+                "traduzioni": [
+                    "io immergevo",
+                    "io comunicavo",
+                    "io annunciavo",
+                    "io imprimevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "intĭmābas",
+                "traduzioni": [
+                    "tu immergevi",
+                    "tu comunicavi",
+                    "tu annunciavi",
+                    "tu imprimevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "intĭmābat",
+                "traduzioni": [
+                    "lui immergeva",
+                    "lei immergeva",
+                    "egli immergeva",
+                    "lui comunicava",
+                    "lei comunicava",
+                    "egli comunicava",
+                    "lui annunciava",
+                    "lei annunciava",
+                    "egli annunciava",
+                    "lui imprimeva",
+                    "lei imprimeva",
+                    "egli imprimeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "intĭmabāmus",
+                "traduzioni": [
+                    "noi immergevamo",
+                    "noi comunicavamo",
+                    "noi annunciavamo",
+                    "noi imprimevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "intĭmabātis",
+                "traduzioni": [
+                    "voi immergevate",
+                    "voi comunicavate",
+                    "voi annunciavate",
+                    "voi imprimevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "intĭmābant",
+                "traduzioni": [
+                    "loro immergevano",
+                    "essi immergevano",
+                    "loro comunicavano",
+                    "essi comunicavano",
+                    "loro annunciavano",
+                    "essi annunciavano",
+                    "loro imprimevano",
+                    "essi imprimevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "intĭmābo",
+                "traduzioni": [
+                    "io immergerò",
+                    "io comunicherò",
+                    "io annuncerò",
+                    "io imprimerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "intĭmābis",
+                "traduzioni": [
+                    "tu immergerai",
+                    "tu comunicherai",
+                    "tu annuncerai",
+                    "tu imprimerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "intĭmābit",
+                "traduzioni": [
+                    "lui immergerà",
+                    "lei immergerà",
+                    "egli immergerà",
+                    "lui comunicherà",
+                    "lei comunicherà",
+                    "egli comunicherà",
+                    "lui annuncerà",
+                    "lei annuncerà",
+                    "egli annuncerà",
+                    "lui imprimerà",
+                    "lei imprimerà",
+                    "egli imprimerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "intĭmabĭmus",
+                "traduzioni": [
+                    "noi immergeremo",
+                    "noi comunicheremo",
+                    "noi annunceremo",
+                    "noi imprimeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "intĭmabĭtis",
+                "traduzioni": [
+                    "voi immergerete",
+                    "voi comunicherete",
+                    "voi annuncerete",
+                    "voi imprimerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "intĭmābunt",
+                "traduzioni": [
+                    "loro immergeranno",
+                    "essi immergeranno",
+                    "loro comunicheranno",
+                    "essi comunicheranno",
+                    "loro annunceranno",
+                    "essi annunceranno",
+                    "loro imprimeranno",
+                    "essi imprimeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "intimavi",
+                "traduzioni": [
+                    "io immersi",
+                    "io immerse",
+                    "io sono immerso",
+                    "io sono immersa",
+                    "io fui immerso",
+                    "io fui immersa",
+                    "io comunicai",
+                    "io ho comunicato",
+                    "io ebbi comunicato",
+                    "io annunciai",
+                    "io ho annunciato",
+                    "io ebbi annunciato",
+                    "io impressi",
+                    "io ho impresso",
+                    "io ebbi impresso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "intimavisti",
+                "traduzioni": [
+                    "tu immergesti",
+                    "tu sei immerso",
+                    "tu sei immersa",
+                    "tu fosti immerso",
+                    "tu fosti immersa",
+                    "tu comunicasti",
+                    "tu hai comunicato",
+                    "tu avesti comunicato",
+                    "tu annunciasti",
+                    "tu hai annunciato",
+                    "tu avesti annunciato",
+                    "tu imprimesti",
+                    "tu hai impresso",
+                    "tu avesti impresso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "intimavit",
+                "traduzioni": [
+                    "lui immerse",
+                    "lei immerse",
+                    "egli immerse",
+                    "lui è immerso",
+                    "lei è immersa",
+                    "egli è immerso",
+                    "lui fu immerso",
+                    "lei fu immersa",
+                    "egli fu immerso",
+                    "lui comunicò",
+                    "lei comunicò",
+                    "egli comunicò",
+                    "lui ha comunicato",
+                    "lei ha comunicato",
+                    "egli ha comunicato",
+                    "lui ebbe comunicato",
+                    "lei ebbe comunicato",
+                    "egli ebbe comunicato",
+                    "lui annunciò",
+                    "lei annunciò",
+                    "egli annunciò",
+                    "lui ha annunciato",
+                    "lei ha annunciato",
+                    "egli ha annunciato",
+                    "lui ebbe annunciato",
+                    "lei ebbe annunciato",
+                    "egli ebbe annunciato",
+                    "lui impresse",
+                    "lei impresse",
+                    "egli impresse",
+                    "lui ha impresso",
+                    "lei ha impresso",
+                    "egli ha impresso",
+                    "lui ebbe impresso",
+                    "lei ebbe impresso",
+                    "egli ebbe impresso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "intimavĭmus",
+                "traduzioni": [
+                    "noi immergemmo",
+                    "noi siamo immersi",
+                    "noi siamo immerse",
+                    "noi fummo immersi",
+                    "noi fummo immerse",
+                    "noi comunicammo",
+                    "noi abbiamo comunicato",
+                    "noi avemmo comunicato",
+                    "noi annunciammo",
+                    "noi abbiamo annunciato",
+                    "noi avemmo annunciato",
+                    "noi imprimemmo",
+                    "noi abbiamo impresso",
+                    "noi avemmo impresso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "intimavistis",
+                "traduzioni": [
+                    "voi immergeste",
+                    "voi siete immersi",
+                    "voi siete immerse",
+                    "voi foste immersi",
+                    "voi foste immerse",
+                    "voi comunicaste",
+                    "voi avete comunicato",
+                    "voi aveste comunicato",
+                    "voi annunciaste",
+                    "voi avete annunciato",
+                    "voi aveste annunciato",
+                    "voi imprimeste",
+                    "voi avete impresso",
+                    "voi aveste impresso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "intimavērunt, intimavēre",
+                "traduzioni": [
+                    "loro immersero",
+                    "essi immersero",
+                    "loro sono immersi",
+                    "loro sono immerse",
+                    "essi sono immersi",
+                    "loro furono immersi",
+                    "loro furono immerse",
+                    "essi furono immersi",
+                    "loro comunicarono",
+                    "essi comunicarono",
+                    "loro hanno comunicato",
+                    "essi hanno comunicato",
+                    "loro ebbero comunicato",
+                    "essi ebbero comunicato",
+                    "loro annunciarono",
+                    "essi annunciarono",
+                    "loro hanno annunciato",
+                    "essi hanno annunciato",
+                    "loro ebbero annunciato",
+                    "essi ebbero annunciato",
+                    "loro impressero",
+                    "essi impressero",
+                    "loro hanno impresso",
+                    "essi hanno impresso",
+                    "loro ebbero impresso",
+                    "essi ebbero impresso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "intimavĕram",
+                "traduzioni": [
+                    "io ero immerso",
+                    "io ero immersa",
+                    "io avevo comunicato",
+                    "io avevo annunciato",
+                    "io avevo impresso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "intimavĕras",
+                "traduzioni": [
+                    "tu eri immerso",
+                    "tu eri immersa",
+                    "tu avevi comunicato",
+                    "tu avevi annunciato",
+                    "tu avevi impresso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "intimavĕrat",
+                "traduzioni": [
+                    "lui era immerso",
+                    "lei era immersa",
+                    "egli era immerso",
+                    "lui aveva comunicato",
+                    "lei aveva comunicato",
+                    "egli aveva comunicato",
+                    "lui aveva annunciato",
+                    "lei aveva annunciato",
+                    "egli aveva annunciato",
+                    "lui aveva impresso",
+                    "lei aveva impresso",
+                    "egli aveva impresso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "intimaverāmus",
+                "traduzioni": [
+                    "noi eravamo immersi",
+                    "noi eravamo immerse",
+                    "noi avevamo comunicato",
+                    "noi avevamo annunciato",
+                    "noi avevamo impresso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "intimaverātis",
+                "traduzioni": [
+                    "voi eravate immersi",
+                    "voi eravate immerse",
+                    "voi avevate comunicato",
+                    "voi avevate annunciato",
+                    "voi avevate impresso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "intimavĕrant",
+                "traduzioni": [
+                    "loro erano immersi",
+                    "loro erano immerse",
+                    "essi erano immersi",
+                    "loro avevano comunicato",
+                    "essi avevano comunicato",
+                    "loro avevano annunciato",
+                    "essi avevano annunciato",
+                    "loro avevano impresso",
+                    "essi avevano impresso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "intimavĕro",
+                "traduzioni": [
+                    "io sarò immerso",
+                    "io sarò immersa",
+                    "io avrò comunicato",
+                    "io avrò annunciato",
+                    "io avrò impresso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "intimavĕris",
+                "traduzioni": [
+                    "tu sarai immerso",
+                    "tu sarai immersa",
+                    "tu avrai comunicato",
+                    "tu avrai annunciato",
+                    "tu avrai impresso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "intimavĕrit",
+                "traduzioni": [
+                    "lui sarà immerso",
+                    "lei sarà immersa",
+                    "egli sarà immerso",
+                    "lui avrà comunicato",
+                    "lei avrà comunicato",
+                    "egli avrà comunicato",
+                    "lui avrà annunciato",
+                    "lei avrà annunciato",
+                    "egli avrà annunciato",
+                    "lui avrà impresso",
+                    "lei avrà impresso",
+                    "egli avrà impresso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "intimaverĭmus",
+                "traduzioni": [
+                    "noi saremo immersi",
+                    "noi saremo immerse",
+                    "noi avremo comunicato",
+                    "noi avremo annunciato",
+                    "noi avremo impresso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "intimaverĭtis",
+                "traduzioni": [
+                    "voi sarete immersi",
+                    "voi sarete immerse",
+                    "voi avrete comunicato",
+                    "voi avrete annunciato",
+                    "voi avrete impresso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "intimavĕrint",
+                "traduzioni": [
+                    "loro saranno immersi",
+                    "loro saranno immerse",
+                    "essi saranno immersi",
+                    "loro avranno comunicato",
+                    "essi avranno comunicato",
+                    "loro avranno annunciato",
+                    "essi avranno annunciato",
+                    "loro avranno impresso",
+                    "essi avranno impresso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "intĭmem",
+                "traduzioni": [
+                    "che io immerga",
+                    "che io comunichi",
+                    "che io annunci",
+                    "che io imprima"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "intĭmes",
+                "traduzioni": [
+                    "che tu immerga",
+                    "che tu comunichi",
+                    "che tu annunci",
+                    "che tu imprima"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "intĭmet",
+                "traduzioni": [
+                    "che lui immerga",
+                    "che lei immerga",
+                    "che egli immerga",
+                    "che lui comunichi",
+                    "che lei comunichi",
+                    "che egli comunichi",
+                    "che lui annunci",
+                    "che lei annunci",
+                    "che egli annunci",
+                    "che lui imprima",
+                    "che lei imprima",
+                    "che egli imprima"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "intĭmēmus",
+                "traduzioni": [
+                    "che noi immergiamo",
+                    "che noi comunichiamo",
+                    "che noi annunciamo",
+                    "che noi imprimiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "intĭmētis",
+                "traduzioni": [
+                    "che voi immergiate",
+                    "che voi comunichiate",
+                    "che voi annunciate",
+                    "che voi imprimiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "intĭment",
+                "traduzioni": [
+                    "che loro immergano",
+                    "che essi immergano",
+                    "che loro comunichino",
+                    "che essi comunichino",
+                    "che loro annuncino",
+                    "che essi annuncino",
+                    "che loro imprimano",
+                    "che essi imprimano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "intĭmārem",
+                "traduzioni": [
+                    "che io immergessi",
+                    "che io comunicassi",
+                    "che io annunciassi",
+                    "che io imprimessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "intĭmāres",
+                "traduzioni": [
+                    "che tu immergessi",
+                    "che tu comunicassi",
+                    "che tu annunciassi",
+                    "che tu imprimessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "intĭmāret",
+                "traduzioni": [
+                    "che lui immergesse",
+                    "che lei immergesse",
+                    "che egli immergesse",
+                    "che lui comunicasse",
+                    "che lei comunicasse",
+                    "che egli comunicasse",
+                    "che lui annunciasse",
+                    "che lei annunciasse",
+                    "che egli annunciasse",
+                    "che lui imprimesse",
+                    "che lei imprimesse",
+                    "che egli imprimesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "intĭmarēmus",
+                "traduzioni": [
+                    "che noi immergessimo",
+                    "che noi comunicassimo",
+                    "che noi annunciassimo",
+                    "che noi imprimessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "intĭmarētis",
+                "traduzioni": [
+                    "che voi immergeste",
+                    "che voi comunicaste",
+                    "che voi annunciaste",
+                    "che voi imprimeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "intĭmārent",
+                "traduzioni": [
+                    "che loro immergessero",
+                    "che essi immergessero",
+                    "che loro comunicassero",
+                    "che essi comunicassero",
+                    "che loro annunciassero",
+                    "che essi annunciassero",
+                    "che loro imprimessero",
+                    "che essi imprimessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "intimavĕrim",
+                "traduzioni": [
+                    "che io sia immerso",
+                    "che io sia immersa",
+                    "che io abbia comunicato",
+                    "che io abbia annunciato",
+                    "che io abbia impresso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "intimavĕris",
+                "traduzioni": [
+                    "che tu sia immerso",
+                    "che tu sia immersa",
+                    "che tu abbia comunicato",
+                    "che tu abbia annunciato",
+                    "che tu abbia impresso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "intimavĕrit",
+                "traduzioni": [
+                    "che lui sia immerso",
+                    "che lei sia immersa",
+                    "che egli sia immerso",
+                    "che lui abbia comunicato",
+                    "che lei abbia comunicato",
+                    "che egli abbia comunicato",
+                    "che lui abbia annunciato",
+                    "che lei abbia annunciato",
+                    "che egli abbia annunciato",
+                    "che lui abbia impresso",
+                    "che lei abbia impresso",
+                    "che egli abbia impresso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "intimaverĭmus",
+                "traduzioni": [
+                    "che noi siamo immersi",
+                    "che noi siamo immerse",
+                    "che noi abbiamo comunicato",
+                    "che noi abbiamo annunciato",
+                    "che noi abbiamo impresso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "intimaverĭtis",
+                "traduzioni": [
+                    "che voi siate immersi",
+                    "che voi siate immerse",
+                    "che voi abbiate comunicato",
+                    "che voi abbiate annunciato",
+                    "che voi abbiate impresso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "intimavĕrint",
+                "traduzioni": [
+                    "che loro siano immersi",
+                    "che loro siano immerse",
+                    "che essi siano immersi",
+                    "che loro abbiano comunicato",
+                    "che essi abbiano comunicato",
+                    "che loro abbiano annunciato",
+                    "che essi abbiano annunciato",
+                    "che loro abbiano impresso",
+                    "che essi abbiano impresso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "intimavissem",
+                "traduzioni": [
+                    "che io fossi immerso",
+                    "che io fossi immersa",
+                    "che io avessi comunicato",
+                    "che io avessi annunciato",
+                    "che io avessi impresso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "intimavisses",
+                "traduzioni": [
+                    "che tu fossi immerso",
+                    "che tu fossi immersa",
+                    "che tu avessi comunicato",
+                    "che tu avessi annunciato",
+                    "che tu avessi impresso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "intimavisset",
+                "traduzioni": [
+                    "che lui fosse immerso",
+                    "che lei fosse immersa",
+                    "che egli fosse immerso",
+                    "che lui avesse comunicato",
+                    "che lei avesse comunicato",
+                    "che egli avesse comunicato",
+                    "che lui avesse annunciato",
+                    "che lei avesse annunciato",
+                    "che egli avesse annunciato",
+                    "che lui avesse impresso",
+                    "che lei avesse impresso",
+                    "che egli avesse impresso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "intimavissēmus",
+                "traduzioni": [
+                    "che noi fossimo immersi",
+                    "che noi fossimo immerse",
+                    "che noi avessimo comunicato",
+                    "che noi avessimo annunciato",
+                    "che noi avessimo impresso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "intimavissētis",
+                "traduzioni": [
+                    "che voi foste immersi",
+                    "che voi foste immerse",
+                    "che voi aveste comunicato",
+                    "che voi aveste annunciato",
+                    "che voi aveste impresso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "intimavissent",
+                "traduzioni": [
+                    "che loro fossero immersi",
+                    "che loro fossero immerse",
+                    "che essi fossero immersi",
+                    "che loro avessero comunicato",
+                    "che essi avessero comunicato",
+                    "che loro avessero annunciato",
+                    "che essi avessero annunciato",
+                    "che loro avessero impresso",
+                    "che essi avessero impresso"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,614 @@
+{
+    "identifier": "PEREGRINOR",
+    "conuigazione": "1",
+    "translation": [
+        "(in generale) viaggiare",
+        "peregrinare",
+        "del pensiero) vagare",
+        "spaziare"
+    ],
+    "valid_translations": [
+        "peregrinare",
+        "spaziare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pĕrĕgrīnor",
+                "traduzioni": [
+                    "io peregrino",
+                    "io spazio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pĕrĕgrīnāris, pĕrĕgrīnāre",
+                "traduzioni": [
+                    "tu peregrini",
+                    "tu spazi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pĕrĕgrīnātur",
+                "traduzioni": [
+                    "lui peregrina",
+                    "lei peregrina",
+                    "egli peregrina",
+                    "lui spazia",
+                    "lei spazia",
+                    "egli spazia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pĕrĕgrīnāmur",
+                "traduzioni": [
+                    "noi peregriniamo",
+                    "noi spaziamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pĕrĕgrīnamĭni",
+                "traduzioni": [
+                    "voi peregrinate",
+                    "voi spaziate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pĕrĕgrīnantur",
+                "traduzioni": [
+                    "loro peregrinano",
+                    "essi peregrinano",
+                    "loro spaziano",
+                    "essi spaziano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pĕrĕgrīnābar",
+                "traduzioni": [
+                    "io peregrinavo",
+                    "io spaziavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pĕrĕgrīnabāris, pĕrĕgrīnabāre",
+                "traduzioni": [
+                    "tu peregrinavi",
+                    "tu spaziavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pĕrĕgrīnabātur",
+                "traduzioni": [
+                    "lui peregrinava",
+                    "lei peregrinava",
+                    "egli peregrinava",
+                    "lui spaziava",
+                    "lei spaziava",
+                    "egli spaziava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pĕrĕgrīnabāmus",
+                "traduzioni": [
+                    "noi peregrinavamo",
+                    "noi spaziavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pĕrĕgrīnabamĭni",
+                "traduzioni": [
+                    "voi peregrinavate",
+                    "voi spaziavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pĕrĕgrīnantur",
+                "traduzioni": [
+                    "loro peregrinavano",
+                    "essi peregrinavano",
+                    "loro spaziavano",
+                    "essi spaziavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pĕrĕgrīnābor",
+                "traduzioni": [
+                    "io peregrinerò",
+                    "io spazierò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pĕrĕgrīnabĕris, pĕrĕgrīnabĕre",
+                "traduzioni": [
+                    "tu peregrinerai",
+                    "tu spazierai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pĕrĕgrīnabĭtur",
+                "traduzioni": [
+                    "lui peregrinerà",
+                    "lei peregrinerà",
+                    "egli peregrinerà",
+                    "lui spazierà",
+                    "lei spazierà",
+                    "egli spazierà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pĕrĕgrīnabĭmur",
+                "traduzioni": [
+                    "noi peregrineremo",
+                    "noi spazieremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pĕrĕgrīnabimĭni",
+                "traduzioni": [
+                    "voi peregrinerete",
+                    "voi spazierete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pĕrĕgrīnabuntur",
+                "traduzioni": [
+                    "loro peregrineranno",
+                    "essi peregrineranno",
+                    "loro spazieranno",
+                    "essi spazieranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "peregrinatus, –a, –um  sum",
+                "traduzioni": [
+                    "io peregrinai",
+                    "io ho peregrinato",
+                    "io ebbi peregrinato",
+                    "io spaziai",
+                    "io ho spaziato",
+                    "io ebbi spaziato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peregrinatus, –a, –um  es",
+                "traduzioni": [
+                    "tu peregrinasti",
+                    "tu hai peregrinato",
+                    "tu avesti peregrinato",
+                    "tu spaziasti",
+                    "tu hai spaziato",
+                    "tu avesti spaziato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peregrinatus, –a, –um  est",
+                "traduzioni": [
+                    "lui peregrinò",
+                    "lei peregrinò",
+                    "egli peregrinò",
+                    "lui ha peregrinato",
+                    "lei ha peregrinato",
+                    "egli ha peregrinato",
+                    "lui ebbe peregrinato",
+                    "lei ebbe peregrinato",
+                    "egli ebbe peregrinato",
+                    "lui spaziò",
+                    "lei spaziò",
+                    "egli spaziò",
+                    "lui ha spaziato",
+                    "lei ha spaziato",
+                    "egli ha spaziato",
+                    "lui ebbe spaziato",
+                    "lei ebbe spaziato",
+                    "egli ebbe spaziato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peregrinati, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi peregrinammo",
+                    "noi abbiamo peregrinato",
+                    "noi avemmo peregrinato",
+                    "noi spaziammo",
+                    "noi abbiamo spaziato",
+                    "noi avemmo spaziato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peregrinati, –ae, –a  estis",
+                "traduzioni": [
+                    "voi peregrinaste",
+                    "voi avete peregrinato",
+                    "voi aveste peregrinato",
+                    "voi spaziaste",
+                    "voi avete spaziato",
+                    "voi aveste spaziato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peregrinati, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro peregrinarono",
+                    "essi peregrinarono",
+                    "loro hanno peregrinato",
+                    "essi hanno peregrinato",
+                    "loro ebbero peregrinato",
+                    "essi ebbero peregrinato",
+                    "loro spaziarono",
+                    "essi spaziarono",
+                    "loro hanno spaziato",
+                    "essi hanno spaziato",
+                    "loro ebbero spaziato",
+                    "essi ebbero spaziato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "peregrinatus, –a, –um  eram",
+                "traduzioni": [
+                    "io avevo peregrinato",
+                    "io avevo spaziato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peregrinatus, –a, –um  eras",
+                "traduzioni": [
+                    "tu avevi peregrinato",
+                    "tu avevi spaziato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peregrinatus, –a, –um  erat",
+                "traduzioni": [
+                    "lui aveva peregrinato",
+                    "lei aveva peregrinato",
+                    "egli aveva peregrinato",
+                    "lui aveva spaziato",
+                    "lei aveva spaziato",
+                    "egli aveva spaziato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peregrinati, –ae, –a  eramus",
+                "traduzioni": [
+                    "noi avevamo peregrinato",
+                    "noi avevamo spaziato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peregrinati, –ae, –a  eratis",
+                "traduzioni": [
+                    "voi avevate peregrinato",
+                    "voi avevate spaziato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peregrinati, –ae, –a erant",
+                "traduzioni": [
+                    "loro avevano peregrinato",
+                    "essi avevano peregrinato",
+                    "loro avevano spaziato",
+                    "essi avevano spaziato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "peregrinatus, –a, –um  ero",
+                "traduzioni": [
+                    "io avrò peregrinato",
+                    "io avrò spaziato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peregrinatus, –a, –um  eris",
+                "traduzioni": [
+                    "tu avrai peregrinato",
+                    "tu avrai spaziato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peregrinatus, –a, –um  erit",
+                "traduzioni": [
+                    "lui avrà peregrinato",
+                    "lei avrà peregrinato",
+                    "egli avrà peregrinato",
+                    "lui avrà spaziato",
+                    "lei avrà spaziato",
+                    "egli avrà spaziato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peregrinati, –ae, –a  erimus",
+                "traduzioni": [
+                    "noi avremo peregrinato",
+                    "noi avremo spaziato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peregrinati, –ae, –a  eritis",
+                "traduzioni": [
+                    "voi avrete peregrinato",
+                    "voi avrete spaziato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peregrinati, –ae, –a  erunt",
+                "traduzioni": [
+                    "loro avranno peregrinato",
+                    "essi avranno peregrinato",
+                    "loro avranno spaziato",
+                    "essi avranno spaziato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pĕrĕgrīner",
+                "traduzioni": [
+                    "che io peregrini",
+                    "che io spazi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pĕrĕgrīnēris, pĕrĕgrīnēre",
+                "traduzioni": [
+                    "che tu peregrini",
+                    "che tu spazi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pĕrĕgrīnētur",
+                "traduzioni": [
+                    "che lui peregrini",
+                    "che lei peregrini",
+                    "che egli peregrini",
+                    "che lui spazi",
+                    "che lei spazi",
+                    "che egli spazi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pĕrĕgrīnēmur",
+                "traduzioni": [
+                    "che noi peregriniamo",
+                    "che noi spaziamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pĕrĕgrīnemĭni",
+                "traduzioni": [
+                    "che voi peregriniate",
+                    "che voi spaziate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pĕrĕgrīnentur",
+                "traduzioni": [
+                    "che loro peregrinino",
+                    "che essi peregrinino",
+                    "che loro spazino",
+                    "che essi spazino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pĕrĕgrīnārer",
+                "traduzioni": [
+                    "che io peregrinassi",
+                    "che io spaziassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pĕrĕgrīnarēris, pĕrĕgrīnarēre",
+                "traduzioni": [
+                    "che tu peregrinassi",
+                    "che tu spaziassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pĕrĕgrīnarētur",
+                "traduzioni": [
+                    "che lui peregrinasse",
+                    "che lei peregrinasse",
+                    "che egli peregrinasse",
+                    "che lui spaziasse",
+                    "che lei spaziasse",
+                    "che egli spaziasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pĕrĕgrīnāremur",
+                "traduzioni": [
+                    "che noi peregrinassimo",
+                    "che noi spaziassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pĕrĕgrīnaremĭni",
+                "traduzioni": [
+                    "che voi peregrinaste",
+                    "che voi spaziaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pĕrĕgrīnarentur",
+                "traduzioni": [
+                    "che loro peregrinassero",
+                    "che essi peregrinassero",
+                    "che loro spaziassero",
+                    "che essi spaziassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "peregrinatus, –a, –um  sim",
+                "traduzioni": [
+                    "che io abbia peregrinato",
+                    "che io abbia spaziato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peregrinatus, –a, –um  sis",
+                "traduzioni": [
+                    "che tu abbia peregrinato",
+                    "che tu abbia spaziato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peregrinatus, –a, –um  sit",
+                "traduzioni": [
+                    "che lui abbia peregrinato",
+                    "che lei abbia peregrinato",
+                    "che egli abbia peregrinato",
+                    "che lui abbia spaziato",
+                    "che lei abbia spaziato",
+                    "che egli abbia spaziato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peregrinati, –ae, –a  simus",
+                "traduzioni": [
+                    "che noi abbiamo peregrinato",
+                    "che noi abbiamo spaziato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peregrinati, –ae, –a  sitis",
+                "traduzioni": [
+                    "che voi abbiate peregrinato",
+                    "che voi abbiate spaziato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peregrinati, –ae, –a  sint",
+                "traduzioni": [
+                    "che loro abbiano peregrinato",
+                    "che essi abbiano peregrinato",
+                    "che loro abbiano spaziato",
+                    "che essi abbiano spaziato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "peregrinatus, –a, –um  essem",
+                "traduzioni": [
+                    "che io avessi peregrinato",
+                    "che io avessi spaziato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peregrinatus, –a, –um  esses",
+                "traduzioni": [
+                    "che tu avessi peregrinato",
+                    "che tu avessi spaziato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peregrinatus, –a, –um  esset",
+                "traduzioni": [
+                    "che lui avesse peregrinato",
+                    "che lei avesse peregrinato",
+                    "che egli avesse peregrinato",
+                    "che lui avesse spaziato",
+                    "che lei avesse spaziato",
+                    "che egli avesse spaziato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peregrinati, –ae, –a  essemus",
+                "traduzioni": [
+                    "che noi avessimo peregrinato",
+                    "che noi avessimo spaziato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peregrinati, –ae, –a  essetis",
+                "traduzioni": [
+                    "che voi aveste peregrinato",
+                    "che voi aveste spaziato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peregrinati, –ae, –a  essent",
+                "traduzioni": [
+                    "che loro avessero peregrinato",
+                    "che essi avessero peregrinato",
+                    "che loro avessero spaziato",
+                    "che essi avessero spaziato"
+                ]
+            }
+        ]
+    }
+}

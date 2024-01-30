@@ -1,0 +1,972 @@
+{
+    "identifier": "BEO",
+    "conuigazione": "1",
+    "translation": [
+        "rallegrare",
+        "ricreare",
+        "beare",
+        "donare",
+        "arricchire"
+    ],
+    "valid_translations": [
+        "rallegrare",
+        "ricreare",
+        "beare",
+        "donare",
+        "arricchire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "bĕo",
+                "traduzioni": [
+                    "io rallegro",
+                    "io ricreo",
+                    "io beo",
+                    "io dono",
+                    "io arricchisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bĕas",
+                "traduzioni": [
+                    "tu rallegri",
+                    "tu ricrei",
+                    "tu bei",
+                    "tu doni",
+                    "tu arricchisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bĕat",
+                "traduzioni": [
+                    "lui rallegra",
+                    "lei rallegra",
+                    "egli rallegra",
+                    "lui ricrea",
+                    "lei ricrea",
+                    "egli ricrea",
+                    "lui bea",
+                    "lei bea",
+                    "egli bea",
+                    "lui dona",
+                    "lei dona",
+                    "egli dona",
+                    "lui arricchisce",
+                    "lei arricchisce",
+                    "egli arricchisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bĕāmus",
+                "traduzioni": [
+                    "noi rallegriamo",
+                    "noi ricreiamo",
+                    "noi beiamo",
+                    "noi doniamo",
+                    "noi arricchiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bĕātis",
+                "traduzioni": [
+                    "voi rallegrate",
+                    "voi ricreate",
+                    "voi beate",
+                    "voi donate",
+                    "voi arricchite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bĕant",
+                "traduzioni": [
+                    "loro rallegrano",
+                    "essi rallegrano",
+                    "loro ricreano",
+                    "essi ricreano",
+                    "loro beano",
+                    "essi beano",
+                    "loro donano",
+                    "essi donano",
+                    "loro arricchiscono",
+                    "essi arricchiscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "bĕābam",
+                "traduzioni": [
+                    "io rallegravo",
+                    "io ricreavo",
+                    "io beavo",
+                    "io donavo",
+                    "io arricchivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bĕābas",
+                "traduzioni": [
+                    "tu rallegravi",
+                    "tu ricreavi",
+                    "tu beavi",
+                    "tu donavi",
+                    "tu arricchivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bĕābat",
+                "traduzioni": [
+                    "lui rallegrava",
+                    "lei rallegrava",
+                    "egli rallegrava",
+                    "lui ricreava",
+                    "lei ricreava",
+                    "egli ricreava",
+                    "lui beava",
+                    "lei beava",
+                    "egli beava",
+                    "lui donava",
+                    "lei donava",
+                    "egli donava",
+                    "lui arricchiva",
+                    "lei arricchiva",
+                    "egli arricchiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bĕabāmus",
+                "traduzioni": [
+                    "noi rallegravamo",
+                    "noi ricreavamo",
+                    "noi beavamo",
+                    "noi donavamo",
+                    "noi arricchivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bĕabātis",
+                "traduzioni": [
+                    "voi rallegravate",
+                    "voi ricreavate",
+                    "voi beavate",
+                    "voi donavate",
+                    "voi arricchivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bĕābant",
+                "traduzioni": [
+                    "loro rallegravano",
+                    "essi rallegravano",
+                    "loro ricreavano",
+                    "essi ricreavano",
+                    "loro beavano",
+                    "essi beavano",
+                    "loro donavano",
+                    "essi donavano",
+                    "loro arricchivano",
+                    "essi arricchivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "bĕābo",
+                "traduzioni": [
+                    "io rallegrerò",
+                    "io ricreerò",
+                    "io beerò",
+                    "io donerò",
+                    "io arricchirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bĕābis",
+                "traduzioni": [
+                    "tu rallegrerai",
+                    "tu ricreerai",
+                    "tu beerai",
+                    "tu donerai",
+                    "tu arricchirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bĕābit",
+                "traduzioni": [
+                    "lui rallegrerà",
+                    "lei rallegrerà",
+                    "egli rallegrerà",
+                    "lui ricreerà",
+                    "lei ricreerà",
+                    "egli ricreerà",
+                    "lui beerà",
+                    "lei beerà",
+                    "egli beerà",
+                    "lui donerà",
+                    "lei donerà",
+                    "egli donerà",
+                    "lui arricchirà",
+                    "lei arricchirà",
+                    "egli arricchirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bĕabĭmus",
+                "traduzioni": [
+                    "noi rallegreremo",
+                    "noi ricreeremo",
+                    "noi beeremo",
+                    "noi doneremo",
+                    "noi arricchiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bĕabĭtis",
+                "traduzioni": [
+                    "voi rallegrerete",
+                    "voi ricreerete",
+                    "voi beerete",
+                    "voi donerete",
+                    "voi arricchirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bĕābunt",
+                "traduzioni": [
+                    "loro rallegreranno",
+                    "essi rallegreranno",
+                    "loro ricreeranno",
+                    "essi ricreeranno",
+                    "loro beeranno",
+                    "essi beeranno",
+                    "loro doneranno",
+                    "essi doneranno",
+                    "loro arricchiranno",
+                    "essi arricchiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "beavi",
+                "traduzioni": [
+                    "io rallegrai",
+                    "io ho rallegrato",
+                    "io ebbi rallegrato",
+                    "io ricreai",
+                    "io ho ricreato",
+                    "io ebbi ricreato",
+                    "io beai",
+                    "io ho beato",
+                    "io ebbi beato",
+                    "io donai",
+                    "io ho donato",
+                    "io ebbi donato",
+                    "io arricchii",
+                    "io sono arricchito",
+                    "io sono arricchita",
+                    "io fui arricchito",
+                    "io fui arricchita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "beavisti",
+                "traduzioni": [
+                    "tu rallegrasti",
+                    "tu hai rallegrato",
+                    "tu avesti rallegrato",
+                    "tu ricreasti",
+                    "tu hai ricreato",
+                    "tu avesti ricreato",
+                    "tu beasti",
+                    "tu hai beato",
+                    "tu avesti beato",
+                    "tu donasti",
+                    "tu hai donato",
+                    "tu avesti donato",
+                    "tu arricchisti",
+                    "tu sei arricchito",
+                    "tu sei arricchita",
+                    "tu fosti arricchito",
+                    "tu fosti arricchita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "beavit",
+                "traduzioni": [
+                    "lui rallegrò",
+                    "lei rallegrò",
+                    "egli rallegrò",
+                    "lui ha rallegrato",
+                    "lei ha rallegrato",
+                    "egli ha rallegrato",
+                    "lui ebbe rallegrato",
+                    "lei ebbe rallegrato",
+                    "egli ebbe rallegrato",
+                    "lui ricreò",
+                    "lei ricreò",
+                    "egli ricreò",
+                    "lui ha ricreato",
+                    "lei ha ricreato",
+                    "egli ha ricreato",
+                    "lui ebbe ricreato",
+                    "lei ebbe ricreato",
+                    "egli ebbe ricreato",
+                    "lui beò",
+                    "lei beò",
+                    "egli beò",
+                    "lui ha beato",
+                    "lei ha beato",
+                    "egli ha beato",
+                    "lui ebbe beato",
+                    "lei ebbe beato",
+                    "egli ebbe beato",
+                    "lui donò",
+                    "lei donò",
+                    "egli donò",
+                    "lui ha donato",
+                    "lei ha donato",
+                    "egli ha donato",
+                    "lui ebbe donato",
+                    "lei ebbe donato",
+                    "egli ebbe donato",
+                    "lui arricchì",
+                    "lei arricchì",
+                    "egli arricchì",
+                    "lui è arricchito",
+                    "lei è arricchita",
+                    "egli è arricchito",
+                    "lui fu arricchito",
+                    "lei fu arricchita",
+                    "egli fu arricchito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "beavĭmus",
+                "traduzioni": [
+                    "noi rallegrammo",
+                    "noi abbiamo rallegrato",
+                    "noi avemmo rallegrato",
+                    "noi ricreammo",
+                    "noi abbiamo ricreato",
+                    "noi avemmo ricreato",
+                    "noi beammo",
+                    "noi abbiamo beato",
+                    "noi avemmo beato",
+                    "noi donammo",
+                    "noi abbiamo donato",
+                    "noi avemmo donato",
+                    "noi arricchimmo",
+                    "noi siamo arricchiti",
+                    "noi siamo arricchite",
+                    "noi fummo arricchiti",
+                    "noi fummo arricchite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "beavistis",
+                "traduzioni": [
+                    "voi rallegraste",
+                    "voi avete rallegrato",
+                    "voi aveste rallegrato",
+                    "voi ricreaste",
+                    "voi avete ricreato",
+                    "voi aveste ricreato",
+                    "voi beaste",
+                    "voi avete beato",
+                    "voi aveste beato",
+                    "voi donaste",
+                    "voi avete donato",
+                    "voi aveste donato",
+                    "voi arricchiste",
+                    "voi siete arricchiti",
+                    "voi siete arricchite",
+                    "voi foste arricchiti",
+                    "voi foste arricchite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "beavērunt, beavēre",
+                "traduzioni": [
+                    "loro rallegrarono",
+                    "essi rallegrarono",
+                    "loro hanno rallegrato",
+                    "essi hanno rallegrato",
+                    "loro ebbero rallegrato",
+                    "essi ebbero rallegrato",
+                    "loro ricrearono",
+                    "essi ricrearono",
+                    "loro hanno ricreato",
+                    "essi hanno ricreato",
+                    "loro ebbero ricreato",
+                    "essi ebbero ricreato",
+                    "loro bearono",
+                    "essi bearono",
+                    "loro hanno beato",
+                    "essi hanno beato",
+                    "loro ebbero beato",
+                    "essi ebbero beato",
+                    "loro donarono",
+                    "essi donarono",
+                    "loro hanno donato",
+                    "essi hanno donato",
+                    "loro ebbero donato",
+                    "essi ebbero donato",
+                    "loro arricchirono",
+                    "essi arricchirono",
+                    "loro sono arricchiti",
+                    "loro sono arricchite",
+                    "essi sono arricchiti",
+                    "loro furono arricchiti",
+                    "loro furono arricchite",
+                    "essi furono arricchiti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "beavĕram",
+                "traduzioni": [
+                    "io avevo rallegrato",
+                    "io avevo ricreato",
+                    "io avevo beato",
+                    "io avevo donato",
+                    "io ero arricchito",
+                    "io ero arricchita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "beavĕras",
+                "traduzioni": [
+                    "tu avevi rallegrato",
+                    "tu avevi ricreato",
+                    "tu avevi beato",
+                    "tu avevi donato",
+                    "tu eri arricchito",
+                    "tu eri arricchita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "beavĕrat",
+                "traduzioni": [
+                    "lui aveva rallegrato",
+                    "lei aveva rallegrato",
+                    "egli aveva rallegrato",
+                    "lui aveva ricreato",
+                    "lei aveva ricreato",
+                    "egli aveva ricreato",
+                    "lui aveva beato",
+                    "lei aveva beato",
+                    "egli aveva beato",
+                    "lui aveva donato",
+                    "lei aveva donato",
+                    "egli aveva donato",
+                    "lui era arricchito",
+                    "lei era arricchita",
+                    "egli era arricchito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "beaverāmus",
+                "traduzioni": [
+                    "noi avevamo rallegrato",
+                    "noi avevamo ricreato",
+                    "noi avevamo beato",
+                    "noi avevamo donato",
+                    "noi eravamo arricchiti",
+                    "noi eravamo arricchite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "beaverātis",
+                "traduzioni": [
+                    "voi avevate rallegrato",
+                    "voi avevate ricreato",
+                    "voi avevate beato",
+                    "voi avevate donato",
+                    "voi eravate arricchiti",
+                    "voi eravate arricchite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "beavĕrant",
+                "traduzioni": [
+                    "loro avevano rallegrato",
+                    "essi avevano rallegrato",
+                    "loro avevano ricreato",
+                    "essi avevano ricreato",
+                    "loro avevano beato",
+                    "essi avevano beato",
+                    "loro avevano donato",
+                    "essi avevano donato",
+                    "loro erano arricchiti",
+                    "loro erano arricchite",
+                    "essi erano arricchiti"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "beavĕro",
+                "traduzioni": [
+                    "io avrò rallegrato",
+                    "io avrò ricreato",
+                    "io avrò beato",
+                    "io avrò donato",
+                    "io sarò arricchito",
+                    "io sarò arricchita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "beavĕris",
+                "traduzioni": [
+                    "tu avrai rallegrato",
+                    "tu avrai ricreato",
+                    "tu avrai beato",
+                    "tu avrai donato",
+                    "tu sarai arricchito",
+                    "tu sarai arricchita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "beavĕrit",
+                "traduzioni": [
+                    "lui avrà rallegrato",
+                    "lei avrà rallegrato",
+                    "egli avrà rallegrato",
+                    "lui avrà ricreato",
+                    "lei avrà ricreato",
+                    "egli avrà ricreato",
+                    "lui avrà beato",
+                    "lei avrà beato",
+                    "egli avrà beato",
+                    "lui avrà donato",
+                    "lei avrà donato",
+                    "egli avrà donato",
+                    "lui sarà arricchito",
+                    "lei sarà arricchita",
+                    "egli sarà arricchito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "beaverĭmus",
+                "traduzioni": [
+                    "noi avremo rallegrato",
+                    "noi avremo ricreato",
+                    "noi avremo beato",
+                    "noi avremo donato",
+                    "noi saremo arricchiti",
+                    "noi saremo arricchite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "beaverĭtis",
+                "traduzioni": [
+                    "voi avrete rallegrato",
+                    "voi avrete ricreato",
+                    "voi avrete beato",
+                    "voi avrete donato",
+                    "voi sarete arricchiti",
+                    "voi sarete arricchite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "beavĕrint",
+                "traduzioni": [
+                    "loro avranno rallegrato",
+                    "essi avranno rallegrato",
+                    "loro avranno ricreato",
+                    "essi avranno ricreato",
+                    "loro avranno beato",
+                    "essi avranno beato",
+                    "loro avranno donato",
+                    "essi avranno donato",
+                    "loro saranno arricchiti",
+                    "loro saranno arricchite",
+                    "essi saranno arricchiti"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "bĕem",
+                "traduzioni": [
+                    "che io rallegri",
+                    "che io ricrei",
+                    "che io bei",
+                    "che io doni",
+                    "che io arricchisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bĕes",
+                "traduzioni": [
+                    "che tu rallegri",
+                    "che tu ricrei",
+                    "che tu bei",
+                    "che tu doni",
+                    "che tu arricchisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bĕet",
+                "traduzioni": [
+                    "che lui rallegri",
+                    "che lei rallegri",
+                    "che egli rallegri",
+                    "che lui ricrei",
+                    "che lei ricrei",
+                    "che egli ricrei",
+                    "che lui bei",
+                    "che lei bei",
+                    "che egli bei",
+                    "che lui doni",
+                    "che lei doni",
+                    "che egli doni",
+                    "che lui arricchisca",
+                    "che lei arricchisca",
+                    "che egli arricchisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bĕēmus",
+                "traduzioni": [
+                    "che noi rallegriamo",
+                    "che noi ricreiamo",
+                    "che noi beiamo",
+                    "che noi doniamo",
+                    "che noi arricchiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bĕētis",
+                "traduzioni": [
+                    "che voi rallegriate",
+                    "che voi ricreiate",
+                    "che voi beiate",
+                    "che voi doniate",
+                    "che voi arricchiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bĕent",
+                "traduzioni": [
+                    "che loro rallegrino",
+                    "che essi rallegrino",
+                    "che loro ricreino",
+                    "che essi ricreino",
+                    "che loro beino",
+                    "che essi beino",
+                    "che loro donino",
+                    "che essi donino",
+                    "che loro arricchiscano",
+                    "che essi arricchiscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "bĕārem",
+                "traduzioni": [
+                    "che io rallegrassi",
+                    "che io ricreassi",
+                    "che io beassi",
+                    "che io donassi",
+                    "che io arricchissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bĕāres",
+                "traduzioni": [
+                    "che tu rallegrassi",
+                    "che tu ricreassi",
+                    "che tu beassi",
+                    "che tu donassi",
+                    "che tu arricchissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bĕāret",
+                "traduzioni": [
+                    "che lui rallegrasse",
+                    "che lei rallegrasse",
+                    "che egli rallegrasse",
+                    "che lui ricreasse",
+                    "che lei ricreasse",
+                    "che egli ricreasse",
+                    "che lui beasse",
+                    "che lei beasse",
+                    "che egli beasse",
+                    "che lui donasse",
+                    "che lei donasse",
+                    "che egli donasse",
+                    "che lui arricchisse",
+                    "che lei arricchisse",
+                    "che egli arricchisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bĕarēmus",
+                "traduzioni": [
+                    "che noi rallegrassimo",
+                    "che noi ricreassimo",
+                    "che noi beassimo",
+                    "che noi donassimo",
+                    "che noi arricchissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bĕarētis",
+                "traduzioni": [
+                    "che voi rallegraste",
+                    "che voi ricreaste",
+                    "che voi beaste",
+                    "che voi donaste",
+                    "che voi arricchiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bĕārent",
+                "traduzioni": [
+                    "che loro rallegrassero",
+                    "che essi rallegrassero",
+                    "che loro ricreassero",
+                    "che essi ricreassero",
+                    "che loro beassero",
+                    "che essi beassero",
+                    "che loro donassero",
+                    "che essi donassero",
+                    "che loro arricchissero",
+                    "che essi arricchissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "beavĕrim",
+                "traduzioni": [
+                    "che io abbia rallegrato",
+                    "che io abbia ricreato",
+                    "che io abbia beato",
+                    "che io abbia donato",
+                    "che io sia arricchito",
+                    "che io sia arricchita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "beavĕris",
+                "traduzioni": [
+                    "che tu abbia rallegrato",
+                    "che tu abbia ricreato",
+                    "che tu abbia beato",
+                    "che tu abbia donato",
+                    "che tu sia arricchito",
+                    "che tu sia arricchita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "beavĕrit",
+                "traduzioni": [
+                    "che lui abbia rallegrato",
+                    "che lei abbia rallegrato",
+                    "che egli abbia rallegrato",
+                    "che lui abbia ricreato",
+                    "che lei abbia ricreato",
+                    "che egli abbia ricreato",
+                    "che lui abbia beato",
+                    "che lei abbia beato",
+                    "che egli abbia beato",
+                    "che lui abbia donato",
+                    "che lei abbia donato",
+                    "che egli abbia donato",
+                    "che lui sia arricchito",
+                    "che lei sia arricchita",
+                    "che egli sia arricchito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "beaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo rallegrato",
+                    "che noi abbiamo ricreato",
+                    "che noi abbiamo beato",
+                    "che noi abbiamo donato",
+                    "che noi siamo arricchiti",
+                    "che noi siamo arricchite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "beaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate rallegrato",
+                    "che voi abbiate ricreato",
+                    "che voi abbiate beato",
+                    "che voi abbiate donato",
+                    "che voi siate arricchiti",
+                    "che voi siate arricchite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "beavĕrint",
+                "traduzioni": [
+                    "che loro abbiano rallegrato",
+                    "che essi abbiano rallegrato",
+                    "che loro abbiano ricreato",
+                    "che essi abbiano ricreato",
+                    "che loro abbiano beato",
+                    "che essi abbiano beato",
+                    "che loro abbiano donato",
+                    "che essi abbiano donato",
+                    "che loro siano arricchiti",
+                    "che loro siano arricchite",
+                    "che essi siano arricchiti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "beavissem",
+                "traduzioni": [
+                    "che io avessi rallegrato",
+                    "che io avessi ricreato",
+                    "che io avessi beato",
+                    "che io avessi donato",
+                    "che io fossi arricchito",
+                    "che io fossi arricchita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "beavisses",
+                "traduzioni": [
+                    "che tu avessi rallegrato",
+                    "che tu avessi ricreato",
+                    "che tu avessi beato",
+                    "che tu avessi donato",
+                    "che tu fossi arricchito",
+                    "che tu fossi arricchita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "beavisset",
+                "traduzioni": [
+                    "che lui avesse rallegrato",
+                    "che lei avesse rallegrato",
+                    "che egli avesse rallegrato",
+                    "che lui avesse ricreato",
+                    "che lei avesse ricreato",
+                    "che egli avesse ricreato",
+                    "che lui avesse beato",
+                    "che lei avesse beato",
+                    "che egli avesse beato",
+                    "che lui avesse donato",
+                    "che lei avesse donato",
+                    "che egli avesse donato",
+                    "che lui fosse arricchito",
+                    "che lei fosse arricchita",
+                    "che egli fosse arricchito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "beavissēmus",
+                "traduzioni": [
+                    "che noi avessimo rallegrato",
+                    "che noi avessimo ricreato",
+                    "che noi avessimo beato",
+                    "che noi avessimo donato",
+                    "che noi fossimo arricchiti",
+                    "che noi fossimo arricchite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "beavissētis",
+                "traduzioni": [
+                    "che voi aveste rallegrato",
+                    "che voi aveste ricreato",
+                    "che voi aveste beato",
+                    "che voi aveste donato",
+                    "che voi foste arricchiti",
+                    "che voi foste arricchite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "beavissent",
+                "traduzioni": [
+                    "che loro avessero rallegrato",
+                    "che essi avessero rallegrato",
+                    "che loro avessero ricreato",
+                    "che essi avessero ricreato",
+                    "che loro avessero beato",
+                    "che essi avessero beato",
+                    "che loro avessero donato",
+                    "che essi avessero donato",
+                    "che loro fossero arricchiti",
+                    "che loro fossero arricchite",
+                    "che essi fossero arricchiti"
+                ]
+            }
+        ]
+    }
+}

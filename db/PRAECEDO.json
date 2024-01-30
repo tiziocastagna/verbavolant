@@ -1,0 +1,618 @@
+{
+    "identifier": "PRAECEDO",
+    "conuigazione": "3",
+    "translation": [
+        "precedere",
+        "superare"
+    ],
+    "valid_translations": [
+        "precedere",
+        "superare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "praecēdo",
+                "traduzioni": [
+                    "io precedo",
+                    "io supero"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praecēdis",
+                "traduzioni": [
+                    "tu precedi",
+                    "tu superi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praecēdit",
+                "traduzioni": [
+                    "lui precede",
+                    "lei precede",
+                    "egli precede",
+                    "lui supera",
+                    "lei supera",
+                    "egli supera"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praecēdĭmus",
+                "traduzioni": [
+                    "noi precediamo",
+                    "noi superiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praecēdĭtis",
+                "traduzioni": [
+                    "voi precedete",
+                    "voi superate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praecēdunt",
+                "traduzioni": [
+                    "loro precedono",
+                    "essi precedono",
+                    "loro superano",
+                    "essi superano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praecēdēbam",
+                "traduzioni": [
+                    "io precedevo",
+                    "io superavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praecēdēbas",
+                "traduzioni": [
+                    "tu precedevi",
+                    "tu superavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praecēdēbat",
+                "traduzioni": [
+                    "lui precedeva",
+                    "lei precedeva",
+                    "egli precedeva",
+                    "lui superava",
+                    "lei superava",
+                    "egli superava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praecēdebāmus",
+                "traduzioni": [
+                    "noi precedevamo",
+                    "noi superavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praecēdebātis",
+                "traduzioni": [
+                    "voi precedevate",
+                    "voi superavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praecēdēbant",
+                "traduzioni": [
+                    "loro precedevano",
+                    "essi precedevano",
+                    "loro superavano",
+                    "essi superavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "praecēdam",
+                "traduzioni": [
+                    "io precederò",
+                    "io supererò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praecēdes",
+                "traduzioni": [
+                    "tu precederai",
+                    "tu supererai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praecēdet",
+                "traduzioni": [
+                    "lui precederà",
+                    "lei precederà",
+                    "egli precederà",
+                    "lui supererà",
+                    "lei supererà",
+                    "egli supererà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praecēdēmus",
+                "traduzioni": [
+                    "noi precederemo",
+                    "noi supereremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praecēdētis",
+                "traduzioni": [
+                    "voi precederete",
+                    "voi supererete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praecēdent",
+                "traduzioni": [
+                    "loro precederanno",
+                    "essi precederanno",
+                    "loro supereranno",
+                    "essi supereranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praecessi",
+                "traduzioni": [
+                    "io precedetti",
+                    "io precedei",
+                    "io ho preceduto",
+                    "io ebbi preceduto",
+                    "io superai",
+                    "io ho superato",
+                    "io ebbi superato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praecessisti",
+                "traduzioni": [
+                    "tu precedesti",
+                    "tu hai preceduto",
+                    "tu avesti preceduto",
+                    "tu superasti",
+                    "tu hai superato",
+                    "tu avesti superato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praecessit",
+                "traduzioni": [
+                    "lui precedette",
+                    "lei precedette",
+                    "egli precedette",
+                    "lui precedé",
+                    "lei precedé",
+                    "egli precedé",
+                    "lui ha preceduto",
+                    "lei ha preceduto",
+                    "egli ha preceduto",
+                    "lui ebbe preceduto",
+                    "lei ebbe preceduto",
+                    "egli ebbe preceduto",
+                    "lui superò",
+                    "lei superò",
+                    "egli superò",
+                    "lui ha superato",
+                    "lei ha superato",
+                    "egli ha superato",
+                    "lui ebbe superato",
+                    "lei ebbe superato",
+                    "egli ebbe superato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praecessĭmus",
+                "traduzioni": [
+                    "noi precedemmo",
+                    "noi abbiamo preceduto",
+                    "noi avemmo preceduto",
+                    "noi superammo",
+                    "noi abbiamo superato",
+                    "noi avemmo superato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praecessistis",
+                "traduzioni": [
+                    "voi precedeste",
+                    "voi avete preceduto",
+                    "voi aveste preceduto",
+                    "voi superaste",
+                    "voi avete superato",
+                    "voi aveste superato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praecessērunt, praecessēre",
+                "traduzioni": [
+                    "loro precedettero",
+                    "essi precedettero",
+                    "loro precederono",
+                    "essi precederono",
+                    "loro hanno preceduto",
+                    "essi hanno preceduto",
+                    "loro ebbero preceduto",
+                    "essi ebbero preceduto",
+                    "loro superarono",
+                    "essi superarono",
+                    "loro hanno superato",
+                    "essi hanno superato",
+                    "loro ebbero superato",
+                    "essi ebbero superato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praecessĕram",
+                "traduzioni": [
+                    "io avevo preceduto",
+                    "io avevo superato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praecessĕras",
+                "traduzioni": [
+                    "tu avevi preceduto",
+                    "tu avevi superato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praecessĕrat",
+                "traduzioni": [
+                    "lui aveva preceduto",
+                    "lei aveva preceduto",
+                    "egli aveva preceduto",
+                    "lui aveva superato",
+                    "lei aveva superato",
+                    "egli aveva superato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praecesserāmus",
+                "traduzioni": [
+                    "noi avevamo preceduto",
+                    "noi avevamo superato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praecesserātis",
+                "traduzioni": [
+                    "voi avevate preceduto",
+                    "voi avevate superato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praecessĕrant",
+                "traduzioni": [
+                    "loro avevano preceduto",
+                    "essi avevano preceduto",
+                    "loro avevano superato",
+                    "essi avevano superato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "praecessĕro",
+                "traduzioni": [
+                    "io avrò preceduto",
+                    "io avrò superato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praecessĕris",
+                "traduzioni": [
+                    "tu avrai preceduto",
+                    "tu avrai superato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praecessĕrit",
+                "traduzioni": [
+                    "lui avrà preceduto",
+                    "lei avrà preceduto",
+                    "egli avrà preceduto",
+                    "lui avrà superato",
+                    "lei avrà superato",
+                    "egli avrà superato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praecesserĭmus",
+                "traduzioni": [
+                    "noi avremo preceduto",
+                    "noi avremo superato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praecesserĭtis",
+                "traduzioni": [
+                    "voi avrete preceduto",
+                    "voi avrete superato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praecessĕrint",
+                "traduzioni": [
+                    "loro avranno preceduto",
+                    "essi avranno preceduto",
+                    "loro avranno superato",
+                    "essi avranno superato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "praecēdam",
+                "traduzioni": [
+                    "che io preceda",
+                    "che io superi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praecēdas",
+                "traduzioni": [
+                    "che tu preceda",
+                    "che tu superi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praecēdat",
+                "traduzioni": [
+                    "che lui preceda",
+                    "che lei preceda",
+                    "che egli preceda",
+                    "che lui superi",
+                    "che lei superi",
+                    "che egli superi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praecēdāmus",
+                "traduzioni": [
+                    "che noi precediamo",
+                    "che noi superiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praecēdātis",
+                "traduzioni": [
+                    "che voi precediate",
+                    "che voi superiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praecēdant",
+                "traduzioni": [
+                    "che loro precedano",
+                    "che essi precedano",
+                    "che loro superino",
+                    "che essi superino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praecēdĕrem",
+                "traduzioni": [
+                    "che io precedessi",
+                    "che io superassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praecēdĕres",
+                "traduzioni": [
+                    "che tu precedessi",
+                    "che tu superassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praecēdĕret",
+                "traduzioni": [
+                    "che lui precedesse",
+                    "che lei precedesse",
+                    "che egli precedesse",
+                    "che lui superasse",
+                    "che lei superasse",
+                    "che egli superasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praecēderēmus",
+                "traduzioni": [
+                    "che noi precedessimo",
+                    "che noi superassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praecēderētis",
+                "traduzioni": [
+                    "che voi precedeste",
+                    "che voi superaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praecēdĕrent",
+                "traduzioni": [
+                    "che loro precedessero",
+                    "che essi precedessero",
+                    "che loro superassero",
+                    "che essi superassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praecessĕrim",
+                "traduzioni": [
+                    "che io abbia preceduto",
+                    "che io abbia superato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praecessĕris",
+                "traduzioni": [
+                    "che tu abbia preceduto",
+                    "che tu abbia superato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praecessĕrit",
+                "traduzioni": [
+                    "che lui abbia preceduto",
+                    "che lei abbia preceduto",
+                    "che egli abbia preceduto",
+                    "che lui abbia superato",
+                    "che lei abbia superato",
+                    "che egli abbia superato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praecesserĭmus",
+                "traduzioni": [
+                    "che noi abbiamo preceduto",
+                    "che noi abbiamo superato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praecesserĭtis",
+                "traduzioni": [
+                    "che voi abbiate preceduto",
+                    "che voi abbiate superato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praecessĕrint",
+                "traduzioni": [
+                    "che loro abbiano preceduto",
+                    "che essi abbiano preceduto",
+                    "che loro abbiano superato",
+                    "che essi abbiano superato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praecessissem",
+                "traduzioni": [
+                    "che io avessi preceduto",
+                    "che io avessi superato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praecessisses",
+                "traduzioni": [
+                    "che tu avessi preceduto",
+                    "che tu avessi superato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praecessisset",
+                "traduzioni": [
+                    "che lui avesse preceduto",
+                    "che lei avesse preceduto",
+                    "che egli avesse preceduto",
+                    "che lui avesse superato",
+                    "che lei avesse superato",
+                    "che egli avesse superato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praecessissēmus",
+                "traduzioni": [
+                    "che noi avessimo preceduto",
+                    "che noi avessimo superato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praecessissētis",
+                "traduzioni": [
+                    "che voi aveste preceduto",
+                    "che voi aveste superato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praecessissent",
+                "traduzioni": [
+                    "che loro avessero preceduto",
+                    "che essi avessero preceduto",
+                    "che loro avessero superato",
+                    "che essi avessero superato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,614 @@
+{
+    "identifier": "PLODO",
+    "conuigazione": "3",
+    "translation": [
+        "(transitivo) battere",
+        "applaudire",
+        "(intransitivo) approvare",
+        "lodare"
+    ],
+    "valid_translations": [
+        "applaudire",
+        "lodare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "plodo",
+                "traduzioni": [
+                    "io applaud(isc)o",
+                    "io lodo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plodis",
+                "traduzioni": [
+                    "tu applaud(isc)i",
+                    "tu lodi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plodit",
+                "traduzioni": [
+                    "lui applaud(isc)e",
+                    "lei applaud(isc)e",
+                    "egli applaud(isc)e",
+                    "lui loda",
+                    "lei loda",
+                    "egli loda"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "plodĭmus",
+                "traduzioni": [
+                    "noi applaudiamo",
+                    "noi lodiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "plodĭtis",
+                "traduzioni": [
+                    "voi applaudite",
+                    "voi lodate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plodunt",
+                "traduzioni": [
+                    "loro applaud(isc)ono",
+                    "essi applaud(isc)ono",
+                    "loro lodano",
+                    "essi lodano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "plodēbam",
+                "traduzioni": [
+                    "io applaudivo",
+                    "io lodavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plodēbas",
+                "traduzioni": [
+                    "tu applaudivi",
+                    "tu lodavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plodēbat",
+                "traduzioni": [
+                    "lui applaudiva",
+                    "lei applaudiva",
+                    "egli applaudiva",
+                    "lui lodava",
+                    "lei lodava",
+                    "egli lodava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "plodebāmus",
+                "traduzioni": [
+                    "noi applaudivamo",
+                    "noi lodavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "plodebātis",
+                "traduzioni": [
+                    "voi applaudivate",
+                    "voi lodavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plodēbant",
+                "traduzioni": [
+                    "loro applaudivano",
+                    "essi applaudivano",
+                    "loro lodavano",
+                    "essi lodavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "plodam",
+                "traduzioni": [
+                    "io applaudirò",
+                    "io loderò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plodes",
+                "traduzioni": [
+                    "tu applaudirai",
+                    "tu loderai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plodet",
+                "traduzioni": [
+                    "lui applaudirà",
+                    "lei applaudirà",
+                    "egli applaudirà",
+                    "lui loderà",
+                    "lei loderà",
+                    "egli loderà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "plodēmus",
+                "traduzioni": [
+                    "noi applaudiremo",
+                    "noi loderemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "plodētis",
+                "traduzioni": [
+                    "voi applaudirete",
+                    "voi loderete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plodent",
+                "traduzioni": [
+                    "loro applaudiranno",
+                    "essi applaudiranno",
+                    "loro loderanno",
+                    "essi loderanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "plosi",
+                "traduzioni": [
+                    "io applaudii",
+                    "io ho applaudito",
+                    "io ebbi applaudito",
+                    "io lodai",
+                    "io ho lodato",
+                    "io ebbi lodato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plosisti",
+                "traduzioni": [
+                    "tu applaudisti",
+                    "tu hai applaudito",
+                    "tu avesti applaudito",
+                    "tu lodasti",
+                    "tu hai lodato",
+                    "tu avesti lodato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plosit",
+                "traduzioni": [
+                    "lui applaudì",
+                    "lei applaudì",
+                    "egli applaudì",
+                    "lui ha applaudito",
+                    "lei ha applaudito",
+                    "egli ha applaudito",
+                    "lui ebbe applaudito",
+                    "lei ebbe applaudito",
+                    "egli ebbe applaudito",
+                    "lui lodò",
+                    "lei lodò",
+                    "egli lodò",
+                    "lui ha lodato",
+                    "lei ha lodato",
+                    "egli ha lodato",
+                    "lui ebbe lodato",
+                    "lei ebbe lodato",
+                    "egli ebbe lodato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "plosĭmus",
+                "traduzioni": [
+                    "noi applaudimmo",
+                    "noi abbiamo applaudito",
+                    "noi avemmo applaudito",
+                    "noi lodammo",
+                    "noi abbiamo lodato",
+                    "noi avemmo lodato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "plosistis",
+                "traduzioni": [
+                    "voi applaudiste",
+                    "voi avete applaudito",
+                    "voi aveste applaudito",
+                    "voi lodaste",
+                    "voi avete lodato",
+                    "voi aveste lodato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plosērunt, plosēre",
+                "traduzioni": [
+                    "loro applaudirono",
+                    "essi applaudirono",
+                    "loro hanno applaudito",
+                    "essi hanno applaudito",
+                    "loro ebbero applaudito",
+                    "essi ebbero applaudito",
+                    "loro lodarono",
+                    "essi lodarono",
+                    "loro hanno lodato",
+                    "essi hanno lodato",
+                    "loro ebbero lodato",
+                    "essi ebbero lodato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "plosĕram",
+                "traduzioni": [
+                    "io avevo applaudito",
+                    "io avevo lodato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plosĕras",
+                "traduzioni": [
+                    "tu avevi applaudito",
+                    "tu avevi lodato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plosĕrat",
+                "traduzioni": [
+                    "lui aveva applaudito",
+                    "lei aveva applaudito",
+                    "egli aveva applaudito",
+                    "lui aveva lodato",
+                    "lei aveva lodato",
+                    "egli aveva lodato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ploserāmus",
+                "traduzioni": [
+                    "noi avevamo applaudito",
+                    "noi avevamo lodato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ploserātis",
+                "traduzioni": [
+                    "voi avevate applaudito",
+                    "voi avevate lodato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plosĕrant",
+                "traduzioni": [
+                    "loro avevano applaudito",
+                    "essi avevano applaudito",
+                    "loro avevano lodato",
+                    "essi avevano lodato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "plosĕro",
+                "traduzioni": [
+                    "io avrò applaudito",
+                    "io avrò lodato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plosĕris",
+                "traduzioni": [
+                    "tu avrai applaudito",
+                    "tu avrai lodato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plosĕrit",
+                "traduzioni": [
+                    "lui avrà applaudito",
+                    "lei avrà applaudito",
+                    "egli avrà applaudito",
+                    "lui avrà lodato",
+                    "lei avrà lodato",
+                    "egli avrà lodato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ploserĭmus",
+                "traduzioni": [
+                    "noi avremo applaudito",
+                    "noi avremo lodato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ploserĭtis",
+                "traduzioni": [
+                    "voi avrete applaudito",
+                    "voi avrete lodato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plosĕrint",
+                "traduzioni": [
+                    "loro avranno applaudito",
+                    "essi avranno applaudito",
+                    "loro avranno lodato",
+                    "essi avranno lodato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "plodam",
+                "traduzioni": [
+                    "che io applaud(isc)a",
+                    "che io lodi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plodas",
+                "traduzioni": [
+                    "che tu applaud(isc)a",
+                    "che tu lodi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plodat",
+                "traduzioni": [
+                    "che lui applaud(isc)a",
+                    "che lei applaud(isc)a",
+                    "che egli applaud(isc)a",
+                    "che lui lodi",
+                    "che lei lodi",
+                    "che egli lodi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "plodāmus",
+                "traduzioni": [
+                    "che noi applaudiamo",
+                    "che noi lodiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "plodātis",
+                "traduzioni": [
+                    "che voi applaudiate",
+                    "che voi lodiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plodant",
+                "traduzioni": [
+                    "che loro applaud(isc)ano",
+                    "che essi applaud(isc)ano",
+                    "che loro lodino",
+                    "che essi lodino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "plodĕrem",
+                "traduzioni": [
+                    "che io applaudissi",
+                    "che io lodassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plodĕres",
+                "traduzioni": [
+                    "che tu applaudissi",
+                    "che tu lodassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plodĕret",
+                "traduzioni": [
+                    "che lui applaudisse",
+                    "che lei applaudisse",
+                    "che egli applaudisse",
+                    "che lui lodasse",
+                    "che lei lodasse",
+                    "che egli lodasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ploderēmus",
+                "traduzioni": [
+                    "che noi applaudissimo",
+                    "che noi lodassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ploderētis",
+                "traduzioni": [
+                    "che voi applaudiste",
+                    "che voi lodaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plodĕrent",
+                "traduzioni": [
+                    "che loro applaudissero",
+                    "che essi applaudissero",
+                    "che loro lodassero",
+                    "che essi lodassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "plosĕrim",
+                "traduzioni": [
+                    "che io abbia applaudito",
+                    "che io abbia lodato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plosĕris",
+                "traduzioni": [
+                    "che tu abbia applaudito",
+                    "che tu abbia lodato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plosĕrit",
+                "traduzioni": [
+                    "che lui abbia applaudito",
+                    "che lei abbia applaudito",
+                    "che egli abbia applaudito",
+                    "che lui abbia lodato",
+                    "che lei abbia lodato",
+                    "che egli abbia lodato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ploserĭmus",
+                "traduzioni": [
+                    "che noi abbiamo applaudito",
+                    "che noi abbiamo lodato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ploserĭtis",
+                "traduzioni": [
+                    "che voi abbiate applaudito",
+                    "che voi abbiate lodato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plosĕrint",
+                "traduzioni": [
+                    "che loro abbiano applaudito",
+                    "che essi abbiano applaudito",
+                    "che loro abbiano lodato",
+                    "che essi abbiano lodato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "plosissem",
+                "traduzioni": [
+                    "che io avessi applaudito",
+                    "che io avessi lodato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plosisses",
+                "traduzioni": [
+                    "che tu avessi applaudito",
+                    "che tu avessi lodato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plosisset",
+                "traduzioni": [
+                    "che lui avesse applaudito",
+                    "che lei avesse applaudito",
+                    "che egli avesse applaudito",
+                    "che lui avesse lodato",
+                    "che lei avesse lodato",
+                    "che egli avesse lodato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "plosissēmus",
+                "traduzioni": [
+                    "che noi avessimo applaudito",
+                    "che noi avessimo lodato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "plosissētis",
+                "traduzioni": [
+                    "che voi aveste applaudito",
+                    "che voi aveste lodato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plosissent",
+                "traduzioni": [
+                    "che loro avessero applaudito",
+                    "che essi avessero applaudito",
+                    "che loro avessero lodato",
+                    "che essi avessero lodato"
+                ]
+            }
+        ]
+    }
+}

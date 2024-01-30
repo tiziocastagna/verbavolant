@@ -1,0 +1,1303 @@
+{
+    "identifier": "CONTAMINO",
+    "conuigazione": "1",
+    "translation": [
+        "contaminare",
+        "macchiare",
+        "guastare",
+        "adulterare",
+        "corrompere",
+        "profanare",
+        "disonorare",
+        "(letterario) mescolare",
+        "toccare"
+    ],
+    "valid_translations": [
+        "contaminare",
+        "macchiare",
+        "guastare",
+        "adulterare",
+        "corrompere",
+        "profanare",
+        "disonorare",
+        "toccare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "contāmĭno",
+                "traduzioni": [
+                    "io contamino",
+                    "io macchio",
+                    "io guasto",
+                    "io adultero",
+                    "io corrompo",
+                    "io profano",
+                    "io disonoro",
+                    "io tocco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contāmĭnas",
+                "traduzioni": [
+                    "tu contamini",
+                    "tu macchi",
+                    "tu guasti",
+                    "tu adulteri",
+                    "tu corrompi",
+                    "tu profani",
+                    "tu disonori",
+                    "tu tocchi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contāmĭnat",
+                "traduzioni": [
+                    "lui contamina",
+                    "lei contamina",
+                    "egli contamina",
+                    "lui macchia",
+                    "lei macchia",
+                    "egli macchia",
+                    "lui guasta",
+                    "lei guasta",
+                    "egli guasta",
+                    "lui adultera",
+                    "lei adultera",
+                    "egli adultera",
+                    "lui corrompe",
+                    "lei corrompe",
+                    "egli corrompe",
+                    "lui profana",
+                    "lei profana",
+                    "egli profana",
+                    "lui disonora",
+                    "lei disonora",
+                    "egli disonora",
+                    "lui tocca",
+                    "lei tocca",
+                    "egli tocca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contāmĭnāmus",
+                "traduzioni": [
+                    "noi contaminiamo",
+                    "noi macchiamo",
+                    "noi guastiamo",
+                    "noi adulteriamo",
+                    "noi corrompiamo",
+                    "noi profaniamo",
+                    "noi disonoriamo",
+                    "noi tocchiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contāmĭnātis",
+                "traduzioni": [
+                    "voi contaminate",
+                    "voi macchiate",
+                    "voi guastate",
+                    "voi adulterate",
+                    "voi corrompete",
+                    "voi profanate",
+                    "voi disonorate",
+                    "voi toccate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contāmĭnant",
+                "traduzioni": [
+                    "loro contaminano",
+                    "essi contaminano",
+                    "loro macchiano",
+                    "essi macchiano",
+                    "loro guastano",
+                    "essi guastano",
+                    "loro adulterano",
+                    "essi adulterano",
+                    "loro corrompono",
+                    "essi corrompono",
+                    "loro profanano",
+                    "essi profanano",
+                    "loro disonorano",
+                    "essi disonorano",
+                    "loro toccano",
+                    "essi toccano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "contāmĭnābam",
+                "traduzioni": [
+                    "io contaminavo",
+                    "io macchiavo",
+                    "io guastavo",
+                    "io adulteravo",
+                    "io corrompevo",
+                    "io profanavo",
+                    "io disonoravo",
+                    "io toccavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contāmĭnābas",
+                "traduzioni": [
+                    "tu contaminavi",
+                    "tu macchiavi",
+                    "tu guastavi",
+                    "tu adulteravi",
+                    "tu corrompevi",
+                    "tu profanavi",
+                    "tu disonoravi",
+                    "tu toccavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contāmĭnābat",
+                "traduzioni": [
+                    "lui contaminava",
+                    "lei contaminava",
+                    "egli contaminava",
+                    "lui macchiava",
+                    "lei macchiava",
+                    "egli macchiava",
+                    "lui guastava",
+                    "lei guastava",
+                    "egli guastava",
+                    "lui adulterava",
+                    "lei adulterava",
+                    "egli adulterava",
+                    "lui corrompeva",
+                    "lei corrompeva",
+                    "egli corrompeva",
+                    "lui profanava",
+                    "lei profanava",
+                    "egli profanava",
+                    "lui disonorava",
+                    "lei disonorava",
+                    "egli disonorava",
+                    "lui toccava",
+                    "lei toccava",
+                    "egli toccava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contāmĭnabāmus",
+                "traduzioni": [
+                    "noi contaminavamo",
+                    "noi macchiavamo",
+                    "noi guastavamo",
+                    "noi adulteravamo",
+                    "noi corrompevamo",
+                    "noi profanavamo",
+                    "noi disonoravamo",
+                    "noi toccavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contāmĭnabātis",
+                "traduzioni": [
+                    "voi contaminavate",
+                    "voi macchiavate",
+                    "voi guastavate",
+                    "voi adulteravate",
+                    "voi corrompevate",
+                    "voi profanavate",
+                    "voi disonoravate",
+                    "voi toccavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contāmĭnābant",
+                "traduzioni": [
+                    "loro contaminavano",
+                    "essi contaminavano",
+                    "loro macchiavano",
+                    "essi macchiavano",
+                    "loro guastavano",
+                    "essi guastavano",
+                    "loro adulteravano",
+                    "essi adulteravano",
+                    "loro corrompevano",
+                    "essi corrompevano",
+                    "loro profanavano",
+                    "essi profanavano",
+                    "loro disonoravano",
+                    "essi disonoravano",
+                    "loro toccavano",
+                    "essi toccavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "contāmĭnābo",
+                "traduzioni": [
+                    "io contaminerò",
+                    "io macchierò",
+                    "io guasterò",
+                    "io adultererò",
+                    "io corromperò",
+                    "io profanerò",
+                    "io disonorerò",
+                    "io toccherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contāmĭnābis",
+                "traduzioni": [
+                    "tu contaminerai",
+                    "tu macchierai",
+                    "tu guasterai",
+                    "tu adultererai",
+                    "tu corromperai",
+                    "tu profanerai",
+                    "tu disonorerai",
+                    "tu toccherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contāmĭnābit",
+                "traduzioni": [
+                    "lui contaminerà",
+                    "lei contaminerà",
+                    "egli contaminerà",
+                    "lui macchierà",
+                    "lei macchierà",
+                    "egli macchierà",
+                    "lui guasterà",
+                    "lei guasterà",
+                    "egli guasterà",
+                    "lui adultererà",
+                    "lei adultererà",
+                    "egli adultererà",
+                    "lui corromperà",
+                    "lei corromperà",
+                    "egli corromperà",
+                    "lui profanerà",
+                    "lei profanerà",
+                    "egli profanerà",
+                    "lui disonorerà",
+                    "lei disonorerà",
+                    "egli disonorerà",
+                    "lui toccherà",
+                    "lei toccherà",
+                    "egli toccherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contāmĭnabĭmus",
+                "traduzioni": [
+                    "noi contamineremo",
+                    "noi macchieremo",
+                    "noi guasteremo",
+                    "noi adultereremo",
+                    "noi corromperemo",
+                    "noi profaneremo",
+                    "noi disonoreremo",
+                    "noi toccheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contāmĭnabĭtis",
+                "traduzioni": [
+                    "voi contaminerete",
+                    "voi macchierete",
+                    "voi guasterete",
+                    "voi adultererete",
+                    "voi corromperete",
+                    "voi profanerete",
+                    "voi disonorerete",
+                    "voi toccherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contāmĭnābunt",
+                "traduzioni": [
+                    "loro contamineranno",
+                    "essi contamineranno",
+                    "loro macchieranno",
+                    "essi macchieranno",
+                    "loro guasteranno",
+                    "essi guasteranno",
+                    "loro adultereranno",
+                    "essi adultereranno",
+                    "loro corromperanno",
+                    "essi corromperanno",
+                    "loro profaneranno",
+                    "essi profaneranno",
+                    "loro disonoreranno",
+                    "essi disonoreranno",
+                    "loro toccheranno",
+                    "essi toccheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "contaminavi",
+                "traduzioni": [
+                    "io contaminai",
+                    "io ho contaminato",
+                    "io ebbi contaminato",
+                    "io macchiai",
+                    "io ho macchiato",
+                    "io ebbi macchiato",
+                    "io guastai",
+                    "io ho guastato",
+                    "io ebbi guastato",
+                    "io adulterai",
+                    "io ho adulterato",
+                    "io ebbi adulterato",
+                    "io corruppi",
+                    "io ho corrotto",
+                    "io ebbi corrotto",
+                    "io profanai",
+                    "io ho profanato",
+                    "io ebbi profanato",
+                    "io disonorai",
+                    "io ho disonorato",
+                    "io ebbi disonorato",
+                    "io toccai",
+                    "io sono toccato",
+                    "io sono toccata",
+                    "io fui toccato",
+                    "io fui toccata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contaminavisti",
+                "traduzioni": [
+                    "tu contaminasti",
+                    "tu hai contaminato",
+                    "tu avesti contaminato",
+                    "tu macchiasti",
+                    "tu hai macchiato",
+                    "tu avesti macchiato",
+                    "tu guastasti",
+                    "tu hai guastato",
+                    "tu avesti guastato",
+                    "tu adulterasti",
+                    "tu hai adulterato",
+                    "tu avesti adulterato",
+                    "tu corrompesti",
+                    "tu hai corrotto",
+                    "tu avesti corrotto",
+                    "tu profanasti",
+                    "tu hai profanato",
+                    "tu avesti profanato",
+                    "tu disonorasti",
+                    "tu hai disonorato",
+                    "tu avesti disonorato",
+                    "tu toccasti",
+                    "tu sei toccato",
+                    "tu sei toccata",
+                    "tu fosti toccato",
+                    "tu fosti toccata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contaminavit",
+                "traduzioni": [
+                    "lui contaminò",
+                    "lei contaminò",
+                    "egli contaminò",
+                    "lui ha contaminato",
+                    "lei ha contaminato",
+                    "egli ha contaminato",
+                    "lui ebbe contaminato",
+                    "lei ebbe contaminato",
+                    "egli ebbe contaminato",
+                    "lui macchiò",
+                    "lei macchiò",
+                    "egli macchiò",
+                    "lui ha macchiato",
+                    "lei ha macchiato",
+                    "egli ha macchiato",
+                    "lui ebbe macchiato",
+                    "lei ebbe macchiato",
+                    "egli ebbe macchiato",
+                    "lui guastò",
+                    "lei guastò",
+                    "egli guastò",
+                    "lui ha guastato",
+                    "lei ha guastato",
+                    "egli ha guastato",
+                    "lui ebbe guastato",
+                    "lei ebbe guastato",
+                    "egli ebbe guastato",
+                    "lui adulterò",
+                    "lei adulterò",
+                    "egli adulterò",
+                    "lui ha adulterato",
+                    "lei ha adulterato",
+                    "egli ha adulterato",
+                    "lui ebbe adulterato",
+                    "lei ebbe adulterato",
+                    "egli ebbe adulterato",
+                    "lui corruppe",
+                    "lei corruppe",
+                    "egli corruppe",
+                    "lui ha corrotto",
+                    "lei ha corrotto",
+                    "egli ha corrotto",
+                    "lui ebbe corrotto",
+                    "lei ebbe corrotto",
+                    "egli ebbe corrotto",
+                    "lui profanò",
+                    "lei profanò",
+                    "egli profanò",
+                    "lui ha profanato",
+                    "lei ha profanato",
+                    "egli ha profanato",
+                    "lui ebbe profanato",
+                    "lei ebbe profanato",
+                    "egli ebbe profanato",
+                    "lui disonorò",
+                    "lei disonorò",
+                    "egli disonorò",
+                    "lui ha disonorato",
+                    "lei ha disonorato",
+                    "egli ha disonorato",
+                    "lui ebbe disonorato",
+                    "lei ebbe disonorato",
+                    "egli ebbe disonorato",
+                    "lui toccò",
+                    "lei toccò",
+                    "egli toccò",
+                    "lui è toccato",
+                    "lei è toccata",
+                    "egli è toccato",
+                    "lui fu toccato",
+                    "lei fu toccata",
+                    "egli fu toccato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contaminavĭmus",
+                "traduzioni": [
+                    "noi contaminammo",
+                    "noi abbiamo contaminato",
+                    "noi avemmo contaminato",
+                    "noi macchiammo",
+                    "noi abbiamo macchiato",
+                    "noi avemmo macchiato",
+                    "noi guastammo",
+                    "noi abbiamo guastato",
+                    "noi avemmo guastato",
+                    "noi adulterammo",
+                    "noi abbiamo adulterato",
+                    "noi avemmo adulterato",
+                    "noi corrompemmo",
+                    "noi abbiamo corrotto",
+                    "noi avemmo corrotto",
+                    "noi profanammo",
+                    "noi abbiamo profanato",
+                    "noi avemmo profanato",
+                    "noi disonorammo",
+                    "noi abbiamo disonorato",
+                    "noi avemmo disonorato",
+                    "noi toccammo",
+                    "noi siamo toccati",
+                    "noi siamo toccate",
+                    "noi fummo toccati",
+                    "noi fummo toccate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contaminavistis",
+                "traduzioni": [
+                    "voi contaminaste",
+                    "voi avete contaminato",
+                    "voi aveste contaminato",
+                    "voi macchiaste",
+                    "voi avete macchiato",
+                    "voi aveste macchiato",
+                    "voi guastaste",
+                    "voi avete guastato",
+                    "voi aveste guastato",
+                    "voi adulteraste",
+                    "voi avete adulterato",
+                    "voi aveste adulterato",
+                    "voi corrompeste",
+                    "voi avete corrotto",
+                    "voi aveste corrotto",
+                    "voi profanaste",
+                    "voi avete profanato",
+                    "voi aveste profanato",
+                    "voi disonoraste",
+                    "voi avete disonorato",
+                    "voi aveste disonorato",
+                    "voi toccaste",
+                    "voi siete toccati",
+                    "voi siete toccate",
+                    "voi foste toccati",
+                    "voi foste toccate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contaminavērunt, contaminavēre",
+                "traduzioni": [
+                    "loro contaminarono",
+                    "essi contaminarono",
+                    "loro hanno contaminato",
+                    "essi hanno contaminato",
+                    "loro ebbero contaminato",
+                    "essi ebbero contaminato",
+                    "loro macchiarono",
+                    "essi macchiarono",
+                    "loro hanno macchiato",
+                    "essi hanno macchiato",
+                    "loro ebbero macchiato",
+                    "essi ebbero macchiato",
+                    "loro guastarono",
+                    "essi guastarono",
+                    "loro hanno guastato",
+                    "essi hanno guastato",
+                    "loro ebbero guastato",
+                    "essi ebbero guastato",
+                    "loro adulterarono",
+                    "essi adulterarono",
+                    "loro hanno adulterato",
+                    "essi hanno adulterato",
+                    "loro ebbero adulterato",
+                    "essi ebbero adulterato",
+                    "loro corruppero",
+                    "essi corruppero",
+                    "loro hanno corrotto",
+                    "essi hanno corrotto",
+                    "loro ebbero corrotto",
+                    "essi ebbero corrotto",
+                    "loro profanarono",
+                    "essi profanarono",
+                    "loro hanno profanato",
+                    "essi hanno profanato",
+                    "loro ebbero profanato",
+                    "essi ebbero profanato",
+                    "loro disonorarono",
+                    "essi disonorarono",
+                    "loro hanno disonorato",
+                    "essi hanno disonorato",
+                    "loro ebbero disonorato",
+                    "essi ebbero disonorato",
+                    "loro toccarono",
+                    "essi toccarono",
+                    "loro sono toccati",
+                    "loro sono toccate",
+                    "essi sono toccati",
+                    "loro furono toccati",
+                    "loro furono toccate",
+                    "essi furono toccati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "contaminavĕram",
+                "traduzioni": [
+                    "io avevo contaminato",
+                    "io avevo macchiato",
+                    "io avevo guastato",
+                    "io avevo adulterato",
+                    "io avevo corrotto",
+                    "io avevo profanato",
+                    "io avevo disonorato",
+                    "io ero toccato",
+                    "io ero toccata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contaminavĕras",
+                "traduzioni": [
+                    "tu avevi contaminato",
+                    "tu avevi macchiato",
+                    "tu avevi guastato",
+                    "tu avevi adulterato",
+                    "tu avevi corrotto",
+                    "tu avevi profanato",
+                    "tu avevi disonorato",
+                    "tu eri toccato",
+                    "tu eri toccata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contaminavĕrat",
+                "traduzioni": [
+                    "lui aveva contaminato",
+                    "lei aveva contaminato",
+                    "egli aveva contaminato",
+                    "lui aveva macchiato",
+                    "lei aveva macchiato",
+                    "egli aveva macchiato",
+                    "lui aveva guastato",
+                    "lei aveva guastato",
+                    "egli aveva guastato",
+                    "lui aveva adulterato",
+                    "lei aveva adulterato",
+                    "egli aveva adulterato",
+                    "lui aveva corrotto",
+                    "lei aveva corrotto",
+                    "egli aveva corrotto",
+                    "lui aveva profanato",
+                    "lei aveva profanato",
+                    "egli aveva profanato",
+                    "lui aveva disonorato",
+                    "lei aveva disonorato",
+                    "egli aveva disonorato",
+                    "lui era toccato",
+                    "lei era toccata",
+                    "egli era toccato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contaminaverāmus",
+                "traduzioni": [
+                    "noi avevamo contaminato",
+                    "noi avevamo macchiato",
+                    "noi avevamo guastato",
+                    "noi avevamo adulterato",
+                    "noi avevamo corrotto",
+                    "noi avevamo profanato",
+                    "noi avevamo disonorato",
+                    "noi eravamo toccati",
+                    "noi eravamo toccate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contaminaverātis",
+                "traduzioni": [
+                    "voi avevate contaminato",
+                    "voi avevate macchiato",
+                    "voi avevate guastato",
+                    "voi avevate adulterato",
+                    "voi avevate corrotto",
+                    "voi avevate profanato",
+                    "voi avevate disonorato",
+                    "voi eravate toccati",
+                    "voi eravate toccate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contaminavĕrant",
+                "traduzioni": [
+                    "loro avevano contaminato",
+                    "essi avevano contaminato",
+                    "loro avevano macchiato",
+                    "essi avevano macchiato",
+                    "loro avevano guastato",
+                    "essi avevano guastato",
+                    "loro avevano adulterato",
+                    "essi avevano adulterato",
+                    "loro avevano corrotto",
+                    "essi avevano corrotto",
+                    "loro avevano profanato",
+                    "essi avevano profanato",
+                    "loro avevano disonorato",
+                    "essi avevano disonorato",
+                    "loro erano toccati",
+                    "loro erano toccate",
+                    "essi erano toccati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "contaminavĕro",
+                "traduzioni": [
+                    "io avrò contaminato",
+                    "io avrò macchiato",
+                    "io avrò guastato",
+                    "io avrò adulterato",
+                    "io avrò corrotto",
+                    "io avrò profanato",
+                    "io avrò disonorato",
+                    "io sarò toccato",
+                    "io sarò toccata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contaminavĕris",
+                "traduzioni": [
+                    "tu avrai contaminato",
+                    "tu avrai macchiato",
+                    "tu avrai guastato",
+                    "tu avrai adulterato",
+                    "tu avrai corrotto",
+                    "tu avrai profanato",
+                    "tu avrai disonorato",
+                    "tu sarai toccato",
+                    "tu sarai toccata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contaminavĕrit",
+                "traduzioni": [
+                    "lui avrà contaminato",
+                    "lei avrà contaminato",
+                    "egli avrà contaminato",
+                    "lui avrà macchiato",
+                    "lei avrà macchiato",
+                    "egli avrà macchiato",
+                    "lui avrà guastato",
+                    "lei avrà guastato",
+                    "egli avrà guastato",
+                    "lui avrà adulterato",
+                    "lei avrà adulterato",
+                    "egli avrà adulterato",
+                    "lui avrà corrotto",
+                    "lei avrà corrotto",
+                    "egli avrà corrotto",
+                    "lui avrà profanato",
+                    "lei avrà profanato",
+                    "egli avrà profanato",
+                    "lui avrà disonorato",
+                    "lei avrà disonorato",
+                    "egli avrà disonorato",
+                    "lui sarà toccato",
+                    "lei sarà toccata",
+                    "egli sarà toccato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contaminaverĭmus",
+                "traduzioni": [
+                    "noi avremo contaminato",
+                    "noi avremo macchiato",
+                    "noi avremo guastato",
+                    "noi avremo adulterato",
+                    "noi avremo corrotto",
+                    "noi avremo profanato",
+                    "noi avremo disonorato",
+                    "noi saremo toccati",
+                    "noi saremo toccate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contaminaverĭtis",
+                "traduzioni": [
+                    "voi avrete contaminato",
+                    "voi avrete macchiato",
+                    "voi avrete guastato",
+                    "voi avrete adulterato",
+                    "voi avrete corrotto",
+                    "voi avrete profanato",
+                    "voi avrete disonorato",
+                    "voi sarete toccati",
+                    "voi sarete toccate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contaminavĕrint",
+                "traduzioni": [
+                    "loro avranno contaminato",
+                    "essi avranno contaminato",
+                    "loro avranno macchiato",
+                    "essi avranno macchiato",
+                    "loro avranno guastato",
+                    "essi avranno guastato",
+                    "loro avranno adulterato",
+                    "essi avranno adulterato",
+                    "loro avranno corrotto",
+                    "essi avranno corrotto",
+                    "loro avranno profanato",
+                    "essi avranno profanato",
+                    "loro avranno disonorato",
+                    "essi avranno disonorato",
+                    "loro saranno toccati",
+                    "loro saranno toccate",
+                    "essi saranno toccati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "contāmĭnem",
+                "traduzioni": [
+                    "che io contamini",
+                    "che io macchi",
+                    "che io guasti",
+                    "che io adulteri",
+                    "che io corrompa",
+                    "che io profani",
+                    "che io disonori",
+                    "che io tocchi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contāmĭnes",
+                "traduzioni": [
+                    "che tu contamini",
+                    "che tu macchi",
+                    "che tu guasti",
+                    "che tu adulteri",
+                    "che tu corrompa",
+                    "che tu profani",
+                    "che tu disonori",
+                    "che tu tocchi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contāmĭnet",
+                "traduzioni": [
+                    "che lui contamini",
+                    "che lei contamini",
+                    "che egli contamini",
+                    "che lui macchi",
+                    "che lei macchi",
+                    "che egli macchi",
+                    "che lui guasti",
+                    "che lei guasti",
+                    "che egli guasti",
+                    "che lui adulteri",
+                    "che lei adulteri",
+                    "che egli adulteri",
+                    "che lui corrompa",
+                    "che lei corrompa",
+                    "che egli corrompa",
+                    "che lui profani",
+                    "che lei profani",
+                    "che egli profani",
+                    "che lui disonori",
+                    "che lei disonori",
+                    "che egli disonori",
+                    "che lui tocchi",
+                    "che lei tocchi",
+                    "che egli tocchi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contāmĭnēmus",
+                "traduzioni": [
+                    "che noi contaminiamo",
+                    "che noi macchiamo",
+                    "che noi guastiamo",
+                    "che noi adulteriamo",
+                    "che noi corrompiamo",
+                    "che noi profaniamo",
+                    "che noi disonoriamo",
+                    "che noi tocchiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contāmĭnētis",
+                "traduzioni": [
+                    "che voi contaminiate",
+                    "che voi macchiate",
+                    "che voi guastiate",
+                    "che voi adulteriate",
+                    "che voi corrompiate",
+                    "che voi profaniate",
+                    "che voi disonoriate",
+                    "che voi tocchiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contāmĭnent",
+                "traduzioni": [
+                    "che loro contaminino",
+                    "che essi contaminino",
+                    "che loro macchino",
+                    "che essi macchino",
+                    "che loro guastino",
+                    "che essi guastino",
+                    "che loro adulterino",
+                    "che essi adulterino",
+                    "che loro corrompano",
+                    "che essi corrompano",
+                    "che loro profanino",
+                    "che essi profanino",
+                    "che loro disonorino",
+                    "che essi disonorino",
+                    "che loro tocchino",
+                    "che essi tocchino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "contāmĭnārem",
+                "traduzioni": [
+                    "che io contaminassi",
+                    "che io macchiassi",
+                    "che io guastassi",
+                    "che io adulterassi",
+                    "che io corrompessi",
+                    "che io profanassi",
+                    "che io disonorassi",
+                    "che io toccassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contāmĭnāres",
+                "traduzioni": [
+                    "che tu contaminassi",
+                    "che tu macchiassi",
+                    "che tu guastassi",
+                    "che tu adulterassi",
+                    "che tu corrompessi",
+                    "che tu profanassi",
+                    "che tu disonorassi",
+                    "che tu toccassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contāmĭnāret",
+                "traduzioni": [
+                    "che lui contaminasse",
+                    "che lei contaminasse",
+                    "che egli contaminasse",
+                    "che lui macchiasse",
+                    "che lei macchiasse",
+                    "che egli macchiasse",
+                    "che lui guastasse",
+                    "che lei guastasse",
+                    "che egli guastasse",
+                    "che lui adulterasse",
+                    "che lei adulterasse",
+                    "che egli adulterasse",
+                    "che lui corrompesse",
+                    "che lei corrompesse",
+                    "che egli corrompesse",
+                    "che lui profanasse",
+                    "che lei profanasse",
+                    "che egli profanasse",
+                    "che lui disonorasse",
+                    "che lei disonorasse",
+                    "che egli disonorasse",
+                    "che lui toccasse",
+                    "che lei toccasse",
+                    "che egli toccasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contāmĭnarēmus",
+                "traduzioni": [
+                    "che noi contaminassimo",
+                    "che noi macchiassimo",
+                    "che noi guastassimo",
+                    "che noi adulterassimo",
+                    "che noi corrompessimo",
+                    "che noi profanassimo",
+                    "che noi disonorassimo",
+                    "che noi toccassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contāmĭnarētis",
+                "traduzioni": [
+                    "che voi contaminaste",
+                    "che voi macchiaste",
+                    "che voi guastaste",
+                    "che voi adulteraste",
+                    "che voi corrompeste",
+                    "che voi profanaste",
+                    "che voi disonoraste",
+                    "che voi toccaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contāmĭnārent",
+                "traduzioni": [
+                    "che loro contaminassero",
+                    "che essi contaminassero",
+                    "che loro macchiassero",
+                    "che essi macchiassero",
+                    "che loro guastassero",
+                    "che essi guastassero",
+                    "che loro adulterassero",
+                    "che essi adulterassero",
+                    "che loro corrompessero",
+                    "che essi corrompessero",
+                    "che loro profanassero",
+                    "che essi profanassero",
+                    "che loro disonorassero",
+                    "che essi disonorassero",
+                    "che loro toccassero",
+                    "che essi toccassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "contaminavĕrim",
+                "traduzioni": [
+                    "che io abbia contaminato",
+                    "che io abbia macchiato",
+                    "che io abbia guastato",
+                    "che io abbia adulterato",
+                    "che io abbia corrotto",
+                    "che io abbia profanato",
+                    "che io abbia disonorato",
+                    "che io sia toccato",
+                    "che io sia toccata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contaminavĕris",
+                "traduzioni": [
+                    "che tu abbia contaminato",
+                    "che tu abbia macchiato",
+                    "che tu abbia guastato",
+                    "che tu abbia adulterato",
+                    "che tu abbia corrotto",
+                    "che tu abbia profanato",
+                    "che tu abbia disonorato",
+                    "che tu sia toccato",
+                    "che tu sia toccata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contaminavĕrit",
+                "traduzioni": [
+                    "che lui abbia contaminato",
+                    "che lei abbia contaminato",
+                    "che egli abbia contaminato",
+                    "che lui abbia macchiato",
+                    "che lei abbia macchiato",
+                    "che egli abbia macchiato",
+                    "che lui abbia guastato",
+                    "che lei abbia guastato",
+                    "che egli abbia guastato",
+                    "che lui abbia adulterato",
+                    "che lei abbia adulterato",
+                    "che egli abbia adulterato",
+                    "che lui abbia corrotto",
+                    "che lei abbia corrotto",
+                    "che egli abbia corrotto",
+                    "che lui abbia profanato",
+                    "che lei abbia profanato",
+                    "che egli abbia profanato",
+                    "che lui abbia disonorato",
+                    "che lei abbia disonorato",
+                    "che egli abbia disonorato",
+                    "che lui sia toccato",
+                    "che lei sia toccata",
+                    "che egli sia toccato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contaminaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo contaminato",
+                    "che noi abbiamo macchiato",
+                    "che noi abbiamo guastato",
+                    "che noi abbiamo adulterato",
+                    "che noi abbiamo corrotto",
+                    "che noi abbiamo profanato",
+                    "che noi abbiamo disonorato",
+                    "che noi siamo toccati",
+                    "che noi siamo toccate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contaminaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate contaminato",
+                    "che voi abbiate macchiato",
+                    "che voi abbiate guastato",
+                    "che voi abbiate adulterato",
+                    "che voi abbiate corrotto",
+                    "che voi abbiate profanato",
+                    "che voi abbiate disonorato",
+                    "che voi siate toccati",
+                    "che voi siate toccate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contaminavĕrint",
+                "traduzioni": [
+                    "che loro abbiano contaminato",
+                    "che essi abbiano contaminato",
+                    "che loro abbiano macchiato",
+                    "che essi abbiano macchiato",
+                    "che loro abbiano guastato",
+                    "che essi abbiano guastato",
+                    "che loro abbiano adulterato",
+                    "che essi abbiano adulterato",
+                    "che loro abbiano corrotto",
+                    "che essi abbiano corrotto",
+                    "che loro abbiano profanato",
+                    "che essi abbiano profanato",
+                    "che loro abbiano disonorato",
+                    "che essi abbiano disonorato",
+                    "che loro siano toccati",
+                    "che loro siano toccate",
+                    "che essi siano toccati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "contaminavissem",
+                "traduzioni": [
+                    "che io avessi contaminato",
+                    "che io avessi macchiato",
+                    "che io avessi guastato",
+                    "che io avessi adulterato",
+                    "che io avessi corrotto",
+                    "che io avessi profanato",
+                    "che io avessi disonorato",
+                    "che io fossi toccato",
+                    "che io fossi toccata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contaminavisses",
+                "traduzioni": [
+                    "che tu avessi contaminato",
+                    "che tu avessi macchiato",
+                    "che tu avessi guastato",
+                    "che tu avessi adulterato",
+                    "che tu avessi corrotto",
+                    "che tu avessi profanato",
+                    "che tu avessi disonorato",
+                    "che tu fossi toccato",
+                    "che tu fossi toccata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contaminavisset",
+                "traduzioni": [
+                    "che lui avesse contaminato",
+                    "che lei avesse contaminato",
+                    "che egli avesse contaminato",
+                    "che lui avesse macchiato",
+                    "che lei avesse macchiato",
+                    "che egli avesse macchiato",
+                    "che lui avesse guastato",
+                    "che lei avesse guastato",
+                    "che egli avesse guastato",
+                    "che lui avesse adulterato",
+                    "che lei avesse adulterato",
+                    "che egli avesse adulterato",
+                    "che lui avesse corrotto",
+                    "che lei avesse corrotto",
+                    "che egli avesse corrotto",
+                    "che lui avesse profanato",
+                    "che lei avesse profanato",
+                    "che egli avesse profanato",
+                    "che lui avesse disonorato",
+                    "che lei avesse disonorato",
+                    "che egli avesse disonorato",
+                    "che lui fosse toccato",
+                    "che lei fosse toccata",
+                    "che egli fosse toccato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contaminavissēmus",
+                "traduzioni": [
+                    "che noi avessimo contaminato",
+                    "che noi avessimo macchiato",
+                    "che noi avessimo guastato",
+                    "che noi avessimo adulterato",
+                    "che noi avessimo corrotto",
+                    "che noi avessimo profanato",
+                    "che noi avessimo disonorato",
+                    "che noi fossimo toccati",
+                    "che noi fossimo toccate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contaminavissētis",
+                "traduzioni": [
+                    "che voi aveste contaminato",
+                    "che voi aveste macchiato",
+                    "che voi aveste guastato",
+                    "che voi aveste adulterato",
+                    "che voi aveste corrotto",
+                    "che voi aveste profanato",
+                    "che voi aveste disonorato",
+                    "che voi foste toccati",
+                    "che voi foste toccate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contaminavissent",
+                "traduzioni": [
+                    "che loro avessero contaminato",
+                    "che essi avessero contaminato",
+                    "che loro avessero macchiato",
+                    "che essi avessero macchiato",
+                    "che loro avessero guastato",
+                    "che essi avessero guastato",
+                    "che loro avessero adulterato",
+                    "che essi avessero adulterato",
+                    "che loro avessero corrotto",
+                    "che essi avessero corrotto",
+                    "che loro avessero profanato",
+                    "che essi avessero profanato",
+                    "che loro avessero disonorato",
+                    "che essi avessero disonorato",
+                    "che loro fossero toccati",
+                    "che loro fossero toccate",
+                    "che essi fossero toccati"
+                ]
+            }
+        ]
+    }
+}

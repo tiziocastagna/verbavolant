@@ -1,0 +1,973 @@
+{
+    "identifier": "GUSTO",
+    "conuigazione": "1",
+    "translation": [
+        "gustare",
+        "(in senso figurato) assaggiare",
+        "assaporare",
+        "delibare",
+        "provare",
+        "mangiare"
+    ],
+    "valid_translations": [
+        "gustare",
+        "assaporare",
+        "delibare",
+        "provare",
+        "mangiare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "gusto",
+                "traduzioni": [
+                    "io gusto",
+                    "io assaporo",
+                    "io delibo",
+                    "io provo",
+                    "io mangio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gustas",
+                "traduzioni": [
+                    "tu gusti",
+                    "tu assapori",
+                    "tu delibi",
+                    "tu provi",
+                    "tu mangi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gustat",
+                "traduzioni": [
+                    "lui gusta",
+                    "lei gusta",
+                    "egli gusta",
+                    "lui assapora",
+                    "lei assapora",
+                    "egli assapora",
+                    "lui deliba",
+                    "lei deliba",
+                    "egli deliba",
+                    "lui prova",
+                    "lei prova",
+                    "egli prova",
+                    "lui mangia",
+                    "lei mangia",
+                    "egli mangia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gustāmus",
+                "traduzioni": [
+                    "noi gustiamo",
+                    "noi assaporiamo",
+                    "noi delibiamo",
+                    "noi proviamo",
+                    "noi mangiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gustātis",
+                "traduzioni": [
+                    "voi gustate",
+                    "voi assaporate",
+                    "voi delibate",
+                    "voi provate",
+                    "voi mangiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gustant",
+                "traduzioni": [
+                    "loro gustano",
+                    "essi gustano",
+                    "loro assaporano",
+                    "essi assaporano",
+                    "loro delibano",
+                    "essi delibano",
+                    "loro provano",
+                    "essi provano",
+                    "loro mangiano",
+                    "essi mangiano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gustābam",
+                "traduzioni": [
+                    "io gustavo",
+                    "io assaporavo",
+                    "io delibavo",
+                    "io provavo",
+                    "io mangiavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gustābas",
+                "traduzioni": [
+                    "tu gustavi",
+                    "tu assaporavi",
+                    "tu delibavi",
+                    "tu provavi",
+                    "tu mangiavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gustābat",
+                "traduzioni": [
+                    "lui gustava",
+                    "lei gustava",
+                    "egli gustava",
+                    "lui assaporava",
+                    "lei assaporava",
+                    "egli assaporava",
+                    "lui delibava",
+                    "lei delibava",
+                    "egli delibava",
+                    "lui provava",
+                    "lei provava",
+                    "egli provava",
+                    "lui mangiava",
+                    "lei mangiava",
+                    "egli mangiava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gustabāmus",
+                "traduzioni": [
+                    "noi gustavamo",
+                    "noi assaporavamo",
+                    "noi delibavamo",
+                    "noi provavamo",
+                    "noi mangiavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gustabātis",
+                "traduzioni": [
+                    "voi gustavate",
+                    "voi assaporavate",
+                    "voi delibavate",
+                    "voi provavate",
+                    "voi mangiavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gustābant",
+                "traduzioni": [
+                    "loro gustavano",
+                    "essi gustavano",
+                    "loro assaporavano",
+                    "essi assaporavano",
+                    "loro delibavano",
+                    "essi delibavano",
+                    "loro provavano",
+                    "essi provavano",
+                    "loro mangiavano",
+                    "essi mangiavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "gustābo",
+                "traduzioni": [
+                    "io gusterò",
+                    "io assaporerò",
+                    "io deliberò",
+                    "io proverò",
+                    "io mangerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gustābis",
+                "traduzioni": [
+                    "tu gusterai",
+                    "tu assaporerai",
+                    "tu deliberai",
+                    "tu proverai",
+                    "tu mangerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gustābit",
+                "traduzioni": [
+                    "lui gusterà",
+                    "lei gusterà",
+                    "egli gusterà",
+                    "lui assaporerà",
+                    "lei assaporerà",
+                    "egli assaporerà",
+                    "lui deliberà",
+                    "lei deliberà",
+                    "egli deliberà",
+                    "lui proverà",
+                    "lei proverà",
+                    "egli proverà",
+                    "lui mangerà",
+                    "lei mangerà",
+                    "egli mangerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gustabĭmus",
+                "traduzioni": [
+                    "noi gusteremo",
+                    "noi assaporeremo",
+                    "noi deliberemo",
+                    "noi proveremo",
+                    "noi mangeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gustabĭtis",
+                "traduzioni": [
+                    "voi gusterete",
+                    "voi assaporerete",
+                    "voi deliberete",
+                    "voi proverete",
+                    "voi mangerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gustābunt",
+                "traduzioni": [
+                    "loro gusteranno",
+                    "essi gusteranno",
+                    "loro assaporeranno",
+                    "essi assaporeranno",
+                    "loro deliberanno",
+                    "essi deliberanno",
+                    "loro proveranno",
+                    "essi proveranno",
+                    "loro mangeranno",
+                    "essi mangeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gustavi",
+                "traduzioni": [
+                    "io gustai",
+                    "io sono gustato",
+                    "io sono gustata",
+                    "io fui gustato",
+                    "io fui gustata",
+                    "io assaporai",
+                    "io ho assaporato",
+                    "io ebbi assaporato",
+                    "io delibai",
+                    "io ho delibato",
+                    "io ebbi delibato",
+                    "io provai",
+                    "io ho provato",
+                    "io ebbi provato",
+                    "io mangiai",
+                    "io ho mangiato",
+                    "io ebbi mangiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gustavisti",
+                "traduzioni": [
+                    "tu gustasti",
+                    "tu sei gustato",
+                    "tu sei gustata",
+                    "tu fosti gustato",
+                    "tu fosti gustata",
+                    "tu assaporasti",
+                    "tu hai assaporato",
+                    "tu avesti assaporato",
+                    "tu delibasti",
+                    "tu hai delibato",
+                    "tu avesti delibato",
+                    "tu provasti",
+                    "tu hai provato",
+                    "tu avesti provato",
+                    "tu mangiasti",
+                    "tu hai mangiato",
+                    "tu avesti mangiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gustavit",
+                "traduzioni": [
+                    "lui gustò",
+                    "lei gustò",
+                    "egli gustò",
+                    "lui è gustato",
+                    "lei è gustata",
+                    "egli è gustato",
+                    "lui fu gustato",
+                    "lei fu gustata",
+                    "egli fu gustato",
+                    "lui assaporò",
+                    "lei assaporò",
+                    "egli assaporò",
+                    "lui ha assaporato",
+                    "lei ha assaporato",
+                    "egli ha assaporato",
+                    "lui ebbe assaporato",
+                    "lei ebbe assaporato",
+                    "egli ebbe assaporato",
+                    "lui delibò",
+                    "lei delibò",
+                    "egli delibò",
+                    "lui ha delibato",
+                    "lei ha delibato",
+                    "egli ha delibato",
+                    "lui ebbe delibato",
+                    "lei ebbe delibato",
+                    "egli ebbe delibato",
+                    "lui provò",
+                    "lei provò",
+                    "egli provò",
+                    "lui ha provato",
+                    "lei ha provato",
+                    "egli ha provato",
+                    "lui ebbe provato",
+                    "lei ebbe provato",
+                    "egli ebbe provato",
+                    "lui mangiò",
+                    "lei mangiò",
+                    "egli mangiò",
+                    "lui ha mangiato",
+                    "lei ha mangiato",
+                    "egli ha mangiato",
+                    "lui ebbe mangiato",
+                    "lei ebbe mangiato",
+                    "egli ebbe mangiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gustavĭmus",
+                "traduzioni": [
+                    "noi gustammo",
+                    "noi siamo gustati",
+                    "noi siamo gustate",
+                    "noi fummo gustati",
+                    "noi fummo gustate",
+                    "noi assaporammo",
+                    "noi abbiamo assaporato",
+                    "noi avemmo assaporato",
+                    "noi delibammo",
+                    "noi abbiamo delibato",
+                    "noi avemmo delibato",
+                    "noi provammo",
+                    "noi abbiamo provato",
+                    "noi avemmo provato",
+                    "noi mangiammo",
+                    "noi abbiamo mangiato",
+                    "noi avemmo mangiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gustavistis",
+                "traduzioni": [
+                    "voi gustaste",
+                    "voi siete gustati",
+                    "voi siete gustate",
+                    "voi foste gustati",
+                    "voi foste gustate",
+                    "voi assaporaste",
+                    "voi avete assaporato",
+                    "voi aveste assaporato",
+                    "voi delibaste",
+                    "voi avete delibato",
+                    "voi aveste delibato",
+                    "voi provaste",
+                    "voi avete provato",
+                    "voi aveste provato",
+                    "voi mangiaste",
+                    "voi avete mangiato",
+                    "voi aveste mangiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gustavērunt, gustavēre",
+                "traduzioni": [
+                    "loro gustarono",
+                    "essi gustarono",
+                    "loro sono gustati",
+                    "loro sono gustate",
+                    "essi sono gustati",
+                    "loro furono gustati",
+                    "loro furono gustate",
+                    "essi furono gustati",
+                    "loro assaporarono",
+                    "essi assaporarono",
+                    "loro hanno assaporato",
+                    "essi hanno assaporato",
+                    "loro ebbero assaporato",
+                    "essi ebbero assaporato",
+                    "loro delibarono",
+                    "essi delibarono",
+                    "loro hanno delibato",
+                    "essi hanno delibato",
+                    "loro ebbero delibato",
+                    "essi ebbero delibato",
+                    "loro provarono",
+                    "essi provarono",
+                    "loro hanno provato",
+                    "essi hanno provato",
+                    "loro ebbero provato",
+                    "essi ebbero provato",
+                    "loro mangiarono",
+                    "essi mangiarono",
+                    "loro hanno mangiato",
+                    "essi hanno mangiato",
+                    "loro ebbero mangiato",
+                    "essi ebbero mangiato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gustavĕram",
+                "traduzioni": [
+                    "io ero gustato",
+                    "io ero gustata",
+                    "io avevo assaporato",
+                    "io avevo delibato",
+                    "io avevo provato",
+                    "io avevo mangiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gustavĕras",
+                "traduzioni": [
+                    "tu eri gustato",
+                    "tu eri gustata",
+                    "tu avevi assaporato",
+                    "tu avevi delibato",
+                    "tu avevi provato",
+                    "tu avevi mangiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gustavĕrat",
+                "traduzioni": [
+                    "lui era gustato",
+                    "lei era gustata",
+                    "egli era gustato",
+                    "lui aveva assaporato",
+                    "lei aveva assaporato",
+                    "egli aveva assaporato",
+                    "lui aveva delibato",
+                    "lei aveva delibato",
+                    "egli aveva delibato",
+                    "lui aveva provato",
+                    "lei aveva provato",
+                    "egli aveva provato",
+                    "lui aveva mangiato",
+                    "lei aveva mangiato",
+                    "egli aveva mangiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gustaverāmus",
+                "traduzioni": [
+                    "noi eravamo gustati",
+                    "noi eravamo gustate",
+                    "noi avevamo assaporato",
+                    "noi avevamo delibato",
+                    "noi avevamo provato",
+                    "noi avevamo mangiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gustaverātis",
+                "traduzioni": [
+                    "voi eravate gustati",
+                    "voi eravate gustate",
+                    "voi avevate assaporato",
+                    "voi avevate delibato",
+                    "voi avevate provato",
+                    "voi avevate mangiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gustavĕrant",
+                "traduzioni": [
+                    "loro erano gustati",
+                    "loro erano gustate",
+                    "essi erano gustati",
+                    "loro avevano assaporato",
+                    "essi avevano assaporato",
+                    "loro avevano delibato",
+                    "essi avevano delibato",
+                    "loro avevano provato",
+                    "essi avevano provato",
+                    "loro avevano mangiato",
+                    "essi avevano mangiato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "gustavĕro",
+                "traduzioni": [
+                    "io sarò gustato",
+                    "io sarò gustata",
+                    "io avrò assaporato",
+                    "io avrò delibato",
+                    "io avrò provato",
+                    "io avrò mangiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gustavĕris",
+                "traduzioni": [
+                    "tu sarai gustato",
+                    "tu sarai gustata",
+                    "tu avrai assaporato",
+                    "tu avrai delibato",
+                    "tu avrai provato",
+                    "tu avrai mangiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gustavĕrit",
+                "traduzioni": [
+                    "lui sarà gustato",
+                    "lei sarà gustata",
+                    "egli sarà gustato",
+                    "lui avrà assaporato",
+                    "lei avrà assaporato",
+                    "egli avrà assaporato",
+                    "lui avrà delibato",
+                    "lei avrà delibato",
+                    "egli avrà delibato",
+                    "lui avrà provato",
+                    "lei avrà provato",
+                    "egli avrà provato",
+                    "lui avrà mangiato",
+                    "lei avrà mangiato",
+                    "egli avrà mangiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gustaverĭmus",
+                "traduzioni": [
+                    "noi saremo gustati",
+                    "noi saremo gustate",
+                    "noi avremo assaporato",
+                    "noi avremo delibato",
+                    "noi avremo provato",
+                    "noi avremo mangiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gustaverĭtis",
+                "traduzioni": [
+                    "voi sarete gustati",
+                    "voi sarete gustate",
+                    "voi avrete assaporato",
+                    "voi avrete delibato",
+                    "voi avrete provato",
+                    "voi avrete mangiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gustavĕrint",
+                "traduzioni": [
+                    "loro saranno gustati",
+                    "loro saranno gustate",
+                    "essi saranno gustati",
+                    "loro avranno assaporato",
+                    "essi avranno assaporato",
+                    "loro avranno delibato",
+                    "essi avranno delibato",
+                    "loro avranno provato",
+                    "essi avranno provato",
+                    "loro avranno mangiato",
+                    "essi avranno mangiato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "gustem",
+                "traduzioni": [
+                    "che io gusti",
+                    "che io assapori",
+                    "che io delibi",
+                    "che io provi",
+                    "che io mangi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gustes",
+                "traduzioni": [
+                    "che tu gusti",
+                    "che tu assapori",
+                    "che tu delibi",
+                    "che tu provi",
+                    "che tu mangi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gustet",
+                "traduzioni": [
+                    "che lui gusti",
+                    "che lei gusti",
+                    "che egli gusti",
+                    "che lui assapori",
+                    "che lei assapori",
+                    "che egli assapori",
+                    "che lui delibi",
+                    "che lei delibi",
+                    "che egli delibi",
+                    "che lui provi",
+                    "che lei provi",
+                    "che egli provi",
+                    "che lui mangi",
+                    "che lei mangi",
+                    "che egli mangi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gustēmus",
+                "traduzioni": [
+                    "che noi gustiamo",
+                    "che noi assaporiamo",
+                    "che noi delibiamo",
+                    "che noi proviamo",
+                    "che noi mangiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gustētis",
+                "traduzioni": [
+                    "che voi gustiate",
+                    "che voi assaporiate",
+                    "che voi delibiate",
+                    "che voi proviate",
+                    "che voi mangiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gustent",
+                "traduzioni": [
+                    "che loro gustino",
+                    "che essi gustino",
+                    "che loro assaporino",
+                    "che essi assaporino",
+                    "che loro delibino",
+                    "che essi delibino",
+                    "che loro provino",
+                    "che essi provino",
+                    "che loro mangino",
+                    "che essi mangino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gustārem",
+                "traduzioni": [
+                    "che io gustassi",
+                    "che io assaporassi",
+                    "che io delibassi",
+                    "che io provassi",
+                    "che io mangiassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gustāres",
+                "traduzioni": [
+                    "che tu gustassi",
+                    "che tu assaporassi",
+                    "che tu delibassi",
+                    "che tu provassi",
+                    "che tu mangiassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gustāret",
+                "traduzioni": [
+                    "che lui gustasse",
+                    "che lei gustasse",
+                    "che egli gustasse",
+                    "che lui assaporasse",
+                    "che lei assaporasse",
+                    "che egli assaporasse",
+                    "che lui delibasse",
+                    "che lei delibasse",
+                    "che egli delibasse",
+                    "che lui provasse",
+                    "che lei provasse",
+                    "che egli provasse",
+                    "che lui mangiasse",
+                    "che lei mangiasse",
+                    "che egli mangiasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gustarēmus",
+                "traduzioni": [
+                    "che noi gustassimo",
+                    "che noi assaporassimo",
+                    "che noi delibassimo",
+                    "che noi provassimo",
+                    "che noi mangiassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gustarētis",
+                "traduzioni": [
+                    "che voi gustaste",
+                    "che voi assaporaste",
+                    "che voi delibaste",
+                    "che voi provaste",
+                    "che voi mangiaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gustārent",
+                "traduzioni": [
+                    "che loro gustassero",
+                    "che essi gustassero",
+                    "che loro assaporassero",
+                    "che essi assaporassero",
+                    "che loro delibassero",
+                    "che essi delibassero",
+                    "che loro provassero",
+                    "che essi provassero",
+                    "che loro mangiassero",
+                    "che essi mangiassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gustavĕrim",
+                "traduzioni": [
+                    "che io sia gustato",
+                    "che io sia gustata",
+                    "che io abbia assaporato",
+                    "che io abbia delibato",
+                    "che io abbia provato",
+                    "che io abbia mangiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gustavĕris",
+                "traduzioni": [
+                    "che tu sia gustato",
+                    "che tu sia gustata",
+                    "che tu abbia assaporato",
+                    "che tu abbia delibato",
+                    "che tu abbia provato",
+                    "che tu abbia mangiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gustavĕrit",
+                "traduzioni": [
+                    "che lui sia gustato",
+                    "che lei sia gustata",
+                    "che egli sia gustato",
+                    "che lui abbia assaporato",
+                    "che lei abbia assaporato",
+                    "che egli abbia assaporato",
+                    "che lui abbia delibato",
+                    "che lei abbia delibato",
+                    "che egli abbia delibato",
+                    "che lui abbia provato",
+                    "che lei abbia provato",
+                    "che egli abbia provato",
+                    "che lui abbia mangiato",
+                    "che lei abbia mangiato",
+                    "che egli abbia mangiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gustaverĭmus",
+                "traduzioni": [
+                    "che noi siamo gustati",
+                    "che noi siamo gustate",
+                    "che noi abbiamo assaporato",
+                    "che noi abbiamo delibato",
+                    "che noi abbiamo provato",
+                    "che noi abbiamo mangiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gustaverĭtis",
+                "traduzioni": [
+                    "che voi siate gustati",
+                    "che voi siate gustate",
+                    "che voi abbiate assaporato",
+                    "che voi abbiate delibato",
+                    "che voi abbiate provato",
+                    "che voi abbiate mangiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gustavĕrint",
+                "traduzioni": [
+                    "che loro siano gustati",
+                    "che loro siano gustate",
+                    "che essi siano gustati",
+                    "che loro abbiano assaporato",
+                    "che essi abbiano assaporato",
+                    "che loro abbiano delibato",
+                    "che essi abbiano delibato",
+                    "che loro abbiano provato",
+                    "che essi abbiano provato",
+                    "che loro abbiano mangiato",
+                    "che essi abbiano mangiato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gustavissem",
+                "traduzioni": [
+                    "che io fossi gustato",
+                    "che io fossi gustata",
+                    "che io avessi assaporato",
+                    "che io avessi delibato",
+                    "che io avessi provato",
+                    "che io avessi mangiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gustavisses",
+                "traduzioni": [
+                    "che tu fossi gustato",
+                    "che tu fossi gustata",
+                    "che tu avessi assaporato",
+                    "che tu avessi delibato",
+                    "che tu avessi provato",
+                    "che tu avessi mangiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gustavisset",
+                "traduzioni": [
+                    "che lui fosse gustato",
+                    "che lei fosse gustata",
+                    "che egli fosse gustato",
+                    "che lui avesse assaporato",
+                    "che lei avesse assaporato",
+                    "che egli avesse assaporato",
+                    "che lui avesse delibato",
+                    "che lei avesse delibato",
+                    "che egli avesse delibato",
+                    "che lui avesse provato",
+                    "che lei avesse provato",
+                    "che egli avesse provato",
+                    "che lui avesse mangiato",
+                    "che lei avesse mangiato",
+                    "che egli avesse mangiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gustavissēmus",
+                "traduzioni": [
+                    "che noi fossimo gustati",
+                    "che noi fossimo gustate",
+                    "che noi avessimo assaporato",
+                    "che noi avessimo delibato",
+                    "che noi avessimo provato",
+                    "che noi avessimo mangiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gustavissētis",
+                "traduzioni": [
+                    "che voi foste gustati",
+                    "che voi foste gustate",
+                    "che voi aveste assaporato",
+                    "che voi aveste delibato",
+                    "che voi aveste provato",
+                    "che voi aveste mangiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gustavissent",
+                "traduzioni": [
+                    "che loro fossero gustati",
+                    "che loro fossero gustate",
+                    "che essi fossero gustati",
+                    "che loro avessero assaporato",
+                    "che essi avessero assaporato",
+                    "che loro avessero delibato",
+                    "che essi avessero delibato",
+                    "che loro avessero provato",
+                    "che essi avessero provato",
+                    "che loro avessero mangiato",
+                    "che essi avessero mangiato"
+                ]
+            }
+        ]
+    }
+}

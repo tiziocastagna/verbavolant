@@ -1,0 +1,729 @@
+{
+    "identifier": "EMANCIPO",
+    "conuigazione": "1",
+    "translation": [
+        "vendere",
+        "alienare",
+        "+ dativo o ad + accusativo) sottomettere",
+        "assoggettare"
+    ],
+    "valid_translations": [
+        "vendere",
+        "alienare",
+        "assoggettare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēmancĭpo",
+                "traduzioni": [
+                    "io vendo",
+                    "io alieno",
+                    "io assoggetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēmancĭpas",
+                "traduzioni": [
+                    "tu vendi",
+                    "tu alieni",
+                    "tu assoggetti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēmancĭpat",
+                "traduzioni": [
+                    "lui vende",
+                    "lei vende",
+                    "egli vende",
+                    "lui aliena",
+                    "lei aliena",
+                    "egli aliena",
+                    "lui assoggetta",
+                    "lei assoggetta",
+                    "egli assoggetta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēmancĭpāmus",
+                "traduzioni": [
+                    "noi vendiamo",
+                    "noi alieniamo",
+                    "noi assoggettiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēmancĭpātis",
+                "traduzioni": [
+                    "voi vendete",
+                    "voi alienate",
+                    "voi assoggettate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēmancĭpant",
+                "traduzioni": [
+                    "loro vendono",
+                    "essi vendono",
+                    "loro alienano",
+                    "essi alienano",
+                    "loro assoggettano",
+                    "essi assoggettano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēmancĭpābam",
+                "traduzioni": [
+                    "io vendevo",
+                    "io alienavo",
+                    "io assoggettavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēmancĭpābas",
+                "traduzioni": [
+                    "tu vendevi",
+                    "tu alienavi",
+                    "tu assoggettavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēmancĭpābat",
+                "traduzioni": [
+                    "lui vendeva",
+                    "lei vendeva",
+                    "egli vendeva",
+                    "lui alienava",
+                    "lei alienava",
+                    "egli alienava",
+                    "lui assoggettava",
+                    "lei assoggettava",
+                    "egli assoggettava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēmancĭpabāmus",
+                "traduzioni": [
+                    "noi vendevamo",
+                    "noi alienavamo",
+                    "noi assoggettavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēmancĭpabātis",
+                "traduzioni": [
+                    "voi vendevate",
+                    "voi alienavate",
+                    "voi assoggettavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēmancĭpābant",
+                "traduzioni": [
+                    "loro vendevano",
+                    "essi vendevano",
+                    "loro alienavano",
+                    "essi alienavano",
+                    "loro assoggettavano",
+                    "essi assoggettavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēmancĭpābo",
+                "traduzioni": [
+                    "io venderò",
+                    "io alienerò",
+                    "io assoggetterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēmancĭpābis",
+                "traduzioni": [
+                    "tu venderai",
+                    "tu alienerai",
+                    "tu assoggetterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēmancĭpābit",
+                "traduzioni": [
+                    "lui venderà",
+                    "lei venderà",
+                    "egli venderà",
+                    "lui alienerà",
+                    "lei alienerà",
+                    "egli alienerà",
+                    "lui assoggetterà",
+                    "lei assoggetterà",
+                    "egli assoggetterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēmancĭpabĭmus",
+                "traduzioni": [
+                    "noi venderemo",
+                    "noi alieneremo",
+                    "noi assoggetteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēmancĭpabĭtis",
+                "traduzioni": [
+                    "voi venderete",
+                    "voi alienerete",
+                    "voi assoggetterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēmancĭpābunt",
+                "traduzioni": [
+                    "loro venderanno",
+                    "essi venderanno",
+                    "loro alieneranno",
+                    "essi alieneranno",
+                    "loro assoggetteranno",
+                    "essi assoggetteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "emancipavi",
+                "traduzioni": [
+                    "io vendetti",
+                    "io vendei",
+                    "io ho venduto",
+                    "io ebbi venduto",
+                    "io alienai",
+                    "io ho alienato",
+                    "io ebbi alienato",
+                    "io assoggettai",
+                    "io ho assoggettato",
+                    "io ebbi assoggettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "emancipavisti",
+                "traduzioni": [
+                    "tu vendesti",
+                    "tu hai venduto",
+                    "tu avesti venduto",
+                    "tu alienasti",
+                    "tu hai alienato",
+                    "tu avesti alienato",
+                    "tu assoggettasti",
+                    "tu hai assoggettato",
+                    "tu avesti assoggettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "emancipavit",
+                "traduzioni": [
+                    "lui vendette",
+                    "lei vendette",
+                    "egli vendette",
+                    "lui vendé",
+                    "lei vendé",
+                    "egli vendé",
+                    "lui ha venduto",
+                    "lei ha venduto",
+                    "egli ha venduto",
+                    "lui ebbe venduto",
+                    "lei ebbe venduto",
+                    "egli ebbe venduto",
+                    "lui alienò",
+                    "lei alienò",
+                    "egli alienò",
+                    "lui ha alienato",
+                    "lei ha alienato",
+                    "egli ha alienato",
+                    "lui ebbe alienato",
+                    "lei ebbe alienato",
+                    "egli ebbe alienato",
+                    "lui assoggettò",
+                    "lei assoggettò",
+                    "egli assoggettò",
+                    "lui ha assoggettato",
+                    "lei ha assoggettato",
+                    "egli ha assoggettato",
+                    "lui ebbe assoggettato",
+                    "lei ebbe assoggettato",
+                    "egli ebbe assoggettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "emancipavĭmus",
+                "traduzioni": [
+                    "noi vendemmo",
+                    "noi abbiamo venduto",
+                    "noi avemmo venduto",
+                    "noi alienammo",
+                    "noi abbiamo alienato",
+                    "noi avemmo alienato",
+                    "noi assoggettammo",
+                    "noi abbiamo assoggettato",
+                    "noi avemmo assoggettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "emancipavistis",
+                "traduzioni": [
+                    "voi vendeste",
+                    "voi avete venduto",
+                    "voi aveste venduto",
+                    "voi alienaste",
+                    "voi avete alienato",
+                    "voi aveste alienato",
+                    "voi assoggettaste",
+                    "voi avete assoggettato",
+                    "voi aveste assoggettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "emancipavērunt, emancipavēre",
+                "traduzioni": [
+                    "loro vendettero",
+                    "essi vendettero",
+                    "loro venderono",
+                    "essi venderono",
+                    "loro hanno venduto",
+                    "essi hanno venduto",
+                    "loro ebbero venduto",
+                    "essi ebbero venduto",
+                    "loro alienarono",
+                    "essi alienarono",
+                    "loro hanno alienato",
+                    "essi hanno alienato",
+                    "loro ebbero alienato",
+                    "essi ebbero alienato",
+                    "loro assoggettarono",
+                    "essi assoggettarono",
+                    "loro hanno assoggettato",
+                    "essi hanno assoggettato",
+                    "loro ebbero assoggettato",
+                    "essi ebbero assoggettato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "emancipavĕram",
+                "traduzioni": [
+                    "io avevo venduto",
+                    "io avevo alienato",
+                    "io avevo assoggettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "emancipavĕras",
+                "traduzioni": [
+                    "tu avevi venduto",
+                    "tu avevi alienato",
+                    "tu avevi assoggettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "emancipavĕrat",
+                "traduzioni": [
+                    "lui aveva venduto",
+                    "lei aveva venduto",
+                    "egli aveva venduto",
+                    "lui aveva alienato",
+                    "lei aveva alienato",
+                    "egli aveva alienato",
+                    "lui aveva assoggettato",
+                    "lei aveva assoggettato",
+                    "egli aveva assoggettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "emancipaverāmus",
+                "traduzioni": [
+                    "noi avevamo venduto",
+                    "noi avevamo alienato",
+                    "noi avevamo assoggettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "emancipaverātis",
+                "traduzioni": [
+                    "voi avevate venduto",
+                    "voi avevate alienato",
+                    "voi avevate assoggettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "emancipavĕrant",
+                "traduzioni": [
+                    "loro avevano venduto",
+                    "essi avevano venduto",
+                    "loro avevano alienato",
+                    "essi avevano alienato",
+                    "loro avevano assoggettato",
+                    "essi avevano assoggettato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "emancipavĕro",
+                "traduzioni": [
+                    "io avrò venduto",
+                    "io avrò alienato",
+                    "io avrò assoggettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "emancipavĕris",
+                "traduzioni": [
+                    "tu avrai venduto",
+                    "tu avrai alienato",
+                    "tu avrai assoggettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "emancipavĕrit",
+                "traduzioni": [
+                    "lui avrà venduto",
+                    "lei avrà venduto",
+                    "egli avrà venduto",
+                    "lui avrà alienato",
+                    "lei avrà alienato",
+                    "egli avrà alienato",
+                    "lui avrà assoggettato",
+                    "lei avrà assoggettato",
+                    "egli avrà assoggettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "emancipaverĭmus",
+                "traduzioni": [
+                    "noi avremo venduto",
+                    "noi avremo alienato",
+                    "noi avremo assoggettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "emancipaverĭtis",
+                "traduzioni": [
+                    "voi avrete venduto",
+                    "voi avrete alienato",
+                    "voi avrete assoggettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "emancipavĕrint",
+                "traduzioni": [
+                    "loro avranno venduto",
+                    "essi avranno venduto",
+                    "loro avranno alienato",
+                    "essi avranno alienato",
+                    "loro avranno assoggettato",
+                    "essi avranno assoggettato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēmancĭpem",
+                "traduzioni": [
+                    "che io venda",
+                    "che io alieni",
+                    "che io assoggetti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēmancĭpes",
+                "traduzioni": [
+                    "che tu venda",
+                    "che tu alieni",
+                    "che tu assoggetti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēmancĭpet",
+                "traduzioni": [
+                    "che lui venda",
+                    "che lei venda",
+                    "che egli venda",
+                    "che lui alieni",
+                    "che lei alieni",
+                    "che egli alieni",
+                    "che lui assoggetti",
+                    "che lei assoggetti",
+                    "che egli assoggetti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēmancĭpēmus",
+                "traduzioni": [
+                    "che noi vendiamo",
+                    "che noi alieniamo",
+                    "che noi assoggettiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēmancĭpētis",
+                "traduzioni": [
+                    "che voi vendiate",
+                    "che voi alieniate",
+                    "che voi assoggettiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēmancĭpent",
+                "traduzioni": [
+                    "che loro vendano",
+                    "che essi vendano",
+                    "che loro alienino",
+                    "che essi alienino",
+                    "che loro assoggettino",
+                    "che essi assoggettino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēmancĭpārem",
+                "traduzioni": [
+                    "che io vendessi",
+                    "che io alienassi",
+                    "che io assoggettassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēmancĭpāres",
+                "traduzioni": [
+                    "che tu vendessi",
+                    "che tu alienassi",
+                    "che tu assoggettassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēmancĭpāret",
+                "traduzioni": [
+                    "che lui vendesse",
+                    "che lei vendesse",
+                    "che egli vendesse",
+                    "che lui alienasse",
+                    "che lei alienasse",
+                    "che egli alienasse",
+                    "che lui assoggettasse",
+                    "che lei assoggettasse",
+                    "che egli assoggettasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēmancĭparēmus",
+                "traduzioni": [
+                    "che noi vendessimo",
+                    "che noi alienassimo",
+                    "che noi assoggettassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēmancĭparētis",
+                "traduzioni": [
+                    "che voi vendeste",
+                    "che voi alienaste",
+                    "che voi assoggettaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēmancĭpārent",
+                "traduzioni": [
+                    "che loro vendessero",
+                    "che essi vendessero",
+                    "che loro alienassero",
+                    "che essi alienassero",
+                    "che loro assoggettassero",
+                    "che essi assoggettassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "emancipavĕrim",
+                "traduzioni": [
+                    "che io abbia venduto",
+                    "che io abbia alienato",
+                    "che io abbia assoggettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "emancipavĕris",
+                "traduzioni": [
+                    "che tu abbia venduto",
+                    "che tu abbia alienato",
+                    "che tu abbia assoggettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "emancipavĕrit",
+                "traduzioni": [
+                    "che lui abbia venduto",
+                    "che lei abbia venduto",
+                    "che egli abbia venduto",
+                    "che lui abbia alienato",
+                    "che lei abbia alienato",
+                    "che egli abbia alienato",
+                    "che lui abbia assoggettato",
+                    "che lei abbia assoggettato",
+                    "che egli abbia assoggettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "emancipaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo venduto",
+                    "che noi abbiamo alienato",
+                    "che noi abbiamo assoggettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "emancipaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate venduto",
+                    "che voi abbiate alienato",
+                    "che voi abbiate assoggettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "emancipavĕrint",
+                "traduzioni": [
+                    "che loro abbiano venduto",
+                    "che essi abbiano venduto",
+                    "che loro abbiano alienato",
+                    "che essi abbiano alienato",
+                    "che loro abbiano assoggettato",
+                    "che essi abbiano assoggettato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "emancipavissem",
+                "traduzioni": [
+                    "che io avessi venduto",
+                    "che io avessi alienato",
+                    "che io avessi assoggettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "emancipavisses",
+                "traduzioni": [
+                    "che tu avessi venduto",
+                    "che tu avessi alienato",
+                    "che tu avessi assoggettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "emancipavisset",
+                "traduzioni": [
+                    "che lui avesse venduto",
+                    "che lei avesse venduto",
+                    "che egli avesse venduto",
+                    "che lui avesse alienato",
+                    "che lei avesse alienato",
+                    "che egli avesse alienato",
+                    "che lui avesse assoggettato",
+                    "che lei avesse assoggettato",
+                    "che egli avesse assoggettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "emancipavissēmus",
+                "traduzioni": [
+                    "che noi avessimo venduto",
+                    "che noi avessimo alienato",
+                    "che noi avessimo assoggettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "emancipavissētis",
+                "traduzioni": [
+                    "che voi aveste venduto",
+                    "che voi aveste alienato",
+                    "che voi aveste assoggettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "emancipavissent",
+                "traduzioni": [
+                    "che loro avessero venduto",
+                    "che essi avessero venduto",
+                    "che loro avessero alienato",
+                    "che essi avessero alienato",
+                    "che loro avessero assoggettato",
+                    "che essi avessero assoggettato"
+                ]
+            }
+        ]
+    }
+}

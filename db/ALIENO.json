@@ -1,0 +1,1199 @@
+{
+    "identifier": "ALIENO",
+    "conuigazione": "1",
+    "translation": [
+        "alienare",
+        "cedere",
+        "trasferire",
+        "espropriare",
+        "allontanare",
+        "scacciare",
+        "far impazzire",
+        "rifuggire"
+    ],
+    "valid_translations": [
+        "alienare",
+        "cedere",
+        "trasferire",
+        "espropriare",
+        "allontanare",
+        "scacciare",
+        "rifuggire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ălĭēno",
+                "traduzioni": [
+                    "io alieno",
+                    "io cedo",
+                    "io trasferisco",
+                    "io esproprio",
+                    "io allontano",
+                    "io scaccio",
+                    "io rifuggo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ălĭēnas",
+                "traduzioni": [
+                    "tu alieni",
+                    "tu cedi",
+                    "tu trasferisci",
+                    "tu espropri",
+                    "tu allontani",
+                    "tu scacci",
+                    "tu rifuggi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ălĭēnat",
+                "traduzioni": [
+                    "lui aliena",
+                    "lei aliena",
+                    "egli aliena",
+                    "lui cede",
+                    "lei cede",
+                    "egli cede",
+                    "lui trasferisce",
+                    "lei trasferisce",
+                    "egli trasferisce",
+                    "lui espropria",
+                    "lei espropria",
+                    "egli espropria",
+                    "lui allontana",
+                    "lei allontana",
+                    "egli allontana",
+                    "lui scaccia",
+                    "lei scaccia",
+                    "egli scaccia",
+                    "lui rifugge",
+                    "lei rifugge",
+                    "egli rifugge"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ălĭēnāmus",
+                "traduzioni": [
+                    "noi alieniamo",
+                    "noi cediamo",
+                    "noi trasferiamo",
+                    "noi espropriamo",
+                    "noi allontaniamo",
+                    "noi scacciamo",
+                    "noi rifuggiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ălĭēnātis",
+                "traduzioni": [
+                    "voi alienate",
+                    "voi cedete",
+                    "voi trasferite",
+                    "voi espropriate",
+                    "voi allontanate",
+                    "voi scacciate",
+                    "voi rifuggite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ălĭēnant",
+                "traduzioni": [
+                    "loro alienano",
+                    "essi alienano",
+                    "loro cedono",
+                    "essi cedono",
+                    "loro trasferiscono",
+                    "essi trasferiscono",
+                    "loro espropriano",
+                    "essi espropriano",
+                    "loro allontanano",
+                    "essi allontanano",
+                    "loro scacciano",
+                    "essi scacciano",
+                    "loro rifuggono",
+                    "essi rifuggono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ălĭēnābam",
+                "traduzioni": [
+                    "io alienavo",
+                    "io cedevo",
+                    "io trasferivo",
+                    "io espropriavo",
+                    "io allontanavo",
+                    "io scacciavo",
+                    "io rifuggivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ălĭēnābas",
+                "traduzioni": [
+                    "tu alienavi",
+                    "tu cedevi",
+                    "tu trasferivi",
+                    "tu espropriavi",
+                    "tu allontanavi",
+                    "tu scacciavi",
+                    "tu rifuggivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ălĭēnābat",
+                "traduzioni": [
+                    "lui alienava",
+                    "lei alienava",
+                    "egli alienava",
+                    "lui cedeva",
+                    "lei cedeva",
+                    "egli cedeva",
+                    "lui trasferiva",
+                    "lei trasferiva",
+                    "egli trasferiva",
+                    "lui espropriava",
+                    "lei espropriava",
+                    "egli espropriava",
+                    "lui allontanava",
+                    "lei allontanava",
+                    "egli allontanava",
+                    "lui scacciava",
+                    "lei scacciava",
+                    "egli scacciava",
+                    "lui rifuggiva",
+                    "lei rifuggiva",
+                    "egli rifuggiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ălĭēnabāmus",
+                "traduzioni": [
+                    "noi alienavamo",
+                    "noi cedevamo",
+                    "noi trasferivamo",
+                    "noi espropriavamo",
+                    "noi allontanavamo",
+                    "noi scacciavamo",
+                    "noi rifuggivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ălĭēnabātis",
+                "traduzioni": [
+                    "voi alienavate",
+                    "voi cedevate",
+                    "voi trasferivate",
+                    "voi espropriavate",
+                    "voi allontanavate",
+                    "voi scacciavate",
+                    "voi rifuggivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ălĭēnābant",
+                "traduzioni": [
+                    "loro alienavano",
+                    "essi alienavano",
+                    "loro cedevano",
+                    "essi cedevano",
+                    "loro trasferivano",
+                    "essi trasferivano",
+                    "loro espropriavano",
+                    "essi espropriavano",
+                    "loro allontanavano",
+                    "essi allontanavano",
+                    "loro scacciavano",
+                    "essi scacciavano",
+                    "loro rifuggivano",
+                    "essi rifuggivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ălĭēnābo",
+                "traduzioni": [
+                    "io alienerò",
+                    "io cederò",
+                    "io trasferirò",
+                    "io esproprierò",
+                    "io allontanerò",
+                    "io scaccerò",
+                    "io rifuggirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ălĭēnābis",
+                "traduzioni": [
+                    "tu alienerai",
+                    "tu cederai",
+                    "tu trasferirai",
+                    "tu esproprierai",
+                    "tu allontanerai",
+                    "tu scaccerai",
+                    "tu rifuggirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ălĭēnābit",
+                "traduzioni": [
+                    "lui alienerà",
+                    "lei alienerà",
+                    "egli alienerà",
+                    "lui cederà",
+                    "lei cederà",
+                    "egli cederà",
+                    "lui trasferirà",
+                    "lei trasferirà",
+                    "egli trasferirà",
+                    "lui esproprierà",
+                    "lei esproprierà",
+                    "egli esproprierà",
+                    "lui allontanerà",
+                    "lei allontanerà",
+                    "egli allontanerà",
+                    "lui scaccerà",
+                    "lei scaccerà",
+                    "egli scaccerà",
+                    "lui rifuggirà",
+                    "lei rifuggirà",
+                    "egli rifuggirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ălĭēnabĭmus",
+                "traduzioni": [
+                    "noi alieneremo",
+                    "noi cederemo",
+                    "noi trasferiremo",
+                    "noi esproprieremo",
+                    "noi allontaneremo",
+                    "noi scacceremo",
+                    "noi rifuggiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ălĭēnabĭtis",
+                "traduzioni": [
+                    "voi alienerete",
+                    "voi cederete",
+                    "voi trasferirete",
+                    "voi esproprierete",
+                    "voi allontanerete",
+                    "voi scaccerete",
+                    "voi rifuggirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ălĭēnābunt",
+                "traduzioni": [
+                    "loro alieneranno",
+                    "essi alieneranno",
+                    "loro cederanno",
+                    "essi cederanno",
+                    "loro trasferiranno",
+                    "essi trasferiranno",
+                    "loro esproprieranno",
+                    "essi esproprieranno",
+                    "loro allontaneranno",
+                    "essi allontaneranno",
+                    "loro scacceranno",
+                    "essi scacceranno",
+                    "loro rifuggiranno",
+                    "essi rifuggiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "alienavi",
+                "traduzioni": [
+                    "io alienai",
+                    "io ho alienato",
+                    "io ebbi alienato",
+                    "io cedetti",
+                    "io cedei",
+                    "io ho ceduto",
+                    "io ebbi ceduto",
+                    "io trasferii",
+                    "io ho trasferito",
+                    "io ebbi trasferito",
+                    "io espropriai",
+                    "io ho espropriato",
+                    "io ebbi espropriato",
+                    "io allontanai",
+                    "io ho allontanato",
+                    "io ebbi allontanato",
+                    "io scacciai",
+                    "io ho scacciato",
+                    "io ebbi scacciato",
+                    "io rifuggii",
+                    "io sono rifuggito",
+                    "io sono rifuggita",
+                    "io fui rifuggito",
+                    "io fui rifuggita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "alienavisti",
+                "traduzioni": [
+                    "tu alienasti",
+                    "tu hai alienato",
+                    "tu avesti alienato",
+                    "tu cedesti",
+                    "tu hai ceduto",
+                    "tu avesti ceduto",
+                    "tu trasferisti",
+                    "tu hai trasferito",
+                    "tu avesti trasferito",
+                    "tu espropriasti",
+                    "tu hai espropriato",
+                    "tu avesti espropriato",
+                    "tu allontanasti",
+                    "tu hai allontanato",
+                    "tu avesti allontanato",
+                    "tu scacciasti",
+                    "tu hai scacciato",
+                    "tu avesti scacciato",
+                    "tu rifuggisti",
+                    "tu sei rifuggito",
+                    "tu sei rifuggita",
+                    "tu fosti rifuggito",
+                    "tu fosti rifuggita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "alienavit",
+                "traduzioni": [
+                    "lui alienò",
+                    "lei alienò",
+                    "egli alienò",
+                    "lui ha alienato",
+                    "lei ha alienato",
+                    "egli ha alienato",
+                    "lui ebbe alienato",
+                    "lei ebbe alienato",
+                    "egli ebbe alienato",
+                    "lui cedette",
+                    "lei cedette",
+                    "egli cedette",
+                    "lui cedé",
+                    "lei cedé",
+                    "egli cedé",
+                    "lui ha ceduto",
+                    "lei ha ceduto",
+                    "egli ha ceduto",
+                    "lui ebbe ceduto",
+                    "lei ebbe ceduto",
+                    "egli ebbe ceduto",
+                    "lui trasferì",
+                    "lei trasferì",
+                    "egli trasferì",
+                    "lui ha trasferito",
+                    "lei ha trasferito",
+                    "egli ha trasferito",
+                    "lui ebbe trasferito",
+                    "lei ebbe trasferito",
+                    "egli ebbe trasferito",
+                    "lui espropriò",
+                    "lei espropriò",
+                    "egli espropriò",
+                    "lui ha espropriato",
+                    "lei ha espropriato",
+                    "egli ha espropriato",
+                    "lui ebbe espropriato",
+                    "lei ebbe espropriato",
+                    "egli ebbe espropriato",
+                    "lui allontanò",
+                    "lei allontanò",
+                    "egli allontanò",
+                    "lui ha allontanato",
+                    "lei ha allontanato",
+                    "egli ha allontanato",
+                    "lui ebbe allontanato",
+                    "lei ebbe allontanato",
+                    "egli ebbe allontanato",
+                    "lui scacciò",
+                    "lei scacciò",
+                    "egli scacciò",
+                    "lui ha scacciato",
+                    "lei ha scacciato",
+                    "egli ha scacciato",
+                    "lui ebbe scacciato",
+                    "lei ebbe scacciato",
+                    "egli ebbe scacciato",
+                    "lui rifuggì",
+                    "lei rifuggì",
+                    "egli rifuggì",
+                    "lui è rifuggito",
+                    "lei è rifuggita",
+                    "egli è rifuggito",
+                    "lui fu rifuggito",
+                    "lei fu rifuggita",
+                    "egli fu rifuggito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "alienavĭmus",
+                "traduzioni": [
+                    "noi alienammo",
+                    "noi abbiamo alienato",
+                    "noi avemmo alienato",
+                    "noi cedemmo",
+                    "noi abbiamo ceduto",
+                    "noi avemmo ceduto",
+                    "noi trasferimmo",
+                    "noi abbiamo trasferito",
+                    "noi avemmo trasferito",
+                    "noi espropriammo",
+                    "noi abbiamo espropriato",
+                    "noi avemmo espropriato",
+                    "noi allontanammo",
+                    "noi abbiamo allontanato",
+                    "noi avemmo allontanato",
+                    "noi scacciammo",
+                    "noi abbiamo scacciato",
+                    "noi avemmo scacciato",
+                    "noi rifuggimmo",
+                    "noi siamo rifuggiti",
+                    "noi siamo rifuggite",
+                    "noi fummo rifuggiti",
+                    "noi fummo rifuggite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "alienavistis",
+                "traduzioni": [
+                    "voi alienaste",
+                    "voi avete alienato",
+                    "voi aveste alienato",
+                    "voi cedeste",
+                    "voi avete ceduto",
+                    "voi aveste ceduto",
+                    "voi trasferiste",
+                    "voi avete trasferito",
+                    "voi aveste trasferito",
+                    "voi espropriaste",
+                    "voi avete espropriato",
+                    "voi aveste espropriato",
+                    "voi allontanaste",
+                    "voi avete allontanato",
+                    "voi aveste allontanato",
+                    "voi scacciaste",
+                    "voi avete scacciato",
+                    "voi aveste scacciato",
+                    "voi rifuggiste",
+                    "voi siete rifuggiti",
+                    "voi siete rifuggite",
+                    "voi foste rifuggiti",
+                    "voi foste rifuggite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "alienavērunt, alienavēre",
+                "traduzioni": [
+                    "loro alienarono",
+                    "essi alienarono",
+                    "loro hanno alienato",
+                    "essi hanno alienato",
+                    "loro ebbero alienato",
+                    "essi ebbero alienato",
+                    "loro cedettero",
+                    "essi cedettero",
+                    "loro cederono",
+                    "essi cederono",
+                    "loro hanno ceduto",
+                    "essi hanno ceduto",
+                    "loro ebbero ceduto",
+                    "essi ebbero ceduto",
+                    "loro trasferirono",
+                    "essi trasferirono",
+                    "loro hanno trasferito",
+                    "essi hanno trasferito",
+                    "loro ebbero trasferito",
+                    "essi ebbero trasferito",
+                    "loro espropriarono",
+                    "essi espropriarono",
+                    "loro hanno espropriato",
+                    "essi hanno espropriato",
+                    "loro ebbero espropriato",
+                    "essi ebbero espropriato",
+                    "loro allontanarono",
+                    "essi allontanarono",
+                    "loro hanno allontanato",
+                    "essi hanno allontanato",
+                    "loro ebbero allontanato",
+                    "essi ebbero allontanato",
+                    "loro scacciarono",
+                    "essi scacciarono",
+                    "loro hanno scacciato",
+                    "essi hanno scacciato",
+                    "loro ebbero scacciato",
+                    "essi ebbero scacciato",
+                    "loro rifuggirono",
+                    "essi rifuggirono",
+                    "loro sono rifuggiti",
+                    "loro sono rifuggite",
+                    "essi sono rifuggiti",
+                    "loro furono rifuggiti",
+                    "loro furono rifuggite",
+                    "essi furono rifuggiti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "alienavĕram",
+                "traduzioni": [
+                    "io avevo alienato",
+                    "io avevo ceduto",
+                    "io avevo trasferito",
+                    "io avevo espropriato",
+                    "io avevo allontanato",
+                    "io avevo scacciato",
+                    "io ero rifuggito",
+                    "io ero rifuggita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "alienavĕras",
+                "traduzioni": [
+                    "tu avevi alienato",
+                    "tu avevi ceduto",
+                    "tu avevi trasferito",
+                    "tu avevi espropriato",
+                    "tu avevi allontanato",
+                    "tu avevi scacciato",
+                    "tu eri rifuggito",
+                    "tu eri rifuggita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "alienavĕrat",
+                "traduzioni": [
+                    "lui aveva alienato",
+                    "lei aveva alienato",
+                    "egli aveva alienato",
+                    "lui aveva ceduto",
+                    "lei aveva ceduto",
+                    "egli aveva ceduto",
+                    "lui aveva trasferito",
+                    "lei aveva trasferito",
+                    "egli aveva trasferito",
+                    "lui aveva espropriato",
+                    "lei aveva espropriato",
+                    "egli aveva espropriato",
+                    "lui aveva allontanato",
+                    "lei aveva allontanato",
+                    "egli aveva allontanato",
+                    "lui aveva scacciato",
+                    "lei aveva scacciato",
+                    "egli aveva scacciato",
+                    "lui era rifuggito",
+                    "lei era rifuggita",
+                    "egli era rifuggito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "alienaverāmus",
+                "traduzioni": [
+                    "noi avevamo alienato",
+                    "noi avevamo ceduto",
+                    "noi avevamo trasferito",
+                    "noi avevamo espropriato",
+                    "noi avevamo allontanato",
+                    "noi avevamo scacciato",
+                    "noi eravamo rifuggiti",
+                    "noi eravamo rifuggite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "alienaverātis",
+                "traduzioni": [
+                    "voi avevate alienato",
+                    "voi avevate ceduto",
+                    "voi avevate trasferito",
+                    "voi avevate espropriato",
+                    "voi avevate allontanato",
+                    "voi avevate scacciato",
+                    "voi eravate rifuggiti",
+                    "voi eravate rifuggite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "alienavĕrant",
+                "traduzioni": [
+                    "loro avevano alienato",
+                    "essi avevano alienato",
+                    "loro avevano ceduto",
+                    "essi avevano ceduto",
+                    "loro avevano trasferito",
+                    "essi avevano trasferito",
+                    "loro avevano espropriato",
+                    "essi avevano espropriato",
+                    "loro avevano allontanato",
+                    "essi avevano allontanato",
+                    "loro avevano scacciato",
+                    "essi avevano scacciato",
+                    "loro erano rifuggiti",
+                    "loro erano rifuggite",
+                    "essi erano rifuggiti"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "alienavĕro",
+                "traduzioni": [
+                    "io avrò alienato",
+                    "io avrò ceduto",
+                    "io avrò trasferito",
+                    "io avrò espropriato",
+                    "io avrò allontanato",
+                    "io avrò scacciato",
+                    "io sarò rifuggito",
+                    "io sarò rifuggita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "alienavĕris",
+                "traduzioni": [
+                    "tu avrai alienato",
+                    "tu avrai ceduto",
+                    "tu avrai trasferito",
+                    "tu avrai espropriato",
+                    "tu avrai allontanato",
+                    "tu avrai scacciato",
+                    "tu sarai rifuggito",
+                    "tu sarai rifuggita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "alienavĕrit",
+                "traduzioni": [
+                    "lui avrà alienato",
+                    "lei avrà alienato",
+                    "egli avrà alienato",
+                    "lui avrà ceduto",
+                    "lei avrà ceduto",
+                    "egli avrà ceduto",
+                    "lui avrà trasferito",
+                    "lei avrà trasferito",
+                    "egli avrà trasferito",
+                    "lui avrà espropriato",
+                    "lei avrà espropriato",
+                    "egli avrà espropriato",
+                    "lui avrà allontanato",
+                    "lei avrà allontanato",
+                    "egli avrà allontanato",
+                    "lui avrà scacciato",
+                    "lei avrà scacciato",
+                    "egli avrà scacciato",
+                    "lui sarà rifuggito",
+                    "lei sarà rifuggita",
+                    "egli sarà rifuggito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "alienaverĭmus",
+                "traduzioni": [
+                    "noi avremo alienato",
+                    "noi avremo ceduto",
+                    "noi avremo trasferito",
+                    "noi avremo espropriato",
+                    "noi avremo allontanato",
+                    "noi avremo scacciato",
+                    "noi saremo rifuggiti",
+                    "noi saremo rifuggite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "alienaverĭtis",
+                "traduzioni": [
+                    "voi avrete alienato",
+                    "voi avrete ceduto",
+                    "voi avrete trasferito",
+                    "voi avrete espropriato",
+                    "voi avrete allontanato",
+                    "voi avrete scacciato",
+                    "voi sarete rifuggiti",
+                    "voi sarete rifuggite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "alienavĕrint",
+                "traduzioni": [
+                    "loro avranno alienato",
+                    "essi avranno alienato",
+                    "loro avranno ceduto",
+                    "essi avranno ceduto",
+                    "loro avranno trasferito",
+                    "essi avranno trasferito",
+                    "loro avranno espropriato",
+                    "essi avranno espropriato",
+                    "loro avranno allontanato",
+                    "essi avranno allontanato",
+                    "loro avranno scacciato",
+                    "essi avranno scacciato",
+                    "loro saranno rifuggiti",
+                    "loro saranno rifuggite",
+                    "essi saranno rifuggiti"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ălĭēnem",
+                "traduzioni": [
+                    "che io alieni",
+                    "che io ceda",
+                    "che io trasferisca",
+                    "che io espropri",
+                    "che io allontani",
+                    "che io scacci",
+                    "che io rifugga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ălĭēnes",
+                "traduzioni": [
+                    "che tu alieni",
+                    "che tu ceda",
+                    "che tu trasferisca",
+                    "che tu espropri",
+                    "che tu allontani",
+                    "che tu scacci",
+                    "che tu rifugga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ălĭēnet",
+                "traduzioni": [
+                    "che lui alieni",
+                    "che lei alieni",
+                    "che egli alieni",
+                    "che lui ceda",
+                    "che lei ceda",
+                    "che egli ceda",
+                    "che lui trasferisca",
+                    "che lei trasferisca",
+                    "che egli trasferisca",
+                    "che lui espropri",
+                    "che lei espropri",
+                    "che egli espropri",
+                    "che lui allontani",
+                    "che lei allontani",
+                    "che egli allontani",
+                    "che lui scacci",
+                    "che lei scacci",
+                    "che egli scacci",
+                    "che lui rifugga",
+                    "che lei rifugga",
+                    "che egli rifugga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ălĭēnēmus",
+                "traduzioni": [
+                    "che noi alieniamo",
+                    "che noi cediamo",
+                    "che noi trasferiamo",
+                    "che noi espropriamo",
+                    "che noi allontaniamo",
+                    "che noi scacciamo",
+                    "che noi rifuggiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ălĭēnētis",
+                "traduzioni": [
+                    "che voi alieniate",
+                    "che voi cediate",
+                    "che voi trasferiate",
+                    "che voi espropriate",
+                    "che voi allontaniate",
+                    "che voi scacciate",
+                    "che voi rifuggiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ălĭēnent",
+                "traduzioni": [
+                    "che loro alienino",
+                    "che essi alienino",
+                    "che loro cedano",
+                    "che essi cedano",
+                    "che loro trasferiscano",
+                    "che essi trasferiscano",
+                    "che loro esproprino",
+                    "che essi esproprino",
+                    "che loro allontanino",
+                    "che essi allontanino",
+                    "che loro scaccino",
+                    "che essi scaccino",
+                    "che loro rifuggano",
+                    "che essi rifuggano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ălĭēnārem",
+                "traduzioni": [
+                    "che io alienassi",
+                    "che io cedessi",
+                    "che io trasferissi",
+                    "che io espropriassi",
+                    "che io allontanassi",
+                    "che io scacciassi",
+                    "che io rifuggissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ălĭēnāres",
+                "traduzioni": [
+                    "che tu alienassi",
+                    "che tu cedessi",
+                    "che tu trasferissi",
+                    "che tu espropriassi",
+                    "che tu allontanassi",
+                    "che tu scacciassi",
+                    "che tu rifuggissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ălĭēnāret",
+                "traduzioni": [
+                    "che lui alienasse",
+                    "che lei alienasse",
+                    "che egli alienasse",
+                    "che lui cedesse",
+                    "che lei cedesse",
+                    "che egli cedesse",
+                    "che lui trasferisse",
+                    "che lei trasferisse",
+                    "che egli trasferisse",
+                    "che lui espropriasse",
+                    "che lei espropriasse",
+                    "che egli espropriasse",
+                    "che lui allontanasse",
+                    "che lei allontanasse",
+                    "che egli allontanasse",
+                    "che lui scacciasse",
+                    "che lei scacciasse",
+                    "che egli scacciasse",
+                    "che lui rifuggisse",
+                    "che lei rifuggisse",
+                    "che egli rifuggisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ălĭēnarēmus",
+                "traduzioni": [
+                    "che noi alienassimo",
+                    "che noi cedessimo",
+                    "che noi trasferissimo",
+                    "che noi espropriassimo",
+                    "che noi allontanassimo",
+                    "che noi scacciassimo",
+                    "che noi rifuggissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ălĭēnarētis",
+                "traduzioni": [
+                    "che voi alienaste",
+                    "che voi cedeste",
+                    "che voi trasferiste",
+                    "che voi espropriaste",
+                    "che voi allontanaste",
+                    "che voi scacciaste",
+                    "che voi rifuggiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ălĭēnārent",
+                "traduzioni": [
+                    "che loro alienassero",
+                    "che essi alienassero",
+                    "che loro cedessero",
+                    "che essi cedessero",
+                    "che loro trasferissero",
+                    "che essi trasferissero",
+                    "che loro espropriassero",
+                    "che essi espropriassero",
+                    "che loro allontanassero",
+                    "che essi allontanassero",
+                    "che loro scacciassero",
+                    "che essi scacciassero",
+                    "che loro rifuggissero",
+                    "che essi rifuggissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "alienavĕrim",
+                "traduzioni": [
+                    "che io abbia alienato",
+                    "che io abbia ceduto",
+                    "che io abbia trasferito",
+                    "che io abbia espropriato",
+                    "che io abbia allontanato",
+                    "che io abbia scacciato",
+                    "che io sia rifuggito",
+                    "che io sia rifuggita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "alienavĕris",
+                "traduzioni": [
+                    "che tu abbia alienato",
+                    "che tu abbia ceduto",
+                    "che tu abbia trasferito",
+                    "che tu abbia espropriato",
+                    "che tu abbia allontanato",
+                    "che tu abbia scacciato",
+                    "che tu sia rifuggito",
+                    "che tu sia rifuggita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "alienavĕrit",
+                "traduzioni": [
+                    "che lui abbia alienato",
+                    "che lei abbia alienato",
+                    "che egli abbia alienato",
+                    "che lui abbia ceduto",
+                    "che lei abbia ceduto",
+                    "che egli abbia ceduto",
+                    "che lui abbia trasferito",
+                    "che lei abbia trasferito",
+                    "che egli abbia trasferito",
+                    "che lui abbia espropriato",
+                    "che lei abbia espropriato",
+                    "che egli abbia espropriato",
+                    "che lui abbia allontanato",
+                    "che lei abbia allontanato",
+                    "che egli abbia allontanato",
+                    "che lui abbia scacciato",
+                    "che lei abbia scacciato",
+                    "che egli abbia scacciato",
+                    "che lui sia rifuggito",
+                    "che lei sia rifuggita",
+                    "che egli sia rifuggito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "alienaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo alienato",
+                    "che noi abbiamo ceduto",
+                    "che noi abbiamo trasferito",
+                    "che noi abbiamo espropriato",
+                    "che noi abbiamo allontanato",
+                    "che noi abbiamo scacciato",
+                    "che noi siamo rifuggiti",
+                    "che noi siamo rifuggite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "alienaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate alienato",
+                    "che voi abbiate ceduto",
+                    "che voi abbiate trasferito",
+                    "che voi abbiate espropriato",
+                    "che voi abbiate allontanato",
+                    "che voi abbiate scacciato",
+                    "che voi siate rifuggiti",
+                    "che voi siate rifuggite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "alienavĕrint",
+                "traduzioni": [
+                    "che loro abbiano alienato",
+                    "che essi abbiano alienato",
+                    "che loro abbiano ceduto",
+                    "che essi abbiano ceduto",
+                    "che loro abbiano trasferito",
+                    "che essi abbiano trasferito",
+                    "che loro abbiano espropriato",
+                    "che essi abbiano espropriato",
+                    "che loro abbiano allontanato",
+                    "che essi abbiano allontanato",
+                    "che loro abbiano scacciato",
+                    "che essi abbiano scacciato",
+                    "che loro siano rifuggiti",
+                    "che loro siano rifuggite",
+                    "che essi siano rifuggiti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "alienavissem",
+                "traduzioni": [
+                    "che io avessi alienato",
+                    "che io avessi ceduto",
+                    "che io avessi trasferito",
+                    "che io avessi espropriato",
+                    "che io avessi allontanato",
+                    "che io avessi scacciato",
+                    "che io fossi rifuggito",
+                    "che io fossi rifuggita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "alienavisses",
+                "traduzioni": [
+                    "che tu avessi alienato",
+                    "che tu avessi ceduto",
+                    "che tu avessi trasferito",
+                    "che tu avessi espropriato",
+                    "che tu avessi allontanato",
+                    "che tu avessi scacciato",
+                    "che tu fossi rifuggito",
+                    "che tu fossi rifuggita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "alienavisset",
+                "traduzioni": [
+                    "che lui avesse alienato",
+                    "che lei avesse alienato",
+                    "che egli avesse alienato",
+                    "che lui avesse ceduto",
+                    "che lei avesse ceduto",
+                    "che egli avesse ceduto",
+                    "che lui avesse trasferito",
+                    "che lei avesse trasferito",
+                    "che egli avesse trasferito",
+                    "che lui avesse espropriato",
+                    "che lei avesse espropriato",
+                    "che egli avesse espropriato",
+                    "che lui avesse allontanato",
+                    "che lei avesse allontanato",
+                    "che egli avesse allontanato",
+                    "che lui avesse scacciato",
+                    "che lei avesse scacciato",
+                    "che egli avesse scacciato",
+                    "che lui fosse rifuggito",
+                    "che lei fosse rifuggita",
+                    "che egli fosse rifuggito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "alienavissēmus",
+                "traduzioni": [
+                    "che noi avessimo alienato",
+                    "che noi avessimo ceduto",
+                    "che noi avessimo trasferito",
+                    "che noi avessimo espropriato",
+                    "che noi avessimo allontanato",
+                    "che noi avessimo scacciato",
+                    "che noi fossimo rifuggiti",
+                    "che noi fossimo rifuggite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "alienavissētis",
+                "traduzioni": [
+                    "che voi aveste alienato",
+                    "che voi aveste ceduto",
+                    "che voi aveste trasferito",
+                    "che voi aveste espropriato",
+                    "che voi aveste allontanato",
+                    "che voi aveste scacciato",
+                    "che voi foste rifuggiti",
+                    "che voi foste rifuggite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "alienavissent",
+                "traduzioni": [
+                    "che loro avessero alienato",
+                    "che essi avessero alienato",
+                    "che loro avessero ceduto",
+                    "che essi avessero ceduto",
+                    "che loro avessero trasferito",
+                    "che essi avessero trasferito",
+                    "che loro avessero espropriato",
+                    "che essi avessero espropriato",
+                    "che loro avessero allontanato",
+                    "che essi avessero allontanato",
+                    "che loro avessero scacciato",
+                    "che essi avessero scacciato",
+                    "che loro fossero rifuggiti",
+                    "che loro fossero rifuggite",
+                    "che essi fossero rifuggiti"
+                ]
+            }
+        ]
+    }
+}

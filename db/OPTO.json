@@ -1,0 +1,1162 @@
+{
+    "identifier": "OPTO",
+    "conuigazione": "1",
+    "translation": [
+        "scegliere",
+        "desiderare",
+        "cercare",
+        "sperare",
+        "chiedere",
+        "domandare",
+        "augurare"
+    ],
+    "valid_translations": [
+        "scegliere",
+        "desiderare",
+        "cercare",
+        "sperare",
+        "chiedere",
+        "domandare",
+        "augurare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "opto",
+                "traduzioni": [
+                    "io scelgo",
+                    "io desidero",
+                    "io cerco",
+                    "io spero",
+                    "io chiedo",
+                    "io domando",
+                    "io auguro"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "optas",
+                "traduzioni": [
+                    "tu scegli",
+                    "tu desideri",
+                    "tu cerchi",
+                    "tu speri",
+                    "tu chiedi",
+                    "tu domandi",
+                    "tu auguri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "optat",
+                "traduzioni": [
+                    "lui sceglie",
+                    "lei sceglie",
+                    "egli sceglie",
+                    "lui desidera",
+                    "lei desidera",
+                    "egli desidera",
+                    "lui cerca",
+                    "lei cerca",
+                    "egli cerca",
+                    "lui spera",
+                    "lei spera",
+                    "egli spera",
+                    "lui chiede",
+                    "lei chiede",
+                    "egli chiede",
+                    "lui domanda",
+                    "lei domanda",
+                    "egli domanda",
+                    "lui augura",
+                    "lei augura",
+                    "egli augura"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "optāmus",
+                "traduzioni": [
+                    "noi scegliamo",
+                    "noi desideriamo",
+                    "noi cerchiamo",
+                    "noi speriamo",
+                    "noi chiediamo",
+                    "noi domandiamo",
+                    "noi auguriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "optātis",
+                "traduzioni": [
+                    "voi scegliete",
+                    "voi desiderate",
+                    "voi cercate",
+                    "voi sperate",
+                    "voi chiedete",
+                    "voi domandate",
+                    "voi augurate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "optant",
+                "traduzioni": [
+                    "loro scelgono",
+                    "essi scelgono",
+                    "loro desiderano",
+                    "essi desiderano",
+                    "loro cercano",
+                    "essi cercano",
+                    "loro sperano",
+                    "essi sperano",
+                    "loro chiedono",
+                    "essi chiedono",
+                    "loro domandano",
+                    "essi domandano",
+                    "loro augurano",
+                    "essi augurano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "optābam",
+                "traduzioni": [
+                    "io sceglievo",
+                    "io desideravo",
+                    "io cercavo",
+                    "io speravo",
+                    "io chiedevo",
+                    "io domandavo",
+                    "io auguravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "optābas",
+                "traduzioni": [
+                    "tu sceglievi",
+                    "tu desideravi",
+                    "tu cercavi",
+                    "tu speravi",
+                    "tu chiedevi",
+                    "tu domandavi",
+                    "tu auguravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "optābat",
+                "traduzioni": [
+                    "lui sceglieva",
+                    "lei sceglieva",
+                    "egli sceglieva",
+                    "lui desiderava",
+                    "lei desiderava",
+                    "egli desiderava",
+                    "lui cercava",
+                    "lei cercava",
+                    "egli cercava",
+                    "lui sperava",
+                    "lei sperava",
+                    "egli sperava",
+                    "lui chiedeva",
+                    "lei chiedeva",
+                    "egli chiedeva",
+                    "lui domandava",
+                    "lei domandava",
+                    "egli domandava",
+                    "lui augurava",
+                    "lei augurava",
+                    "egli augurava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "optabāmus",
+                "traduzioni": [
+                    "noi sceglievamo",
+                    "noi desideravamo",
+                    "noi cercavamo",
+                    "noi speravamo",
+                    "noi chiedevamo",
+                    "noi domandavamo",
+                    "noi auguravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "optabātis",
+                "traduzioni": [
+                    "voi sceglievate",
+                    "voi desideravate",
+                    "voi cercavate",
+                    "voi speravate",
+                    "voi chiedevate",
+                    "voi domandavate",
+                    "voi auguravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "optābant",
+                "traduzioni": [
+                    "loro sceglievano",
+                    "essi sceglievano",
+                    "loro desideravano",
+                    "essi desideravano",
+                    "loro cercavano",
+                    "essi cercavano",
+                    "loro speravano",
+                    "essi speravano",
+                    "loro chiedevano",
+                    "essi chiedevano",
+                    "loro domandavano",
+                    "essi domandavano",
+                    "loro auguravano",
+                    "essi auguravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "optābo",
+                "traduzioni": [
+                    "io sceglierò",
+                    "io desidererò",
+                    "io cercherò",
+                    "io spererò",
+                    "io chiederò",
+                    "io domanderò",
+                    "io augurerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "optābis",
+                "traduzioni": [
+                    "tu sceglierai",
+                    "tu desidererai",
+                    "tu cercherai",
+                    "tu spererai",
+                    "tu chiederai",
+                    "tu domanderai",
+                    "tu augurerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "optābit",
+                "traduzioni": [
+                    "lui sceglierà",
+                    "lei sceglierà",
+                    "egli sceglierà",
+                    "lui desidererà",
+                    "lei desidererà",
+                    "egli desidererà",
+                    "lui cercherà",
+                    "lei cercherà",
+                    "egli cercherà",
+                    "lui spererà",
+                    "lei spererà",
+                    "egli spererà",
+                    "lui chiederà",
+                    "lei chiederà",
+                    "egli chiederà",
+                    "lui domanderà",
+                    "lei domanderà",
+                    "egli domanderà",
+                    "lui augurerà",
+                    "lei augurerà",
+                    "egli augurerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "optabĭmus",
+                "traduzioni": [
+                    "noi sceglieremo",
+                    "noi desidereremo",
+                    "noi cercheremo",
+                    "noi spereremo",
+                    "noi chiederemo",
+                    "noi domanderemo",
+                    "noi augureremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "optabĭtis",
+                "traduzioni": [
+                    "voi sceglierete",
+                    "voi desidererete",
+                    "voi cercherete",
+                    "voi spererete",
+                    "voi chiederete",
+                    "voi domanderete",
+                    "voi augurerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "optābunt",
+                "traduzioni": [
+                    "loro sceglieranno",
+                    "essi sceglieranno",
+                    "loro desidereranno",
+                    "essi desidereranno",
+                    "loro cercheranno",
+                    "essi cercheranno",
+                    "loro spereranno",
+                    "essi spereranno",
+                    "loro chiederanno",
+                    "essi chiederanno",
+                    "loro domanderanno",
+                    "essi domanderanno",
+                    "loro augureranno",
+                    "essi augureranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "optavi",
+                "traduzioni": [
+                    "io scelsi",
+                    "io ho scelto",
+                    "io ebbi scelto",
+                    "io desiderai",
+                    "io ho desiderato",
+                    "io ebbi desiderato",
+                    "io cercai",
+                    "io ho cercato",
+                    "io ebbi cercato",
+                    "io sperai",
+                    "io ho sperato",
+                    "io ebbi sperato",
+                    "io chiesi",
+                    "io ho chiesto",
+                    "io ebbi chiesto",
+                    "io domandai",
+                    "io ho domandato",
+                    "io ebbi domandato",
+                    "io augurai",
+                    "io ho augurato",
+                    "io ebbi augurato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "optavisti",
+                "traduzioni": [
+                    "tu scegliesti",
+                    "tu hai scelto",
+                    "tu avesti scelto",
+                    "tu desiderasti",
+                    "tu hai desiderato",
+                    "tu avesti desiderato",
+                    "tu cercasti",
+                    "tu hai cercato",
+                    "tu avesti cercato",
+                    "tu sperasti",
+                    "tu hai sperato",
+                    "tu avesti sperato",
+                    "tu chiedesti",
+                    "tu hai chiesto",
+                    "tu avesti chiesto",
+                    "tu domandasti",
+                    "tu hai domandato",
+                    "tu avesti domandato",
+                    "tu augurasti",
+                    "tu hai augurato",
+                    "tu avesti augurato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "optavit",
+                "traduzioni": [
+                    "lui scelse",
+                    "lei scelse",
+                    "egli scelse",
+                    "lui ha scelto",
+                    "lei ha scelto",
+                    "egli ha scelto",
+                    "lui ebbe scelto",
+                    "lei ebbe scelto",
+                    "egli ebbe scelto",
+                    "lui desiderò",
+                    "lei desiderò",
+                    "egli desiderò",
+                    "lui ha desiderato",
+                    "lei ha desiderato",
+                    "egli ha desiderato",
+                    "lui ebbe desiderato",
+                    "lei ebbe desiderato",
+                    "egli ebbe desiderato",
+                    "lui cercò",
+                    "lei cercò",
+                    "egli cercò",
+                    "lui ha cercato",
+                    "lei ha cercato",
+                    "egli ha cercato",
+                    "lui ebbe cercato",
+                    "lei ebbe cercato",
+                    "egli ebbe cercato",
+                    "lui sperò",
+                    "lei sperò",
+                    "egli sperò",
+                    "lui ha sperato",
+                    "lei ha sperato",
+                    "egli ha sperato",
+                    "lui ebbe sperato",
+                    "lei ebbe sperato",
+                    "egli ebbe sperato",
+                    "lui chiese",
+                    "lei chiese",
+                    "egli chiese",
+                    "lui ha chiesto",
+                    "lei ha chiesto",
+                    "egli ha chiesto",
+                    "lui ebbe chiesto",
+                    "lei ebbe chiesto",
+                    "egli ebbe chiesto",
+                    "lui domandò",
+                    "lei domandò",
+                    "egli domandò",
+                    "lui ha domandato",
+                    "lei ha domandato",
+                    "egli ha domandato",
+                    "lui ebbe domandato",
+                    "lei ebbe domandato",
+                    "egli ebbe domandato",
+                    "lui augurò",
+                    "lei augurò",
+                    "egli augurò",
+                    "lui ha augurato",
+                    "lei ha augurato",
+                    "egli ha augurato",
+                    "lui ebbe augurato",
+                    "lei ebbe augurato",
+                    "egli ebbe augurato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "optavĭmus",
+                "traduzioni": [
+                    "noi scegliemmo",
+                    "noi abbiamo scelto",
+                    "noi avemmo scelto",
+                    "noi desiderammo",
+                    "noi abbiamo desiderato",
+                    "noi avemmo desiderato",
+                    "noi cercammo",
+                    "noi abbiamo cercato",
+                    "noi avemmo cercato",
+                    "noi sperammo",
+                    "noi abbiamo sperato",
+                    "noi avemmo sperato",
+                    "noi chiedemmo",
+                    "noi abbiamo chiesto",
+                    "noi avemmo chiesto",
+                    "noi domandammo",
+                    "noi abbiamo domandato",
+                    "noi avemmo domandato",
+                    "noi augurammo",
+                    "noi abbiamo augurato",
+                    "noi avemmo augurato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "optavistis",
+                "traduzioni": [
+                    "voi sceglieste",
+                    "voi avete scelto",
+                    "voi aveste scelto",
+                    "voi desideraste",
+                    "voi avete desiderato",
+                    "voi aveste desiderato",
+                    "voi cercaste",
+                    "voi avete cercato",
+                    "voi aveste cercato",
+                    "voi speraste",
+                    "voi avete sperato",
+                    "voi aveste sperato",
+                    "voi chiedeste",
+                    "voi avete chiesto",
+                    "voi aveste chiesto",
+                    "voi domandaste",
+                    "voi avete domandato",
+                    "voi aveste domandato",
+                    "voi auguraste",
+                    "voi avete augurato",
+                    "voi aveste augurato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "optavērunt, optavēre",
+                "traduzioni": [
+                    "loro scelsero",
+                    "essi scelsero",
+                    "loro hanno scelto",
+                    "essi hanno scelto",
+                    "loro ebbero scelto",
+                    "essi ebbero scelto",
+                    "loro desiderarono",
+                    "essi desiderarono",
+                    "loro hanno desiderato",
+                    "essi hanno desiderato",
+                    "loro ebbero desiderato",
+                    "essi ebbero desiderato",
+                    "loro cercarono",
+                    "essi cercarono",
+                    "loro hanno cercato",
+                    "essi hanno cercato",
+                    "loro ebbero cercato",
+                    "essi ebbero cercato",
+                    "loro sperarono",
+                    "essi sperarono",
+                    "loro hanno sperato",
+                    "essi hanno sperato",
+                    "loro ebbero sperato",
+                    "essi ebbero sperato",
+                    "loro chiesero",
+                    "essi chiesero",
+                    "loro hanno chiesto",
+                    "essi hanno chiesto",
+                    "loro ebbero chiesto",
+                    "essi ebbero chiesto",
+                    "loro domandarono",
+                    "essi domandarono",
+                    "loro hanno domandato",
+                    "essi hanno domandato",
+                    "loro ebbero domandato",
+                    "essi ebbero domandato",
+                    "loro augurarono",
+                    "essi augurarono",
+                    "loro hanno augurato",
+                    "essi hanno augurato",
+                    "loro ebbero augurato",
+                    "essi ebbero augurato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "optavĕram",
+                "traduzioni": [
+                    "io avevo scelto",
+                    "io avevo desiderato",
+                    "io avevo cercato",
+                    "io avevo sperato",
+                    "io avevo chiesto",
+                    "io avevo domandato",
+                    "io avevo augurato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "optavĕras",
+                "traduzioni": [
+                    "tu avevi scelto",
+                    "tu avevi desiderato",
+                    "tu avevi cercato",
+                    "tu avevi sperato",
+                    "tu avevi chiesto",
+                    "tu avevi domandato",
+                    "tu avevi augurato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "optavĕrat",
+                "traduzioni": [
+                    "lui aveva scelto",
+                    "lei aveva scelto",
+                    "egli aveva scelto",
+                    "lui aveva desiderato",
+                    "lei aveva desiderato",
+                    "egli aveva desiderato",
+                    "lui aveva cercato",
+                    "lei aveva cercato",
+                    "egli aveva cercato",
+                    "lui aveva sperato",
+                    "lei aveva sperato",
+                    "egli aveva sperato",
+                    "lui aveva chiesto",
+                    "lei aveva chiesto",
+                    "egli aveva chiesto",
+                    "lui aveva domandato",
+                    "lei aveva domandato",
+                    "egli aveva domandato",
+                    "lui aveva augurato",
+                    "lei aveva augurato",
+                    "egli aveva augurato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "optaverāmus",
+                "traduzioni": [
+                    "noi avevamo scelto",
+                    "noi avevamo desiderato",
+                    "noi avevamo cercato",
+                    "noi avevamo sperato",
+                    "noi avevamo chiesto",
+                    "noi avevamo domandato",
+                    "noi avevamo augurato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "optaverātis",
+                "traduzioni": [
+                    "voi avevate scelto",
+                    "voi avevate desiderato",
+                    "voi avevate cercato",
+                    "voi avevate sperato",
+                    "voi avevate chiesto",
+                    "voi avevate domandato",
+                    "voi avevate augurato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "optavĕrant",
+                "traduzioni": [
+                    "loro avevano scelto",
+                    "essi avevano scelto",
+                    "loro avevano desiderato",
+                    "essi avevano desiderato",
+                    "loro avevano cercato",
+                    "essi avevano cercato",
+                    "loro avevano sperato",
+                    "essi avevano sperato",
+                    "loro avevano chiesto",
+                    "essi avevano chiesto",
+                    "loro avevano domandato",
+                    "essi avevano domandato",
+                    "loro avevano augurato",
+                    "essi avevano augurato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "optavĕro",
+                "traduzioni": [
+                    "io avrò scelto",
+                    "io avrò desiderato",
+                    "io avrò cercato",
+                    "io avrò sperato",
+                    "io avrò chiesto",
+                    "io avrò domandato",
+                    "io avrò augurato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "optavĕris",
+                "traduzioni": [
+                    "tu avrai scelto",
+                    "tu avrai desiderato",
+                    "tu avrai cercato",
+                    "tu avrai sperato",
+                    "tu avrai chiesto",
+                    "tu avrai domandato",
+                    "tu avrai augurato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "optavĕrit",
+                "traduzioni": [
+                    "lui avrà scelto",
+                    "lei avrà scelto",
+                    "egli avrà scelto",
+                    "lui avrà desiderato",
+                    "lei avrà desiderato",
+                    "egli avrà desiderato",
+                    "lui avrà cercato",
+                    "lei avrà cercato",
+                    "egli avrà cercato",
+                    "lui avrà sperato",
+                    "lei avrà sperato",
+                    "egli avrà sperato",
+                    "lui avrà chiesto",
+                    "lei avrà chiesto",
+                    "egli avrà chiesto",
+                    "lui avrà domandato",
+                    "lei avrà domandato",
+                    "egli avrà domandato",
+                    "lui avrà augurato",
+                    "lei avrà augurato",
+                    "egli avrà augurato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "optaverĭmus",
+                "traduzioni": [
+                    "noi avremo scelto",
+                    "noi avremo desiderato",
+                    "noi avremo cercato",
+                    "noi avremo sperato",
+                    "noi avremo chiesto",
+                    "noi avremo domandato",
+                    "noi avremo augurato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "optaverĭtis",
+                "traduzioni": [
+                    "voi avrete scelto",
+                    "voi avrete desiderato",
+                    "voi avrete cercato",
+                    "voi avrete sperato",
+                    "voi avrete chiesto",
+                    "voi avrete domandato",
+                    "voi avrete augurato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "optavĕrint",
+                "traduzioni": [
+                    "loro avranno scelto",
+                    "essi avranno scelto",
+                    "loro avranno desiderato",
+                    "essi avranno desiderato",
+                    "loro avranno cercato",
+                    "essi avranno cercato",
+                    "loro avranno sperato",
+                    "essi avranno sperato",
+                    "loro avranno chiesto",
+                    "essi avranno chiesto",
+                    "loro avranno domandato",
+                    "essi avranno domandato",
+                    "loro avranno augurato",
+                    "essi avranno augurato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "optem",
+                "traduzioni": [
+                    "che io scelga",
+                    "che io desideri",
+                    "che io cerchi",
+                    "che io speri",
+                    "che io chieda",
+                    "che io domandi",
+                    "che io auguri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "optes",
+                "traduzioni": [
+                    "che tu scelga",
+                    "che tu desideri",
+                    "che tu cerchi",
+                    "che tu speri",
+                    "che tu chieda",
+                    "che tu domandi",
+                    "che tu auguri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "optet",
+                "traduzioni": [
+                    "che lui scelga",
+                    "che lei scelga",
+                    "che egli scelga",
+                    "che lui desideri",
+                    "che lei desideri",
+                    "che egli desideri",
+                    "che lui cerchi",
+                    "che lei cerchi",
+                    "che egli cerchi",
+                    "che lui speri",
+                    "che lei speri",
+                    "che egli speri",
+                    "che lui chieda",
+                    "che lei chieda",
+                    "che egli chieda",
+                    "che lui domandi",
+                    "che lei domandi",
+                    "che egli domandi",
+                    "che lui auguri",
+                    "che lei auguri",
+                    "che egli auguri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "optēmus",
+                "traduzioni": [
+                    "che noi scegliamo",
+                    "che noi desideriamo",
+                    "che noi cerchiamo",
+                    "che noi speriamo",
+                    "che noi chiediamo",
+                    "che noi domandiamo",
+                    "che noi auguriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "optētis",
+                "traduzioni": [
+                    "che voi scegliate",
+                    "che voi desideriate",
+                    "che voi cerchiate",
+                    "che voi speriate",
+                    "che voi chiediate",
+                    "che voi domandiate",
+                    "che voi auguriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "optent",
+                "traduzioni": [
+                    "che loro scelgano",
+                    "che essi scelgano",
+                    "che loro desiderino",
+                    "che essi desiderino",
+                    "che loro cerchino",
+                    "che essi cerchino",
+                    "che loro sperino",
+                    "che essi sperino",
+                    "che loro chiedano",
+                    "che essi chiedano",
+                    "che loro domandino",
+                    "che essi domandino",
+                    "che loro augurino",
+                    "che essi augurino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "optārem",
+                "traduzioni": [
+                    "che io scegliessi",
+                    "che io desiderassi",
+                    "che io cercassi",
+                    "che io sperassi",
+                    "che io chiedessi",
+                    "che io domandassi",
+                    "che io augurassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "optāres",
+                "traduzioni": [
+                    "che tu scegliessi",
+                    "che tu desiderassi",
+                    "che tu cercassi",
+                    "che tu sperassi",
+                    "che tu chiedessi",
+                    "che tu domandassi",
+                    "che tu augurassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "optāret",
+                "traduzioni": [
+                    "che lui scegliesse",
+                    "che lei scegliesse",
+                    "che egli scegliesse",
+                    "che lui desiderasse",
+                    "che lei desiderasse",
+                    "che egli desiderasse",
+                    "che lui cercasse",
+                    "che lei cercasse",
+                    "che egli cercasse",
+                    "che lui sperasse",
+                    "che lei sperasse",
+                    "che egli sperasse",
+                    "che lui chiedesse",
+                    "che lei chiedesse",
+                    "che egli chiedesse",
+                    "che lui domandasse",
+                    "che lei domandasse",
+                    "che egli domandasse",
+                    "che lui augurasse",
+                    "che lei augurasse",
+                    "che egli augurasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "optarēmus",
+                "traduzioni": [
+                    "che noi scegliessimo",
+                    "che noi desiderassimo",
+                    "che noi cercassimo",
+                    "che noi sperassimo",
+                    "che noi chiedessimo",
+                    "che noi domandassimo",
+                    "che noi augurassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "optarētis",
+                "traduzioni": [
+                    "che voi sceglieste",
+                    "che voi desideraste",
+                    "che voi cercaste",
+                    "che voi speraste",
+                    "che voi chiedeste",
+                    "che voi domandaste",
+                    "che voi auguraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "optārent",
+                "traduzioni": [
+                    "che loro scegliessero",
+                    "che essi scegliessero",
+                    "che loro desiderassero",
+                    "che essi desiderassero",
+                    "che loro cercassero",
+                    "che essi cercassero",
+                    "che loro sperassero",
+                    "che essi sperassero",
+                    "che loro chiedessero",
+                    "che essi chiedessero",
+                    "che loro domandassero",
+                    "che essi domandassero",
+                    "che loro augurassero",
+                    "che essi augurassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "optavĕrim",
+                "traduzioni": [
+                    "che io abbia scelto",
+                    "che io abbia desiderato",
+                    "che io abbia cercato",
+                    "che io abbia sperato",
+                    "che io abbia chiesto",
+                    "che io abbia domandato",
+                    "che io abbia augurato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "optavĕris, optassis",
+                "traduzioni": [
+                    "che tu abbia scelto",
+                    "che tu abbia desiderato",
+                    "che tu abbia cercato",
+                    "che tu abbia sperato",
+                    "che tu abbia chiesto",
+                    "che tu abbia domandato",
+                    "che tu abbia augurato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "optavĕrit",
+                "traduzioni": [
+                    "che lui abbia scelto",
+                    "che lei abbia scelto",
+                    "che egli abbia scelto",
+                    "che lui abbia desiderato",
+                    "che lei abbia desiderato",
+                    "che egli abbia desiderato",
+                    "che lui abbia cercato",
+                    "che lei abbia cercato",
+                    "che egli abbia cercato",
+                    "che lui abbia sperato",
+                    "che lei abbia sperato",
+                    "che egli abbia sperato",
+                    "che lui abbia chiesto",
+                    "che lei abbia chiesto",
+                    "che egli abbia chiesto",
+                    "che lui abbia domandato",
+                    "che lei abbia domandato",
+                    "che egli abbia domandato",
+                    "che lui abbia augurato",
+                    "che lei abbia augurato",
+                    "che egli abbia augurato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "optaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo scelto",
+                    "che noi abbiamo desiderato",
+                    "che noi abbiamo cercato",
+                    "che noi abbiamo sperato",
+                    "che noi abbiamo chiesto",
+                    "che noi abbiamo domandato",
+                    "che noi abbiamo augurato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "optaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate scelto",
+                    "che voi abbiate desiderato",
+                    "che voi abbiate cercato",
+                    "che voi abbiate sperato",
+                    "che voi abbiate chiesto",
+                    "che voi abbiate domandato",
+                    "che voi abbiate augurato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "optavĕrint",
+                "traduzioni": [
+                    "che loro abbiano scelto",
+                    "che essi abbiano scelto",
+                    "che loro abbiano desiderato",
+                    "che essi abbiano desiderato",
+                    "che loro abbiano cercato",
+                    "che essi abbiano cercato",
+                    "che loro abbiano sperato",
+                    "che essi abbiano sperato",
+                    "che loro abbiano chiesto",
+                    "che essi abbiano chiesto",
+                    "che loro abbiano domandato",
+                    "che essi abbiano domandato",
+                    "che loro abbiano augurato",
+                    "che essi abbiano augurato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "optavissem",
+                "traduzioni": [
+                    "che io avessi scelto",
+                    "che io avessi desiderato",
+                    "che io avessi cercato",
+                    "che io avessi sperato",
+                    "che io avessi chiesto",
+                    "che io avessi domandato",
+                    "che io avessi augurato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "optavisses",
+                "traduzioni": [
+                    "che tu avessi scelto",
+                    "che tu avessi desiderato",
+                    "che tu avessi cercato",
+                    "che tu avessi sperato",
+                    "che tu avessi chiesto",
+                    "che tu avessi domandato",
+                    "che tu avessi augurato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "optavisset",
+                "traduzioni": [
+                    "che lui avesse scelto",
+                    "che lei avesse scelto",
+                    "che egli avesse scelto",
+                    "che lui avesse desiderato",
+                    "che lei avesse desiderato",
+                    "che egli avesse desiderato",
+                    "che lui avesse cercato",
+                    "che lei avesse cercato",
+                    "che egli avesse cercato",
+                    "che lui avesse sperato",
+                    "che lei avesse sperato",
+                    "che egli avesse sperato",
+                    "che lui avesse chiesto",
+                    "che lei avesse chiesto",
+                    "che egli avesse chiesto",
+                    "che lui avesse domandato",
+                    "che lei avesse domandato",
+                    "che egli avesse domandato",
+                    "che lui avesse augurato",
+                    "che lei avesse augurato",
+                    "che egli avesse augurato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "optavissēmus",
+                "traduzioni": [
+                    "che noi avessimo scelto",
+                    "che noi avessimo desiderato",
+                    "che noi avessimo cercato",
+                    "che noi avessimo sperato",
+                    "che noi avessimo chiesto",
+                    "che noi avessimo domandato",
+                    "che noi avessimo augurato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "optavissētis",
+                "traduzioni": [
+                    "che voi aveste scelto",
+                    "che voi aveste desiderato",
+                    "che voi aveste cercato",
+                    "che voi aveste sperato",
+                    "che voi aveste chiesto",
+                    "che voi aveste domandato",
+                    "che voi aveste augurato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "optavissent",
+                "traduzioni": [
+                    "che loro avessero scelto",
+                    "che essi avessero scelto",
+                    "che loro avessero desiderato",
+                    "che essi avessero desiderato",
+                    "che loro avessero cercato",
+                    "che essi avessero cercato",
+                    "che loro avessero sperato",
+                    "che essi avessero sperato",
+                    "che loro avessero chiesto",
+                    "che essi avessero chiesto",
+                    "che loro avessero domandato",
+                    "che essi avessero domandato",
+                    "che loro avessero augurato",
+                    "che essi avessero augurato"
+                ]
+            }
+        ]
+    }
+}

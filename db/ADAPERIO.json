@@ -1,0 +1,734 @@
+{
+    "identifier": "ADAPERIO",
+    "conuigazione": "4",
+    "translation": [
+        "aprire",
+        "spalancare",
+        "scoprire"
+    ],
+    "valid_translations": [
+        "aprire",
+        "spalancare",
+        "scoprire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ădăpĕrĭo",
+                "traduzioni": [
+                    "io apro",
+                    "io spalanco",
+                    "io scopro"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ădăpĕris",
+                "traduzioni": [
+                    "tu apri",
+                    "tu spalanchi",
+                    "tu scopri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ădăpĕrit",
+                "traduzioni": [
+                    "lui apre",
+                    "lei apre",
+                    "egli apre",
+                    "lui spalanca",
+                    "lei spalanca",
+                    "egli spalanca",
+                    "lui scopre",
+                    "lei scopre",
+                    "egli scopre"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ădăpĕrīmus",
+                "traduzioni": [
+                    "noi apriamo",
+                    "noi spalanchiamo",
+                    "noi scopriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ădăpĕrītis",
+                "traduzioni": [
+                    "voi aprite",
+                    "voi spalancate",
+                    "voi scoprite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ădăpĕrĭunt",
+                "traduzioni": [
+                    "loro aprono",
+                    "essi aprono",
+                    "loro spalancano",
+                    "essi spalancano",
+                    "loro scoprono",
+                    "essi scoprono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ădăpĕriēbam",
+                "traduzioni": [
+                    "io aprivo",
+                    "io spalancavo",
+                    "io scoprivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ădăpĕriēbas",
+                "traduzioni": [
+                    "tu aprivi",
+                    "tu spalancavi",
+                    "tu scoprivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ădăpĕriēbat",
+                "traduzioni": [
+                    "lui apriva",
+                    "lei apriva",
+                    "egli apriva",
+                    "lui spalancava",
+                    "lei spalancava",
+                    "egli spalancava",
+                    "lui scopriva",
+                    "lei scopriva",
+                    "egli scopriva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ădăpĕriebāmus",
+                "traduzioni": [
+                    "noi aprivamo",
+                    "noi spalancavamo",
+                    "noi scoprivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ădăpĕriebātis",
+                "traduzioni": [
+                    "voi aprivate",
+                    "voi spalancavate",
+                    "voi scoprivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ădăpĕriēbant",
+                "traduzioni": [
+                    "loro aprivano",
+                    "essi aprivano",
+                    "loro spalancavano",
+                    "essi spalancavano",
+                    "loro scoprivano",
+                    "essi scoprivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ădăpĕrĭam",
+                "traduzioni": [
+                    "io aprirò",
+                    "io spalancherò",
+                    "io scoprirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ădăpĕrĭes",
+                "traduzioni": [
+                    "tu aprirai",
+                    "tu spalancherai",
+                    "tu scoprirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ădăpĕrĭet",
+                "traduzioni": [
+                    "lui aprirà",
+                    "lei aprirà",
+                    "egli aprirà",
+                    "lui spalancherà",
+                    "lei spalancherà",
+                    "egli spalancherà",
+                    "lui scoprirà",
+                    "lei scoprirà",
+                    "egli scoprirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ădăpĕriēmus",
+                "traduzioni": [
+                    "noi apriremo",
+                    "noi spalancheremo",
+                    "noi scopriremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ădăpĕriētis",
+                "traduzioni": [
+                    "voi aprirete",
+                    "voi spalancherete",
+                    "voi scoprirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ădăpĕrĭent",
+                "traduzioni": [
+                    "loro apriranno",
+                    "essi apriranno",
+                    "loro spalancheranno",
+                    "essi spalancheranno",
+                    "loro scopriranno",
+                    "essi scopriranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adaperui",
+                "traduzioni": [
+                    "io aprii",
+                    "io apersi",
+                    "io ho aperto",
+                    "io ebbi aperto",
+                    "io spalancai",
+                    "io ho spalancato",
+                    "io ebbi spalancato",
+                    "io scoprii",
+                    "io scopersi",
+                    "io ho scoperto",
+                    "io ebbi scoperto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adaperuisti",
+                "traduzioni": [
+                    "tu apristi",
+                    "tu hai aperto",
+                    "tu avesti aperto",
+                    "tu spalancasti",
+                    "tu hai spalancato",
+                    "tu avesti spalancato",
+                    "tu scopristi",
+                    "tu hai scoperto",
+                    "tu avesti scoperto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adaperuit",
+                "traduzioni": [
+                    "lui aprì",
+                    "lei aprì",
+                    "egli aprì",
+                    "lui aperse",
+                    "lei aperse",
+                    "egli aperse",
+                    "lui ha aperto",
+                    "lei ha aperto",
+                    "egli ha aperto",
+                    "lui ebbe aperto",
+                    "lei ebbe aperto",
+                    "egli ebbe aperto",
+                    "lui spalancò",
+                    "lei spalancò",
+                    "egli spalancò",
+                    "lui ha spalancato",
+                    "lei ha spalancato",
+                    "egli ha spalancato",
+                    "lui ebbe spalancato",
+                    "lei ebbe spalancato",
+                    "egli ebbe spalancato",
+                    "lui scoprì",
+                    "lei scoprì",
+                    "egli scoprì",
+                    "lui scoperse",
+                    "lei scoperse",
+                    "egli scoperse",
+                    "lui ha scoperto",
+                    "lei ha scoperto",
+                    "egli ha scoperto",
+                    "lui ebbe scoperto",
+                    "lei ebbe scoperto",
+                    "egli ebbe scoperto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adaperuĭmus",
+                "traduzioni": [
+                    "noi aprimmo",
+                    "noi abbiamo aperto",
+                    "noi avemmo aperto",
+                    "noi spalancammo",
+                    "noi abbiamo spalancato",
+                    "noi avemmo spalancato",
+                    "noi scoprimmo",
+                    "noi abbiamo scoperto",
+                    "noi avemmo scoperto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adaperuistis",
+                "traduzioni": [
+                    "voi apriste",
+                    "voi avete aperto",
+                    "voi aveste aperto",
+                    "voi spalancaste",
+                    "voi avete spalancato",
+                    "voi aveste spalancato",
+                    "voi scopriste",
+                    "voi avete scoperto",
+                    "voi aveste scoperto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adaperuērunt, adaperuēre",
+                "traduzioni": [
+                    "loro aprirono",
+                    "essi aprirono",
+                    "loro apersero",
+                    "essi apersero",
+                    "loro hanno aperto",
+                    "essi hanno aperto",
+                    "loro ebbero aperto",
+                    "essi ebbero aperto",
+                    "loro spalancarono",
+                    "essi spalancarono",
+                    "loro hanno spalancato",
+                    "essi hanno spalancato",
+                    "loro ebbero spalancato",
+                    "essi ebbero spalancato",
+                    "loro scoprirono",
+                    "essi scoprirono",
+                    "loro scopersero",
+                    "essi scopersero",
+                    "loro hanno scoperto",
+                    "essi hanno scoperto",
+                    "loro ebbero scoperto",
+                    "essi ebbero scoperto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adaperuĕram",
+                "traduzioni": [
+                    "io avevo aperto",
+                    "io avevo spalancato",
+                    "io avevo scoperto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adaperuĕras",
+                "traduzioni": [
+                    "tu avevi aperto",
+                    "tu avevi spalancato",
+                    "tu avevi scoperto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adaperuĕrat",
+                "traduzioni": [
+                    "lui aveva aperto",
+                    "lei aveva aperto",
+                    "egli aveva aperto",
+                    "lui aveva spalancato",
+                    "lei aveva spalancato",
+                    "egli aveva spalancato",
+                    "lui aveva scoperto",
+                    "lei aveva scoperto",
+                    "egli aveva scoperto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adaperuerāmus",
+                "traduzioni": [
+                    "noi avevamo aperto",
+                    "noi avevamo spalancato",
+                    "noi avevamo scoperto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adaperuerātis",
+                "traduzioni": [
+                    "voi avevate aperto",
+                    "voi avevate spalancato",
+                    "voi avevate scoperto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adaperuĕrant",
+                "traduzioni": [
+                    "loro avevano aperto",
+                    "essi avevano aperto",
+                    "loro avevano spalancato",
+                    "essi avevano spalancato",
+                    "loro avevano scoperto",
+                    "essi avevano scoperto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adaperuĕro",
+                "traduzioni": [
+                    "io avrò aperto",
+                    "io avrò spalancato",
+                    "io avrò scoperto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adaperuĕris",
+                "traduzioni": [
+                    "tu avrai aperto",
+                    "tu avrai spalancato",
+                    "tu avrai scoperto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adaperuĕrit",
+                "traduzioni": [
+                    "lui avrà aperto",
+                    "lei avrà aperto",
+                    "egli avrà aperto",
+                    "lui avrà spalancato",
+                    "lei avrà spalancato",
+                    "egli avrà spalancato",
+                    "lui avrà scoperto",
+                    "lei avrà scoperto",
+                    "egli avrà scoperto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adaperuerĭmus",
+                "traduzioni": [
+                    "noi avremo aperto",
+                    "noi avremo spalancato",
+                    "noi avremo scoperto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adaperuerĭtis",
+                "traduzioni": [
+                    "voi avrete aperto",
+                    "voi avrete spalancato",
+                    "voi avrete scoperto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adaperuĕrint",
+                "traduzioni": [
+                    "loro avranno aperto",
+                    "essi avranno aperto",
+                    "loro avranno spalancato",
+                    "essi avranno spalancato",
+                    "loro avranno scoperto",
+                    "essi avranno scoperto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ădăpĕrĭam",
+                "traduzioni": [
+                    "che io apra",
+                    "che io spalanchi",
+                    "che io scopra"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ădăpĕrĭas",
+                "traduzioni": [
+                    "che tu apra",
+                    "che tu spalanchi",
+                    "che tu scopra"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ădăpĕrĭat",
+                "traduzioni": [
+                    "che lui apra",
+                    "che lei apra",
+                    "che egli apra",
+                    "che lui spalanchi",
+                    "che lei spalanchi",
+                    "che egli spalanchi",
+                    "che lui scopra",
+                    "che lei scopra",
+                    "che egli scopra"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ădăpĕriāmus",
+                "traduzioni": [
+                    "che noi apriamo",
+                    "che noi spalanchiamo",
+                    "che noi scopriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ădăpĕriātis",
+                "traduzioni": [
+                    "che voi apriate",
+                    "che voi spalanchiate",
+                    "che voi scopriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ădăpĕrĭant",
+                "traduzioni": [
+                    "che loro aprano",
+                    "che essi aprano",
+                    "che loro spalanchino",
+                    "che essi spalanchino",
+                    "che loro scoprano",
+                    "che essi scoprano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ădăpĕrīrem",
+                "traduzioni": [
+                    "che io aprissi",
+                    "che io spalancassi",
+                    "che io scoprissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ădăpĕrīres",
+                "traduzioni": [
+                    "che tu aprissi",
+                    "che tu spalancassi",
+                    "che tu scoprissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ădăpĕrīret",
+                "traduzioni": [
+                    "che lui aprisse",
+                    "che lei aprisse",
+                    "che egli aprisse",
+                    "che lui spalancasse",
+                    "che lei spalancasse",
+                    "che egli spalancasse",
+                    "che lui scoprisse",
+                    "che lei scoprisse",
+                    "che egli scoprisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ădăpĕrirēmus",
+                "traduzioni": [
+                    "che noi aprissimo",
+                    "che noi spalancassimo",
+                    "che noi scoprissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ădăpĕrirētis",
+                "traduzioni": [
+                    "che voi apriste",
+                    "che voi spalancaste",
+                    "che voi scopriste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ădăpĕrīrent",
+                "traduzioni": [
+                    "che loro aprissero",
+                    "che essi aprissero",
+                    "che loro spalancassero",
+                    "che essi spalancassero",
+                    "che loro scoprissero",
+                    "che essi scoprissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adaperuĕrim",
+                "traduzioni": [
+                    "che io abbia aperto",
+                    "che io abbia spalancato",
+                    "che io abbia scoperto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adaperuĕris",
+                "traduzioni": [
+                    "che tu abbia aperto",
+                    "che tu abbia spalancato",
+                    "che tu abbia scoperto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adaperuĕrit",
+                "traduzioni": [
+                    "che lui abbia aperto",
+                    "che lei abbia aperto",
+                    "che egli abbia aperto",
+                    "che lui abbia spalancato",
+                    "che lei abbia spalancato",
+                    "che egli abbia spalancato",
+                    "che lui abbia scoperto",
+                    "che lei abbia scoperto",
+                    "che egli abbia scoperto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adaperuerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo aperto",
+                    "che noi abbiamo spalancato",
+                    "che noi abbiamo scoperto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adaperuerĭtis",
+                "traduzioni": [
+                    "che voi abbiate aperto",
+                    "che voi abbiate spalancato",
+                    "che voi abbiate scoperto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adaperuĕrint",
+                "traduzioni": [
+                    "che loro abbiano aperto",
+                    "che essi abbiano aperto",
+                    "che loro abbiano spalancato",
+                    "che essi abbiano spalancato",
+                    "che loro abbiano scoperto",
+                    "che essi abbiano scoperto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adaperuissem",
+                "traduzioni": [
+                    "che io avessi aperto",
+                    "che io avessi spalancato",
+                    "che io avessi scoperto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adaperuisses",
+                "traduzioni": [
+                    "che tu avessi aperto",
+                    "che tu avessi spalancato",
+                    "che tu avessi scoperto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adaperuisset",
+                "traduzioni": [
+                    "che lui avesse aperto",
+                    "che lei avesse aperto",
+                    "che egli avesse aperto",
+                    "che lui avesse spalancato",
+                    "che lei avesse spalancato",
+                    "che egli avesse spalancato",
+                    "che lui avesse scoperto",
+                    "che lei avesse scoperto",
+                    "che egli avesse scoperto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adaperuissēmus",
+                "traduzioni": [
+                    "che noi avessimo aperto",
+                    "che noi avessimo spalancato",
+                    "che noi avessimo scoperto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adaperuissētis",
+                "traduzioni": [
+                    "che voi aveste aperto",
+                    "che voi aveste spalancato",
+                    "che voi aveste scoperto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adaperuissent",
+                "traduzioni": [
+                    "che loro avessero aperto",
+                    "che essi avessero aperto",
+                    "che loro avessero spalancato",
+                    "che essi avessero spalancato",
+                    "che loro avessero scoperto",
+                    "che essi avessero scoperto"
+                ]
+            }
+        ]
+    }
+}

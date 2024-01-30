@@ -1,0 +1,944 @@
+{
+    "identifier": "ORDINO",
+    "conuigazione": "1",
+    "translation": [
+        "ordinare",
+        "regolare",
+        "militare schierare",
+        "sistemare",
+        "organizzare",
+        "nominare",
+        "ecclesiastico consacrare"
+    ],
+    "valid_translations": [
+        "ordinare",
+        "regolare",
+        "sistemare",
+        "organizzare",
+        "nominare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ordĭno",
+                "traduzioni": [
+                    "io ordino",
+                    "io regolo",
+                    "io sistemo",
+                    "io organizzo",
+                    "io nomino"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ordĭnas",
+                "traduzioni": [
+                    "tu ordini",
+                    "tu regoli",
+                    "tu sistemi",
+                    "tu organizzi",
+                    "tu nomini"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ordĭnat",
+                "traduzioni": [
+                    "lui ordina",
+                    "lei ordina",
+                    "egli ordina",
+                    "lui regola",
+                    "lei regola",
+                    "egli regola",
+                    "lui sistema",
+                    "lei sistema",
+                    "egli sistema",
+                    "lui organizza",
+                    "lei organizza",
+                    "egli organizza",
+                    "lui nomina",
+                    "lei nomina",
+                    "egli nomina"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ordĭnāmus",
+                "traduzioni": [
+                    "noi ordiniamo",
+                    "noi regoliamo",
+                    "noi sistemiamo",
+                    "noi organizziamo",
+                    "noi nominiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ordĭnātis",
+                "traduzioni": [
+                    "voi ordinate",
+                    "voi regolate",
+                    "voi sistemate",
+                    "voi organizzate",
+                    "voi nominate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ordĭnant",
+                "traduzioni": [
+                    "loro ordinano",
+                    "essi ordinano",
+                    "loro regolano",
+                    "essi regolano",
+                    "loro sistemano",
+                    "essi sistemano",
+                    "loro organizzano",
+                    "essi organizzano",
+                    "loro nominano",
+                    "essi nominano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ordĭnābam",
+                "traduzioni": [
+                    "io ordinavo",
+                    "io regolavo",
+                    "io sistemavo",
+                    "io organizzavo",
+                    "io nominavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ordĭnābas",
+                "traduzioni": [
+                    "tu ordinavi",
+                    "tu regolavi",
+                    "tu sistemavi",
+                    "tu organizzavi",
+                    "tu nominavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ordĭnābat",
+                "traduzioni": [
+                    "lui ordinava",
+                    "lei ordinava",
+                    "egli ordinava",
+                    "lui regolava",
+                    "lei regolava",
+                    "egli regolava",
+                    "lui sistemava",
+                    "lei sistemava",
+                    "egli sistemava",
+                    "lui organizzava",
+                    "lei organizzava",
+                    "egli organizzava",
+                    "lui nominava",
+                    "lei nominava",
+                    "egli nominava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ordĭnabāmus",
+                "traduzioni": [
+                    "noi ordinavamo",
+                    "noi regolavamo",
+                    "noi sistemavamo",
+                    "noi organizzavamo",
+                    "noi nominavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ordĭnabātis",
+                "traduzioni": [
+                    "voi ordinavate",
+                    "voi regolavate",
+                    "voi sistemavate",
+                    "voi organizzavate",
+                    "voi nominavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ordĭnābant",
+                "traduzioni": [
+                    "loro ordinavano",
+                    "essi ordinavano",
+                    "loro regolavano",
+                    "essi regolavano",
+                    "loro sistemavano",
+                    "essi sistemavano",
+                    "loro organizzavano",
+                    "essi organizzavano",
+                    "loro nominavano",
+                    "essi nominavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ordĭnābo",
+                "traduzioni": [
+                    "io ordinerò",
+                    "io regolerò",
+                    "io sistemerò",
+                    "io organizzerò",
+                    "io nominerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ordĭnābis",
+                "traduzioni": [
+                    "tu ordinerai",
+                    "tu regolerai",
+                    "tu sistemerai",
+                    "tu organizzerai",
+                    "tu nominerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ordĭnābit",
+                "traduzioni": [
+                    "lui ordinerà",
+                    "lei ordinerà",
+                    "egli ordinerà",
+                    "lui regolerà",
+                    "lei regolerà",
+                    "egli regolerà",
+                    "lui sistemerà",
+                    "lei sistemerà",
+                    "egli sistemerà",
+                    "lui organizzerà",
+                    "lei organizzerà",
+                    "egli organizzerà",
+                    "lui nominerà",
+                    "lei nominerà",
+                    "egli nominerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ordĭnabĭmus",
+                "traduzioni": [
+                    "noi ordineremo",
+                    "noi regoleremo",
+                    "noi sistemeremo",
+                    "noi organizzeremo",
+                    "noi nomineremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ordĭnabĭtis",
+                "traduzioni": [
+                    "voi ordinerete",
+                    "voi regolerete",
+                    "voi sistemerete",
+                    "voi organizzerete",
+                    "voi nominerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ordĭnābunt",
+                "traduzioni": [
+                    "loro ordineranno",
+                    "essi ordineranno",
+                    "loro regoleranno",
+                    "essi regoleranno",
+                    "loro sistemeranno",
+                    "essi sistemeranno",
+                    "loro organizzeranno",
+                    "essi organizzeranno",
+                    "loro nomineranno",
+                    "essi nomineranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ordinavi",
+                "traduzioni": [
+                    "io ordinai",
+                    "io ho ordinato",
+                    "io ebbi ordinato",
+                    "io regolai",
+                    "io ho regolato",
+                    "io ebbi regolato",
+                    "io sistemai",
+                    "io ho sistemato",
+                    "io ebbi sistemato",
+                    "io organizzai",
+                    "io ho organizzato",
+                    "io ebbi organizzato",
+                    "io nominai",
+                    "io ho nominato",
+                    "io ebbi nominato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ordinavisti",
+                "traduzioni": [
+                    "tu ordinasti",
+                    "tu hai ordinato",
+                    "tu avesti ordinato",
+                    "tu regolasti",
+                    "tu hai regolato",
+                    "tu avesti regolato",
+                    "tu sistemasti",
+                    "tu hai sistemato",
+                    "tu avesti sistemato",
+                    "tu organizzasti",
+                    "tu hai organizzato",
+                    "tu avesti organizzato",
+                    "tu nominasti",
+                    "tu hai nominato",
+                    "tu avesti nominato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ordinavit",
+                "traduzioni": [
+                    "lui ordinò",
+                    "lei ordinò",
+                    "egli ordinò",
+                    "lui ha ordinato",
+                    "lei ha ordinato",
+                    "egli ha ordinato",
+                    "lui ebbe ordinato",
+                    "lei ebbe ordinato",
+                    "egli ebbe ordinato",
+                    "lui regolò",
+                    "lei regolò",
+                    "egli regolò",
+                    "lui ha regolato",
+                    "lei ha regolato",
+                    "egli ha regolato",
+                    "lui ebbe regolato",
+                    "lei ebbe regolato",
+                    "egli ebbe regolato",
+                    "lui sistemò",
+                    "lei sistemò",
+                    "egli sistemò",
+                    "lui ha sistemato",
+                    "lei ha sistemato",
+                    "egli ha sistemato",
+                    "lui ebbe sistemato",
+                    "lei ebbe sistemato",
+                    "egli ebbe sistemato",
+                    "lui organizzò",
+                    "lei organizzò",
+                    "egli organizzò",
+                    "lui ha organizzato",
+                    "lei ha organizzato",
+                    "egli ha organizzato",
+                    "lui ebbe organizzato",
+                    "lei ebbe organizzato",
+                    "egli ebbe organizzato",
+                    "lui nominò",
+                    "lei nominò",
+                    "egli nominò",
+                    "lui ha nominato",
+                    "lei ha nominato",
+                    "egli ha nominato",
+                    "lui ebbe nominato",
+                    "lei ebbe nominato",
+                    "egli ebbe nominato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ordinavĭmus",
+                "traduzioni": [
+                    "noi ordinammo",
+                    "noi abbiamo ordinato",
+                    "noi avemmo ordinato",
+                    "noi regolammo",
+                    "noi abbiamo regolato",
+                    "noi avemmo regolato",
+                    "noi sistemammo",
+                    "noi abbiamo sistemato",
+                    "noi avemmo sistemato",
+                    "noi organizzammo",
+                    "noi abbiamo organizzato",
+                    "noi avemmo organizzato",
+                    "noi nominammo",
+                    "noi abbiamo nominato",
+                    "noi avemmo nominato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ordinavistis",
+                "traduzioni": [
+                    "voi ordinaste",
+                    "voi avete ordinato",
+                    "voi aveste ordinato",
+                    "voi regolaste",
+                    "voi avete regolato",
+                    "voi aveste regolato",
+                    "voi sistemaste",
+                    "voi avete sistemato",
+                    "voi aveste sistemato",
+                    "voi organizzaste",
+                    "voi avete organizzato",
+                    "voi aveste organizzato",
+                    "voi nominaste",
+                    "voi avete nominato",
+                    "voi aveste nominato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ordinavērunt, ordinavēre",
+                "traduzioni": [
+                    "loro ordinarono",
+                    "essi ordinarono",
+                    "loro hanno ordinato",
+                    "essi hanno ordinato",
+                    "loro ebbero ordinato",
+                    "essi ebbero ordinato",
+                    "loro regolarono",
+                    "essi regolarono",
+                    "loro hanno regolato",
+                    "essi hanno regolato",
+                    "loro ebbero regolato",
+                    "essi ebbero regolato",
+                    "loro sistemarono",
+                    "essi sistemarono",
+                    "loro hanno sistemato",
+                    "essi hanno sistemato",
+                    "loro ebbero sistemato",
+                    "essi ebbero sistemato",
+                    "loro organizzarono",
+                    "essi organizzarono",
+                    "loro hanno organizzato",
+                    "essi hanno organizzato",
+                    "loro ebbero organizzato",
+                    "essi ebbero organizzato",
+                    "loro nominarono",
+                    "essi nominarono",
+                    "loro hanno nominato",
+                    "essi hanno nominato",
+                    "loro ebbero nominato",
+                    "essi ebbero nominato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ordinavĕram",
+                "traduzioni": [
+                    "io avevo ordinato",
+                    "io avevo regolato",
+                    "io avevo sistemato",
+                    "io avevo organizzato",
+                    "io avevo nominato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ordinavĕras",
+                "traduzioni": [
+                    "tu avevi ordinato",
+                    "tu avevi regolato",
+                    "tu avevi sistemato",
+                    "tu avevi organizzato",
+                    "tu avevi nominato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ordinavĕrat",
+                "traduzioni": [
+                    "lui aveva ordinato",
+                    "lei aveva ordinato",
+                    "egli aveva ordinato",
+                    "lui aveva regolato",
+                    "lei aveva regolato",
+                    "egli aveva regolato",
+                    "lui aveva sistemato",
+                    "lei aveva sistemato",
+                    "egli aveva sistemato",
+                    "lui aveva organizzato",
+                    "lei aveva organizzato",
+                    "egli aveva organizzato",
+                    "lui aveva nominato",
+                    "lei aveva nominato",
+                    "egli aveva nominato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ordinaverāmus",
+                "traduzioni": [
+                    "noi avevamo ordinato",
+                    "noi avevamo regolato",
+                    "noi avevamo sistemato",
+                    "noi avevamo organizzato",
+                    "noi avevamo nominato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ordinaverātis",
+                "traduzioni": [
+                    "voi avevate ordinato",
+                    "voi avevate regolato",
+                    "voi avevate sistemato",
+                    "voi avevate organizzato",
+                    "voi avevate nominato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ordinavĕrant",
+                "traduzioni": [
+                    "loro avevano ordinato",
+                    "essi avevano ordinato",
+                    "loro avevano regolato",
+                    "essi avevano regolato",
+                    "loro avevano sistemato",
+                    "essi avevano sistemato",
+                    "loro avevano organizzato",
+                    "essi avevano organizzato",
+                    "loro avevano nominato",
+                    "essi avevano nominato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ordinavĕro",
+                "traduzioni": [
+                    "io avrò ordinato",
+                    "io avrò regolato",
+                    "io avrò sistemato",
+                    "io avrò organizzato",
+                    "io avrò nominato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ordinavĕris",
+                "traduzioni": [
+                    "tu avrai ordinato",
+                    "tu avrai regolato",
+                    "tu avrai sistemato",
+                    "tu avrai organizzato",
+                    "tu avrai nominato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ordinavĕrit",
+                "traduzioni": [
+                    "lui avrà ordinato",
+                    "lei avrà ordinato",
+                    "egli avrà ordinato",
+                    "lui avrà regolato",
+                    "lei avrà regolato",
+                    "egli avrà regolato",
+                    "lui avrà sistemato",
+                    "lei avrà sistemato",
+                    "egli avrà sistemato",
+                    "lui avrà organizzato",
+                    "lei avrà organizzato",
+                    "egli avrà organizzato",
+                    "lui avrà nominato",
+                    "lei avrà nominato",
+                    "egli avrà nominato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ordinaverĭmus",
+                "traduzioni": [
+                    "noi avremo ordinato",
+                    "noi avremo regolato",
+                    "noi avremo sistemato",
+                    "noi avremo organizzato",
+                    "noi avremo nominato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ordinaverĭtis",
+                "traduzioni": [
+                    "voi avrete ordinato",
+                    "voi avrete regolato",
+                    "voi avrete sistemato",
+                    "voi avrete organizzato",
+                    "voi avrete nominato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ordinavĕrint",
+                "traduzioni": [
+                    "loro avranno ordinato",
+                    "essi avranno ordinato",
+                    "loro avranno regolato",
+                    "essi avranno regolato",
+                    "loro avranno sistemato",
+                    "essi avranno sistemato",
+                    "loro avranno organizzato",
+                    "essi avranno organizzato",
+                    "loro avranno nominato",
+                    "essi avranno nominato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ordĭnem",
+                "traduzioni": [
+                    "che io ordini",
+                    "che io regoli",
+                    "che io sistemi",
+                    "che io organizzi",
+                    "che io nomini"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ordĭnes",
+                "traduzioni": [
+                    "che tu ordini",
+                    "che tu regoli",
+                    "che tu sistemi",
+                    "che tu organizzi",
+                    "che tu nomini"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ordĭnet",
+                "traduzioni": [
+                    "che lui ordini",
+                    "che lei ordini",
+                    "che egli ordini",
+                    "che lui regoli",
+                    "che lei regoli",
+                    "che egli regoli",
+                    "che lui sistemi",
+                    "che lei sistemi",
+                    "che egli sistemi",
+                    "che lui organizzi",
+                    "che lei organizzi",
+                    "che egli organizzi",
+                    "che lui nomini",
+                    "che lei nomini",
+                    "che egli nomini"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ordĭnēmus",
+                "traduzioni": [
+                    "che noi ordiniamo",
+                    "che noi regoliamo",
+                    "che noi sistemiamo",
+                    "che noi organizziamo",
+                    "che noi nominiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ordĭnētis",
+                "traduzioni": [
+                    "che voi ordiniate",
+                    "che voi regoliate",
+                    "che voi sistemiate",
+                    "che voi organizziate",
+                    "che voi nominiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ordĭnent",
+                "traduzioni": [
+                    "che loro ordinino",
+                    "che essi ordinino",
+                    "che loro regolino",
+                    "che essi regolino",
+                    "che loro sistemino",
+                    "che essi sistemino",
+                    "che loro organizzino",
+                    "che essi organizzino",
+                    "che loro nominino",
+                    "che essi nominino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ordĭnārem",
+                "traduzioni": [
+                    "che io ordinassi",
+                    "che io regolassi",
+                    "che io sistemassi",
+                    "che io organizzassi",
+                    "che io nominassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ordĭnāres",
+                "traduzioni": [
+                    "che tu ordinassi",
+                    "che tu regolassi",
+                    "che tu sistemassi",
+                    "che tu organizzassi",
+                    "che tu nominassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ordĭnāret",
+                "traduzioni": [
+                    "che lui ordinasse",
+                    "che lei ordinasse",
+                    "che egli ordinasse",
+                    "che lui regolasse",
+                    "che lei regolasse",
+                    "che egli regolasse",
+                    "che lui sistemasse",
+                    "che lei sistemasse",
+                    "che egli sistemasse",
+                    "che lui organizzasse",
+                    "che lei organizzasse",
+                    "che egli organizzasse",
+                    "che lui nominasse",
+                    "che lei nominasse",
+                    "che egli nominasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ordĭnarēmus",
+                "traduzioni": [
+                    "che noi ordinassimo",
+                    "che noi regolassimo",
+                    "che noi sistemassimo",
+                    "che noi organizzassimo",
+                    "che noi nominassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ordĭnarētis",
+                "traduzioni": [
+                    "che voi ordinaste",
+                    "che voi regolaste",
+                    "che voi sistemaste",
+                    "che voi organizzaste",
+                    "che voi nominaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ordĭnārent",
+                "traduzioni": [
+                    "che loro ordinassero",
+                    "che essi ordinassero",
+                    "che loro regolassero",
+                    "che essi regolassero",
+                    "che loro sistemassero",
+                    "che essi sistemassero",
+                    "che loro organizzassero",
+                    "che essi organizzassero",
+                    "che loro nominassero",
+                    "che essi nominassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ordinavĕrim",
+                "traduzioni": [
+                    "che io abbia ordinato",
+                    "che io abbia regolato",
+                    "che io abbia sistemato",
+                    "che io abbia organizzato",
+                    "che io abbia nominato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ordinavĕris",
+                "traduzioni": [
+                    "che tu abbia ordinato",
+                    "che tu abbia regolato",
+                    "che tu abbia sistemato",
+                    "che tu abbia organizzato",
+                    "che tu abbia nominato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ordinavĕrit",
+                "traduzioni": [
+                    "che lui abbia ordinato",
+                    "che lei abbia ordinato",
+                    "che egli abbia ordinato",
+                    "che lui abbia regolato",
+                    "che lei abbia regolato",
+                    "che egli abbia regolato",
+                    "che lui abbia sistemato",
+                    "che lei abbia sistemato",
+                    "che egli abbia sistemato",
+                    "che lui abbia organizzato",
+                    "che lei abbia organizzato",
+                    "che egli abbia organizzato",
+                    "che lui abbia nominato",
+                    "che lei abbia nominato",
+                    "che egli abbia nominato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ordinaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo ordinato",
+                    "che noi abbiamo regolato",
+                    "che noi abbiamo sistemato",
+                    "che noi abbiamo organizzato",
+                    "che noi abbiamo nominato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ordinaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate ordinato",
+                    "che voi abbiate regolato",
+                    "che voi abbiate sistemato",
+                    "che voi abbiate organizzato",
+                    "che voi abbiate nominato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ordinavĕrint",
+                "traduzioni": [
+                    "che loro abbiano ordinato",
+                    "che essi abbiano ordinato",
+                    "che loro abbiano regolato",
+                    "che essi abbiano regolato",
+                    "che loro abbiano sistemato",
+                    "che essi abbiano sistemato",
+                    "che loro abbiano organizzato",
+                    "che essi abbiano organizzato",
+                    "che loro abbiano nominato",
+                    "che essi abbiano nominato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ordinavissem",
+                "traduzioni": [
+                    "che io avessi ordinato",
+                    "che io avessi regolato",
+                    "che io avessi sistemato",
+                    "che io avessi organizzato",
+                    "che io avessi nominato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ordinavisses",
+                "traduzioni": [
+                    "che tu avessi ordinato",
+                    "che tu avessi regolato",
+                    "che tu avessi sistemato",
+                    "che tu avessi organizzato",
+                    "che tu avessi nominato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ordinavisset",
+                "traduzioni": [
+                    "che lui avesse ordinato",
+                    "che lei avesse ordinato",
+                    "che egli avesse ordinato",
+                    "che lui avesse regolato",
+                    "che lei avesse regolato",
+                    "che egli avesse regolato",
+                    "che lui avesse sistemato",
+                    "che lei avesse sistemato",
+                    "che egli avesse sistemato",
+                    "che lui avesse organizzato",
+                    "che lei avesse organizzato",
+                    "che egli avesse organizzato",
+                    "che lui avesse nominato",
+                    "che lei avesse nominato",
+                    "che egli avesse nominato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ordinavissēmus",
+                "traduzioni": [
+                    "che noi avessimo ordinato",
+                    "che noi avessimo regolato",
+                    "che noi avessimo sistemato",
+                    "che noi avessimo organizzato",
+                    "che noi avessimo nominato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ordinavissētis",
+                "traduzioni": [
+                    "che voi aveste ordinato",
+                    "che voi aveste regolato",
+                    "che voi aveste sistemato",
+                    "che voi aveste organizzato",
+                    "che voi aveste nominato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ordinavissent",
+                "traduzioni": [
+                    "che loro avessero ordinato",
+                    "che essi avessero ordinato",
+                    "che loro avessero regolato",
+                    "che essi avessero regolato",
+                    "che loro avessero sistemato",
+                    "che essi avessero sistemato",
+                    "che loro avessero organizzato",
+                    "che essi avessero organizzato",
+                    "che loro avessero nominato",
+                    "che essi avessero nominato"
+                ]
+            }
+        ]
+    }
+}

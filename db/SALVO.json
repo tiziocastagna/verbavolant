@@ -1,0 +1,502 @@
+{
+    "identifier": "SALVO",
+    "conuigazione": "1",
+    "translation": [
+        "salvare"
+    ],
+    "valid_translations": [
+        "salvare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvo",
+                "traduzioni": [
+                    "io salvo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salvas",
+                "traduzioni": [
+                    "tu salvi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvat",
+                "traduzioni": [
+                    "lui salva",
+                    "lei salva",
+                    "egli salva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salvāmus",
+                "traduzioni": [
+                    "noi salviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salvātis",
+                "traduzioni": [
+                    "voi salvate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvant",
+                "traduzioni": [
+                    "loro salvano",
+                    "essi salvano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvābam",
+                "traduzioni": [
+                    "io salvavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salvābas",
+                "traduzioni": [
+                    "tu salvavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvābat",
+                "traduzioni": [
+                    "lui salvava",
+                    "lei salvava",
+                    "egli salvava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salvabāmus",
+                "traduzioni": [
+                    "noi salvavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salvabātis",
+                "traduzioni": [
+                    "voi salvavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvābant",
+                "traduzioni": [
+                    "loro salvavano",
+                    "essi salvavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvābo",
+                "traduzioni": [
+                    "io salverò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salvābis",
+                "traduzioni": [
+                    "tu salverai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvābit",
+                "traduzioni": [
+                    "lui salverà",
+                    "lei salverà",
+                    "egli salverà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salvabĭmus",
+                "traduzioni": [
+                    "noi salveremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salvabĭtis",
+                "traduzioni": [
+                    "voi salverete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvābunt",
+                "traduzioni": [
+                    "loro salveranno",
+                    "essi salveranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvavi",
+                "traduzioni": [
+                    "io salvai",
+                    "io ho salvato",
+                    "io ebbi salvato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salvavisti",
+                "traduzioni": [
+                    "tu salvasti",
+                    "tu hai salvato",
+                    "tu avesti salvato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvavit",
+                "traduzioni": [
+                    "lui salvò",
+                    "lei salvò",
+                    "egli salvò",
+                    "lui ha salvato",
+                    "lei ha salvato",
+                    "egli ha salvato",
+                    "lui ebbe salvato",
+                    "lei ebbe salvato",
+                    "egli ebbe salvato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salvavĭmus",
+                "traduzioni": [
+                    "noi salvammo",
+                    "noi abbiamo salvato",
+                    "noi avemmo salvato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salvavistis",
+                "traduzioni": [
+                    "voi salvaste",
+                    "voi avete salvato",
+                    "voi aveste salvato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvavērunt, salvavēre",
+                "traduzioni": [
+                    "loro salvarono",
+                    "essi salvarono",
+                    "loro hanno salvato",
+                    "essi hanno salvato",
+                    "loro ebbero salvato",
+                    "essi ebbero salvato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvavĕram",
+                "traduzioni": [
+                    "io avevo salvato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salvavĕras",
+                "traduzioni": [
+                    "tu avevi salvato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvavĕrat",
+                "traduzioni": [
+                    "lui aveva salvato",
+                    "lei aveva salvato",
+                    "egli aveva salvato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salvaverāmus",
+                "traduzioni": [
+                    "noi avevamo salvato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salvaverātis",
+                "traduzioni": [
+                    "voi avevate salvato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvavĕrant",
+                "traduzioni": [
+                    "loro avevano salvato",
+                    "essi avevano salvato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvavĕro",
+                "traduzioni": [
+                    "io avrò salvato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salvavĕris",
+                "traduzioni": [
+                    "tu avrai salvato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvavĕrit",
+                "traduzioni": [
+                    "lui avrà salvato",
+                    "lei avrà salvato",
+                    "egli avrà salvato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salvaverĭmus",
+                "traduzioni": [
+                    "noi avremo salvato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salvaverĭtis",
+                "traduzioni": [
+                    "voi avrete salvato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvavĕrint",
+                "traduzioni": [
+                    "loro avranno salvato",
+                    "essi avranno salvato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvem",
+                "traduzioni": [
+                    "che io salvi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salves",
+                "traduzioni": [
+                    "che tu salvi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvet",
+                "traduzioni": [
+                    "che lui salvi",
+                    "che lei salvi",
+                    "che egli salvi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salvēmus",
+                "traduzioni": [
+                    "che noi salviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salvētis",
+                "traduzioni": [
+                    "che voi salviate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvent",
+                "traduzioni": [
+                    "che loro salvino",
+                    "che essi salvino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvārem",
+                "traduzioni": [
+                    "che io salvassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salvāres",
+                "traduzioni": [
+                    "che tu salvassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvāret",
+                "traduzioni": [
+                    "che lui salvasse",
+                    "che lei salvasse",
+                    "che egli salvasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salvarēmus",
+                "traduzioni": [
+                    "che noi salvassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salvarētis",
+                "traduzioni": [
+                    "che voi salvaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvārent",
+                "traduzioni": [
+                    "che loro salvassero",
+                    "che essi salvassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvavĕrim",
+                "traduzioni": [
+                    "che io abbia salvato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salvavĕris",
+                "traduzioni": [
+                    "che tu abbia salvato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvavĕrit",
+                "traduzioni": [
+                    "che lui abbia salvato",
+                    "che lei abbia salvato",
+                    "che egli abbia salvato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salvaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo salvato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salvaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate salvato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvavĕrint",
+                "traduzioni": [
+                    "che loro abbiano salvato",
+                    "che essi abbiano salvato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvavissem",
+                "traduzioni": [
+                    "che io avessi salvato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salvavisses",
+                "traduzioni": [
+                    "che tu avessi salvato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvavisset",
+                "traduzioni": [
+                    "che lui avesse salvato",
+                    "che lei avesse salvato",
+                    "che egli avesse salvato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salvavissēmus",
+                "traduzioni": [
+                    "che noi avessimo salvato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salvavissētis",
+                "traduzioni": [
+                    "che voi aveste salvato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvavissent",
+                "traduzioni": [
+                    "che loro avessero salvato",
+                    "che essi avessero salvato"
+                ]
+            }
+        ]
+    }
+}

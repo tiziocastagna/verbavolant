@@ -1,0 +1,956 @@
+{
+    "identifier": "SORBEO",
+    "conuigazione": "2",
+    "translation": [
+        "bere",
+        "sorbire",
+        "inghiottire",
+        "succhiare",
+        "assorbire"
+    ],
+    "valid_translations": [
+        "bere",
+        "sorbire",
+        "inghiottire",
+        "succhiare",
+        "assorbire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sorbĕo",
+                "traduzioni": [
+                    "io bevo",
+                    "io sorbisco",
+                    "io inghiott(isc)o",
+                    "io succhio",
+                    "io assorb(isc)o"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sorbes",
+                "traduzioni": [
+                    "tu bevi",
+                    "tu sorbisci",
+                    "tu inghiott(isc)i",
+                    "tu succhi",
+                    "tu assorb(isc)i"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sorbet",
+                "traduzioni": [
+                    "lui beve",
+                    "lei beve",
+                    "egli beve",
+                    "lui sorbisce",
+                    "lei sorbisce",
+                    "egli sorbisce",
+                    "lui inghiott(isc)e",
+                    "lei inghiott(isc)e",
+                    "egli inghiott(isc)e",
+                    "lui succhia",
+                    "lei succhia",
+                    "egli succhia",
+                    "lui assorb(isc)e",
+                    "lei assorb(isc)e",
+                    "egli assorb(isc)e"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sorbēmus",
+                "traduzioni": [
+                    "noi beviamo",
+                    "noi sorbiamo",
+                    "noi inghiottiamo",
+                    "noi succhiamo",
+                    "noi assorbiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sorbētis",
+                "traduzioni": [
+                    "voi bevete",
+                    "voi sorbite",
+                    "voi inghiottite",
+                    "voi succhiate",
+                    "voi assorbite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sorbent",
+                "traduzioni": [
+                    "loro bevono",
+                    "essi bevono",
+                    "loro sorbiscono",
+                    "essi sorbiscono",
+                    "loro inghiott(isc)ono",
+                    "essi inghiott(isc)ono",
+                    "loro succhiano",
+                    "essi succhiano",
+                    "loro assorb(isc)ono",
+                    "essi assorb(isc)ono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sorbēbam",
+                "traduzioni": [
+                    "io bevevo",
+                    "io sorbivo",
+                    "io inghiottivo",
+                    "io succhiavo",
+                    "io assorbivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sorbēbas",
+                "traduzioni": [
+                    "tu bevevi",
+                    "tu sorbivi",
+                    "tu inghiottivi",
+                    "tu succhiavi",
+                    "tu assorbivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sorbēbat",
+                "traduzioni": [
+                    "lui beveva",
+                    "lei beveva",
+                    "egli beveva",
+                    "lui sorbiva",
+                    "lei sorbiva",
+                    "egli sorbiva",
+                    "lui inghiottiva",
+                    "lei inghiottiva",
+                    "egli inghiottiva",
+                    "lui succhiava",
+                    "lei succhiava",
+                    "egli succhiava",
+                    "lui assorbiva",
+                    "lei assorbiva",
+                    "egli assorbiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sorbabāmus",
+                "traduzioni": [
+                    "noi bevevamo",
+                    "noi sorbivamo",
+                    "noi inghiottivamo",
+                    "noi succhiavamo",
+                    "noi assorbivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sorbebātis",
+                "traduzioni": [
+                    "voi bevevate",
+                    "voi sorbivate",
+                    "voi inghiottivate",
+                    "voi succhiavate",
+                    "voi assorbivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sorbēbant",
+                "traduzioni": [
+                    "loro bevevano",
+                    "essi bevevano",
+                    "loro sorbivano",
+                    "essi sorbivano",
+                    "loro inghiottivano",
+                    "essi inghiottivano",
+                    "loro succhiavano",
+                    "essi succhiavano",
+                    "loro assorbivano",
+                    "essi assorbivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sorbēbo",
+                "traduzioni": [
+                    "io berrò",
+                    "io beverò",
+                    "io sorbirò",
+                    "io inghiottirò",
+                    "io succhierò",
+                    "io assorbirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sorbēbis",
+                "traduzioni": [
+                    "tu berrai",
+                    "tu beverai",
+                    "tu sorbirai",
+                    "tu inghiottirai",
+                    "tu succhierai",
+                    "tu assorbirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sorbēbit",
+                "traduzioni": [
+                    "lui berrà",
+                    "lei berrà",
+                    "egli berrà",
+                    "lui beverà",
+                    "lei beverà",
+                    "egli beverà",
+                    "lui sorbirà",
+                    "lei sorbirà",
+                    "egli sorbirà",
+                    "lui inghiottirà",
+                    "lei inghiottirà",
+                    "egli inghiottirà",
+                    "lui succhierà",
+                    "lei succhierà",
+                    "egli succhierà",
+                    "lui assorbirà",
+                    "lei assorbirà",
+                    "egli assorbirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sorbebĭmus",
+                "traduzioni": [
+                    "noi berremo",
+                    "noi beveremo",
+                    "noi sorbiremo",
+                    "noi inghiottiremo",
+                    "noi succhieremo",
+                    "noi assorbiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sorbebĭtis",
+                "traduzioni": [
+                    "voi berrete",
+                    "voi beverete",
+                    "voi sorbirete",
+                    "voi inghiottirete",
+                    "voi succhierete",
+                    "voi assorbirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sorbēbunt",
+                "traduzioni": [
+                    "loro berranno",
+                    "essi berranno",
+                    "loro beveranno",
+                    "essi beveranno",
+                    "loro sorbiranno",
+                    "essi sorbiranno",
+                    "loro inghiottiranno",
+                    "essi inghiottiranno",
+                    "loro succhieranno",
+                    "essi succhieranno",
+                    "loro assorbiranno",
+                    "essi assorbiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sorbui",
+                "traduzioni": [
+                    "io bevvi",
+                    "io bevetti",
+                    "io bevei",
+                    "io ho bevuto",
+                    "io ebbi bevuto",
+                    "io sorbii",
+                    "io ho sorbito",
+                    "io ebbi sorbito",
+                    "io inghiottii",
+                    "io ho inghiottito",
+                    "io ebbi inghiottito",
+                    "io succhiai",
+                    "io ho succhiato",
+                    "io ebbi succhiato",
+                    "io assorbii",
+                    "io ho assorbito",
+                    "io ebbi assorbito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sorbuisti",
+                "traduzioni": [
+                    "tu bevesti",
+                    "tu hai bevuto",
+                    "tu avesti bevuto",
+                    "tu sorbisti",
+                    "tu hai sorbito",
+                    "tu avesti sorbito",
+                    "tu inghiottisti",
+                    "tu hai inghiottito",
+                    "tu avesti inghiottito",
+                    "tu succhiasti",
+                    "tu hai succhiato",
+                    "tu avesti succhiato",
+                    "tu assorbisti",
+                    "tu hai assorbito",
+                    "tu avesti assorbito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sorbuit",
+                "traduzioni": [
+                    "lui bevve",
+                    "lei bevve",
+                    "egli bevve",
+                    "lui bevette",
+                    "lei bevette",
+                    "egli bevette",
+                    "lui ha bevuto",
+                    "lei ha bevuto",
+                    "egli ha bevuto",
+                    "lui ebbe bevuto",
+                    "lei ebbe bevuto",
+                    "egli ebbe bevuto",
+                    "lui sorbì",
+                    "lei sorbì",
+                    "egli sorbì",
+                    "lui ha sorbito",
+                    "lei ha sorbito",
+                    "egli ha sorbito",
+                    "lui ebbe sorbito",
+                    "lei ebbe sorbito",
+                    "egli ebbe sorbito",
+                    "lui inghiottì",
+                    "lei inghiottì",
+                    "egli inghiottì",
+                    "lui ha inghiottito",
+                    "lei ha inghiottito",
+                    "egli ha inghiottito",
+                    "lui ebbe inghiottito",
+                    "lei ebbe inghiottito",
+                    "egli ebbe inghiottito",
+                    "lui succhiò",
+                    "lei succhiò",
+                    "egli succhiò",
+                    "lui ha succhiato",
+                    "lei ha succhiato",
+                    "egli ha succhiato",
+                    "lui ebbe succhiato",
+                    "lei ebbe succhiato",
+                    "egli ebbe succhiato",
+                    "lui assorbì",
+                    "lei assorbì",
+                    "egli assorbì",
+                    "lui ha assorbito",
+                    "lei ha assorbito",
+                    "egli ha assorbito",
+                    "lui ebbe assorbito",
+                    "lei ebbe assorbito",
+                    "egli ebbe assorbito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sorbuĭmus",
+                "traduzioni": [
+                    "noi bevemmo",
+                    "noi abbiamo bevuto",
+                    "noi avemmo bevuto",
+                    "noi sorbimmo",
+                    "noi abbiamo sorbito",
+                    "noi avemmo sorbito",
+                    "noi inghiottimmo",
+                    "noi abbiamo inghiottito",
+                    "noi avemmo inghiottito",
+                    "noi succhiammo",
+                    "noi abbiamo succhiato",
+                    "noi avemmo succhiato",
+                    "noi assorbimmo",
+                    "noi abbiamo assorbito",
+                    "noi avemmo assorbito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sorbuistis",
+                "traduzioni": [
+                    "voi beveste",
+                    "voi avete bevuto",
+                    "voi aveste bevuto",
+                    "voi sorbiste",
+                    "voi avete sorbito",
+                    "voi aveste sorbito",
+                    "voi inghiottiste",
+                    "voi avete inghiottito",
+                    "voi aveste inghiottito",
+                    "voi succhiaste",
+                    "voi avete succhiato",
+                    "voi aveste succhiato",
+                    "voi assorbiste",
+                    "voi avete assorbito",
+                    "voi aveste assorbito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sorbuērunt, sorbuēre",
+                "traduzioni": [
+                    "loro bevvero",
+                    "essi bevvero",
+                    "loro hanno bevuto",
+                    "essi hanno bevuto",
+                    "loro ebbero bevuto",
+                    "essi ebbero bevuto",
+                    "loro sorbirono",
+                    "essi sorbirono",
+                    "loro hanno sorbito",
+                    "essi hanno sorbito",
+                    "loro ebbero sorbito",
+                    "essi ebbero sorbito",
+                    "loro inghiottirono",
+                    "essi inghiottirono",
+                    "loro hanno inghiottito",
+                    "essi hanno inghiottito",
+                    "loro ebbero inghiottito",
+                    "essi ebbero inghiottito",
+                    "loro succhiarono",
+                    "essi succhiarono",
+                    "loro hanno succhiato",
+                    "essi hanno succhiato",
+                    "loro ebbero succhiato",
+                    "essi ebbero succhiato",
+                    "loro assorbirono",
+                    "essi assorbirono",
+                    "loro hanno assorbito",
+                    "essi hanno assorbito",
+                    "loro ebbero assorbito",
+                    "essi ebbero assorbito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sorbuĕram",
+                "traduzioni": [
+                    "io avevo bevuto",
+                    "io avevo sorbito",
+                    "io avevo inghiottito",
+                    "io avevo succhiato",
+                    "io avevo assorbito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sorbuĕras",
+                "traduzioni": [
+                    "tu avevi bevuto",
+                    "tu avevi sorbito",
+                    "tu avevi inghiottito",
+                    "tu avevi succhiato",
+                    "tu avevi assorbito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sorbuĕrat",
+                "traduzioni": [
+                    "lui aveva bevuto",
+                    "lei aveva bevuto",
+                    "egli aveva bevuto",
+                    "lui aveva sorbito",
+                    "lei aveva sorbito",
+                    "egli aveva sorbito",
+                    "lui aveva inghiottito",
+                    "lei aveva inghiottito",
+                    "egli aveva inghiottito",
+                    "lui aveva succhiato",
+                    "lei aveva succhiato",
+                    "egli aveva succhiato",
+                    "lui aveva assorbito",
+                    "lei aveva assorbito",
+                    "egli aveva assorbito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sorbuerāmus",
+                "traduzioni": [
+                    "noi avevamo bevuto",
+                    "noi avevamo sorbito",
+                    "noi avevamo inghiottito",
+                    "noi avevamo succhiato",
+                    "noi avevamo assorbito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sorbuerātis",
+                "traduzioni": [
+                    "voi avevate bevuto",
+                    "voi avevate sorbito",
+                    "voi avevate inghiottito",
+                    "voi avevate succhiato",
+                    "voi avevate assorbito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sorbuĕrant",
+                "traduzioni": [
+                    "loro avevano bevuto",
+                    "essi avevano bevuto",
+                    "loro avevano sorbito",
+                    "essi avevano sorbito",
+                    "loro avevano inghiottito",
+                    "essi avevano inghiottito",
+                    "loro avevano succhiato",
+                    "essi avevano succhiato",
+                    "loro avevano assorbito",
+                    "essi avevano assorbito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sorbuĕro",
+                "traduzioni": [
+                    "io avrò bevuto",
+                    "io avrò sorbito",
+                    "io avrò inghiottito",
+                    "io avrò succhiato",
+                    "io avrò assorbito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sorbuĕris",
+                "traduzioni": [
+                    "tu avrai bevuto",
+                    "tu avrai sorbito",
+                    "tu avrai inghiottito",
+                    "tu avrai succhiato",
+                    "tu avrai assorbito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sorbuĕrit",
+                "traduzioni": [
+                    "lui avrà bevuto",
+                    "lei avrà bevuto",
+                    "egli avrà bevuto",
+                    "lui avrà sorbito",
+                    "lei avrà sorbito",
+                    "egli avrà sorbito",
+                    "lui avrà inghiottito",
+                    "lei avrà inghiottito",
+                    "egli avrà inghiottito",
+                    "lui avrà succhiato",
+                    "lei avrà succhiato",
+                    "egli avrà succhiato",
+                    "lui avrà assorbito",
+                    "lei avrà assorbito",
+                    "egli avrà assorbito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sorbuerĭmus",
+                "traduzioni": [
+                    "noi avremo bevuto",
+                    "noi avremo sorbito",
+                    "noi avremo inghiottito",
+                    "noi avremo succhiato",
+                    "noi avremo assorbito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sorbuerĭtis",
+                "traduzioni": [
+                    "voi avrete bevuto",
+                    "voi avrete sorbito",
+                    "voi avrete inghiottito",
+                    "voi avrete succhiato",
+                    "voi avrete assorbito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sorbuĕrint",
+                "traduzioni": [
+                    "loro avranno bevuto",
+                    "essi avranno bevuto",
+                    "loro avranno sorbito",
+                    "essi avranno sorbito",
+                    "loro avranno inghiottito",
+                    "essi avranno inghiottito",
+                    "loro avranno succhiato",
+                    "essi avranno succhiato",
+                    "loro avranno assorbito",
+                    "essi avranno assorbito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sorbĕam",
+                "traduzioni": [
+                    "che io beva",
+                    "che io sorbisca",
+                    "che io inghiott(isc)a",
+                    "che io succhi",
+                    "che io assorb(isc)a"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sorbĕas",
+                "traduzioni": [
+                    "che tu beva",
+                    "che tu sorbisca",
+                    "che tu inghiott(isc)a",
+                    "che tu succhi",
+                    "che tu assorb(isc)a"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sorbĕat",
+                "traduzioni": [
+                    "che lui beva",
+                    "che lei beva",
+                    "che egli beva",
+                    "che lui sorbisca",
+                    "che lei sorbisca",
+                    "che egli sorbisca",
+                    "che lui inghiott(isc)a",
+                    "che lei inghiott(isc)a",
+                    "che egli inghiott(isc)a",
+                    "che lui succhi",
+                    "che lei succhi",
+                    "che egli succhi",
+                    "che lui assorb(isc)a",
+                    "che lei assorb(isc)a",
+                    "che egli assorb(isc)a"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sorbeāmus",
+                "traduzioni": [
+                    "che noi beviamo",
+                    "che noi sorbiamo",
+                    "che noi inghiottiamo",
+                    "che noi succhiamo",
+                    "che noi assorbiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sorbeātis",
+                "traduzioni": [
+                    "che voi beviate",
+                    "che voi sorbiate",
+                    "che voi inghiottiate",
+                    "che voi succhiate",
+                    "che voi assorbiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sorbĕant",
+                "traduzioni": [
+                    "che loro bevano",
+                    "che essi bevano",
+                    "che loro sorbiscano",
+                    "che essi sorbiscano",
+                    "che loro inghiott(isc)ano",
+                    "che essi inghiott(isc)ano",
+                    "che loro succhino",
+                    "che essi succhino",
+                    "che loro assorb(isc)ano",
+                    "che essi assorb(isc)ano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sorbērem",
+                "traduzioni": [
+                    "che io bevessi",
+                    "che io sorbissi",
+                    "che io inghiottissi",
+                    "che io succhiassi",
+                    "che io assorbissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sorbēres",
+                "traduzioni": [
+                    "che tu bevessi",
+                    "che tu sorbissi",
+                    "che tu inghiottissi",
+                    "che tu succhiassi",
+                    "che tu assorbissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sorbēret",
+                "traduzioni": [
+                    "che lui bevesse",
+                    "che lei bevesse",
+                    "che egli bevesse",
+                    "che lui sorbisse",
+                    "che lei sorbisse",
+                    "che egli sorbisse",
+                    "che lui inghiottisse",
+                    "che lei inghiottisse",
+                    "che egli inghiottisse",
+                    "che lui succhiasse",
+                    "che lei succhiasse",
+                    "che egli succhiasse",
+                    "che lui assorbisse",
+                    "che lei assorbisse",
+                    "che egli assorbisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sorberēmus",
+                "traduzioni": [
+                    "che noi bevessimo",
+                    "che noi sorbissimo",
+                    "che noi inghiottissimo",
+                    "che noi succhiassimo",
+                    "che noi assorbissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sorberētis",
+                "traduzioni": [
+                    "che voi beveste",
+                    "che voi sorbiste",
+                    "che voi inghiottiste",
+                    "che voi succhiaste",
+                    "che voi assorbiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sorbērent",
+                "traduzioni": [
+                    "che loro bevessero",
+                    "che essi bevessero",
+                    "che loro sorbissero",
+                    "che essi sorbissero",
+                    "che loro inghiottissero",
+                    "che essi inghiottissero",
+                    "che loro succhiassero",
+                    "che essi succhiassero",
+                    "che loro assorbissero",
+                    "che essi assorbissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sorbuĕrim",
+                "traduzioni": [
+                    "che io abbia bevuto",
+                    "che io abbia sorbito",
+                    "che io abbia inghiottito",
+                    "che io abbia succhiato",
+                    "che io abbia assorbito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sorbuĕris",
+                "traduzioni": [
+                    "che tu abbia bevuto",
+                    "che tu abbia sorbito",
+                    "che tu abbia inghiottito",
+                    "che tu abbia succhiato",
+                    "che tu abbia assorbito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sorbuĕrit",
+                "traduzioni": [
+                    "che lui abbia bevuto",
+                    "che lei abbia bevuto",
+                    "che egli abbia bevuto",
+                    "che lui abbia sorbito",
+                    "che lei abbia sorbito",
+                    "che egli abbia sorbito",
+                    "che lui abbia inghiottito",
+                    "che lei abbia inghiottito",
+                    "che egli abbia inghiottito",
+                    "che lui abbia succhiato",
+                    "che lei abbia succhiato",
+                    "che egli abbia succhiato",
+                    "che lui abbia assorbito",
+                    "che lei abbia assorbito",
+                    "che egli abbia assorbito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sorbuerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo bevuto",
+                    "che noi abbiamo sorbito",
+                    "che noi abbiamo inghiottito",
+                    "che noi abbiamo succhiato",
+                    "che noi abbiamo assorbito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sorbuerĭtis",
+                "traduzioni": [
+                    "che voi abbiate bevuto",
+                    "che voi abbiate sorbito",
+                    "che voi abbiate inghiottito",
+                    "che voi abbiate succhiato",
+                    "che voi abbiate assorbito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sorbuĕrint",
+                "traduzioni": [
+                    "che loro abbiano bevuto",
+                    "che essi abbiano bevuto",
+                    "che loro abbiano sorbito",
+                    "che essi abbiano sorbito",
+                    "che loro abbiano inghiottito",
+                    "che essi abbiano inghiottito",
+                    "che loro abbiano succhiato",
+                    "che essi abbiano succhiato",
+                    "che loro abbiano assorbito",
+                    "che essi abbiano assorbito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sorbuissem",
+                "traduzioni": [
+                    "che io avessi bevuto",
+                    "che io avessi sorbito",
+                    "che io avessi inghiottito",
+                    "che io avessi succhiato",
+                    "che io avessi assorbito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sorbuisses",
+                "traduzioni": [
+                    "che tu avessi bevuto",
+                    "che tu avessi sorbito",
+                    "che tu avessi inghiottito",
+                    "che tu avessi succhiato",
+                    "che tu avessi assorbito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sorbuisset",
+                "traduzioni": [
+                    "che lui avesse bevuto",
+                    "che lei avesse bevuto",
+                    "che egli avesse bevuto",
+                    "che lui avesse sorbito",
+                    "che lei avesse sorbito",
+                    "che egli avesse sorbito",
+                    "che lui avesse inghiottito",
+                    "che lei avesse inghiottito",
+                    "che egli avesse inghiottito",
+                    "che lui avesse succhiato",
+                    "che lei avesse succhiato",
+                    "che egli avesse succhiato",
+                    "che lui avesse assorbito",
+                    "che lei avesse assorbito",
+                    "che egli avesse assorbito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sorbuissēmus",
+                "traduzioni": [
+                    "che noi avessimo bevuto",
+                    "che noi avessimo sorbito",
+                    "che noi avessimo inghiottito",
+                    "che noi avessimo succhiato",
+                    "che noi avessimo assorbito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sorbuissētis",
+                "traduzioni": [
+                    "che voi aveste bevuto",
+                    "che voi aveste sorbito",
+                    "che voi aveste inghiottito",
+                    "che voi aveste succhiato",
+                    "che voi aveste assorbito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sorbuissent",
+                "traduzioni": [
+                    "che loro avessero bevuto",
+                    "che essi avessero bevuto",
+                    "che loro avessero sorbito",
+                    "che essi avessero sorbito",
+                    "che loro avessero inghiottito",
+                    "che essi avessero inghiottito",
+                    "che loro avessero succhiato",
+                    "che essi avessero succhiato",
+                    "che loro avessero assorbito",
+                    "che essi avessero assorbito"
+                ]
+            }
+        ]
+    }
+}

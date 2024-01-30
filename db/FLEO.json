@@ -1,0 +1,1035 @@
+{
+    "identifier": "FLEO",
+    "conuigazione": "2",
+    "translation": [
+        "(intransitivo) piangere",
+        "(intransitivo) stillare",
+        "grondare",
+        "gocciolare",
+        "trasudare",
+        "(transitivo) rimpiangere",
+        "deplorare",
+        "compiangere"
+    ],
+    "valid_translations": [
+        "grondare",
+        "gocciolare",
+        "trasudare",
+        "deplorare",
+        "compiangere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "flĕo",
+                "traduzioni": [
+                    "io grondo",
+                    "io gocciolo",
+                    "io trasudo",
+                    "io deploro",
+                    "io compiango"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fles",
+                "traduzioni": [
+                    "tu grondi",
+                    "tu goccioli",
+                    "tu trasudi",
+                    "tu deplori",
+                    "tu compiangi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "flet",
+                "traduzioni": [
+                    "lui gronda",
+                    "lei gronda",
+                    "egli gronda",
+                    "lui gocciola",
+                    "lei gocciola",
+                    "egli gocciola",
+                    "lui trasuda",
+                    "lei trasuda",
+                    "egli trasuda",
+                    "lui deplora",
+                    "lei deplora",
+                    "egli deplora",
+                    "lui compiange",
+                    "lei compiange",
+                    "egli compiange"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "flēmus",
+                "traduzioni": [
+                    "noi grondiamo",
+                    "noi goccioliamo",
+                    "noi trasudiamo",
+                    "noi deploriamo",
+                    "noi compiangiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "flētis",
+                "traduzioni": [
+                    "voi grondate",
+                    "voi gocciolate",
+                    "voi trasudate",
+                    "voi deplorate",
+                    "voi compiangete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "flent",
+                "traduzioni": [
+                    "loro grondano",
+                    "essi grondano",
+                    "loro gocciolano",
+                    "essi gocciolano",
+                    "loro trasudano",
+                    "essi trasudano",
+                    "loro deplorano",
+                    "essi deplorano",
+                    "loro compiangono",
+                    "essi compiangono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "flēbam",
+                "traduzioni": [
+                    "io grondavo",
+                    "io gocciolavo",
+                    "io trasudavo",
+                    "io deploravo",
+                    "io compiangevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "flēbas",
+                "traduzioni": [
+                    "tu grondavi",
+                    "tu gocciolavi",
+                    "tu trasudavi",
+                    "tu deploravi",
+                    "tu compiangevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "flēbat",
+                "traduzioni": [
+                    "lui grondava",
+                    "lei grondava",
+                    "egli grondava",
+                    "lui gocciolava",
+                    "lei gocciolava",
+                    "egli gocciolava",
+                    "lui trasudava",
+                    "lei trasudava",
+                    "egli trasudava",
+                    "lui deplorava",
+                    "lei deplorava",
+                    "egli deplorava",
+                    "lui compiangeva",
+                    "lei compiangeva",
+                    "egli compiangeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "flebāmus",
+                "traduzioni": [
+                    "noi grondavamo",
+                    "noi gocciolavamo",
+                    "noi trasudavamo",
+                    "noi deploravamo",
+                    "noi compiangevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "flebātis",
+                "traduzioni": [
+                    "voi grondavate",
+                    "voi gocciolavate",
+                    "voi trasudavate",
+                    "voi deploravate",
+                    "voi compiangevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "flēbant",
+                "traduzioni": [
+                    "loro grondavano",
+                    "essi grondavano",
+                    "loro gocciolavano",
+                    "essi gocciolavano",
+                    "loro trasudavano",
+                    "essi trasudavano",
+                    "loro deploravano",
+                    "essi deploravano",
+                    "loro compiangevano",
+                    "essi compiangevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "flēbo",
+                "traduzioni": [
+                    "io gronderò",
+                    "io gocciolerò",
+                    "io trasuderò",
+                    "io deplorerò",
+                    "io compiangerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "flēbis",
+                "traduzioni": [
+                    "tu gronderai",
+                    "tu gocciolerai",
+                    "tu trasuderai",
+                    "tu deplorerai",
+                    "tu compiangerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "flēbit",
+                "traduzioni": [
+                    "lui gronderà",
+                    "lei gronderà",
+                    "egli gronderà",
+                    "lui gocciolerà",
+                    "lei gocciolerà",
+                    "egli gocciolerà",
+                    "lui trasuderà",
+                    "lei trasuderà",
+                    "egli trasuderà",
+                    "lui deplorerà",
+                    "lei deplorerà",
+                    "egli deplorerà",
+                    "lui compiangerà",
+                    "lei compiangerà",
+                    "egli compiangerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "flebĭmus",
+                "traduzioni": [
+                    "noi gronderemo",
+                    "noi goccioleremo",
+                    "noi trasuderemo",
+                    "noi deploreremo",
+                    "noi compiangeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "flebĭtis",
+                "traduzioni": [
+                    "voi gronderete",
+                    "voi gocciolerete",
+                    "voi trasuderete",
+                    "voi deplorerete",
+                    "voi compiangerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "flēbunt",
+                "traduzioni": [
+                    "loro gronderanno",
+                    "essi gronderanno",
+                    "loro goccioleranno",
+                    "essi goccioleranno",
+                    "loro trasuderanno",
+                    "essi trasuderanno",
+                    "loro deploreranno",
+                    "essi deploreranno",
+                    "loro compiangeranno",
+                    "essi compiangeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "flevi",
+                "traduzioni": [
+                    "io grondai",
+                    "io sono grondato",
+                    "io sono grondata",
+                    "io fui grondato",
+                    "io fui grondata",
+                    "io gocciolai",
+                    "io sono gocciolato",
+                    "io sono gocciolata",
+                    "io fui gocciolato",
+                    "io fui gocciolata",
+                    "io trasudai",
+                    "io sono trasudato",
+                    "io sono trasudata",
+                    "io fui trasudato",
+                    "io fui trasudata",
+                    "io deplorai",
+                    "io ho deplorato",
+                    "io ebbi deplorato",
+                    "io compiansi",
+                    "io ho compianto",
+                    "io ebbi compianto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "flevisti",
+                "traduzioni": [
+                    "tu grondasti",
+                    "tu sei grondato",
+                    "tu sei grondata",
+                    "tu fosti grondato",
+                    "tu fosti grondata",
+                    "tu gocciolasti",
+                    "tu sei gocciolato",
+                    "tu sei gocciolata",
+                    "tu fosti gocciolato",
+                    "tu fosti gocciolata",
+                    "tu trasudasti",
+                    "tu sei trasudato",
+                    "tu sei trasudata",
+                    "tu fosti trasudato",
+                    "tu fosti trasudata",
+                    "tu deplorasti",
+                    "tu hai deplorato",
+                    "tu avesti deplorato",
+                    "tu compiangesti",
+                    "tu hai compianto",
+                    "tu avesti compianto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "flevit",
+                "traduzioni": [
+                    "lui grondò",
+                    "lei grondò",
+                    "egli grondò",
+                    "lui è grondato",
+                    "lei è grondata",
+                    "egli è grondato",
+                    "lui fu grondato",
+                    "lei fu grondata",
+                    "egli fu grondato",
+                    "lui gocciolò",
+                    "lei gocciolò",
+                    "egli gocciolò",
+                    "lui è gocciolato",
+                    "lei è gocciolata",
+                    "egli è gocciolato",
+                    "lui fu gocciolato",
+                    "lei fu gocciolata",
+                    "egli fu gocciolato",
+                    "lui trasudò",
+                    "lei trasudò",
+                    "egli trasudò",
+                    "lui è trasudato",
+                    "lei è trasudata",
+                    "egli è trasudato",
+                    "lui fu trasudato",
+                    "lei fu trasudata",
+                    "egli fu trasudato",
+                    "lui deplorò",
+                    "lei deplorò",
+                    "egli deplorò",
+                    "lui ha deplorato",
+                    "lei ha deplorato",
+                    "egli ha deplorato",
+                    "lui ebbe deplorato",
+                    "lei ebbe deplorato",
+                    "egli ebbe deplorato",
+                    "lui compianse",
+                    "lei compianse",
+                    "egli compianse",
+                    "lui ha compianto",
+                    "lei ha compianto",
+                    "egli ha compianto",
+                    "lui ebbe compianto",
+                    "lei ebbe compianto",
+                    "egli ebbe compianto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "flevĭmus",
+                "traduzioni": [
+                    "noi grondammo",
+                    "noi siamo grondati",
+                    "noi siamo grondate",
+                    "noi fummo grondati",
+                    "noi fummo grondate",
+                    "noi gocciolammo",
+                    "noi siamo gocciolati",
+                    "noi siamo gocciolate",
+                    "noi fummo gocciolati",
+                    "noi fummo gocciolate",
+                    "noi trasudammo",
+                    "noi siamo trasudati",
+                    "noi siamo trasudate",
+                    "noi fummo trasudati",
+                    "noi fummo trasudate",
+                    "noi deplorammo",
+                    "noi abbiamo deplorato",
+                    "noi avemmo deplorato",
+                    "noi compiangemmo",
+                    "noi abbiamo compianto",
+                    "noi avemmo compianto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "flevistis",
+                "traduzioni": [
+                    "voi grondaste",
+                    "voi siete grondati",
+                    "voi siete grondate",
+                    "voi foste grondati",
+                    "voi foste grondate",
+                    "voi gocciolaste",
+                    "voi siete gocciolati",
+                    "voi siete gocciolate",
+                    "voi foste gocciolati",
+                    "voi foste gocciolate",
+                    "voi trasudaste",
+                    "voi siete trasudati",
+                    "voi siete trasudate",
+                    "voi foste trasudati",
+                    "voi foste trasudate",
+                    "voi deploraste",
+                    "voi avete deplorato",
+                    "voi aveste deplorato",
+                    "voi compiangeste",
+                    "voi avete compianto",
+                    "voi aveste compianto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "flevērunt, flevēre, flērunt, flēre",
+                "traduzioni": [
+                    "loro grondarono",
+                    "essi grondarono",
+                    "loro sono grondati",
+                    "loro sono grondate",
+                    "essi sono grondati",
+                    "loro furono grondati",
+                    "loro furono grondate",
+                    "essi furono grondati",
+                    "loro gocciolarono",
+                    "essi gocciolarono",
+                    "loro sono gocciolati",
+                    "loro sono gocciolate",
+                    "essi sono gocciolati",
+                    "loro furono gocciolati",
+                    "loro furono gocciolate",
+                    "essi furono gocciolati",
+                    "loro trasudarono",
+                    "essi trasudarono",
+                    "loro sono trasudati",
+                    "loro sono trasudate",
+                    "essi sono trasudati",
+                    "loro furono trasudati",
+                    "loro furono trasudate",
+                    "essi furono trasudati",
+                    "loro deplorarono",
+                    "essi deplorarono",
+                    "loro hanno deplorato",
+                    "essi hanno deplorato",
+                    "loro ebbero deplorato",
+                    "essi ebbero deplorato",
+                    "loro compiansero",
+                    "essi compiansero",
+                    "loro hanno compianto",
+                    "essi hanno compianto",
+                    "loro ebbero compianto",
+                    "essi ebbero compianto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "flevĕram",
+                "traduzioni": [
+                    "io ero grondato",
+                    "io ero grondata",
+                    "io ero gocciolato",
+                    "io ero gocciolata",
+                    "io ero trasudato",
+                    "io ero trasudata",
+                    "io avevo deplorato",
+                    "io avevo compianto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "flevĕras",
+                "traduzioni": [
+                    "tu eri grondato",
+                    "tu eri grondata",
+                    "tu eri gocciolato",
+                    "tu eri gocciolata",
+                    "tu eri trasudato",
+                    "tu eri trasudata",
+                    "tu avevi deplorato",
+                    "tu avevi compianto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "flevĕrat",
+                "traduzioni": [
+                    "lui era grondato",
+                    "lei era grondata",
+                    "egli era grondato",
+                    "lui era gocciolato",
+                    "lei era gocciolata",
+                    "egli era gocciolato",
+                    "lui era trasudato",
+                    "lei era trasudata",
+                    "egli era trasudato",
+                    "lui aveva deplorato",
+                    "lei aveva deplorato",
+                    "egli aveva deplorato",
+                    "lui aveva compianto",
+                    "lei aveva compianto",
+                    "egli aveva compianto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fleverāmus",
+                "traduzioni": [
+                    "noi eravamo grondati",
+                    "noi eravamo grondate",
+                    "noi eravamo gocciolati",
+                    "noi eravamo gocciolate",
+                    "noi eravamo trasudati",
+                    "noi eravamo trasudate",
+                    "noi avevamo deplorato",
+                    "noi avevamo compianto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fleverātis",
+                "traduzioni": [
+                    "voi eravate grondati",
+                    "voi eravate grondate",
+                    "voi eravate gocciolati",
+                    "voi eravate gocciolate",
+                    "voi eravate trasudati",
+                    "voi eravate trasudate",
+                    "voi avevate deplorato",
+                    "voi avevate compianto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "flevĕrant",
+                "traduzioni": [
+                    "loro erano grondati",
+                    "loro erano grondate",
+                    "essi erano grondati",
+                    "loro erano gocciolati",
+                    "loro erano gocciolate",
+                    "essi erano gocciolati",
+                    "loro erano trasudati",
+                    "loro erano trasudate",
+                    "essi erano trasudati",
+                    "loro avevano deplorato",
+                    "essi avevano deplorato",
+                    "loro avevano compianto",
+                    "essi avevano compianto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "flevĕro",
+                "traduzioni": [
+                    "io sarò grondato",
+                    "io sarò grondata",
+                    "io sarò gocciolato",
+                    "io sarò gocciolata",
+                    "io sarò trasudato",
+                    "io sarò trasudata",
+                    "io avrò deplorato",
+                    "io avrò compianto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "flevĕris",
+                "traduzioni": [
+                    "tu sarai grondato",
+                    "tu sarai grondata",
+                    "tu sarai gocciolato",
+                    "tu sarai gocciolata",
+                    "tu sarai trasudato",
+                    "tu sarai trasudata",
+                    "tu avrai deplorato",
+                    "tu avrai compianto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "flevĕrit",
+                "traduzioni": [
+                    "lui sarà grondato",
+                    "lei sarà grondata",
+                    "egli sarà grondato",
+                    "lui sarà gocciolato",
+                    "lei sarà gocciolata",
+                    "egli sarà gocciolato",
+                    "lui sarà trasudato",
+                    "lei sarà trasudata",
+                    "egli sarà trasudato",
+                    "lui avrà deplorato",
+                    "lei avrà deplorato",
+                    "egli avrà deplorato",
+                    "lui avrà compianto",
+                    "lei avrà compianto",
+                    "egli avrà compianto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fleverĭmus",
+                "traduzioni": [
+                    "noi saremo grondati",
+                    "noi saremo grondate",
+                    "noi saremo gocciolati",
+                    "noi saremo gocciolate",
+                    "noi saremo trasudati",
+                    "noi saremo trasudate",
+                    "noi avremo deplorato",
+                    "noi avremo compianto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fleverĭtis",
+                "traduzioni": [
+                    "voi sarete grondati",
+                    "voi sarete grondate",
+                    "voi sarete gocciolati",
+                    "voi sarete gocciolate",
+                    "voi sarete trasudati",
+                    "voi sarete trasudate",
+                    "voi avrete deplorato",
+                    "voi avrete compianto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "flevĕrint",
+                "traduzioni": [
+                    "loro saranno grondati",
+                    "loro saranno grondate",
+                    "essi saranno grondati",
+                    "loro saranno gocciolati",
+                    "loro saranno gocciolate",
+                    "essi saranno gocciolati",
+                    "loro saranno trasudati",
+                    "loro saranno trasudate",
+                    "essi saranno trasudati",
+                    "loro avranno deplorato",
+                    "essi avranno deplorato",
+                    "loro avranno compianto",
+                    "essi avranno compianto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "flĕam",
+                "traduzioni": [
+                    "che io grondi",
+                    "che io goccioli",
+                    "che io trasudi",
+                    "che io deplori",
+                    "che io compianga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "flĕas",
+                "traduzioni": [
+                    "che tu grondi",
+                    "che tu goccioli",
+                    "che tu trasudi",
+                    "che tu deplori",
+                    "che tu compianga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "flĕat",
+                "traduzioni": [
+                    "che lui grondi",
+                    "che lei grondi",
+                    "che egli grondi",
+                    "che lui goccioli",
+                    "che lei goccioli",
+                    "che egli goccioli",
+                    "che lui trasudi",
+                    "che lei trasudi",
+                    "che egli trasudi",
+                    "che lui deplori",
+                    "che lei deplori",
+                    "che egli deplori",
+                    "che lui compianga",
+                    "che lei compianga",
+                    "che egli compianga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fleāmus",
+                "traduzioni": [
+                    "che noi grondiamo",
+                    "che noi goccioliamo",
+                    "che noi trasudiamo",
+                    "che noi deploriamo",
+                    "che noi compiangiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fleātis",
+                "traduzioni": [
+                    "che voi grondiate",
+                    "che voi goccioliate",
+                    "che voi trasudiate",
+                    "che voi deploriate",
+                    "che voi compiangiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "flĕant",
+                "traduzioni": [
+                    "che loro grondino",
+                    "che essi grondino",
+                    "che loro gocciolino",
+                    "che essi gocciolino",
+                    "che loro trasudino",
+                    "che essi trasudino",
+                    "che loro deplorino",
+                    "che essi deplorino",
+                    "che loro compiangano",
+                    "che essi compiangano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "flērem",
+                "traduzioni": [
+                    "che io grondassi",
+                    "che io gocciolassi",
+                    "che io trasudassi",
+                    "che io deplorassi",
+                    "che io compiangessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "flēres",
+                "traduzioni": [
+                    "che tu grondassi",
+                    "che tu gocciolassi",
+                    "che tu trasudassi",
+                    "che tu deplorassi",
+                    "che tu compiangessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "flēret",
+                "traduzioni": [
+                    "che lui grondasse",
+                    "che lei grondasse",
+                    "che egli grondasse",
+                    "che lui gocciolasse",
+                    "che lei gocciolasse",
+                    "che egli gocciolasse",
+                    "che lui trasudasse",
+                    "che lei trasudasse",
+                    "che egli trasudasse",
+                    "che lui deplorasse",
+                    "che lei deplorasse",
+                    "che egli deplorasse",
+                    "che lui compiangesse",
+                    "che lei compiangesse",
+                    "che egli compiangesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "flerēmus",
+                "traduzioni": [
+                    "che noi grondassimo",
+                    "che noi gocciolassimo",
+                    "che noi trasudassimo",
+                    "che noi deplorassimo",
+                    "che noi compiangessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "flerētis",
+                "traduzioni": [
+                    "che voi grondaste",
+                    "che voi gocciolaste",
+                    "che voi trasudaste",
+                    "che voi deploraste",
+                    "che voi compiangeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "flērent",
+                "traduzioni": [
+                    "che loro grondassero",
+                    "che essi grondassero",
+                    "che loro gocciolassero",
+                    "che essi gocciolassero",
+                    "che loro trasudassero",
+                    "che essi trasudassero",
+                    "che loro deplorassero",
+                    "che essi deplorassero",
+                    "che loro compiangessero",
+                    "che essi compiangessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "flevĕrim",
+                "traduzioni": [
+                    "che io sia grondato",
+                    "che io sia grondata",
+                    "che io sia gocciolato",
+                    "che io sia gocciolata",
+                    "che io sia trasudato",
+                    "che io sia trasudata",
+                    "che io abbia deplorato",
+                    "che io abbia compianto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "flevĕris",
+                "traduzioni": [
+                    "che tu sia grondato",
+                    "che tu sia grondata",
+                    "che tu sia gocciolato",
+                    "che tu sia gocciolata",
+                    "che tu sia trasudato",
+                    "che tu sia trasudata",
+                    "che tu abbia deplorato",
+                    "che tu abbia compianto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "flevĕrit",
+                "traduzioni": [
+                    "che lui sia grondato",
+                    "che lei sia grondata",
+                    "che egli sia grondato",
+                    "che lui sia gocciolato",
+                    "che lei sia gocciolata",
+                    "che egli sia gocciolato",
+                    "che lui sia trasudato",
+                    "che lei sia trasudata",
+                    "che egli sia trasudato",
+                    "che lui abbia deplorato",
+                    "che lei abbia deplorato",
+                    "che egli abbia deplorato",
+                    "che lui abbia compianto",
+                    "che lei abbia compianto",
+                    "che egli abbia compianto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fleverĭmus",
+                "traduzioni": [
+                    "che noi siamo grondati",
+                    "che noi siamo grondate",
+                    "che noi siamo gocciolati",
+                    "che noi siamo gocciolate",
+                    "che noi siamo trasudati",
+                    "che noi siamo trasudate",
+                    "che noi abbiamo deplorato",
+                    "che noi abbiamo compianto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fleverĭtis",
+                "traduzioni": [
+                    "che voi siate grondati",
+                    "che voi siate grondate",
+                    "che voi siate gocciolati",
+                    "che voi siate gocciolate",
+                    "che voi siate trasudati",
+                    "che voi siate trasudate",
+                    "che voi abbiate deplorato",
+                    "che voi abbiate compianto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "flevĕrint",
+                "traduzioni": [
+                    "che loro siano grondati",
+                    "che loro siano grondate",
+                    "che essi siano grondati",
+                    "che loro siano gocciolati",
+                    "che loro siano gocciolate",
+                    "che essi siano gocciolati",
+                    "che loro siano trasudati",
+                    "che loro siano trasudate",
+                    "che essi siano trasudati",
+                    "che loro abbiano deplorato",
+                    "che essi abbiano deplorato",
+                    "che loro abbiano compianto",
+                    "che essi abbiano compianto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "flevissem",
+                "traduzioni": [
+                    "che io fossi grondato",
+                    "che io fossi grondata",
+                    "che io fossi gocciolato",
+                    "che io fossi gocciolata",
+                    "che io fossi trasudato",
+                    "che io fossi trasudata",
+                    "che io avessi deplorato",
+                    "che io avessi compianto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "flevisses",
+                "traduzioni": [
+                    "che tu fossi grondato",
+                    "che tu fossi grondata",
+                    "che tu fossi gocciolato",
+                    "che tu fossi gocciolata",
+                    "che tu fossi trasudato",
+                    "che tu fossi trasudata",
+                    "che tu avessi deplorato",
+                    "che tu avessi compianto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "flevisset",
+                "traduzioni": [
+                    "che lui fosse grondato",
+                    "che lei fosse grondata",
+                    "che egli fosse grondato",
+                    "che lui fosse gocciolato",
+                    "che lei fosse gocciolata",
+                    "che egli fosse gocciolato",
+                    "che lui fosse trasudato",
+                    "che lei fosse trasudata",
+                    "che egli fosse trasudato",
+                    "che lui avesse deplorato",
+                    "che lei avesse deplorato",
+                    "che egli avesse deplorato",
+                    "che lui avesse compianto",
+                    "che lei avesse compianto",
+                    "che egli avesse compianto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "flevissēmus",
+                "traduzioni": [
+                    "che noi fossimo grondati",
+                    "che noi fossimo grondate",
+                    "che noi fossimo gocciolati",
+                    "che noi fossimo gocciolate",
+                    "che noi fossimo trasudati",
+                    "che noi fossimo trasudate",
+                    "che noi avessimo deplorato",
+                    "che noi avessimo compianto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "flevissētis",
+                "traduzioni": [
+                    "che voi foste grondati",
+                    "che voi foste grondate",
+                    "che voi foste gocciolati",
+                    "che voi foste gocciolate",
+                    "che voi foste trasudati",
+                    "che voi foste trasudate",
+                    "che voi aveste deplorato",
+                    "che voi aveste compianto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "flevissent",
+                "traduzioni": [
+                    "che loro fossero grondati",
+                    "che loro fossero grondate",
+                    "che essi fossero grondati",
+                    "che loro fossero gocciolati",
+                    "che loro fossero gocciolate",
+                    "che essi fossero gocciolati",
+                    "che loro fossero trasudati",
+                    "che loro fossero trasudate",
+                    "che essi fossero trasudati",
+                    "che loro avessero deplorato",
+                    "che essi avessero deplorato",
+                    "che loro avessero compianto",
+                    "che essi avessero compianto"
+                ]
+            }
+        ]
+    }
+}

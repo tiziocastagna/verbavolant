@@ -1,0 +1,723 @@
+{
+    "identifier": "INCESSO",
+    "conuigazione": "3",
+    "translation": [
+        "assalire",
+        "(in senso figurato) investire",
+        "accusare",
+        "rimproverare"
+    ],
+    "valid_translations": [
+        "assalire",
+        "accusare",
+        "rimproverare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incesso",
+                "traduzioni": [
+                    "io assalgo",
+                    "io accuso",
+                    "io rimprovero"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incessis",
+                "traduzioni": [
+                    "tu assali",
+                    "tu accusi",
+                    "tu rimproveri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incessit",
+                "traduzioni": [
+                    "lui assale",
+                    "lei assale",
+                    "egli assale",
+                    "lui accusa",
+                    "lei accusa",
+                    "egli accusa",
+                    "lui rimprovera",
+                    "lei rimprovera",
+                    "egli rimprovera"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incessĭmus",
+                "traduzioni": [
+                    "noi assaliamo",
+                    "noi accusiamo",
+                    "noi rimproveriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incessĭtis",
+                "traduzioni": [
+                    "voi assalite",
+                    "voi accusate",
+                    "voi rimproverate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incessunt",
+                "traduzioni": [
+                    "loro assalgono",
+                    "essi assalgono",
+                    "loro accusano",
+                    "essi accusano",
+                    "loro rimproverano",
+                    "essi rimproverano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incessēbam",
+                "traduzioni": [
+                    "io assalivo",
+                    "io accusavo",
+                    "io rimproveravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incessēbas",
+                "traduzioni": [
+                    "tu assalivi",
+                    "tu accusavi",
+                    "tu rimproveravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incessēbat",
+                "traduzioni": [
+                    "lui assaliva",
+                    "lei assaliva",
+                    "egli assaliva",
+                    "lui accusava",
+                    "lei accusava",
+                    "egli accusava",
+                    "lui rimproverava",
+                    "lei rimproverava",
+                    "egli rimproverava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incessebāmus",
+                "traduzioni": [
+                    "noi assalivamo",
+                    "noi accusavamo",
+                    "noi rimproveravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incessebātis",
+                "traduzioni": [
+                    "voi assalivate",
+                    "voi accusavate",
+                    "voi rimproveravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incessēbant",
+                "traduzioni": [
+                    "loro assalivano",
+                    "essi assalivano",
+                    "loro accusavano",
+                    "essi accusavano",
+                    "loro rimproveravano",
+                    "essi rimproveravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incessam",
+                "traduzioni": [
+                    "io assalirò",
+                    "io accuserò",
+                    "io rimprovererò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incesses",
+                "traduzioni": [
+                    "tu assalirai",
+                    "tu accuserai",
+                    "tu rimprovererai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incesset",
+                "traduzioni": [
+                    "lui assalirà",
+                    "lei assalirà",
+                    "egli assalirà",
+                    "lui accuserà",
+                    "lei accuserà",
+                    "egli accuserà",
+                    "lui rimprovererà",
+                    "lei rimprovererà",
+                    "egli rimprovererà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incessēmus",
+                "traduzioni": [
+                    "noi assaliremo",
+                    "noi accuseremo",
+                    "noi rimprovereremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incessētis",
+                "traduzioni": [
+                    "voi assalirete",
+                    "voi accuserete",
+                    "voi rimprovererete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incessent",
+                "traduzioni": [
+                    "loro assaliranno",
+                    "essi assaliranno",
+                    "loro accuseranno",
+                    "essi accuseranno",
+                    "loro rimprovereranno",
+                    "essi rimprovereranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incessivi o incessi, incessui",
+                "traduzioni": [
+                    "io assalii",
+                    "io ho assalito",
+                    "io ebbi assalito",
+                    "io accusai",
+                    "io ho accusato",
+                    "io ebbi accusato",
+                    "io rimproverai",
+                    "io ho rimproverato",
+                    "io ebbi rimproverato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incessivisti o incessisti",
+                "traduzioni": [
+                    "tu assalisti",
+                    "tu hai assalito",
+                    "tu avesti assalito",
+                    "tu accusasti",
+                    "tu hai accusato",
+                    "tu avesti accusato",
+                    "tu rimproverasti",
+                    "tu hai rimproverato",
+                    "tu avesti rimproverato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incessivit o incessit",
+                "traduzioni": [
+                    "lui assalì",
+                    "lei assalì",
+                    "egli assalì",
+                    "lui ha assalito",
+                    "lei ha assalito",
+                    "egli ha assalito",
+                    "lui ebbe assalito",
+                    "lei ebbe assalito",
+                    "egli ebbe assalito",
+                    "lui accusò",
+                    "lei accusò",
+                    "egli accusò",
+                    "lui ha accusato",
+                    "lei ha accusato",
+                    "egli ha accusato",
+                    "lui ebbe accusato",
+                    "lei ebbe accusato",
+                    "egli ebbe accusato",
+                    "lui rimproverò",
+                    "lei rimproverò",
+                    "egli rimproverò",
+                    "lui ha rimproverato",
+                    "lei ha rimproverato",
+                    "egli ha rimproverato",
+                    "lui ebbe rimproverato",
+                    "lei ebbe rimproverato",
+                    "egli ebbe rimproverato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incessivĭmus o incessĭmus",
+                "traduzioni": [
+                    "noi assalimmo",
+                    "noi abbiamo assalito",
+                    "noi avemmo assalito",
+                    "noi accusammo",
+                    "noi abbiamo accusato",
+                    "noi avemmo accusato",
+                    "noi rimproverammo",
+                    "noi abbiamo rimproverato",
+                    "noi avemmo rimproverato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incessivistis o incessistis",
+                "traduzioni": [
+                    "voi assaliste",
+                    "voi avete assalito",
+                    "voi aveste assalito",
+                    "voi accusaste",
+                    "voi avete accusato",
+                    "voi aveste accusato",
+                    "voi rimproveraste",
+                    "voi avete rimproverato",
+                    "voi aveste rimproverato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incessivērunt o incessērunt, ēre",
+                "traduzioni": [
+                    "loro assalirono",
+                    "essi assalirono",
+                    "loro hanno assalito",
+                    "essi hanno assalito",
+                    "loro ebbero assalito",
+                    "essi ebbero assalito",
+                    "loro accusarono",
+                    "essi accusarono",
+                    "loro hanno accusato",
+                    "essi hanno accusato",
+                    "loro ebbero accusato",
+                    "essi ebbero accusato",
+                    "loro rimproverarono",
+                    "essi rimproverarono",
+                    "loro hanno rimproverato",
+                    "essi hanno rimproverato",
+                    "loro ebbero rimproverato",
+                    "essi ebbero rimproverato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incessivĕram o incessĕram",
+                "traduzioni": [
+                    "io avevo assalito",
+                    "io avevo accusato",
+                    "io avevo rimproverato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incessivĕras o incessĕras",
+                "traduzioni": [
+                    "tu avevi assalito",
+                    "tu avevi accusato",
+                    "tu avevi rimproverato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incessivĕrat o incessĕrat",
+                "traduzioni": [
+                    "lui aveva assalito",
+                    "lei aveva assalito",
+                    "egli aveva assalito",
+                    "lui aveva accusato",
+                    "lei aveva accusato",
+                    "egli aveva accusato",
+                    "lui aveva rimproverato",
+                    "lei aveva rimproverato",
+                    "egli aveva rimproverato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incessiverāmus o incesserāmus",
+                "traduzioni": [
+                    "noi avevamo assalito",
+                    "noi avevamo accusato",
+                    "noi avevamo rimproverato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incessiverātis o incesserātis",
+                "traduzioni": [
+                    "voi avevate assalito",
+                    "voi avevate accusato",
+                    "voi avevate rimproverato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incessivĕrant o incessĕrant",
+                "traduzioni": [
+                    "loro avevano assalito",
+                    "essi avevano assalito",
+                    "loro avevano accusato",
+                    "essi avevano accusato",
+                    "loro avevano rimproverato",
+                    "essi avevano rimproverato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incessivĕro o incessĕro",
+                "traduzioni": [
+                    "io avrò assalito",
+                    "io avrò accusato",
+                    "io avrò rimproverato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incessivĕris o incessĕris",
+                "traduzioni": [
+                    "tu avrai assalito",
+                    "tu avrai accusato",
+                    "tu avrai rimproverato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incessivĕrit o incessĕrit",
+                "traduzioni": [
+                    "lui avrà assalito",
+                    "lei avrà assalito",
+                    "egli avrà assalito",
+                    "lui avrà accusato",
+                    "lei avrà accusato",
+                    "egli avrà accusato",
+                    "lui avrà rimproverato",
+                    "lei avrà rimproverato",
+                    "egli avrà rimproverato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incessiverĭmus o incesserĭmus",
+                "traduzioni": [
+                    "noi avremo assalito",
+                    "noi avremo accusato",
+                    "noi avremo rimproverato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incessiverĭtis o incesserĭtis",
+                "traduzioni": [
+                    "voi avrete assalito",
+                    "voi avrete accusato",
+                    "voi avrete rimproverato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incessivĕrint o incessĕrint",
+                "traduzioni": [
+                    "loro avranno assalito",
+                    "essi avranno assalito",
+                    "loro avranno accusato",
+                    "essi avranno accusato",
+                    "loro avranno rimproverato",
+                    "essi avranno rimproverato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incessam",
+                "traduzioni": [
+                    "che io assalga",
+                    "che io accusi",
+                    "che io rimproveri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incessas",
+                "traduzioni": [
+                    "che tu assalga",
+                    "che tu accusi",
+                    "che tu rimproveri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incessat",
+                "traduzioni": [
+                    "che lui assalga",
+                    "che lei assalga",
+                    "che egli assalga",
+                    "che lui accusi",
+                    "che lei accusi",
+                    "che egli accusi",
+                    "che lui rimproveri",
+                    "che lei rimproveri",
+                    "che egli rimproveri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incessāmus",
+                "traduzioni": [
+                    "che noi assaliamo",
+                    "che noi accusiamo",
+                    "che noi rimproveriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incessātis",
+                "traduzioni": [
+                    "che voi assaliate",
+                    "che voi accusiate",
+                    "che voi rimproveriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incessant",
+                "traduzioni": [
+                    "che loro assalgano",
+                    "che essi assalgano",
+                    "che loro accusino",
+                    "che essi accusino",
+                    "che loro rimproverino",
+                    "che essi rimproverino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incessĕrem",
+                "traduzioni": [
+                    "che io assalissi",
+                    "che io accusassi",
+                    "che io rimproverassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incessĕres",
+                "traduzioni": [
+                    "che tu assalissi",
+                    "che tu accusassi",
+                    "che tu rimproverassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incessĕret",
+                "traduzioni": [
+                    "che lui assalisse",
+                    "che lei assalisse",
+                    "che egli assalisse",
+                    "che lui accusasse",
+                    "che lei accusasse",
+                    "che egli accusasse",
+                    "che lui rimproverasse",
+                    "che lei rimproverasse",
+                    "che egli rimproverasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incesserēmus",
+                "traduzioni": [
+                    "che noi assalissimo",
+                    "che noi accusassimo",
+                    "che noi rimproverassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incesserētis",
+                "traduzioni": [
+                    "che voi assaliste",
+                    "che voi accusaste",
+                    "che voi rimproveraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incessĕrent",
+                "traduzioni": [
+                    "che loro assalissero",
+                    "che essi assalissero",
+                    "che loro accusassero",
+                    "che essi accusassero",
+                    "che loro rimproverassero",
+                    "che essi rimproverassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incessivĕrim o incessĕrim",
+                "traduzioni": [
+                    "che io abbia assalito",
+                    "che io abbia accusato",
+                    "che io abbia rimproverato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incessivĕris o incessĕris",
+                "traduzioni": [
+                    "che tu abbia assalito",
+                    "che tu abbia accusato",
+                    "che tu abbia rimproverato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incessivĕrit o incessĕrit",
+                "traduzioni": [
+                    "che lui abbia assalito",
+                    "che lei abbia assalito",
+                    "che egli abbia assalito",
+                    "che lui abbia accusato",
+                    "che lei abbia accusato",
+                    "che egli abbia accusato",
+                    "che lui abbia rimproverato",
+                    "che lei abbia rimproverato",
+                    "che egli abbia rimproverato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incessiverĭmus o incesserĭmus",
+                "traduzioni": [
+                    "che noi abbiamo assalito",
+                    "che noi abbiamo accusato",
+                    "che noi abbiamo rimproverato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incessiverĭtis o incesserĭtis",
+                "traduzioni": [
+                    "che voi abbiate assalito",
+                    "che voi abbiate accusato",
+                    "che voi abbiate rimproverato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incessivĕrint o incessĕrint",
+                "traduzioni": [
+                    "che loro abbiano assalito",
+                    "che essi abbiano assalito",
+                    "che loro abbiano accusato",
+                    "che essi abbiano accusato",
+                    "che loro abbiano rimproverato",
+                    "che essi abbiano rimproverato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incessivissem o incessissem",
+                "traduzioni": [
+                    "che io avessi assalito",
+                    "che io avessi accusato",
+                    "che io avessi rimproverato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incessivisses o incessisses",
+                "traduzioni": [
+                    "che tu avessi assalito",
+                    "che tu avessi accusato",
+                    "che tu avessi rimproverato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incessivisset o incessisset",
+                "traduzioni": [
+                    "che lui avesse assalito",
+                    "che lei avesse assalito",
+                    "che egli avesse assalito",
+                    "che lui avesse accusato",
+                    "che lei avesse accusato",
+                    "che egli avesse accusato",
+                    "che lui avesse rimproverato",
+                    "che lei avesse rimproverato",
+                    "che egli avesse rimproverato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incessivissēmus o incessissēmus",
+                "traduzioni": [
+                    "che noi avessimo assalito",
+                    "che noi avessimo accusato",
+                    "che noi avessimo rimproverato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incessivissētis o incessissētis",
+                "traduzioni": [
+                    "che voi aveste assalito",
+                    "che voi aveste accusato",
+                    "che voi aveste rimproverato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incessivissent o incessissent",
+                "traduzioni": [
+                    "che loro avessero assalito",
+                    "che essi avessero assalito",
+                    "che loro avessero accusato",
+                    "che essi avessero accusato",
+                    "che loro avessero rimproverato",
+                    "che essi avessero rimproverato"
+                ]
+            }
+        ]
+    }
+}

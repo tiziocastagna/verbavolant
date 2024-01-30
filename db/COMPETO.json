@@ -1,0 +1,727 @@
+{
+    "identifier": "COMPETO",
+    "conuigazione": "3",
+    "translation": [
+        "(transitivo) tentare di ottenere",
+        "di conseguire",
+        "(transitivo) reclamare",
+        "sollecitare",
+        "richiedere",
+        "(intransitivo) competere",
+        "(intransitivo) coincidere",
+        "corrispondere"
+    ],
+    "valid_translations": [
+        "sollecitare",
+        "richiedere",
+        "corrispondere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "compĕto",
+                "traduzioni": [
+                    "io sollecito",
+                    "io richiedo",
+                    "io corrispondo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compĕtis",
+                "traduzioni": [
+                    "tu solleciti",
+                    "tu richiedi",
+                    "tu corrispondi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compĕtit",
+                "traduzioni": [
+                    "lui sollecita",
+                    "lei sollecita",
+                    "egli sollecita",
+                    "lui richiede",
+                    "lei richiede",
+                    "egli richiede",
+                    "lui corrisponde",
+                    "lei corrisponde",
+                    "egli corrisponde"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compĕtĭmus",
+                "traduzioni": [
+                    "noi sollecitiamo",
+                    "noi richiediamo",
+                    "noi corrispondiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compĕtĭtis",
+                "traduzioni": [
+                    "voi sollecitate",
+                    "voi richiedete",
+                    "voi corrispondete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compĕtunt",
+                "traduzioni": [
+                    "loro sollecitano",
+                    "essi sollecitano",
+                    "loro richiedono",
+                    "essi richiedono",
+                    "loro corrispondono",
+                    "essi corrispondono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "compĕtēbam",
+                "traduzioni": [
+                    "io sollecitavo",
+                    "io richiedevo",
+                    "io corrispondevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compĕtēbas",
+                "traduzioni": [
+                    "tu sollecitavi",
+                    "tu richiedevi",
+                    "tu corrispondevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compĕtēbat",
+                "traduzioni": [
+                    "lui sollecitava",
+                    "lei sollecitava",
+                    "egli sollecitava",
+                    "lui richiedeva",
+                    "lei richiedeva",
+                    "egli richiedeva",
+                    "lui corrispondeva",
+                    "lei corrispondeva",
+                    "egli corrispondeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compĕtebāmus",
+                "traduzioni": [
+                    "noi sollecitavamo",
+                    "noi richiedevamo",
+                    "noi corrispondevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compĕtebātis",
+                "traduzioni": [
+                    "voi sollecitavate",
+                    "voi richiedevate",
+                    "voi corrispondevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compĕtēbant",
+                "traduzioni": [
+                    "loro sollecitavano",
+                    "essi sollecitavano",
+                    "loro richiedevano",
+                    "essi richiedevano",
+                    "loro corrispondevano",
+                    "essi corrispondevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "compĕtam",
+                "traduzioni": [
+                    "io solleciterò",
+                    "io richiederò",
+                    "io corrisponderò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compĕtes",
+                "traduzioni": [
+                    "tu solleciterai",
+                    "tu richiederai",
+                    "tu corrisponderai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compĕtet",
+                "traduzioni": [
+                    "lui solleciterà",
+                    "lei solleciterà",
+                    "egli solleciterà",
+                    "lui richiederà",
+                    "lei richiederà",
+                    "egli richiederà",
+                    "lui corrisponderà",
+                    "lei corrisponderà",
+                    "egli corrisponderà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compĕtēmus",
+                "traduzioni": [
+                    "noi solleciteremo",
+                    "noi richiederemo",
+                    "noi corrisponderemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compĕtētis",
+                "traduzioni": [
+                    "voi solleciterete",
+                    "voi richiederete",
+                    "voi corrisponderete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compĕtent",
+                "traduzioni": [
+                    "loro solleciteranno",
+                    "essi solleciteranno",
+                    "loro richiederanno",
+                    "essi richiederanno",
+                    "loro corrisponderanno",
+                    "essi corrisponderanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "competivi o competii",
+                "traduzioni": [
+                    "io sollecitai",
+                    "io ho sollecitato",
+                    "io ebbi sollecitato",
+                    "io richiesi",
+                    "io ho richiesto",
+                    "io ebbi richiesto",
+                    "io corrisposi",
+                    "io ho corrisposto",
+                    "io ebbi corrisposto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "competivisti o competiisti",
+                "traduzioni": [
+                    "tu sollecitasti",
+                    "tu hai sollecitato",
+                    "tu avesti sollecitato",
+                    "tu richiedesti",
+                    "tu hai richiesto",
+                    "tu avesti richiesto",
+                    "tu corrispondesti",
+                    "tu hai corrisposto",
+                    "tu avesti corrisposto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "competivit o competiit",
+                "traduzioni": [
+                    "lui sollecitò",
+                    "lei sollecitò",
+                    "egli sollecitò",
+                    "lui ha sollecitato",
+                    "lei ha sollecitato",
+                    "egli ha sollecitato",
+                    "lui ebbe sollecitato",
+                    "lei ebbe sollecitato",
+                    "egli ebbe sollecitato",
+                    "lui richiese",
+                    "lei richiese",
+                    "egli richiese",
+                    "lui ha richiesto",
+                    "lei ha richiesto",
+                    "egli ha richiesto",
+                    "lui ebbe richiesto",
+                    "lei ebbe richiesto",
+                    "egli ebbe richiesto",
+                    "lui corrispose",
+                    "lei corrispose",
+                    "egli corrispose",
+                    "lui ha corrisposto",
+                    "lei ha corrisposto",
+                    "egli ha corrisposto",
+                    "lui ebbe corrisposto",
+                    "lei ebbe corrisposto",
+                    "egli ebbe corrisposto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "competivĭmus o competiĭmus",
+                "traduzioni": [
+                    "noi sollecitammo",
+                    "noi abbiamo sollecitato",
+                    "noi avemmo sollecitato",
+                    "noi richiedemmo",
+                    "noi abbiamo richiesto",
+                    "noi avemmo richiesto",
+                    "noi corrispondemmo",
+                    "noi abbiamo corrisposto",
+                    "noi avemmo corrisposto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "competivistis o competiistis",
+                "traduzioni": [
+                    "voi sollecitaste",
+                    "voi avete sollecitato",
+                    "voi aveste sollecitato",
+                    "voi richiedeste",
+                    "voi avete richiesto",
+                    "voi aveste richiesto",
+                    "voi corrispondeste",
+                    "voi avete corrisposto",
+                    "voi aveste corrisposto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "competivērunt o competiērunt, ēre",
+                "traduzioni": [
+                    "loro sollecitarono",
+                    "essi sollecitarono",
+                    "loro hanno sollecitato",
+                    "essi hanno sollecitato",
+                    "loro ebbero sollecitato",
+                    "essi ebbero sollecitato",
+                    "loro richiesero",
+                    "essi richiesero",
+                    "loro hanno richiesto",
+                    "essi hanno richiesto",
+                    "loro ebbero richiesto",
+                    "essi ebbero richiesto",
+                    "loro corrisposero",
+                    "essi corrisposero",
+                    "loro hanno corrisposto",
+                    "essi hanno corrisposto",
+                    "loro ebbero corrisposto",
+                    "essi ebbero corrisposto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "competivĕram o competiĕram",
+                "traduzioni": [
+                    "io avevo sollecitato",
+                    "io avevo richiesto",
+                    "io avevo corrisposto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "competivĕras o competiĕras",
+                "traduzioni": [
+                    "tu avevi sollecitato",
+                    "tu avevi richiesto",
+                    "tu avevi corrisposto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "competivĕrat o competiĕrat",
+                "traduzioni": [
+                    "lui aveva sollecitato",
+                    "lei aveva sollecitato",
+                    "egli aveva sollecitato",
+                    "lui aveva richiesto",
+                    "lei aveva richiesto",
+                    "egli aveva richiesto",
+                    "lui aveva corrisposto",
+                    "lei aveva corrisposto",
+                    "egli aveva corrisposto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "competiverāmus o competierāmus",
+                "traduzioni": [
+                    "noi avevamo sollecitato",
+                    "noi avevamo richiesto",
+                    "noi avevamo corrisposto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "competiverātis o competierātis",
+                "traduzioni": [
+                    "voi avevate sollecitato",
+                    "voi avevate richiesto",
+                    "voi avevate corrisposto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "competivĕrant o competiĕrant",
+                "traduzioni": [
+                    "loro avevano sollecitato",
+                    "essi avevano sollecitato",
+                    "loro avevano richiesto",
+                    "essi avevano richiesto",
+                    "loro avevano corrisposto",
+                    "essi avevano corrisposto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "competivĕro o competiĕro",
+                "traduzioni": [
+                    "io avrò sollecitato",
+                    "io avrò richiesto",
+                    "io avrò corrisposto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "competivĕris o competiĕris",
+                "traduzioni": [
+                    "tu avrai sollecitato",
+                    "tu avrai richiesto",
+                    "tu avrai corrisposto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "competivĕrit o competiĕrit",
+                "traduzioni": [
+                    "lui avrà sollecitato",
+                    "lei avrà sollecitato",
+                    "egli avrà sollecitato",
+                    "lui avrà richiesto",
+                    "lei avrà richiesto",
+                    "egli avrà richiesto",
+                    "lui avrà corrisposto",
+                    "lei avrà corrisposto",
+                    "egli avrà corrisposto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "competiverĭmus o competierĭmus",
+                "traduzioni": [
+                    "noi avremo sollecitato",
+                    "noi avremo richiesto",
+                    "noi avremo corrisposto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "competiverĭtis o competierĭtis",
+                "traduzioni": [
+                    "voi avrete sollecitato",
+                    "voi avrete richiesto",
+                    "voi avrete corrisposto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "competivĕrint o competiĕrint",
+                "traduzioni": [
+                    "loro avranno sollecitato",
+                    "essi avranno sollecitato",
+                    "loro avranno richiesto",
+                    "essi avranno richiesto",
+                    "loro avranno corrisposto",
+                    "essi avranno corrisposto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "compĕtam",
+                "traduzioni": [
+                    "che io solleciti",
+                    "che io richieda",
+                    "che io corrisponda"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compĕtas",
+                "traduzioni": [
+                    "che tu solleciti",
+                    "che tu richieda",
+                    "che tu corrisponda"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compĕtat",
+                "traduzioni": [
+                    "che lui solleciti",
+                    "che lei solleciti",
+                    "che egli solleciti",
+                    "che lui richieda",
+                    "che lei richieda",
+                    "che egli richieda",
+                    "che lui corrisponda",
+                    "che lei corrisponda",
+                    "che egli corrisponda"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compĕtāmus",
+                "traduzioni": [
+                    "che noi sollecitiamo",
+                    "che noi richiediamo",
+                    "che noi corrispondiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compĕtātis",
+                "traduzioni": [
+                    "che voi sollecitiate",
+                    "che voi richiediate",
+                    "che voi corrispondiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compĕtant",
+                "traduzioni": [
+                    "che loro sollecitino",
+                    "che essi sollecitino",
+                    "che loro richiedano",
+                    "che essi richiedano",
+                    "che loro corrispondano",
+                    "che essi corrispondano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "compĕtĕrem",
+                "traduzioni": [
+                    "che io sollecitassi",
+                    "che io richiedessi",
+                    "che io corrispondessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "compĕtĕres",
+                "traduzioni": [
+                    "che tu sollecitassi",
+                    "che tu richiedessi",
+                    "che tu corrispondessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "compĕtĕret",
+                "traduzioni": [
+                    "che lui sollecitasse",
+                    "che lei sollecitasse",
+                    "che egli sollecitasse",
+                    "che lui richiedesse",
+                    "che lei richiedesse",
+                    "che egli richiedesse",
+                    "che lui corrispondesse",
+                    "che lei corrispondesse",
+                    "che egli corrispondesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "compĕterēmus",
+                "traduzioni": [
+                    "che noi sollecitassimo",
+                    "che noi richiedessimo",
+                    "che noi corrispondessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "compĕterētis",
+                "traduzioni": [
+                    "che voi sollecitaste",
+                    "che voi richiedeste",
+                    "che voi corrispondeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "compĕtĕrent",
+                "traduzioni": [
+                    "che loro sollecitassero",
+                    "che essi sollecitassero",
+                    "che loro richiedessero",
+                    "che essi richiedessero",
+                    "che loro corrispondessero",
+                    "che essi corrispondessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "competivĕrim o competiĕrim",
+                "traduzioni": [
+                    "che io abbia sollecitato",
+                    "che io abbia richiesto",
+                    "che io abbia corrisposto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "competivĕris o competiĕris",
+                "traduzioni": [
+                    "che tu abbia sollecitato",
+                    "che tu abbia richiesto",
+                    "che tu abbia corrisposto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "competivĕrit o competiĕrit",
+                "traduzioni": [
+                    "che lui abbia sollecitato",
+                    "che lei abbia sollecitato",
+                    "che egli abbia sollecitato",
+                    "che lui abbia richiesto",
+                    "che lei abbia richiesto",
+                    "che egli abbia richiesto",
+                    "che lui abbia corrisposto",
+                    "che lei abbia corrisposto",
+                    "che egli abbia corrisposto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "competiverĭmus o competierĭmus",
+                "traduzioni": [
+                    "che noi abbiamo sollecitato",
+                    "che noi abbiamo richiesto",
+                    "che noi abbiamo corrisposto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "competiverĭtis o competierĭtis",
+                "traduzioni": [
+                    "che voi abbiate sollecitato",
+                    "che voi abbiate richiesto",
+                    "che voi abbiate corrisposto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "competivĕrint o competiĕrint",
+                "traduzioni": [
+                    "che loro abbiano sollecitato",
+                    "che essi abbiano sollecitato",
+                    "che loro abbiano richiesto",
+                    "che essi abbiano richiesto",
+                    "che loro abbiano corrisposto",
+                    "che essi abbiano corrisposto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "competivissem o competiissem",
+                "traduzioni": [
+                    "che io avessi sollecitato",
+                    "che io avessi richiesto",
+                    "che io avessi corrisposto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "competivisses o competiisses",
+                "traduzioni": [
+                    "che tu avessi sollecitato",
+                    "che tu avessi richiesto",
+                    "che tu avessi corrisposto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "competivisset o competiisset",
+                "traduzioni": [
+                    "che lui avesse sollecitato",
+                    "che lei avesse sollecitato",
+                    "che egli avesse sollecitato",
+                    "che lui avesse richiesto",
+                    "che lei avesse richiesto",
+                    "che egli avesse richiesto",
+                    "che lui avesse corrisposto",
+                    "che lei avesse corrisposto",
+                    "che egli avesse corrisposto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "competivissēmus o competiissēmus",
+                "traduzioni": [
+                    "che noi avessimo sollecitato",
+                    "che noi avessimo richiesto",
+                    "che noi avessimo corrisposto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "competivissētis o competiissētis",
+                "traduzioni": [
+                    "che voi aveste sollecitato",
+                    "che voi aveste richiesto",
+                    "che voi aveste corrisposto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "competivissent o competiissent",
+                "traduzioni": [
+                    "che loro avessero sollecitato",
+                    "che essi avessero sollecitato",
+                    "che loro avessero richiesto",
+                    "che essi avessero richiesto",
+                    "che loro avessero corrisposto",
+                    "che essi avessero corrisposto"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,502 @@
+{
+    "identifier": "DELIBERO",
+    "conuigazione": "1",
+    "translation": [
+        "liberare"
+    ],
+    "valid_translations": [
+        "liberare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēlībĕro",
+                "traduzioni": [
+                    "io libero"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēlībĕras",
+                "traduzioni": [
+                    "tu liberi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēlībĕrat",
+                "traduzioni": [
+                    "lui libera",
+                    "lei libera",
+                    "egli libera"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēlībĕrāmus",
+                "traduzioni": [
+                    "noi liberiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēlībĕrātis",
+                "traduzioni": [
+                    "voi liberate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēlībĕrant",
+                "traduzioni": [
+                    "loro liberano",
+                    "essi liberano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēlībĕrābam",
+                "traduzioni": [
+                    "io liberavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēlībĕrābas",
+                "traduzioni": [
+                    "tu liberavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēlībĕrābat",
+                "traduzioni": [
+                    "lui liberava",
+                    "lei liberava",
+                    "egli liberava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēlībĕrabāmus",
+                "traduzioni": [
+                    "noi liberavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēlībĕrabātis",
+                "traduzioni": [
+                    "voi liberavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēlībĕrābant",
+                "traduzioni": [
+                    "loro liberavano",
+                    "essi liberavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēlībĕrābo",
+                "traduzioni": [
+                    "io libererò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēlībĕrābis",
+                "traduzioni": [
+                    "tu libererai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēlībĕrābit",
+                "traduzioni": [
+                    "lui libererà",
+                    "lei libererà",
+                    "egli libererà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēlībĕrabĭmus",
+                "traduzioni": [
+                    "noi libereremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēlībĕrabĭtis",
+                "traduzioni": [
+                    "voi libererete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēlībĕrābunt",
+                "traduzioni": [
+                    "loro libereranno",
+                    "essi libereranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io liberai",
+                    "io ho liberato",
+                    "io ebbi liberato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu liberasti",
+                    "tu hai liberato",
+                    "tu avesti liberato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui liberò",
+                    "lei liberò",
+                    "egli liberò",
+                    "lui ha liberato",
+                    "lei ha liberato",
+                    "egli ha liberato",
+                    "lui ebbe liberato",
+                    "lei ebbe liberato",
+                    "egli ebbe liberato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi liberammo",
+                    "noi abbiamo liberato",
+                    "noi avemmo liberato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi liberaste",
+                    "voi avete liberato",
+                    "voi aveste liberato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro liberarono",
+                    "essi liberarono",
+                    "loro hanno liberato",
+                    "essi hanno liberato",
+                    "loro ebbero liberato",
+                    "essi ebbero liberato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avevo liberato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avevi liberato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui aveva liberato",
+                    "lei aveva liberato",
+                    "egli aveva liberato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avevamo liberato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avevate liberato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avevano liberato",
+                    "essi avevano liberato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avrò liberato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avrai liberato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui avrà liberato",
+                    "lei avrà liberato",
+                    "egli avrà liberato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avremo liberato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avrete liberato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avranno liberato",
+                    "essi avranno liberato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēlībĕrem",
+                "traduzioni": [
+                    "che io liberi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēlībĕres",
+                "traduzioni": [
+                    "che tu liberi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēlībĕret",
+                "traduzioni": [
+                    "che lui liberi",
+                    "che lei liberi",
+                    "che egli liberi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēlībĕrēmus",
+                "traduzioni": [
+                    "che noi liberiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēlībĕrētis",
+                "traduzioni": [
+                    "che voi liberiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēlībĕrent",
+                "traduzioni": [
+                    "che loro liberino",
+                    "che essi liberino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēlībĕrārem",
+                "traduzioni": [
+                    "che io liberassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēlībĕrāres",
+                "traduzioni": [
+                    "che tu liberassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēlībĕrāret",
+                "traduzioni": [
+                    "che lui liberasse",
+                    "che lei liberasse",
+                    "che egli liberasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēlībĕrarēmus",
+                "traduzioni": [
+                    "che noi liberassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēlībĕrarētis",
+                "traduzioni": [
+                    "che voi liberaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēlībĕrārent",
+                "traduzioni": [
+                    "che loro liberassero",
+                    "che essi liberassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io abbia liberato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu abbia liberato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui abbia liberato",
+                    "che lei abbia liberato",
+                    "che egli abbia liberato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi abbiamo liberato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi abbiate liberato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro abbiano liberato",
+                    "che essi abbiano liberato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io avessi liberato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu avessi liberato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui avesse liberato",
+                    "che lei avesse liberato",
+                    "che egli avesse liberato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi avessimo liberato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi aveste liberato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro avessero liberato",
+                    "che essi avessero liberato"
+                ]
+            }
+        ]
+    }
+}

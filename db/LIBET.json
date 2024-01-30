@@ -1,0 +1,537 @@
+{
+    "identifier": "LIBET",
+    "conuigazione": "2",
+    "translation": [
+        "piacere"
+    ],
+    "valid_translations": [
+        "piacere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io piaccio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu piaci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lĭbet",
+                "traduzioni": [
+                    "lui piace",
+                    "lei piace",
+                    "egli piace"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi piacciamo",
+                    "noi piaciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi piacete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro piacciono",
+                    "essi piacciono",
+                    "loro piaciono",
+                    "essi piaciono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io piacevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu piacevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lĭbēbat",
+                "traduzioni": [
+                    "lui piaceva",
+                    "lei piaceva",
+                    "egli piaceva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi piacevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi piacevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro piacevano",
+                    "essi piacevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io piacerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu piacerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lĭbēbit",
+                "traduzioni": [
+                    "lui piacerà",
+                    "lei piacerà",
+                    "egli piacerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi piaceremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi piacerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro piaceranno",
+                    "essi piaceranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io piacqui",
+                    "io sono piaciuto",
+                    "io sono piaciuta",
+                    "io fui piaciuto",
+                    "io fui piaciuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu piacesti",
+                    "tu sei piaciuto",
+                    "tu sei piaciuta",
+                    "tu fosti piaciuto",
+                    "tu fosti piaciuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "libuit",
+                "traduzioni": [
+                    "lui piacque",
+                    "lei piacque",
+                    "egli piacque",
+                    "lui è piaciuto",
+                    "lei è piaciuta",
+                    "egli è piaciuto",
+                    "lui fu piaciuto",
+                    "lei fu piaciuta",
+                    "egli fu piaciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi piacemmo",
+                    "noi siamo piaciuti",
+                    "noi siamo piaciute",
+                    "noi fummo piaciuti",
+                    "noi fummo piaciute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi piaceste",
+                    "voi siete piaciuti",
+                    "voi siete piaciute",
+                    "voi foste piaciuti",
+                    "voi foste piaciute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro piacquero",
+                    "essi piacquero",
+                    "loro sono piaciuti",
+                    "loro sono piaciute",
+                    "essi sono piaciuti",
+                    "loro furono piaciuti",
+                    "loro furono piaciute",
+                    "essi furono piaciuti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io ero piaciuto",
+                    "io ero piaciuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu eri piaciuto",
+                    "tu eri piaciuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "libuērat",
+                "traduzioni": [
+                    "lui era piaciuto",
+                    "lei era piaciuta",
+                    "egli era piaciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi eravamo piaciuti",
+                    "noi eravamo piaciute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi eravate piaciuti",
+                    "voi eravate piaciute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro erano piaciuti",
+                    "loro erano piaciute",
+                    "essi erano piaciuti"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io sarò piaciuto",
+                    "io sarò piaciuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu sarai piaciuto",
+                    "tu sarai piaciuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "libuērit",
+                "traduzioni": [
+                    "lui sarà piaciuto",
+                    "lei sarà piaciuta",
+                    "egli sarà piaciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi saremo piaciuti",
+                    "noi saremo piaciute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi sarete piaciuti",
+                    "voi sarete piaciute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro saranno piaciuti",
+                    "loro saranno piaciute",
+                    "essi saranno piaciuti"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io piaccia"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu piaccia"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lĭbĕat",
+                "traduzioni": [
+                    "che lui piaccia",
+                    "che lei piaccia",
+                    "che egli piaccia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi piacciamo",
+                    "che noi piaciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi piacciate",
+                    "che voi piaciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro piacciano",
+                    "che essi piacciano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io piacessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu piacessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lĭbēret",
+                "traduzioni": [
+                    "che lui piacesse",
+                    "che lei piacesse",
+                    "che egli piacesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi piacessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi piaceste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro piacessero",
+                    "che essi piacessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io sia piaciuto",
+                    "che io sia piaciuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu sia piaciuto",
+                    "che tu sia piaciuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "libuĕrit",
+                "traduzioni": [
+                    "che lui sia piaciuto",
+                    "che lei sia piaciuta",
+                    "che egli sia piaciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi siamo piaciuti",
+                    "che noi siamo piaciute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi siate piaciuti",
+                    "che voi siate piaciute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro siano piaciuti",
+                    "che loro siano piaciute",
+                    "che essi siano piaciuti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io fossi piaciuto",
+                    "che io fossi piaciuta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu fossi piaciuto",
+                    "che tu fossi piaciuta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "libuisset",
+                "traduzioni": [
+                    "che lui fosse piaciuto",
+                    "che lei fosse piaciuta",
+                    "che egli fosse piaciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi fossimo piaciuti",
+                    "che noi fossimo piaciute"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi foste piaciuti",
+                    "che voi foste piaciute"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro fossero piaciuti",
+                    "che loro fossero piaciute",
+                    "che essi fossero piaciuti"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,948 @@
+{
+    "identifier": "CONCEDO",
+    "conuigazione": "3",
+    "translation": [
+        "(intransitivo) andare",
+        "partire",
+        "+ dativo) cedere",
+        "(transitivo) concedere",
+        "accordare",
+        "permettere",
+        "lasciare",
+        "(transitivo) perdonare",
+        "condonare",
+        "giustificare"
+    ],
+    "valid_translations": [
+        "partire",
+        "accordare",
+        "permettere",
+        "lasciare",
+        "condonare",
+        "giustificare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "concēdo",
+                "traduzioni": [
+                    "io accordo",
+                    "io permetto",
+                    "io lascio",
+                    "io condono",
+                    "io giustifico"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "concēdis",
+                "traduzioni": [
+                    "tu accordi",
+                    "tu permetti",
+                    "tu lasci",
+                    "tu condoni",
+                    "tu giustifichi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "concēdit",
+                "traduzioni": [
+                    "lui accorda",
+                    "lei accorda",
+                    "egli accorda",
+                    "lui permette",
+                    "lei permette",
+                    "egli permette",
+                    "lui lascia",
+                    "lei lascia",
+                    "egli lascia",
+                    "lui condona",
+                    "lei condona",
+                    "egli condona",
+                    "lui giustifica",
+                    "lei giustifica",
+                    "egli giustifica"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "concēdĭmus",
+                "traduzioni": [
+                    "noi accordiamo",
+                    "noi permettiamo",
+                    "noi lasciamo",
+                    "noi condoniamo",
+                    "noi giustifichiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "concēdĭtis",
+                "traduzioni": [
+                    "voi accordate",
+                    "voi permettete",
+                    "voi lasciate",
+                    "voi condonate",
+                    "voi giustificate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "concēdunt",
+                "traduzioni": [
+                    "loro accordano",
+                    "essi accordano",
+                    "loro permettono",
+                    "essi permettono",
+                    "loro lasciano",
+                    "essi lasciano",
+                    "loro condonano",
+                    "essi condonano",
+                    "loro giustificano",
+                    "essi giustificano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "concēdēbam",
+                "traduzioni": [
+                    "io accordavo",
+                    "io permettevo",
+                    "io lasciavo",
+                    "io condonavo",
+                    "io giustificavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "concēdēbas",
+                "traduzioni": [
+                    "tu accordavi",
+                    "tu permettevi",
+                    "tu lasciavi",
+                    "tu condonavi",
+                    "tu giustificavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "concēdēbat",
+                "traduzioni": [
+                    "lui accordava",
+                    "lei accordava",
+                    "egli accordava",
+                    "lui permetteva",
+                    "lei permetteva",
+                    "egli permetteva",
+                    "lui lasciava",
+                    "lei lasciava",
+                    "egli lasciava",
+                    "lui condonava",
+                    "lei condonava",
+                    "egli condonava",
+                    "lui giustificava",
+                    "lei giustificava",
+                    "egli giustificava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "concēdebāmus",
+                "traduzioni": [
+                    "noi accordavamo",
+                    "noi permettevamo",
+                    "noi lasciavamo",
+                    "noi condonavamo",
+                    "noi giustificavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "concēdebātis",
+                "traduzioni": [
+                    "voi accordavate",
+                    "voi permettevate",
+                    "voi lasciavate",
+                    "voi condonavate",
+                    "voi giustificavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "concēdēbant",
+                "traduzioni": [
+                    "loro accordavano",
+                    "essi accordavano",
+                    "loro permettevano",
+                    "essi permettevano",
+                    "loro lasciavano",
+                    "essi lasciavano",
+                    "loro condonavano",
+                    "essi condonavano",
+                    "loro giustificavano",
+                    "essi giustificavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "concēdam",
+                "traduzioni": [
+                    "io accorderò",
+                    "io permetterò",
+                    "io lascerò",
+                    "io condonerò",
+                    "io giustificherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "concēdes",
+                "traduzioni": [
+                    "tu accorderai",
+                    "tu permetterai",
+                    "tu lascerai",
+                    "tu condonerai",
+                    "tu giustificherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "concēdet",
+                "traduzioni": [
+                    "lui accorderà",
+                    "lei accorderà",
+                    "egli accorderà",
+                    "lui permetterà",
+                    "lei permetterà",
+                    "egli permetterà",
+                    "lui lascerà",
+                    "lei lascerà",
+                    "egli lascerà",
+                    "lui condonerà",
+                    "lei condonerà",
+                    "egli condonerà",
+                    "lui giustificherà",
+                    "lei giustificherà",
+                    "egli giustificherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "concēdēmus",
+                "traduzioni": [
+                    "noi accorderemo",
+                    "noi permetteremo",
+                    "noi lasceremo",
+                    "noi condoneremo",
+                    "noi giustificheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "concēdētis",
+                "traduzioni": [
+                    "voi accorderete",
+                    "voi permetterete",
+                    "voi lascerete",
+                    "voi condonerete",
+                    "voi giustificherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "concēdent",
+                "traduzioni": [
+                    "loro accorderanno",
+                    "essi accorderanno",
+                    "loro permetteranno",
+                    "essi permetteranno",
+                    "loro lasceranno",
+                    "essi lasceranno",
+                    "loro condoneranno",
+                    "essi condoneranno",
+                    "loro giustificheranno",
+                    "essi giustificheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "concessi",
+                "traduzioni": [
+                    "io accordai",
+                    "io ho accordato",
+                    "io ebbi accordato",
+                    "io permisi",
+                    "io ho permesso",
+                    "io ebbi permesso",
+                    "io lasciai",
+                    "io ho lasciato",
+                    "io ebbi lasciato",
+                    "io condonai",
+                    "io ho condonato",
+                    "io ebbi condonato",
+                    "io giustificai",
+                    "io ho giustificato",
+                    "io ebbi giustificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "concessisti",
+                "traduzioni": [
+                    "tu accordasti",
+                    "tu hai accordato",
+                    "tu avesti accordato",
+                    "tu permettesti",
+                    "tu hai permesso",
+                    "tu avesti permesso",
+                    "tu lasciasti",
+                    "tu hai lasciato",
+                    "tu avesti lasciato",
+                    "tu condonasti",
+                    "tu hai condonato",
+                    "tu avesti condonato",
+                    "tu giustificasti",
+                    "tu hai giustificato",
+                    "tu avesti giustificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "concessit",
+                "traduzioni": [
+                    "lui accordò",
+                    "lei accordò",
+                    "egli accordò",
+                    "lui ha accordato",
+                    "lei ha accordato",
+                    "egli ha accordato",
+                    "lui ebbe accordato",
+                    "lei ebbe accordato",
+                    "egli ebbe accordato",
+                    "lui permise",
+                    "lei permise",
+                    "egli permise",
+                    "lui ha permesso",
+                    "lei ha permesso",
+                    "egli ha permesso",
+                    "lui ebbe permesso",
+                    "lei ebbe permesso",
+                    "egli ebbe permesso",
+                    "lui lasciò",
+                    "lei lasciò",
+                    "egli lasciò",
+                    "lui ha lasciato",
+                    "lei ha lasciato",
+                    "egli ha lasciato",
+                    "lui ebbe lasciato",
+                    "lei ebbe lasciato",
+                    "egli ebbe lasciato",
+                    "lui condonò",
+                    "lei condonò",
+                    "egli condonò",
+                    "lui ha condonato",
+                    "lei ha condonato",
+                    "egli ha condonato",
+                    "lui ebbe condonato",
+                    "lei ebbe condonato",
+                    "egli ebbe condonato",
+                    "lui giustificò",
+                    "lei giustificò",
+                    "egli giustificò",
+                    "lui ha giustificato",
+                    "lei ha giustificato",
+                    "egli ha giustificato",
+                    "lui ebbe giustificato",
+                    "lei ebbe giustificato",
+                    "egli ebbe giustificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "concessĭmus",
+                "traduzioni": [
+                    "noi accordammo",
+                    "noi abbiamo accordato",
+                    "noi avemmo accordato",
+                    "noi permettemmo",
+                    "noi abbiamo permesso",
+                    "noi avemmo permesso",
+                    "noi lasciammo",
+                    "noi abbiamo lasciato",
+                    "noi avemmo lasciato",
+                    "noi condonammo",
+                    "noi abbiamo condonato",
+                    "noi avemmo condonato",
+                    "noi giustificammo",
+                    "noi abbiamo giustificato",
+                    "noi avemmo giustificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "concessistis",
+                "traduzioni": [
+                    "voi accordaste",
+                    "voi avete accordato",
+                    "voi aveste accordato",
+                    "voi permetteste",
+                    "voi avete permesso",
+                    "voi aveste permesso",
+                    "voi lasciaste",
+                    "voi avete lasciato",
+                    "voi aveste lasciato",
+                    "voi condonaste",
+                    "voi avete condonato",
+                    "voi aveste condonato",
+                    "voi giustificaste",
+                    "voi avete giustificato",
+                    "voi aveste giustificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "concessērunt, concessēre",
+                "traduzioni": [
+                    "loro accordarono",
+                    "essi accordarono",
+                    "loro hanno accordato",
+                    "essi hanno accordato",
+                    "loro ebbero accordato",
+                    "essi ebbero accordato",
+                    "loro permisero",
+                    "essi permisero",
+                    "loro hanno permesso",
+                    "essi hanno permesso",
+                    "loro ebbero permesso",
+                    "essi ebbero permesso",
+                    "loro lasciarono",
+                    "essi lasciarono",
+                    "loro hanno lasciato",
+                    "essi hanno lasciato",
+                    "loro ebbero lasciato",
+                    "essi ebbero lasciato",
+                    "loro condonarono",
+                    "essi condonarono",
+                    "loro hanno condonato",
+                    "essi hanno condonato",
+                    "loro ebbero condonato",
+                    "essi ebbero condonato",
+                    "loro giustificarono",
+                    "essi giustificarono",
+                    "loro hanno giustificato",
+                    "essi hanno giustificato",
+                    "loro ebbero giustificato",
+                    "essi ebbero giustificato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "concessĕram",
+                "traduzioni": [
+                    "io avevo accordato",
+                    "io avevo permesso",
+                    "io avevo lasciato",
+                    "io avevo condonato",
+                    "io avevo giustificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "concessĕras",
+                "traduzioni": [
+                    "tu avevi accordato",
+                    "tu avevi permesso",
+                    "tu avevi lasciato",
+                    "tu avevi condonato",
+                    "tu avevi giustificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "concessĕrat",
+                "traduzioni": [
+                    "lui aveva accordato",
+                    "lei aveva accordato",
+                    "egli aveva accordato",
+                    "lui aveva permesso",
+                    "lei aveva permesso",
+                    "egli aveva permesso",
+                    "lui aveva lasciato",
+                    "lei aveva lasciato",
+                    "egli aveva lasciato",
+                    "lui aveva condonato",
+                    "lei aveva condonato",
+                    "egli aveva condonato",
+                    "lui aveva giustificato",
+                    "lei aveva giustificato",
+                    "egli aveva giustificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "concesserāmus",
+                "traduzioni": [
+                    "noi avevamo accordato",
+                    "noi avevamo permesso",
+                    "noi avevamo lasciato",
+                    "noi avevamo condonato",
+                    "noi avevamo giustificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "concesserātis",
+                "traduzioni": [
+                    "voi avevate accordato",
+                    "voi avevate permesso",
+                    "voi avevate lasciato",
+                    "voi avevate condonato",
+                    "voi avevate giustificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "concessĕrant",
+                "traduzioni": [
+                    "loro avevano accordato",
+                    "essi avevano accordato",
+                    "loro avevano permesso",
+                    "essi avevano permesso",
+                    "loro avevano lasciato",
+                    "essi avevano lasciato",
+                    "loro avevano condonato",
+                    "essi avevano condonato",
+                    "loro avevano giustificato",
+                    "essi avevano giustificato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "concessĕro",
+                "traduzioni": [
+                    "io avrò accordato",
+                    "io avrò permesso",
+                    "io avrò lasciato",
+                    "io avrò condonato",
+                    "io avrò giustificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "concessĕris",
+                "traduzioni": [
+                    "tu avrai accordato",
+                    "tu avrai permesso",
+                    "tu avrai lasciato",
+                    "tu avrai condonato",
+                    "tu avrai giustificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "concessĕrit",
+                "traduzioni": [
+                    "lui avrà accordato",
+                    "lei avrà accordato",
+                    "egli avrà accordato",
+                    "lui avrà permesso",
+                    "lei avrà permesso",
+                    "egli avrà permesso",
+                    "lui avrà lasciato",
+                    "lei avrà lasciato",
+                    "egli avrà lasciato",
+                    "lui avrà condonato",
+                    "lei avrà condonato",
+                    "egli avrà condonato",
+                    "lui avrà giustificato",
+                    "lei avrà giustificato",
+                    "egli avrà giustificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "concesserĭmus",
+                "traduzioni": [
+                    "noi avremo accordato",
+                    "noi avremo permesso",
+                    "noi avremo lasciato",
+                    "noi avremo condonato",
+                    "noi avremo giustificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "concesserĭtis",
+                "traduzioni": [
+                    "voi avrete accordato",
+                    "voi avrete permesso",
+                    "voi avrete lasciato",
+                    "voi avrete condonato",
+                    "voi avrete giustificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "concessĕrint",
+                "traduzioni": [
+                    "loro avranno accordato",
+                    "essi avranno accordato",
+                    "loro avranno permesso",
+                    "essi avranno permesso",
+                    "loro avranno lasciato",
+                    "essi avranno lasciato",
+                    "loro avranno condonato",
+                    "essi avranno condonato",
+                    "loro avranno giustificato",
+                    "essi avranno giustificato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "concēdam",
+                "traduzioni": [
+                    "che io accordi",
+                    "che io permetta",
+                    "che io lasci",
+                    "che io condoni",
+                    "che io giustifichi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "concēdas",
+                "traduzioni": [
+                    "che tu accordi",
+                    "che tu permetta",
+                    "che tu lasci",
+                    "che tu condoni",
+                    "che tu giustifichi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "concēdat",
+                "traduzioni": [
+                    "che lui accordi",
+                    "che lei accordi",
+                    "che egli accordi",
+                    "che lui permetta",
+                    "che lei permetta",
+                    "che egli permetta",
+                    "che lui lasci",
+                    "che lei lasci",
+                    "che egli lasci",
+                    "che lui condoni",
+                    "che lei condoni",
+                    "che egli condoni",
+                    "che lui giustifichi",
+                    "che lei giustifichi",
+                    "che egli giustifichi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "concēdāmus",
+                "traduzioni": [
+                    "che noi accordiamo",
+                    "che noi permettiamo",
+                    "che noi lasciamo",
+                    "che noi condoniamo",
+                    "che noi giustifichiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "concēdātis",
+                "traduzioni": [
+                    "che voi accordiate",
+                    "che voi permettiate",
+                    "che voi lasciate",
+                    "che voi condoniate",
+                    "che voi giustifichiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "concēdant",
+                "traduzioni": [
+                    "che loro accordino",
+                    "che essi accordino",
+                    "che loro permettano",
+                    "che essi permettano",
+                    "che loro lascino",
+                    "che essi lascino",
+                    "che loro condonino",
+                    "che essi condonino",
+                    "che loro giustifichino",
+                    "che essi giustifichino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "concēdĕrem",
+                "traduzioni": [
+                    "che io accordassi",
+                    "che io permettessi",
+                    "che io lasciassi",
+                    "che io condonassi",
+                    "che io giustificassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "concēdĕres",
+                "traduzioni": [
+                    "che tu accordassi",
+                    "che tu permettessi",
+                    "che tu lasciassi",
+                    "che tu condonassi",
+                    "che tu giustificassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "concēdĕret",
+                "traduzioni": [
+                    "che lui accordasse",
+                    "che lei accordasse",
+                    "che egli accordasse",
+                    "che lui permettesse",
+                    "che lei permettesse",
+                    "che egli permettesse",
+                    "che lui lasciasse",
+                    "che lei lasciasse",
+                    "che egli lasciasse",
+                    "che lui condonasse",
+                    "che lei condonasse",
+                    "che egli condonasse",
+                    "che lui giustificasse",
+                    "che lei giustificasse",
+                    "che egli giustificasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "concēderēmus",
+                "traduzioni": [
+                    "che noi accordassimo",
+                    "che noi permettessimo",
+                    "che noi lasciassimo",
+                    "che noi condonassimo",
+                    "che noi giustificassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "concēderētis",
+                "traduzioni": [
+                    "che voi accordaste",
+                    "che voi permetteste",
+                    "che voi lasciaste",
+                    "che voi condonaste",
+                    "che voi giustificaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "concēdĕrent",
+                "traduzioni": [
+                    "che loro accordassero",
+                    "che essi accordassero",
+                    "che loro permettessero",
+                    "che essi permettessero",
+                    "che loro lasciassero",
+                    "che essi lasciassero",
+                    "che loro condonassero",
+                    "che essi condonassero",
+                    "che loro giustificassero",
+                    "che essi giustificassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "concessĕrim",
+                "traduzioni": [
+                    "che io abbia accordato",
+                    "che io abbia permesso",
+                    "che io abbia lasciato",
+                    "che io abbia condonato",
+                    "che io abbia giustificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "concessĕris",
+                "traduzioni": [
+                    "che tu abbia accordato",
+                    "che tu abbia permesso",
+                    "che tu abbia lasciato",
+                    "che tu abbia condonato",
+                    "che tu abbia giustificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "concessĕrit",
+                "traduzioni": [
+                    "che lui abbia accordato",
+                    "che lei abbia accordato",
+                    "che egli abbia accordato",
+                    "che lui abbia permesso",
+                    "che lei abbia permesso",
+                    "che egli abbia permesso",
+                    "che lui abbia lasciato",
+                    "che lei abbia lasciato",
+                    "che egli abbia lasciato",
+                    "che lui abbia condonato",
+                    "che lei abbia condonato",
+                    "che egli abbia condonato",
+                    "che lui abbia giustificato",
+                    "che lei abbia giustificato",
+                    "che egli abbia giustificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "concesserĭmus",
+                "traduzioni": [
+                    "che noi abbiamo accordato",
+                    "che noi abbiamo permesso",
+                    "che noi abbiamo lasciato",
+                    "che noi abbiamo condonato",
+                    "che noi abbiamo giustificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "concesserĭtis",
+                "traduzioni": [
+                    "che voi abbiate accordato",
+                    "che voi abbiate permesso",
+                    "che voi abbiate lasciato",
+                    "che voi abbiate condonato",
+                    "che voi abbiate giustificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "concessĕrint",
+                "traduzioni": [
+                    "che loro abbiano accordato",
+                    "che essi abbiano accordato",
+                    "che loro abbiano permesso",
+                    "che essi abbiano permesso",
+                    "che loro abbiano lasciato",
+                    "che essi abbiano lasciato",
+                    "che loro abbiano condonato",
+                    "che essi abbiano condonato",
+                    "che loro abbiano giustificato",
+                    "che essi abbiano giustificato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "concessissem",
+                "traduzioni": [
+                    "che io avessi accordato",
+                    "che io avessi permesso",
+                    "che io avessi lasciato",
+                    "che io avessi condonato",
+                    "che io avessi giustificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "concessisses",
+                "traduzioni": [
+                    "che tu avessi accordato",
+                    "che tu avessi permesso",
+                    "che tu avessi lasciato",
+                    "che tu avessi condonato",
+                    "che tu avessi giustificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "concessisset",
+                "traduzioni": [
+                    "che lui avesse accordato",
+                    "che lei avesse accordato",
+                    "che egli avesse accordato",
+                    "che lui avesse permesso",
+                    "che lei avesse permesso",
+                    "che egli avesse permesso",
+                    "che lui avesse lasciato",
+                    "che lei avesse lasciato",
+                    "che egli avesse lasciato",
+                    "che lui avesse condonato",
+                    "che lei avesse condonato",
+                    "che egli avesse condonato",
+                    "che lui avesse giustificato",
+                    "che lei avesse giustificato",
+                    "che egli avesse giustificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "concessissēmus",
+                "traduzioni": [
+                    "che noi avessimo accordato",
+                    "che noi avessimo permesso",
+                    "che noi avessimo lasciato",
+                    "che noi avessimo condonato",
+                    "che noi avessimo giustificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "concessissētis",
+                "traduzioni": [
+                    "che voi aveste accordato",
+                    "che voi aveste permesso",
+                    "che voi aveste lasciato",
+                    "che voi aveste condonato",
+                    "che voi aveste giustificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "concessissent",
+                "traduzioni": [
+                    "che loro avessero accordato",
+                    "che essi avessero accordato",
+                    "che loro avessero permesso",
+                    "che essi avessero permesso",
+                    "che loro avessero lasciato",
+                    "che essi avessero lasciato",
+                    "che loro avessero condonato",
+                    "che essi avessero condonato",
+                    "che loro avessero giustificato",
+                    "che essi avessero giustificato"
+                ]
+            }
+        ]
+    }
+}

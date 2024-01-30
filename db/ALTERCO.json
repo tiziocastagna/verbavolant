@@ -1,0 +1,723 @@
+{
+    "identifier": "ALTERCO",
+    "conuigazione": "1",
+    "translation": [
+        "litigare",
+        "discutere",
+        "altercare",
+        "retorica disputare"
+    ],
+    "valid_translations": [
+        "litigare",
+        "discutere",
+        "altercare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "alterco",
+                "traduzioni": [
+                    "io litigo",
+                    "io discuto",
+                    "io alterco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "altercas",
+                "traduzioni": [
+                    "tu litighi",
+                    "tu discuti",
+                    "tu alterchi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "altercat",
+                "traduzioni": [
+                    "lui litiga",
+                    "lei litiga",
+                    "egli litiga",
+                    "lui discute",
+                    "lei discute",
+                    "egli discute",
+                    "lui alterca",
+                    "lei alterca",
+                    "egli alterca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "altercāmus",
+                "traduzioni": [
+                    "noi litighiamo",
+                    "noi discutiamo",
+                    "noi alterchiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "altercātis",
+                "traduzioni": [
+                    "voi litigate",
+                    "voi discutete",
+                    "voi altercate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "altercant",
+                "traduzioni": [
+                    "loro litigano",
+                    "essi litigano",
+                    "loro discutono",
+                    "essi discutono",
+                    "loro altercano",
+                    "essi altercano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "altercābam",
+                "traduzioni": [
+                    "io litigavo",
+                    "io discutevo",
+                    "io altercavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "altercābas",
+                "traduzioni": [
+                    "tu litigavi",
+                    "tu discutevi",
+                    "tu altercavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "altercābat",
+                "traduzioni": [
+                    "lui litigava",
+                    "lei litigava",
+                    "egli litigava",
+                    "lui discuteva",
+                    "lei discuteva",
+                    "egli discuteva",
+                    "lui altercava",
+                    "lei altercava",
+                    "egli altercava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "altercabāmus",
+                "traduzioni": [
+                    "noi litigavamo",
+                    "noi discutevamo",
+                    "noi altercavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "altercabātis",
+                "traduzioni": [
+                    "voi litigavate",
+                    "voi discutevate",
+                    "voi altercavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "altercābant",
+                "traduzioni": [
+                    "loro litigavano",
+                    "essi litigavano",
+                    "loro discutevano",
+                    "essi discutevano",
+                    "loro altercavano",
+                    "essi altercavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "altercābo",
+                "traduzioni": [
+                    "io litigherò",
+                    "io discuterò",
+                    "io altercherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "altercābis",
+                "traduzioni": [
+                    "tu litigherai",
+                    "tu discuterai",
+                    "tu altercherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "altercābit",
+                "traduzioni": [
+                    "lui litigherà",
+                    "lei litigherà",
+                    "egli litigherà",
+                    "lui discuterà",
+                    "lei discuterà",
+                    "egli discuterà",
+                    "lui altercherà",
+                    "lei altercherà",
+                    "egli altercherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "altercabĭmus",
+                "traduzioni": [
+                    "noi litigheremo",
+                    "noi discuteremo",
+                    "noi altercheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "altercabĭtis",
+                "traduzioni": [
+                    "voi litigherete",
+                    "voi discuterete",
+                    "voi altercherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "altercābunt",
+                "traduzioni": [
+                    "loro litigheranno",
+                    "essi litigheranno",
+                    "loro discuteranno",
+                    "essi discuteranno",
+                    "loro altercheranno",
+                    "essi altercheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "altercavi",
+                "traduzioni": [
+                    "io litigai",
+                    "io ho litigato",
+                    "io ebbi litigato",
+                    "io discussi",
+                    "io ho discusso",
+                    "io ebbi discusso",
+                    "io altercai",
+                    "io ho altercato",
+                    "io ebbi altercato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "altercavisti",
+                "traduzioni": [
+                    "tu litigasti",
+                    "tu hai litigato",
+                    "tu avesti litigato",
+                    "tu discutesti",
+                    "tu hai discusso",
+                    "tu avesti discusso",
+                    "tu altercasti",
+                    "tu hai altercato",
+                    "tu avesti altercato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "altercavit",
+                "traduzioni": [
+                    "lui litigò",
+                    "lei litigò",
+                    "egli litigò",
+                    "lui ha litigato",
+                    "lei ha litigato",
+                    "egli ha litigato",
+                    "lui ebbe litigato",
+                    "lei ebbe litigato",
+                    "egli ebbe litigato",
+                    "lui discusse",
+                    "lei discusse",
+                    "egli discusse",
+                    "lui ha discusso",
+                    "lei ha discusso",
+                    "egli ha discusso",
+                    "lui ebbe discusso",
+                    "lei ebbe discusso",
+                    "egli ebbe discusso",
+                    "lui altercò",
+                    "lei altercò",
+                    "egli altercò",
+                    "lui ha altercato",
+                    "lei ha altercato",
+                    "egli ha altercato",
+                    "lui ebbe altercato",
+                    "lei ebbe altercato",
+                    "egli ebbe altercato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "altercavĭmus",
+                "traduzioni": [
+                    "noi litigammo",
+                    "noi abbiamo litigato",
+                    "noi avemmo litigato",
+                    "noi discutemmo",
+                    "noi abbiamo discusso",
+                    "noi avemmo discusso",
+                    "noi altercammo",
+                    "noi abbiamo altercato",
+                    "noi avemmo altercato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "altercavistis",
+                "traduzioni": [
+                    "voi litigaste",
+                    "voi avete litigato",
+                    "voi aveste litigato",
+                    "voi discuteste",
+                    "voi avete discusso",
+                    "voi aveste discusso",
+                    "voi altercaste",
+                    "voi avete altercato",
+                    "voi aveste altercato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "altercavērunt, altercavēre",
+                "traduzioni": [
+                    "loro litigarono",
+                    "essi litigarono",
+                    "loro hanno litigato",
+                    "essi hanno litigato",
+                    "loro ebbero litigato",
+                    "essi ebbero litigato",
+                    "loro discussero",
+                    "essi discussero",
+                    "loro hanno discusso",
+                    "essi hanno discusso",
+                    "loro ebbero discusso",
+                    "essi ebbero discusso",
+                    "loro altercarono",
+                    "essi altercarono",
+                    "loro hanno altercato",
+                    "essi hanno altercato",
+                    "loro ebbero altercato",
+                    "essi ebbero altercato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "altercavĕram",
+                "traduzioni": [
+                    "io avevo litigato",
+                    "io avevo discusso",
+                    "io avevo altercato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "altercavĕras",
+                "traduzioni": [
+                    "tu avevi litigato",
+                    "tu avevi discusso",
+                    "tu avevi altercato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "altercavĕrat",
+                "traduzioni": [
+                    "lui aveva litigato",
+                    "lei aveva litigato",
+                    "egli aveva litigato",
+                    "lui aveva discusso",
+                    "lei aveva discusso",
+                    "egli aveva discusso",
+                    "lui aveva altercato",
+                    "lei aveva altercato",
+                    "egli aveva altercato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "altercaverāmus",
+                "traduzioni": [
+                    "noi avevamo litigato",
+                    "noi avevamo discusso",
+                    "noi avevamo altercato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "altercaverātis",
+                "traduzioni": [
+                    "voi avevate litigato",
+                    "voi avevate discusso",
+                    "voi avevate altercato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "altercavĕrant",
+                "traduzioni": [
+                    "loro avevano litigato",
+                    "essi avevano litigato",
+                    "loro avevano discusso",
+                    "essi avevano discusso",
+                    "loro avevano altercato",
+                    "essi avevano altercato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "altercavĕro",
+                "traduzioni": [
+                    "io avrò litigato",
+                    "io avrò discusso",
+                    "io avrò altercato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "altercavĕris",
+                "traduzioni": [
+                    "tu avrai litigato",
+                    "tu avrai discusso",
+                    "tu avrai altercato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "altercavĕrit",
+                "traduzioni": [
+                    "lui avrà litigato",
+                    "lei avrà litigato",
+                    "egli avrà litigato",
+                    "lui avrà discusso",
+                    "lei avrà discusso",
+                    "egli avrà discusso",
+                    "lui avrà altercato",
+                    "lei avrà altercato",
+                    "egli avrà altercato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "altercaverĭmus",
+                "traduzioni": [
+                    "noi avremo litigato",
+                    "noi avremo discusso",
+                    "noi avremo altercato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "altercaverĭtis",
+                "traduzioni": [
+                    "voi avrete litigato",
+                    "voi avrete discusso",
+                    "voi avrete altercato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "altercavĕrint",
+                "traduzioni": [
+                    "loro avranno litigato",
+                    "essi avranno litigato",
+                    "loro avranno discusso",
+                    "essi avranno discusso",
+                    "loro avranno altercato",
+                    "essi avranno altercato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "altercem",
+                "traduzioni": [
+                    "che io litighi",
+                    "che io discuta",
+                    "che io alterchi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "alterces",
+                "traduzioni": [
+                    "che tu litighi",
+                    "che tu discuta",
+                    "che tu alterchi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "altercet",
+                "traduzioni": [
+                    "che lui litighi",
+                    "che lei litighi",
+                    "che egli litighi",
+                    "che lui discuta",
+                    "che lei discuta",
+                    "che egli discuta",
+                    "che lui alterchi",
+                    "che lei alterchi",
+                    "che egli alterchi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "altercēmus",
+                "traduzioni": [
+                    "che noi litighiamo",
+                    "che noi discutiamo",
+                    "che noi alterchiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "altercētis",
+                "traduzioni": [
+                    "che voi litighiate",
+                    "che voi discutiate",
+                    "che voi alterchiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "altercent",
+                "traduzioni": [
+                    "che loro litighino",
+                    "che essi litighino",
+                    "che loro discutano",
+                    "che essi discutano",
+                    "che loro alterchino",
+                    "che essi alterchino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "altercārem",
+                "traduzioni": [
+                    "che io litigassi",
+                    "che io discutessi",
+                    "che io altercassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "altercāres",
+                "traduzioni": [
+                    "che tu litigassi",
+                    "che tu discutessi",
+                    "che tu altercassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "altercāret",
+                "traduzioni": [
+                    "che lui litigasse",
+                    "che lei litigasse",
+                    "che egli litigasse",
+                    "che lui discutesse",
+                    "che lei discutesse",
+                    "che egli discutesse",
+                    "che lui altercasse",
+                    "che lei altercasse",
+                    "che egli altercasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "altercarēmus",
+                "traduzioni": [
+                    "che noi litigassimo",
+                    "che noi discutessimo",
+                    "che noi altercassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "altercarētis",
+                "traduzioni": [
+                    "che voi litigaste",
+                    "che voi discuteste",
+                    "che voi altercaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "altercārent",
+                "traduzioni": [
+                    "che loro litigassero",
+                    "che essi litigassero",
+                    "che loro discutessero",
+                    "che essi discutessero",
+                    "che loro altercassero",
+                    "che essi altercassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "altercavĕrim",
+                "traduzioni": [
+                    "che io abbia litigato",
+                    "che io abbia discusso",
+                    "che io abbia altercato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "altercavĕris",
+                "traduzioni": [
+                    "che tu abbia litigato",
+                    "che tu abbia discusso",
+                    "che tu abbia altercato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "altercavĕrit",
+                "traduzioni": [
+                    "che lui abbia litigato",
+                    "che lei abbia litigato",
+                    "che egli abbia litigato",
+                    "che lui abbia discusso",
+                    "che lei abbia discusso",
+                    "che egli abbia discusso",
+                    "che lui abbia altercato",
+                    "che lei abbia altercato",
+                    "che egli abbia altercato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "altercaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo litigato",
+                    "che noi abbiamo discusso",
+                    "che noi abbiamo altercato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "altercaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate litigato",
+                    "che voi abbiate discusso",
+                    "che voi abbiate altercato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "altercavĕrint",
+                "traduzioni": [
+                    "che loro abbiano litigato",
+                    "che essi abbiano litigato",
+                    "che loro abbiano discusso",
+                    "che essi abbiano discusso",
+                    "che loro abbiano altercato",
+                    "che essi abbiano altercato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "altercavissem",
+                "traduzioni": [
+                    "che io avessi litigato",
+                    "che io avessi discusso",
+                    "che io avessi altercato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "altercavisses",
+                "traduzioni": [
+                    "che tu avessi litigato",
+                    "che tu avessi discusso",
+                    "che tu avessi altercato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "altercavisset",
+                "traduzioni": [
+                    "che lui avesse litigato",
+                    "che lei avesse litigato",
+                    "che egli avesse litigato",
+                    "che lui avesse discusso",
+                    "che lei avesse discusso",
+                    "che egli avesse discusso",
+                    "che lui avesse altercato",
+                    "che lei avesse altercato",
+                    "che egli avesse altercato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "altercavissēmus",
+                "traduzioni": [
+                    "che noi avessimo litigato",
+                    "che noi avessimo discusso",
+                    "che noi avessimo altercato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "altercavissētis",
+                "traduzioni": [
+                    "che voi aveste litigato",
+                    "che voi aveste discusso",
+                    "che voi aveste altercato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "altercavissent",
+                "traduzioni": [
+                    "che loro avessero litigato",
+                    "che essi avessero litigato",
+                    "che loro avessero discusso",
+                    "che essi avessero discusso",
+                    "che loro avessero altercato",
+                    "che essi avessero altercato"
+                ]
+            }
+        ]
+    }
+}

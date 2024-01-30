@@ -1,0 +1,502 @@
+{
+    "identifier": "SPUTO",
+    "conuigazione": "1",
+    "translation": [
+        "sputare"
+    ],
+    "valid_translations": [
+        "sputare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "spūto",
+                "traduzioni": [
+                    "io sputo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spūtas",
+                "traduzioni": [
+                    "tu sputi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spūtat",
+                "traduzioni": [
+                    "lui sputa",
+                    "lei sputa",
+                    "egli sputa"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spūtāmus",
+                "traduzioni": [
+                    "noi sputiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spūtātis",
+                "traduzioni": [
+                    "voi sputate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spūtant",
+                "traduzioni": [
+                    "loro sputano",
+                    "essi sputano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "spūtābam",
+                "traduzioni": [
+                    "io sputavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spūtābas",
+                "traduzioni": [
+                    "tu sputavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spūtābat",
+                "traduzioni": [
+                    "lui sputava",
+                    "lei sputava",
+                    "egli sputava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spūtabāmus",
+                "traduzioni": [
+                    "noi sputavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spūtabātis",
+                "traduzioni": [
+                    "voi sputavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spūtābant",
+                "traduzioni": [
+                    "loro sputavano",
+                    "essi sputavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "spūtābo",
+                "traduzioni": [
+                    "io sputerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spūtābis",
+                "traduzioni": [
+                    "tu sputerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spūtābit",
+                "traduzioni": [
+                    "lui sputerà",
+                    "lei sputerà",
+                    "egli sputerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spūtabĭmus",
+                "traduzioni": [
+                    "noi sputeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spūtabĭtis",
+                "traduzioni": [
+                    "voi sputerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spūtābunt",
+                "traduzioni": [
+                    "loro sputeranno",
+                    "essi sputeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io sputai",
+                    "io ho sputato",
+                    "io ebbi sputato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu sputasti",
+                    "tu hai sputato",
+                    "tu avesti sputato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui sputò",
+                    "lei sputò",
+                    "egli sputò",
+                    "lui ha sputato",
+                    "lei ha sputato",
+                    "egli ha sputato",
+                    "lui ebbe sputato",
+                    "lei ebbe sputato",
+                    "egli ebbe sputato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi sputammo",
+                    "noi abbiamo sputato",
+                    "noi avemmo sputato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi sputaste",
+                    "voi avete sputato",
+                    "voi aveste sputato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro sputarono",
+                    "essi sputarono",
+                    "loro hanno sputato",
+                    "essi hanno sputato",
+                    "loro ebbero sputato",
+                    "essi ebbero sputato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avevo sputato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avevi sputato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui aveva sputato",
+                    "lei aveva sputato",
+                    "egli aveva sputato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avevamo sputato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avevate sputato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avevano sputato",
+                    "essi avevano sputato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avrò sputato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avrai sputato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui avrà sputato",
+                    "lei avrà sputato",
+                    "egli avrà sputato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avremo sputato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avrete sputato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avranno sputato",
+                    "essi avranno sputato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "spūtem",
+                "traduzioni": [
+                    "che io sputi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spūtes",
+                "traduzioni": [
+                    "che tu sputi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spūtet",
+                "traduzioni": [
+                    "che lui sputi",
+                    "che lei sputi",
+                    "che egli sputi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spūtēmus",
+                "traduzioni": [
+                    "che noi sputiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spūtētis",
+                "traduzioni": [
+                    "che voi sputiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spūtent",
+                "traduzioni": [
+                    "che loro sputino",
+                    "che essi sputino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "spūtārem",
+                "traduzioni": [
+                    "che io sputassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spūtāres",
+                "traduzioni": [
+                    "che tu sputassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spūtāret",
+                "traduzioni": [
+                    "che lui sputasse",
+                    "che lei sputasse",
+                    "che egli sputasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spūtarēmus",
+                "traduzioni": [
+                    "che noi sputassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spūtarētis",
+                "traduzioni": [
+                    "che voi sputaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spūtārent",
+                "traduzioni": [
+                    "che loro sputassero",
+                    "che essi sputassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io abbia sputato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu abbia sputato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui abbia sputato",
+                    "che lei abbia sputato",
+                    "che egli abbia sputato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi abbiamo sputato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi abbiate sputato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro abbiano sputato",
+                    "che essi abbiano sputato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io avessi sputato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu avessi sputato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui avesse sputato",
+                    "che lei avesse sputato",
+                    "che egli avesse sputato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi avessimo sputato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi aveste sputato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro avessero sputato",
+                    "che essi avessero sputato"
+                ]
+            }
+        ]
+    }
+}

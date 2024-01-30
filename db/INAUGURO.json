@@ -1,0 +1,503 @@
+{
+    "identifier": "INAUGURO",
+    "conuigazione": "1",
+    "translation": [
+        "(transitivo) inaugurare",
+        "consacrare"
+    ],
+    "valid_translations": [
+        "consacrare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ĭnaugŭro",
+                "traduzioni": [
+                    "io consacro"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ĭnaugŭras",
+                "traduzioni": [
+                    "tu consacri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ĭnaugŭrat",
+                "traduzioni": [
+                    "lui consacra",
+                    "lei consacra",
+                    "egli consacra"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ĭnaugŭrāmus",
+                "traduzioni": [
+                    "noi consacriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ĭnaugŭrātis",
+                "traduzioni": [
+                    "voi consacrate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ĭnaugŭrant",
+                "traduzioni": [
+                    "loro consacrano",
+                    "essi consacrano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ĭnaugŭrābam",
+                "traduzioni": [
+                    "io consacravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ĭnaugŭrābas",
+                "traduzioni": [
+                    "tu consacravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ĭnaugŭrābat",
+                "traduzioni": [
+                    "lui consacrava",
+                    "lei consacrava",
+                    "egli consacrava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ĭnaugŭrabāmus",
+                "traduzioni": [
+                    "noi consacravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ĭnaugŭrabātis",
+                "traduzioni": [
+                    "voi consacravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ĭnaugŭrābant",
+                "traduzioni": [
+                    "loro consacravano",
+                    "essi consacravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ĭnaugŭrābo",
+                "traduzioni": [
+                    "io consacrerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ĭnaugŭrābis",
+                "traduzioni": [
+                    "tu consacrerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ĭnaugŭrābit",
+                "traduzioni": [
+                    "lui consacrerà",
+                    "lei consacrerà",
+                    "egli consacrerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ĭnaugŭrabĭmus",
+                "traduzioni": [
+                    "noi consacreremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ĭnaugŭrabĭtis",
+                "traduzioni": [
+                    "voi consacrerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ĭnaugŭrābunt",
+                "traduzioni": [
+                    "loro consacreranno",
+                    "essi consacreranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "inauguravi",
+                "traduzioni": [
+                    "io consacrai",
+                    "io ho consacrato",
+                    "io ebbi consacrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "inauguravisti",
+                "traduzioni": [
+                    "tu consacrasti",
+                    "tu hai consacrato",
+                    "tu avesti consacrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "inauguravit",
+                "traduzioni": [
+                    "lui consacrò",
+                    "lei consacrò",
+                    "egli consacrò",
+                    "lui ha consacrato",
+                    "lei ha consacrato",
+                    "egli ha consacrato",
+                    "lui ebbe consacrato",
+                    "lei ebbe consacrato",
+                    "egli ebbe consacrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "inauguravĭmus",
+                "traduzioni": [
+                    "noi consacrammo",
+                    "noi abbiamo consacrato",
+                    "noi avemmo consacrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "inauguravistis",
+                "traduzioni": [
+                    "voi consacraste",
+                    "voi avete consacrato",
+                    "voi aveste consacrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "inauguravēreunt, inauguravēre",
+                "traduzioni": [
+                    "loro consacrarono",
+                    "essi consacrarono",
+                    "loro hanno consacrato",
+                    "essi hanno consacrato",
+                    "loro ebbero consacrato",
+                    "essi ebbero consacrato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "inauguravĕram",
+                "traduzioni": [
+                    "io avevo consacrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "inauguravĕras",
+                "traduzioni": [
+                    "tu avevi consacrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "inauguravĕrat",
+                "traduzioni": [
+                    "lui aveva consacrato",
+                    "lei aveva consacrato",
+                    "egli aveva consacrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "inauguraverāmus",
+                "traduzioni": [
+                    "noi avevamo consacrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "inauguraverātis",
+                "traduzioni": [
+                    "voi avevate consacrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "inauguravĕrant",
+                "traduzioni": [
+                    "loro avevano consacrato",
+                    "essi avevano consacrato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "inauguravĕro",
+                "traduzioni": [
+                    "io avrò consacrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "inauguravĕris",
+                "traduzioni": [
+                    "tu avrai consacrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "inauguravĕrit",
+                "traduzioni": [
+                    "lui avrà consacrato",
+                    "lei avrà consacrato",
+                    "egli avrà consacrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "inauguraverĭmus",
+                "traduzioni": [
+                    "noi avremo consacrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "inauguraverĭtis",
+                "traduzioni": [
+                    "voi avrete consacrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "inauguravĕrint",
+                "traduzioni": [
+                    "loro avranno consacrato",
+                    "essi avranno consacrato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ĭnaugŭrem",
+                "traduzioni": [
+                    "che io consacri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ĭnaugŭres",
+                "traduzioni": [
+                    "che tu consacri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ĭnaugŭret",
+                "traduzioni": [
+                    "che lui consacri",
+                    "che lei consacri",
+                    "che egli consacri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ĭnaugŭrēmus",
+                "traduzioni": [
+                    "che noi consacriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ĭnaugŭrētis",
+                "traduzioni": [
+                    "che voi consacriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ĭnaugŭrent",
+                "traduzioni": [
+                    "che loro consacrino",
+                    "che essi consacrino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ĭnaugŭrārem",
+                "traduzioni": [
+                    "che io consacrassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ĭnaugŭrāres",
+                "traduzioni": [
+                    "che tu consacrassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ĭnaugŭrāret",
+                "traduzioni": [
+                    "che lui consacrasse",
+                    "che lei consacrasse",
+                    "che egli consacrasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ĭnaugŭrarēmus",
+                "traduzioni": [
+                    "che noi consacrassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ĭnaugŭrarētis",
+                "traduzioni": [
+                    "che voi consacraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ĭnaugŭrārent",
+                "traduzioni": [
+                    "che loro consacrassero",
+                    "che essi consacrassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "inauguravĕrim",
+                "traduzioni": [
+                    "che io abbia consacrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "inauguravĕris",
+                "traduzioni": [
+                    "che tu abbia consacrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "inauguravĕrit",
+                "traduzioni": [
+                    "che lui abbia consacrato",
+                    "che lei abbia consacrato",
+                    "che egli abbia consacrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "inauguraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo consacrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "inauguraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate consacrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "inauguravĕrint",
+                "traduzioni": [
+                    "che loro abbiano consacrato",
+                    "che essi abbiano consacrato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "inauguravissem",
+                "traduzioni": [
+                    "che io avessi consacrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "inauguravisses",
+                "traduzioni": [
+                    "che tu avessi consacrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "inauguravisset",
+                "traduzioni": [
+                    "che lui avesse consacrato",
+                    "che lei avesse consacrato",
+                    "che egli avesse consacrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "inauguravissēmus",
+                "traduzioni": [
+                    "che noi avessimo consacrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "inauguravissētis",
+                "traduzioni": [
+                    "che voi aveste consacrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "inauguravissent",
+                "traduzioni": [
+                    "che loro avessero consacrato",
+                    "che essi avessero consacrato"
+                ]
+            }
+        ]
+    }
+}

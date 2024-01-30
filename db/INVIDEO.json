@@ -1,0 +1,942 @@
+{
+    "identifier": "INVIDEO",
+    "conuigazione": "2",
+    "translation": [
+        "invidiare",
+        "negare",
+        "rifiutare",
+        "impedire",
+        "ricusare"
+    ],
+    "valid_translations": [
+        "invidiare",
+        "negare",
+        "rifiutare",
+        "impedire",
+        "ricusare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "invĭdĕo",
+                "traduzioni": [
+                    "io invidio",
+                    "io nego",
+                    "io rifiuto",
+                    "io impedisco",
+                    "io ricuso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invĭdes",
+                "traduzioni": [
+                    "tu invidi",
+                    "tu neghi",
+                    "tu rifiuti",
+                    "tu impedisci",
+                    "tu ricusi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invĭdet",
+                "traduzioni": [
+                    "lui invidia",
+                    "lei invidia",
+                    "egli invidia",
+                    "lui nega",
+                    "lei nega",
+                    "egli nega",
+                    "lui rifiuta",
+                    "lei rifiuta",
+                    "egli rifiuta",
+                    "lui impedisce",
+                    "lei impedisce",
+                    "egli impedisce",
+                    "lui ricusa",
+                    "lei ricusa",
+                    "egli ricusa"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invĭdēmus",
+                "traduzioni": [
+                    "noi invidiamo",
+                    "noi neghiamo",
+                    "noi rifiutiamo",
+                    "noi impediamo",
+                    "noi ricusiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invĭdētis",
+                "traduzioni": [
+                    "voi invidiate",
+                    "voi negate",
+                    "voi rifiutate",
+                    "voi impedite",
+                    "voi ricusate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invĭdent",
+                "traduzioni": [
+                    "loro invidiano",
+                    "essi invidiano",
+                    "loro negano",
+                    "essi negano",
+                    "loro rifiutano",
+                    "essi rifiutano",
+                    "loro impediscono",
+                    "essi impediscono",
+                    "loro ricusano",
+                    "essi ricusano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invĭdēbam",
+                "traduzioni": [
+                    "io invidiavo",
+                    "io negavo",
+                    "io rifiutavo",
+                    "io impedivo",
+                    "io ricusavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invĭdēbas",
+                "traduzioni": [
+                    "tu invidiavi",
+                    "tu negavi",
+                    "tu rifiutavi",
+                    "tu impedivi",
+                    "tu ricusavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invĭdēbat",
+                "traduzioni": [
+                    "lui invidiava",
+                    "lei invidiava",
+                    "egli invidiava",
+                    "lui negava",
+                    "lei negava",
+                    "egli negava",
+                    "lui rifiutava",
+                    "lei rifiutava",
+                    "egli rifiutava",
+                    "lui impediva",
+                    "lei impediva",
+                    "egli impediva",
+                    "lui ricusava",
+                    "lei ricusava",
+                    "egli ricusava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invĭdebāmus",
+                "traduzioni": [
+                    "noi invidiavamo",
+                    "noi negavamo",
+                    "noi rifiutavamo",
+                    "noi impedivamo",
+                    "noi ricusavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invĭdebātis",
+                "traduzioni": [
+                    "voi invidiavate",
+                    "voi negavate",
+                    "voi rifiutavate",
+                    "voi impedivate",
+                    "voi ricusavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invĭdēbant",
+                "traduzioni": [
+                    "loro invidiavano",
+                    "essi invidiavano",
+                    "loro negavano",
+                    "essi negavano",
+                    "loro rifiutavano",
+                    "essi rifiutavano",
+                    "loro impedivano",
+                    "essi impedivano",
+                    "loro ricusavano",
+                    "essi ricusavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "invĭdēbo",
+                "traduzioni": [
+                    "io invidierò",
+                    "io negherò",
+                    "io rifiuterò",
+                    "io impedirò",
+                    "io ricuserò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invĭdēbis",
+                "traduzioni": [
+                    "tu invidierai",
+                    "tu negherai",
+                    "tu rifiuterai",
+                    "tu impedirai",
+                    "tu ricuserai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invĭdēbit",
+                "traduzioni": [
+                    "lui invidierà",
+                    "lei invidierà",
+                    "egli invidierà",
+                    "lui negherà",
+                    "lei negherà",
+                    "egli negherà",
+                    "lui rifiuterà",
+                    "lei rifiuterà",
+                    "egli rifiuterà",
+                    "lui impedirà",
+                    "lei impedirà",
+                    "egli impedirà",
+                    "lui ricuserà",
+                    "lei ricuserà",
+                    "egli ricuserà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invĭdebĭmus",
+                "traduzioni": [
+                    "noi invidieremo",
+                    "noi negheremo",
+                    "noi rifiuteremo",
+                    "noi impediremo",
+                    "noi ricuseremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invĭdebĭtis",
+                "traduzioni": [
+                    "voi invidierete",
+                    "voi negherete",
+                    "voi rifiuterete",
+                    "voi impedirete",
+                    "voi ricuserete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invĭdēbunt",
+                "traduzioni": [
+                    "loro invidieranno",
+                    "essi invidieranno",
+                    "loro negheranno",
+                    "essi negheranno",
+                    "loro rifiuteranno",
+                    "essi rifiuteranno",
+                    "loro impediranno",
+                    "essi impediranno",
+                    "loro ricuseranno",
+                    "essi ricuseranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invidi",
+                "traduzioni": [
+                    "io invidiai",
+                    "io ho invidiato",
+                    "io ebbi invidiato",
+                    "io negai",
+                    "io ho negato",
+                    "io ebbi negato",
+                    "io rifiutai",
+                    "io ho rifiutato",
+                    "io ebbi rifiutato",
+                    "io impedii",
+                    "io ho impedito",
+                    "io ebbi impedito",
+                    "io ricusai",
+                    "io ho ricusato",
+                    "io ebbi ricusato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invidisti",
+                "traduzioni": [
+                    "tu invidiasti",
+                    "tu hai invidiato",
+                    "tu avesti invidiato",
+                    "tu negasti",
+                    "tu hai negato",
+                    "tu avesti negato",
+                    "tu rifiutasti",
+                    "tu hai rifiutato",
+                    "tu avesti rifiutato",
+                    "tu impedisti",
+                    "tu hai impedito",
+                    "tu avesti impedito",
+                    "tu ricusasti",
+                    "tu hai ricusato",
+                    "tu avesti ricusato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invidit",
+                "traduzioni": [
+                    "lui invidiò",
+                    "lei invidiò",
+                    "egli invidiò",
+                    "lui ha invidiato",
+                    "lei ha invidiato",
+                    "egli ha invidiato",
+                    "lui ebbe invidiato",
+                    "lei ebbe invidiato",
+                    "egli ebbe invidiato",
+                    "lui negò",
+                    "lei negò",
+                    "egli negò",
+                    "lui ha negato",
+                    "lei ha negato",
+                    "egli ha negato",
+                    "lui ebbe negato",
+                    "lei ebbe negato",
+                    "egli ebbe negato",
+                    "lui rifiutò",
+                    "lei rifiutò",
+                    "egli rifiutò",
+                    "lui ha rifiutato",
+                    "lei ha rifiutato",
+                    "egli ha rifiutato",
+                    "lui ebbe rifiutato",
+                    "lei ebbe rifiutato",
+                    "egli ebbe rifiutato",
+                    "lui impedì",
+                    "lei impedì",
+                    "egli impedì",
+                    "lui ha impedito",
+                    "lei ha impedito",
+                    "egli ha impedito",
+                    "lui ebbe impedito",
+                    "lei ebbe impedito",
+                    "egli ebbe impedito",
+                    "lui ricusò",
+                    "lei ricusò",
+                    "egli ricusò",
+                    "lui ha ricusato",
+                    "lei ha ricusato",
+                    "egli ha ricusato",
+                    "lui ebbe ricusato",
+                    "lei ebbe ricusato",
+                    "egli ebbe ricusato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invidĭmus",
+                "traduzioni": [
+                    "noi invidiammo",
+                    "noi abbiamo invidiato",
+                    "noi avemmo invidiato",
+                    "noi negammo",
+                    "noi abbiamo negato",
+                    "noi avemmo negato",
+                    "noi rifiutammo",
+                    "noi abbiamo rifiutato",
+                    "noi avemmo rifiutato",
+                    "noi impedimmo",
+                    "noi abbiamo impedito",
+                    "noi avemmo impedito",
+                    "noi ricusammo",
+                    "noi abbiamo ricusato",
+                    "noi avemmo ricusato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invidistis",
+                "traduzioni": [
+                    "voi invidiaste",
+                    "voi avete invidiato",
+                    "voi aveste invidiato",
+                    "voi negaste",
+                    "voi avete negato",
+                    "voi aveste negato",
+                    "voi rifiutaste",
+                    "voi avete rifiutato",
+                    "voi aveste rifiutato",
+                    "voi impediste",
+                    "voi avete impedito",
+                    "voi aveste impedito",
+                    "voi ricusaste",
+                    "voi avete ricusato",
+                    "voi aveste ricusato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invidērunt, invidēre",
+                "traduzioni": [
+                    "loro invidiarono",
+                    "essi invidiarono",
+                    "loro hanno invidiato",
+                    "essi hanno invidiato",
+                    "loro ebbero invidiato",
+                    "essi ebbero invidiato",
+                    "loro negarono",
+                    "essi negarono",
+                    "loro hanno negato",
+                    "essi hanno negato",
+                    "loro ebbero negato",
+                    "essi ebbero negato",
+                    "loro rifiutarono",
+                    "essi rifiutarono",
+                    "loro hanno rifiutato",
+                    "essi hanno rifiutato",
+                    "loro ebbero rifiutato",
+                    "essi ebbero rifiutato",
+                    "loro impedirono",
+                    "essi impedirono",
+                    "loro hanno impedito",
+                    "essi hanno impedito",
+                    "loro ebbero impedito",
+                    "essi ebbero impedito",
+                    "loro ricusarono",
+                    "essi ricusarono",
+                    "loro hanno ricusato",
+                    "essi hanno ricusato",
+                    "loro ebbero ricusato",
+                    "essi ebbero ricusato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invidĕram",
+                "traduzioni": [
+                    "io avevo invidiato",
+                    "io avevo negato",
+                    "io avevo rifiutato",
+                    "io avevo impedito",
+                    "io avevo ricusato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invidĕras",
+                "traduzioni": [
+                    "tu avevi invidiato",
+                    "tu avevi negato",
+                    "tu avevi rifiutato",
+                    "tu avevi impedito",
+                    "tu avevi ricusato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invidĕrat",
+                "traduzioni": [
+                    "lui aveva invidiato",
+                    "lei aveva invidiato",
+                    "egli aveva invidiato",
+                    "lui aveva negato",
+                    "lei aveva negato",
+                    "egli aveva negato",
+                    "lui aveva rifiutato",
+                    "lei aveva rifiutato",
+                    "egli aveva rifiutato",
+                    "lui aveva impedito",
+                    "lei aveva impedito",
+                    "egli aveva impedito",
+                    "lui aveva ricusato",
+                    "lei aveva ricusato",
+                    "egli aveva ricusato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "inviderāmus",
+                "traduzioni": [
+                    "noi avevamo invidiato",
+                    "noi avevamo negato",
+                    "noi avevamo rifiutato",
+                    "noi avevamo impedito",
+                    "noi avevamo ricusato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "inviderātis",
+                "traduzioni": [
+                    "voi avevate invidiato",
+                    "voi avevate negato",
+                    "voi avevate rifiutato",
+                    "voi avevate impedito",
+                    "voi avevate ricusato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invidĕrant",
+                "traduzioni": [
+                    "loro avevano invidiato",
+                    "essi avevano invidiato",
+                    "loro avevano negato",
+                    "essi avevano negato",
+                    "loro avevano rifiutato",
+                    "essi avevano rifiutato",
+                    "loro avevano impedito",
+                    "essi avevano impedito",
+                    "loro avevano ricusato",
+                    "essi avevano ricusato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "invidĕro",
+                "traduzioni": [
+                    "io avrò invidiato",
+                    "io avrò negato",
+                    "io avrò rifiutato",
+                    "io avrò impedito",
+                    "io avrò ricusato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invidĕris",
+                "traduzioni": [
+                    "tu avrai invidiato",
+                    "tu avrai negato",
+                    "tu avrai rifiutato",
+                    "tu avrai impedito",
+                    "tu avrai ricusato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invidĕrit",
+                "traduzioni": [
+                    "lui avrà invidiato",
+                    "lei avrà invidiato",
+                    "egli avrà invidiato",
+                    "lui avrà negato",
+                    "lei avrà negato",
+                    "egli avrà negato",
+                    "lui avrà rifiutato",
+                    "lei avrà rifiutato",
+                    "egli avrà rifiutato",
+                    "lui avrà impedito",
+                    "lei avrà impedito",
+                    "egli avrà impedito",
+                    "lui avrà ricusato",
+                    "lei avrà ricusato",
+                    "egli avrà ricusato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "inviderĭmus",
+                "traduzioni": [
+                    "noi avremo invidiato",
+                    "noi avremo negato",
+                    "noi avremo rifiutato",
+                    "noi avremo impedito",
+                    "noi avremo ricusato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "inviderĭtis",
+                "traduzioni": [
+                    "voi avrete invidiato",
+                    "voi avrete negato",
+                    "voi avrete rifiutato",
+                    "voi avrete impedito",
+                    "voi avrete ricusato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invidĕrint",
+                "traduzioni": [
+                    "loro avranno invidiato",
+                    "essi avranno invidiato",
+                    "loro avranno negato",
+                    "essi avranno negato",
+                    "loro avranno rifiutato",
+                    "essi avranno rifiutato",
+                    "loro avranno impedito",
+                    "essi avranno impedito",
+                    "loro avranno ricusato",
+                    "essi avranno ricusato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "invĭdĕam",
+                "traduzioni": [
+                    "che io invidi",
+                    "che io neghi",
+                    "che io rifiuti",
+                    "che io impedisca",
+                    "che io ricusi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invĭdĕas",
+                "traduzioni": [
+                    "che tu invidi",
+                    "che tu neghi",
+                    "che tu rifiuti",
+                    "che tu impedisca",
+                    "che tu ricusi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invĭdĕat",
+                "traduzioni": [
+                    "che lui invidi",
+                    "che lei invidi",
+                    "che egli invidi",
+                    "che lui neghi",
+                    "che lei neghi",
+                    "che egli neghi",
+                    "che lui rifiuti",
+                    "che lei rifiuti",
+                    "che egli rifiuti",
+                    "che lui impedisca",
+                    "che lei impedisca",
+                    "che egli impedisca",
+                    "che lui ricusi",
+                    "che lei ricusi",
+                    "che egli ricusi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invĭdeāmus",
+                "traduzioni": [
+                    "che noi invidiamo",
+                    "che noi neghiamo",
+                    "che noi rifiutiamo",
+                    "che noi impediamo",
+                    "che noi ricusiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invĭdeātis",
+                "traduzioni": [
+                    "che voi invidiate",
+                    "che voi neghiate",
+                    "che voi rifiutiate",
+                    "che voi impediate",
+                    "che voi ricusiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invĭdĕant",
+                "traduzioni": [
+                    "che loro invidino",
+                    "che essi invidino",
+                    "che loro neghino",
+                    "che essi neghino",
+                    "che loro rifiutino",
+                    "che essi rifiutino",
+                    "che loro impediscano",
+                    "che essi impediscano",
+                    "che loro ricusino",
+                    "che essi ricusino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invĭdērem",
+                "traduzioni": [
+                    "che io invidiassi",
+                    "che io negassi",
+                    "che io rifiutassi",
+                    "che io impedissi",
+                    "che io ricusassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invĭdēres",
+                "traduzioni": [
+                    "che tu invidiassi",
+                    "che tu negassi",
+                    "che tu rifiutassi",
+                    "che tu impedissi",
+                    "che tu ricusassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invĭdēret",
+                "traduzioni": [
+                    "che lui invidiasse",
+                    "che lei invidiasse",
+                    "che egli invidiasse",
+                    "che lui negasse",
+                    "che lei negasse",
+                    "che egli negasse",
+                    "che lui rifiutasse",
+                    "che lei rifiutasse",
+                    "che egli rifiutasse",
+                    "che lui impedisse",
+                    "che lei impedisse",
+                    "che egli impedisse",
+                    "che lui ricusasse",
+                    "che lei ricusasse",
+                    "che egli ricusasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invĭderēmus",
+                "traduzioni": [
+                    "che noi invidiassimo",
+                    "che noi negassimo",
+                    "che noi rifiutassimo",
+                    "che noi impedissimo",
+                    "che noi ricusassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invĭderētis",
+                "traduzioni": [
+                    "che voi invidiaste",
+                    "che voi negaste",
+                    "che voi rifiutaste",
+                    "che voi impediste",
+                    "che voi ricusaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invĭdērent",
+                "traduzioni": [
+                    "che loro invidiassero",
+                    "che essi invidiassero",
+                    "che loro negassero",
+                    "che essi negassero",
+                    "che loro rifiutassero",
+                    "che essi rifiutassero",
+                    "che loro impedissero",
+                    "che essi impedissero",
+                    "che loro ricusassero",
+                    "che essi ricusassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invidĕrim",
+                "traduzioni": [
+                    "che io abbia invidiato",
+                    "che io abbia negato",
+                    "che io abbia rifiutato",
+                    "che io abbia impedito",
+                    "che io abbia ricusato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invidĕris",
+                "traduzioni": [
+                    "che tu abbia invidiato",
+                    "che tu abbia negato",
+                    "che tu abbia rifiutato",
+                    "che tu abbia impedito",
+                    "che tu abbia ricusato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invidĕrit",
+                "traduzioni": [
+                    "che lui abbia invidiato",
+                    "che lei abbia invidiato",
+                    "che egli abbia invidiato",
+                    "che lui abbia negato",
+                    "che lei abbia negato",
+                    "che egli abbia negato",
+                    "che lui abbia rifiutato",
+                    "che lei abbia rifiutato",
+                    "che egli abbia rifiutato",
+                    "che lui abbia impedito",
+                    "che lei abbia impedito",
+                    "che egli abbia impedito",
+                    "che lui abbia ricusato",
+                    "che lei abbia ricusato",
+                    "che egli abbia ricusato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "inviderĭmus",
+                "traduzioni": [
+                    "che noi abbiamo invidiato",
+                    "che noi abbiamo negato",
+                    "che noi abbiamo rifiutato",
+                    "che noi abbiamo impedito",
+                    "che noi abbiamo ricusato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "inviderĭtis",
+                "traduzioni": [
+                    "che voi abbiate invidiato",
+                    "che voi abbiate negato",
+                    "che voi abbiate rifiutato",
+                    "che voi abbiate impedito",
+                    "che voi abbiate ricusato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invidĕrint",
+                "traduzioni": [
+                    "che loro abbiano invidiato",
+                    "che essi abbiano invidiato",
+                    "che loro abbiano negato",
+                    "che essi abbiano negato",
+                    "che loro abbiano rifiutato",
+                    "che essi abbiano rifiutato",
+                    "che loro abbiano impedito",
+                    "che essi abbiano impedito",
+                    "che loro abbiano ricusato",
+                    "che essi abbiano ricusato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invidissem",
+                "traduzioni": [
+                    "che io avessi invidiato",
+                    "che io avessi negato",
+                    "che io avessi rifiutato",
+                    "che io avessi impedito",
+                    "che io avessi ricusato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invidisses",
+                "traduzioni": [
+                    "che tu avessi invidiato",
+                    "che tu avessi negato",
+                    "che tu avessi rifiutato",
+                    "che tu avessi impedito",
+                    "che tu avessi ricusato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invidisset",
+                "traduzioni": [
+                    "che lui avesse invidiato",
+                    "che lei avesse invidiato",
+                    "che egli avesse invidiato",
+                    "che lui avesse negato",
+                    "che lei avesse negato",
+                    "che egli avesse negato",
+                    "che lui avesse rifiutato",
+                    "che lei avesse rifiutato",
+                    "che egli avesse rifiutato",
+                    "che lui avesse impedito",
+                    "che lei avesse impedito",
+                    "che egli avesse impedito",
+                    "che lui avesse ricusato",
+                    "che lei avesse ricusato",
+                    "che egli avesse ricusato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invidissēmus",
+                "traduzioni": [
+                    "che noi avessimo invidiato",
+                    "che noi avessimo negato",
+                    "che noi avessimo rifiutato",
+                    "che noi avessimo impedito",
+                    "che noi avessimo ricusato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invidissētis",
+                "traduzioni": [
+                    "che voi aveste invidiato",
+                    "che voi aveste negato",
+                    "che voi aveste rifiutato",
+                    "che voi aveste impedito",
+                    "che voi aveste ricusato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invidissent",
+                "traduzioni": [
+                    "che loro avessero invidiato",
+                    "che essi avessero invidiato",
+                    "che loro avessero negato",
+                    "che essi avessero negato",
+                    "che loro avessero rifiutato",
+                    "che essi avessero rifiutato",
+                    "che loro avessero impedito",
+                    "che essi avessero impedito",
+                    "che loro avessero ricusato",
+                    "che essi avessero ricusato"
+                ]
+            }
+        ]
+    }
+}

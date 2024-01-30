@@ -1,0 +1,942 @@
+{
+    "identifier": "AMBIO",
+    "conuigazione": "4",
+    "translation": [
+        "girare",
+        "girovagare",
+        "circondare",
+        "cingere",
+        "brigare"
+    ],
+    "valid_translations": [
+        "girare",
+        "girovagare",
+        "circondare",
+        "cingere",
+        "brigare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ambĭo",
+                "traduzioni": [
+                    "io giro",
+                    "io girovago",
+                    "io circondo",
+                    "io cingo",
+                    "io brigo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ambis",
+                "traduzioni": [
+                    "tu giri",
+                    "tu girovaghi",
+                    "tu circondi",
+                    "tu cingi",
+                    "tu brighi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ambit",
+                "traduzioni": [
+                    "lui gira",
+                    "lei gira",
+                    "egli gira",
+                    "lui girovaga",
+                    "lei girovaga",
+                    "egli girovaga",
+                    "lui circonda",
+                    "lei circonda",
+                    "egli circonda",
+                    "lui cinge",
+                    "lei cinge",
+                    "egli cinge",
+                    "lui briga",
+                    "lei briga",
+                    "egli briga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ambīmus",
+                "traduzioni": [
+                    "noi giriamo",
+                    "noi girovaghiamo",
+                    "noi circondiamo",
+                    "noi cingiamo",
+                    "noi brighiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ambītis",
+                "traduzioni": [
+                    "voi girate",
+                    "voi girovagate",
+                    "voi circondate",
+                    "voi cingete",
+                    "voi brigate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ambĭunt",
+                "traduzioni": [
+                    "loro girano",
+                    "essi girano",
+                    "loro girovagano",
+                    "essi girovagano",
+                    "loro circondano",
+                    "essi circondano",
+                    "loro cingono",
+                    "essi cingono",
+                    "loro brigano",
+                    "essi brigano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ambiēbam",
+                "traduzioni": [
+                    "io giravo",
+                    "io girovagavo",
+                    "io circondavo",
+                    "io cingevo",
+                    "io brigavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ambiēbas",
+                "traduzioni": [
+                    "tu giravi",
+                    "tu girovagavi",
+                    "tu circondavi",
+                    "tu cingevi",
+                    "tu brigavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ambiēbat",
+                "traduzioni": [
+                    "lui girava",
+                    "lei girava",
+                    "egli girava",
+                    "lui girovagava",
+                    "lei girovagava",
+                    "egli girovagava",
+                    "lui circondava",
+                    "lei circondava",
+                    "egli circondava",
+                    "lui cingeva",
+                    "lei cingeva",
+                    "egli cingeva",
+                    "lui brigava",
+                    "lei brigava",
+                    "egli brigava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ambiebāmus",
+                "traduzioni": [
+                    "noi giravamo",
+                    "noi girovagavamo",
+                    "noi circondavamo",
+                    "noi cingevamo",
+                    "noi brigavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ambiebātis",
+                "traduzioni": [
+                    "voi giravate",
+                    "voi girovagavate",
+                    "voi circondavate",
+                    "voi cingevate",
+                    "voi brigavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ambiēbant",
+                "traduzioni": [
+                    "loro giravano",
+                    "essi giravano",
+                    "loro girovagavano",
+                    "essi girovagavano",
+                    "loro circondavano",
+                    "essi circondavano",
+                    "loro cingevano",
+                    "essi cingevano",
+                    "loro brigavano",
+                    "essi brigavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ambĭam",
+                "traduzioni": [
+                    "io girerò",
+                    "io girovagherò",
+                    "io circonderò",
+                    "io cingerò",
+                    "io brigherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ambĭes",
+                "traduzioni": [
+                    "tu girerai",
+                    "tu girovagherai",
+                    "tu circonderai",
+                    "tu cingerai",
+                    "tu brigherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ambĭet",
+                "traduzioni": [
+                    "lui girerà",
+                    "lei girerà",
+                    "egli girerà",
+                    "lui girovagherà",
+                    "lei girovagherà",
+                    "egli girovagherà",
+                    "lui circonderà",
+                    "lei circonderà",
+                    "egli circonderà",
+                    "lui cingerà",
+                    "lei cingerà",
+                    "egli cingerà",
+                    "lui brigherà",
+                    "lei brigherà",
+                    "egli brigherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ambiēmus",
+                "traduzioni": [
+                    "noi gireremo",
+                    "noi girovagheremo",
+                    "noi circonderemo",
+                    "noi cingeremo",
+                    "noi brigheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ambiētis",
+                "traduzioni": [
+                    "voi girerete",
+                    "voi girovagherete",
+                    "voi circonderete",
+                    "voi cingerete",
+                    "voi brigherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ambĭent",
+                "traduzioni": [
+                    "loro gireranno",
+                    "essi gireranno",
+                    "loro girovagheranno",
+                    "essi girovagheranno",
+                    "loro circonderanno",
+                    "essi circonderanno",
+                    "loro cingeranno",
+                    "essi cingeranno",
+                    "loro brigheranno",
+                    "essi brigheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ambivi o ambii",
+                "traduzioni": [
+                    "io girai",
+                    "io ho girato",
+                    "io ebbi girato",
+                    "io girovagai",
+                    "io ho girovagato",
+                    "io ebbi girovagato",
+                    "io circondai",
+                    "io ho circondato",
+                    "io ebbi circondato",
+                    "io cinsi",
+                    "io ho cinto",
+                    "io ebbi cinto",
+                    "io brigai",
+                    "io ho brigato",
+                    "io ebbi brigato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ambivisti o ambiisti",
+                "traduzioni": [
+                    "tu girasti",
+                    "tu hai girato",
+                    "tu avesti girato",
+                    "tu girovagasti",
+                    "tu hai girovagato",
+                    "tu avesti girovagato",
+                    "tu circondasti",
+                    "tu hai circondato",
+                    "tu avesti circondato",
+                    "tu cingesti",
+                    "tu hai cinto",
+                    "tu avesti cinto",
+                    "tu brigasti",
+                    "tu hai brigato",
+                    "tu avesti brigato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ambivit o ambiit",
+                "traduzioni": [
+                    "lui girò",
+                    "lei girò",
+                    "egli girò",
+                    "lui ha girato",
+                    "lei ha girato",
+                    "egli ha girato",
+                    "lui ebbe girato",
+                    "lei ebbe girato",
+                    "egli ebbe girato",
+                    "lui girovagò",
+                    "lei girovagò",
+                    "egli girovagò",
+                    "lui ha girovagato",
+                    "lei ha girovagato",
+                    "egli ha girovagato",
+                    "lui ebbe girovagato",
+                    "lei ebbe girovagato",
+                    "egli ebbe girovagato",
+                    "lui circondò",
+                    "lei circondò",
+                    "egli circondò",
+                    "lui ha circondato",
+                    "lei ha circondato",
+                    "egli ha circondato",
+                    "lui ebbe circondato",
+                    "lei ebbe circondato",
+                    "egli ebbe circondato",
+                    "lui cinse",
+                    "lei cinse",
+                    "egli cinse",
+                    "lui ha cinto",
+                    "lei ha cinto",
+                    "egli ha cinto",
+                    "lui ebbe cinto",
+                    "lei ebbe cinto",
+                    "egli ebbe cinto",
+                    "lui brigò",
+                    "lei brigò",
+                    "egli brigò",
+                    "lui ha brigato",
+                    "lei ha brigato",
+                    "egli ha brigato",
+                    "lui ebbe brigato",
+                    "lei ebbe brigato",
+                    "egli ebbe brigato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ambivĭmus o ambiĭmus",
+                "traduzioni": [
+                    "noi girammo",
+                    "noi abbiamo girato",
+                    "noi avemmo girato",
+                    "noi girovagammo",
+                    "noi abbiamo girovagato",
+                    "noi avemmo girovagato",
+                    "noi circondammo",
+                    "noi abbiamo circondato",
+                    "noi avemmo circondato",
+                    "noi cingemmo",
+                    "noi abbiamo cinto",
+                    "noi avemmo cinto",
+                    "noi brigammo",
+                    "noi abbiamo brigato",
+                    "noi avemmo brigato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ambivistis o ambiistis",
+                "traduzioni": [
+                    "voi giraste",
+                    "voi avete girato",
+                    "voi aveste girato",
+                    "voi girovagaste",
+                    "voi avete girovagato",
+                    "voi aveste girovagato",
+                    "voi circondaste",
+                    "voi avete circondato",
+                    "voi aveste circondato",
+                    "voi cingeste",
+                    "voi avete cinto",
+                    "voi aveste cinto",
+                    "voi brigaste",
+                    "voi avete brigato",
+                    "voi aveste brigato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ambivērunt o ambiērunt, ēre",
+                "traduzioni": [
+                    "loro girarono",
+                    "essi girarono",
+                    "loro hanno girato",
+                    "essi hanno girato",
+                    "loro ebbero girato",
+                    "essi ebbero girato",
+                    "loro girovagarono",
+                    "essi girovagarono",
+                    "loro hanno girovagato",
+                    "essi hanno girovagato",
+                    "loro ebbero girovagato",
+                    "essi ebbero girovagato",
+                    "loro circondarono",
+                    "essi circondarono",
+                    "loro hanno circondato",
+                    "essi hanno circondato",
+                    "loro ebbero circondato",
+                    "essi ebbero circondato",
+                    "loro cinsero",
+                    "essi cinsero",
+                    "loro hanno cinto",
+                    "essi hanno cinto",
+                    "loro ebbero cinto",
+                    "essi ebbero cinto",
+                    "loro brigarono",
+                    "essi brigarono",
+                    "loro hanno brigato",
+                    "essi hanno brigato",
+                    "loro ebbero brigato",
+                    "essi ebbero brigato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ambivĕram o ambiĕram",
+                "traduzioni": [
+                    "io avevo girato",
+                    "io avevo girovagato",
+                    "io avevo circondato",
+                    "io avevo cinto",
+                    "io avevo brigato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ambivĕras o ambiĕras",
+                "traduzioni": [
+                    "tu avevi girato",
+                    "tu avevi girovagato",
+                    "tu avevi circondato",
+                    "tu avevi cinto",
+                    "tu avevi brigato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ambivĕrat o ambiĕrat",
+                "traduzioni": [
+                    "lui aveva girato",
+                    "lei aveva girato",
+                    "egli aveva girato",
+                    "lui aveva girovagato",
+                    "lei aveva girovagato",
+                    "egli aveva girovagato",
+                    "lui aveva circondato",
+                    "lei aveva circondato",
+                    "egli aveva circondato",
+                    "lui aveva cinto",
+                    "lei aveva cinto",
+                    "egli aveva cinto",
+                    "lui aveva brigato",
+                    "lei aveva brigato",
+                    "egli aveva brigato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ambiverāmus o ambierāmus",
+                "traduzioni": [
+                    "noi avevamo girato",
+                    "noi avevamo girovagato",
+                    "noi avevamo circondato",
+                    "noi avevamo cinto",
+                    "noi avevamo brigato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ambiverātis o ambierātis",
+                "traduzioni": [
+                    "voi avevate girato",
+                    "voi avevate girovagato",
+                    "voi avevate circondato",
+                    "voi avevate cinto",
+                    "voi avevate brigato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ambivĕrant o ambiĕrant",
+                "traduzioni": [
+                    "loro avevano girato",
+                    "essi avevano girato",
+                    "loro avevano girovagato",
+                    "essi avevano girovagato",
+                    "loro avevano circondato",
+                    "essi avevano circondato",
+                    "loro avevano cinto",
+                    "essi avevano cinto",
+                    "loro avevano brigato",
+                    "essi avevano brigato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ambivĕro o ambiĕro",
+                "traduzioni": [
+                    "io avrò girato",
+                    "io avrò girovagato",
+                    "io avrò circondato",
+                    "io avrò cinto",
+                    "io avrò brigato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ambivĕris o ambiĕris",
+                "traduzioni": [
+                    "tu avrai girato",
+                    "tu avrai girovagato",
+                    "tu avrai circondato",
+                    "tu avrai cinto",
+                    "tu avrai brigato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ambivĕrit o ambiĕrit",
+                "traduzioni": [
+                    "lui avrà girato",
+                    "lei avrà girato",
+                    "egli avrà girato",
+                    "lui avrà girovagato",
+                    "lei avrà girovagato",
+                    "egli avrà girovagato",
+                    "lui avrà circondato",
+                    "lei avrà circondato",
+                    "egli avrà circondato",
+                    "lui avrà cinto",
+                    "lei avrà cinto",
+                    "egli avrà cinto",
+                    "lui avrà brigato",
+                    "lei avrà brigato",
+                    "egli avrà brigato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ambiverĭmus o ambierĭmus",
+                "traduzioni": [
+                    "noi avremo girato",
+                    "noi avremo girovagato",
+                    "noi avremo circondato",
+                    "noi avremo cinto",
+                    "noi avremo brigato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ambiverĭtis o ambierĭtis",
+                "traduzioni": [
+                    "voi avrete girato",
+                    "voi avrete girovagato",
+                    "voi avrete circondato",
+                    "voi avrete cinto",
+                    "voi avrete brigato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ambivĕrint o ambiĕrint",
+                "traduzioni": [
+                    "loro avranno girato",
+                    "essi avranno girato",
+                    "loro avranno girovagato",
+                    "essi avranno girovagato",
+                    "loro avranno circondato",
+                    "essi avranno circondato",
+                    "loro avranno cinto",
+                    "essi avranno cinto",
+                    "loro avranno brigato",
+                    "essi avranno brigato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ambĭam",
+                "traduzioni": [
+                    "che io giri",
+                    "che io girovaghi",
+                    "che io circondi",
+                    "che io cinga",
+                    "che io brighi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ambĭas",
+                "traduzioni": [
+                    "che tu giri",
+                    "che tu girovaghi",
+                    "che tu circondi",
+                    "che tu cinga",
+                    "che tu brighi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ambĭat",
+                "traduzioni": [
+                    "che lui giri",
+                    "che lei giri",
+                    "che egli giri",
+                    "che lui girovaghi",
+                    "che lei girovaghi",
+                    "che egli girovaghi",
+                    "che lui circondi",
+                    "che lei circondi",
+                    "che egli circondi",
+                    "che lui cinga",
+                    "che lei cinga",
+                    "che egli cinga",
+                    "che lui brighi",
+                    "che lei brighi",
+                    "che egli brighi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ambiāmus",
+                "traduzioni": [
+                    "che noi giriamo",
+                    "che noi girovaghiamo",
+                    "che noi circondiamo",
+                    "che noi cingiamo",
+                    "che noi brighiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ambiātis",
+                "traduzioni": [
+                    "che voi giriate",
+                    "che voi girovaghiate",
+                    "che voi circondiate",
+                    "che voi cingiate",
+                    "che voi brighiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ambĭant",
+                "traduzioni": [
+                    "che loro girino",
+                    "che essi girino",
+                    "che loro girovaghino",
+                    "che essi girovaghino",
+                    "che loro circondino",
+                    "che essi circondino",
+                    "che loro cingano",
+                    "che essi cingano",
+                    "che loro brighino",
+                    "che essi brighino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ambīrem",
+                "traduzioni": [
+                    "che io girassi",
+                    "che io girovagassi",
+                    "che io circondassi",
+                    "che io cingessi",
+                    "che io brigassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ambīres",
+                "traduzioni": [
+                    "che tu girassi",
+                    "che tu girovagassi",
+                    "che tu circondassi",
+                    "che tu cingessi",
+                    "che tu brigassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ambīret",
+                "traduzioni": [
+                    "che lui girasse",
+                    "che lei girasse",
+                    "che egli girasse",
+                    "che lui girovagasse",
+                    "che lei girovagasse",
+                    "che egli girovagasse",
+                    "che lui circondasse",
+                    "che lei circondasse",
+                    "che egli circondasse",
+                    "che lui cingesse",
+                    "che lei cingesse",
+                    "che egli cingesse",
+                    "che lui brigasse",
+                    "che lei brigasse",
+                    "che egli brigasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ambirēmus",
+                "traduzioni": [
+                    "che noi girassimo",
+                    "che noi girovagassimo",
+                    "che noi circondassimo",
+                    "che noi cingessimo",
+                    "che noi brigassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ambirētis",
+                "traduzioni": [
+                    "che voi giraste",
+                    "che voi girovagaste",
+                    "che voi circondaste",
+                    "che voi cingeste",
+                    "che voi brigaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ambīrent",
+                "traduzioni": [
+                    "che loro girassero",
+                    "che essi girassero",
+                    "che loro girovagassero",
+                    "che essi girovagassero",
+                    "che loro circondassero",
+                    "che essi circondassero",
+                    "che loro cingessero",
+                    "che essi cingessero",
+                    "che loro brigassero",
+                    "che essi brigassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ambivĕrim o ambiĕrim",
+                "traduzioni": [
+                    "che io abbia girato",
+                    "che io abbia girovagato",
+                    "che io abbia circondato",
+                    "che io abbia cinto",
+                    "che io abbia brigato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ambivĕris o ambiĕris",
+                "traduzioni": [
+                    "che tu abbia girato",
+                    "che tu abbia girovagato",
+                    "che tu abbia circondato",
+                    "che tu abbia cinto",
+                    "che tu abbia brigato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ambivĕrit o ambiĕrit",
+                "traduzioni": [
+                    "che lui abbia girato",
+                    "che lei abbia girato",
+                    "che egli abbia girato",
+                    "che lui abbia girovagato",
+                    "che lei abbia girovagato",
+                    "che egli abbia girovagato",
+                    "che lui abbia circondato",
+                    "che lei abbia circondato",
+                    "che egli abbia circondato",
+                    "che lui abbia cinto",
+                    "che lei abbia cinto",
+                    "che egli abbia cinto",
+                    "che lui abbia brigato",
+                    "che lei abbia brigato",
+                    "che egli abbia brigato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ambiverĭmus o ambierĭmus",
+                "traduzioni": [
+                    "che noi abbiamo girato",
+                    "che noi abbiamo girovagato",
+                    "che noi abbiamo circondato",
+                    "che noi abbiamo cinto",
+                    "che noi abbiamo brigato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ambiverĭtis o ambierĭtis",
+                "traduzioni": [
+                    "che voi abbiate girato",
+                    "che voi abbiate girovagato",
+                    "che voi abbiate circondato",
+                    "che voi abbiate cinto",
+                    "che voi abbiate brigato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ambivĕrint o ambiĕrint",
+                "traduzioni": [
+                    "che loro abbiano girato",
+                    "che essi abbiano girato",
+                    "che loro abbiano girovagato",
+                    "che essi abbiano girovagato",
+                    "che loro abbiano circondato",
+                    "che essi abbiano circondato",
+                    "che loro abbiano cinto",
+                    "che essi abbiano cinto",
+                    "che loro abbiano brigato",
+                    "che essi abbiano brigato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ambivissem o ambiissem",
+                "traduzioni": [
+                    "che io avessi girato",
+                    "che io avessi girovagato",
+                    "che io avessi circondato",
+                    "che io avessi cinto",
+                    "che io avessi brigato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ambivisses o ambiisses",
+                "traduzioni": [
+                    "che tu avessi girato",
+                    "che tu avessi girovagato",
+                    "che tu avessi circondato",
+                    "che tu avessi cinto",
+                    "che tu avessi brigato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ambivisset o ambiisset",
+                "traduzioni": [
+                    "che lui avesse girato",
+                    "che lei avesse girato",
+                    "che egli avesse girato",
+                    "che lui avesse girovagato",
+                    "che lei avesse girovagato",
+                    "che egli avesse girovagato",
+                    "che lui avesse circondato",
+                    "che lei avesse circondato",
+                    "che egli avesse circondato",
+                    "che lui avesse cinto",
+                    "che lei avesse cinto",
+                    "che egli avesse cinto",
+                    "che lui avesse brigato",
+                    "che lei avesse brigato",
+                    "che egli avesse brigato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ambivissēmus o ambiissēmus",
+                "traduzioni": [
+                    "che noi avessimo girato",
+                    "che noi avessimo girovagato",
+                    "che noi avessimo circondato",
+                    "che noi avessimo cinto",
+                    "che noi avessimo brigato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ambivissētis o ambiissētis",
+                "traduzioni": [
+                    "che voi aveste girato",
+                    "che voi aveste girovagato",
+                    "che voi aveste circondato",
+                    "che voi aveste cinto",
+                    "che voi aveste brigato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ambivissent o ambiissent",
+                "traduzioni": [
+                    "che loro avessero girato",
+                    "che essi avessero girato",
+                    "che loro avessero girovagato",
+                    "che essi avessero girovagato",
+                    "che loro avessero circondato",
+                    "che essi avessero circondato",
+                    "che loro avessero cinto",
+                    "che essi avessero cinto",
+                    "che loro avessero brigato",
+                    "che essi avessero brigato"
+                ]
+            }
+        ]
+    }
+}

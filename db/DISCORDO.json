@@ -1,0 +1,612 @@
+{
+    "identifier": "DISCORDO",
+    "conuigazione": "1",
+    "translation": [
+        "discordare",
+        "litigare"
+    ],
+    "valid_translations": [
+        "discordare",
+        "litigare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "discordo",
+                "traduzioni": [
+                    "io discordo",
+                    "io litigo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "discordas",
+                "traduzioni": [
+                    "tu discordi",
+                    "tu litighi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "discordat",
+                "traduzioni": [
+                    "lui discorda",
+                    "lei discorda",
+                    "egli discorda",
+                    "lui litiga",
+                    "lei litiga",
+                    "egli litiga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "discordāmus",
+                "traduzioni": [
+                    "noi discordiamo",
+                    "noi litighiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "discordātis",
+                "traduzioni": [
+                    "voi discordate",
+                    "voi litigate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "discordant",
+                "traduzioni": [
+                    "loro discordano",
+                    "essi discordano",
+                    "loro litigano",
+                    "essi litigano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "discordābam",
+                "traduzioni": [
+                    "io discordavo",
+                    "io litigavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "discordābas",
+                "traduzioni": [
+                    "tu discordavi",
+                    "tu litigavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "discordābat",
+                "traduzioni": [
+                    "lui discordava",
+                    "lei discordava",
+                    "egli discordava",
+                    "lui litigava",
+                    "lei litigava",
+                    "egli litigava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "discordabāmus",
+                "traduzioni": [
+                    "noi discordavamo",
+                    "noi litigavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "discordabātis",
+                "traduzioni": [
+                    "voi discordavate",
+                    "voi litigavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "discordābant",
+                "traduzioni": [
+                    "loro discordavano",
+                    "essi discordavano",
+                    "loro litigavano",
+                    "essi litigavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "discordābo",
+                "traduzioni": [
+                    "io discorderò",
+                    "io litigherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "discordābis",
+                "traduzioni": [
+                    "tu discorderai",
+                    "tu litigherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "discordābit",
+                "traduzioni": [
+                    "lui discorderà",
+                    "lei discorderà",
+                    "egli discorderà",
+                    "lui litigherà",
+                    "lei litigherà",
+                    "egli litigherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "discordabĭmus",
+                "traduzioni": [
+                    "noi discorderemo",
+                    "noi litigheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "discordabĭtis",
+                "traduzioni": [
+                    "voi discorderete",
+                    "voi litigherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "discordābunt",
+                "traduzioni": [
+                    "loro discorderanno",
+                    "essi discorderanno",
+                    "loro litigheranno",
+                    "essi litigheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io discordai",
+                    "io ho discordato",
+                    "io ebbi discordato",
+                    "io litigai",
+                    "io ho litigato",
+                    "io ebbi litigato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu discordasti",
+                    "tu hai discordato",
+                    "tu avesti discordato",
+                    "tu litigasti",
+                    "tu hai litigato",
+                    "tu avesti litigato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui discordò",
+                    "lei discordò",
+                    "egli discordò",
+                    "lui ha discordato",
+                    "lei ha discordato",
+                    "egli ha discordato",
+                    "lui ebbe discordato",
+                    "lei ebbe discordato",
+                    "egli ebbe discordato",
+                    "lui litigò",
+                    "lei litigò",
+                    "egli litigò",
+                    "lui ha litigato",
+                    "lei ha litigato",
+                    "egli ha litigato",
+                    "lui ebbe litigato",
+                    "lei ebbe litigato",
+                    "egli ebbe litigato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi discordammo",
+                    "noi abbiamo discordato",
+                    "noi avemmo discordato",
+                    "noi litigammo",
+                    "noi abbiamo litigato",
+                    "noi avemmo litigato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi discordaste",
+                    "voi avete discordato",
+                    "voi aveste discordato",
+                    "voi litigaste",
+                    "voi avete litigato",
+                    "voi aveste litigato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro discordarono",
+                    "essi discordarono",
+                    "loro hanno discordato",
+                    "essi hanno discordato",
+                    "loro ebbero discordato",
+                    "essi ebbero discordato",
+                    "loro litigarono",
+                    "essi litigarono",
+                    "loro hanno litigato",
+                    "essi hanno litigato",
+                    "loro ebbero litigato",
+                    "essi ebbero litigato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avevo discordato",
+                    "io avevo litigato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avevi discordato",
+                    "tu avevi litigato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui aveva discordato",
+                    "lei aveva discordato",
+                    "egli aveva discordato",
+                    "lui aveva litigato",
+                    "lei aveva litigato",
+                    "egli aveva litigato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avevamo discordato",
+                    "noi avevamo litigato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avevate discordato",
+                    "voi avevate litigato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avevano discordato",
+                    "essi avevano discordato",
+                    "loro avevano litigato",
+                    "essi avevano litigato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avrò discordato",
+                    "io avrò litigato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avrai discordato",
+                    "tu avrai litigato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui avrà discordato",
+                    "lei avrà discordato",
+                    "egli avrà discordato",
+                    "lui avrà litigato",
+                    "lei avrà litigato",
+                    "egli avrà litigato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avremo discordato",
+                    "noi avremo litigato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avrete discordato",
+                    "voi avrete litigato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avranno discordato",
+                    "essi avranno discordato",
+                    "loro avranno litigato",
+                    "essi avranno litigato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "discordem",
+                "traduzioni": [
+                    "che io discordi",
+                    "che io litighi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "discordes",
+                "traduzioni": [
+                    "che tu discordi",
+                    "che tu litighi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "discordet",
+                "traduzioni": [
+                    "che lui discordi",
+                    "che lei discordi",
+                    "che egli discordi",
+                    "che lui litighi",
+                    "che lei litighi",
+                    "che egli litighi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "discordēmus",
+                "traduzioni": [
+                    "che noi discordiamo",
+                    "che noi litighiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "discordētis",
+                "traduzioni": [
+                    "che voi discordiate",
+                    "che voi litighiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "discordent",
+                "traduzioni": [
+                    "che loro discordino",
+                    "che essi discordino",
+                    "che loro litighino",
+                    "che essi litighino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "discordārem",
+                "traduzioni": [
+                    "che io discordassi",
+                    "che io litigassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "discordāres",
+                "traduzioni": [
+                    "che tu discordassi",
+                    "che tu litigassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "discordāret",
+                "traduzioni": [
+                    "che lui discordasse",
+                    "che lei discordasse",
+                    "che egli discordasse",
+                    "che lui litigasse",
+                    "che lei litigasse",
+                    "che egli litigasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "discordarēmus",
+                "traduzioni": [
+                    "che noi discordassimo",
+                    "che noi litigassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "discordarētis",
+                "traduzioni": [
+                    "che voi discordaste",
+                    "che voi litigaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "discordārent",
+                "traduzioni": [
+                    "che loro discordassero",
+                    "che essi discordassero",
+                    "che loro litigassero",
+                    "che essi litigassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io abbia discordato",
+                    "che io abbia litigato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu abbia discordato",
+                    "che tu abbia litigato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui abbia discordato",
+                    "che lei abbia discordato",
+                    "che egli abbia discordato",
+                    "che lui abbia litigato",
+                    "che lei abbia litigato",
+                    "che egli abbia litigato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi abbiamo discordato",
+                    "che noi abbiamo litigato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi abbiate discordato",
+                    "che voi abbiate litigato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro abbiano discordato",
+                    "che essi abbiano discordato",
+                    "che loro abbiano litigato",
+                    "che essi abbiano litigato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io avessi discordato",
+                    "che io avessi litigato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu avessi discordato",
+                    "che tu avessi litigato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui avesse discordato",
+                    "che lei avesse discordato",
+                    "che egli avesse discordato",
+                    "che lui avesse litigato",
+                    "che lei avesse litigato",
+                    "che egli avesse litigato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi avessimo discordato",
+                    "che noi avessimo litigato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi aveste discordato",
+                    "che voi aveste litigato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro avessero discordato",
+                    "che essi avessero discordato",
+                    "che loro avessero litigato",
+                    "che essi avessero litigato"
+                ]
+            }
+        ]
+    }
+}

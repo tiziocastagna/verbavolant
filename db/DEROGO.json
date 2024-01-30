@@ -1,0 +1,862 @@
+{
+    "identifier": "DEROGO",
+    "conuigazione": "1",
+    "translation": [
+        "togliere",
+        "restringere",
+        "limitare",
+        "sminuire"
+    ],
+    "valid_translations": [
+        "togliere",
+        "restringere",
+        "limitare",
+        "sminuire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dērŏgo",
+                "traduzioni": [
+                    "io tolgo",
+                    "io restringo",
+                    "io limito",
+                    "io sminuisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dērŏgas",
+                "traduzioni": [
+                    "tu togli",
+                    "tu restringi",
+                    "tu limiti",
+                    "tu sminuisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dērŏgat",
+                "traduzioni": [
+                    "lui toglie",
+                    "lei toglie",
+                    "egli toglie",
+                    "lui restringe",
+                    "lei restringe",
+                    "egli restringe",
+                    "lui limita",
+                    "lei limita",
+                    "egli limita",
+                    "lui sminuisce",
+                    "lei sminuisce",
+                    "egli sminuisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dērŏgāmus",
+                "traduzioni": [
+                    "noi togliamo",
+                    "noi restringiamo",
+                    "noi limitiamo",
+                    "noi sminuiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dērŏgātis",
+                "traduzioni": [
+                    "voi togliete",
+                    "voi restringete",
+                    "voi limitate",
+                    "voi sminuite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dērŏgant",
+                "traduzioni": [
+                    "loro tolgono",
+                    "essi tolgono",
+                    "loro restringono",
+                    "essi restringono",
+                    "loro limitano",
+                    "essi limitano",
+                    "loro sminuiscono",
+                    "essi sminuiscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dērŏgābam",
+                "traduzioni": [
+                    "io toglievo",
+                    "io restringevo",
+                    "io limitavo",
+                    "io sminuivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dērŏgābas",
+                "traduzioni": [
+                    "tu toglievi",
+                    "tu restringevi",
+                    "tu limitavi",
+                    "tu sminuivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dērŏgābat",
+                "traduzioni": [
+                    "lui toglieva",
+                    "lei toglieva",
+                    "egli toglieva",
+                    "lui restringeva",
+                    "lei restringeva",
+                    "egli restringeva",
+                    "lui limitava",
+                    "lei limitava",
+                    "egli limitava",
+                    "lui sminuiva",
+                    "lei sminuiva",
+                    "egli sminuiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dērŏgabāmus",
+                "traduzioni": [
+                    "noi toglievamo",
+                    "noi restringevamo",
+                    "noi limitavamo",
+                    "noi sminuivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dērŏgabātis",
+                "traduzioni": [
+                    "voi toglievate",
+                    "voi restringevate",
+                    "voi limitavate",
+                    "voi sminuivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dērŏgābant",
+                "traduzioni": [
+                    "loro toglievano",
+                    "essi toglievano",
+                    "loro restringevano",
+                    "essi restringevano",
+                    "loro limitavano",
+                    "essi limitavano",
+                    "loro sminuivano",
+                    "essi sminuivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dērŏgābo",
+                "traduzioni": [
+                    "io toglierò",
+                    "io restringerò",
+                    "io limiterò",
+                    "io sminuirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dērŏgābis",
+                "traduzioni": [
+                    "tu toglierai",
+                    "tu restringerai",
+                    "tu limiterai",
+                    "tu sminuirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dērŏgābit",
+                "traduzioni": [
+                    "lui toglierà",
+                    "lei toglierà",
+                    "egli toglierà",
+                    "lui restringerà",
+                    "lei restringerà",
+                    "egli restringerà",
+                    "lui limiterà",
+                    "lei limiterà",
+                    "egli limiterà",
+                    "lui sminuirà",
+                    "lei sminuirà",
+                    "egli sminuirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dērŏgabĭmus",
+                "traduzioni": [
+                    "noi toglieremo",
+                    "noi restringeremo",
+                    "noi limiteremo",
+                    "noi sminuiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dērŏgabĭtis",
+                "traduzioni": [
+                    "voi toglierete",
+                    "voi restringerete",
+                    "voi limiterete",
+                    "voi sminuirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dērŏgābunt",
+                "traduzioni": [
+                    "loro toglieranno",
+                    "essi toglieranno",
+                    "loro restringeranno",
+                    "essi restringeranno",
+                    "loro limiteranno",
+                    "essi limiteranno",
+                    "loro sminuiranno",
+                    "essi sminuiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "derogavi",
+                "traduzioni": [
+                    "io tolsi",
+                    "io ho tolto",
+                    "io ebbi tolto",
+                    "io restrinsi",
+                    "io ho restretto",
+                    "io ebbi restretto",
+                    "io limitai",
+                    "io ho limitato",
+                    "io ebbi limitato",
+                    "io sminuii",
+                    "io sono sminuito",
+                    "io sono sminuita",
+                    "io fui sminuito",
+                    "io fui sminuita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "derogavisti",
+                "traduzioni": [
+                    "tu togliesti",
+                    "tu hai tolto",
+                    "tu avesti tolto",
+                    "tu restringesti",
+                    "tu hai restretto",
+                    "tu avesti restretto",
+                    "tu limitasti",
+                    "tu hai limitato",
+                    "tu avesti limitato",
+                    "tu sminuisti",
+                    "tu sei sminuito",
+                    "tu sei sminuita",
+                    "tu fosti sminuito",
+                    "tu fosti sminuita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "derogavit",
+                "traduzioni": [
+                    "lui tolse",
+                    "lei tolse",
+                    "egli tolse",
+                    "lui ha tolto",
+                    "lei ha tolto",
+                    "egli ha tolto",
+                    "lui ebbe tolto",
+                    "lei ebbe tolto",
+                    "egli ebbe tolto",
+                    "lui restrinse",
+                    "lei restrinse",
+                    "egli restrinse",
+                    "lui ha restretto",
+                    "lei ha restretto",
+                    "egli ha restretto",
+                    "lui ebbe restretto",
+                    "lei ebbe restretto",
+                    "egli ebbe restretto",
+                    "lui limitò",
+                    "lei limitò",
+                    "egli limitò",
+                    "lui ha limitato",
+                    "lei ha limitato",
+                    "egli ha limitato",
+                    "lui ebbe limitato",
+                    "lei ebbe limitato",
+                    "egli ebbe limitato",
+                    "lui sminuì",
+                    "lei sminuì",
+                    "egli sminuì",
+                    "lui è sminuito",
+                    "lei è sminuita",
+                    "egli è sminuito",
+                    "lui fu sminuito",
+                    "lei fu sminuita",
+                    "egli fu sminuito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "derogavĭmus",
+                "traduzioni": [
+                    "noi togliemmo",
+                    "noi abbiamo tolto",
+                    "noi avemmo tolto",
+                    "noi restringemmo",
+                    "noi abbiamo restretto",
+                    "noi avemmo restretto",
+                    "noi limitammo",
+                    "noi abbiamo limitato",
+                    "noi avemmo limitato",
+                    "noi sminuimmo",
+                    "noi siamo sminuiti",
+                    "noi siamo sminuite",
+                    "noi fummo sminuiti",
+                    "noi fummo sminuite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "derogavistis",
+                "traduzioni": [
+                    "voi toglieste",
+                    "voi avete tolto",
+                    "voi aveste tolto",
+                    "voi restringeste",
+                    "voi avete restretto",
+                    "voi aveste restretto",
+                    "voi limitaste",
+                    "voi avete limitato",
+                    "voi aveste limitato",
+                    "voi sminuiste",
+                    "voi siete sminuiti",
+                    "voi siete sminuite",
+                    "voi foste sminuiti",
+                    "voi foste sminuite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "derogavēreunt, derogavēre",
+                "traduzioni": [
+                    "loro tolsero",
+                    "essi tolsero",
+                    "loro hanno tolto",
+                    "essi hanno tolto",
+                    "loro ebbero tolto",
+                    "essi ebbero tolto",
+                    "loro restrinsero",
+                    "essi restrinsero",
+                    "loro hanno restretto",
+                    "essi hanno restretto",
+                    "loro ebbero restretto",
+                    "essi ebbero restretto",
+                    "loro limitarono",
+                    "essi limitarono",
+                    "loro hanno limitato",
+                    "essi hanno limitato",
+                    "loro ebbero limitato",
+                    "essi ebbero limitato",
+                    "loro sminuirono",
+                    "essi sminuirono",
+                    "loro sono sminuiti",
+                    "loro sono sminuite",
+                    "essi sono sminuiti",
+                    "loro furono sminuiti",
+                    "loro furono sminuite",
+                    "essi furono sminuiti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "derogavĕram",
+                "traduzioni": [
+                    "io avevo tolto",
+                    "io avevo restretto",
+                    "io avevo limitato",
+                    "io ero sminuito",
+                    "io ero sminuita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "derogavĕras",
+                "traduzioni": [
+                    "tu avevi tolto",
+                    "tu avevi restretto",
+                    "tu avevi limitato",
+                    "tu eri sminuito",
+                    "tu eri sminuita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "derogavĕrat",
+                "traduzioni": [
+                    "lui aveva tolto",
+                    "lei aveva tolto",
+                    "egli aveva tolto",
+                    "lui aveva restretto",
+                    "lei aveva restretto",
+                    "egli aveva restretto",
+                    "lui aveva limitato",
+                    "lei aveva limitato",
+                    "egli aveva limitato",
+                    "lui era sminuito",
+                    "lei era sminuita",
+                    "egli era sminuito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "derogaverāmus",
+                "traduzioni": [
+                    "noi avevamo tolto",
+                    "noi avevamo restretto",
+                    "noi avevamo limitato",
+                    "noi eravamo sminuiti",
+                    "noi eravamo sminuite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "derogaverātis",
+                "traduzioni": [
+                    "voi avevate tolto",
+                    "voi avevate restretto",
+                    "voi avevate limitato",
+                    "voi eravate sminuiti",
+                    "voi eravate sminuite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "derogavĕrant",
+                "traduzioni": [
+                    "loro avevano tolto",
+                    "essi avevano tolto",
+                    "loro avevano restretto",
+                    "essi avevano restretto",
+                    "loro avevano limitato",
+                    "essi avevano limitato",
+                    "loro erano sminuiti",
+                    "loro erano sminuite",
+                    "essi erano sminuiti"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "derogavĕro",
+                "traduzioni": [
+                    "io avrò tolto",
+                    "io avrò restretto",
+                    "io avrò limitato",
+                    "io sarò sminuito",
+                    "io sarò sminuita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "derogavĕris",
+                "traduzioni": [
+                    "tu avrai tolto",
+                    "tu avrai restretto",
+                    "tu avrai limitato",
+                    "tu sarai sminuito",
+                    "tu sarai sminuita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "derogavĕrit",
+                "traduzioni": [
+                    "lui avrà tolto",
+                    "lei avrà tolto",
+                    "egli avrà tolto",
+                    "lui avrà restretto",
+                    "lei avrà restretto",
+                    "egli avrà restretto",
+                    "lui avrà limitato",
+                    "lei avrà limitato",
+                    "egli avrà limitato",
+                    "lui sarà sminuito",
+                    "lei sarà sminuita",
+                    "egli sarà sminuito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "derogaverĭmus",
+                "traduzioni": [
+                    "noi avremo tolto",
+                    "noi avremo restretto",
+                    "noi avremo limitato",
+                    "noi saremo sminuiti",
+                    "noi saremo sminuite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "derogaverĭtis",
+                "traduzioni": [
+                    "voi avrete tolto",
+                    "voi avrete restretto",
+                    "voi avrete limitato",
+                    "voi sarete sminuiti",
+                    "voi sarete sminuite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "derogavĕrint",
+                "traduzioni": [
+                    "loro avranno tolto",
+                    "essi avranno tolto",
+                    "loro avranno restretto",
+                    "essi avranno restretto",
+                    "loro avranno limitato",
+                    "essi avranno limitato",
+                    "loro saranno sminuiti",
+                    "loro saranno sminuite",
+                    "essi saranno sminuiti"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dērŏgem",
+                "traduzioni": [
+                    "che io tolga",
+                    "che io restringa",
+                    "che io limiti",
+                    "che io sminuisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dērŏges",
+                "traduzioni": [
+                    "che tu tolga",
+                    "che tu restringa",
+                    "che tu limiti",
+                    "che tu sminuisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dērŏget",
+                "traduzioni": [
+                    "che lui tolga",
+                    "che lei tolga",
+                    "che egli tolga",
+                    "che lui restringa",
+                    "che lei restringa",
+                    "che egli restringa",
+                    "che lui limiti",
+                    "che lei limiti",
+                    "che egli limiti",
+                    "che lui sminuisca",
+                    "che lei sminuisca",
+                    "che egli sminuisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dērŏgēmus",
+                "traduzioni": [
+                    "che noi togliamo",
+                    "che noi restringiamo",
+                    "che noi limitiamo",
+                    "che noi sminuiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dērŏgētis",
+                "traduzioni": [
+                    "che voi togliate",
+                    "che voi restringiate",
+                    "che voi limitiate",
+                    "che voi sminuiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dērŏgent",
+                "traduzioni": [
+                    "che loro tolgano",
+                    "che essi tolgano",
+                    "che loro restringano",
+                    "che essi restringano",
+                    "che loro limitino",
+                    "che essi limitino",
+                    "che loro sminuiscano",
+                    "che essi sminuiscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dērŏgārem",
+                "traduzioni": [
+                    "che io togliessi",
+                    "che io restringessi",
+                    "che io limitassi",
+                    "che io sminuissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dērŏgāres",
+                "traduzioni": [
+                    "che tu togliessi",
+                    "che tu restringessi",
+                    "che tu limitassi",
+                    "che tu sminuissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dērŏgāret",
+                "traduzioni": [
+                    "che lui togliesse",
+                    "che lei togliesse",
+                    "che egli togliesse",
+                    "che lui restringesse",
+                    "che lei restringesse",
+                    "che egli restringesse",
+                    "che lui limitasse",
+                    "che lei limitasse",
+                    "che egli limitasse",
+                    "che lui sminuisse",
+                    "che lei sminuisse",
+                    "che egli sminuisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dērŏgarēmus",
+                "traduzioni": [
+                    "che noi togliessimo",
+                    "che noi restringessimo",
+                    "che noi limitassimo",
+                    "che noi sminuissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dērŏgarētis",
+                "traduzioni": [
+                    "che voi toglieste",
+                    "che voi restringeste",
+                    "che voi limitaste",
+                    "che voi sminuiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dērŏgārent",
+                "traduzioni": [
+                    "che loro togliessero",
+                    "che essi togliessero",
+                    "che loro restringessero",
+                    "che essi restringessero",
+                    "che loro limitassero",
+                    "che essi limitassero",
+                    "che loro sminuissero",
+                    "che essi sminuissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "derogavĕrim",
+                "traduzioni": [
+                    "che io abbia tolto",
+                    "che io abbia restretto",
+                    "che io abbia limitato",
+                    "che io sia sminuito",
+                    "che io sia sminuita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "derogavĕris",
+                "traduzioni": [
+                    "che tu abbia tolto",
+                    "che tu abbia restretto",
+                    "che tu abbia limitato",
+                    "che tu sia sminuito",
+                    "che tu sia sminuita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "derogavĕrit",
+                "traduzioni": [
+                    "che lui abbia tolto",
+                    "che lei abbia tolto",
+                    "che egli abbia tolto",
+                    "che lui abbia restretto",
+                    "che lei abbia restretto",
+                    "che egli abbia restretto",
+                    "che lui abbia limitato",
+                    "che lei abbia limitato",
+                    "che egli abbia limitato",
+                    "che lui sia sminuito",
+                    "che lei sia sminuita",
+                    "che egli sia sminuito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "derogaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo tolto",
+                    "che noi abbiamo restretto",
+                    "che noi abbiamo limitato",
+                    "che noi siamo sminuiti",
+                    "che noi siamo sminuite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "derogaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate tolto",
+                    "che voi abbiate restretto",
+                    "che voi abbiate limitato",
+                    "che voi siate sminuiti",
+                    "che voi siate sminuite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "derogavĕrint",
+                "traduzioni": [
+                    "che loro abbiano tolto",
+                    "che essi abbiano tolto",
+                    "che loro abbiano restretto",
+                    "che essi abbiano restretto",
+                    "che loro abbiano limitato",
+                    "che essi abbiano limitato",
+                    "che loro siano sminuiti",
+                    "che loro siano sminuite",
+                    "che essi siano sminuiti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "derogavissem",
+                "traduzioni": [
+                    "che io avessi tolto",
+                    "che io avessi restretto",
+                    "che io avessi limitato",
+                    "che io fossi sminuito",
+                    "che io fossi sminuita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "derogavisses",
+                "traduzioni": [
+                    "che tu avessi tolto",
+                    "che tu avessi restretto",
+                    "che tu avessi limitato",
+                    "che tu fossi sminuito",
+                    "che tu fossi sminuita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "derogavisset",
+                "traduzioni": [
+                    "che lui avesse tolto",
+                    "che lei avesse tolto",
+                    "che egli avesse tolto",
+                    "che lui avesse restretto",
+                    "che lei avesse restretto",
+                    "che egli avesse restretto",
+                    "che lui avesse limitato",
+                    "che lei avesse limitato",
+                    "che egli avesse limitato",
+                    "che lui fosse sminuito",
+                    "che lei fosse sminuita",
+                    "che egli fosse sminuito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "derogavissēmus",
+                "traduzioni": [
+                    "che noi avessimo tolto",
+                    "che noi avessimo restretto",
+                    "che noi avessimo limitato",
+                    "che noi fossimo sminuiti",
+                    "che noi fossimo sminuite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "derogavissētis",
+                "traduzioni": [
+                    "che voi aveste tolto",
+                    "che voi aveste restretto",
+                    "che voi aveste limitato",
+                    "che voi foste sminuiti",
+                    "che voi foste sminuite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "derogavissent",
+                "traduzioni": [
+                    "che loro avessero tolto",
+                    "che essi avessero tolto",
+                    "che loro avessero restretto",
+                    "che essi avessero restretto",
+                    "che loro avessero limitato",
+                    "che essi avessero limitato",
+                    "che loro fossero sminuiti",
+                    "che loro fossero sminuite",
+                    "che essi fossero sminuiti"
+                ]
+            }
+        ]
+    }
+}

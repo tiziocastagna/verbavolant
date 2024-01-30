@@ -1,0 +1,722 @@
+{
+    "identifier": "COLLIDO",
+    "conuigazione": "3",
+    "translation": [
+        "urtare",
+        "spezzare",
+        "schiacciare"
+    ],
+    "valid_translations": [
+        "urtare",
+        "spezzare",
+        "schiacciare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "collīdo",
+                "traduzioni": [
+                    "io urto",
+                    "io spezzo",
+                    "io schiaccio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "collīdis",
+                "traduzioni": [
+                    "tu urti",
+                    "tu spezzi",
+                    "tu schiacci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "collīdit",
+                "traduzioni": [
+                    "lui urta",
+                    "lei urta",
+                    "egli urta",
+                    "lui spezza",
+                    "lei spezza",
+                    "egli spezza",
+                    "lui schiaccia",
+                    "lei schiaccia",
+                    "egli schiaccia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "collīdĭmus",
+                "traduzioni": [
+                    "noi urtiamo",
+                    "noi spezziamo",
+                    "noi schiacciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "collīdĭtis",
+                "traduzioni": [
+                    "voi urtate",
+                    "voi spezzate",
+                    "voi schiacciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "collīdunt",
+                "traduzioni": [
+                    "loro urtano",
+                    "essi urtano",
+                    "loro spezzano",
+                    "essi spezzano",
+                    "loro schiacciano",
+                    "essi schiacciano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "collīdēbam",
+                "traduzioni": [
+                    "io urtavo",
+                    "io spezzavo",
+                    "io schiacciavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "collīdēbas",
+                "traduzioni": [
+                    "tu urtavi",
+                    "tu spezzavi",
+                    "tu schiacciavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "collīdēbat",
+                "traduzioni": [
+                    "lui urtava",
+                    "lei urtava",
+                    "egli urtava",
+                    "lui spezzava",
+                    "lei spezzava",
+                    "egli spezzava",
+                    "lui schiacciava",
+                    "lei schiacciava",
+                    "egli schiacciava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "collīdebāmus",
+                "traduzioni": [
+                    "noi urtavamo",
+                    "noi spezzavamo",
+                    "noi schiacciavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "collīdebātis",
+                "traduzioni": [
+                    "voi urtavate",
+                    "voi spezzavate",
+                    "voi schiacciavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "collīdēbant",
+                "traduzioni": [
+                    "loro urtavano",
+                    "essi urtavano",
+                    "loro spezzavano",
+                    "essi spezzavano",
+                    "loro schiacciavano",
+                    "essi schiacciavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "collīdam",
+                "traduzioni": [
+                    "io urterò",
+                    "io spezzerò",
+                    "io schiaccerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "collīdes",
+                "traduzioni": [
+                    "tu urterai",
+                    "tu spezzerai",
+                    "tu schiaccerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "collīdet",
+                "traduzioni": [
+                    "lui urterà",
+                    "lei urterà",
+                    "egli urterà",
+                    "lui spezzerà",
+                    "lei spezzerà",
+                    "egli spezzerà",
+                    "lui schiaccerà",
+                    "lei schiaccerà",
+                    "egli schiaccerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "collīdēmus",
+                "traduzioni": [
+                    "noi urteremo",
+                    "noi spezzeremo",
+                    "noi schiacceremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "collīdētis",
+                "traduzioni": [
+                    "voi urterete",
+                    "voi spezzerete",
+                    "voi schiaccerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "collīdent",
+                "traduzioni": [
+                    "loro urteranno",
+                    "essi urteranno",
+                    "loro spezzeranno",
+                    "essi spezzeranno",
+                    "loro schiacceranno",
+                    "essi schiacceranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "collisi",
+                "traduzioni": [
+                    "io urtai",
+                    "io ho urtato",
+                    "io ebbi urtato",
+                    "io spezzai",
+                    "io ho spezzato",
+                    "io ebbi spezzato",
+                    "io schiacciai",
+                    "io ho schiacciato",
+                    "io ebbi schiacciato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "collisisti",
+                "traduzioni": [
+                    "tu urtasti",
+                    "tu hai urtato",
+                    "tu avesti urtato",
+                    "tu spezzasti",
+                    "tu hai spezzato",
+                    "tu avesti spezzato",
+                    "tu schiacciasti",
+                    "tu hai schiacciato",
+                    "tu avesti schiacciato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "collisit",
+                "traduzioni": [
+                    "lui urtò",
+                    "lei urtò",
+                    "egli urtò",
+                    "lui ha urtato",
+                    "lei ha urtato",
+                    "egli ha urtato",
+                    "lui ebbe urtato",
+                    "lei ebbe urtato",
+                    "egli ebbe urtato",
+                    "lui spezzò",
+                    "lei spezzò",
+                    "egli spezzò",
+                    "lui ha spezzato",
+                    "lei ha spezzato",
+                    "egli ha spezzato",
+                    "lui ebbe spezzato",
+                    "lei ebbe spezzato",
+                    "egli ebbe spezzato",
+                    "lui schiacciò",
+                    "lei schiacciò",
+                    "egli schiacciò",
+                    "lui ha schiacciato",
+                    "lei ha schiacciato",
+                    "egli ha schiacciato",
+                    "lui ebbe schiacciato",
+                    "lei ebbe schiacciato",
+                    "egli ebbe schiacciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "collisĭmus",
+                "traduzioni": [
+                    "noi urtammo",
+                    "noi abbiamo urtato",
+                    "noi avemmo urtato",
+                    "noi spezzammo",
+                    "noi abbiamo spezzato",
+                    "noi avemmo spezzato",
+                    "noi schiacciammo",
+                    "noi abbiamo schiacciato",
+                    "noi avemmo schiacciato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "collisistis",
+                "traduzioni": [
+                    "voi urtaste",
+                    "voi avete urtato",
+                    "voi aveste urtato",
+                    "voi spezzaste",
+                    "voi avete spezzato",
+                    "voi aveste spezzato",
+                    "voi schiacciaste",
+                    "voi avete schiacciato",
+                    "voi aveste schiacciato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "collisērunt, collisēre",
+                "traduzioni": [
+                    "loro urtarono",
+                    "essi urtarono",
+                    "loro hanno urtato",
+                    "essi hanno urtato",
+                    "loro ebbero urtato",
+                    "essi ebbero urtato",
+                    "loro spezzarono",
+                    "essi spezzarono",
+                    "loro hanno spezzato",
+                    "essi hanno spezzato",
+                    "loro ebbero spezzato",
+                    "essi ebbero spezzato",
+                    "loro schiacciarono",
+                    "essi schiacciarono",
+                    "loro hanno schiacciato",
+                    "essi hanno schiacciato",
+                    "loro ebbero schiacciato",
+                    "essi ebbero schiacciato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "collisĕram",
+                "traduzioni": [
+                    "io avevo urtato",
+                    "io avevo spezzato",
+                    "io avevo schiacciato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "collisĕras",
+                "traduzioni": [
+                    "tu avevi urtato",
+                    "tu avevi spezzato",
+                    "tu avevi schiacciato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "collisĕrat",
+                "traduzioni": [
+                    "lui aveva urtato",
+                    "lei aveva urtato",
+                    "egli aveva urtato",
+                    "lui aveva spezzato",
+                    "lei aveva spezzato",
+                    "egli aveva spezzato",
+                    "lui aveva schiacciato",
+                    "lei aveva schiacciato",
+                    "egli aveva schiacciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "colliserāmus",
+                "traduzioni": [
+                    "noi avevamo urtato",
+                    "noi avevamo spezzato",
+                    "noi avevamo schiacciato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "colliserātis",
+                "traduzioni": [
+                    "voi avevate urtato",
+                    "voi avevate spezzato",
+                    "voi avevate schiacciato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "collisĕrant",
+                "traduzioni": [
+                    "loro avevano urtato",
+                    "essi avevano urtato",
+                    "loro avevano spezzato",
+                    "essi avevano spezzato",
+                    "loro avevano schiacciato",
+                    "essi avevano schiacciato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "collisĕro",
+                "traduzioni": [
+                    "io avrò urtato",
+                    "io avrò spezzato",
+                    "io avrò schiacciato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "collisĕris",
+                "traduzioni": [
+                    "tu avrai urtato",
+                    "tu avrai spezzato",
+                    "tu avrai schiacciato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "collisĕrit",
+                "traduzioni": [
+                    "lui avrà urtato",
+                    "lei avrà urtato",
+                    "egli avrà urtato",
+                    "lui avrà spezzato",
+                    "lei avrà spezzato",
+                    "egli avrà spezzato",
+                    "lui avrà schiacciato",
+                    "lei avrà schiacciato",
+                    "egli avrà schiacciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "colliserĭmus",
+                "traduzioni": [
+                    "noi avremo urtato",
+                    "noi avremo spezzato",
+                    "noi avremo schiacciato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "colliserĭtis",
+                "traduzioni": [
+                    "voi avrete urtato",
+                    "voi avrete spezzato",
+                    "voi avrete schiacciato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "collisĕrint",
+                "traduzioni": [
+                    "loro avranno urtato",
+                    "essi avranno urtato",
+                    "loro avranno spezzato",
+                    "essi avranno spezzato",
+                    "loro avranno schiacciato",
+                    "essi avranno schiacciato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "collīdam",
+                "traduzioni": [
+                    "che io urti",
+                    "che io spezzi",
+                    "che io schiacci"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "collīdas",
+                "traduzioni": [
+                    "che tu urti",
+                    "che tu spezzi",
+                    "che tu schiacci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "collīdat",
+                "traduzioni": [
+                    "che lui urti",
+                    "che lei urti",
+                    "che egli urti",
+                    "che lui spezzi",
+                    "che lei spezzi",
+                    "che egli spezzi",
+                    "che lui schiacci",
+                    "che lei schiacci",
+                    "che egli schiacci"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "collīdāmus",
+                "traduzioni": [
+                    "che noi urtiamo",
+                    "che noi spezziamo",
+                    "che noi schiacciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "collīdātis",
+                "traduzioni": [
+                    "che voi urtiate",
+                    "che voi spezziate",
+                    "che voi schiacciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "collīdant",
+                "traduzioni": [
+                    "che loro urtino",
+                    "che essi urtino",
+                    "che loro spezzino",
+                    "che essi spezzino",
+                    "che loro schiaccino",
+                    "che essi schiaccino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "collīdĕrem",
+                "traduzioni": [
+                    "che io urtassi",
+                    "che io spezzassi",
+                    "che io schiacciassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "collīdĕres",
+                "traduzioni": [
+                    "che tu urtassi",
+                    "che tu spezzassi",
+                    "che tu schiacciassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "collīdĕret",
+                "traduzioni": [
+                    "che lui urtasse",
+                    "che lei urtasse",
+                    "che egli urtasse",
+                    "che lui spezzasse",
+                    "che lei spezzasse",
+                    "che egli spezzasse",
+                    "che lui schiacciasse",
+                    "che lei schiacciasse",
+                    "che egli schiacciasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "collīderēmus",
+                "traduzioni": [
+                    "che noi urtassimo",
+                    "che noi spezzassimo",
+                    "che noi schiacciassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "collīderētis",
+                "traduzioni": [
+                    "che voi urtaste",
+                    "che voi spezzaste",
+                    "che voi schiacciaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "collīdĕrent",
+                "traduzioni": [
+                    "che loro urtassero",
+                    "che essi urtassero",
+                    "che loro spezzassero",
+                    "che essi spezzassero",
+                    "che loro schiacciassero",
+                    "che essi schiacciassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "collisĕrim",
+                "traduzioni": [
+                    "che io abbia urtato",
+                    "che io abbia spezzato",
+                    "che io abbia schiacciato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "collisĕris",
+                "traduzioni": [
+                    "che tu abbia urtato",
+                    "che tu abbia spezzato",
+                    "che tu abbia schiacciato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "collisĕrit",
+                "traduzioni": [
+                    "che lui abbia urtato",
+                    "che lei abbia urtato",
+                    "che egli abbia urtato",
+                    "che lui abbia spezzato",
+                    "che lei abbia spezzato",
+                    "che egli abbia spezzato",
+                    "che lui abbia schiacciato",
+                    "che lei abbia schiacciato",
+                    "che egli abbia schiacciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "colliserĭmus",
+                "traduzioni": [
+                    "che noi abbiamo urtato",
+                    "che noi abbiamo spezzato",
+                    "che noi abbiamo schiacciato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "colliserĭtis",
+                "traduzioni": [
+                    "che voi abbiate urtato",
+                    "che voi abbiate spezzato",
+                    "che voi abbiate schiacciato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "collisĕrint",
+                "traduzioni": [
+                    "che loro abbiano urtato",
+                    "che essi abbiano urtato",
+                    "che loro abbiano spezzato",
+                    "che essi abbiano spezzato",
+                    "che loro abbiano schiacciato",
+                    "che essi abbiano schiacciato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "collisissem",
+                "traduzioni": [
+                    "che io avessi urtato",
+                    "che io avessi spezzato",
+                    "che io avessi schiacciato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "collisisses",
+                "traduzioni": [
+                    "che tu avessi urtato",
+                    "che tu avessi spezzato",
+                    "che tu avessi schiacciato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "collisisset",
+                "traduzioni": [
+                    "che lui avesse urtato",
+                    "che lei avesse urtato",
+                    "che egli avesse urtato",
+                    "che lui avesse spezzato",
+                    "che lei avesse spezzato",
+                    "che egli avesse spezzato",
+                    "che lui avesse schiacciato",
+                    "che lei avesse schiacciato",
+                    "che egli avesse schiacciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "collisissēmus",
+                "traduzioni": [
+                    "che noi avessimo urtato",
+                    "che noi avessimo spezzato",
+                    "che noi avessimo schiacciato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "collisissētis",
+                "traduzioni": [
+                    "che voi aveste urtato",
+                    "che voi aveste spezzato",
+                    "che voi aveste schiacciato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "collisissent",
+                "traduzioni": [
+                    "che loro avessero urtato",
+                    "che essi avessero urtato",
+                    "che loro avessero spezzato",
+                    "che essi avessero spezzato",
+                    "che loro avessero schiacciato",
+                    "che essi avessero schiacciato"
+                ]
+            }
+        ]
+    }
+}

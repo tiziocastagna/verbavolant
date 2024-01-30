@@ -1,0 +1,763 @@
+{
+    "identifier": "ADQUIESCO",
+    "conuigazione": "3",
+    "translation": [
+        "dormire",
+        "trovare sollievo o piacere",
+        "morire",
+        "(+ dativo) acconsentire",
+        "obbedire"
+    ],
+    "valid_translations": [
+        "dormire",
+        "morire",
+        "obbedire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adquĭesco",
+                "traduzioni": [
+                    "io dormo",
+                    "io muoio",
+                    "io obbedisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adquĭescis",
+                "traduzioni": [
+                    "tu dormi",
+                    "tu muori",
+                    "tu obbedisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adquĭescit",
+                "traduzioni": [
+                    "lui dorme",
+                    "lei dorme",
+                    "egli dorme",
+                    "lui muore",
+                    "lei muore",
+                    "egli muore",
+                    "lui obbedisce",
+                    "lei obbedisce",
+                    "egli obbedisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adquĭescĭmus",
+                "traduzioni": [
+                    "noi dormiamo",
+                    "noi moriamo",
+                    "noi obbediamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adquĭescĭtis",
+                "traduzioni": [
+                    "voi dormite",
+                    "voi morite",
+                    "voi obbedite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adquĭescunt",
+                "traduzioni": [
+                    "loro dormono",
+                    "essi dormono",
+                    "loro muoiono",
+                    "essi muoiono",
+                    "loro obbediscono",
+                    "essi obbediscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adquĭescēbam",
+                "traduzioni": [
+                    "io dormivo",
+                    "io morivo",
+                    "io obbedivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adquĭescēbas",
+                "traduzioni": [
+                    "tu dormivi",
+                    "tu morivi",
+                    "tu obbedivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adquĭescēbat",
+                "traduzioni": [
+                    "lui dormiva",
+                    "lei dormiva",
+                    "egli dormiva",
+                    "lui moriva",
+                    "lei moriva",
+                    "egli moriva",
+                    "lui obbediva",
+                    "lei obbediva",
+                    "egli obbediva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adquĭescebāmus",
+                "traduzioni": [
+                    "noi dormivamo",
+                    "noi morivamo",
+                    "noi obbedivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adquĭescebātis",
+                "traduzioni": [
+                    "voi dormivate",
+                    "voi morivate",
+                    "voi obbedivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adquĭescēbant",
+                "traduzioni": [
+                    "loro dormivano",
+                    "essi dormivano",
+                    "loro morivano",
+                    "essi morivano",
+                    "loro obbedivano",
+                    "essi obbedivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adquĭescam",
+                "traduzioni": [
+                    "io dormirò",
+                    "io morirò",
+                    "io morrò",
+                    "io obbedirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adquĭesces",
+                "traduzioni": [
+                    "tu dormirai",
+                    "tu morirai",
+                    "tu morrai",
+                    "tu obbedirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adquĭescet",
+                "traduzioni": [
+                    "lui dormirà",
+                    "lei dormirà",
+                    "egli dormirà",
+                    "lui morirà",
+                    "lei morirà",
+                    "egli morirà",
+                    "lui morrà",
+                    "lei morrà",
+                    "egli morrà",
+                    "lui obbedirà",
+                    "lei obbedirà",
+                    "egli obbedirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adquĭescēmus",
+                "traduzioni": [
+                    "noi dormiremo",
+                    "noi moriremo",
+                    "noi morremo",
+                    "noi obbediremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adquĭescētis",
+                "traduzioni": [
+                    "voi dormirete",
+                    "voi morirete",
+                    "voi morrete",
+                    "voi obbedirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adquĭescent",
+                "traduzioni": [
+                    "loro dormiranno",
+                    "essi dormiranno",
+                    "loro moriranno",
+                    "essi moriranno",
+                    "loro morranno",
+                    "essi morranno",
+                    "loro obbediranno",
+                    "essi obbediranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adquievi",
+                "traduzioni": [
+                    "io dormii",
+                    "io ho dormito",
+                    "io ebbi dormito",
+                    "io morii",
+                    "io sono morto",
+                    "io sono morta",
+                    "io fui morto",
+                    "io fui morta",
+                    "io obbedii",
+                    "io ho obbedito",
+                    "io ebbi obbedito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adquievisti",
+                "traduzioni": [
+                    "tu dormisti",
+                    "tu hai dormito",
+                    "tu avesti dormito",
+                    "tu moristi",
+                    "tu sei morto",
+                    "tu sei morta",
+                    "tu fosti morto",
+                    "tu fosti morta",
+                    "tu obbedisti",
+                    "tu hai obbedito",
+                    "tu avesti obbedito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adquievit",
+                "traduzioni": [
+                    "lui dormì",
+                    "lei dormì",
+                    "egli dormì",
+                    "lui ha dormito",
+                    "lei ha dormito",
+                    "egli ha dormito",
+                    "lui ebbe dormito",
+                    "lei ebbe dormito",
+                    "egli ebbe dormito",
+                    "lui morì",
+                    "lei morì",
+                    "egli morì",
+                    "lui è morto",
+                    "lei è morta",
+                    "egli è morto",
+                    "lui fu morto",
+                    "lei fu morta",
+                    "egli fu morto",
+                    "lui obbedì",
+                    "lei obbedì",
+                    "egli obbedì",
+                    "lui ha obbedito",
+                    "lei ha obbedito",
+                    "egli ha obbedito",
+                    "lui ebbe obbedito",
+                    "lei ebbe obbedito",
+                    "egli ebbe obbedito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adquievĭmus",
+                "traduzioni": [
+                    "noi dormimmo",
+                    "noi abbiamo dormito",
+                    "noi avemmo dormito",
+                    "noi morimmo",
+                    "noi siamo morti",
+                    "noi siamo morte",
+                    "noi fummo morti",
+                    "noi fummo morte",
+                    "noi obbedimmo",
+                    "noi abbiamo obbedito",
+                    "noi avemmo obbedito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adquievistis",
+                "traduzioni": [
+                    "voi dormiste",
+                    "voi avete dormito",
+                    "voi aveste dormito",
+                    "voi moriste",
+                    "voi siete morti",
+                    "voi siete morte",
+                    "voi foste morti",
+                    "voi foste morte",
+                    "voi obbediste",
+                    "voi avete obbedito",
+                    "voi aveste obbedito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adquievērunt, adquievēre",
+                "traduzioni": [
+                    "loro dormirono",
+                    "essi dormirono",
+                    "loro hanno dormito",
+                    "essi hanno dormito",
+                    "loro ebbero dormito",
+                    "essi ebbero dormito",
+                    "loro morirono",
+                    "essi morirono",
+                    "loro sono morti",
+                    "loro sono morte",
+                    "essi sono morti",
+                    "loro furono morti",
+                    "loro furono morte",
+                    "essi furono morti",
+                    "loro obbedirono",
+                    "essi obbedirono",
+                    "loro hanno obbedito",
+                    "essi hanno obbedito",
+                    "loro ebbero obbedito",
+                    "essi ebbero obbedito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adquievĕram",
+                "traduzioni": [
+                    "io avevo dormito",
+                    "io ero morto",
+                    "io ero morta",
+                    "io avevo obbedito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adquievĕras",
+                "traduzioni": [
+                    "tu avevi dormito",
+                    "tu eri morto",
+                    "tu eri morta",
+                    "tu avevi obbedito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adquievĕrat",
+                "traduzioni": [
+                    "lui aveva dormito",
+                    "lei aveva dormito",
+                    "egli aveva dormito",
+                    "lui era morto",
+                    "lei era morta",
+                    "egli era morto",
+                    "lui aveva obbedito",
+                    "lei aveva obbedito",
+                    "egli aveva obbedito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adquieverāmus",
+                "traduzioni": [
+                    "noi avevamo dormito",
+                    "noi eravamo morti",
+                    "noi eravamo morte",
+                    "noi avevamo obbedito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adquieverātis",
+                "traduzioni": [
+                    "voi avevate dormito",
+                    "voi eravate morti",
+                    "voi eravate morte",
+                    "voi avevate obbedito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adquievĕrant",
+                "traduzioni": [
+                    "loro avevano dormito",
+                    "essi avevano dormito",
+                    "loro erano morti",
+                    "loro erano morte",
+                    "essi erano morti",
+                    "loro avevano obbedito",
+                    "essi avevano obbedito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adquievĕro",
+                "traduzioni": [
+                    "io avrò dormito",
+                    "io sarò morto",
+                    "io sarò morta",
+                    "io avrò obbedito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adquievĕris",
+                "traduzioni": [
+                    "tu avrai dormito",
+                    "tu sarai morto",
+                    "tu sarai morta",
+                    "tu avrai obbedito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adquievĕrit",
+                "traduzioni": [
+                    "lui avrà dormito",
+                    "lei avrà dormito",
+                    "egli avrà dormito",
+                    "lui sarà morto",
+                    "lei sarà morta",
+                    "egli sarà morto",
+                    "lui avrà obbedito",
+                    "lei avrà obbedito",
+                    "egli avrà obbedito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adquieverĭmus",
+                "traduzioni": [
+                    "noi avremo dormito",
+                    "noi saremo morti",
+                    "noi saremo morte",
+                    "noi avremo obbedito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adquieverĭtis",
+                "traduzioni": [
+                    "voi avrete dormito",
+                    "voi sarete morti",
+                    "voi sarete morte",
+                    "voi avrete obbedito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adquievĕrint",
+                "traduzioni": [
+                    "loro avranno dormito",
+                    "essi avranno dormito",
+                    "loro saranno morti",
+                    "loro saranno morte",
+                    "essi saranno morti",
+                    "loro avranno obbedito",
+                    "essi avranno obbedito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adquĭescam",
+                "traduzioni": [
+                    "che io dorma",
+                    "che io muoia",
+                    "che io obbedisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adquĭescas",
+                "traduzioni": [
+                    "che tu dorma",
+                    "che tu muoia",
+                    "che tu obbedisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adquĭescat",
+                "traduzioni": [
+                    "che lui dorma",
+                    "che lei dorma",
+                    "che egli dorma",
+                    "che lui muoia",
+                    "che lei muoia",
+                    "che egli muoia",
+                    "che lui obbedisca",
+                    "che lei obbedisca",
+                    "che egli obbedisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adquĭescāmus",
+                "traduzioni": [
+                    "che noi dormiamo",
+                    "che noi moriamo",
+                    "che noi obbediamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adquĭescātis",
+                "traduzioni": [
+                    "che voi dormiate",
+                    "che voi moriate",
+                    "che voi obbediate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adquĭescant",
+                "traduzioni": [
+                    "che loro dormano",
+                    "che essi dormano",
+                    "che loro muoiano",
+                    "che essi muoiano",
+                    "che loro obbediscano",
+                    "che essi obbediscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adquĭescĕrem",
+                "traduzioni": [
+                    "che io dormissi",
+                    "che io morissi",
+                    "che io obbedissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adquĭescĕres",
+                "traduzioni": [
+                    "che tu dormissi",
+                    "che tu morissi",
+                    "che tu obbedissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adquĭescĕret",
+                "traduzioni": [
+                    "che lui dormisse",
+                    "che lei dormisse",
+                    "che egli dormisse",
+                    "che lui morisse",
+                    "che lei morisse",
+                    "che egli morisse",
+                    "che lui obbedisse",
+                    "che lei obbedisse",
+                    "che egli obbedisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adquĭescerēmus",
+                "traduzioni": [
+                    "che noi dormissimo",
+                    "che noi morissimo",
+                    "che noi obbedissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adquĭescerētis",
+                "traduzioni": [
+                    "che voi dormiste",
+                    "che voi moriste",
+                    "che voi obbediste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adquĭescĕrent",
+                "traduzioni": [
+                    "che loro dormissero",
+                    "che essi dormissero",
+                    "che loro morissero",
+                    "che essi morissero",
+                    "che loro obbedissero",
+                    "che essi obbedissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adquievĕrim",
+                "traduzioni": [
+                    "che io abbia dormito",
+                    "che io sia morto",
+                    "che io sia morta",
+                    "che io abbia obbedito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adquievĕris",
+                "traduzioni": [
+                    "che tu abbia dormito",
+                    "che tu sia morto",
+                    "che tu sia morta",
+                    "che tu abbia obbedito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adquievĕrit",
+                "traduzioni": [
+                    "che lui abbia dormito",
+                    "che lei abbia dormito",
+                    "che egli abbia dormito",
+                    "che lui sia morto",
+                    "che lei sia morta",
+                    "che egli sia morto",
+                    "che lui abbia obbedito",
+                    "che lei abbia obbedito",
+                    "che egli abbia obbedito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adquieverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo dormito",
+                    "che noi siamo morti",
+                    "che noi siamo morte",
+                    "che noi abbiamo obbedito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adquieverĭtis",
+                "traduzioni": [
+                    "che voi abbiate dormito",
+                    "che voi siate morti",
+                    "che voi siate morte",
+                    "che voi abbiate obbedito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adquievĕrint",
+                "traduzioni": [
+                    "che loro abbiano dormito",
+                    "che essi abbiano dormito",
+                    "che loro siano morti",
+                    "che loro siano morte",
+                    "che essi siano morti",
+                    "che loro abbiano obbedito",
+                    "che essi abbiano obbedito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adquievissem",
+                "traduzioni": [
+                    "che io avessi dormito",
+                    "che io fossi morto",
+                    "che io fossi morta",
+                    "che io avessi obbedito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adquievisses",
+                "traduzioni": [
+                    "che tu avessi dormito",
+                    "che tu fossi morto",
+                    "che tu fossi morta",
+                    "che tu avessi obbedito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adquievisset",
+                "traduzioni": [
+                    "che lui avesse dormito",
+                    "che lei avesse dormito",
+                    "che egli avesse dormito",
+                    "che lui fosse morto",
+                    "che lei fosse morta",
+                    "che egli fosse morto",
+                    "che lui avesse obbedito",
+                    "che lei avesse obbedito",
+                    "che egli avesse obbedito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adquievissēmus",
+                "traduzioni": [
+                    "che noi avessimo dormito",
+                    "che noi fossimo morti",
+                    "che noi fossimo morte",
+                    "che noi avessimo obbedito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adquievissētis",
+                "traduzioni": [
+                    "che voi aveste dormito",
+                    "che voi foste morti",
+                    "che voi foste morte",
+                    "che voi aveste obbedito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adquievissent",
+                "traduzioni": [
+                    "che loro avessero dormito",
+                    "che essi avessero dormito",
+                    "che loro fossero morti",
+                    "che loro fossero morte",
+                    "che essi fossero morti",
+                    "che loro avessero obbedito",
+                    "che essi avessero obbedito"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,1053 @@
+{
+    "identifier": "PUGNO",
+    "conuigazione": "1",
+    "translation": [
+        "combattere",
+        "lottare",
+        "(con dativo) resistere",
+        "contrastare",
+        "disputare",
+        "discutere",
+        "contraddire"
+    ],
+    "valid_translations": [
+        "combattere",
+        "lottare",
+        "contrastare",
+        "disputare",
+        "discutere",
+        "contraddire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pugno",
+                "traduzioni": [
+                    "io combatto",
+                    "io lotto",
+                    "io contrasto",
+                    "io disputo",
+                    "io discuto",
+                    "io contraddico"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pugnas",
+                "traduzioni": [
+                    "tu combatti",
+                    "tu lotti",
+                    "tu contrasti",
+                    "tu disputi",
+                    "tu discuti",
+                    "tu contraddici"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pugnat",
+                "traduzioni": [
+                    "lui combatte",
+                    "lei combatte",
+                    "egli combatte",
+                    "lui lotta",
+                    "lei lotta",
+                    "egli lotta",
+                    "lui contrasta",
+                    "lei contrasta",
+                    "egli contrasta",
+                    "lui disputa",
+                    "lei disputa",
+                    "egli disputa",
+                    "lui discute",
+                    "lei discute",
+                    "egli discute",
+                    "lui contraddice",
+                    "lei contraddice",
+                    "egli contraddice"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pugnāmus",
+                "traduzioni": [
+                    "noi combattiamo",
+                    "noi lottiamo",
+                    "noi contrastiamo",
+                    "noi disputiamo",
+                    "noi discutiamo",
+                    "noi contraddiciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pugnātis",
+                "traduzioni": [
+                    "voi combattete",
+                    "voi lottate",
+                    "voi contrastate",
+                    "voi disputate",
+                    "voi discutete",
+                    "voi contraddite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pugnant",
+                "traduzioni": [
+                    "loro combattono",
+                    "essi combattono",
+                    "loro lottano",
+                    "essi lottano",
+                    "loro contrastano",
+                    "essi contrastano",
+                    "loro disputano",
+                    "essi disputano",
+                    "loro discutono",
+                    "essi discutono",
+                    "loro contraddicono",
+                    "essi contraddicono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pugnābam",
+                "traduzioni": [
+                    "io combattevo",
+                    "io lottavo",
+                    "io contrastavo",
+                    "io disputavo",
+                    "io discutevo",
+                    "io contraddicevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pugnābas",
+                "traduzioni": [
+                    "tu combattevi",
+                    "tu lottavi",
+                    "tu contrastavi",
+                    "tu disputavi",
+                    "tu discutevi",
+                    "tu contraddicevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pugnābat",
+                "traduzioni": [
+                    "lui combatteva",
+                    "lei combatteva",
+                    "egli combatteva",
+                    "lui lottava",
+                    "lei lottava",
+                    "egli lottava",
+                    "lui contrastava",
+                    "lei contrastava",
+                    "egli contrastava",
+                    "lui disputava",
+                    "lei disputava",
+                    "egli disputava",
+                    "lui discuteva",
+                    "lei discuteva",
+                    "egli discuteva",
+                    "lui contraddiceva",
+                    "lei contraddiceva",
+                    "egli contraddiceva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pugnabāmus",
+                "traduzioni": [
+                    "noi combattevamo",
+                    "noi lottavamo",
+                    "noi contrastavamo",
+                    "noi disputavamo",
+                    "noi discutevamo",
+                    "noi contraddicevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pugnabātis",
+                "traduzioni": [
+                    "voi combattevate",
+                    "voi lottavate",
+                    "voi contrastavate",
+                    "voi disputavate",
+                    "voi discutevate",
+                    "voi contraddicevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pugnābant",
+                "traduzioni": [
+                    "loro combattevano",
+                    "essi combattevano",
+                    "loro lottavano",
+                    "essi lottavano",
+                    "loro contrastavano",
+                    "essi contrastavano",
+                    "loro disputavano",
+                    "essi disputavano",
+                    "loro discutevano",
+                    "essi discutevano",
+                    "loro contraddicevano",
+                    "essi contraddicevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pugnābo",
+                "traduzioni": [
+                    "io combatterò",
+                    "io lotterò",
+                    "io contrasterò",
+                    "io disputerò",
+                    "io discuterò",
+                    "io contraddirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pugnābis",
+                "traduzioni": [
+                    "tu combatterai",
+                    "tu lotterai",
+                    "tu contrasterai",
+                    "tu disputerai",
+                    "tu discuterai",
+                    "tu contraddirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pugnābit",
+                "traduzioni": [
+                    "lui combatterà",
+                    "lei combatterà",
+                    "egli combatterà",
+                    "lui lotterà",
+                    "lei lotterà",
+                    "egli lotterà",
+                    "lui contrasterà",
+                    "lei contrasterà",
+                    "egli contrasterà",
+                    "lui disputerà",
+                    "lei disputerà",
+                    "egli disputerà",
+                    "lui discuterà",
+                    "lei discuterà",
+                    "egli discuterà",
+                    "lui contraddirà",
+                    "lei contraddirà",
+                    "egli contraddirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pugnabĭmus",
+                "traduzioni": [
+                    "noi combatteremo",
+                    "noi lotteremo",
+                    "noi contrasteremo",
+                    "noi disputeremo",
+                    "noi discuteremo",
+                    "noi contraddiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pugnabĭtis",
+                "traduzioni": [
+                    "voi combatterete",
+                    "voi lotterete",
+                    "voi contrasterete",
+                    "voi disputerete",
+                    "voi discuterete",
+                    "voi contraddirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pugnābunt",
+                "traduzioni": [
+                    "loro combatteranno",
+                    "essi combatteranno",
+                    "loro lotteranno",
+                    "essi lotteranno",
+                    "loro contrasteranno",
+                    "essi contrasteranno",
+                    "loro disputeranno",
+                    "essi disputeranno",
+                    "loro discuteranno",
+                    "essi discuteranno",
+                    "loro contraddiranno",
+                    "essi contraddiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pugnavi",
+                "traduzioni": [
+                    "io combattei",
+                    "io ho combattuto",
+                    "io ebbi combattuto",
+                    "io lottai",
+                    "io ho lottato",
+                    "io ebbi lottato",
+                    "io contrastai",
+                    "io ho contrastato",
+                    "io ebbi contrastato",
+                    "io disputai",
+                    "io ho disputato",
+                    "io ebbi disputato",
+                    "io discussi",
+                    "io ho discusso",
+                    "io ebbi discusso",
+                    "io contraddissi",
+                    "io ho contraddetto",
+                    "io ebbi contraddetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pugnavisti",
+                "traduzioni": [
+                    "tu combattesti",
+                    "tu hai combattuto",
+                    "tu avesti combattuto",
+                    "tu lottasti",
+                    "tu hai lottato",
+                    "tu avesti lottato",
+                    "tu contrastasti",
+                    "tu hai contrastato",
+                    "tu avesti contrastato",
+                    "tu disputasti",
+                    "tu hai disputato",
+                    "tu avesti disputato",
+                    "tu discutesti",
+                    "tu hai discusso",
+                    "tu avesti discusso",
+                    "tu contraddicesti",
+                    "tu hai contraddetto",
+                    "tu avesti contraddetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pugnavit",
+                "traduzioni": [
+                    "lui combatté",
+                    "lei combatté",
+                    "egli combatté",
+                    "lui ha combattuto",
+                    "lei ha combattuto",
+                    "egli ha combattuto",
+                    "lui ebbe combattuto",
+                    "lei ebbe combattuto",
+                    "egli ebbe combattuto",
+                    "lui lottò",
+                    "lei lottò",
+                    "egli lottò",
+                    "lui ha lottato",
+                    "lei ha lottato",
+                    "egli ha lottato",
+                    "lui ebbe lottato",
+                    "lei ebbe lottato",
+                    "egli ebbe lottato",
+                    "lui contrastò",
+                    "lei contrastò",
+                    "egli contrastò",
+                    "lui ha contrastato",
+                    "lei ha contrastato",
+                    "egli ha contrastato",
+                    "lui ebbe contrastato",
+                    "lei ebbe contrastato",
+                    "egli ebbe contrastato",
+                    "lui disputò",
+                    "lei disputò",
+                    "egli disputò",
+                    "lui ha disputato",
+                    "lei ha disputato",
+                    "egli ha disputato",
+                    "lui ebbe disputato",
+                    "lei ebbe disputato",
+                    "egli ebbe disputato",
+                    "lui discusse",
+                    "lei discusse",
+                    "egli discusse",
+                    "lui ha discusso",
+                    "lei ha discusso",
+                    "egli ha discusso",
+                    "lui ebbe discusso",
+                    "lei ebbe discusso",
+                    "egli ebbe discusso",
+                    "lui contraddisse",
+                    "lei contraddisse",
+                    "egli contraddisse",
+                    "lui ha contraddetto",
+                    "lei ha contraddetto",
+                    "egli ha contraddetto",
+                    "lui ebbe contraddetto",
+                    "lei ebbe contraddetto",
+                    "egli ebbe contraddetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pugnavĭmus",
+                "traduzioni": [
+                    "noi combattemmo",
+                    "noi abbiamo combattuto",
+                    "noi avemmo combattuto",
+                    "noi lottammo",
+                    "noi abbiamo lottato",
+                    "noi avemmo lottato",
+                    "noi contrastammo",
+                    "noi abbiamo contrastato",
+                    "noi avemmo contrastato",
+                    "noi disputammo",
+                    "noi abbiamo disputato",
+                    "noi avemmo disputato",
+                    "noi discutemmo",
+                    "noi abbiamo discusso",
+                    "noi avemmo discusso",
+                    "noi contraddicemmo",
+                    "noi abbiamo contraddetto",
+                    "noi avemmo contraddetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pugnavistis",
+                "traduzioni": [
+                    "voi combatteste",
+                    "voi avete combattuto",
+                    "voi aveste combattuto",
+                    "voi lottaste",
+                    "voi avete lottato",
+                    "voi aveste lottato",
+                    "voi contrastaste",
+                    "voi avete contrastato",
+                    "voi aveste contrastato",
+                    "voi disputaste",
+                    "voi avete disputato",
+                    "voi aveste disputato",
+                    "voi discuteste",
+                    "voi avete discusso",
+                    "voi aveste discusso",
+                    "voi contraddiceste",
+                    "voi avete contraddetto",
+                    "voi aveste contraddetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pugnavērunt, pugnavēre",
+                "traduzioni": [
+                    "loro combatterono",
+                    "essi combatterono",
+                    "loro hanno combattuto",
+                    "essi hanno combattuto",
+                    "loro ebbero combattuto",
+                    "essi ebbero combattuto",
+                    "loro lottarono",
+                    "essi lottarono",
+                    "loro hanno lottato",
+                    "essi hanno lottato",
+                    "loro ebbero lottato",
+                    "essi ebbero lottato",
+                    "loro contrastarono",
+                    "essi contrastarono",
+                    "loro hanno contrastato",
+                    "essi hanno contrastato",
+                    "loro ebbero contrastato",
+                    "essi ebbero contrastato",
+                    "loro disputarono",
+                    "essi disputarono",
+                    "loro hanno disputato",
+                    "essi hanno disputato",
+                    "loro ebbero disputato",
+                    "essi ebbero disputato",
+                    "loro discussero",
+                    "essi discussero",
+                    "loro hanno discusso",
+                    "essi hanno discusso",
+                    "loro ebbero discusso",
+                    "essi ebbero discusso",
+                    "loro contraddissero",
+                    "essi contraddissero",
+                    "loro hanno contraddetto",
+                    "essi hanno contraddetto",
+                    "loro ebbero contraddetto",
+                    "essi ebbero contraddetto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pugnavĕram",
+                "traduzioni": [
+                    "io avevo combattuto",
+                    "io avevo lottato",
+                    "io avevo contrastato",
+                    "io avevo disputato",
+                    "io avevo discusso",
+                    "io avevo contraddetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pugnavĕras",
+                "traduzioni": [
+                    "tu avevi combattuto",
+                    "tu avevi lottato",
+                    "tu avevi contrastato",
+                    "tu avevi disputato",
+                    "tu avevi discusso",
+                    "tu avevi contraddetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pugnavĕrat",
+                "traduzioni": [
+                    "lui aveva combattuto",
+                    "lei aveva combattuto",
+                    "egli aveva combattuto",
+                    "lui aveva lottato",
+                    "lei aveva lottato",
+                    "egli aveva lottato",
+                    "lui aveva contrastato",
+                    "lei aveva contrastato",
+                    "egli aveva contrastato",
+                    "lui aveva disputato",
+                    "lei aveva disputato",
+                    "egli aveva disputato",
+                    "lui aveva discusso",
+                    "lei aveva discusso",
+                    "egli aveva discusso",
+                    "lui aveva contraddetto",
+                    "lei aveva contraddetto",
+                    "egli aveva contraddetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pugnaverāmus",
+                "traduzioni": [
+                    "noi avevamo combattuto",
+                    "noi avevamo lottato",
+                    "noi avevamo contrastato",
+                    "noi avevamo disputato",
+                    "noi avevamo discusso",
+                    "noi avevamo contraddetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pugnaverātis",
+                "traduzioni": [
+                    "voi avevate combattuto",
+                    "voi avevate lottato",
+                    "voi avevate contrastato",
+                    "voi avevate disputato",
+                    "voi avevate discusso",
+                    "voi avevate contraddetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pugnavĕrant",
+                "traduzioni": [
+                    "loro avevano combattuto",
+                    "essi avevano combattuto",
+                    "loro avevano lottato",
+                    "essi avevano lottato",
+                    "loro avevano contrastato",
+                    "essi avevano contrastato",
+                    "loro avevano disputato",
+                    "essi avevano disputato",
+                    "loro avevano discusso",
+                    "essi avevano discusso",
+                    "loro avevano contraddetto",
+                    "essi avevano contraddetto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pugnavĕro",
+                "traduzioni": [
+                    "io avrò combattuto",
+                    "io avrò lottato",
+                    "io avrò contrastato",
+                    "io avrò disputato",
+                    "io avrò discusso",
+                    "io avrò contraddetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pugnavĕris",
+                "traduzioni": [
+                    "tu avrai combattuto",
+                    "tu avrai lottato",
+                    "tu avrai contrastato",
+                    "tu avrai disputato",
+                    "tu avrai discusso",
+                    "tu avrai contraddetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pugnavĕrit",
+                "traduzioni": [
+                    "lui avrà combattuto",
+                    "lei avrà combattuto",
+                    "egli avrà combattuto",
+                    "lui avrà lottato",
+                    "lei avrà lottato",
+                    "egli avrà lottato",
+                    "lui avrà contrastato",
+                    "lei avrà contrastato",
+                    "egli avrà contrastato",
+                    "lui avrà disputato",
+                    "lei avrà disputato",
+                    "egli avrà disputato",
+                    "lui avrà discusso",
+                    "lei avrà discusso",
+                    "egli avrà discusso",
+                    "lui avrà contraddetto",
+                    "lei avrà contraddetto",
+                    "egli avrà contraddetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pugnaverĭmus",
+                "traduzioni": [
+                    "noi avremo combattuto",
+                    "noi avremo lottato",
+                    "noi avremo contrastato",
+                    "noi avremo disputato",
+                    "noi avremo discusso",
+                    "noi avremo contraddetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pugnaverĭtis",
+                "traduzioni": [
+                    "voi avrete combattuto",
+                    "voi avrete lottato",
+                    "voi avrete contrastato",
+                    "voi avrete disputato",
+                    "voi avrete discusso",
+                    "voi avrete contraddetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pugnavĕrint",
+                "traduzioni": [
+                    "loro avranno combattuto",
+                    "essi avranno combattuto",
+                    "loro avranno lottato",
+                    "essi avranno lottato",
+                    "loro avranno contrastato",
+                    "essi avranno contrastato",
+                    "loro avranno disputato",
+                    "essi avranno disputato",
+                    "loro avranno discusso",
+                    "essi avranno discusso",
+                    "loro avranno contraddetto",
+                    "essi avranno contraddetto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pugnem",
+                "traduzioni": [
+                    "che io combatta",
+                    "che io lotti",
+                    "che io contrasti",
+                    "che io disputi",
+                    "che io discuta",
+                    "che io contraddica"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pugnes",
+                "traduzioni": [
+                    "che tu combatta",
+                    "che tu lotti",
+                    "che tu contrasti",
+                    "che tu disputi",
+                    "che tu discuta",
+                    "che tu contraddica"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pugnet",
+                "traduzioni": [
+                    "che lui combatta",
+                    "che lei combatta",
+                    "che egli combatta",
+                    "che lui lotti",
+                    "che lei lotti",
+                    "che egli lotti",
+                    "che lui contrasti",
+                    "che lei contrasti",
+                    "che egli contrasti",
+                    "che lui disputi",
+                    "che lei disputi",
+                    "che egli disputi",
+                    "che lui discuta",
+                    "che lei discuta",
+                    "che egli discuta",
+                    "che lui contraddica",
+                    "che lei contraddica",
+                    "che egli contraddica"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pugnēmus",
+                "traduzioni": [
+                    "che noi combattiamo",
+                    "che noi lottiamo",
+                    "che noi contrastiamo",
+                    "che noi disputiamo",
+                    "che noi discutiamo",
+                    "che noi contraddiciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pugnētis",
+                "traduzioni": [
+                    "che voi combattiate",
+                    "che voi lottiate",
+                    "che voi contrastiate",
+                    "che voi disputiate",
+                    "che voi discutiate",
+                    "che voi contraddiciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pugnent",
+                "traduzioni": [
+                    "che loro combattano",
+                    "che essi combattano",
+                    "che loro lottino",
+                    "che essi lottino",
+                    "che loro contrastino",
+                    "che essi contrastino",
+                    "che loro disputino",
+                    "che essi disputino",
+                    "che loro discutano",
+                    "che essi discutano",
+                    "che loro contraddicano",
+                    "che essi contraddicano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pugnārem",
+                "traduzioni": [
+                    "che io combattessi",
+                    "che io lottassi",
+                    "che io contrastassi",
+                    "che io disputassi",
+                    "che io discutessi",
+                    "che io contraddicessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pugnāres",
+                "traduzioni": [
+                    "che tu combattessi",
+                    "che tu lottassi",
+                    "che tu contrastassi",
+                    "che tu disputassi",
+                    "che tu discutessi",
+                    "che tu contraddicessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pugnāret",
+                "traduzioni": [
+                    "che lui combattesse",
+                    "che lei combattesse",
+                    "che egli combattesse",
+                    "che lui lottasse",
+                    "che lei lottasse",
+                    "che egli lottasse",
+                    "che lui contrastasse",
+                    "che lei contrastasse",
+                    "che egli contrastasse",
+                    "che lui disputasse",
+                    "che lei disputasse",
+                    "che egli disputasse",
+                    "che lui discutesse",
+                    "che lei discutesse",
+                    "che egli discutesse",
+                    "che lui contraddicesse",
+                    "che lei contraddicesse",
+                    "che egli contraddicesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pugnarēmus",
+                "traduzioni": [
+                    "che noi combattessimo",
+                    "che noi lottassimo",
+                    "che noi contrastassimo",
+                    "che noi disputassimo",
+                    "che noi discutessimo",
+                    "che noi contraddicessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pugnarētis",
+                "traduzioni": [
+                    "che voi combatteste",
+                    "che voi lottaste",
+                    "che voi contrastaste",
+                    "che voi disputaste",
+                    "che voi discuteste",
+                    "che voi contraddiceste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pugnārent",
+                "traduzioni": [
+                    "che loro combattessero",
+                    "che essi combattessero",
+                    "che loro lottassero",
+                    "che essi lottassero",
+                    "che loro contrastassero",
+                    "che essi contrastassero",
+                    "che loro disputassero",
+                    "che essi disputassero",
+                    "che loro discutessero",
+                    "che essi discutessero",
+                    "che loro contraddicessero",
+                    "che essi contraddicessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pugnavĕrim",
+                "traduzioni": [
+                    "che io abbia combattuto",
+                    "che io abbia lottato",
+                    "che io abbia contrastato",
+                    "che io abbia disputato",
+                    "che io abbia discusso",
+                    "che io abbia contraddetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pugnavĕris",
+                "traduzioni": [
+                    "che tu abbia combattuto",
+                    "che tu abbia lottato",
+                    "che tu abbia contrastato",
+                    "che tu abbia disputato",
+                    "che tu abbia discusso",
+                    "che tu abbia contraddetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pugnavĕrit",
+                "traduzioni": [
+                    "che lui abbia combattuto",
+                    "che lei abbia combattuto",
+                    "che egli abbia combattuto",
+                    "che lui abbia lottato",
+                    "che lei abbia lottato",
+                    "che egli abbia lottato",
+                    "che lui abbia contrastato",
+                    "che lei abbia contrastato",
+                    "che egli abbia contrastato",
+                    "che lui abbia disputato",
+                    "che lei abbia disputato",
+                    "che egli abbia disputato",
+                    "che lui abbia discusso",
+                    "che lei abbia discusso",
+                    "che egli abbia discusso",
+                    "che lui abbia contraddetto",
+                    "che lei abbia contraddetto",
+                    "che egli abbia contraddetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pugnaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo combattuto",
+                    "che noi abbiamo lottato",
+                    "che noi abbiamo contrastato",
+                    "che noi abbiamo disputato",
+                    "che noi abbiamo discusso",
+                    "che noi abbiamo contraddetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pugnaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate combattuto",
+                    "che voi abbiate lottato",
+                    "che voi abbiate contrastato",
+                    "che voi abbiate disputato",
+                    "che voi abbiate discusso",
+                    "che voi abbiate contraddetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pugnavĕrint",
+                "traduzioni": [
+                    "che loro abbiano combattuto",
+                    "che essi abbiano combattuto",
+                    "che loro abbiano lottato",
+                    "che essi abbiano lottato",
+                    "che loro abbiano contrastato",
+                    "che essi abbiano contrastato",
+                    "che loro abbiano disputato",
+                    "che essi abbiano disputato",
+                    "che loro abbiano discusso",
+                    "che essi abbiano discusso",
+                    "che loro abbiano contraddetto",
+                    "che essi abbiano contraddetto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pugnavissem",
+                "traduzioni": [
+                    "che io avessi combattuto",
+                    "che io avessi lottato",
+                    "che io avessi contrastato",
+                    "che io avessi disputato",
+                    "che io avessi discusso",
+                    "che io avessi contraddetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pugnavisses",
+                "traduzioni": [
+                    "che tu avessi combattuto",
+                    "che tu avessi lottato",
+                    "che tu avessi contrastato",
+                    "che tu avessi disputato",
+                    "che tu avessi discusso",
+                    "che tu avessi contraddetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pugnavisset",
+                "traduzioni": [
+                    "che lui avesse combattuto",
+                    "che lei avesse combattuto",
+                    "che egli avesse combattuto",
+                    "che lui avesse lottato",
+                    "che lei avesse lottato",
+                    "che egli avesse lottato",
+                    "che lui avesse contrastato",
+                    "che lei avesse contrastato",
+                    "che egli avesse contrastato",
+                    "che lui avesse disputato",
+                    "che lei avesse disputato",
+                    "che egli avesse disputato",
+                    "che lui avesse discusso",
+                    "che lei avesse discusso",
+                    "che egli avesse discusso",
+                    "che lui avesse contraddetto",
+                    "che lei avesse contraddetto",
+                    "che egli avesse contraddetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pugnavissēmus",
+                "traduzioni": [
+                    "che noi avessimo combattuto",
+                    "che noi avessimo lottato",
+                    "che noi avessimo contrastato",
+                    "che noi avessimo disputato",
+                    "che noi avessimo discusso",
+                    "che noi avessimo contraddetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pugnavissētis",
+                "traduzioni": [
+                    "che voi aveste combattuto",
+                    "che voi aveste lottato",
+                    "che voi aveste contrastato",
+                    "che voi aveste disputato",
+                    "che voi aveste discusso",
+                    "che voi aveste contraddetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pugnavissent",
+                "traduzioni": [
+                    "che loro avessero combattuto",
+                    "che essi avessero combattuto",
+                    "che loro avessero lottato",
+                    "che essi avessero lottato",
+                    "che loro avessero contrastato",
+                    "che essi avessero contrastato",
+                    "che loro avessero disputato",
+                    "che essi avessero disputato",
+                    "che loro avessero discusso",
+                    "che essi avessero discusso",
+                    "che loro avessero contraddetto",
+                    "che essi avessero contraddetto"
+                ]
+            }
+        ]
+    }
+}

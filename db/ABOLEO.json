@@ -1,0 +1,981 @@
+{
+    "identifier": "ABOLEO",
+    "conuigazione": "2",
+    "translation": [
+        "abolire",
+        "cancellare",
+        "distruggere",
+        "sopprimere",
+        "morire"
+    ],
+    "valid_translations": [
+        "abolire",
+        "cancellare",
+        "distruggere",
+        "sopprimere",
+        "morire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbŏlĕo",
+                "traduzioni": [
+                    "io abolisco",
+                    "io cancello",
+                    "io distruggo",
+                    "io sopprimo",
+                    "io muoio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbŏles",
+                "traduzioni": [
+                    "tu abolisci",
+                    "tu cancelli",
+                    "tu distruggi",
+                    "tu sopprimi",
+                    "tu muori"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbŏlet",
+                "traduzioni": [
+                    "lui abolisce",
+                    "lei abolisce",
+                    "egli abolisce",
+                    "lui cancella",
+                    "lei cancella",
+                    "egli cancella",
+                    "lui distrugge",
+                    "lei distrugge",
+                    "egli distrugge",
+                    "lui sopprime",
+                    "lei sopprime",
+                    "egli sopprime",
+                    "lui muore",
+                    "lei muore",
+                    "egli muore"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbŏlēmus",
+                "traduzioni": [
+                    "noi aboliamo",
+                    "noi cancelliamo",
+                    "noi distruggiamo",
+                    "noi sopprimiamo",
+                    "noi moriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbŏlētis",
+                "traduzioni": [
+                    "voi abolite",
+                    "voi cancellate",
+                    "voi distruggete",
+                    "voi sopprimete",
+                    "voi morite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbŏlent",
+                "traduzioni": [
+                    "loro aboliscono",
+                    "essi aboliscono",
+                    "loro cancellano",
+                    "essi cancellano",
+                    "loro distruggono",
+                    "essi distruggono",
+                    "loro sopprimono",
+                    "essi sopprimono",
+                    "loro muoiono",
+                    "essi muoiono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbŏlēbam",
+                "traduzioni": [
+                    "io abolivo",
+                    "io cancellavo",
+                    "io distruggevo",
+                    "io sopprimevo",
+                    "io morivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbŏlēbas",
+                "traduzioni": [
+                    "tu abolivi",
+                    "tu cancellavi",
+                    "tu distruggevi",
+                    "tu sopprimevi",
+                    "tu morivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbŏlēbat",
+                "traduzioni": [
+                    "lui aboliva",
+                    "lei aboliva",
+                    "egli aboliva",
+                    "lui cancellava",
+                    "lei cancellava",
+                    "egli cancellava",
+                    "lui distruggeva",
+                    "lei distruggeva",
+                    "egli distruggeva",
+                    "lui sopprimeva",
+                    "lei sopprimeva",
+                    "egli sopprimeva",
+                    "lui moriva",
+                    "lei moriva",
+                    "egli moriva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbŏlabāmus",
+                "traduzioni": [
+                    "noi abolivamo",
+                    "noi cancellavamo",
+                    "noi distruggevamo",
+                    "noi sopprimevamo",
+                    "noi morivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbŏlebātis",
+                "traduzioni": [
+                    "voi abolivate",
+                    "voi cancellavate",
+                    "voi distruggevate",
+                    "voi sopprimevate",
+                    "voi morivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbŏlēbant",
+                "traduzioni": [
+                    "loro abolivano",
+                    "essi abolivano",
+                    "loro cancellavano",
+                    "essi cancellavano",
+                    "loro distruggevano",
+                    "essi distruggevano",
+                    "loro sopprimevano",
+                    "essi sopprimevano",
+                    "loro morivano",
+                    "essi morivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbŏlēbo",
+                "traduzioni": [
+                    "io abolirò",
+                    "io cancellerò",
+                    "io distruggerò",
+                    "io sopprimerò",
+                    "io morirò",
+                    "io morrò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbŏlēbis",
+                "traduzioni": [
+                    "tu abolirai",
+                    "tu cancellerai",
+                    "tu distruggerai",
+                    "tu sopprimerai",
+                    "tu morirai",
+                    "tu morrai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbŏlēbit",
+                "traduzioni": [
+                    "lui abolirà",
+                    "lei abolirà",
+                    "egli abolirà",
+                    "lui cancellerà",
+                    "lei cancellerà",
+                    "egli cancellerà",
+                    "lui distruggerà",
+                    "lei distruggerà",
+                    "egli distruggerà",
+                    "lui sopprimerà",
+                    "lei sopprimerà",
+                    "egli sopprimerà",
+                    "lui morirà",
+                    "lei morirà",
+                    "egli morirà",
+                    "lui morrà",
+                    "lei morrà",
+                    "egli morrà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbŏlebĭmus",
+                "traduzioni": [
+                    "noi aboliremo",
+                    "noi cancelleremo",
+                    "noi distruggeremo",
+                    "noi sopprimeremo",
+                    "noi moriremo",
+                    "noi morremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbŏlebĭtis",
+                "traduzioni": [
+                    "voi abolirete",
+                    "voi cancellerete",
+                    "voi distruggerete",
+                    "voi sopprimerete",
+                    "voi morirete",
+                    "voi morrete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbŏlēbunt",
+                "traduzioni": [
+                    "loro aboliranno",
+                    "essi aboliranno",
+                    "loro cancelleranno",
+                    "essi cancelleranno",
+                    "loro distruggeranno",
+                    "essi distruggeranno",
+                    "loro sopprimeranno",
+                    "essi sopprimeranno",
+                    "loro moriranno",
+                    "essi moriranno",
+                    "loro morranno",
+                    "essi morranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abolevi",
+                "traduzioni": [
+                    "io abolii",
+                    "io ho abolito",
+                    "io ebbi abolito",
+                    "io cancellai",
+                    "io ho cancellato",
+                    "io ebbi cancellato",
+                    "io distrussi",
+                    "io ho distrutto",
+                    "io ebbi distrutto",
+                    "io soppressi",
+                    "io ho soppresso",
+                    "io ebbi soppresso",
+                    "io morii",
+                    "io sono morto",
+                    "io sono morta",
+                    "io fui morto",
+                    "io fui morta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abolevisti",
+                "traduzioni": [
+                    "tu abolisti",
+                    "tu hai abolito",
+                    "tu avesti abolito",
+                    "tu cancellasti",
+                    "tu hai cancellato",
+                    "tu avesti cancellato",
+                    "tu distruggesti",
+                    "tu hai distrutto",
+                    "tu avesti distrutto",
+                    "tu sopprimesti",
+                    "tu hai soppresso",
+                    "tu avesti soppresso",
+                    "tu moristi",
+                    "tu sei morto",
+                    "tu sei morta",
+                    "tu fosti morto",
+                    "tu fosti morta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abolevit",
+                "traduzioni": [
+                    "lui abolì",
+                    "lei abolì",
+                    "egli abolì",
+                    "lui ha abolito",
+                    "lei ha abolito",
+                    "egli ha abolito",
+                    "lui ebbe abolito",
+                    "lei ebbe abolito",
+                    "egli ebbe abolito",
+                    "lui cancellò",
+                    "lei cancellò",
+                    "egli cancellò",
+                    "lui ha cancellato",
+                    "lei ha cancellato",
+                    "egli ha cancellato",
+                    "lui ebbe cancellato",
+                    "lei ebbe cancellato",
+                    "egli ebbe cancellato",
+                    "lui distrusse",
+                    "lei distrusse",
+                    "egli distrusse",
+                    "lui ha distrutto",
+                    "lei ha distrutto",
+                    "egli ha distrutto",
+                    "lui ebbe distrutto",
+                    "lei ebbe distrutto",
+                    "egli ebbe distrutto",
+                    "lui soppresse",
+                    "lei soppresse",
+                    "egli soppresse",
+                    "lui ha soppresso",
+                    "lei ha soppresso",
+                    "egli ha soppresso",
+                    "lui ebbe soppresso",
+                    "lei ebbe soppresso",
+                    "egli ebbe soppresso",
+                    "lui morì",
+                    "lei morì",
+                    "egli morì",
+                    "lui è morto",
+                    "lei è morta",
+                    "egli è morto",
+                    "lui fu morto",
+                    "lei fu morta",
+                    "egli fu morto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abolevĭmus",
+                "traduzioni": [
+                    "noi abolimmo",
+                    "noi abbiamo abolito",
+                    "noi avemmo abolito",
+                    "noi cancellammo",
+                    "noi abbiamo cancellato",
+                    "noi avemmo cancellato",
+                    "noi distruggemmo",
+                    "noi abbiamo distrutto",
+                    "noi avemmo distrutto",
+                    "noi sopprimemmo",
+                    "noi abbiamo soppresso",
+                    "noi avemmo soppresso",
+                    "noi morimmo",
+                    "noi siamo morti",
+                    "noi siamo morte",
+                    "noi fummo morti",
+                    "noi fummo morte"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abolevistis",
+                "traduzioni": [
+                    "voi aboliste",
+                    "voi avete abolito",
+                    "voi aveste abolito",
+                    "voi cancellaste",
+                    "voi avete cancellato",
+                    "voi aveste cancellato",
+                    "voi distruggeste",
+                    "voi avete distrutto",
+                    "voi aveste distrutto",
+                    "voi sopprimeste",
+                    "voi avete soppresso",
+                    "voi aveste soppresso",
+                    "voi moriste",
+                    "voi siete morti",
+                    "voi siete morte",
+                    "voi foste morti",
+                    "voi foste morte"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abolevērunt, abolevēre",
+                "traduzioni": [
+                    "loro abolirono",
+                    "essi abolirono",
+                    "loro hanno abolito",
+                    "essi hanno abolito",
+                    "loro ebbero abolito",
+                    "essi ebbero abolito",
+                    "loro cancellarono",
+                    "essi cancellarono",
+                    "loro hanno cancellato",
+                    "essi hanno cancellato",
+                    "loro ebbero cancellato",
+                    "essi ebbero cancellato",
+                    "loro distrussero",
+                    "essi distrussero",
+                    "loro hanno distrutto",
+                    "essi hanno distrutto",
+                    "loro ebbero distrutto",
+                    "essi ebbero distrutto",
+                    "loro soppressero",
+                    "essi soppressero",
+                    "loro hanno soppresso",
+                    "essi hanno soppresso",
+                    "loro ebbero soppresso",
+                    "essi ebbero soppresso",
+                    "loro morirono",
+                    "essi morirono",
+                    "loro sono morti",
+                    "loro sono morte",
+                    "essi sono morti",
+                    "loro furono morti",
+                    "loro furono morte",
+                    "essi furono morti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abolevĕram",
+                "traduzioni": [
+                    "io avevo abolito",
+                    "io avevo cancellato",
+                    "io avevo distrutto",
+                    "io avevo soppresso",
+                    "io ero morto",
+                    "io ero morta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abolevĕras",
+                "traduzioni": [
+                    "tu avevi abolito",
+                    "tu avevi cancellato",
+                    "tu avevi distrutto",
+                    "tu avevi soppresso",
+                    "tu eri morto",
+                    "tu eri morta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abolevĕrat",
+                "traduzioni": [
+                    "lui aveva abolito",
+                    "lei aveva abolito",
+                    "egli aveva abolito",
+                    "lui aveva cancellato",
+                    "lei aveva cancellato",
+                    "egli aveva cancellato",
+                    "lui aveva distrutto",
+                    "lei aveva distrutto",
+                    "egli aveva distrutto",
+                    "lui aveva soppresso",
+                    "lei aveva soppresso",
+                    "egli aveva soppresso",
+                    "lui era morto",
+                    "lei era morta",
+                    "egli era morto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aboleverāmus",
+                "traduzioni": [
+                    "noi avevamo abolito",
+                    "noi avevamo cancellato",
+                    "noi avevamo distrutto",
+                    "noi avevamo soppresso",
+                    "noi eravamo morti",
+                    "noi eravamo morte"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aboleverātis",
+                "traduzioni": [
+                    "voi avevate abolito",
+                    "voi avevate cancellato",
+                    "voi avevate distrutto",
+                    "voi avevate soppresso",
+                    "voi eravate morti",
+                    "voi eravate morte"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abolevĕrant",
+                "traduzioni": [
+                    "loro avevano abolito",
+                    "essi avevano abolito",
+                    "loro avevano cancellato",
+                    "essi avevano cancellato",
+                    "loro avevano distrutto",
+                    "essi avevano distrutto",
+                    "loro avevano soppresso",
+                    "essi avevano soppresso",
+                    "loro erano morti",
+                    "loro erano morte",
+                    "essi erano morti"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "abolevĕro",
+                "traduzioni": [
+                    "io avrò abolito",
+                    "io avrò cancellato",
+                    "io avrò distrutto",
+                    "io avrò soppresso",
+                    "io sarò morto",
+                    "io sarò morta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abolevĕris",
+                "traduzioni": [
+                    "tu avrai abolito",
+                    "tu avrai cancellato",
+                    "tu avrai distrutto",
+                    "tu avrai soppresso",
+                    "tu sarai morto",
+                    "tu sarai morta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abolevĕrit",
+                "traduzioni": [
+                    "lui avrà abolito",
+                    "lei avrà abolito",
+                    "egli avrà abolito",
+                    "lui avrà cancellato",
+                    "lei avrà cancellato",
+                    "egli avrà cancellato",
+                    "lui avrà distrutto",
+                    "lei avrà distrutto",
+                    "egli avrà distrutto",
+                    "lui avrà soppresso",
+                    "lei avrà soppresso",
+                    "egli avrà soppresso",
+                    "lui sarà morto",
+                    "lei sarà morta",
+                    "egli sarà morto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aboleverĭmus",
+                "traduzioni": [
+                    "noi avremo abolito",
+                    "noi avremo cancellato",
+                    "noi avremo distrutto",
+                    "noi avremo soppresso",
+                    "noi saremo morti",
+                    "noi saremo morte"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aboleverĭtis",
+                "traduzioni": [
+                    "voi avrete abolito",
+                    "voi avrete cancellato",
+                    "voi avrete distrutto",
+                    "voi avrete soppresso",
+                    "voi sarete morti",
+                    "voi sarete morte"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abolevĕrint",
+                "traduzioni": [
+                    "loro avranno abolito",
+                    "essi avranno abolito",
+                    "loro avranno cancellato",
+                    "essi avranno cancellato",
+                    "loro avranno distrutto",
+                    "essi avranno distrutto",
+                    "loro avranno soppresso",
+                    "essi avranno soppresso",
+                    "loro saranno morti",
+                    "loro saranno morte",
+                    "essi saranno morti"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbŏlĕam",
+                "traduzioni": [
+                    "che io abolisca",
+                    "che io cancelli",
+                    "che io distrugga",
+                    "che io sopprima",
+                    "che io muoia"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbŏlĕas",
+                "traduzioni": [
+                    "che tu abolisca",
+                    "che tu cancelli",
+                    "che tu distrugga",
+                    "che tu sopprima",
+                    "che tu muoia"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbŏlĕat",
+                "traduzioni": [
+                    "che lui abolisca",
+                    "che lei abolisca",
+                    "che egli abolisca",
+                    "che lui cancelli",
+                    "che lei cancelli",
+                    "che egli cancelli",
+                    "che lui distrugga",
+                    "che lei distrugga",
+                    "che egli distrugga",
+                    "che lui sopprima",
+                    "che lei sopprima",
+                    "che egli sopprima",
+                    "che lui muoia",
+                    "che lei muoia",
+                    "che egli muoia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbŏleāmus",
+                "traduzioni": [
+                    "che noi aboliamo",
+                    "che noi cancelliamo",
+                    "che noi distruggiamo",
+                    "che noi sopprimiamo",
+                    "che noi moriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbŏleātis",
+                "traduzioni": [
+                    "che voi aboliate",
+                    "che voi cancelliate",
+                    "che voi distruggiate",
+                    "che voi sopprimiate",
+                    "che voi moriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbŏlĕant",
+                "traduzioni": [
+                    "che loro aboliscano",
+                    "che essi aboliscano",
+                    "che loro cancellino",
+                    "che essi cancellino",
+                    "che loro distruggano",
+                    "che essi distruggano",
+                    "che loro sopprimano",
+                    "che essi sopprimano",
+                    "che loro muoiano",
+                    "che essi muoiano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbŏlērem",
+                "traduzioni": [
+                    "che io abolissi",
+                    "che io cancellassi",
+                    "che io distruggessi",
+                    "che io sopprimessi",
+                    "che io morissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbŏlēres",
+                "traduzioni": [
+                    "che tu abolissi",
+                    "che tu cancellassi",
+                    "che tu distruggessi",
+                    "che tu sopprimessi",
+                    "che tu morissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbŏlēret",
+                "traduzioni": [
+                    "che lui abolisse",
+                    "che lei abolisse",
+                    "che egli abolisse",
+                    "che lui cancellasse",
+                    "che lei cancellasse",
+                    "che egli cancellasse",
+                    "che lui distruggesse",
+                    "che lei distruggesse",
+                    "che egli distruggesse",
+                    "che lui sopprimesse",
+                    "che lei sopprimesse",
+                    "che egli sopprimesse",
+                    "che lui morisse",
+                    "che lei morisse",
+                    "che egli morisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbŏlerēmus",
+                "traduzioni": [
+                    "che noi abolissimo",
+                    "che noi cancellassimo",
+                    "che noi distruggessimo",
+                    "che noi sopprimessimo",
+                    "che noi morissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbŏlerētis",
+                "traduzioni": [
+                    "che voi aboliste",
+                    "che voi cancellaste",
+                    "che voi distruggeste",
+                    "che voi sopprimeste",
+                    "che voi moriste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbŏlērent",
+                "traduzioni": [
+                    "che loro abolissero",
+                    "che essi abolissero",
+                    "che loro cancellassero",
+                    "che essi cancellassero",
+                    "che loro distruggessero",
+                    "che essi distruggessero",
+                    "che loro sopprimessero",
+                    "che essi sopprimessero",
+                    "che loro morissero",
+                    "che essi morissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abolevĕrim",
+                "traduzioni": [
+                    "che io abbia abolito",
+                    "che io abbia cancellato",
+                    "che io abbia distrutto",
+                    "che io abbia soppresso",
+                    "che io sia morto",
+                    "che io sia morta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abolevĕris",
+                "traduzioni": [
+                    "che tu abbia abolito",
+                    "che tu abbia cancellato",
+                    "che tu abbia distrutto",
+                    "che tu abbia soppresso",
+                    "che tu sia morto",
+                    "che tu sia morta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abolevĕrit",
+                "traduzioni": [
+                    "che lui abbia abolito",
+                    "che lei abbia abolito",
+                    "che egli abbia abolito",
+                    "che lui abbia cancellato",
+                    "che lei abbia cancellato",
+                    "che egli abbia cancellato",
+                    "che lui abbia distrutto",
+                    "che lei abbia distrutto",
+                    "che egli abbia distrutto",
+                    "che lui abbia soppresso",
+                    "che lei abbia soppresso",
+                    "che egli abbia soppresso",
+                    "che lui sia morto",
+                    "che lei sia morta",
+                    "che egli sia morto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aboleverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo abolito",
+                    "che noi abbiamo cancellato",
+                    "che noi abbiamo distrutto",
+                    "che noi abbiamo soppresso",
+                    "che noi siamo morti",
+                    "che noi siamo morte"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aboleverĭtis",
+                "traduzioni": [
+                    "che voi abbiate abolito",
+                    "che voi abbiate cancellato",
+                    "che voi abbiate distrutto",
+                    "che voi abbiate soppresso",
+                    "che voi siate morti",
+                    "che voi siate morte"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abolevĕrint",
+                "traduzioni": [
+                    "che loro abbiano abolito",
+                    "che essi abbiano abolito",
+                    "che loro abbiano cancellato",
+                    "che essi abbiano cancellato",
+                    "che loro abbiano distrutto",
+                    "che essi abbiano distrutto",
+                    "che loro abbiano soppresso",
+                    "che essi abbiano soppresso",
+                    "che loro siano morti",
+                    "che loro siano morte",
+                    "che essi siano morti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abolevissem",
+                "traduzioni": [
+                    "che io avessi abolito",
+                    "che io avessi cancellato",
+                    "che io avessi distrutto",
+                    "che io avessi soppresso",
+                    "che io fossi morto",
+                    "che io fossi morta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abolevisses",
+                "traduzioni": [
+                    "che tu avessi abolito",
+                    "che tu avessi cancellato",
+                    "che tu avessi distrutto",
+                    "che tu avessi soppresso",
+                    "che tu fossi morto",
+                    "che tu fossi morta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abolevisset",
+                "traduzioni": [
+                    "che lui avesse abolito",
+                    "che lei avesse abolito",
+                    "che egli avesse abolito",
+                    "che lui avesse cancellato",
+                    "che lei avesse cancellato",
+                    "che egli avesse cancellato",
+                    "che lui avesse distrutto",
+                    "che lei avesse distrutto",
+                    "che egli avesse distrutto",
+                    "che lui avesse soppresso",
+                    "che lei avesse soppresso",
+                    "che egli avesse soppresso",
+                    "che lui fosse morto",
+                    "che lei fosse morta",
+                    "che egli fosse morto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abolevissēmus",
+                "traduzioni": [
+                    "che noi avessimo abolito",
+                    "che noi avessimo cancellato",
+                    "che noi avessimo distrutto",
+                    "che noi avessimo soppresso",
+                    "che noi fossimo morti",
+                    "che noi fossimo morte"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abolevissētis",
+                "traduzioni": [
+                    "che voi aveste abolito",
+                    "che voi aveste cancellato",
+                    "che voi aveste distrutto",
+                    "che voi aveste soppresso",
+                    "che voi foste morti",
+                    "che voi foste morte"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abolevissent",
+                "traduzioni": [
+                    "che loro avessero abolito",
+                    "che essi avessero abolito",
+                    "che loro avessero cancellato",
+                    "che essi avessero cancellato",
+                    "che loro avessero distrutto",
+                    "che essi avessero distrutto",
+                    "che loro avessero soppresso",
+                    "che essi avessero soppresso",
+                    "che loro fossero morti",
+                    "che loro fossero morte",
+                    "che essi fossero morti"
+                ]
+            }
+        ]
+    }
+}

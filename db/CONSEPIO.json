@@ -1,0 +1,722 @@
+{
+    "identifier": "CONSEPIO",
+    "conuigazione": "4",
+    "translation": [
+        "cingere",
+        "circondare",
+        "recintare"
+    ],
+    "valid_translations": [
+        "cingere",
+        "circondare",
+        "recintare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "consepĭo",
+                "traduzioni": [
+                    "io cingo",
+                    "io circondo",
+                    "io recinto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consepis",
+                "traduzioni": [
+                    "tu cingi",
+                    "tu circondi",
+                    "tu recinti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consepit",
+                "traduzioni": [
+                    "lui cinge",
+                    "lei cinge",
+                    "egli cinge",
+                    "lui circonda",
+                    "lei circonda",
+                    "egli circonda",
+                    "lui recinta",
+                    "lei recinta",
+                    "egli recinta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consepīmus",
+                "traduzioni": [
+                    "noi cingiamo",
+                    "noi circondiamo",
+                    "noi recintiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consepītis",
+                "traduzioni": [
+                    "voi cingete",
+                    "voi circondate",
+                    "voi recintate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consepĭunt",
+                "traduzioni": [
+                    "loro cingono",
+                    "essi cingono",
+                    "loro circondano",
+                    "essi circondano",
+                    "loro recintano",
+                    "essi recintano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consepiēbam",
+                "traduzioni": [
+                    "io cingevo",
+                    "io circondavo",
+                    "io recintavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consepiēbas",
+                "traduzioni": [
+                    "tu cingevi",
+                    "tu circondavi",
+                    "tu recintavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consepiēbat",
+                "traduzioni": [
+                    "lui cingeva",
+                    "lei cingeva",
+                    "egli cingeva",
+                    "lui circondava",
+                    "lei circondava",
+                    "egli circondava",
+                    "lui recintava",
+                    "lei recintava",
+                    "egli recintava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consepiebāmus",
+                "traduzioni": [
+                    "noi cingevamo",
+                    "noi circondavamo",
+                    "noi recintavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consepiebātis",
+                "traduzioni": [
+                    "voi cingevate",
+                    "voi circondavate",
+                    "voi recintavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consepiēbant",
+                "traduzioni": [
+                    "loro cingevano",
+                    "essi cingevano",
+                    "loro circondavano",
+                    "essi circondavano",
+                    "loro recintavano",
+                    "essi recintavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "consepĭam",
+                "traduzioni": [
+                    "io cingerò",
+                    "io circonderò",
+                    "io recinterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consepĭes",
+                "traduzioni": [
+                    "tu cingerai",
+                    "tu circonderai",
+                    "tu recinterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consepĭet",
+                "traduzioni": [
+                    "lui cingerà",
+                    "lei cingerà",
+                    "egli cingerà",
+                    "lui circonderà",
+                    "lei circonderà",
+                    "egli circonderà",
+                    "lui recinterà",
+                    "lei recinterà",
+                    "egli recinterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consepiēmus",
+                "traduzioni": [
+                    "noi cingeremo",
+                    "noi circonderemo",
+                    "noi recinteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consepiētis",
+                "traduzioni": [
+                    "voi cingerete",
+                    "voi circonderete",
+                    "voi recinterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consepĭent",
+                "traduzioni": [
+                    "loro cingeranno",
+                    "essi cingeranno",
+                    "loro circonderanno",
+                    "essi circonderanno",
+                    "loro recinteranno",
+                    "essi recinteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consepsi",
+                "traduzioni": [
+                    "io cinsi",
+                    "io ho cinto",
+                    "io ebbi cinto",
+                    "io circondai",
+                    "io ho circondato",
+                    "io ebbi circondato",
+                    "io recintai",
+                    "io ho recintato",
+                    "io ebbi recintato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consepsisti",
+                "traduzioni": [
+                    "tu cingesti",
+                    "tu hai cinto",
+                    "tu avesti cinto",
+                    "tu circondasti",
+                    "tu hai circondato",
+                    "tu avesti circondato",
+                    "tu recintasti",
+                    "tu hai recintato",
+                    "tu avesti recintato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consepsit",
+                "traduzioni": [
+                    "lui cinse",
+                    "lei cinse",
+                    "egli cinse",
+                    "lui ha cinto",
+                    "lei ha cinto",
+                    "egli ha cinto",
+                    "lui ebbe cinto",
+                    "lei ebbe cinto",
+                    "egli ebbe cinto",
+                    "lui circondò",
+                    "lei circondò",
+                    "egli circondò",
+                    "lui ha circondato",
+                    "lei ha circondato",
+                    "egli ha circondato",
+                    "lui ebbe circondato",
+                    "lei ebbe circondato",
+                    "egli ebbe circondato",
+                    "lui recintò",
+                    "lei recintò",
+                    "egli recintò",
+                    "lui ha recintato",
+                    "lei ha recintato",
+                    "egli ha recintato",
+                    "lui ebbe recintato",
+                    "lei ebbe recintato",
+                    "egli ebbe recintato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consepsĭmus",
+                "traduzioni": [
+                    "noi cingemmo",
+                    "noi abbiamo cinto",
+                    "noi avemmo cinto",
+                    "noi circondammo",
+                    "noi abbiamo circondato",
+                    "noi avemmo circondato",
+                    "noi recintammo",
+                    "noi abbiamo recintato",
+                    "noi avemmo recintato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consepsistis",
+                "traduzioni": [
+                    "voi cingeste",
+                    "voi avete cinto",
+                    "voi aveste cinto",
+                    "voi circondaste",
+                    "voi avete circondato",
+                    "voi aveste circondato",
+                    "voi recintaste",
+                    "voi avete recintato",
+                    "voi aveste recintato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consepsērunt, consepsēre",
+                "traduzioni": [
+                    "loro cinsero",
+                    "essi cinsero",
+                    "loro hanno cinto",
+                    "essi hanno cinto",
+                    "loro ebbero cinto",
+                    "essi ebbero cinto",
+                    "loro circondarono",
+                    "essi circondarono",
+                    "loro hanno circondato",
+                    "essi hanno circondato",
+                    "loro ebbero circondato",
+                    "essi ebbero circondato",
+                    "loro recintarono",
+                    "essi recintarono",
+                    "loro hanno recintato",
+                    "essi hanno recintato",
+                    "loro ebbero recintato",
+                    "essi ebbero recintato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consepsĕram",
+                "traduzioni": [
+                    "io avevo cinto",
+                    "io avevo circondato",
+                    "io avevo recintato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consepsĕras",
+                "traduzioni": [
+                    "tu avevi cinto",
+                    "tu avevi circondato",
+                    "tu avevi recintato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consepsĕrat",
+                "traduzioni": [
+                    "lui aveva cinto",
+                    "lei aveva cinto",
+                    "egli aveva cinto",
+                    "lui aveva circondato",
+                    "lei aveva circondato",
+                    "egli aveva circondato",
+                    "lui aveva recintato",
+                    "lei aveva recintato",
+                    "egli aveva recintato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consepserāmus",
+                "traduzioni": [
+                    "noi avevamo cinto",
+                    "noi avevamo circondato",
+                    "noi avevamo recintato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consepserātis",
+                "traduzioni": [
+                    "voi avevate cinto",
+                    "voi avevate circondato",
+                    "voi avevate recintato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consepsĕrant",
+                "traduzioni": [
+                    "loro avevano cinto",
+                    "essi avevano cinto",
+                    "loro avevano circondato",
+                    "essi avevano circondato",
+                    "loro avevano recintato",
+                    "essi avevano recintato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "consepsĕro",
+                "traduzioni": [
+                    "io avrò cinto",
+                    "io avrò circondato",
+                    "io avrò recintato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consepsĕris",
+                "traduzioni": [
+                    "tu avrai cinto",
+                    "tu avrai circondato",
+                    "tu avrai recintato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consepsĕrit",
+                "traduzioni": [
+                    "lui avrà cinto",
+                    "lei avrà cinto",
+                    "egli avrà cinto",
+                    "lui avrà circondato",
+                    "lei avrà circondato",
+                    "egli avrà circondato",
+                    "lui avrà recintato",
+                    "lei avrà recintato",
+                    "egli avrà recintato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consepserĭmus",
+                "traduzioni": [
+                    "noi avremo cinto",
+                    "noi avremo circondato",
+                    "noi avremo recintato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consepserĭtis",
+                "traduzioni": [
+                    "voi avrete cinto",
+                    "voi avrete circondato",
+                    "voi avrete recintato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consepsĕrint",
+                "traduzioni": [
+                    "loro avranno cinto",
+                    "essi avranno cinto",
+                    "loro avranno circondato",
+                    "essi avranno circondato",
+                    "loro avranno recintato",
+                    "essi avranno recintato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "consepĭam",
+                "traduzioni": [
+                    "che io cinga",
+                    "che io circondi",
+                    "che io recinti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consepĭas",
+                "traduzioni": [
+                    "che tu cinga",
+                    "che tu circondi",
+                    "che tu recinti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consepĭat",
+                "traduzioni": [
+                    "che lui cinga",
+                    "che lei cinga",
+                    "che egli cinga",
+                    "che lui circondi",
+                    "che lei circondi",
+                    "che egli circondi",
+                    "che lui recinti",
+                    "che lei recinti",
+                    "che egli recinti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consepiāmus",
+                "traduzioni": [
+                    "che noi cingiamo",
+                    "che noi circondiamo",
+                    "che noi recintiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consepiātis",
+                "traduzioni": [
+                    "che voi cingiate",
+                    "che voi circondiate",
+                    "che voi recintiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consepĭant",
+                "traduzioni": [
+                    "che loro cingano",
+                    "che essi cingano",
+                    "che loro circondino",
+                    "che essi circondino",
+                    "che loro recintino",
+                    "che essi recintino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consepīrem",
+                "traduzioni": [
+                    "che io cingessi",
+                    "che io circondassi",
+                    "che io recintassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consepīres",
+                "traduzioni": [
+                    "che tu cingessi",
+                    "che tu circondassi",
+                    "che tu recintassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consepīret",
+                "traduzioni": [
+                    "che lui cingesse",
+                    "che lei cingesse",
+                    "che egli cingesse",
+                    "che lui circondasse",
+                    "che lei circondasse",
+                    "che egli circondasse",
+                    "che lui recintasse",
+                    "che lei recintasse",
+                    "che egli recintasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consepirēmus",
+                "traduzioni": [
+                    "che noi cingessimo",
+                    "che noi circondassimo",
+                    "che noi recintassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consepirētis",
+                "traduzioni": [
+                    "che voi cingeste",
+                    "che voi circondaste",
+                    "che voi recintaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consepīrent",
+                "traduzioni": [
+                    "che loro cingessero",
+                    "che essi cingessero",
+                    "che loro circondassero",
+                    "che essi circondassero",
+                    "che loro recintassero",
+                    "che essi recintassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consepsĕrim",
+                "traduzioni": [
+                    "che io abbia cinto",
+                    "che io abbia circondato",
+                    "che io abbia recintato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consepsĕris",
+                "traduzioni": [
+                    "che tu abbia cinto",
+                    "che tu abbia circondato",
+                    "che tu abbia recintato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consepsĕrit",
+                "traduzioni": [
+                    "che lui abbia cinto",
+                    "che lei abbia cinto",
+                    "che egli abbia cinto",
+                    "che lui abbia circondato",
+                    "che lei abbia circondato",
+                    "che egli abbia circondato",
+                    "che lui abbia recintato",
+                    "che lei abbia recintato",
+                    "che egli abbia recintato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consepserĭmus",
+                "traduzioni": [
+                    "che noi abbiamo cinto",
+                    "che noi abbiamo circondato",
+                    "che noi abbiamo recintato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consepserĭtis",
+                "traduzioni": [
+                    "che voi abbiate cinto",
+                    "che voi abbiate circondato",
+                    "che voi abbiate recintato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consepsĕrint",
+                "traduzioni": [
+                    "che loro abbiano cinto",
+                    "che essi abbiano cinto",
+                    "che loro abbiano circondato",
+                    "che essi abbiano circondato",
+                    "che loro abbiano recintato",
+                    "che essi abbiano recintato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "consepsissem",
+                "traduzioni": [
+                    "che io avessi cinto",
+                    "che io avessi circondato",
+                    "che io avessi recintato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "consepsisses",
+                "traduzioni": [
+                    "che tu avessi cinto",
+                    "che tu avessi circondato",
+                    "che tu avessi recintato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "consepsisset",
+                "traduzioni": [
+                    "che lui avesse cinto",
+                    "che lei avesse cinto",
+                    "che egli avesse cinto",
+                    "che lui avesse circondato",
+                    "che lei avesse circondato",
+                    "che egli avesse circondato",
+                    "che lui avesse recintato",
+                    "che lei avesse recintato",
+                    "che egli avesse recintato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "consepsissēmus",
+                "traduzioni": [
+                    "che noi avessimo cinto",
+                    "che noi avessimo circondato",
+                    "che noi avessimo recintato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "consepsissētis",
+                "traduzioni": [
+                    "che voi aveste cinto",
+                    "che voi aveste circondato",
+                    "che voi aveste recintato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "consepsissent",
+                "traduzioni": [
+                    "che loro avessero cinto",
+                    "che essi avessero cinto",
+                    "che loro avessero circondato",
+                    "che essi avessero circondato",
+                    "che loro avessero recintato",
+                    "che essi avessero recintato"
+                ]
+            }
+        ]
+    }
+}

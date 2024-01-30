@@ -1,0 +1,832 @@
+{
+    "identifier": "PROCREO",
+    "conuigazione": "1",
+    "translation": [
+        "procreare",
+        "generare",
+        "causare",
+        "creare"
+    ],
+    "valid_translations": [
+        "procreare",
+        "generare",
+        "causare",
+        "creare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "prōcrĕo",
+                "traduzioni": [
+                    "io procreo",
+                    "io genero",
+                    "io causo",
+                    "io creo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prōcrĕas",
+                "traduzioni": [
+                    "tu procrei",
+                    "tu generi",
+                    "tu causi",
+                    "tu crei"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prōcrĕat",
+                "traduzioni": [
+                    "lui procrea",
+                    "lei procrea",
+                    "egli procrea",
+                    "lui genera",
+                    "lei genera",
+                    "egli genera",
+                    "lui causa",
+                    "lei causa",
+                    "egli causa",
+                    "lui crea",
+                    "lei crea",
+                    "egli crea"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prōcrĕāmus",
+                "traduzioni": [
+                    "noi procreiamo",
+                    "noi generiamo",
+                    "noi causiamo",
+                    "noi creiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prōcrĕātis",
+                "traduzioni": [
+                    "voi procreate",
+                    "voi generate",
+                    "voi causate",
+                    "voi create"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prōcrĕant",
+                "traduzioni": [
+                    "loro procreano",
+                    "essi procreano",
+                    "loro generano",
+                    "essi generano",
+                    "loro causano",
+                    "essi causano",
+                    "loro creano",
+                    "essi creano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "prōcrĕābam",
+                "traduzioni": [
+                    "io procreavo",
+                    "io generavo",
+                    "io causavo",
+                    "io creavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prōcrĕābas",
+                "traduzioni": [
+                    "tu procreavi",
+                    "tu generavi",
+                    "tu causavi",
+                    "tu creavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prōcrĕābat",
+                "traduzioni": [
+                    "lui procreava",
+                    "lei procreava",
+                    "egli procreava",
+                    "lui generava",
+                    "lei generava",
+                    "egli generava",
+                    "lui causava",
+                    "lei causava",
+                    "egli causava",
+                    "lui creava",
+                    "lei creava",
+                    "egli creava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prōcrĕabāmus",
+                "traduzioni": [
+                    "noi procreavamo",
+                    "noi generavamo",
+                    "noi causavamo",
+                    "noi creavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prōcrĕabātis",
+                "traduzioni": [
+                    "voi procreavate",
+                    "voi generavate",
+                    "voi causavate",
+                    "voi creavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prōcrĕābant",
+                "traduzioni": [
+                    "loro procreavano",
+                    "essi procreavano",
+                    "loro generavano",
+                    "essi generavano",
+                    "loro causavano",
+                    "essi causavano",
+                    "loro creavano",
+                    "essi creavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "prōcrĕābo",
+                "traduzioni": [
+                    "io procreerò",
+                    "io genererò",
+                    "io causerò",
+                    "io creerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prōcrĕābis",
+                "traduzioni": [
+                    "tu procreerai",
+                    "tu genererai",
+                    "tu causerai",
+                    "tu creerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prōcrĕābit",
+                "traduzioni": [
+                    "lui procreerà",
+                    "lei procreerà",
+                    "egli procreerà",
+                    "lui genererà",
+                    "lei genererà",
+                    "egli genererà",
+                    "lui causerà",
+                    "lei causerà",
+                    "egli causerà",
+                    "lui creerà",
+                    "lei creerà",
+                    "egli creerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prōcrĕabĭmus",
+                "traduzioni": [
+                    "noi procreeremo",
+                    "noi genereremo",
+                    "noi causeremo",
+                    "noi creeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prōcrĕabĭtis",
+                "traduzioni": [
+                    "voi procreerete",
+                    "voi genererete",
+                    "voi causerete",
+                    "voi creerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prōcrĕābunt",
+                "traduzioni": [
+                    "loro procreeranno",
+                    "essi procreeranno",
+                    "loro genereranno",
+                    "essi genereranno",
+                    "loro causeranno",
+                    "essi causeranno",
+                    "loro creeranno",
+                    "essi creeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "procreavi",
+                "traduzioni": [
+                    "io procreai",
+                    "io ho procreato",
+                    "io ebbi procreato",
+                    "io generai",
+                    "io ho generato",
+                    "io ebbi generato",
+                    "io causai",
+                    "io ho causato",
+                    "io ebbi causato",
+                    "io creai",
+                    "io ho creato",
+                    "io ebbi creato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "procreavisti",
+                "traduzioni": [
+                    "tu procreasti",
+                    "tu hai procreato",
+                    "tu avesti procreato",
+                    "tu generasti",
+                    "tu hai generato",
+                    "tu avesti generato",
+                    "tu causasti",
+                    "tu hai causato",
+                    "tu avesti causato",
+                    "tu creasti",
+                    "tu hai creato",
+                    "tu avesti creato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "procreavit",
+                "traduzioni": [
+                    "lui procreò",
+                    "lei procreò",
+                    "egli procreò",
+                    "lui ha procreato",
+                    "lei ha procreato",
+                    "egli ha procreato",
+                    "lui ebbe procreato",
+                    "lei ebbe procreato",
+                    "egli ebbe procreato",
+                    "lui generò",
+                    "lei generò",
+                    "egli generò",
+                    "lui ha generato",
+                    "lei ha generato",
+                    "egli ha generato",
+                    "lui ebbe generato",
+                    "lei ebbe generato",
+                    "egli ebbe generato",
+                    "lui causò",
+                    "lei causò",
+                    "egli causò",
+                    "lui ha causato",
+                    "lei ha causato",
+                    "egli ha causato",
+                    "lui ebbe causato",
+                    "lei ebbe causato",
+                    "egli ebbe causato",
+                    "lui creò",
+                    "lei creò",
+                    "egli creò",
+                    "lui ha creato",
+                    "lei ha creato",
+                    "egli ha creato",
+                    "lui ebbe creato",
+                    "lei ebbe creato",
+                    "egli ebbe creato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "procreavĭmus",
+                "traduzioni": [
+                    "noi procreammo",
+                    "noi abbiamo procreato",
+                    "noi avemmo procreato",
+                    "noi generammo",
+                    "noi abbiamo generato",
+                    "noi avemmo generato",
+                    "noi causammo",
+                    "noi abbiamo causato",
+                    "noi avemmo causato",
+                    "noi creammo",
+                    "noi abbiamo creato",
+                    "noi avemmo creato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "procreavistis",
+                "traduzioni": [
+                    "voi procreaste",
+                    "voi avete procreato",
+                    "voi aveste procreato",
+                    "voi generaste",
+                    "voi avete generato",
+                    "voi aveste generato",
+                    "voi causaste",
+                    "voi avete causato",
+                    "voi aveste causato",
+                    "voi creaste",
+                    "voi avete creato",
+                    "voi aveste creato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "procreavērunt, procreavēre",
+                "traduzioni": [
+                    "loro procrearono",
+                    "essi procrearono",
+                    "loro hanno procreato",
+                    "essi hanno procreato",
+                    "loro ebbero procreato",
+                    "essi ebbero procreato",
+                    "loro generarono",
+                    "essi generarono",
+                    "loro hanno generato",
+                    "essi hanno generato",
+                    "loro ebbero generato",
+                    "essi ebbero generato",
+                    "loro causarono",
+                    "essi causarono",
+                    "loro hanno causato",
+                    "essi hanno causato",
+                    "loro ebbero causato",
+                    "essi ebbero causato",
+                    "loro crearono",
+                    "essi crearono",
+                    "loro hanno creato",
+                    "essi hanno creato",
+                    "loro ebbero creato",
+                    "essi ebbero creato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "procreavĕram",
+                "traduzioni": [
+                    "io avevo procreato",
+                    "io avevo generato",
+                    "io avevo causato",
+                    "io avevo creato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "procreavĕras",
+                "traduzioni": [
+                    "tu avevi procreato",
+                    "tu avevi generato",
+                    "tu avevi causato",
+                    "tu avevi creato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "procreavĕrat",
+                "traduzioni": [
+                    "lui aveva procreato",
+                    "lei aveva procreato",
+                    "egli aveva procreato",
+                    "lui aveva generato",
+                    "lei aveva generato",
+                    "egli aveva generato",
+                    "lui aveva causato",
+                    "lei aveva causato",
+                    "egli aveva causato",
+                    "lui aveva creato",
+                    "lei aveva creato",
+                    "egli aveva creato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "procreaverāmus",
+                "traduzioni": [
+                    "noi avevamo procreato",
+                    "noi avevamo generato",
+                    "noi avevamo causato",
+                    "noi avevamo creato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "procreaverātis",
+                "traduzioni": [
+                    "voi avevate procreato",
+                    "voi avevate generato",
+                    "voi avevate causato",
+                    "voi avevate creato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "procreavĕrant",
+                "traduzioni": [
+                    "loro avevano procreato",
+                    "essi avevano procreato",
+                    "loro avevano generato",
+                    "essi avevano generato",
+                    "loro avevano causato",
+                    "essi avevano causato",
+                    "loro avevano creato",
+                    "essi avevano creato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "procreavĕro",
+                "traduzioni": [
+                    "io avrò procreato",
+                    "io avrò generato",
+                    "io avrò causato",
+                    "io avrò creato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "procreavĕris",
+                "traduzioni": [
+                    "tu avrai procreato",
+                    "tu avrai generato",
+                    "tu avrai causato",
+                    "tu avrai creato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "procreavĕrit",
+                "traduzioni": [
+                    "lui avrà procreato",
+                    "lei avrà procreato",
+                    "egli avrà procreato",
+                    "lui avrà generato",
+                    "lei avrà generato",
+                    "egli avrà generato",
+                    "lui avrà causato",
+                    "lei avrà causato",
+                    "egli avrà causato",
+                    "lui avrà creato",
+                    "lei avrà creato",
+                    "egli avrà creato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "procreaverĭmus",
+                "traduzioni": [
+                    "noi avremo procreato",
+                    "noi avremo generato",
+                    "noi avremo causato",
+                    "noi avremo creato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "procreaverĭtis",
+                "traduzioni": [
+                    "voi avrete procreato",
+                    "voi avrete generato",
+                    "voi avrete causato",
+                    "voi avrete creato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "procreavĕrint",
+                "traduzioni": [
+                    "loro avranno procreato",
+                    "essi avranno procreato",
+                    "loro avranno generato",
+                    "essi avranno generato",
+                    "loro avranno causato",
+                    "essi avranno causato",
+                    "loro avranno creato",
+                    "essi avranno creato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "prōcrĕem",
+                "traduzioni": [
+                    "che io procrei",
+                    "che io generi",
+                    "che io causi",
+                    "che io crei"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prōcrĕes",
+                "traduzioni": [
+                    "che tu procrei",
+                    "che tu generi",
+                    "che tu causi",
+                    "che tu crei"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prōcrĕet",
+                "traduzioni": [
+                    "che lui procrei",
+                    "che lei procrei",
+                    "che egli procrei",
+                    "che lui generi",
+                    "che lei generi",
+                    "che egli generi",
+                    "che lui causi",
+                    "che lei causi",
+                    "che egli causi",
+                    "che lui crei",
+                    "che lei crei",
+                    "che egli crei"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prōcrĕēmus",
+                "traduzioni": [
+                    "che noi procreiamo",
+                    "che noi generiamo",
+                    "che noi causiamo",
+                    "che noi creiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prōcrĕētis",
+                "traduzioni": [
+                    "che voi procreiate",
+                    "che voi generiate",
+                    "che voi causiate",
+                    "che voi creiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prōcrĕent",
+                "traduzioni": [
+                    "che loro procreino",
+                    "che essi procreino",
+                    "che loro generino",
+                    "che essi generino",
+                    "che loro causino",
+                    "che essi causino",
+                    "che loro creino",
+                    "che essi creino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "prōcrĕārem",
+                "traduzioni": [
+                    "che io procreassi",
+                    "che io generassi",
+                    "che io causassi",
+                    "che io creassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prōcrĕāres",
+                "traduzioni": [
+                    "che tu procreassi",
+                    "che tu generassi",
+                    "che tu causassi",
+                    "che tu creassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prōcrĕāret",
+                "traduzioni": [
+                    "che lui procreasse",
+                    "che lei procreasse",
+                    "che egli procreasse",
+                    "che lui generasse",
+                    "che lei generasse",
+                    "che egli generasse",
+                    "che lui causasse",
+                    "che lei causasse",
+                    "che egli causasse",
+                    "che lui creasse",
+                    "che lei creasse",
+                    "che egli creasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prōcrĕarēmus",
+                "traduzioni": [
+                    "che noi procreassimo",
+                    "che noi generassimo",
+                    "che noi causassimo",
+                    "che noi creassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prōcrĕarētis",
+                "traduzioni": [
+                    "che voi procreaste",
+                    "che voi generaste",
+                    "che voi causaste",
+                    "che voi creaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prōcrĕārent",
+                "traduzioni": [
+                    "che loro procreassero",
+                    "che essi procreassero",
+                    "che loro generassero",
+                    "che essi generassero",
+                    "che loro causassero",
+                    "che essi causassero",
+                    "che loro creassero",
+                    "che essi creassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "procreavĕrim",
+                "traduzioni": [
+                    "che io abbia procreato",
+                    "che io abbia generato",
+                    "che io abbia causato",
+                    "che io abbia creato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "procreavĕris",
+                "traduzioni": [
+                    "che tu abbia procreato",
+                    "che tu abbia generato",
+                    "che tu abbia causato",
+                    "che tu abbia creato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "procreavĕrit",
+                "traduzioni": [
+                    "che lui abbia procreato",
+                    "che lei abbia procreato",
+                    "che egli abbia procreato",
+                    "che lui abbia generato",
+                    "che lei abbia generato",
+                    "che egli abbia generato",
+                    "che lui abbia causato",
+                    "che lei abbia causato",
+                    "che egli abbia causato",
+                    "che lui abbia creato",
+                    "che lei abbia creato",
+                    "che egli abbia creato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "procreaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo procreato",
+                    "che noi abbiamo generato",
+                    "che noi abbiamo causato",
+                    "che noi abbiamo creato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "procreaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate procreato",
+                    "che voi abbiate generato",
+                    "che voi abbiate causato",
+                    "che voi abbiate creato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "procreavĕrint",
+                "traduzioni": [
+                    "che loro abbiano procreato",
+                    "che essi abbiano procreato",
+                    "che loro abbiano generato",
+                    "che essi abbiano generato",
+                    "che loro abbiano causato",
+                    "che essi abbiano causato",
+                    "che loro abbiano creato",
+                    "che essi abbiano creato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "procreavissem",
+                "traduzioni": [
+                    "che io avessi procreato",
+                    "che io avessi generato",
+                    "che io avessi causato",
+                    "che io avessi creato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "procreavisses",
+                "traduzioni": [
+                    "che tu avessi procreato",
+                    "che tu avessi generato",
+                    "che tu avessi causato",
+                    "che tu avessi creato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "procreavisset",
+                "traduzioni": [
+                    "che lui avesse procreato",
+                    "che lei avesse procreato",
+                    "che egli avesse procreato",
+                    "che lui avesse generato",
+                    "che lei avesse generato",
+                    "che egli avesse generato",
+                    "che lui avesse causato",
+                    "che lei avesse causato",
+                    "che egli avesse causato",
+                    "che lui avesse creato",
+                    "che lei avesse creato",
+                    "che egli avesse creato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "procreavissēmus",
+                "traduzioni": [
+                    "che noi avessimo procreato",
+                    "che noi avessimo generato",
+                    "che noi avessimo causato",
+                    "che noi avessimo creato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "procreavissētis",
+                "traduzioni": [
+                    "che voi aveste procreato",
+                    "che voi aveste generato",
+                    "che voi aveste causato",
+                    "che voi aveste creato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "procreavissent",
+                "traduzioni": [
+                    "che loro avessero procreato",
+                    "che essi avessero procreato",
+                    "che loro avessero generato",
+                    "che essi avessero generato",
+                    "che loro avessero causato",
+                    "che essi avessero causato",
+                    "che loro avessero creato",
+                    "che essi avessero creato"
+                ]
+            }
+        ]
+    }
+}

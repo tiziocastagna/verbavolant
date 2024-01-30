@@ -1,0 +1,612 @@
+{
+    "identifier": "HILARO",
+    "conuigazione": "1",
+    "translation": [
+        "allietare",
+        "rallegrare"
+    ],
+    "valid_translations": [
+        "allietare",
+        "rallegrare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "hĭlăro",
+                "traduzioni": [
+                    "io allieto",
+                    "io rallegro"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hĭlăras",
+                "traduzioni": [
+                    "tu allieti",
+                    "tu rallegri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hĭlărat",
+                "traduzioni": [
+                    "lui allieta",
+                    "lei allieta",
+                    "egli allieta",
+                    "lui rallegra",
+                    "lei rallegra",
+                    "egli rallegra"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hĭlărāmus",
+                "traduzioni": [
+                    "noi allietiamo",
+                    "noi rallegriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hĭlărātis",
+                "traduzioni": [
+                    "voi allietate",
+                    "voi rallegrate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hĭlărant",
+                "traduzioni": [
+                    "loro allietano",
+                    "essi allietano",
+                    "loro rallegrano",
+                    "essi rallegrano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "hĭlărābam",
+                "traduzioni": [
+                    "io allietavo",
+                    "io rallegravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hĭlărābas",
+                "traduzioni": [
+                    "tu allietavi",
+                    "tu rallegravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hĭlărābat",
+                "traduzioni": [
+                    "lui allietava",
+                    "lei allietava",
+                    "egli allietava",
+                    "lui rallegrava",
+                    "lei rallegrava",
+                    "egli rallegrava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hĭlărabāmus",
+                "traduzioni": [
+                    "noi allietavamo",
+                    "noi rallegravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hĭlărabātis",
+                "traduzioni": [
+                    "voi allietavate",
+                    "voi rallegravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hĭlărābant",
+                "traduzioni": [
+                    "loro allietavano",
+                    "essi allietavano",
+                    "loro rallegravano",
+                    "essi rallegravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "hĭlărābo",
+                "traduzioni": [
+                    "io allieterò",
+                    "io rallegrerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hĭlărābis",
+                "traduzioni": [
+                    "tu allieterai",
+                    "tu rallegrerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hĭlărābit",
+                "traduzioni": [
+                    "lui allieterà",
+                    "lei allieterà",
+                    "egli allieterà",
+                    "lui rallegrerà",
+                    "lei rallegrerà",
+                    "egli rallegrerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hĭlărabĭmus",
+                "traduzioni": [
+                    "noi allieteremo",
+                    "noi rallegreremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hĭlărabĭtis",
+                "traduzioni": [
+                    "voi allieterete",
+                    "voi rallegrerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hĭlărābunt",
+                "traduzioni": [
+                    "loro allieteranno",
+                    "essi allieteranno",
+                    "loro rallegreranno",
+                    "essi rallegreranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "hilaravi",
+                "traduzioni": [
+                    "io allietai",
+                    "io ho allietato",
+                    "io ebbi allietato",
+                    "io rallegrai",
+                    "io ho rallegrato",
+                    "io ebbi rallegrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hilaravisti",
+                "traduzioni": [
+                    "tu allietasti",
+                    "tu hai allietato",
+                    "tu avesti allietato",
+                    "tu rallegrasti",
+                    "tu hai rallegrato",
+                    "tu avesti rallegrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hilaravit",
+                "traduzioni": [
+                    "lui allietò",
+                    "lei allietò",
+                    "egli allietò",
+                    "lui ha allietato",
+                    "lei ha allietato",
+                    "egli ha allietato",
+                    "lui ebbe allietato",
+                    "lei ebbe allietato",
+                    "egli ebbe allietato",
+                    "lui rallegrò",
+                    "lei rallegrò",
+                    "egli rallegrò",
+                    "lui ha rallegrato",
+                    "lei ha rallegrato",
+                    "egli ha rallegrato",
+                    "lui ebbe rallegrato",
+                    "lei ebbe rallegrato",
+                    "egli ebbe rallegrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hilaravĭmus",
+                "traduzioni": [
+                    "noi allietammo",
+                    "noi abbiamo allietato",
+                    "noi avemmo allietato",
+                    "noi rallegrammo",
+                    "noi abbiamo rallegrato",
+                    "noi avemmo rallegrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hilaravistis",
+                "traduzioni": [
+                    "voi allietaste",
+                    "voi avete allietato",
+                    "voi aveste allietato",
+                    "voi rallegraste",
+                    "voi avete rallegrato",
+                    "voi aveste rallegrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hilaravērunt, hilaravēre",
+                "traduzioni": [
+                    "loro allietarono",
+                    "essi allietarono",
+                    "loro hanno allietato",
+                    "essi hanno allietato",
+                    "loro ebbero allietato",
+                    "essi ebbero allietato",
+                    "loro rallegrarono",
+                    "essi rallegrarono",
+                    "loro hanno rallegrato",
+                    "essi hanno rallegrato",
+                    "loro ebbero rallegrato",
+                    "essi ebbero rallegrato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "hilaravĕram",
+                "traduzioni": [
+                    "io avevo allietato",
+                    "io avevo rallegrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hilaravĕras",
+                "traduzioni": [
+                    "tu avevi allietato",
+                    "tu avevi rallegrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hilaravĕrat",
+                "traduzioni": [
+                    "lui aveva allietato",
+                    "lei aveva allietato",
+                    "egli aveva allietato",
+                    "lui aveva rallegrato",
+                    "lei aveva rallegrato",
+                    "egli aveva rallegrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hilaraverāmus",
+                "traduzioni": [
+                    "noi avevamo allietato",
+                    "noi avevamo rallegrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hilaraverātis",
+                "traduzioni": [
+                    "voi avevate allietato",
+                    "voi avevate rallegrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hilaravĕrant",
+                "traduzioni": [
+                    "loro avevano allietato",
+                    "essi avevano allietato",
+                    "loro avevano rallegrato",
+                    "essi avevano rallegrato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "hilaravĕro",
+                "traduzioni": [
+                    "io avrò allietato",
+                    "io avrò rallegrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hilaravĕris",
+                "traduzioni": [
+                    "tu avrai allietato",
+                    "tu avrai rallegrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hilaravĕrit",
+                "traduzioni": [
+                    "lui avrà allietato",
+                    "lei avrà allietato",
+                    "egli avrà allietato",
+                    "lui avrà rallegrato",
+                    "lei avrà rallegrato",
+                    "egli avrà rallegrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hilaraverĭmus",
+                "traduzioni": [
+                    "noi avremo allietato",
+                    "noi avremo rallegrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hilaraverĭtis",
+                "traduzioni": [
+                    "voi avrete allietato",
+                    "voi avrete rallegrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hilaravĕrint",
+                "traduzioni": [
+                    "loro avranno allietato",
+                    "essi avranno allietato",
+                    "loro avranno rallegrato",
+                    "essi avranno rallegrato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "hĭlărem",
+                "traduzioni": [
+                    "che io allieti",
+                    "che io rallegri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hĭlăres",
+                "traduzioni": [
+                    "che tu allieti",
+                    "che tu rallegri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hĭlăret",
+                "traduzioni": [
+                    "che lui allieti",
+                    "che lei allieti",
+                    "che egli allieti",
+                    "che lui rallegri",
+                    "che lei rallegri",
+                    "che egli rallegri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hĭlărēmus",
+                "traduzioni": [
+                    "che noi allietiamo",
+                    "che noi rallegriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hĭlărētis",
+                "traduzioni": [
+                    "che voi allietiate",
+                    "che voi rallegriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hĭlărent",
+                "traduzioni": [
+                    "che loro allietino",
+                    "che essi allietino",
+                    "che loro rallegrino",
+                    "che essi rallegrino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "hĭlărārem",
+                "traduzioni": [
+                    "che io allietassi",
+                    "che io rallegrassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hĭlărāres",
+                "traduzioni": [
+                    "che tu allietassi",
+                    "che tu rallegrassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hĭlărāret",
+                "traduzioni": [
+                    "che lui allietasse",
+                    "che lei allietasse",
+                    "che egli allietasse",
+                    "che lui rallegrasse",
+                    "che lei rallegrasse",
+                    "che egli rallegrasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hĭlărarēmus",
+                "traduzioni": [
+                    "che noi allietassimo",
+                    "che noi rallegrassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hĭlărarētis",
+                "traduzioni": [
+                    "che voi allietaste",
+                    "che voi rallegraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hĭlărārent",
+                "traduzioni": [
+                    "che loro allietassero",
+                    "che essi allietassero",
+                    "che loro rallegrassero",
+                    "che essi rallegrassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "hilaravĕrim",
+                "traduzioni": [
+                    "che io abbia allietato",
+                    "che io abbia rallegrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hilaravĕris",
+                "traduzioni": [
+                    "che tu abbia allietato",
+                    "che tu abbia rallegrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hilaravĕrit",
+                "traduzioni": [
+                    "che lui abbia allietato",
+                    "che lei abbia allietato",
+                    "che egli abbia allietato",
+                    "che lui abbia rallegrato",
+                    "che lei abbia rallegrato",
+                    "che egli abbia rallegrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hilaraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo allietato",
+                    "che noi abbiamo rallegrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hilaraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate allietato",
+                    "che voi abbiate rallegrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hilaravĕrint",
+                "traduzioni": [
+                    "che loro abbiano allietato",
+                    "che essi abbiano allietato",
+                    "che loro abbiano rallegrato",
+                    "che essi abbiano rallegrato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "hilaravissem",
+                "traduzioni": [
+                    "che io avessi allietato",
+                    "che io avessi rallegrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hilaravisses",
+                "traduzioni": [
+                    "che tu avessi allietato",
+                    "che tu avessi rallegrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hilaravisset",
+                "traduzioni": [
+                    "che lui avesse allietato",
+                    "che lei avesse allietato",
+                    "che egli avesse allietato",
+                    "che lui avesse rallegrato",
+                    "che lei avesse rallegrato",
+                    "che egli avesse rallegrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hilaravissēmus",
+                "traduzioni": [
+                    "che noi avessimo allietato",
+                    "che noi avessimo rallegrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hilaravissētis",
+                "traduzioni": [
+                    "che voi aveste allietato",
+                    "che voi aveste rallegrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hilaravissent",
+                "traduzioni": [
+                    "che loro avessero allietato",
+                    "che essi avessero allietato",
+                    "che loro avessero rallegrato",
+                    "che essi avessero rallegrato"
+                ]
+            }
+        ]
+    }
+}

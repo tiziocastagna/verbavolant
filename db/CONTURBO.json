@@ -1,0 +1,942 @@
+{
+    "identifier": "CONTURBO",
+    "conuigazione": "1",
+    "translation": [
+        "turbare",
+        "confondere",
+        "alterare",
+        "disordinare",
+        "scompigliare"
+    ],
+    "valid_translations": [
+        "turbare",
+        "confondere",
+        "alterare",
+        "disordinare",
+        "scompigliare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conturbo",
+                "traduzioni": [
+                    "io turbo",
+                    "io confondo",
+                    "io altero",
+                    "io disordino",
+                    "io scompiglio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conturbas",
+                "traduzioni": [
+                    "tu turbi",
+                    "tu confondi",
+                    "tu alteri",
+                    "tu disordini",
+                    "tu scompigli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conturbat",
+                "traduzioni": [
+                    "lui turba",
+                    "lei turba",
+                    "egli turba",
+                    "lui confonde",
+                    "lei confonde",
+                    "egli confonde",
+                    "lui altera",
+                    "lei altera",
+                    "egli altera",
+                    "lui disordina",
+                    "lei disordina",
+                    "egli disordina",
+                    "lui scompiglia",
+                    "lei scompiglia",
+                    "egli scompiglia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conturbāmus",
+                "traduzioni": [
+                    "noi turbiamo",
+                    "noi confondiamo",
+                    "noi alteriamo",
+                    "noi disordiniamo",
+                    "noi scompigliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conturbātis",
+                "traduzioni": [
+                    "voi turbate",
+                    "voi confondete",
+                    "voi alterate",
+                    "voi disordinate",
+                    "voi scompigliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conturbant",
+                "traduzioni": [
+                    "loro turbano",
+                    "essi turbano",
+                    "loro confondono",
+                    "essi confondono",
+                    "loro alterano",
+                    "essi alterano",
+                    "loro disordinano",
+                    "essi disordinano",
+                    "loro scompigliano",
+                    "essi scompigliano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conturbābam",
+                "traduzioni": [
+                    "io turbavo",
+                    "io confondevo",
+                    "io alteravo",
+                    "io disordinavo",
+                    "io scompigliavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conturbābas",
+                "traduzioni": [
+                    "tu turbavi",
+                    "tu confondevi",
+                    "tu alteravi",
+                    "tu disordinavi",
+                    "tu scompigliavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conturbābat",
+                "traduzioni": [
+                    "lui turbava",
+                    "lei turbava",
+                    "egli turbava",
+                    "lui confondeva",
+                    "lei confondeva",
+                    "egli confondeva",
+                    "lui alterava",
+                    "lei alterava",
+                    "egli alterava",
+                    "lui disordinava",
+                    "lei disordinava",
+                    "egli disordinava",
+                    "lui scompigliava",
+                    "lei scompigliava",
+                    "egli scompigliava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conturbabāmus",
+                "traduzioni": [
+                    "noi turbavamo",
+                    "noi confondevamo",
+                    "noi alteravamo",
+                    "noi disordinavamo",
+                    "noi scompigliavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conturbabātis",
+                "traduzioni": [
+                    "voi turbavate",
+                    "voi confondevate",
+                    "voi alteravate",
+                    "voi disordinavate",
+                    "voi scompigliavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conturbābant",
+                "traduzioni": [
+                    "loro turbavano",
+                    "essi turbavano",
+                    "loro confondevano",
+                    "essi confondevano",
+                    "loro alteravano",
+                    "essi alteravano",
+                    "loro disordinavano",
+                    "essi disordinavano",
+                    "loro scompigliavano",
+                    "essi scompigliavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conturbābo",
+                "traduzioni": [
+                    "io turberò",
+                    "io confonderò",
+                    "io altererò",
+                    "io disordinerò",
+                    "io scompiglierò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conturbābis",
+                "traduzioni": [
+                    "tu turberai",
+                    "tu confonderai",
+                    "tu altererai",
+                    "tu disordinerai",
+                    "tu scompiglierai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conturbābit",
+                "traduzioni": [
+                    "lui turberà",
+                    "lei turberà",
+                    "egli turberà",
+                    "lui confonderà",
+                    "lei confonderà",
+                    "egli confonderà",
+                    "lui altererà",
+                    "lei altererà",
+                    "egli altererà",
+                    "lui disordinerà",
+                    "lei disordinerà",
+                    "egli disordinerà",
+                    "lui scompiglierà",
+                    "lei scompiglierà",
+                    "egli scompiglierà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conturbabĭmus",
+                "traduzioni": [
+                    "noi turberemo",
+                    "noi confonderemo",
+                    "noi altereremo",
+                    "noi disordineremo",
+                    "noi scompiglieremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conturbabĭtis",
+                "traduzioni": [
+                    "voi turberete",
+                    "voi confonderete",
+                    "voi altererete",
+                    "voi disordinerete",
+                    "voi scompiglierete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conturbābunt",
+                "traduzioni": [
+                    "loro turberanno",
+                    "essi turberanno",
+                    "loro confonderanno",
+                    "essi confonderanno",
+                    "loro altereranno",
+                    "essi altereranno",
+                    "loro disordineranno",
+                    "essi disordineranno",
+                    "loro scompiglieranno",
+                    "essi scompiglieranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conturbavi",
+                "traduzioni": [
+                    "io turbai",
+                    "io ho turbato",
+                    "io ebbi turbato",
+                    "io confusi",
+                    "io ho confuso",
+                    "io ebbi confuso",
+                    "io alterai",
+                    "io ho alterato",
+                    "io ebbi alterato",
+                    "io disordinai",
+                    "io ho disordinato",
+                    "io ebbi disordinato",
+                    "io scompigliai",
+                    "io ho scompigliato",
+                    "io ebbi scompigliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conturbavisti",
+                "traduzioni": [
+                    "tu turbasti",
+                    "tu hai turbato",
+                    "tu avesti turbato",
+                    "tu confondesti",
+                    "tu hai confuso",
+                    "tu avesti confuso",
+                    "tu alterasti",
+                    "tu hai alterato",
+                    "tu avesti alterato",
+                    "tu disordinasti",
+                    "tu hai disordinato",
+                    "tu avesti disordinato",
+                    "tu scompigliasti",
+                    "tu hai scompigliato",
+                    "tu avesti scompigliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conturbavit",
+                "traduzioni": [
+                    "lui turbò",
+                    "lei turbò",
+                    "egli turbò",
+                    "lui ha turbato",
+                    "lei ha turbato",
+                    "egli ha turbato",
+                    "lui ebbe turbato",
+                    "lei ebbe turbato",
+                    "egli ebbe turbato",
+                    "lui confuse",
+                    "lei confuse",
+                    "egli confuse",
+                    "lui ha confuso",
+                    "lei ha confuso",
+                    "egli ha confuso",
+                    "lui ebbe confuso",
+                    "lei ebbe confuso",
+                    "egli ebbe confuso",
+                    "lui alterò",
+                    "lei alterò",
+                    "egli alterò",
+                    "lui ha alterato",
+                    "lei ha alterato",
+                    "egli ha alterato",
+                    "lui ebbe alterato",
+                    "lei ebbe alterato",
+                    "egli ebbe alterato",
+                    "lui disordinò",
+                    "lei disordinò",
+                    "egli disordinò",
+                    "lui ha disordinato",
+                    "lei ha disordinato",
+                    "egli ha disordinato",
+                    "lui ebbe disordinato",
+                    "lei ebbe disordinato",
+                    "egli ebbe disordinato",
+                    "lui scompigliò",
+                    "lei scompigliò",
+                    "egli scompigliò",
+                    "lui ha scompigliato",
+                    "lei ha scompigliato",
+                    "egli ha scompigliato",
+                    "lui ebbe scompigliato",
+                    "lei ebbe scompigliato",
+                    "egli ebbe scompigliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conturbavĭmus",
+                "traduzioni": [
+                    "noi turbammo",
+                    "noi abbiamo turbato",
+                    "noi avemmo turbato",
+                    "noi confondemmo",
+                    "noi abbiamo confuso",
+                    "noi avemmo confuso",
+                    "noi alterammo",
+                    "noi abbiamo alterato",
+                    "noi avemmo alterato",
+                    "noi disordinammo",
+                    "noi abbiamo disordinato",
+                    "noi avemmo disordinato",
+                    "noi scompigliammo",
+                    "noi abbiamo scompigliato",
+                    "noi avemmo scompigliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conturbavistis",
+                "traduzioni": [
+                    "voi turbaste",
+                    "voi avete turbato",
+                    "voi aveste turbato",
+                    "voi confondeste",
+                    "voi avete confuso",
+                    "voi aveste confuso",
+                    "voi alteraste",
+                    "voi avete alterato",
+                    "voi aveste alterato",
+                    "voi disordinaste",
+                    "voi avete disordinato",
+                    "voi aveste disordinato",
+                    "voi scompigliaste",
+                    "voi avete scompigliato",
+                    "voi aveste scompigliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conturbavērunt, conturbavēre",
+                "traduzioni": [
+                    "loro turbarono",
+                    "essi turbarono",
+                    "loro hanno turbato",
+                    "essi hanno turbato",
+                    "loro ebbero turbato",
+                    "essi ebbero turbato",
+                    "loro confusero",
+                    "essi confusero",
+                    "loro hanno confuso",
+                    "essi hanno confuso",
+                    "loro ebbero confuso",
+                    "essi ebbero confuso",
+                    "loro alterarono",
+                    "essi alterarono",
+                    "loro hanno alterato",
+                    "essi hanno alterato",
+                    "loro ebbero alterato",
+                    "essi ebbero alterato",
+                    "loro disordinarono",
+                    "essi disordinarono",
+                    "loro hanno disordinato",
+                    "essi hanno disordinato",
+                    "loro ebbero disordinato",
+                    "essi ebbero disordinato",
+                    "loro scompigliarono",
+                    "essi scompigliarono",
+                    "loro hanno scompigliato",
+                    "essi hanno scompigliato",
+                    "loro ebbero scompigliato",
+                    "essi ebbero scompigliato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conturbavĕram",
+                "traduzioni": [
+                    "io avevo turbato",
+                    "io avevo confuso",
+                    "io avevo alterato",
+                    "io avevo disordinato",
+                    "io avevo scompigliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conturbavĕras",
+                "traduzioni": [
+                    "tu avevi turbato",
+                    "tu avevi confuso",
+                    "tu avevi alterato",
+                    "tu avevi disordinato",
+                    "tu avevi scompigliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conturbavĕrat",
+                "traduzioni": [
+                    "lui aveva turbato",
+                    "lei aveva turbato",
+                    "egli aveva turbato",
+                    "lui aveva confuso",
+                    "lei aveva confuso",
+                    "egli aveva confuso",
+                    "lui aveva alterato",
+                    "lei aveva alterato",
+                    "egli aveva alterato",
+                    "lui aveva disordinato",
+                    "lei aveva disordinato",
+                    "egli aveva disordinato",
+                    "lui aveva scompigliato",
+                    "lei aveva scompigliato",
+                    "egli aveva scompigliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conturbaverāmus",
+                "traduzioni": [
+                    "noi avevamo turbato",
+                    "noi avevamo confuso",
+                    "noi avevamo alterato",
+                    "noi avevamo disordinato",
+                    "noi avevamo scompigliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conturbaverātis",
+                "traduzioni": [
+                    "voi avevate turbato",
+                    "voi avevate confuso",
+                    "voi avevate alterato",
+                    "voi avevate disordinato",
+                    "voi avevate scompigliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conturbavĕrant",
+                "traduzioni": [
+                    "loro avevano turbato",
+                    "essi avevano turbato",
+                    "loro avevano confuso",
+                    "essi avevano confuso",
+                    "loro avevano alterato",
+                    "essi avevano alterato",
+                    "loro avevano disordinato",
+                    "essi avevano disordinato",
+                    "loro avevano scompigliato",
+                    "essi avevano scompigliato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conturbavĕro",
+                "traduzioni": [
+                    "io avrò turbato",
+                    "io avrò confuso",
+                    "io avrò alterato",
+                    "io avrò disordinato",
+                    "io avrò scompigliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conturbavĕris",
+                "traduzioni": [
+                    "tu avrai turbato",
+                    "tu avrai confuso",
+                    "tu avrai alterato",
+                    "tu avrai disordinato",
+                    "tu avrai scompigliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conturbavĕrit",
+                "traduzioni": [
+                    "lui avrà turbato",
+                    "lei avrà turbato",
+                    "egli avrà turbato",
+                    "lui avrà confuso",
+                    "lei avrà confuso",
+                    "egli avrà confuso",
+                    "lui avrà alterato",
+                    "lei avrà alterato",
+                    "egli avrà alterato",
+                    "lui avrà disordinato",
+                    "lei avrà disordinato",
+                    "egli avrà disordinato",
+                    "lui avrà scompigliato",
+                    "lei avrà scompigliato",
+                    "egli avrà scompigliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conturbaverĭmus",
+                "traduzioni": [
+                    "noi avremo turbato",
+                    "noi avremo confuso",
+                    "noi avremo alterato",
+                    "noi avremo disordinato",
+                    "noi avremo scompigliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conturbaverĭtis",
+                "traduzioni": [
+                    "voi avrete turbato",
+                    "voi avrete confuso",
+                    "voi avrete alterato",
+                    "voi avrete disordinato",
+                    "voi avrete scompigliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conturbavĕrint",
+                "traduzioni": [
+                    "loro avranno turbato",
+                    "essi avranno turbato",
+                    "loro avranno confuso",
+                    "essi avranno confuso",
+                    "loro avranno alterato",
+                    "essi avranno alterato",
+                    "loro avranno disordinato",
+                    "essi avranno disordinato",
+                    "loro avranno scompigliato",
+                    "essi avranno scompigliato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conturbem",
+                "traduzioni": [
+                    "che io turbi",
+                    "che io confonda",
+                    "che io alteri",
+                    "che io disordini",
+                    "che io scompigli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conturbes",
+                "traduzioni": [
+                    "che tu turbi",
+                    "che tu confonda",
+                    "che tu alteri",
+                    "che tu disordini",
+                    "che tu scompigli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conturbet",
+                "traduzioni": [
+                    "che lui turbi",
+                    "che lei turbi",
+                    "che egli turbi",
+                    "che lui confonda",
+                    "che lei confonda",
+                    "che egli confonda",
+                    "che lui alteri",
+                    "che lei alteri",
+                    "che egli alteri",
+                    "che lui disordini",
+                    "che lei disordini",
+                    "che egli disordini",
+                    "che lui scompigli",
+                    "che lei scompigli",
+                    "che egli scompigli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conturbēmus",
+                "traduzioni": [
+                    "che noi turbiamo",
+                    "che noi confondiamo",
+                    "che noi alteriamo",
+                    "che noi disordiniamo",
+                    "che noi scompigliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conturbētis",
+                "traduzioni": [
+                    "che voi turbiate",
+                    "che voi confondiate",
+                    "che voi alteriate",
+                    "che voi disordiniate",
+                    "che voi scompigliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conturbent",
+                "traduzioni": [
+                    "che loro turbino",
+                    "che essi turbino",
+                    "che loro confondano",
+                    "che essi confondano",
+                    "che loro alterino",
+                    "che essi alterino",
+                    "che loro disordinino",
+                    "che essi disordinino",
+                    "che loro scompiglino",
+                    "che essi scompiglino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conturbārem",
+                "traduzioni": [
+                    "che io turbassi",
+                    "che io confondessi",
+                    "che io alterassi",
+                    "che io disordinassi",
+                    "che io scompigliassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conturbāres",
+                "traduzioni": [
+                    "che tu turbassi",
+                    "che tu confondessi",
+                    "che tu alterassi",
+                    "che tu disordinassi",
+                    "che tu scompigliassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conturbāret",
+                "traduzioni": [
+                    "che lui turbasse",
+                    "che lei turbasse",
+                    "che egli turbasse",
+                    "che lui confondesse",
+                    "che lei confondesse",
+                    "che egli confondesse",
+                    "che lui alterasse",
+                    "che lei alterasse",
+                    "che egli alterasse",
+                    "che lui disordinasse",
+                    "che lei disordinasse",
+                    "che egli disordinasse",
+                    "che lui scompigliasse",
+                    "che lei scompigliasse",
+                    "che egli scompigliasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conturbarēmus",
+                "traduzioni": [
+                    "che noi turbassimo",
+                    "che noi confondessimo",
+                    "che noi alterassimo",
+                    "che noi disordinassimo",
+                    "che noi scompigliassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conturbarētis",
+                "traduzioni": [
+                    "che voi turbaste",
+                    "che voi confondeste",
+                    "che voi alteraste",
+                    "che voi disordinaste",
+                    "che voi scompigliaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conturbārent",
+                "traduzioni": [
+                    "che loro turbassero",
+                    "che essi turbassero",
+                    "che loro confondessero",
+                    "che essi confondessero",
+                    "che loro alterassero",
+                    "che essi alterassero",
+                    "che loro disordinassero",
+                    "che essi disordinassero",
+                    "che loro scompigliassero",
+                    "che essi scompigliassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conturbavĕrim",
+                "traduzioni": [
+                    "che io abbia turbato",
+                    "che io abbia confuso",
+                    "che io abbia alterato",
+                    "che io abbia disordinato",
+                    "che io abbia scompigliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conturbavĕris",
+                "traduzioni": [
+                    "che tu abbia turbato",
+                    "che tu abbia confuso",
+                    "che tu abbia alterato",
+                    "che tu abbia disordinato",
+                    "che tu abbia scompigliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conturbavĕrit",
+                "traduzioni": [
+                    "che lui abbia turbato",
+                    "che lei abbia turbato",
+                    "che egli abbia turbato",
+                    "che lui abbia confuso",
+                    "che lei abbia confuso",
+                    "che egli abbia confuso",
+                    "che lui abbia alterato",
+                    "che lei abbia alterato",
+                    "che egli abbia alterato",
+                    "che lui abbia disordinato",
+                    "che lei abbia disordinato",
+                    "che egli abbia disordinato",
+                    "che lui abbia scompigliato",
+                    "che lei abbia scompigliato",
+                    "che egli abbia scompigliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conturbaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo turbato",
+                    "che noi abbiamo confuso",
+                    "che noi abbiamo alterato",
+                    "che noi abbiamo disordinato",
+                    "che noi abbiamo scompigliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conturbaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate turbato",
+                    "che voi abbiate confuso",
+                    "che voi abbiate alterato",
+                    "che voi abbiate disordinato",
+                    "che voi abbiate scompigliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conturbavĕrint",
+                "traduzioni": [
+                    "che loro abbiano turbato",
+                    "che essi abbiano turbato",
+                    "che loro abbiano confuso",
+                    "che essi abbiano confuso",
+                    "che loro abbiano alterato",
+                    "che essi abbiano alterato",
+                    "che loro abbiano disordinato",
+                    "che essi abbiano disordinato",
+                    "che loro abbiano scompigliato",
+                    "che essi abbiano scompigliato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conturbavissem",
+                "traduzioni": [
+                    "che io avessi turbato",
+                    "che io avessi confuso",
+                    "che io avessi alterato",
+                    "che io avessi disordinato",
+                    "che io avessi scompigliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conturbavisses",
+                "traduzioni": [
+                    "che tu avessi turbato",
+                    "che tu avessi confuso",
+                    "che tu avessi alterato",
+                    "che tu avessi disordinato",
+                    "che tu avessi scompigliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conturbavisset",
+                "traduzioni": [
+                    "che lui avesse turbato",
+                    "che lei avesse turbato",
+                    "che egli avesse turbato",
+                    "che lui avesse confuso",
+                    "che lei avesse confuso",
+                    "che egli avesse confuso",
+                    "che lui avesse alterato",
+                    "che lei avesse alterato",
+                    "che egli avesse alterato",
+                    "che lui avesse disordinato",
+                    "che lei avesse disordinato",
+                    "che egli avesse disordinato",
+                    "che lui avesse scompigliato",
+                    "che lei avesse scompigliato",
+                    "che egli avesse scompigliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conturbavissēmus",
+                "traduzioni": [
+                    "che noi avessimo turbato",
+                    "che noi avessimo confuso",
+                    "che noi avessimo alterato",
+                    "che noi avessimo disordinato",
+                    "che noi avessimo scompigliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conturbavissētis",
+                "traduzioni": [
+                    "che voi aveste turbato",
+                    "che voi aveste confuso",
+                    "che voi aveste alterato",
+                    "che voi aveste disordinato",
+                    "che voi aveste scompigliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conturbavissent",
+                "traduzioni": [
+                    "che loro avessero turbato",
+                    "che essi avessero turbato",
+                    "che loro avessero confuso",
+                    "che essi avessero confuso",
+                    "che loro avessero alterato",
+                    "che essi avessero alterato",
+                    "che loro avessero disordinato",
+                    "che essi avessero disordinato",
+                    "che loro avessero scompigliato",
+                    "che essi avessero scompigliato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,502 @@
+{
+    "identifier": "CONVIVOR",
+    "conuigazione": "1",
+    "translation": [
+        "banchettare"
+    ],
+    "valid_translations": [
+        "banchettare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "convīvor",
+                "traduzioni": [
+                    "io banchetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "convīvāris, convīvāre",
+                "traduzioni": [
+                    "tu banchetti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "convīvātur",
+                "traduzioni": [
+                    "lui banchetta",
+                    "lei banchetta",
+                    "egli banchetta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "convīvāmur",
+                "traduzioni": [
+                    "noi banchettiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "convīvamĭni",
+                "traduzioni": [
+                    "voi banchettate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "convīvantur",
+                "traduzioni": [
+                    "loro banchettano",
+                    "essi banchettano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "convīvābar",
+                "traduzioni": [
+                    "io banchettavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "convīvabāris, convīvabāre",
+                "traduzioni": [
+                    "tu banchettavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "convīvabātur",
+                "traduzioni": [
+                    "lui banchettava",
+                    "lei banchettava",
+                    "egli banchettava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "convīvabāmus",
+                "traduzioni": [
+                    "noi banchettavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "convīvabamĭni",
+                "traduzioni": [
+                    "voi banchettavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "convīvantur",
+                "traduzioni": [
+                    "loro banchettavano",
+                    "essi banchettavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "convīvābor",
+                "traduzioni": [
+                    "io banchetterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "convīvabĕris, convīvabĕre",
+                "traduzioni": [
+                    "tu banchetterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "convīvabĭtur",
+                "traduzioni": [
+                    "lui banchetterà",
+                    "lei banchetterà",
+                    "egli banchetterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "convīvabĭmur",
+                "traduzioni": [
+                    "noi banchetteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "convīvabimĭni",
+                "traduzioni": [
+                    "voi banchetterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "convīvabuntur",
+                "traduzioni": [
+                    "loro banchetteranno",
+                    "essi banchetteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "convivatus, –a, –um  sum",
+                "traduzioni": [
+                    "io banchettai",
+                    "io ho banchettato",
+                    "io ebbi banchettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "convivatus, –a, –um  es",
+                "traduzioni": [
+                    "tu banchettasti",
+                    "tu hai banchettato",
+                    "tu avesti banchettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "convivatus, –a, –um  est",
+                "traduzioni": [
+                    "lui banchettò",
+                    "lei banchettò",
+                    "egli banchettò",
+                    "lui ha banchettato",
+                    "lei ha banchettato",
+                    "egli ha banchettato",
+                    "lui ebbe banchettato",
+                    "lei ebbe banchettato",
+                    "egli ebbe banchettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "convivati, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi banchettammo",
+                    "noi abbiamo banchettato",
+                    "noi avemmo banchettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "convivati, –ae, –a  estis",
+                "traduzioni": [
+                    "voi banchettaste",
+                    "voi avete banchettato",
+                    "voi aveste banchettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "convivati, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro banchettarono",
+                    "essi banchettarono",
+                    "loro hanno banchettato",
+                    "essi hanno banchettato",
+                    "loro ebbero banchettato",
+                    "essi ebbero banchettato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "convivatus, –a, –um  eram",
+                "traduzioni": [
+                    "io avevo banchettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "convivatus, –a, –um  eras",
+                "traduzioni": [
+                    "tu avevi banchettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "convivatus, –a, –um  erat",
+                "traduzioni": [
+                    "lui aveva banchettato",
+                    "lei aveva banchettato",
+                    "egli aveva banchettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "convivati, –ae, –a  eramus",
+                "traduzioni": [
+                    "noi avevamo banchettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "convivati, –ae, –a  eratis",
+                "traduzioni": [
+                    "voi avevate banchettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "convivati, –ae, –a erant",
+                "traduzioni": [
+                    "loro avevano banchettato",
+                    "essi avevano banchettato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "convivatus, –a, –um  ero",
+                "traduzioni": [
+                    "io avrò banchettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "convivatus, –a, –um  eris",
+                "traduzioni": [
+                    "tu avrai banchettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "convivatus, –a, –um  erit",
+                "traduzioni": [
+                    "lui avrà banchettato",
+                    "lei avrà banchettato",
+                    "egli avrà banchettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "convivati, –ae, –a  erimus",
+                "traduzioni": [
+                    "noi avremo banchettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "convivati, –ae, –a  eritis",
+                "traduzioni": [
+                    "voi avrete banchettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "convivati, –ae, –a  erunt",
+                "traduzioni": [
+                    "loro avranno banchettato",
+                    "essi avranno banchettato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "convīver",
+                "traduzioni": [
+                    "che io banchetti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "convīvēris, convīvēre",
+                "traduzioni": [
+                    "che tu banchetti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "convīvētur",
+                "traduzioni": [
+                    "che lui banchetti",
+                    "che lei banchetti",
+                    "che egli banchetti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "convīvēmur",
+                "traduzioni": [
+                    "che noi banchettiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "convīvemĭni",
+                "traduzioni": [
+                    "che voi banchettiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "convīventur",
+                "traduzioni": [
+                    "che loro banchettino",
+                    "che essi banchettino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "convīvārer",
+                "traduzioni": [
+                    "che io banchettassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "convīvarēris, convīvarēre",
+                "traduzioni": [
+                    "che tu banchettassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "convīvarētur",
+                "traduzioni": [
+                    "che lui banchettasse",
+                    "che lei banchettasse",
+                    "che egli banchettasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "convīvāremur",
+                "traduzioni": [
+                    "che noi banchettassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "convīvaremĭni",
+                "traduzioni": [
+                    "che voi banchettaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "convīvarentur",
+                "traduzioni": [
+                    "che loro banchettassero",
+                    "che essi banchettassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "convivatus, –a, –um  sim",
+                "traduzioni": [
+                    "che io abbia banchettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "convivatus, –a, –um  sis",
+                "traduzioni": [
+                    "che tu abbia banchettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "convivatus, –a, –um  sit",
+                "traduzioni": [
+                    "che lui abbia banchettato",
+                    "che lei abbia banchettato",
+                    "che egli abbia banchettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "convivati, –ae, –a  simus",
+                "traduzioni": [
+                    "che noi abbiamo banchettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "convivati, –ae, –a  sitis",
+                "traduzioni": [
+                    "che voi abbiate banchettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "convivati, –ae, –a  sint",
+                "traduzioni": [
+                    "che loro abbiano banchettato",
+                    "che essi abbiano banchettato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "convivatus, –a, –um  essem",
+                "traduzioni": [
+                    "che io avessi banchettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "convivatus, –a, –um  esses",
+                "traduzioni": [
+                    "che tu avessi banchettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "convivatus, –a, –um  esset",
+                "traduzioni": [
+                    "che lui avesse banchettato",
+                    "che lei avesse banchettato",
+                    "che egli avesse banchettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "convivati, –ae, –a  essemus",
+                "traduzioni": [
+                    "che noi avessimo banchettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "convivati, –ae, –a  essetis",
+                "traduzioni": [
+                    "che voi aveste banchettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "convivati, –ae, –a  essent",
+                "traduzioni": [
+                    "che loro avessero banchettato",
+                    "che essi avessero banchettato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,506 @@
+{
+    "identifier": "ENITOR",
+    "conuigazione": "3",
+    "translation": [
+        "sforzarsi di uscire",
+        "darsi da fare",
+        "(transitivo) partorire",
+        "(transitivo) scalare",
+        "valicare"
+    ],
+    "valid_translations": [
+        "valicare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnītor",
+                "traduzioni": [
+                    "io valico"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnītĕris, ēnītĕre",
+                "traduzioni": [
+                    "tu valichi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnītĭtur",
+                "traduzioni": [
+                    "lui valica",
+                    "lei valica",
+                    "egli valica"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnītĭmur",
+                "traduzioni": [
+                    "noi valichiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnītimĭni",
+                "traduzioni": [
+                    "voi valicate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnītuntur",
+                "traduzioni": [
+                    "loro valicano",
+                    "essi valicano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnītēbar",
+                "traduzioni": [
+                    "io valicavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnītebāris, ēnītebāre",
+                "traduzioni": [
+                    "tu valicavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnītebātur",
+                "traduzioni": [
+                    "lui valicava",
+                    "lei valicava",
+                    "egli valicava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnītebāmur",
+                "traduzioni": [
+                    "noi valicavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnītebamĭni",
+                "traduzioni": [
+                    "voi valicavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnītebantur",
+                "traduzioni": [
+                    "loro valicavano",
+                    "essi valicavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnītar",
+                "traduzioni": [
+                    "io valicherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnītēris, ēnītēre",
+                "traduzioni": [
+                    "tu valicherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnītētur",
+                "traduzioni": [
+                    "lui valicherà",
+                    "lei valicherà",
+                    "egli valicherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnītēmur",
+                "traduzioni": [
+                    "noi valicheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnītemĭni",
+                "traduzioni": [
+                    "voi valicherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnītentur",
+                "traduzioni": [
+                    "loro valicheranno",
+                    "essi valicheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "enisus o enixus, –a, –um  sum",
+                "traduzioni": [
+                    "io valicai",
+                    "io ho valicato",
+                    "io ebbi valicato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enisus o enixus, –a, –um  es",
+                "traduzioni": [
+                    "tu valicasti",
+                    "tu hai valicato",
+                    "tu avesti valicato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enisus o enixus, –a, –um  est",
+                "traduzioni": [
+                    "lui valicò",
+                    "lei valicò",
+                    "egli valicò",
+                    "lui ha valicato",
+                    "lei ha valicato",
+                    "egli ha valicato",
+                    "lui ebbe valicato",
+                    "lei ebbe valicato",
+                    "egli ebbe valicato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enisi o enixi, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi valicammo",
+                    "noi abbiamo valicato",
+                    "noi avemmo valicato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enisi o enixi, –ae, –a  estis",
+                "traduzioni": [
+                    "voi valicaste",
+                    "voi avete valicato",
+                    "voi aveste valicato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enisi o enixi, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro valicarono",
+                    "essi valicarono",
+                    "loro hanno valicato",
+                    "essi hanno valicato",
+                    "loro ebbero valicato",
+                    "essi ebbero valicato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "enisus o enixus, –a, –um  eram",
+                "traduzioni": [
+                    "io avevo valicato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enisus o enixus, –a, –um  eras",
+                "traduzioni": [
+                    "tu avevi valicato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enisus o enixus, –a, –um  erat",
+                "traduzioni": [
+                    "lui aveva valicato",
+                    "lei aveva valicato",
+                    "egli aveva valicato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enisi o enixi, –ae, –a  eramus",
+                "traduzioni": [
+                    "noi avevamo valicato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enisi o enixi, –ae, –a  eratis",
+                "traduzioni": [
+                    "voi avevate valicato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enisi o enixi, –ae, –a erant",
+                "traduzioni": [
+                    "loro avevano valicato",
+                    "essi avevano valicato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "enisus o enixus, –a, –um  ero",
+                "traduzioni": [
+                    "io avrò valicato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enisus o enixus, –a, –um  eris",
+                "traduzioni": [
+                    "tu avrai valicato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enisus o enixus, –a, –um  erit",
+                "traduzioni": [
+                    "lui avrà valicato",
+                    "lei avrà valicato",
+                    "egli avrà valicato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enisi o enixi, –ae, –a  erimus",
+                "traduzioni": [
+                    "noi avremo valicato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enisi o enixi, –ae, –a  eritis",
+                "traduzioni": [
+                    "voi avrete valicato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enisi o enixi, –ae, –a  erunt",
+                "traduzioni": [
+                    "loro avranno valicato",
+                    "essi avranno valicato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnītar",
+                "traduzioni": [
+                    "che io valichi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnītāris, ēnītāre",
+                "traduzioni": [
+                    "che tu valichi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnītātur",
+                "traduzioni": [
+                    "che lui valichi",
+                    "che lei valichi",
+                    "che egli valichi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnītāmur",
+                "traduzioni": [
+                    "che noi valichiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnītamĭni",
+                "traduzioni": [
+                    "che voi valichiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnītantur",
+                "traduzioni": [
+                    "che loro valichino",
+                    "che essi valichino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnītĕrer",
+                "traduzioni": [
+                    "che io valicassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnīterēris, ēnīterēre",
+                "traduzioni": [
+                    "che tu valicassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnīterētur",
+                "traduzioni": [
+                    "che lui valicasse",
+                    "che lei valicasse",
+                    "che egli valicasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnīterēmur",
+                "traduzioni": [
+                    "che noi valicassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnīteremĭni",
+                "traduzioni": [
+                    "che voi valicaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnīterentur",
+                "traduzioni": [
+                    "che loro valicassero",
+                    "che essi valicassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "enisus o enixus, –a, –um  sim",
+                "traduzioni": [
+                    "che io abbia valicato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enisus o enixus, –a, –um  sis",
+                "traduzioni": [
+                    "che tu abbia valicato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enisus o enixus, –a, –um  sit",
+                "traduzioni": [
+                    "che lui abbia valicato",
+                    "che lei abbia valicato",
+                    "che egli abbia valicato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enisi o enixi, –ae, –a  simus",
+                "traduzioni": [
+                    "che noi abbiamo valicato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enisi o enixi, –ae, –a  sitis",
+                "traduzioni": [
+                    "che voi abbiate valicato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enisi o enixi, –ae, –a  sint",
+                "traduzioni": [
+                    "che loro abbiano valicato",
+                    "che essi abbiano valicato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "enisus o enixus, –a, –um  essem",
+                "traduzioni": [
+                    "che io avessi valicato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enisus o enixus, –a, –um  esses",
+                "traduzioni": [
+                    "che tu avessi valicato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enisus o enixus, –a, –um  esset",
+                "traduzioni": [
+                    "che lui avesse valicato",
+                    "che lei avesse valicato",
+                    "che egli avesse valicato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enisi o enixi, –ae, –a  essemus",
+                "traduzioni": [
+                    "che noi avessimo valicato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enisi o enixi, –ae, –a  essetis",
+                "traduzioni": [
+                    "che voi aveste valicato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enisi o enixi, –ae, –a  essent",
+                "traduzioni": [
+                    "che loro avessero valicato",
+                    "che essi avessero valicato"
+                ]
+            }
+        ]
+    }
+}

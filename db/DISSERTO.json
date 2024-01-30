@@ -1,0 +1,723 @@
+{
+    "identifier": "DISSERTO",
+    "conuigazione": "1",
+    "translation": [
+        "(+ accusativo o de + ablativo) dissertare",
+        "discutere",
+        "disputare",
+        "trattare"
+    ],
+    "valid_translations": [
+        "discutere",
+        "disputare",
+        "trattare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "disserto",
+                "traduzioni": [
+                    "io discuto",
+                    "io disputo",
+                    "io tratto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissertas",
+                "traduzioni": [
+                    "tu discuti",
+                    "tu disputi",
+                    "tu tratti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissertat",
+                "traduzioni": [
+                    "lui discute",
+                    "lei discute",
+                    "egli discute",
+                    "lui disputa",
+                    "lei disputa",
+                    "egli disputa",
+                    "lui tratta",
+                    "lei tratta",
+                    "egli tratta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissertāmus",
+                "traduzioni": [
+                    "noi discutiamo",
+                    "noi disputiamo",
+                    "noi trattiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissertātis",
+                "traduzioni": [
+                    "voi discutete",
+                    "voi disputate",
+                    "voi trattate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissertant",
+                "traduzioni": [
+                    "loro discutono",
+                    "essi discutono",
+                    "loro disputano",
+                    "essi disputano",
+                    "loro trattano",
+                    "essi trattano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissertābam",
+                "traduzioni": [
+                    "io discutevo",
+                    "io disputavo",
+                    "io trattavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissertābas",
+                "traduzioni": [
+                    "tu discutevi",
+                    "tu disputavi",
+                    "tu trattavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissertābat",
+                "traduzioni": [
+                    "lui discuteva",
+                    "lei discuteva",
+                    "egli discuteva",
+                    "lui disputava",
+                    "lei disputava",
+                    "egli disputava",
+                    "lui trattava",
+                    "lei trattava",
+                    "egli trattava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissertabāmus",
+                "traduzioni": [
+                    "noi discutevamo",
+                    "noi disputavamo",
+                    "noi trattavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissertabātis",
+                "traduzioni": [
+                    "voi discutevate",
+                    "voi disputavate",
+                    "voi trattavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissertābant",
+                "traduzioni": [
+                    "loro discutevano",
+                    "essi discutevano",
+                    "loro disputavano",
+                    "essi disputavano",
+                    "loro trattavano",
+                    "essi trattavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissertābo",
+                "traduzioni": [
+                    "io discuterò",
+                    "io disputerò",
+                    "io tratterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissertābis",
+                "traduzioni": [
+                    "tu discuterai",
+                    "tu disputerai",
+                    "tu tratterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissertābit",
+                "traduzioni": [
+                    "lui discuterà",
+                    "lei discuterà",
+                    "egli discuterà",
+                    "lui disputerà",
+                    "lei disputerà",
+                    "egli disputerà",
+                    "lui tratterà",
+                    "lei tratterà",
+                    "egli tratterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissertabĭmus",
+                "traduzioni": [
+                    "noi discuteremo",
+                    "noi disputeremo",
+                    "noi tratteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissertabĭtis",
+                "traduzioni": [
+                    "voi discuterete",
+                    "voi disputerete",
+                    "voi tratterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissertābunt",
+                "traduzioni": [
+                    "loro discuteranno",
+                    "essi discuteranno",
+                    "loro disputeranno",
+                    "essi disputeranno",
+                    "loro tratteranno",
+                    "essi tratteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissertavi",
+                "traduzioni": [
+                    "io discussi",
+                    "io ho discusso",
+                    "io ebbi discusso",
+                    "io disputai",
+                    "io ho disputato",
+                    "io ebbi disputato",
+                    "io trattai",
+                    "io ho trattato",
+                    "io ebbi trattato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissertavisti",
+                "traduzioni": [
+                    "tu discutesti",
+                    "tu hai discusso",
+                    "tu avesti discusso",
+                    "tu disputasti",
+                    "tu hai disputato",
+                    "tu avesti disputato",
+                    "tu trattasti",
+                    "tu hai trattato",
+                    "tu avesti trattato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissertavit",
+                "traduzioni": [
+                    "lui discusse",
+                    "lei discusse",
+                    "egli discusse",
+                    "lui ha discusso",
+                    "lei ha discusso",
+                    "egli ha discusso",
+                    "lui ebbe discusso",
+                    "lei ebbe discusso",
+                    "egli ebbe discusso",
+                    "lui disputò",
+                    "lei disputò",
+                    "egli disputò",
+                    "lui ha disputato",
+                    "lei ha disputato",
+                    "egli ha disputato",
+                    "lui ebbe disputato",
+                    "lei ebbe disputato",
+                    "egli ebbe disputato",
+                    "lui trattò",
+                    "lei trattò",
+                    "egli trattò",
+                    "lui ha trattato",
+                    "lei ha trattato",
+                    "egli ha trattato",
+                    "lui ebbe trattato",
+                    "lei ebbe trattato",
+                    "egli ebbe trattato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissertavĭmus",
+                "traduzioni": [
+                    "noi discutemmo",
+                    "noi abbiamo discusso",
+                    "noi avemmo discusso",
+                    "noi disputammo",
+                    "noi abbiamo disputato",
+                    "noi avemmo disputato",
+                    "noi trattammo",
+                    "noi abbiamo trattato",
+                    "noi avemmo trattato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissertavistis",
+                "traduzioni": [
+                    "voi discuteste",
+                    "voi avete discusso",
+                    "voi aveste discusso",
+                    "voi disputaste",
+                    "voi avete disputato",
+                    "voi aveste disputato",
+                    "voi trattaste",
+                    "voi avete trattato",
+                    "voi aveste trattato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissertavēreunt, dissertavēre",
+                "traduzioni": [
+                    "loro discussero",
+                    "essi discussero",
+                    "loro hanno discusso",
+                    "essi hanno discusso",
+                    "loro ebbero discusso",
+                    "essi ebbero discusso",
+                    "loro disputarono",
+                    "essi disputarono",
+                    "loro hanno disputato",
+                    "essi hanno disputato",
+                    "loro ebbero disputato",
+                    "essi ebbero disputato",
+                    "loro trattarono",
+                    "essi trattarono",
+                    "loro hanno trattato",
+                    "essi hanno trattato",
+                    "loro ebbero trattato",
+                    "essi ebbero trattato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissertavĕram",
+                "traduzioni": [
+                    "io avevo discusso",
+                    "io avevo disputato",
+                    "io avevo trattato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissertavĕras",
+                "traduzioni": [
+                    "tu avevi discusso",
+                    "tu avevi disputato",
+                    "tu avevi trattato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissertavĕrat",
+                "traduzioni": [
+                    "lui aveva discusso",
+                    "lei aveva discusso",
+                    "egli aveva discusso",
+                    "lui aveva disputato",
+                    "lei aveva disputato",
+                    "egli aveva disputato",
+                    "lui aveva trattato",
+                    "lei aveva trattato",
+                    "egli aveva trattato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissertaverāmus",
+                "traduzioni": [
+                    "noi avevamo discusso",
+                    "noi avevamo disputato",
+                    "noi avevamo trattato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissertaverātis",
+                "traduzioni": [
+                    "voi avevate discusso",
+                    "voi avevate disputato",
+                    "voi avevate trattato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissertavĕrant",
+                "traduzioni": [
+                    "loro avevano discusso",
+                    "essi avevano discusso",
+                    "loro avevano disputato",
+                    "essi avevano disputato",
+                    "loro avevano trattato",
+                    "essi avevano trattato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissertavĕro",
+                "traduzioni": [
+                    "io avrò discusso",
+                    "io avrò disputato",
+                    "io avrò trattato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissertavĕris",
+                "traduzioni": [
+                    "tu avrai discusso",
+                    "tu avrai disputato",
+                    "tu avrai trattato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissertavĕrit",
+                "traduzioni": [
+                    "lui avrà discusso",
+                    "lei avrà discusso",
+                    "egli avrà discusso",
+                    "lui avrà disputato",
+                    "lei avrà disputato",
+                    "egli avrà disputato",
+                    "lui avrà trattato",
+                    "lei avrà trattato",
+                    "egli avrà trattato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissertaverĭmus",
+                "traduzioni": [
+                    "noi avremo discusso",
+                    "noi avremo disputato",
+                    "noi avremo trattato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissertaverĭtis",
+                "traduzioni": [
+                    "voi avrete discusso",
+                    "voi avrete disputato",
+                    "voi avrete trattato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissertavĕrint",
+                "traduzioni": [
+                    "loro avranno discusso",
+                    "essi avranno discusso",
+                    "loro avranno disputato",
+                    "essi avranno disputato",
+                    "loro avranno trattato",
+                    "essi avranno trattato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissertem",
+                "traduzioni": [
+                    "che io discuta",
+                    "che io disputi",
+                    "che io tratti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissertes",
+                "traduzioni": [
+                    "che tu discuta",
+                    "che tu disputi",
+                    "che tu tratti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissertet",
+                "traduzioni": [
+                    "che lui discuta",
+                    "che lei discuta",
+                    "che egli discuta",
+                    "che lui disputi",
+                    "che lei disputi",
+                    "che egli disputi",
+                    "che lui tratti",
+                    "che lei tratti",
+                    "che egli tratti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissertēmus",
+                "traduzioni": [
+                    "che noi discutiamo",
+                    "che noi disputiamo",
+                    "che noi trattiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissertētis",
+                "traduzioni": [
+                    "che voi discutiate",
+                    "che voi disputiate",
+                    "che voi trattiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissertent",
+                "traduzioni": [
+                    "che loro discutano",
+                    "che essi discutano",
+                    "che loro disputino",
+                    "che essi disputino",
+                    "che loro trattino",
+                    "che essi trattino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissertārem",
+                "traduzioni": [
+                    "che io discutessi",
+                    "che io disputassi",
+                    "che io trattassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissertāres",
+                "traduzioni": [
+                    "che tu discutessi",
+                    "che tu disputassi",
+                    "che tu trattassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissertāret",
+                "traduzioni": [
+                    "che lui discutesse",
+                    "che lei discutesse",
+                    "che egli discutesse",
+                    "che lui disputasse",
+                    "che lei disputasse",
+                    "che egli disputasse",
+                    "che lui trattasse",
+                    "che lei trattasse",
+                    "che egli trattasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissertarēmus",
+                "traduzioni": [
+                    "che noi discutessimo",
+                    "che noi disputassimo",
+                    "che noi trattassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissertarētis",
+                "traduzioni": [
+                    "che voi discuteste",
+                    "che voi disputaste",
+                    "che voi trattaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissertārent",
+                "traduzioni": [
+                    "che loro discutessero",
+                    "che essi discutessero",
+                    "che loro disputassero",
+                    "che essi disputassero",
+                    "che loro trattassero",
+                    "che essi trattassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissertavĕrim",
+                "traduzioni": [
+                    "che io abbia discusso",
+                    "che io abbia disputato",
+                    "che io abbia trattato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissertavĕris",
+                "traduzioni": [
+                    "che tu abbia discusso",
+                    "che tu abbia disputato",
+                    "che tu abbia trattato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissertavĕrit",
+                "traduzioni": [
+                    "che lui abbia discusso",
+                    "che lei abbia discusso",
+                    "che egli abbia discusso",
+                    "che lui abbia disputato",
+                    "che lei abbia disputato",
+                    "che egli abbia disputato",
+                    "che lui abbia trattato",
+                    "che lei abbia trattato",
+                    "che egli abbia trattato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissertaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo discusso",
+                    "che noi abbiamo disputato",
+                    "che noi abbiamo trattato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissertaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate discusso",
+                    "che voi abbiate disputato",
+                    "che voi abbiate trattato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissertavĕrint",
+                "traduzioni": [
+                    "che loro abbiano discusso",
+                    "che essi abbiano discusso",
+                    "che loro abbiano disputato",
+                    "che essi abbiano disputato",
+                    "che loro abbiano trattato",
+                    "che essi abbiano trattato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissertavissem",
+                "traduzioni": [
+                    "che io avessi discusso",
+                    "che io avessi disputato",
+                    "che io avessi trattato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissertavisses",
+                "traduzioni": [
+                    "che tu avessi discusso",
+                    "che tu avessi disputato",
+                    "che tu avessi trattato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissertavisset",
+                "traduzioni": [
+                    "che lui avesse discusso",
+                    "che lei avesse discusso",
+                    "che egli avesse discusso",
+                    "che lui avesse disputato",
+                    "che lei avesse disputato",
+                    "che egli avesse disputato",
+                    "che lui avesse trattato",
+                    "che lei avesse trattato",
+                    "che egli avesse trattato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissertavissēmus",
+                "traduzioni": [
+                    "che noi avessimo discusso",
+                    "che noi avessimo disputato",
+                    "che noi avessimo trattato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissertavissētis",
+                "traduzioni": [
+                    "che voi aveste discusso",
+                    "che voi aveste disputato",
+                    "che voi aveste trattato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissertavissent",
+                "traduzioni": [
+                    "che loro avessero discusso",
+                    "che essi avessero discusso",
+                    "che loro avessero disputato",
+                    "che essi avessero disputato",
+                    "che loro avessero trattato",
+                    "che essi avessero trattato"
+                ]
+            }
+        ]
+    }
+}

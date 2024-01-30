@@ -1,0 +1,954 @@
+{
+    "identifier": "DECRESCO",
+    "conuigazione": "3",
+    "translation": [
+        "decrescere",
+        "diminuire",
+        "scemare",
+        "svanire",
+        "scomparire"
+    ],
+    "valid_translations": [
+        "decrescere",
+        "diminuire",
+        "scemare",
+        "svanire",
+        "scomparire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēcresco",
+                "traduzioni": [
+                    "io decresco",
+                    "io diminuisco",
+                    "io scemo",
+                    "io svanisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēcrescis",
+                "traduzioni": [
+                    "tu decresci",
+                    "tu diminuisci",
+                    "tu scemi",
+                    "tu svanisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēcrescit",
+                "traduzioni": [
+                    "lui decresce",
+                    "lei decresce",
+                    "egli decresce",
+                    "lui diminuisce",
+                    "lei diminuisce",
+                    "egli diminuisce",
+                    "lui scema",
+                    "lei scema",
+                    "egli scema",
+                    "lui svanisce",
+                    "lei svanisce",
+                    "egli svanisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēcrescĭmus",
+                "traduzioni": [
+                    "noi decresciamo",
+                    "noi diminuiamo",
+                    "noi scemiamo",
+                    "noi svaniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēcrescĭtis",
+                "traduzioni": [
+                    "voi decrescete",
+                    "voi diminuite",
+                    "voi scemate",
+                    "voi svanite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēcrescunt",
+                "traduzioni": [
+                    "loro decrescono",
+                    "essi decrescono",
+                    "loro diminuiscono",
+                    "essi diminuiscono",
+                    "loro scemano",
+                    "essi scemano",
+                    "loro svaniscono",
+                    "essi svaniscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēcrescēbam",
+                "traduzioni": [
+                    "io decrescevo",
+                    "io diminuivo",
+                    "io scemavo",
+                    "io svanivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēcrescēbas",
+                "traduzioni": [
+                    "tu decrescevi",
+                    "tu diminuivi",
+                    "tu scemavi",
+                    "tu svanivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēcrescēbat",
+                "traduzioni": [
+                    "lui decresceva",
+                    "lei decresceva",
+                    "egli decresceva",
+                    "lui diminuiva",
+                    "lei diminuiva",
+                    "egli diminuiva",
+                    "lui scemava",
+                    "lei scemava",
+                    "egli scemava",
+                    "lui svaniva",
+                    "lei svaniva",
+                    "egli svaniva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēcrescebāmus",
+                "traduzioni": [
+                    "noi decrescevamo",
+                    "noi diminuivamo",
+                    "noi scemavamo",
+                    "noi svanivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēcrescebātis",
+                "traduzioni": [
+                    "voi decrescevate",
+                    "voi diminuivate",
+                    "voi scemavate",
+                    "voi svanivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēcrescēbant",
+                "traduzioni": [
+                    "loro decrescevano",
+                    "essi decrescevano",
+                    "loro diminuivano",
+                    "essi diminuivano",
+                    "loro scemavano",
+                    "essi scemavano",
+                    "loro svanivano",
+                    "essi svanivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēcrescam",
+                "traduzioni": [
+                    "io decrescerò",
+                    "io diminuirò",
+                    "io scemerò",
+                    "io svanirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēcresces",
+                "traduzioni": [
+                    "tu decrescerai",
+                    "tu diminuirai",
+                    "tu scemerai",
+                    "tu svanirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēcrescet",
+                "traduzioni": [
+                    "lui decrescerà",
+                    "lei decrescerà",
+                    "egli decrescerà",
+                    "lui diminuirà",
+                    "lei diminuirà",
+                    "egli diminuirà",
+                    "lui scemerà",
+                    "lei scemerà",
+                    "egli scemerà",
+                    "lui svanirà",
+                    "lei svanirà",
+                    "egli svanirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēcrescēmus",
+                "traduzioni": [
+                    "noi decresceremo",
+                    "noi diminuiremo",
+                    "noi scemeremo",
+                    "noi svaniremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēcrescētis",
+                "traduzioni": [
+                    "voi decrescerete",
+                    "voi diminuirete",
+                    "voi scemerete",
+                    "voi svanirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēcrescent",
+                "traduzioni": [
+                    "loro decresceranno",
+                    "essi decresceranno",
+                    "loro diminuiranno",
+                    "essi diminuiranno",
+                    "loro scemeranno",
+                    "essi scemeranno",
+                    "loro svaniranno",
+                    "essi svaniranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "decrevi",
+                "traduzioni": [
+                    "io decrebbi",
+                    "io sono decresciuto",
+                    "io sono decresciuta",
+                    "io fui decresciuto",
+                    "io fui decresciuta",
+                    "io diminuii",
+                    "io sono diminuito",
+                    "io sono diminuita",
+                    "io fui diminuito",
+                    "io fui diminuita",
+                    "io scemai",
+                    "io sono scemato",
+                    "io sono scemata",
+                    "io fui scemato",
+                    "io fui scemata",
+                    "io svanii",
+                    "io sono svanito",
+                    "io sono svanita",
+                    "io fui svanito",
+                    "io fui svanita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "decrevisti",
+                "traduzioni": [
+                    "tu decrescesti",
+                    "tu sei decresciuto",
+                    "tu sei decresciuta",
+                    "tu fosti decresciuto",
+                    "tu fosti decresciuta",
+                    "tu diminuisti",
+                    "tu sei diminuito",
+                    "tu sei diminuita",
+                    "tu fosti diminuito",
+                    "tu fosti diminuita",
+                    "tu scemasti",
+                    "tu sei scemato",
+                    "tu sei scemata",
+                    "tu fosti scemato",
+                    "tu fosti scemata",
+                    "tu svanisti",
+                    "tu sei svanito",
+                    "tu sei svanita",
+                    "tu fosti svanito",
+                    "tu fosti svanita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "decrevit",
+                "traduzioni": [
+                    "lui decrebbe",
+                    "lei decrebbe",
+                    "egli decrebbe",
+                    "lui è decresciuto",
+                    "lei è decresciuta",
+                    "egli è decresciuto",
+                    "lui fu decresciuto",
+                    "lei fu decresciuta",
+                    "egli fu decresciuto",
+                    "lui diminuì",
+                    "lei diminuì",
+                    "egli diminuì",
+                    "lui è diminuito",
+                    "lei è diminuita",
+                    "egli è diminuito",
+                    "lui fu diminuito",
+                    "lei fu diminuita",
+                    "egli fu diminuito",
+                    "lui scemò",
+                    "lei scemò",
+                    "egli scemò",
+                    "lui è scemato",
+                    "lei è scemata",
+                    "egli è scemato",
+                    "lui fu scemato",
+                    "lei fu scemata",
+                    "egli fu scemato",
+                    "lui svanì",
+                    "lei svanì",
+                    "egli svanì",
+                    "lui è svanito",
+                    "lei è svanita",
+                    "egli è svanito",
+                    "lui fu svanito",
+                    "lei fu svanita",
+                    "egli fu svanito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "decrevĭmus",
+                "traduzioni": [
+                    "noi decrescemmo",
+                    "noi siamo decresciuti",
+                    "noi siamo decresciute",
+                    "noi fummo decresciuti",
+                    "noi fummo decresciute",
+                    "noi diminuimmo",
+                    "noi siamo diminuiti",
+                    "noi siamo diminuite",
+                    "noi fummo diminuiti",
+                    "noi fummo diminuite",
+                    "noi scemammo",
+                    "noi siamo scemati",
+                    "noi siamo scemate",
+                    "noi fummo scemati",
+                    "noi fummo scemate",
+                    "noi svanimmo",
+                    "noi siamo svaniti",
+                    "noi siamo svanite",
+                    "noi fummo svaniti",
+                    "noi fummo svanite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "decrevistis",
+                "traduzioni": [
+                    "voi decresceste",
+                    "voi siete decresciuti",
+                    "voi siete decresciute",
+                    "voi foste decresciuti",
+                    "voi foste decresciute",
+                    "voi diminuiste",
+                    "voi siete diminuiti",
+                    "voi siete diminuite",
+                    "voi foste diminuiti",
+                    "voi foste diminuite",
+                    "voi scemaste",
+                    "voi siete scemati",
+                    "voi siete scemate",
+                    "voi foste scemati",
+                    "voi foste scemate",
+                    "voi svaniste",
+                    "voi siete svaniti",
+                    "voi siete svanite",
+                    "voi foste svaniti",
+                    "voi foste svanite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "decrevērunt, decrevēre",
+                "traduzioni": [
+                    "loro decrebbero",
+                    "essi decrebbero",
+                    "loro sono decresciuti",
+                    "loro sono decresciute",
+                    "essi sono decresciuti",
+                    "loro furono decresciuti",
+                    "loro furono decresciute",
+                    "essi furono decresciuti",
+                    "loro diminuirono",
+                    "essi diminuirono",
+                    "loro sono diminuiti",
+                    "loro sono diminuite",
+                    "essi sono diminuiti",
+                    "loro furono diminuiti",
+                    "loro furono diminuite",
+                    "essi furono diminuiti",
+                    "loro scemarono",
+                    "essi scemarono",
+                    "loro sono scemati",
+                    "loro sono scemate",
+                    "essi sono scemati",
+                    "loro furono scemati",
+                    "loro furono scemate",
+                    "essi furono scemati",
+                    "loro svanirono",
+                    "essi svanirono",
+                    "loro sono svaniti",
+                    "loro sono svanite",
+                    "essi sono svaniti",
+                    "loro furono svaniti",
+                    "loro furono svanite",
+                    "essi furono svaniti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "decrevĕram",
+                "traduzioni": [
+                    "io ero decresciuto",
+                    "io ero decresciuta",
+                    "io ero diminuito",
+                    "io ero diminuita",
+                    "io ero scemato",
+                    "io ero scemata",
+                    "io ero svanito",
+                    "io ero svanita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "decrevĕras",
+                "traduzioni": [
+                    "tu eri decresciuto",
+                    "tu eri decresciuta",
+                    "tu eri diminuito",
+                    "tu eri diminuita",
+                    "tu eri scemato",
+                    "tu eri scemata",
+                    "tu eri svanito",
+                    "tu eri svanita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "decrevĕrat",
+                "traduzioni": [
+                    "lui era decresciuto",
+                    "lei era decresciuta",
+                    "egli era decresciuto",
+                    "lui era diminuito",
+                    "lei era diminuita",
+                    "egli era diminuito",
+                    "lui era scemato",
+                    "lei era scemata",
+                    "egli era scemato",
+                    "lui era svanito",
+                    "lei era svanita",
+                    "egli era svanito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "decreverāmus",
+                "traduzioni": [
+                    "noi eravamo decresciuti",
+                    "noi eravamo decresciute",
+                    "noi eravamo diminuiti",
+                    "noi eravamo diminuite",
+                    "noi eravamo scemati",
+                    "noi eravamo scemate",
+                    "noi eravamo svaniti",
+                    "noi eravamo svanite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "decreverātis",
+                "traduzioni": [
+                    "voi eravate decresciuti",
+                    "voi eravate decresciute",
+                    "voi eravate diminuiti",
+                    "voi eravate diminuite",
+                    "voi eravate scemati",
+                    "voi eravate scemate",
+                    "voi eravate svaniti",
+                    "voi eravate svanite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "decrevĕrant",
+                "traduzioni": [
+                    "loro erano decresciuti",
+                    "loro erano decresciute",
+                    "essi erano decresciuti",
+                    "loro erano diminuiti",
+                    "loro erano diminuite",
+                    "essi erano diminuiti",
+                    "loro erano scemati",
+                    "loro erano scemate",
+                    "essi erano scemati",
+                    "loro erano svaniti",
+                    "loro erano svanite",
+                    "essi erano svaniti"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "decrevĕro",
+                "traduzioni": [
+                    "io sarò decresciuto",
+                    "io sarò decresciuta",
+                    "io sarò diminuito",
+                    "io sarò diminuita",
+                    "io sarò scemato",
+                    "io sarò scemata",
+                    "io sarò svanito",
+                    "io sarò svanita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "decrevĕris",
+                "traduzioni": [
+                    "tu sarai decresciuto",
+                    "tu sarai decresciuta",
+                    "tu sarai diminuito",
+                    "tu sarai diminuita",
+                    "tu sarai scemato",
+                    "tu sarai scemata",
+                    "tu sarai svanito",
+                    "tu sarai svanita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "decrevĕrit",
+                "traduzioni": [
+                    "lui sarà decresciuto",
+                    "lei sarà decresciuta",
+                    "egli sarà decresciuto",
+                    "lui sarà diminuito",
+                    "lei sarà diminuita",
+                    "egli sarà diminuito",
+                    "lui sarà scemato",
+                    "lei sarà scemata",
+                    "egli sarà scemato",
+                    "lui sarà svanito",
+                    "lei sarà svanita",
+                    "egli sarà svanito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "decreverĭmus",
+                "traduzioni": [
+                    "noi saremo decresciuti",
+                    "noi saremo decresciute",
+                    "noi saremo diminuiti",
+                    "noi saremo diminuite",
+                    "noi saremo scemati",
+                    "noi saremo scemate",
+                    "noi saremo svaniti",
+                    "noi saremo svanite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "decreverĭtis",
+                "traduzioni": [
+                    "voi sarete decresciuti",
+                    "voi sarete decresciute",
+                    "voi sarete diminuiti",
+                    "voi sarete diminuite",
+                    "voi sarete scemati",
+                    "voi sarete scemate",
+                    "voi sarete svaniti",
+                    "voi sarete svanite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "decrevĕrint",
+                "traduzioni": [
+                    "loro saranno decresciuti",
+                    "loro saranno decresciute",
+                    "essi saranno decresciuti",
+                    "loro saranno diminuiti",
+                    "loro saranno diminuite",
+                    "essi saranno diminuiti",
+                    "loro saranno scemati",
+                    "loro saranno scemate",
+                    "essi saranno scemati",
+                    "loro saranno svaniti",
+                    "loro saranno svanite",
+                    "essi saranno svaniti"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēcrescam",
+                "traduzioni": [
+                    "che io decresca",
+                    "che io diminuisca",
+                    "che io scemi",
+                    "che io svanisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēcrescas",
+                "traduzioni": [
+                    "che tu decresca",
+                    "che tu diminuisca",
+                    "che tu scemi",
+                    "che tu svanisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēcrescat",
+                "traduzioni": [
+                    "che lui decresca",
+                    "che lei decresca",
+                    "che egli decresca",
+                    "che lui diminuisca",
+                    "che lei diminuisca",
+                    "che egli diminuisca",
+                    "che lui scemi",
+                    "che lei scemi",
+                    "che egli scemi",
+                    "che lui svanisca",
+                    "che lei svanisca",
+                    "che egli svanisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēcrescāmus",
+                "traduzioni": [
+                    "che noi decresciamo",
+                    "che noi diminuiamo",
+                    "che noi scemiamo",
+                    "che noi svaniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēcrescātis",
+                "traduzioni": [
+                    "che voi decresciate",
+                    "che voi diminuiate",
+                    "che voi scemiate",
+                    "che voi svaniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēcrescant",
+                "traduzioni": [
+                    "che loro decrescano",
+                    "che essi decrescano",
+                    "che loro diminuiscano",
+                    "che essi diminuiscano",
+                    "che loro scemino",
+                    "che essi scemino",
+                    "che loro svaniscano",
+                    "che essi svaniscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēcrescĕrem",
+                "traduzioni": [
+                    "che io decrescessi",
+                    "che io diminuissi",
+                    "che io scemassi",
+                    "che io svanissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēcrescĕres",
+                "traduzioni": [
+                    "che tu decrescessi",
+                    "che tu diminuissi",
+                    "che tu scemassi",
+                    "che tu svanissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēcrescĕret",
+                "traduzioni": [
+                    "che lui decrescesse",
+                    "che lei decrescesse",
+                    "che egli decrescesse",
+                    "che lui diminuisse",
+                    "che lei diminuisse",
+                    "che egli diminuisse",
+                    "che lui scemasse",
+                    "che lei scemasse",
+                    "che egli scemasse",
+                    "che lui svanisse",
+                    "che lei svanisse",
+                    "che egli svanisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēcrescerēmus",
+                "traduzioni": [
+                    "che noi decrescessimo",
+                    "che noi diminuissimo",
+                    "che noi scemassimo",
+                    "che noi svanissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēcrescerētis",
+                "traduzioni": [
+                    "che voi decresceste",
+                    "che voi diminuiste",
+                    "che voi scemaste",
+                    "che voi svaniste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēcrescĕrent",
+                "traduzioni": [
+                    "che loro decrescessero",
+                    "che essi decrescessero",
+                    "che loro diminuissero",
+                    "che essi diminuissero",
+                    "che loro scemassero",
+                    "che essi scemassero",
+                    "che loro svanissero",
+                    "che essi svanissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "decrevĕrim",
+                "traduzioni": [
+                    "che io sia decresciuto",
+                    "che io sia decresciuta",
+                    "che io sia diminuito",
+                    "che io sia diminuita",
+                    "che io sia scemato",
+                    "che io sia scemata",
+                    "che io sia svanito",
+                    "che io sia svanita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "decrevĕris",
+                "traduzioni": [
+                    "che tu sia decresciuto",
+                    "che tu sia decresciuta",
+                    "che tu sia diminuito",
+                    "che tu sia diminuita",
+                    "che tu sia scemato",
+                    "che tu sia scemata",
+                    "che tu sia svanito",
+                    "che tu sia svanita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "decrevĕrit",
+                "traduzioni": [
+                    "che lui sia decresciuto",
+                    "che lei sia decresciuta",
+                    "che egli sia decresciuto",
+                    "che lui sia diminuito",
+                    "che lei sia diminuita",
+                    "che egli sia diminuito",
+                    "che lui sia scemato",
+                    "che lei sia scemata",
+                    "che egli sia scemato",
+                    "che lui sia svanito",
+                    "che lei sia svanita",
+                    "che egli sia svanito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "decreverĭmus",
+                "traduzioni": [
+                    "che noi siamo decresciuti",
+                    "che noi siamo decresciute",
+                    "che noi siamo diminuiti",
+                    "che noi siamo diminuite",
+                    "che noi siamo scemati",
+                    "che noi siamo scemate",
+                    "che noi siamo svaniti",
+                    "che noi siamo svanite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "decreverĭtis",
+                "traduzioni": [
+                    "che voi siate decresciuti",
+                    "che voi siate decresciute",
+                    "che voi siate diminuiti",
+                    "che voi siate diminuite",
+                    "che voi siate scemati",
+                    "che voi siate scemate",
+                    "che voi siate svaniti",
+                    "che voi siate svanite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "decrevĕrint",
+                "traduzioni": [
+                    "che loro siano decresciuti",
+                    "che loro siano decresciute",
+                    "che essi siano decresciuti",
+                    "che loro siano diminuiti",
+                    "che loro siano diminuite",
+                    "che essi siano diminuiti",
+                    "che loro siano scemati",
+                    "che loro siano scemate",
+                    "che essi siano scemati",
+                    "che loro siano svaniti",
+                    "che loro siano svanite",
+                    "che essi siano svaniti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "decrevissem",
+                "traduzioni": [
+                    "che io fossi decresciuto",
+                    "che io fossi decresciuta",
+                    "che io fossi diminuito",
+                    "che io fossi diminuita",
+                    "che io fossi scemato",
+                    "che io fossi scemata",
+                    "che io fossi svanito",
+                    "che io fossi svanita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "decrevisses",
+                "traduzioni": [
+                    "che tu fossi decresciuto",
+                    "che tu fossi decresciuta",
+                    "che tu fossi diminuito",
+                    "che tu fossi diminuita",
+                    "che tu fossi scemato",
+                    "che tu fossi scemata",
+                    "che tu fossi svanito",
+                    "che tu fossi svanita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "decrevisset",
+                "traduzioni": [
+                    "che lui fosse decresciuto",
+                    "che lei fosse decresciuta",
+                    "che egli fosse decresciuto",
+                    "che lui fosse diminuito",
+                    "che lei fosse diminuita",
+                    "che egli fosse diminuito",
+                    "che lui fosse scemato",
+                    "che lei fosse scemata",
+                    "che egli fosse scemato",
+                    "che lui fosse svanito",
+                    "che lei fosse svanita",
+                    "che egli fosse svanito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "decrevissēmus",
+                "traduzioni": [
+                    "che noi fossimo decresciuti",
+                    "che noi fossimo decresciute",
+                    "che noi fossimo diminuiti",
+                    "che noi fossimo diminuite",
+                    "che noi fossimo scemati",
+                    "che noi fossimo scemate",
+                    "che noi fossimo svaniti",
+                    "che noi fossimo svanite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "decrevissētis",
+                "traduzioni": [
+                    "che voi foste decresciuti",
+                    "che voi foste decresciute",
+                    "che voi foste diminuiti",
+                    "che voi foste diminuite",
+                    "che voi foste scemati",
+                    "che voi foste scemate",
+                    "che voi foste svaniti",
+                    "che voi foste svanite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "decrevissent",
+                "traduzioni": [
+                    "che loro fossero decresciuti",
+                    "che loro fossero decresciute",
+                    "che essi fossero decresciuti",
+                    "che loro fossero diminuiti",
+                    "che loro fossero diminuite",
+                    "che essi fossero diminuiti",
+                    "che loro fossero scemati",
+                    "che loro fossero scemate",
+                    "che essi fossero scemati",
+                    "che loro fossero svaniti",
+                    "che loro fossero svanite",
+                    "che essi fossero svaniti"
+                ]
+            }
+        ]
+    }
+}

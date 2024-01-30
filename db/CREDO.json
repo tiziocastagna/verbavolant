@@ -1,0 +1,946 @@
+{
+    "identifier": "CREDO",
+    "conuigazione": "3",
+    "translation": [
+        "+ accusativo della cosa e dativo della persona) affidare",
+        "consegnare",
+        "confidare",
+        "(transitivo) credere",
+        "+ doppio accusativo) pensare",
+        "ritenere",
+        "immaginare",
+        "stimare"
+    ],
+    "valid_translations": [
+        "consegnare",
+        "confidare",
+        "ritenere",
+        "immaginare",
+        "stimare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "crēdo",
+                "traduzioni": [
+                    "io consegno",
+                    "io confido",
+                    "io ritengo",
+                    "io immagino",
+                    "io stimo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crēdis",
+                "traduzioni": [
+                    "tu consegni",
+                    "tu confidi",
+                    "tu ritieni",
+                    "tu immagini",
+                    "tu stimi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crēdit",
+                "traduzioni": [
+                    "lui consegna",
+                    "lei consegna",
+                    "egli consegna",
+                    "lui confida",
+                    "lei confida",
+                    "egli confida",
+                    "lui ritiene",
+                    "lei ritiene",
+                    "egli ritiene",
+                    "lui immagina",
+                    "lei immagina",
+                    "egli immagina",
+                    "lui stima",
+                    "lei stima",
+                    "egli stima"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crēdĭmus",
+                "traduzioni": [
+                    "noi consegniamo",
+                    "noi confidiamo",
+                    "noi riteniamo",
+                    "noi immaginiamo",
+                    "noi stimiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crēdĭtis",
+                "traduzioni": [
+                    "voi consegnate",
+                    "voi confidate",
+                    "voi ritenete",
+                    "voi immaginate",
+                    "voi stimate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crēdunt",
+                "traduzioni": [
+                    "loro consegnano",
+                    "essi consegnano",
+                    "loro confidano",
+                    "essi confidano",
+                    "loro ritengono",
+                    "essi ritengono",
+                    "loro immaginano",
+                    "essi immaginano",
+                    "loro stimano",
+                    "essi stimano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "crēdēbam",
+                "traduzioni": [
+                    "io consegnavo",
+                    "io confidavo",
+                    "io ritenevo",
+                    "io immaginavo",
+                    "io stimavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crēdēbas",
+                "traduzioni": [
+                    "tu consegnavi",
+                    "tu confidavi",
+                    "tu ritenevi",
+                    "tu immaginavi",
+                    "tu stimavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crēdēbat",
+                "traduzioni": [
+                    "lui consegnava",
+                    "lei consegnava",
+                    "egli consegnava",
+                    "lui confidava",
+                    "lei confidava",
+                    "egli confidava",
+                    "lui riteneva",
+                    "lei riteneva",
+                    "egli riteneva",
+                    "lui immaginava",
+                    "lei immaginava",
+                    "egli immaginava",
+                    "lui stimava",
+                    "lei stimava",
+                    "egli stimava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crēdebāmus",
+                "traduzioni": [
+                    "noi consegnavamo",
+                    "noi confidavamo",
+                    "noi ritenevamo",
+                    "noi immaginavamo",
+                    "noi stimavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crēdebātis",
+                "traduzioni": [
+                    "voi consegnavate",
+                    "voi confidavate",
+                    "voi ritenevate",
+                    "voi immaginavate",
+                    "voi stimavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crēdēbant",
+                "traduzioni": [
+                    "loro consegnavano",
+                    "essi consegnavano",
+                    "loro confidavano",
+                    "essi confidavano",
+                    "loro ritenevano",
+                    "essi ritenevano",
+                    "loro immaginavano",
+                    "essi immaginavano",
+                    "loro stimavano",
+                    "essi stimavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "crēdam",
+                "traduzioni": [
+                    "io consegnerò",
+                    "io confiderò",
+                    "io riterrò",
+                    "io immaginerò",
+                    "io stimerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crēdes",
+                "traduzioni": [
+                    "tu consegnerai",
+                    "tu confiderai",
+                    "tu riterrai",
+                    "tu immaginerai",
+                    "tu stimerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crēdet",
+                "traduzioni": [
+                    "lui consegnerà",
+                    "lei consegnerà",
+                    "egli consegnerà",
+                    "lui confiderà",
+                    "lei confiderà",
+                    "egli confiderà",
+                    "lui riterrà",
+                    "lei riterrà",
+                    "egli riterrà",
+                    "lui immaginerà",
+                    "lei immaginerà",
+                    "egli immaginerà",
+                    "lui stimerà",
+                    "lei stimerà",
+                    "egli stimerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crēdēmus",
+                "traduzioni": [
+                    "noi consegneremo",
+                    "noi confideremo",
+                    "noi riterremo",
+                    "noi immagineremo",
+                    "noi stimeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crēdētis",
+                "traduzioni": [
+                    "voi consegnerete",
+                    "voi confiderete",
+                    "voi riterrete",
+                    "voi immaginerete",
+                    "voi stimerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crēdent",
+                "traduzioni": [
+                    "loro consegneranno",
+                    "essi consegneranno",
+                    "loro confideranno",
+                    "essi confideranno",
+                    "loro riterranno",
+                    "essi riterranno",
+                    "loro immagineranno",
+                    "essi immagineranno",
+                    "loro stimeranno",
+                    "essi stimeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "credidi",
+                "traduzioni": [
+                    "io consegnai",
+                    "io ho consegnato",
+                    "io ebbi consegnato",
+                    "io confidai",
+                    "io ho confidato",
+                    "io ebbi confidato",
+                    "io ritenni",
+                    "io ritenetti",
+                    "io ho ritenuto",
+                    "io ebbi ritenuto",
+                    "io immaginai",
+                    "io ho immaginato",
+                    "io ebbi immaginato",
+                    "io stimai",
+                    "io ho stimato",
+                    "io ebbi stimato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "credidisti",
+                "traduzioni": [
+                    "tu consegnasti",
+                    "tu hai consegnato",
+                    "tu avesti consegnato",
+                    "tu confidasti",
+                    "tu hai confidato",
+                    "tu avesti confidato",
+                    "tu ritenesti",
+                    "tu hai ritenuto",
+                    "tu avesti ritenuto",
+                    "tu immaginasti",
+                    "tu hai immaginato",
+                    "tu avesti immaginato",
+                    "tu stimasti",
+                    "tu hai stimato",
+                    "tu avesti stimato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "credidit",
+                "traduzioni": [
+                    "lui consegnò",
+                    "lei consegnò",
+                    "egli consegnò",
+                    "lui ha consegnato",
+                    "lei ha consegnato",
+                    "egli ha consegnato",
+                    "lui ebbe consegnato",
+                    "lei ebbe consegnato",
+                    "egli ebbe consegnato",
+                    "lui confidò",
+                    "lei confidò",
+                    "egli confidò",
+                    "lui ha confidato",
+                    "lei ha confidato",
+                    "egli ha confidato",
+                    "lui ebbe confidato",
+                    "lei ebbe confidato",
+                    "egli ebbe confidato",
+                    "lui ritenne",
+                    "lei ritenne",
+                    "egli ritenne",
+                    "lui ha ritenuto",
+                    "lei ha ritenuto",
+                    "egli ha ritenuto",
+                    "lui ebbe ritenuto",
+                    "lei ebbe ritenuto",
+                    "egli ebbe ritenuto",
+                    "lui immaginò",
+                    "lei immaginò",
+                    "egli immaginò",
+                    "lui ha immaginato",
+                    "lei ha immaginato",
+                    "egli ha immaginato",
+                    "lui ebbe immaginato",
+                    "lei ebbe immaginato",
+                    "egli ebbe immaginato",
+                    "lui stimò",
+                    "lei stimò",
+                    "egli stimò",
+                    "lui ha stimato",
+                    "lei ha stimato",
+                    "egli ha stimato",
+                    "lui ebbe stimato",
+                    "lei ebbe stimato",
+                    "egli ebbe stimato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "credidĭmus",
+                "traduzioni": [
+                    "noi consegnammo",
+                    "noi abbiamo consegnato",
+                    "noi avemmo consegnato",
+                    "noi confidammo",
+                    "noi abbiamo confidato",
+                    "noi avemmo confidato",
+                    "noi ritenemmo",
+                    "noi abbiamo ritenuto",
+                    "noi avemmo ritenuto",
+                    "noi immaginammo",
+                    "noi abbiamo immaginato",
+                    "noi avemmo immaginato",
+                    "noi stimammo",
+                    "noi abbiamo stimato",
+                    "noi avemmo stimato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "credidistis",
+                "traduzioni": [
+                    "voi consegnaste",
+                    "voi avete consegnato",
+                    "voi aveste consegnato",
+                    "voi confidaste",
+                    "voi avete confidato",
+                    "voi aveste confidato",
+                    "voi riteneste",
+                    "voi avete ritenuto",
+                    "voi aveste ritenuto",
+                    "voi immaginaste",
+                    "voi avete immaginato",
+                    "voi aveste immaginato",
+                    "voi stimaste",
+                    "voi avete stimato",
+                    "voi aveste stimato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "credidērunt, credidēre",
+                "traduzioni": [
+                    "loro consegnarono",
+                    "essi consegnarono",
+                    "loro hanno consegnato",
+                    "essi hanno consegnato",
+                    "loro ebbero consegnato",
+                    "essi ebbero consegnato",
+                    "loro confidarono",
+                    "essi confidarono",
+                    "loro hanno confidato",
+                    "essi hanno confidato",
+                    "loro ebbero confidato",
+                    "essi ebbero confidato",
+                    "loro ritennero",
+                    "essi ritennero",
+                    "loro hanno ritenuto",
+                    "essi hanno ritenuto",
+                    "loro ebbero ritenuto",
+                    "essi ebbero ritenuto",
+                    "loro immaginarono",
+                    "essi immaginarono",
+                    "loro hanno immaginato",
+                    "essi hanno immaginato",
+                    "loro ebbero immaginato",
+                    "essi ebbero immaginato",
+                    "loro stimarono",
+                    "essi stimarono",
+                    "loro hanno stimato",
+                    "essi hanno stimato",
+                    "loro ebbero stimato",
+                    "essi ebbero stimato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "credidĕram",
+                "traduzioni": [
+                    "io avevo consegnato",
+                    "io avevo confidato",
+                    "io avevo ritenuto",
+                    "io avevo immaginato",
+                    "io avevo stimato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "credidĕras",
+                "traduzioni": [
+                    "tu avevi consegnato",
+                    "tu avevi confidato",
+                    "tu avevi ritenuto",
+                    "tu avevi immaginato",
+                    "tu avevi stimato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "credidĕrat",
+                "traduzioni": [
+                    "lui aveva consegnato",
+                    "lei aveva consegnato",
+                    "egli aveva consegnato",
+                    "lui aveva confidato",
+                    "lei aveva confidato",
+                    "egli aveva confidato",
+                    "lui aveva ritenuto",
+                    "lei aveva ritenuto",
+                    "egli aveva ritenuto",
+                    "lui aveva immaginato",
+                    "lei aveva immaginato",
+                    "egli aveva immaginato",
+                    "lui aveva stimato",
+                    "lei aveva stimato",
+                    "egli aveva stimato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crediderāmus",
+                "traduzioni": [
+                    "noi avevamo consegnato",
+                    "noi avevamo confidato",
+                    "noi avevamo ritenuto",
+                    "noi avevamo immaginato",
+                    "noi avevamo stimato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crediderātis",
+                "traduzioni": [
+                    "voi avevate consegnato",
+                    "voi avevate confidato",
+                    "voi avevate ritenuto",
+                    "voi avevate immaginato",
+                    "voi avevate stimato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "credidĕrant",
+                "traduzioni": [
+                    "loro avevano consegnato",
+                    "essi avevano consegnato",
+                    "loro avevano confidato",
+                    "essi avevano confidato",
+                    "loro avevano ritenuto",
+                    "essi avevano ritenuto",
+                    "loro avevano immaginato",
+                    "essi avevano immaginato",
+                    "loro avevano stimato",
+                    "essi avevano stimato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "credidĕro",
+                "traduzioni": [
+                    "io avrò consegnato",
+                    "io avrò confidato",
+                    "io avrò ritenuto",
+                    "io avrò immaginato",
+                    "io avrò stimato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "credidĕris",
+                "traduzioni": [
+                    "tu avrai consegnato",
+                    "tu avrai confidato",
+                    "tu avrai ritenuto",
+                    "tu avrai immaginato",
+                    "tu avrai stimato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "credidĕrit",
+                "traduzioni": [
+                    "lui avrà consegnato",
+                    "lei avrà consegnato",
+                    "egli avrà consegnato",
+                    "lui avrà confidato",
+                    "lei avrà confidato",
+                    "egli avrà confidato",
+                    "lui avrà ritenuto",
+                    "lei avrà ritenuto",
+                    "egli avrà ritenuto",
+                    "lui avrà immaginato",
+                    "lei avrà immaginato",
+                    "egli avrà immaginato",
+                    "lui avrà stimato",
+                    "lei avrà stimato",
+                    "egli avrà stimato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crediderĭmus",
+                "traduzioni": [
+                    "noi avremo consegnato",
+                    "noi avremo confidato",
+                    "noi avremo ritenuto",
+                    "noi avremo immaginato",
+                    "noi avremo stimato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crediderĭtis",
+                "traduzioni": [
+                    "voi avrete consegnato",
+                    "voi avrete confidato",
+                    "voi avrete ritenuto",
+                    "voi avrete immaginato",
+                    "voi avrete stimato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "credidĕrint",
+                "traduzioni": [
+                    "loro avranno consegnato",
+                    "essi avranno consegnato",
+                    "loro avranno confidato",
+                    "essi avranno confidato",
+                    "loro avranno ritenuto",
+                    "essi avranno ritenuto",
+                    "loro avranno immaginato",
+                    "essi avranno immaginato",
+                    "loro avranno stimato",
+                    "essi avranno stimato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "crēdam",
+                "traduzioni": [
+                    "che io consegni",
+                    "che io confidi",
+                    "che io ritenga",
+                    "che io immagini",
+                    "che io stimi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crēdas",
+                "traduzioni": [
+                    "che tu consegni",
+                    "che tu confidi",
+                    "che tu ritenga",
+                    "che tu immagini",
+                    "che tu stimi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crēdat",
+                "traduzioni": [
+                    "che lui consegni",
+                    "che lei consegni",
+                    "che egli consegni",
+                    "che lui confidi",
+                    "che lei confidi",
+                    "che egli confidi",
+                    "che lui ritenga",
+                    "che lei ritenga",
+                    "che egli ritenga",
+                    "che lui immagini",
+                    "che lei immagini",
+                    "che egli immagini",
+                    "che lui stimi",
+                    "che lei stimi",
+                    "che egli stimi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crēdāmus",
+                "traduzioni": [
+                    "che noi consegniamo",
+                    "che noi confidiamo",
+                    "che noi riteniamo",
+                    "che noi immaginiamo",
+                    "che noi stimiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crēdātis",
+                "traduzioni": [
+                    "che voi consegniate",
+                    "che voi confidiate",
+                    "che voi riteniate",
+                    "che voi immaginiate",
+                    "che voi stimiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crēdant",
+                "traduzioni": [
+                    "che loro consegnino",
+                    "che essi consegnino",
+                    "che loro confidino",
+                    "che essi confidino",
+                    "che loro ritengano",
+                    "che essi ritengano",
+                    "che loro immaginino",
+                    "che essi immaginino",
+                    "che loro stimino",
+                    "che essi stimino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "crēdĕrem",
+                "traduzioni": [
+                    "che io consegnassi",
+                    "che io confidassi",
+                    "che io ritenessi",
+                    "che io immaginassi",
+                    "che io stimassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "crēdĕres",
+                "traduzioni": [
+                    "che tu consegnassi",
+                    "che tu confidassi",
+                    "che tu ritenessi",
+                    "che tu immaginassi",
+                    "che tu stimassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "crēdĕret",
+                "traduzioni": [
+                    "che lui consegnasse",
+                    "che lei consegnasse",
+                    "che egli consegnasse",
+                    "che lui confidasse",
+                    "che lei confidasse",
+                    "che egli confidasse",
+                    "che lui ritenesse",
+                    "che lei ritenesse",
+                    "che egli ritenesse",
+                    "che lui immaginasse",
+                    "che lei immaginasse",
+                    "che egli immaginasse",
+                    "che lui stimasse",
+                    "che lei stimasse",
+                    "che egli stimasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crēderēmus",
+                "traduzioni": [
+                    "che noi consegnassimo",
+                    "che noi confidassimo",
+                    "che noi ritenessimo",
+                    "che noi immaginassimo",
+                    "che noi stimassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crēderētis",
+                "traduzioni": [
+                    "che voi consegnaste",
+                    "che voi confidaste",
+                    "che voi riteneste",
+                    "che voi immaginaste",
+                    "che voi stimaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "crēdĕrent",
+                "traduzioni": [
+                    "che loro consegnassero",
+                    "che essi consegnassero",
+                    "che loro confidassero",
+                    "che essi confidassero",
+                    "che loro ritenessero",
+                    "che essi ritenessero",
+                    "che loro immaginassero",
+                    "che essi immaginassero",
+                    "che loro stimassero",
+                    "che essi stimassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "credidĕrim",
+                "traduzioni": [
+                    "che io abbia consegnato",
+                    "che io abbia confidato",
+                    "che io abbia ritenuto",
+                    "che io abbia immaginato",
+                    "che io abbia stimato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "credidĕris",
+                "traduzioni": [
+                    "che tu abbia consegnato",
+                    "che tu abbia confidato",
+                    "che tu abbia ritenuto",
+                    "che tu abbia immaginato",
+                    "che tu abbia stimato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "credidĕrit",
+                "traduzioni": [
+                    "che lui abbia consegnato",
+                    "che lei abbia consegnato",
+                    "che egli abbia consegnato",
+                    "che lui abbia confidato",
+                    "che lei abbia confidato",
+                    "che egli abbia confidato",
+                    "che lui abbia ritenuto",
+                    "che lei abbia ritenuto",
+                    "che egli abbia ritenuto",
+                    "che lui abbia immaginato",
+                    "che lei abbia immaginato",
+                    "che egli abbia immaginato",
+                    "che lui abbia stimato",
+                    "che lei abbia stimato",
+                    "che egli abbia stimato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "crediderĭmus",
+                "traduzioni": [
+                    "che noi abbiamo consegnato",
+                    "che noi abbiamo confidato",
+                    "che noi abbiamo ritenuto",
+                    "che noi abbiamo immaginato",
+                    "che noi abbiamo stimato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "crediderĭtis",
+                "traduzioni": [
+                    "che voi abbiate consegnato",
+                    "che voi abbiate confidato",
+                    "che voi abbiate ritenuto",
+                    "che voi abbiate immaginato",
+                    "che voi abbiate stimato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "credidĕrint",
+                "traduzioni": [
+                    "che loro abbiano consegnato",
+                    "che essi abbiano consegnato",
+                    "che loro abbiano confidato",
+                    "che essi abbiano confidato",
+                    "che loro abbiano ritenuto",
+                    "che essi abbiano ritenuto",
+                    "che loro abbiano immaginato",
+                    "che essi abbiano immaginato",
+                    "che loro abbiano stimato",
+                    "che essi abbiano stimato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "credidissem",
+                "traduzioni": [
+                    "che io avessi consegnato",
+                    "che io avessi confidato",
+                    "che io avessi ritenuto",
+                    "che io avessi immaginato",
+                    "che io avessi stimato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "credidisses",
+                "traduzioni": [
+                    "che tu avessi consegnato",
+                    "che tu avessi confidato",
+                    "che tu avessi ritenuto",
+                    "che tu avessi immaginato",
+                    "che tu avessi stimato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "credidisset",
+                "traduzioni": [
+                    "che lui avesse consegnato",
+                    "che lei avesse consegnato",
+                    "che egli avesse consegnato",
+                    "che lui avesse confidato",
+                    "che lei avesse confidato",
+                    "che egli avesse confidato",
+                    "che lui avesse ritenuto",
+                    "che lei avesse ritenuto",
+                    "che egli avesse ritenuto",
+                    "che lui avesse immaginato",
+                    "che lei avesse immaginato",
+                    "che egli avesse immaginato",
+                    "che lui avesse stimato",
+                    "che lei avesse stimato",
+                    "che egli avesse stimato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "credidissēmus",
+                "traduzioni": [
+                    "che noi avessimo consegnato",
+                    "che noi avessimo confidato",
+                    "che noi avessimo ritenuto",
+                    "che noi avessimo immaginato",
+                    "che noi avessimo stimato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "credidissētis",
+                "traduzioni": [
+                    "che voi aveste consegnato",
+                    "che voi aveste confidato",
+                    "che voi aveste ritenuto",
+                    "che voi aveste immaginato",
+                    "che voi aveste stimato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "credidissent",
+                "traduzioni": [
+                    "che loro avessero consegnato",
+                    "che essi avessero consegnato",
+                    "che loro avessero confidato",
+                    "che essi avessero confidato",
+                    "che loro avessero ritenuto",
+                    "che essi avessero ritenuto",
+                    "che loro avessero immaginato",
+                    "che essi avessero immaginato",
+                    "che loro avessero stimato",
+                    "che essi avessero stimato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,612 @@
+{
+    "identifier": "LEGO",
+    "conuigazione": "3",
+    "translation": [
+        "delegare",
+        "affidare"
+    ],
+    "valid_translations": [
+        "delegare",
+        "affidare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lēgo",
+                "traduzioni": [
+                    "io delego",
+                    "io affido"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lēgas",
+                "traduzioni": [
+                    "tu deleghi",
+                    "tu affidi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lēgat",
+                "traduzioni": [
+                    "lui delega",
+                    "lei delega",
+                    "egli delega",
+                    "lui affida",
+                    "lei affida",
+                    "egli affida"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lēgāmus",
+                "traduzioni": [
+                    "noi deleghiamo",
+                    "noi affidiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lēgātis",
+                "traduzioni": [
+                    "voi delegate",
+                    "voi affidate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lēgant",
+                "traduzioni": [
+                    "loro delegano",
+                    "essi delegano",
+                    "loro affidano",
+                    "essi affidano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lēgābam",
+                "traduzioni": [
+                    "io delegavo",
+                    "io affidavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lēgābas",
+                "traduzioni": [
+                    "tu delegavi",
+                    "tu affidavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lēgābat",
+                "traduzioni": [
+                    "lui delegava",
+                    "lei delegava",
+                    "egli delegava",
+                    "lui affidava",
+                    "lei affidava",
+                    "egli affidava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lēgabāmus",
+                "traduzioni": [
+                    "noi delegavamo",
+                    "noi affidavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lēgabātis",
+                "traduzioni": [
+                    "voi delegavate",
+                    "voi affidavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lēgābant",
+                "traduzioni": [
+                    "loro delegavano",
+                    "essi delegavano",
+                    "loro affidavano",
+                    "essi affidavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lēgābo",
+                "traduzioni": [
+                    "io delegherò",
+                    "io affiderò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lēgābis",
+                "traduzioni": [
+                    "tu delegherai",
+                    "tu affiderai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lēgābit",
+                "traduzioni": [
+                    "lui delegherà",
+                    "lei delegherà",
+                    "egli delegherà",
+                    "lui affiderà",
+                    "lei affiderà",
+                    "egli affiderà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lēgabĭmus",
+                "traduzioni": [
+                    "noi delegheremo",
+                    "noi affideremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lēgabĭtis",
+                "traduzioni": [
+                    "voi delegherete",
+                    "voi affiderete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lēgābunt",
+                "traduzioni": [
+                    "loro delegheranno",
+                    "essi delegheranno",
+                    "loro affideranno",
+                    "essi affideranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "legavi",
+                "traduzioni": [
+                    "io delegai",
+                    "io ho delegato",
+                    "io ebbi delegato",
+                    "io affidai",
+                    "io ho affidato",
+                    "io ebbi affidato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "legavisti",
+                "traduzioni": [
+                    "tu delegasti",
+                    "tu hai delegato",
+                    "tu avesti delegato",
+                    "tu affidasti",
+                    "tu hai affidato",
+                    "tu avesti affidato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "legavit",
+                "traduzioni": [
+                    "lui delegò",
+                    "lei delegò",
+                    "egli delegò",
+                    "lui ha delegato",
+                    "lei ha delegato",
+                    "egli ha delegato",
+                    "lui ebbe delegato",
+                    "lei ebbe delegato",
+                    "egli ebbe delegato",
+                    "lui affidò",
+                    "lei affidò",
+                    "egli affidò",
+                    "lui ha affidato",
+                    "lei ha affidato",
+                    "egli ha affidato",
+                    "lui ebbe affidato",
+                    "lei ebbe affidato",
+                    "egli ebbe affidato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "legavĭmus",
+                "traduzioni": [
+                    "noi delegammo",
+                    "noi abbiamo delegato",
+                    "noi avemmo delegato",
+                    "noi affidammo",
+                    "noi abbiamo affidato",
+                    "noi avemmo affidato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "legavistis",
+                "traduzioni": [
+                    "voi delegaste",
+                    "voi avete delegato",
+                    "voi aveste delegato",
+                    "voi affidaste",
+                    "voi avete affidato",
+                    "voi aveste affidato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "legavērunt, legavēre",
+                "traduzioni": [
+                    "loro delegarono",
+                    "essi delegarono",
+                    "loro hanno delegato",
+                    "essi hanno delegato",
+                    "loro ebbero delegato",
+                    "essi ebbero delegato",
+                    "loro affidarono",
+                    "essi affidarono",
+                    "loro hanno affidato",
+                    "essi hanno affidato",
+                    "loro ebbero affidato",
+                    "essi ebbero affidato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "legavĕram",
+                "traduzioni": [
+                    "io avevo delegato",
+                    "io avevo affidato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "legavĕras",
+                "traduzioni": [
+                    "tu avevi delegato",
+                    "tu avevi affidato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "legavĕrat",
+                "traduzioni": [
+                    "lui aveva delegato",
+                    "lei aveva delegato",
+                    "egli aveva delegato",
+                    "lui aveva affidato",
+                    "lei aveva affidato",
+                    "egli aveva affidato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "legaverāmus",
+                "traduzioni": [
+                    "noi avevamo delegato",
+                    "noi avevamo affidato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "legaverātis",
+                "traduzioni": [
+                    "voi avevate delegato",
+                    "voi avevate affidato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "legavĕrant",
+                "traduzioni": [
+                    "loro avevano delegato",
+                    "essi avevano delegato",
+                    "loro avevano affidato",
+                    "essi avevano affidato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "legavĕro",
+                "traduzioni": [
+                    "io avrò delegato",
+                    "io avrò affidato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "legavĕris",
+                "traduzioni": [
+                    "tu avrai delegato",
+                    "tu avrai affidato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "legavĕrit",
+                "traduzioni": [
+                    "lui avrà delegato",
+                    "lei avrà delegato",
+                    "egli avrà delegato",
+                    "lui avrà affidato",
+                    "lei avrà affidato",
+                    "egli avrà affidato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "legaverĭmus",
+                "traduzioni": [
+                    "noi avremo delegato",
+                    "noi avremo affidato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "legaverĭtis",
+                "traduzioni": [
+                    "voi avrete delegato",
+                    "voi avrete affidato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "legavĕrint",
+                "traduzioni": [
+                    "loro avranno delegato",
+                    "essi avranno delegato",
+                    "loro avranno affidato",
+                    "essi avranno affidato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lēgem",
+                "traduzioni": [
+                    "che io deleghi",
+                    "che io affidi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lēges",
+                "traduzioni": [
+                    "che tu deleghi",
+                    "che tu affidi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lēget",
+                "traduzioni": [
+                    "che lui deleghi",
+                    "che lei deleghi",
+                    "che egli deleghi",
+                    "che lui affidi",
+                    "che lei affidi",
+                    "che egli affidi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lēgēmus",
+                "traduzioni": [
+                    "che noi deleghiamo",
+                    "che noi affidiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lēgētis",
+                "traduzioni": [
+                    "che voi deleghiate",
+                    "che voi affidiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lēgent",
+                "traduzioni": [
+                    "che loro deleghino",
+                    "che essi deleghino",
+                    "che loro affidino",
+                    "che essi affidino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lēgārem",
+                "traduzioni": [
+                    "che io delegassi",
+                    "che io affidassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lēgāres",
+                "traduzioni": [
+                    "che tu delegassi",
+                    "che tu affidassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lēgāret",
+                "traduzioni": [
+                    "che lui delegasse",
+                    "che lei delegasse",
+                    "che egli delegasse",
+                    "che lui affidasse",
+                    "che lei affidasse",
+                    "che egli affidasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lēgarēmus",
+                "traduzioni": [
+                    "che noi delegassimo",
+                    "che noi affidassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lēgarētis",
+                "traduzioni": [
+                    "che voi delegaste",
+                    "che voi affidaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lēgārent",
+                "traduzioni": [
+                    "che loro delegassero",
+                    "che essi delegassero",
+                    "che loro affidassero",
+                    "che essi affidassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "legavĕrim",
+                "traduzioni": [
+                    "che io abbia delegato",
+                    "che io abbia affidato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "legavĕris",
+                "traduzioni": [
+                    "che tu abbia delegato",
+                    "che tu abbia affidato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "legavĕrit, lēgassit",
+                "traduzioni": [
+                    "che lui abbia delegato",
+                    "che lei abbia delegato",
+                    "che egli abbia delegato",
+                    "che lui abbia affidato",
+                    "che lei abbia affidato",
+                    "che egli abbia affidato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "legaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo delegato",
+                    "che noi abbiamo affidato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "legaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate delegato",
+                    "che voi abbiate affidato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "legavĕrint",
+                "traduzioni": [
+                    "che loro abbiano delegato",
+                    "che essi abbiano delegato",
+                    "che loro abbiano affidato",
+                    "che essi abbiano affidato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "legavissem",
+                "traduzioni": [
+                    "che io avessi delegato",
+                    "che io avessi affidato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "legavisses",
+                "traduzioni": [
+                    "che tu avessi delegato",
+                    "che tu avessi affidato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "legavisset",
+                "traduzioni": [
+                    "che lui avesse delegato",
+                    "che lei avesse delegato",
+                    "che egli avesse delegato",
+                    "che lui avesse affidato",
+                    "che lei avesse affidato",
+                    "che egli avesse affidato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "legavissēmus",
+                "traduzioni": [
+                    "che noi avessimo delegato",
+                    "che noi avessimo affidato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "legavissētis",
+                "traduzioni": [
+                    "che voi aveste delegato",
+                    "che voi aveste affidato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "legavissent",
+                "traduzioni": [
+                    "che loro avessero delegato",
+                    "che essi avessero delegato",
+                    "che loro avessero affidato",
+                    "che essi avessero affidato"
+                ]
+            }
+        ]
+    }
+}

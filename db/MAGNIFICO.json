@@ -1,0 +1,722 @@
+{
+    "identifier": "MAGNIFICO",
+    "conuigazione": "1",
+    "translation": [
+        "lodare",
+        "esaltare",
+        "glorificare"
+    ],
+    "valid_translations": [
+        "lodare",
+        "esaltare",
+        "glorificare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "magnĭfĭco",
+                "traduzioni": [
+                    "io lodo",
+                    "io esalto",
+                    "io glorifico"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "magnĭfĭcas",
+                "traduzioni": [
+                    "tu lodi",
+                    "tu esalti",
+                    "tu glorifichi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "magnĭfĭcat",
+                "traduzioni": [
+                    "lui loda",
+                    "lei loda",
+                    "egli loda",
+                    "lui esalta",
+                    "lei esalta",
+                    "egli esalta",
+                    "lui glorifica",
+                    "lei glorifica",
+                    "egli glorifica"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "magnĭfĭcāmus",
+                "traduzioni": [
+                    "noi lodiamo",
+                    "noi esaltiamo",
+                    "noi glorifichiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "magnĭfĭcātis",
+                "traduzioni": [
+                    "voi lodate",
+                    "voi esaltate",
+                    "voi glorificate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "magnĭfĭcant",
+                "traduzioni": [
+                    "loro lodano",
+                    "essi lodano",
+                    "loro esaltano",
+                    "essi esaltano",
+                    "loro glorificano",
+                    "essi glorificano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "magnĭfĭcābam",
+                "traduzioni": [
+                    "io lodavo",
+                    "io esaltavo",
+                    "io glorificavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "magnĭfĭcābas",
+                "traduzioni": [
+                    "tu lodavi",
+                    "tu esaltavi",
+                    "tu glorificavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "magnĭfĭcābat",
+                "traduzioni": [
+                    "lui lodava",
+                    "lei lodava",
+                    "egli lodava",
+                    "lui esaltava",
+                    "lei esaltava",
+                    "egli esaltava",
+                    "lui glorificava",
+                    "lei glorificava",
+                    "egli glorificava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "magnĭfĭcabāmus",
+                "traduzioni": [
+                    "noi lodavamo",
+                    "noi esaltavamo",
+                    "noi glorificavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "magnĭfĭcabātis",
+                "traduzioni": [
+                    "voi lodavate",
+                    "voi esaltavate",
+                    "voi glorificavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "magnĭfĭcābant",
+                "traduzioni": [
+                    "loro lodavano",
+                    "essi lodavano",
+                    "loro esaltavano",
+                    "essi esaltavano",
+                    "loro glorificavano",
+                    "essi glorificavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "magnĭfĭcābo",
+                "traduzioni": [
+                    "io loderò",
+                    "io esalterò",
+                    "io glorificherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "magnĭfĭcābis",
+                "traduzioni": [
+                    "tu loderai",
+                    "tu esalterai",
+                    "tu glorificherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "magnĭfĭcābit",
+                "traduzioni": [
+                    "lui loderà",
+                    "lei loderà",
+                    "egli loderà",
+                    "lui esalterà",
+                    "lei esalterà",
+                    "egli esalterà",
+                    "lui glorificherà",
+                    "lei glorificherà",
+                    "egli glorificherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "magnĭfĭcabĭmus",
+                "traduzioni": [
+                    "noi loderemo",
+                    "noi esalteremo",
+                    "noi glorificheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "magnĭfĭcabĭtis",
+                "traduzioni": [
+                    "voi loderete",
+                    "voi esalterete",
+                    "voi glorificherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "magnĭfĭcābunt",
+                "traduzioni": [
+                    "loro loderanno",
+                    "essi loderanno",
+                    "loro esalteranno",
+                    "essi esalteranno",
+                    "loro glorificheranno",
+                    "essi glorificheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "magnificavi",
+                "traduzioni": [
+                    "io lodai",
+                    "io ho lodato",
+                    "io ebbi lodato",
+                    "io esaltai",
+                    "io ho esaltato",
+                    "io ebbi esaltato",
+                    "io glorificai",
+                    "io ho glorificato",
+                    "io ebbi glorificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "magnificavisti",
+                "traduzioni": [
+                    "tu lodasti",
+                    "tu hai lodato",
+                    "tu avesti lodato",
+                    "tu esaltasti",
+                    "tu hai esaltato",
+                    "tu avesti esaltato",
+                    "tu glorificasti",
+                    "tu hai glorificato",
+                    "tu avesti glorificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "magnificavit",
+                "traduzioni": [
+                    "lui lodò",
+                    "lei lodò",
+                    "egli lodò",
+                    "lui ha lodato",
+                    "lei ha lodato",
+                    "egli ha lodato",
+                    "lui ebbe lodato",
+                    "lei ebbe lodato",
+                    "egli ebbe lodato",
+                    "lui esaltò",
+                    "lei esaltò",
+                    "egli esaltò",
+                    "lui ha esaltato",
+                    "lei ha esaltato",
+                    "egli ha esaltato",
+                    "lui ebbe esaltato",
+                    "lei ebbe esaltato",
+                    "egli ebbe esaltato",
+                    "lui glorificò",
+                    "lei glorificò",
+                    "egli glorificò",
+                    "lui ha glorificato",
+                    "lei ha glorificato",
+                    "egli ha glorificato",
+                    "lui ebbe glorificato",
+                    "lei ebbe glorificato",
+                    "egli ebbe glorificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "magnificavĭmus",
+                "traduzioni": [
+                    "noi lodammo",
+                    "noi abbiamo lodato",
+                    "noi avemmo lodato",
+                    "noi esaltammo",
+                    "noi abbiamo esaltato",
+                    "noi avemmo esaltato",
+                    "noi glorificammo",
+                    "noi abbiamo glorificato",
+                    "noi avemmo glorificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "magnificavistis",
+                "traduzioni": [
+                    "voi lodaste",
+                    "voi avete lodato",
+                    "voi aveste lodato",
+                    "voi esaltaste",
+                    "voi avete esaltato",
+                    "voi aveste esaltato",
+                    "voi glorificaste",
+                    "voi avete glorificato",
+                    "voi aveste glorificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "magnificavērunt, magnificavēre",
+                "traduzioni": [
+                    "loro lodarono",
+                    "essi lodarono",
+                    "loro hanno lodato",
+                    "essi hanno lodato",
+                    "loro ebbero lodato",
+                    "essi ebbero lodato",
+                    "loro esaltarono",
+                    "essi esaltarono",
+                    "loro hanno esaltato",
+                    "essi hanno esaltato",
+                    "loro ebbero esaltato",
+                    "essi ebbero esaltato",
+                    "loro glorificarono",
+                    "essi glorificarono",
+                    "loro hanno glorificato",
+                    "essi hanno glorificato",
+                    "loro ebbero glorificato",
+                    "essi ebbero glorificato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "magnificavĕram",
+                "traduzioni": [
+                    "io avevo lodato",
+                    "io avevo esaltato",
+                    "io avevo glorificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "magnificavĕras",
+                "traduzioni": [
+                    "tu avevi lodato",
+                    "tu avevi esaltato",
+                    "tu avevi glorificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "magnificavĕrat",
+                "traduzioni": [
+                    "lui aveva lodato",
+                    "lei aveva lodato",
+                    "egli aveva lodato",
+                    "lui aveva esaltato",
+                    "lei aveva esaltato",
+                    "egli aveva esaltato",
+                    "lui aveva glorificato",
+                    "lei aveva glorificato",
+                    "egli aveva glorificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "magnificaverāmus",
+                "traduzioni": [
+                    "noi avevamo lodato",
+                    "noi avevamo esaltato",
+                    "noi avevamo glorificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "magnificaverātis",
+                "traduzioni": [
+                    "voi avevate lodato",
+                    "voi avevate esaltato",
+                    "voi avevate glorificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "magnificavĕrant",
+                "traduzioni": [
+                    "loro avevano lodato",
+                    "essi avevano lodato",
+                    "loro avevano esaltato",
+                    "essi avevano esaltato",
+                    "loro avevano glorificato",
+                    "essi avevano glorificato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "magnificavĕro",
+                "traduzioni": [
+                    "io avrò lodato",
+                    "io avrò esaltato",
+                    "io avrò glorificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "magnificavĕris",
+                "traduzioni": [
+                    "tu avrai lodato",
+                    "tu avrai esaltato",
+                    "tu avrai glorificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "magnificavĕrit",
+                "traduzioni": [
+                    "lui avrà lodato",
+                    "lei avrà lodato",
+                    "egli avrà lodato",
+                    "lui avrà esaltato",
+                    "lei avrà esaltato",
+                    "egli avrà esaltato",
+                    "lui avrà glorificato",
+                    "lei avrà glorificato",
+                    "egli avrà glorificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "magnificaverĭmus",
+                "traduzioni": [
+                    "noi avremo lodato",
+                    "noi avremo esaltato",
+                    "noi avremo glorificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "magnificaverĭtis",
+                "traduzioni": [
+                    "voi avrete lodato",
+                    "voi avrete esaltato",
+                    "voi avrete glorificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "magnificavĕrint",
+                "traduzioni": [
+                    "loro avranno lodato",
+                    "essi avranno lodato",
+                    "loro avranno esaltato",
+                    "essi avranno esaltato",
+                    "loro avranno glorificato",
+                    "essi avranno glorificato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "magnĭfĭcem",
+                "traduzioni": [
+                    "che io lodi",
+                    "che io esalti",
+                    "che io glorifichi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "magnĭfĭces",
+                "traduzioni": [
+                    "che tu lodi",
+                    "che tu esalti",
+                    "che tu glorifichi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "magnĭfĭcet",
+                "traduzioni": [
+                    "che lui lodi",
+                    "che lei lodi",
+                    "che egli lodi",
+                    "che lui esalti",
+                    "che lei esalti",
+                    "che egli esalti",
+                    "che lui glorifichi",
+                    "che lei glorifichi",
+                    "che egli glorifichi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "magnĭfĭcēmus",
+                "traduzioni": [
+                    "che noi lodiamo",
+                    "che noi esaltiamo",
+                    "che noi glorifichiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "magnĭfĭcētis",
+                "traduzioni": [
+                    "che voi lodiate",
+                    "che voi esaltiate",
+                    "che voi glorifichiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "magnĭfĭcent",
+                "traduzioni": [
+                    "che loro lodino",
+                    "che essi lodino",
+                    "che loro esaltino",
+                    "che essi esaltino",
+                    "che loro glorifichino",
+                    "che essi glorifichino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "magnĭfĭcārem",
+                "traduzioni": [
+                    "che io lodassi",
+                    "che io esaltassi",
+                    "che io glorificassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "magnĭfĭcāres",
+                "traduzioni": [
+                    "che tu lodassi",
+                    "che tu esaltassi",
+                    "che tu glorificassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "magnĭfĭcāret",
+                "traduzioni": [
+                    "che lui lodasse",
+                    "che lei lodasse",
+                    "che egli lodasse",
+                    "che lui esaltasse",
+                    "che lei esaltasse",
+                    "che egli esaltasse",
+                    "che lui glorificasse",
+                    "che lei glorificasse",
+                    "che egli glorificasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "magnĭfĭcarēmus",
+                "traduzioni": [
+                    "che noi lodassimo",
+                    "che noi esaltassimo",
+                    "che noi glorificassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "magnĭfĭcarētis",
+                "traduzioni": [
+                    "che voi lodaste",
+                    "che voi esaltaste",
+                    "che voi glorificaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "magnĭfĭcārent",
+                "traduzioni": [
+                    "che loro lodassero",
+                    "che essi lodassero",
+                    "che loro esaltassero",
+                    "che essi esaltassero",
+                    "che loro glorificassero",
+                    "che essi glorificassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "magnificavĕrim",
+                "traduzioni": [
+                    "che io abbia lodato",
+                    "che io abbia esaltato",
+                    "che io abbia glorificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "magnificavĕris",
+                "traduzioni": [
+                    "che tu abbia lodato",
+                    "che tu abbia esaltato",
+                    "che tu abbia glorificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "magnificavĕrit",
+                "traduzioni": [
+                    "che lui abbia lodato",
+                    "che lei abbia lodato",
+                    "che egli abbia lodato",
+                    "che lui abbia esaltato",
+                    "che lei abbia esaltato",
+                    "che egli abbia esaltato",
+                    "che lui abbia glorificato",
+                    "che lei abbia glorificato",
+                    "che egli abbia glorificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "magnificaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo lodato",
+                    "che noi abbiamo esaltato",
+                    "che noi abbiamo glorificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "magnificaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate lodato",
+                    "che voi abbiate esaltato",
+                    "che voi abbiate glorificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "magnificavĕrint",
+                "traduzioni": [
+                    "che loro abbiano lodato",
+                    "che essi abbiano lodato",
+                    "che loro abbiano esaltato",
+                    "che essi abbiano esaltato",
+                    "che loro abbiano glorificato",
+                    "che essi abbiano glorificato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "magnificavissem",
+                "traduzioni": [
+                    "che io avessi lodato",
+                    "che io avessi esaltato",
+                    "che io avessi glorificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "magnificavisses",
+                "traduzioni": [
+                    "che tu avessi lodato",
+                    "che tu avessi esaltato",
+                    "che tu avessi glorificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "magnificavisset",
+                "traduzioni": [
+                    "che lui avesse lodato",
+                    "che lei avesse lodato",
+                    "che egli avesse lodato",
+                    "che lui avesse esaltato",
+                    "che lei avesse esaltato",
+                    "che egli avesse esaltato",
+                    "che lui avesse glorificato",
+                    "che lei avesse glorificato",
+                    "che egli avesse glorificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "magnificavissēmus",
+                "traduzioni": [
+                    "che noi avessimo lodato",
+                    "che noi avessimo esaltato",
+                    "che noi avessimo glorificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "magnificavissētis",
+                "traduzioni": [
+                    "che voi aveste lodato",
+                    "che voi aveste esaltato",
+                    "che voi aveste glorificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "magnificavissent",
+                "traduzioni": [
+                    "che loro avessero lodato",
+                    "che essi avessero lodato",
+                    "che loro avessero esaltato",
+                    "che essi avessero esaltato",
+                    "che loro avessero glorificato",
+                    "che essi avessero glorificato"
+                ]
+            }
+        ]
+    }
+}

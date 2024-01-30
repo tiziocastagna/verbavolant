@@ -1,0 +1,621 @@
+{
+    "identifier": "CANO",
+    "conuigazione": "3",
+    "translation": [
+        "(transitivo) cantare",
+        "(transitivo) celebrare",
+        "lodare",
+        "(transitivo) annunciare",
+        "(transitivo) suonare",
+        "fare risuonare",
+        "(transitivo) predire",
+        "vaticinare",
+        "(intransitivo) cantare",
+        "(intransitivo) celebrare",
+        "(intransitivo) risuonare"
+    ],
+    "valid_translations": [
+        "lodare",
+        "vaticinare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "căno",
+                "traduzioni": [
+                    "io lodo",
+                    "io vaticino"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cănis",
+                "traduzioni": [
+                    "tu lodi",
+                    "tu vaticini"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cănit",
+                "traduzioni": [
+                    "lui loda",
+                    "lei loda",
+                    "egli loda",
+                    "lui vaticina",
+                    "lei vaticina",
+                    "egli vaticina"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cănĭmus",
+                "traduzioni": [
+                    "noi lodiamo",
+                    "noi vaticiniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cănĭtis",
+                "traduzioni": [
+                    "voi lodate",
+                    "voi vaticinate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cănunt",
+                "traduzioni": [
+                    "loro lodano",
+                    "essi lodano",
+                    "loro vaticinano",
+                    "essi vaticinano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cănēbam",
+                "traduzioni": [
+                    "io lodavo",
+                    "io vaticinavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cănēbas",
+                "traduzioni": [
+                    "tu lodavi",
+                    "tu vaticinavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cănēbat",
+                "traduzioni": [
+                    "lui lodava",
+                    "lei lodava",
+                    "egli lodava",
+                    "lui vaticinava",
+                    "lei vaticinava",
+                    "egli vaticinava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cănebāmus",
+                "traduzioni": [
+                    "noi lodavamo",
+                    "noi vaticinavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cănebātis",
+                "traduzioni": [
+                    "voi lodavate",
+                    "voi vaticinavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cănēbant",
+                "traduzioni": [
+                    "loro lodavano",
+                    "essi lodavano",
+                    "loro vaticinavano",
+                    "essi vaticinavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cănam",
+                "traduzioni": [
+                    "io loderò",
+                    "io vaticinerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cănes",
+                "traduzioni": [
+                    "tu loderai",
+                    "tu vaticinerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cănet",
+                "traduzioni": [
+                    "lui loderà",
+                    "lei loderà",
+                    "egli loderà",
+                    "lui vaticinerà",
+                    "lei vaticinerà",
+                    "egli vaticinerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cănēmus",
+                "traduzioni": [
+                    "noi loderemo",
+                    "noi vaticineremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cănētis",
+                "traduzioni": [
+                    "voi loderete",
+                    "voi vaticinerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cănent",
+                "traduzioni": [
+                    "loro loderanno",
+                    "essi loderanno",
+                    "loro vaticineranno",
+                    "essi vaticineranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cecini",
+                "traduzioni": [
+                    "io lodai",
+                    "io ho lodato",
+                    "io ebbi lodato",
+                    "io vaticinai",
+                    "io ho vaticinato",
+                    "io ebbi vaticinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cecinisti",
+                "traduzioni": [
+                    "tu lodasti",
+                    "tu hai lodato",
+                    "tu avesti lodato",
+                    "tu vaticinasti",
+                    "tu hai vaticinato",
+                    "tu avesti vaticinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cecinit",
+                "traduzioni": [
+                    "lui lodò",
+                    "lei lodò",
+                    "egli lodò",
+                    "lui ha lodato",
+                    "lei ha lodato",
+                    "egli ha lodato",
+                    "lui ebbe lodato",
+                    "lei ebbe lodato",
+                    "egli ebbe lodato",
+                    "lui vaticinò",
+                    "lei vaticinò",
+                    "egli vaticinò",
+                    "lui ha vaticinato",
+                    "lei ha vaticinato",
+                    "egli ha vaticinato",
+                    "lui ebbe vaticinato",
+                    "lei ebbe vaticinato",
+                    "egli ebbe vaticinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cecinĭmus",
+                "traduzioni": [
+                    "noi lodammo",
+                    "noi abbiamo lodato",
+                    "noi avemmo lodato",
+                    "noi vaticinammo",
+                    "noi abbiamo vaticinato",
+                    "noi avemmo vaticinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cecinistis",
+                "traduzioni": [
+                    "voi lodaste",
+                    "voi avete lodato",
+                    "voi aveste lodato",
+                    "voi vaticinaste",
+                    "voi avete vaticinato",
+                    "voi aveste vaticinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cecinērunt, cecinēre",
+                "traduzioni": [
+                    "loro lodarono",
+                    "essi lodarono",
+                    "loro hanno lodato",
+                    "essi hanno lodato",
+                    "loro ebbero lodato",
+                    "essi ebbero lodato",
+                    "loro vaticinarono",
+                    "essi vaticinarono",
+                    "loro hanno vaticinato",
+                    "essi hanno vaticinato",
+                    "loro ebbero vaticinato",
+                    "essi ebbero vaticinato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cecinĕram",
+                "traduzioni": [
+                    "io avevo lodato",
+                    "io avevo vaticinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cecinĕras",
+                "traduzioni": [
+                    "tu avevi lodato",
+                    "tu avevi vaticinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cecinĕrat",
+                "traduzioni": [
+                    "lui aveva lodato",
+                    "lei aveva lodato",
+                    "egli aveva lodato",
+                    "lui aveva vaticinato",
+                    "lei aveva vaticinato",
+                    "egli aveva vaticinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cecinerāmus",
+                "traduzioni": [
+                    "noi avevamo lodato",
+                    "noi avevamo vaticinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cecinerātis",
+                "traduzioni": [
+                    "voi avevate lodato",
+                    "voi avevate vaticinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cecinĕrant",
+                "traduzioni": [
+                    "loro avevano lodato",
+                    "essi avevano lodato",
+                    "loro avevano vaticinato",
+                    "essi avevano vaticinato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cecinĕro",
+                "traduzioni": [
+                    "io avrò lodato",
+                    "io avrò vaticinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cecinĕris",
+                "traduzioni": [
+                    "tu avrai lodato",
+                    "tu avrai vaticinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cecinĕrit",
+                "traduzioni": [
+                    "lui avrà lodato",
+                    "lei avrà lodato",
+                    "egli avrà lodato",
+                    "lui avrà vaticinato",
+                    "lei avrà vaticinato",
+                    "egli avrà vaticinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cecinerĭmus",
+                "traduzioni": [
+                    "noi avremo lodato",
+                    "noi avremo vaticinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cecinerĭtis",
+                "traduzioni": [
+                    "voi avrete lodato",
+                    "voi avrete vaticinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cecinĕrint",
+                "traduzioni": [
+                    "loro avranno lodato",
+                    "essi avranno lodato",
+                    "loro avranno vaticinato",
+                    "essi avranno vaticinato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cănam",
+                "traduzioni": [
+                    "che io lodi",
+                    "che io vaticini"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cănas",
+                "traduzioni": [
+                    "che tu lodi",
+                    "che tu vaticini"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cănat",
+                "traduzioni": [
+                    "che lui lodi",
+                    "che lei lodi",
+                    "che egli lodi",
+                    "che lui vaticini",
+                    "che lei vaticini",
+                    "che egli vaticini"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cănāmus",
+                "traduzioni": [
+                    "che noi lodiamo",
+                    "che noi vaticiniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cănātis",
+                "traduzioni": [
+                    "che voi lodiate",
+                    "che voi vaticiniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cănant",
+                "traduzioni": [
+                    "che loro lodino",
+                    "che essi lodino",
+                    "che loro vaticinino",
+                    "che essi vaticinino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cănĕrem",
+                "traduzioni": [
+                    "che io lodassi",
+                    "che io vaticinassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cănĕres",
+                "traduzioni": [
+                    "che tu lodassi",
+                    "che tu vaticinassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cănĕret",
+                "traduzioni": [
+                    "che lui lodasse",
+                    "che lei lodasse",
+                    "che egli lodasse",
+                    "che lui vaticinasse",
+                    "che lei vaticinasse",
+                    "che egli vaticinasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cănerēmus",
+                "traduzioni": [
+                    "che noi lodassimo",
+                    "che noi vaticinassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cănerētis",
+                "traduzioni": [
+                    "che voi lodaste",
+                    "che voi vaticinaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cănĕrent",
+                "traduzioni": [
+                    "che loro lodassero",
+                    "che essi lodassero",
+                    "che loro vaticinassero",
+                    "che essi vaticinassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cecinĕrim",
+                "traduzioni": [
+                    "che io abbia lodato",
+                    "che io abbia vaticinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cecinĕris",
+                "traduzioni": [
+                    "che tu abbia lodato",
+                    "che tu abbia vaticinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cecinĕrit",
+                "traduzioni": [
+                    "che lui abbia lodato",
+                    "che lei abbia lodato",
+                    "che egli abbia lodato",
+                    "che lui abbia vaticinato",
+                    "che lei abbia vaticinato",
+                    "che egli abbia vaticinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cecinerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo lodato",
+                    "che noi abbiamo vaticinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cecinerĭtis",
+                "traduzioni": [
+                    "che voi abbiate lodato",
+                    "che voi abbiate vaticinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cecinĕrint",
+                "traduzioni": [
+                    "che loro abbiano lodato",
+                    "che essi abbiano lodato",
+                    "che loro abbiano vaticinato",
+                    "che essi abbiano vaticinato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cecinissem",
+                "traduzioni": [
+                    "che io avessi lodato",
+                    "che io avessi vaticinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cecinisses",
+                "traduzioni": [
+                    "che tu avessi lodato",
+                    "che tu avessi vaticinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cecinisset",
+                "traduzioni": [
+                    "che lui avesse lodato",
+                    "che lei avesse lodato",
+                    "che egli avesse lodato",
+                    "che lui avesse vaticinato",
+                    "che lei avesse vaticinato",
+                    "che egli avesse vaticinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cecinissēmus",
+                "traduzioni": [
+                    "che noi avessimo lodato",
+                    "che noi avessimo vaticinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cecinissētis",
+                "traduzioni": [
+                    "che voi aveste lodato",
+                    "che voi aveste vaticinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cecinissent",
+                "traduzioni": [
+                    "che loro avessero lodato",
+                    "che essi avessero lodato",
+                    "che loro avessero vaticinato",
+                    "che essi avessero vaticinato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,1307 @@
+{
+    "identifier": "SIGNIFICO",
+    "conuigazione": "1",
+    "translation": [
+        "(transitivo) indicare",
+        "far sapere",
+        "notificare",
+        "rivelare",
+        "dichiarare",
+        "manifestare",
+        "mostrare",
+        "alludere",
+        "(transitivo) significare",
+        "voler dire",
+        "(transitivo) presagire",
+        "preannunciare",
+        "predire"
+    ],
+    "valid_translations": [
+        "notificare",
+        "rivelare",
+        "dichiarare",
+        "manifestare",
+        "mostrare",
+        "alludere",
+        "preannunciare",
+        "predire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "signĭfĭco",
+                "traduzioni": [
+                    "io notifico",
+                    "io rivelo",
+                    "io dichiaro",
+                    "io manifesto",
+                    "io mostro",
+                    "io alludo",
+                    "io preannuncio",
+                    "io predico"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "signĭfĭcas",
+                "traduzioni": [
+                    "tu notifichi",
+                    "tu riveli",
+                    "tu dichiari",
+                    "tu manifesti",
+                    "tu mostri",
+                    "tu alludi",
+                    "tu preannunci",
+                    "tu predici"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "signĭfĭcat",
+                "traduzioni": [
+                    "lui notifica",
+                    "lei notifica",
+                    "egli notifica",
+                    "lui rivela",
+                    "lei rivela",
+                    "egli rivela",
+                    "lui dichiara",
+                    "lei dichiara",
+                    "egli dichiara",
+                    "lui manifesta",
+                    "lei manifesta",
+                    "egli manifesta",
+                    "lui mostra",
+                    "lei mostra",
+                    "egli mostra",
+                    "lui allude",
+                    "lei allude",
+                    "egli allude",
+                    "lui preannuncia",
+                    "lei preannuncia",
+                    "egli preannuncia",
+                    "lui predice",
+                    "lei predice",
+                    "egli predice"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "signĭfĭcāmus",
+                "traduzioni": [
+                    "noi notifichiamo",
+                    "noi riveliamo",
+                    "noi dichiariamo",
+                    "noi manifestiamo",
+                    "noi mostriamo",
+                    "noi alludiamo",
+                    "noi preannunciamo",
+                    "noi prediciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "signĭfĭcātis",
+                "traduzioni": [
+                    "voi notificate",
+                    "voi rivelate",
+                    "voi dichiarate",
+                    "voi manifestate",
+                    "voi mostrate",
+                    "voi alludete",
+                    "voi preannunciate",
+                    "voi predite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "signĭfĭcant",
+                "traduzioni": [
+                    "loro notificano",
+                    "essi notificano",
+                    "loro rivelano",
+                    "essi rivelano",
+                    "loro dichiarano",
+                    "essi dichiarano",
+                    "loro manifestano",
+                    "essi manifestano",
+                    "loro mostrano",
+                    "essi mostrano",
+                    "loro alludono",
+                    "essi alludono",
+                    "loro preannunciano",
+                    "essi preannunciano",
+                    "loro predicono",
+                    "essi predicono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "signĭfĭcābam",
+                "traduzioni": [
+                    "io notificavo",
+                    "io rivelavo",
+                    "io dichiaravo",
+                    "io manifestavo",
+                    "io mostravo",
+                    "io alludevo",
+                    "io preannunciavo",
+                    "io predicevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "signĭfĭcābas",
+                "traduzioni": [
+                    "tu notificavi",
+                    "tu rivelavi",
+                    "tu dichiaravi",
+                    "tu manifestavi",
+                    "tu mostravi",
+                    "tu alludevi",
+                    "tu preannunciavi",
+                    "tu predicevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "signĭfĭcābat",
+                "traduzioni": [
+                    "lui notificava",
+                    "lei notificava",
+                    "egli notificava",
+                    "lui rivelava",
+                    "lei rivelava",
+                    "egli rivelava",
+                    "lui dichiarava",
+                    "lei dichiarava",
+                    "egli dichiarava",
+                    "lui manifestava",
+                    "lei manifestava",
+                    "egli manifestava",
+                    "lui mostrava",
+                    "lei mostrava",
+                    "egli mostrava",
+                    "lui alludeva",
+                    "lei alludeva",
+                    "egli alludeva",
+                    "lui preannunciava",
+                    "lei preannunciava",
+                    "egli preannunciava",
+                    "lui prediceva",
+                    "lei prediceva",
+                    "egli prediceva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "signĭfĭcabāmus",
+                "traduzioni": [
+                    "noi notificavamo",
+                    "noi rivelavamo",
+                    "noi dichiaravamo",
+                    "noi manifestavamo",
+                    "noi mostravamo",
+                    "noi alludevamo",
+                    "noi preannunciavamo",
+                    "noi predicevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "signĭfĭcabātis",
+                "traduzioni": [
+                    "voi notificavate",
+                    "voi rivelavate",
+                    "voi dichiaravate",
+                    "voi manifestavate",
+                    "voi mostravate",
+                    "voi alludevate",
+                    "voi preannunciavate",
+                    "voi predicevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "signĭfĭcābant",
+                "traduzioni": [
+                    "loro notificavano",
+                    "essi notificavano",
+                    "loro rivelavano",
+                    "essi rivelavano",
+                    "loro dichiaravano",
+                    "essi dichiaravano",
+                    "loro manifestavano",
+                    "essi manifestavano",
+                    "loro mostravano",
+                    "essi mostravano",
+                    "loro alludevano",
+                    "essi alludevano",
+                    "loro preannunciavano",
+                    "essi preannunciavano",
+                    "loro predicevano",
+                    "essi predicevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "signĭfĭcābo",
+                "traduzioni": [
+                    "io notificherò",
+                    "io rivelerò",
+                    "io dichiarerò",
+                    "io manifesterò",
+                    "io mostrerò",
+                    "io alluderò",
+                    "io preannuncerò",
+                    "io predirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "signĭfĭcābis",
+                "traduzioni": [
+                    "tu notificherai",
+                    "tu rivelerai",
+                    "tu dichiarerai",
+                    "tu manifesterai",
+                    "tu mostrerai",
+                    "tu alluderai",
+                    "tu preannuncerai",
+                    "tu predirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "signĭfĭcābit",
+                "traduzioni": [
+                    "lui notificherà",
+                    "lei notificherà",
+                    "egli notificherà",
+                    "lui rivelerà",
+                    "lei rivelerà",
+                    "egli rivelerà",
+                    "lui dichiarerà",
+                    "lei dichiarerà",
+                    "egli dichiarerà",
+                    "lui manifesterà",
+                    "lei manifesterà",
+                    "egli manifesterà",
+                    "lui mostrerà",
+                    "lei mostrerà",
+                    "egli mostrerà",
+                    "lui alluderà",
+                    "lei alluderà",
+                    "egli alluderà",
+                    "lui preannuncerà",
+                    "lei preannuncerà",
+                    "egli preannuncerà",
+                    "lui predirà",
+                    "lei predirà",
+                    "egli predirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "signĭfĭcabĭmus",
+                "traduzioni": [
+                    "noi notificheremo",
+                    "noi riveleremo",
+                    "noi dichiareremo",
+                    "noi manifesteremo",
+                    "noi mostreremo",
+                    "noi alluderemo",
+                    "noi preannunceremo",
+                    "noi prediremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "signĭfĭcabĭtis",
+                "traduzioni": [
+                    "voi notificherete",
+                    "voi rivelerete",
+                    "voi dichiarerete",
+                    "voi manifesterete",
+                    "voi mostrerete",
+                    "voi alluderete",
+                    "voi preannuncerete",
+                    "voi predirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "signĭfĭcābunt",
+                "traduzioni": [
+                    "loro notificheranno",
+                    "essi notificheranno",
+                    "loro riveleranno",
+                    "essi riveleranno",
+                    "loro dichiareranno",
+                    "essi dichiareranno",
+                    "loro manifesteranno",
+                    "essi manifesteranno",
+                    "loro mostreranno",
+                    "essi mostreranno",
+                    "loro alluderanno",
+                    "essi alluderanno",
+                    "loro preannunceranno",
+                    "essi preannunceranno",
+                    "loro prediranno",
+                    "essi prediranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "significavi",
+                "traduzioni": [
+                    "io notificai",
+                    "io ho notificato",
+                    "io ebbi notificato",
+                    "io rivelai",
+                    "io ho rivelato",
+                    "io ebbi rivelato",
+                    "io dichiarai",
+                    "io ho dichiarato",
+                    "io ebbi dichiarato",
+                    "io manifestai",
+                    "io ho manifestato",
+                    "io ebbi manifestato",
+                    "io mostrai",
+                    "io sono mostrato",
+                    "io sono mostrata",
+                    "io fui mostrato",
+                    "io fui mostrata",
+                    "io allusi",
+                    "io ho alluso",
+                    "io ebbi alluso",
+                    "io preannunciai",
+                    "io ho preannunciato",
+                    "io ebbi preannunciato",
+                    "io predissi",
+                    "io ho predetto",
+                    "io ebbi predetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "significavisti",
+                "traduzioni": [
+                    "tu notificasti",
+                    "tu hai notificato",
+                    "tu avesti notificato",
+                    "tu rivelasti",
+                    "tu hai rivelato",
+                    "tu avesti rivelato",
+                    "tu dichiarasti",
+                    "tu hai dichiarato",
+                    "tu avesti dichiarato",
+                    "tu manifestasti",
+                    "tu hai manifestato",
+                    "tu avesti manifestato",
+                    "tu mostrasti",
+                    "tu sei mostrato",
+                    "tu sei mostrata",
+                    "tu fosti mostrato",
+                    "tu fosti mostrata",
+                    "tu alludesti",
+                    "tu hai alluso",
+                    "tu avesti alluso",
+                    "tu preannunciasti",
+                    "tu hai preannunciato",
+                    "tu avesti preannunciato",
+                    "tu predicesti",
+                    "tu hai predetto",
+                    "tu avesti predetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "significavit",
+                "traduzioni": [
+                    "lui notificò",
+                    "lei notificò",
+                    "egli notificò",
+                    "lui ha notificato",
+                    "lei ha notificato",
+                    "egli ha notificato",
+                    "lui ebbe notificato",
+                    "lei ebbe notificato",
+                    "egli ebbe notificato",
+                    "lui rivelò",
+                    "lei rivelò",
+                    "egli rivelò",
+                    "lui ha rivelato",
+                    "lei ha rivelato",
+                    "egli ha rivelato",
+                    "lui ebbe rivelato",
+                    "lei ebbe rivelato",
+                    "egli ebbe rivelato",
+                    "lui dichiarò",
+                    "lei dichiarò",
+                    "egli dichiarò",
+                    "lui ha dichiarato",
+                    "lei ha dichiarato",
+                    "egli ha dichiarato",
+                    "lui ebbe dichiarato",
+                    "lei ebbe dichiarato",
+                    "egli ebbe dichiarato",
+                    "lui manifestò",
+                    "lei manifestò",
+                    "egli manifestò",
+                    "lui ha manifestato",
+                    "lei ha manifestato",
+                    "egli ha manifestato",
+                    "lui ebbe manifestato",
+                    "lei ebbe manifestato",
+                    "egli ebbe manifestato",
+                    "lui mostrò",
+                    "lei mostrò",
+                    "egli mostrò",
+                    "lui è mostrato",
+                    "lei è mostrata",
+                    "egli è mostrato",
+                    "lui fu mostrato",
+                    "lei fu mostrata",
+                    "egli fu mostrato",
+                    "lui alluse",
+                    "lei alluse",
+                    "egli alluse",
+                    "lui ha alluso",
+                    "lei ha alluso",
+                    "egli ha alluso",
+                    "lui ebbe alluso",
+                    "lei ebbe alluso",
+                    "egli ebbe alluso",
+                    "lui preannunciò",
+                    "lei preannunciò",
+                    "egli preannunciò",
+                    "lui ha preannunciato",
+                    "lei ha preannunciato",
+                    "egli ha preannunciato",
+                    "lui ebbe preannunciato",
+                    "lei ebbe preannunciato",
+                    "egli ebbe preannunciato",
+                    "lui predisse",
+                    "lei predisse",
+                    "egli predisse",
+                    "lui ha predetto",
+                    "lei ha predetto",
+                    "egli ha predetto",
+                    "lui ebbe predetto",
+                    "lei ebbe predetto",
+                    "egli ebbe predetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "significavĭmus",
+                "traduzioni": [
+                    "noi notificammo",
+                    "noi abbiamo notificato",
+                    "noi avemmo notificato",
+                    "noi rivelammo",
+                    "noi abbiamo rivelato",
+                    "noi avemmo rivelato",
+                    "noi dichiarammo",
+                    "noi abbiamo dichiarato",
+                    "noi avemmo dichiarato",
+                    "noi manifestammo",
+                    "noi abbiamo manifestato",
+                    "noi avemmo manifestato",
+                    "noi mostrammo",
+                    "noi siamo mostrati",
+                    "noi siamo mostrate",
+                    "noi fummo mostrati",
+                    "noi fummo mostrate",
+                    "noi alludemmo",
+                    "noi abbiamo alluso",
+                    "noi avemmo alluso",
+                    "noi preannunciammo",
+                    "noi abbiamo preannunciato",
+                    "noi avemmo preannunciato",
+                    "noi predicemmo",
+                    "noi abbiamo predetto",
+                    "noi avemmo predetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "significavistis",
+                "traduzioni": [
+                    "voi notificaste",
+                    "voi avete notificato",
+                    "voi aveste notificato",
+                    "voi rivelaste",
+                    "voi avete rivelato",
+                    "voi aveste rivelato",
+                    "voi dichiaraste",
+                    "voi avete dichiarato",
+                    "voi aveste dichiarato",
+                    "voi manifestaste",
+                    "voi avete manifestato",
+                    "voi aveste manifestato",
+                    "voi mostraste",
+                    "voi siete mostrati",
+                    "voi siete mostrate",
+                    "voi foste mostrati",
+                    "voi foste mostrate",
+                    "voi alludeste",
+                    "voi avete alluso",
+                    "voi aveste alluso",
+                    "voi preannunciaste",
+                    "voi avete preannunciato",
+                    "voi aveste preannunciato",
+                    "voi prediceste",
+                    "voi avete predetto",
+                    "voi aveste predetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "significavēreunt, significavēre",
+                "traduzioni": [
+                    "loro notificarono",
+                    "essi notificarono",
+                    "loro hanno notificato",
+                    "essi hanno notificato",
+                    "loro ebbero notificato",
+                    "essi ebbero notificato",
+                    "loro rivelarono",
+                    "essi rivelarono",
+                    "loro hanno rivelato",
+                    "essi hanno rivelato",
+                    "loro ebbero rivelato",
+                    "essi ebbero rivelato",
+                    "loro dichiararono",
+                    "essi dichiararono",
+                    "loro hanno dichiarato",
+                    "essi hanno dichiarato",
+                    "loro ebbero dichiarato",
+                    "essi ebbero dichiarato",
+                    "loro manifestarono",
+                    "essi manifestarono",
+                    "loro hanno manifestato",
+                    "essi hanno manifestato",
+                    "loro ebbero manifestato",
+                    "essi ebbero manifestato",
+                    "loro mostrarono",
+                    "essi mostrarono",
+                    "loro sono mostrati",
+                    "loro sono mostrate",
+                    "essi sono mostrati",
+                    "loro furono mostrati",
+                    "loro furono mostrate",
+                    "essi furono mostrati",
+                    "loro allusero",
+                    "essi allusero",
+                    "loro hanno alluso",
+                    "essi hanno alluso",
+                    "loro ebbero alluso",
+                    "essi ebbero alluso",
+                    "loro preannunciarono",
+                    "essi preannunciarono",
+                    "loro hanno preannunciato",
+                    "essi hanno preannunciato",
+                    "loro ebbero preannunciato",
+                    "essi ebbero preannunciato",
+                    "loro predissero",
+                    "essi predissero",
+                    "loro hanno predetto",
+                    "essi hanno predetto",
+                    "loro ebbero predetto",
+                    "essi ebbero predetto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "significavĕram",
+                "traduzioni": [
+                    "io avevo notificato",
+                    "io avevo rivelato",
+                    "io avevo dichiarato",
+                    "io avevo manifestato",
+                    "io ero mostrato",
+                    "io ero mostrata",
+                    "io avevo alluso",
+                    "io avevo preannunciato",
+                    "io avevo predetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "significavĕras",
+                "traduzioni": [
+                    "tu avevi notificato",
+                    "tu avevi rivelato",
+                    "tu avevi dichiarato",
+                    "tu avevi manifestato",
+                    "tu eri mostrato",
+                    "tu eri mostrata",
+                    "tu avevi alluso",
+                    "tu avevi preannunciato",
+                    "tu avevi predetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "significavĕrat",
+                "traduzioni": [
+                    "lui aveva notificato",
+                    "lei aveva notificato",
+                    "egli aveva notificato",
+                    "lui aveva rivelato",
+                    "lei aveva rivelato",
+                    "egli aveva rivelato",
+                    "lui aveva dichiarato",
+                    "lei aveva dichiarato",
+                    "egli aveva dichiarato",
+                    "lui aveva manifestato",
+                    "lei aveva manifestato",
+                    "egli aveva manifestato",
+                    "lui era mostrato",
+                    "lei era mostrata",
+                    "egli era mostrato",
+                    "lui aveva alluso",
+                    "lei aveva alluso",
+                    "egli aveva alluso",
+                    "lui aveva preannunciato",
+                    "lei aveva preannunciato",
+                    "egli aveva preannunciato",
+                    "lui aveva predetto",
+                    "lei aveva predetto",
+                    "egli aveva predetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "significaverāmus",
+                "traduzioni": [
+                    "noi avevamo notificato",
+                    "noi avevamo rivelato",
+                    "noi avevamo dichiarato",
+                    "noi avevamo manifestato",
+                    "noi eravamo mostrati",
+                    "noi eravamo mostrate",
+                    "noi avevamo alluso",
+                    "noi avevamo preannunciato",
+                    "noi avevamo predetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "significaverātis",
+                "traduzioni": [
+                    "voi avevate notificato",
+                    "voi avevate rivelato",
+                    "voi avevate dichiarato",
+                    "voi avevate manifestato",
+                    "voi eravate mostrati",
+                    "voi eravate mostrate",
+                    "voi avevate alluso",
+                    "voi avevate preannunciato",
+                    "voi avevate predetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "significavĕrant",
+                "traduzioni": [
+                    "loro avevano notificato",
+                    "essi avevano notificato",
+                    "loro avevano rivelato",
+                    "essi avevano rivelato",
+                    "loro avevano dichiarato",
+                    "essi avevano dichiarato",
+                    "loro avevano manifestato",
+                    "essi avevano manifestato",
+                    "loro erano mostrati",
+                    "loro erano mostrate",
+                    "essi erano mostrati",
+                    "loro avevano alluso",
+                    "essi avevano alluso",
+                    "loro avevano preannunciato",
+                    "essi avevano preannunciato",
+                    "loro avevano predetto",
+                    "essi avevano predetto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "significavĕro",
+                "traduzioni": [
+                    "io avrò notificato",
+                    "io avrò rivelato",
+                    "io avrò dichiarato",
+                    "io avrò manifestato",
+                    "io sarò mostrato",
+                    "io sarò mostrata",
+                    "io avrò alluso",
+                    "io avrò preannunciato",
+                    "io avrò predetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "significavĕris",
+                "traduzioni": [
+                    "tu avrai notificato",
+                    "tu avrai rivelato",
+                    "tu avrai dichiarato",
+                    "tu avrai manifestato",
+                    "tu sarai mostrato",
+                    "tu sarai mostrata",
+                    "tu avrai alluso",
+                    "tu avrai preannunciato",
+                    "tu avrai predetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "significavĕrit",
+                "traduzioni": [
+                    "lui avrà notificato",
+                    "lei avrà notificato",
+                    "egli avrà notificato",
+                    "lui avrà rivelato",
+                    "lei avrà rivelato",
+                    "egli avrà rivelato",
+                    "lui avrà dichiarato",
+                    "lei avrà dichiarato",
+                    "egli avrà dichiarato",
+                    "lui avrà manifestato",
+                    "lei avrà manifestato",
+                    "egli avrà manifestato",
+                    "lui sarà mostrato",
+                    "lei sarà mostrata",
+                    "egli sarà mostrato",
+                    "lui avrà alluso",
+                    "lei avrà alluso",
+                    "egli avrà alluso",
+                    "lui avrà preannunciato",
+                    "lei avrà preannunciato",
+                    "egli avrà preannunciato",
+                    "lui avrà predetto",
+                    "lei avrà predetto",
+                    "egli avrà predetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "significaverĭmus",
+                "traduzioni": [
+                    "noi avremo notificato",
+                    "noi avremo rivelato",
+                    "noi avremo dichiarato",
+                    "noi avremo manifestato",
+                    "noi saremo mostrati",
+                    "noi saremo mostrate",
+                    "noi avremo alluso",
+                    "noi avremo preannunciato",
+                    "noi avremo predetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "significaverĭtis",
+                "traduzioni": [
+                    "voi avrete notificato",
+                    "voi avrete rivelato",
+                    "voi avrete dichiarato",
+                    "voi avrete manifestato",
+                    "voi sarete mostrati",
+                    "voi sarete mostrate",
+                    "voi avrete alluso",
+                    "voi avrete preannunciato",
+                    "voi avrete predetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "significavĕrint",
+                "traduzioni": [
+                    "loro avranno notificato",
+                    "essi avranno notificato",
+                    "loro avranno rivelato",
+                    "essi avranno rivelato",
+                    "loro avranno dichiarato",
+                    "essi avranno dichiarato",
+                    "loro avranno manifestato",
+                    "essi avranno manifestato",
+                    "loro saranno mostrati",
+                    "loro saranno mostrate",
+                    "essi saranno mostrati",
+                    "loro avranno alluso",
+                    "essi avranno alluso",
+                    "loro avranno preannunciato",
+                    "essi avranno preannunciato",
+                    "loro avranno predetto",
+                    "essi avranno predetto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "signĭfĭcem",
+                "traduzioni": [
+                    "che io notifichi",
+                    "che io riveli",
+                    "che io dichiari",
+                    "che io manifesti",
+                    "che io mostri",
+                    "che io alluda",
+                    "che io preannunci",
+                    "che io predica"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "signĭfĭces",
+                "traduzioni": [
+                    "che tu notifichi",
+                    "che tu riveli",
+                    "che tu dichiari",
+                    "che tu manifesti",
+                    "che tu mostri",
+                    "che tu alluda",
+                    "che tu preannunci",
+                    "che tu predica"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "signĭfĭcet",
+                "traduzioni": [
+                    "che lui notifichi",
+                    "che lei notifichi",
+                    "che egli notifichi",
+                    "che lui riveli",
+                    "che lei riveli",
+                    "che egli riveli",
+                    "che lui dichiari",
+                    "che lei dichiari",
+                    "che egli dichiari",
+                    "che lui manifesti",
+                    "che lei manifesti",
+                    "che egli manifesti",
+                    "che lui mostri",
+                    "che lei mostri",
+                    "che egli mostri",
+                    "che lui alluda",
+                    "che lei alluda",
+                    "che egli alluda",
+                    "che lui preannunci",
+                    "che lei preannunci",
+                    "che egli preannunci",
+                    "che lui predica",
+                    "che lei predica",
+                    "che egli predica"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "signĭfĭcēmus",
+                "traduzioni": [
+                    "che noi notifichiamo",
+                    "che noi riveliamo",
+                    "che noi dichiariamo",
+                    "che noi manifestiamo",
+                    "che noi mostriamo",
+                    "che noi alludiamo",
+                    "che noi preannunciamo",
+                    "che noi prediciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "signĭfĭcētis",
+                "traduzioni": [
+                    "che voi notifichiate",
+                    "che voi riveliate",
+                    "che voi dichiariate",
+                    "che voi manifestiate",
+                    "che voi mostriate",
+                    "che voi alludiate",
+                    "che voi preannunciate",
+                    "che voi prediciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "signĭfĭcent",
+                "traduzioni": [
+                    "che loro notifichino",
+                    "che essi notifichino",
+                    "che loro rivelino",
+                    "che essi rivelino",
+                    "che loro dichiarino",
+                    "che essi dichiarino",
+                    "che loro manifestino",
+                    "che essi manifestino",
+                    "che loro mostrino",
+                    "che essi mostrino",
+                    "che loro alludano",
+                    "che essi alludano",
+                    "che loro preannuncino",
+                    "che essi preannuncino",
+                    "che loro predicano",
+                    "che essi predicano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "signĭfĭcārem",
+                "traduzioni": [
+                    "che io notificassi",
+                    "che io rivelassi",
+                    "che io dichiarassi",
+                    "che io manifestassi",
+                    "che io mostrassi",
+                    "che io alludessi",
+                    "che io preannunciassi",
+                    "che io predicessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "signĭfĭcāres",
+                "traduzioni": [
+                    "che tu notificassi",
+                    "che tu rivelassi",
+                    "che tu dichiarassi",
+                    "che tu manifestassi",
+                    "che tu mostrassi",
+                    "che tu alludessi",
+                    "che tu preannunciassi",
+                    "che tu predicessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "signĭfĭcāret",
+                "traduzioni": [
+                    "che lui notificasse",
+                    "che lei notificasse",
+                    "che egli notificasse",
+                    "che lui rivelasse",
+                    "che lei rivelasse",
+                    "che egli rivelasse",
+                    "che lui dichiarasse",
+                    "che lei dichiarasse",
+                    "che egli dichiarasse",
+                    "che lui manifestasse",
+                    "che lei manifestasse",
+                    "che egli manifestasse",
+                    "che lui mostrasse",
+                    "che lei mostrasse",
+                    "che egli mostrasse",
+                    "che lui alludesse",
+                    "che lei alludesse",
+                    "che egli alludesse",
+                    "che lui preannunciasse",
+                    "che lei preannunciasse",
+                    "che egli preannunciasse",
+                    "che lui predicesse",
+                    "che lei predicesse",
+                    "che egli predicesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "signĭfĭcarēmus",
+                "traduzioni": [
+                    "che noi notificassimo",
+                    "che noi rivelassimo",
+                    "che noi dichiarassimo",
+                    "che noi manifestassimo",
+                    "che noi mostrassimo",
+                    "che noi alludessimo",
+                    "che noi preannunciassimo",
+                    "che noi predicessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "signĭfĭcarētis",
+                "traduzioni": [
+                    "che voi notificaste",
+                    "che voi rivelaste",
+                    "che voi dichiaraste",
+                    "che voi manifestaste",
+                    "che voi mostraste",
+                    "che voi alludeste",
+                    "che voi preannunciaste",
+                    "che voi prediceste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "signĭfĭcārent",
+                "traduzioni": [
+                    "che loro notificassero",
+                    "che essi notificassero",
+                    "che loro rivelassero",
+                    "che essi rivelassero",
+                    "che loro dichiarassero",
+                    "che essi dichiarassero",
+                    "che loro manifestassero",
+                    "che essi manifestassero",
+                    "che loro mostrassero",
+                    "che essi mostrassero",
+                    "che loro alludessero",
+                    "che essi alludessero",
+                    "che loro preannunciassero",
+                    "che essi preannunciassero",
+                    "che loro predicessero",
+                    "che essi predicessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "significavĕrim",
+                "traduzioni": [
+                    "che io abbia notificato",
+                    "che io abbia rivelato",
+                    "che io abbia dichiarato",
+                    "che io abbia manifestato",
+                    "che io sia mostrato",
+                    "che io sia mostrata",
+                    "che io abbia alluso",
+                    "che io abbia preannunciato",
+                    "che io abbia predetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "significavĕris",
+                "traduzioni": [
+                    "che tu abbia notificato",
+                    "che tu abbia rivelato",
+                    "che tu abbia dichiarato",
+                    "che tu abbia manifestato",
+                    "che tu sia mostrato",
+                    "che tu sia mostrata",
+                    "che tu abbia alluso",
+                    "che tu abbia preannunciato",
+                    "che tu abbia predetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "significavĕrit",
+                "traduzioni": [
+                    "che lui abbia notificato",
+                    "che lei abbia notificato",
+                    "che egli abbia notificato",
+                    "che lui abbia rivelato",
+                    "che lei abbia rivelato",
+                    "che egli abbia rivelato",
+                    "che lui abbia dichiarato",
+                    "che lei abbia dichiarato",
+                    "che egli abbia dichiarato",
+                    "che lui abbia manifestato",
+                    "che lei abbia manifestato",
+                    "che egli abbia manifestato",
+                    "che lui sia mostrato",
+                    "che lei sia mostrata",
+                    "che egli sia mostrato",
+                    "che lui abbia alluso",
+                    "che lei abbia alluso",
+                    "che egli abbia alluso",
+                    "che lui abbia preannunciato",
+                    "che lei abbia preannunciato",
+                    "che egli abbia preannunciato",
+                    "che lui abbia predetto",
+                    "che lei abbia predetto",
+                    "che egli abbia predetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "significaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo notificato",
+                    "che noi abbiamo rivelato",
+                    "che noi abbiamo dichiarato",
+                    "che noi abbiamo manifestato",
+                    "che noi siamo mostrati",
+                    "che noi siamo mostrate",
+                    "che noi abbiamo alluso",
+                    "che noi abbiamo preannunciato",
+                    "che noi abbiamo predetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "significaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate notificato",
+                    "che voi abbiate rivelato",
+                    "che voi abbiate dichiarato",
+                    "che voi abbiate manifestato",
+                    "che voi siate mostrati",
+                    "che voi siate mostrate",
+                    "che voi abbiate alluso",
+                    "che voi abbiate preannunciato",
+                    "che voi abbiate predetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "significavĕrint",
+                "traduzioni": [
+                    "che loro abbiano notificato",
+                    "che essi abbiano notificato",
+                    "che loro abbiano rivelato",
+                    "che essi abbiano rivelato",
+                    "che loro abbiano dichiarato",
+                    "che essi abbiano dichiarato",
+                    "che loro abbiano manifestato",
+                    "che essi abbiano manifestato",
+                    "che loro siano mostrati",
+                    "che loro siano mostrate",
+                    "che essi siano mostrati",
+                    "che loro abbiano alluso",
+                    "che essi abbiano alluso",
+                    "che loro abbiano preannunciato",
+                    "che essi abbiano preannunciato",
+                    "che loro abbiano predetto",
+                    "che essi abbiano predetto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "significavissem",
+                "traduzioni": [
+                    "che io avessi notificato",
+                    "che io avessi rivelato",
+                    "che io avessi dichiarato",
+                    "che io avessi manifestato",
+                    "che io fossi mostrato",
+                    "che io fossi mostrata",
+                    "che io avessi alluso",
+                    "che io avessi preannunciato",
+                    "che io avessi predetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "significavisses",
+                "traduzioni": [
+                    "che tu avessi notificato",
+                    "che tu avessi rivelato",
+                    "che tu avessi dichiarato",
+                    "che tu avessi manifestato",
+                    "che tu fossi mostrato",
+                    "che tu fossi mostrata",
+                    "che tu avessi alluso",
+                    "che tu avessi preannunciato",
+                    "che tu avessi predetto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "significavisset",
+                "traduzioni": [
+                    "che lui avesse notificato",
+                    "che lei avesse notificato",
+                    "che egli avesse notificato",
+                    "che lui avesse rivelato",
+                    "che lei avesse rivelato",
+                    "che egli avesse rivelato",
+                    "che lui avesse dichiarato",
+                    "che lei avesse dichiarato",
+                    "che egli avesse dichiarato",
+                    "che lui avesse manifestato",
+                    "che lei avesse manifestato",
+                    "che egli avesse manifestato",
+                    "che lui fosse mostrato",
+                    "che lei fosse mostrata",
+                    "che egli fosse mostrato",
+                    "che lui avesse alluso",
+                    "che lei avesse alluso",
+                    "che egli avesse alluso",
+                    "che lui avesse preannunciato",
+                    "che lei avesse preannunciato",
+                    "che egli avesse preannunciato",
+                    "che lui avesse predetto",
+                    "che lei avesse predetto",
+                    "che egli avesse predetto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "significavissēmus",
+                "traduzioni": [
+                    "che noi avessimo notificato",
+                    "che noi avessimo rivelato",
+                    "che noi avessimo dichiarato",
+                    "che noi avessimo manifestato",
+                    "che noi fossimo mostrati",
+                    "che noi fossimo mostrate",
+                    "che noi avessimo alluso",
+                    "che noi avessimo preannunciato",
+                    "che noi avessimo predetto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "significavissētis",
+                "traduzioni": [
+                    "che voi aveste notificato",
+                    "che voi aveste rivelato",
+                    "che voi aveste dichiarato",
+                    "che voi aveste manifestato",
+                    "che voi foste mostrati",
+                    "che voi foste mostrate",
+                    "che voi aveste alluso",
+                    "che voi aveste preannunciato",
+                    "che voi aveste predetto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "significavissent",
+                "traduzioni": [
+                    "che loro avessero notificato",
+                    "che essi avessero notificato",
+                    "che loro avessero rivelato",
+                    "che essi avessero rivelato",
+                    "che loro avessero dichiarato",
+                    "che essi avessero dichiarato",
+                    "che loro avessero manifestato",
+                    "che essi avessero manifestato",
+                    "che loro fossero mostrati",
+                    "che loro fossero mostrate",
+                    "che essi fossero mostrati",
+                    "che loro avessero alluso",
+                    "che essi avessero alluso",
+                    "che loro avessero preannunciato",
+                    "che essi avessero preannunciato",
+                    "che loro avessero predetto",
+                    "che essi avessero predetto"
+                ]
+            }
+        ]
+    }
+}

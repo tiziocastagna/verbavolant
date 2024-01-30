@@ -1,0 +1,612 @@
+{
+    "identifier": "PRIVO",
+    "conuigazione": "1",
+    "translation": [
+        "togliere",
+        "spogliare"
+    ],
+    "valid_translations": [
+        "togliere",
+        "spogliare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "prīvo",
+                "traduzioni": [
+                    "io tolgo",
+                    "io spoglio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prīvas",
+                "traduzioni": [
+                    "tu togli",
+                    "tu spogli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prīvat",
+                "traduzioni": [
+                    "lui toglie",
+                    "lei toglie",
+                    "egli toglie",
+                    "lui spoglia",
+                    "lei spoglia",
+                    "egli spoglia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prīvāmus",
+                "traduzioni": [
+                    "noi togliamo",
+                    "noi spogliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prīvātis",
+                "traduzioni": [
+                    "voi togliete",
+                    "voi spogliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prīvant",
+                "traduzioni": [
+                    "loro tolgono",
+                    "essi tolgono",
+                    "loro spogliano",
+                    "essi spogliano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "prīvābam",
+                "traduzioni": [
+                    "io toglievo",
+                    "io spogliavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prīvābas",
+                "traduzioni": [
+                    "tu toglievi",
+                    "tu spogliavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prīvābat",
+                "traduzioni": [
+                    "lui toglieva",
+                    "lei toglieva",
+                    "egli toglieva",
+                    "lui spogliava",
+                    "lei spogliava",
+                    "egli spogliava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prīvabāmus",
+                "traduzioni": [
+                    "noi toglievamo",
+                    "noi spogliavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prīvabātis",
+                "traduzioni": [
+                    "voi toglievate",
+                    "voi spogliavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prīvābant",
+                "traduzioni": [
+                    "loro toglievano",
+                    "essi toglievano",
+                    "loro spogliavano",
+                    "essi spogliavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "prīvābo",
+                "traduzioni": [
+                    "io toglierò",
+                    "io spoglierò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prīvābis",
+                "traduzioni": [
+                    "tu toglierai",
+                    "tu spoglierai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prīvābit",
+                "traduzioni": [
+                    "lui toglierà",
+                    "lei toglierà",
+                    "egli toglierà",
+                    "lui spoglierà",
+                    "lei spoglierà",
+                    "egli spoglierà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prīvabĭmus",
+                "traduzioni": [
+                    "noi toglieremo",
+                    "noi spoglieremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prīvabĭtis",
+                "traduzioni": [
+                    "voi toglierete",
+                    "voi spoglierete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prīvābunt",
+                "traduzioni": [
+                    "loro toglieranno",
+                    "essi toglieranno",
+                    "loro spoglieranno",
+                    "essi spoglieranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "privavi",
+                "traduzioni": [
+                    "io tolsi",
+                    "io ho tolto",
+                    "io ebbi tolto",
+                    "io spogliai",
+                    "io ho spogliato",
+                    "io ebbi spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "privavisti",
+                "traduzioni": [
+                    "tu togliesti",
+                    "tu hai tolto",
+                    "tu avesti tolto",
+                    "tu spogliasti",
+                    "tu hai spogliato",
+                    "tu avesti spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "privavit",
+                "traduzioni": [
+                    "lui tolse",
+                    "lei tolse",
+                    "egli tolse",
+                    "lui ha tolto",
+                    "lei ha tolto",
+                    "egli ha tolto",
+                    "lui ebbe tolto",
+                    "lei ebbe tolto",
+                    "egli ebbe tolto",
+                    "lui spogliò",
+                    "lei spogliò",
+                    "egli spogliò",
+                    "lui ha spogliato",
+                    "lei ha spogliato",
+                    "egli ha spogliato",
+                    "lui ebbe spogliato",
+                    "lei ebbe spogliato",
+                    "egli ebbe spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "privavĭmus",
+                "traduzioni": [
+                    "noi togliemmo",
+                    "noi abbiamo tolto",
+                    "noi avemmo tolto",
+                    "noi spogliammo",
+                    "noi abbiamo spogliato",
+                    "noi avemmo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "privavistis",
+                "traduzioni": [
+                    "voi toglieste",
+                    "voi avete tolto",
+                    "voi aveste tolto",
+                    "voi spogliaste",
+                    "voi avete spogliato",
+                    "voi aveste spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "privavērunt, privavēre",
+                "traduzioni": [
+                    "loro tolsero",
+                    "essi tolsero",
+                    "loro hanno tolto",
+                    "essi hanno tolto",
+                    "loro ebbero tolto",
+                    "essi ebbero tolto",
+                    "loro spogliarono",
+                    "essi spogliarono",
+                    "loro hanno spogliato",
+                    "essi hanno spogliato",
+                    "loro ebbero spogliato",
+                    "essi ebbero spogliato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "privavĕram",
+                "traduzioni": [
+                    "io avevo tolto",
+                    "io avevo spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "privavĕras",
+                "traduzioni": [
+                    "tu avevi tolto",
+                    "tu avevi spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "privavĕrat",
+                "traduzioni": [
+                    "lui aveva tolto",
+                    "lei aveva tolto",
+                    "egli aveva tolto",
+                    "lui aveva spogliato",
+                    "lei aveva spogliato",
+                    "egli aveva spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "privaverāmus",
+                "traduzioni": [
+                    "noi avevamo tolto",
+                    "noi avevamo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "privaverātis",
+                "traduzioni": [
+                    "voi avevate tolto",
+                    "voi avevate spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "privavĕrant",
+                "traduzioni": [
+                    "loro avevano tolto",
+                    "essi avevano tolto",
+                    "loro avevano spogliato",
+                    "essi avevano spogliato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "privavĕro",
+                "traduzioni": [
+                    "io avrò tolto",
+                    "io avrò spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "privavĕris",
+                "traduzioni": [
+                    "tu avrai tolto",
+                    "tu avrai spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "privavĕrit",
+                "traduzioni": [
+                    "lui avrà tolto",
+                    "lei avrà tolto",
+                    "egli avrà tolto",
+                    "lui avrà spogliato",
+                    "lei avrà spogliato",
+                    "egli avrà spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "privaverĭmus",
+                "traduzioni": [
+                    "noi avremo tolto",
+                    "noi avremo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "privaverĭtis",
+                "traduzioni": [
+                    "voi avrete tolto",
+                    "voi avrete spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "privavĕrint",
+                "traduzioni": [
+                    "loro avranno tolto",
+                    "essi avranno tolto",
+                    "loro avranno spogliato",
+                    "essi avranno spogliato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "prīvem",
+                "traduzioni": [
+                    "che io tolga",
+                    "che io spogli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prīves",
+                "traduzioni": [
+                    "che tu tolga",
+                    "che tu spogli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prīvet",
+                "traduzioni": [
+                    "che lui tolga",
+                    "che lei tolga",
+                    "che egli tolga",
+                    "che lui spogli",
+                    "che lei spogli",
+                    "che egli spogli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prīvēmus",
+                "traduzioni": [
+                    "che noi togliamo",
+                    "che noi spogliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prīvētis",
+                "traduzioni": [
+                    "che voi togliate",
+                    "che voi spogliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prīvent",
+                "traduzioni": [
+                    "che loro tolgano",
+                    "che essi tolgano",
+                    "che loro spoglino",
+                    "che essi spoglino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "prīvārem",
+                "traduzioni": [
+                    "che io togliessi",
+                    "che io spogliassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "prīvāres",
+                "traduzioni": [
+                    "che tu togliessi",
+                    "che tu spogliassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "prīvāret",
+                "traduzioni": [
+                    "che lui togliesse",
+                    "che lei togliesse",
+                    "che egli togliesse",
+                    "che lui spogliasse",
+                    "che lei spogliasse",
+                    "che egli spogliasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "prīvarēmus",
+                "traduzioni": [
+                    "che noi togliessimo",
+                    "che noi spogliassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "prīvarētis",
+                "traduzioni": [
+                    "che voi toglieste",
+                    "che voi spogliaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "prīvārent",
+                "traduzioni": [
+                    "che loro togliessero",
+                    "che essi togliessero",
+                    "che loro spogliassero",
+                    "che essi spogliassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "privavĕrim",
+                "traduzioni": [
+                    "che io abbia tolto",
+                    "che io abbia spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "privavĕris",
+                "traduzioni": [
+                    "che tu abbia tolto",
+                    "che tu abbia spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "privavĕrit",
+                "traduzioni": [
+                    "che lui abbia tolto",
+                    "che lei abbia tolto",
+                    "che egli abbia tolto",
+                    "che lui abbia spogliato",
+                    "che lei abbia spogliato",
+                    "che egli abbia spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "privaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo tolto",
+                    "che noi abbiamo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "privaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate tolto",
+                    "che voi abbiate spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "privavĕrint",
+                "traduzioni": [
+                    "che loro abbiano tolto",
+                    "che essi abbiano tolto",
+                    "che loro abbiano spogliato",
+                    "che essi abbiano spogliato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "privavissem",
+                "traduzioni": [
+                    "che io avessi tolto",
+                    "che io avessi spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "privavisses",
+                "traduzioni": [
+                    "che tu avessi tolto",
+                    "che tu avessi spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "privavisset",
+                "traduzioni": [
+                    "che lui avesse tolto",
+                    "che lei avesse tolto",
+                    "che egli avesse tolto",
+                    "che lui avesse spogliato",
+                    "che lei avesse spogliato",
+                    "che egli avesse spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "privavissēmus",
+                "traduzioni": [
+                    "che noi avessimo tolto",
+                    "che noi avessimo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "privavissētis",
+                "traduzioni": [
+                    "che voi aveste tolto",
+                    "che voi aveste spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "privavissent",
+                "traduzioni": [
+                    "che loro avessero tolto",
+                    "che essi avessero tolto",
+                    "che loro avessero spogliato",
+                    "che essi avessero spogliato"
+                ]
+            }
+        ]
+    }
+}

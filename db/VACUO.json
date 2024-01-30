@@ -1,0 +1,612 @@
+{
+    "identifier": "VACUO",
+    "conuigazione": "1",
+    "translation": [
+        "annullare",
+        "abrogare"
+    ],
+    "valid_translations": [
+        "annullare",
+        "abrogare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "văcŭo",
+                "traduzioni": [
+                    "io annullo",
+                    "io abrogo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "văcŭas",
+                "traduzioni": [
+                    "tu annulli",
+                    "tu abroghi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "văcŭat",
+                "traduzioni": [
+                    "lui annulla",
+                    "lei annulla",
+                    "egli annulla",
+                    "lui abroga",
+                    "lei abroga",
+                    "egli abroga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "văcŭāmus",
+                "traduzioni": [
+                    "noi annulliamo",
+                    "noi abroghiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "văcŭātis",
+                "traduzioni": [
+                    "voi annullate",
+                    "voi abrogate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "văcŭant",
+                "traduzioni": [
+                    "loro annullano",
+                    "essi annullano",
+                    "loro abrogano",
+                    "essi abrogano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "văcŭābam",
+                "traduzioni": [
+                    "io annullavo",
+                    "io abrogavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "văcŭābas",
+                "traduzioni": [
+                    "tu annullavi",
+                    "tu abrogavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "văcŭābat",
+                "traduzioni": [
+                    "lui annullava",
+                    "lei annullava",
+                    "egli annullava",
+                    "lui abrogava",
+                    "lei abrogava",
+                    "egli abrogava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "văcŭabāmus",
+                "traduzioni": [
+                    "noi annullavamo",
+                    "noi abrogavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "văcŭabātis",
+                "traduzioni": [
+                    "voi annullavate",
+                    "voi abrogavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "văcŭābant",
+                "traduzioni": [
+                    "loro annullavano",
+                    "essi annullavano",
+                    "loro abrogavano",
+                    "essi abrogavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "văcŭābo",
+                "traduzioni": [
+                    "io annullerò",
+                    "io abrogherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "văcŭābis",
+                "traduzioni": [
+                    "tu annullerai",
+                    "tu abrogherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "văcŭābit",
+                "traduzioni": [
+                    "lui annullerà",
+                    "lei annullerà",
+                    "egli annullerà",
+                    "lui abrogherà",
+                    "lei abrogherà",
+                    "egli abrogherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "văcŭabĭmus",
+                "traduzioni": [
+                    "noi annulleremo",
+                    "noi abrogheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "văcŭabĭtis",
+                "traduzioni": [
+                    "voi annullerete",
+                    "voi abrogherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "văcŭābunt",
+                "traduzioni": [
+                    "loro annulleranno",
+                    "essi annulleranno",
+                    "loro abrogheranno",
+                    "essi abrogheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "vacuavi",
+                "traduzioni": [
+                    "io annullai",
+                    "io ho annullato",
+                    "io ebbi annullato",
+                    "io abrogai",
+                    "io ho abrogato",
+                    "io ebbi abrogato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vacuavisti",
+                "traduzioni": [
+                    "tu annullasti",
+                    "tu hai annullato",
+                    "tu avesti annullato",
+                    "tu abrogasti",
+                    "tu hai abrogato",
+                    "tu avesti abrogato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vacuavit",
+                "traduzioni": [
+                    "lui annullò",
+                    "lei annullò",
+                    "egli annullò",
+                    "lui ha annullato",
+                    "lei ha annullato",
+                    "egli ha annullato",
+                    "lui ebbe annullato",
+                    "lei ebbe annullato",
+                    "egli ebbe annullato",
+                    "lui abrogò",
+                    "lei abrogò",
+                    "egli abrogò",
+                    "lui ha abrogato",
+                    "lei ha abrogato",
+                    "egli ha abrogato",
+                    "lui ebbe abrogato",
+                    "lei ebbe abrogato",
+                    "egli ebbe abrogato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vacuavĭmus",
+                "traduzioni": [
+                    "noi annullammo",
+                    "noi abbiamo annullato",
+                    "noi avemmo annullato",
+                    "noi abrogammo",
+                    "noi abbiamo abrogato",
+                    "noi avemmo abrogato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vacuavistis",
+                "traduzioni": [
+                    "voi annullaste",
+                    "voi avete annullato",
+                    "voi aveste annullato",
+                    "voi abrogaste",
+                    "voi avete abrogato",
+                    "voi aveste abrogato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vacuavērunt, vacuavēre",
+                "traduzioni": [
+                    "loro annullarono",
+                    "essi annullarono",
+                    "loro hanno annullato",
+                    "essi hanno annullato",
+                    "loro ebbero annullato",
+                    "essi ebbero annullato",
+                    "loro abrogarono",
+                    "essi abrogarono",
+                    "loro hanno abrogato",
+                    "essi hanno abrogato",
+                    "loro ebbero abrogato",
+                    "essi ebbero abrogato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "vacuavĕram",
+                "traduzioni": [
+                    "io avevo annullato",
+                    "io avevo abrogato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vacuavĕras",
+                "traduzioni": [
+                    "tu avevi annullato",
+                    "tu avevi abrogato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vacuavĕrat",
+                "traduzioni": [
+                    "lui aveva annullato",
+                    "lei aveva annullato",
+                    "egli aveva annullato",
+                    "lui aveva abrogato",
+                    "lei aveva abrogato",
+                    "egli aveva abrogato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vacuaverāmus",
+                "traduzioni": [
+                    "noi avevamo annullato",
+                    "noi avevamo abrogato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vacuaverātis",
+                "traduzioni": [
+                    "voi avevate annullato",
+                    "voi avevate abrogato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vacuavĕrant",
+                "traduzioni": [
+                    "loro avevano annullato",
+                    "essi avevano annullato",
+                    "loro avevano abrogato",
+                    "essi avevano abrogato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "vacuavĕro",
+                "traduzioni": [
+                    "io avrò annullato",
+                    "io avrò abrogato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vacuavĕris",
+                "traduzioni": [
+                    "tu avrai annullato",
+                    "tu avrai abrogato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vacuavĕrit",
+                "traduzioni": [
+                    "lui avrà annullato",
+                    "lei avrà annullato",
+                    "egli avrà annullato",
+                    "lui avrà abrogato",
+                    "lei avrà abrogato",
+                    "egli avrà abrogato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vacuaverĭmus",
+                "traduzioni": [
+                    "noi avremo annullato",
+                    "noi avremo abrogato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vacuaverĭtis",
+                "traduzioni": [
+                    "voi avrete annullato",
+                    "voi avrete abrogato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vacuavĕrint",
+                "traduzioni": [
+                    "loro avranno annullato",
+                    "essi avranno annullato",
+                    "loro avranno abrogato",
+                    "essi avranno abrogato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "văcŭem",
+                "traduzioni": [
+                    "che io annulli",
+                    "che io abroghi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "văcŭes",
+                "traduzioni": [
+                    "che tu annulli",
+                    "che tu abroghi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "văcŭet",
+                "traduzioni": [
+                    "che lui annulli",
+                    "che lei annulli",
+                    "che egli annulli",
+                    "che lui abroghi",
+                    "che lei abroghi",
+                    "che egli abroghi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "văcŭēmus",
+                "traduzioni": [
+                    "che noi annulliamo",
+                    "che noi abroghiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "văcŭētis",
+                "traduzioni": [
+                    "che voi annulliate",
+                    "che voi abroghiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "văcŭent",
+                "traduzioni": [
+                    "che loro annullino",
+                    "che essi annullino",
+                    "che loro abroghino",
+                    "che essi abroghino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "văcŭārem",
+                "traduzioni": [
+                    "che io annullassi",
+                    "che io abrogassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "văcŭāres",
+                "traduzioni": [
+                    "che tu annullassi",
+                    "che tu abrogassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "văcŭāret",
+                "traduzioni": [
+                    "che lui annullasse",
+                    "che lei annullasse",
+                    "che egli annullasse",
+                    "che lui abrogasse",
+                    "che lei abrogasse",
+                    "che egli abrogasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "văcŭarēmus",
+                "traduzioni": [
+                    "che noi annullassimo",
+                    "che noi abrogassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "văcŭarētis",
+                "traduzioni": [
+                    "che voi annullaste",
+                    "che voi abrogaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "văcŭārent",
+                "traduzioni": [
+                    "che loro annullassero",
+                    "che essi annullassero",
+                    "che loro abrogassero",
+                    "che essi abrogassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "vacuavĕrim",
+                "traduzioni": [
+                    "che io abbia annullato",
+                    "che io abbia abrogato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vacuavĕris",
+                "traduzioni": [
+                    "che tu abbia annullato",
+                    "che tu abbia abrogato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vacuavĕrit",
+                "traduzioni": [
+                    "che lui abbia annullato",
+                    "che lei abbia annullato",
+                    "che egli abbia annullato",
+                    "che lui abbia abrogato",
+                    "che lei abbia abrogato",
+                    "che egli abbia abrogato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vacuaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo annullato",
+                    "che noi abbiamo abrogato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vacuaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate annullato",
+                    "che voi abbiate abrogato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vacuavĕrint",
+                "traduzioni": [
+                    "che loro abbiano annullato",
+                    "che essi abbiano annullato",
+                    "che loro abbiano abrogato",
+                    "che essi abbiano abrogato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "vacuavissem",
+                "traduzioni": [
+                    "che io avessi annullato",
+                    "che io avessi abrogato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vacuavisses",
+                "traduzioni": [
+                    "che tu avessi annullato",
+                    "che tu avessi abrogato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vacuavisset",
+                "traduzioni": [
+                    "che lui avesse annullato",
+                    "che lei avesse annullato",
+                    "che egli avesse annullato",
+                    "che lui avesse abrogato",
+                    "che lei avesse abrogato",
+                    "che egli avesse abrogato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vacuavissēmus",
+                "traduzioni": [
+                    "che noi avessimo annullato",
+                    "che noi avessimo abrogato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vacuavissētis",
+                "traduzioni": [
+                    "che voi aveste annullato",
+                    "che voi aveste abrogato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vacuavissent",
+                "traduzioni": [
+                    "che loro avessero annullato",
+                    "che essi avessero annullato",
+                    "che loro avessero abrogato",
+                    "che essi avessero abrogato"
+                ]
+            }
+        ]
+    }
+}

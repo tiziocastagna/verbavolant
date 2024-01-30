@@ -1,0 +1,612 @@
+{
+    "identifier": "INCINGO",
+    "conuigazione": "3",
+    "translation": [
+        "cingere",
+        "circondare"
+    ],
+    "valid_translations": [
+        "cingere",
+        "circondare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incingo",
+                "traduzioni": [
+                    "io cingo",
+                    "io circondo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incingis",
+                "traduzioni": [
+                    "tu cingi",
+                    "tu circondi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incingit",
+                "traduzioni": [
+                    "lui cinge",
+                    "lei cinge",
+                    "egli cinge",
+                    "lui circonda",
+                    "lei circonda",
+                    "egli circonda"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incingĭmus",
+                "traduzioni": [
+                    "noi cingiamo",
+                    "noi circondiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incingĭtis",
+                "traduzioni": [
+                    "voi cingete",
+                    "voi circondate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incingunt",
+                "traduzioni": [
+                    "loro cingono",
+                    "essi cingono",
+                    "loro circondano",
+                    "essi circondano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incingēbam",
+                "traduzioni": [
+                    "io cingevo",
+                    "io circondavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incingēbas",
+                "traduzioni": [
+                    "tu cingevi",
+                    "tu circondavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incingēbat",
+                "traduzioni": [
+                    "lui cingeva",
+                    "lei cingeva",
+                    "egli cingeva",
+                    "lui circondava",
+                    "lei circondava",
+                    "egli circondava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incingebāmus",
+                "traduzioni": [
+                    "noi cingevamo",
+                    "noi circondavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incingebātis",
+                "traduzioni": [
+                    "voi cingevate",
+                    "voi circondavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incingēbant",
+                "traduzioni": [
+                    "loro cingevano",
+                    "essi cingevano",
+                    "loro circondavano",
+                    "essi circondavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incingam",
+                "traduzioni": [
+                    "io cingerò",
+                    "io circonderò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incinges",
+                "traduzioni": [
+                    "tu cingerai",
+                    "tu circonderai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incinget",
+                "traduzioni": [
+                    "lui cingerà",
+                    "lei cingerà",
+                    "egli cingerà",
+                    "lui circonderà",
+                    "lei circonderà",
+                    "egli circonderà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incingēmus",
+                "traduzioni": [
+                    "noi cingeremo",
+                    "noi circonderemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incingētis",
+                "traduzioni": [
+                    "voi cingerete",
+                    "voi circonderete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incingent",
+                "traduzioni": [
+                    "loro cingeranno",
+                    "essi cingeranno",
+                    "loro circonderanno",
+                    "essi circonderanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incinxi",
+                "traduzioni": [
+                    "io cinsi",
+                    "io ho cinto",
+                    "io ebbi cinto",
+                    "io circondai",
+                    "io ho circondato",
+                    "io ebbi circondato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incinxisti",
+                "traduzioni": [
+                    "tu cingesti",
+                    "tu hai cinto",
+                    "tu avesti cinto",
+                    "tu circondasti",
+                    "tu hai circondato",
+                    "tu avesti circondato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incinxit",
+                "traduzioni": [
+                    "lui cinse",
+                    "lei cinse",
+                    "egli cinse",
+                    "lui ha cinto",
+                    "lei ha cinto",
+                    "egli ha cinto",
+                    "lui ebbe cinto",
+                    "lei ebbe cinto",
+                    "egli ebbe cinto",
+                    "lui circondò",
+                    "lei circondò",
+                    "egli circondò",
+                    "lui ha circondato",
+                    "lei ha circondato",
+                    "egli ha circondato",
+                    "lui ebbe circondato",
+                    "lei ebbe circondato",
+                    "egli ebbe circondato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incinxĭmus",
+                "traduzioni": [
+                    "noi cingemmo",
+                    "noi abbiamo cinto",
+                    "noi avemmo cinto",
+                    "noi circondammo",
+                    "noi abbiamo circondato",
+                    "noi avemmo circondato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incinxistis",
+                "traduzioni": [
+                    "voi cingeste",
+                    "voi avete cinto",
+                    "voi aveste cinto",
+                    "voi circondaste",
+                    "voi avete circondato",
+                    "voi aveste circondato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incinxērunt, incinxēre",
+                "traduzioni": [
+                    "loro cinsero",
+                    "essi cinsero",
+                    "loro hanno cinto",
+                    "essi hanno cinto",
+                    "loro ebbero cinto",
+                    "essi ebbero cinto",
+                    "loro circondarono",
+                    "essi circondarono",
+                    "loro hanno circondato",
+                    "essi hanno circondato",
+                    "loro ebbero circondato",
+                    "essi ebbero circondato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incinxĕram",
+                "traduzioni": [
+                    "io avevo cinto",
+                    "io avevo circondato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incinxĕras",
+                "traduzioni": [
+                    "tu avevi cinto",
+                    "tu avevi circondato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incinxĕrat",
+                "traduzioni": [
+                    "lui aveva cinto",
+                    "lei aveva cinto",
+                    "egli aveva cinto",
+                    "lui aveva circondato",
+                    "lei aveva circondato",
+                    "egli aveva circondato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incinxerāmus",
+                "traduzioni": [
+                    "noi avevamo cinto",
+                    "noi avevamo circondato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incinxerātis",
+                "traduzioni": [
+                    "voi avevate cinto",
+                    "voi avevate circondato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incinxĕrant",
+                "traduzioni": [
+                    "loro avevano cinto",
+                    "essi avevano cinto",
+                    "loro avevano circondato",
+                    "essi avevano circondato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incinxĕro",
+                "traduzioni": [
+                    "io avrò cinto",
+                    "io avrò circondato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incinxĕris",
+                "traduzioni": [
+                    "tu avrai cinto",
+                    "tu avrai circondato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incinxĕrit",
+                "traduzioni": [
+                    "lui avrà cinto",
+                    "lei avrà cinto",
+                    "egli avrà cinto",
+                    "lui avrà circondato",
+                    "lei avrà circondato",
+                    "egli avrà circondato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incinxerĭmus",
+                "traduzioni": [
+                    "noi avremo cinto",
+                    "noi avremo circondato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incinxerĭtis",
+                "traduzioni": [
+                    "voi avrete cinto",
+                    "voi avrete circondato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incinxĕrint",
+                "traduzioni": [
+                    "loro avranno cinto",
+                    "essi avranno cinto",
+                    "loro avranno circondato",
+                    "essi avranno circondato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incingam",
+                "traduzioni": [
+                    "che io cinga",
+                    "che io circondi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incingas",
+                "traduzioni": [
+                    "che tu cinga",
+                    "che tu circondi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incingat",
+                "traduzioni": [
+                    "che lui cinga",
+                    "che lei cinga",
+                    "che egli cinga",
+                    "che lui circondi",
+                    "che lei circondi",
+                    "che egli circondi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incingāmus",
+                "traduzioni": [
+                    "che noi cingiamo",
+                    "che noi circondiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incingātis",
+                "traduzioni": [
+                    "che voi cingiate",
+                    "che voi circondiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incingant",
+                "traduzioni": [
+                    "che loro cingano",
+                    "che essi cingano",
+                    "che loro circondino",
+                    "che essi circondino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incingĕrem",
+                "traduzioni": [
+                    "che io cingessi",
+                    "che io circondassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incingĕres",
+                "traduzioni": [
+                    "che tu cingessi",
+                    "che tu circondassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incingĕret",
+                "traduzioni": [
+                    "che lui cingesse",
+                    "che lei cingesse",
+                    "che egli cingesse",
+                    "che lui circondasse",
+                    "che lei circondasse",
+                    "che egli circondasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incingerēmus",
+                "traduzioni": [
+                    "che noi cingessimo",
+                    "che noi circondassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incingerētis",
+                "traduzioni": [
+                    "che voi cingeste",
+                    "che voi circondaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incingĕrent",
+                "traduzioni": [
+                    "che loro cingessero",
+                    "che essi cingessero",
+                    "che loro circondassero",
+                    "che essi circondassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incinxĕrim",
+                "traduzioni": [
+                    "che io abbia cinto",
+                    "che io abbia circondato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incinxĕris",
+                "traduzioni": [
+                    "che tu abbia cinto",
+                    "che tu abbia circondato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incinxĕrit",
+                "traduzioni": [
+                    "che lui abbia cinto",
+                    "che lei abbia cinto",
+                    "che egli abbia cinto",
+                    "che lui abbia circondato",
+                    "che lei abbia circondato",
+                    "che egli abbia circondato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incinxerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo cinto",
+                    "che noi abbiamo circondato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incinxerĭtis",
+                "traduzioni": [
+                    "che voi abbiate cinto",
+                    "che voi abbiate circondato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incinxĕrint",
+                "traduzioni": [
+                    "che loro abbiano cinto",
+                    "che essi abbiano cinto",
+                    "che loro abbiano circondato",
+                    "che essi abbiano circondato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incinxissem",
+                "traduzioni": [
+                    "che io avessi cinto",
+                    "che io avessi circondato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incinxisses",
+                "traduzioni": [
+                    "che tu avessi cinto",
+                    "che tu avessi circondato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incinxisset",
+                "traduzioni": [
+                    "che lui avesse cinto",
+                    "che lei avesse cinto",
+                    "che egli avesse cinto",
+                    "che lui avesse circondato",
+                    "che lei avesse circondato",
+                    "che egli avesse circondato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incinxissēmus",
+                "traduzioni": [
+                    "che noi avessimo cinto",
+                    "che noi avessimo circondato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incinxissētis",
+                "traduzioni": [
+                    "che voi aveste cinto",
+                    "che voi aveste circondato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incinxissent",
+                "traduzioni": [
+                    "che loro avessero cinto",
+                    "che essi avessero cinto",
+                    "che loro avessero circondato",
+                    "che essi avessero circondato"
+                ]
+            }
+        ]
+    }
+}

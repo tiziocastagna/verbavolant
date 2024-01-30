@@ -1,0 +1,948 @@
+{
+    "identifier": "INVITO",
+    "conuigazione": "1",
+    "translation": [
+        "ospitare",
+        "ricevere",
+        "incitare",
+        "eccitare",
+        "allettare"
+    ],
+    "valid_translations": [
+        "ospitare",
+        "ricevere",
+        "incitare",
+        "eccitare",
+        "allettare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "invīto",
+                "traduzioni": [
+                    "io ospito",
+                    "io ricevo",
+                    "io incito",
+                    "io eccito",
+                    "io alletto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invītas",
+                "traduzioni": [
+                    "tu ospiti",
+                    "tu ricevi",
+                    "tu inciti",
+                    "tu ecciti",
+                    "tu alletti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invītat",
+                "traduzioni": [
+                    "lui ospita",
+                    "lei ospita",
+                    "egli ospita",
+                    "lui riceve",
+                    "lei riceve",
+                    "egli riceve",
+                    "lui incita",
+                    "lei incita",
+                    "egli incita",
+                    "lui eccita",
+                    "lei eccita",
+                    "egli eccita",
+                    "lui alletta",
+                    "lei alletta",
+                    "egli alletta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invītāmus",
+                "traduzioni": [
+                    "noi ospitiamo",
+                    "noi riceviamo",
+                    "noi incitiamo",
+                    "noi eccitiamo",
+                    "noi allettiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invītātis",
+                "traduzioni": [
+                    "voi ospitate",
+                    "voi ricevete",
+                    "voi incitate",
+                    "voi eccitate",
+                    "voi allettate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invītant",
+                "traduzioni": [
+                    "loro ospitano",
+                    "essi ospitano",
+                    "loro ricevono",
+                    "essi ricevono",
+                    "loro incitano",
+                    "essi incitano",
+                    "loro eccitano",
+                    "essi eccitano",
+                    "loro allettano",
+                    "essi allettano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invītābam",
+                "traduzioni": [
+                    "io ospitavo",
+                    "io ricevevo",
+                    "io incitavo",
+                    "io eccitavo",
+                    "io allettavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invītābas",
+                "traduzioni": [
+                    "tu ospitavi",
+                    "tu ricevevi",
+                    "tu incitavi",
+                    "tu eccitavi",
+                    "tu allettavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invītābat",
+                "traduzioni": [
+                    "lui ospitava",
+                    "lei ospitava",
+                    "egli ospitava",
+                    "lui riceveva",
+                    "lei riceveva",
+                    "egli riceveva",
+                    "lui incitava",
+                    "lei incitava",
+                    "egli incitava",
+                    "lui eccitava",
+                    "lei eccitava",
+                    "egli eccitava",
+                    "lui allettava",
+                    "lei allettava",
+                    "egli allettava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invītabāmus",
+                "traduzioni": [
+                    "noi ospitavamo",
+                    "noi ricevevamo",
+                    "noi incitavamo",
+                    "noi eccitavamo",
+                    "noi allettavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invītabātis",
+                "traduzioni": [
+                    "voi ospitavate",
+                    "voi ricevevate",
+                    "voi incitavate",
+                    "voi eccitavate",
+                    "voi allettavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invītābant",
+                "traduzioni": [
+                    "loro ospitavano",
+                    "essi ospitavano",
+                    "loro ricevevano",
+                    "essi ricevevano",
+                    "loro incitavano",
+                    "essi incitavano",
+                    "loro eccitavano",
+                    "essi eccitavano",
+                    "loro allettavano",
+                    "essi allettavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "invītābo",
+                "traduzioni": [
+                    "io ospiterò",
+                    "io riceverò",
+                    "io inciterò",
+                    "io ecciterò",
+                    "io alletterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invītābis",
+                "traduzioni": [
+                    "tu ospiterai",
+                    "tu riceverai",
+                    "tu inciterai",
+                    "tu ecciterai",
+                    "tu alletterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invītābit",
+                "traduzioni": [
+                    "lui ospiterà",
+                    "lei ospiterà",
+                    "egli ospiterà",
+                    "lui riceverà",
+                    "lei riceverà",
+                    "egli riceverà",
+                    "lui inciterà",
+                    "lei inciterà",
+                    "egli inciterà",
+                    "lui ecciterà",
+                    "lei ecciterà",
+                    "egli ecciterà",
+                    "lui alletterà",
+                    "lei alletterà",
+                    "egli alletterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invītabĭmus",
+                "traduzioni": [
+                    "noi ospiteremo",
+                    "noi riceveremo",
+                    "noi inciteremo",
+                    "noi ecciteremo",
+                    "noi alletteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invītabĭtis",
+                "traduzioni": [
+                    "voi ospiterete",
+                    "voi riceverete",
+                    "voi inciterete",
+                    "voi ecciterete",
+                    "voi alletterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invītābunt",
+                "traduzioni": [
+                    "loro ospiteranno",
+                    "essi ospiteranno",
+                    "loro riceveranno",
+                    "essi riceveranno",
+                    "loro inciteranno",
+                    "essi inciteranno",
+                    "loro ecciteranno",
+                    "essi ecciteranno",
+                    "loro alletteranno",
+                    "essi alletteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invitavi",
+                "traduzioni": [
+                    "io ospitai",
+                    "io ho ospitato",
+                    "io ebbi ospitato",
+                    "io ricevetti",
+                    "io ricevei",
+                    "io ho ricevuto",
+                    "io ebbi ricevuto",
+                    "io incitai",
+                    "io ho incitato",
+                    "io ebbi incitato",
+                    "io eccitai",
+                    "io ho eccitato",
+                    "io ebbi eccitato",
+                    "io allettai",
+                    "io ho allettato",
+                    "io ebbi allettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invitavisti",
+                "traduzioni": [
+                    "tu ospitasti",
+                    "tu hai ospitato",
+                    "tu avesti ospitato",
+                    "tu ricevesti",
+                    "tu hai ricevuto",
+                    "tu avesti ricevuto",
+                    "tu incitasti",
+                    "tu hai incitato",
+                    "tu avesti incitato",
+                    "tu eccitasti",
+                    "tu hai eccitato",
+                    "tu avesti eccitato",
+                    "tu allettasti",
+                    "tu hai allettato",
+                    "tu avesti allettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invitavit",
+                "traduzioni": [
+                    "lui ospitò",
+                    "lei ospitò",
+                    "egli ospitò",
+                    "lui ha ospitato",
+                    "lei ha ospitato",
+                    "egli ha ospitato",
+                    "lui ebbe ospitato",
+                    "lei ebbe ospitato",
+                    "egli ebbe ospitato",
+                    "lui ricevette",
+                    "lei ricevette",
+                    "egli ricevette",
+                    "lui ricevé",
+                    "lei ricevé",
+                    "egli ricevé",
+                    "lui ha ricevuto",
+                    "lei ha ricevuto",
+                    "egli ha ricevuto",
+                    "lui ebbe ricevuto",
+                    "lei ebbe ricevuto",
+                    "egli ebbe ricevuto",
+                    "lui incitò",
+                    "lei incitò",
+                    "egli incitò",
+                    "lui ha incitato",
+                    "lei ha incitato",
+                    "egli ha incitato",
+                    "lui ebbe incitato",
+                    "lei ebbe incitato",
+                    "egli ebbe incitato",
+                    "lui eccitò",
+                    "lei eccitò",
+                    "egli eccitò",
+                    "lui ha eccitato",
+                    "lei ha eccitato",
+                    "egli ha eccitato",
+                    "lui ebbe eccitato",
+                    "lei ebbe eccitato",
+                    "egli ebbe eccitato",
+                    "lui allettò",
+                    "lei allettò",
+                    "egli allettò",
+                    "lui ha allettato",
+                    "lei ha allettato",
+                    "egli ha allettato",
+                    "lui ebbe allettato",
+                    "lei ebbe allettato",
+                    "egli ebbe allettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invitavĭmus",
+                "traduzioni": [
+                    "noi ospitammo",
+                    "noi abbiamo ospitato",
+                    "noi avemmo ospitato",
+                    "noi ricevemmo",
+                    "noi abbiamo ricevuto",
+                    "noi avemmo ricevuto",
+                    "noi incitammo",
+                    "noi abbiamo incitato",
+                    "noi avemmo incitato",
+                    "noi eccitammo",
+                    "noi abbiamo eccitato",
+                    "noi avemmo eccitato",
+                    "noi allettammo",
+                    "noi abbiamo allettato",
+                    "noi avemmo allettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invitavistis",
+                "traduzioni": [
+                    "voi ospitaste",
+                    "voi avete ospitato",
+                    "voi aveste ospitato",
+                    "voi riceveste",
+                    "voi avete ricevuto",
+                    "voi aveste ricevuto",
+                    "voi incitaste",
+                    "voi avete incitato",
+                    "voi aveste incitato",
+                    "voi eccitaste",
+                    "voi avete eccitato",
+                    "voi aveste eccitato",
+                    "voi allettaste",
+                    "voi avete allettato",
+                    "voi aveste allettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invitavērunt, invitavēre",
+                "traduzioni": [
+                    "loro ospitarono",
+                    "essi ospitarono",
+                    "loro hanno ospitato",
+                    "essi hanno ospitato",
+                    "loro ebbero ospitato",
+                    "essi ebbero ospitato",
+                    "loro ricevettero",
+                    "essi ricevettero",
+                    "loro riceverono",
+                    "essi riceverono",
+                    "loro hanno ricevuto",
+                    "essi hanno ricevuto",
+                    "loro ebbero ricevuto",
+                    "essi ebbero ricevuto",
+                    "loro incitarono",
+                    "essi incitarono",
+                    "loro hanno incitato",
+                    "essi hanno incitato",
+                    "loro ebbero incitato",
+                    "essi ebbero incitato",
+                    "loro eccitarono",
+                    "essi eccitarono",
+                    "loro hanno eccitato",
+                    "essi hanno eccitato",
+                    "loro ebbero eccitato",
+                    "essi ebbero eccitato",
+                    "loro allettarono",
+                    "essi allettarono",
+                    "loro hanno allettato",
+                    "essi hanno allettato",
+                    "loro ebbero allettato",
+                    "essi ebbero allettato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invitavĕram",
+                "traduzioni": [
+                    "io avevo ospitato",
+                    "io avevo ricevuto",
+                    "io avevo incitato",
+                    "io avevo eccitato",
+                    "io avevo allettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invitavĕras",
+                "traduzioni": [
+                    "tu avevi ospitato",
+                    "tu avevi ricevuto",
+                    "tu avevi incitato",
+                    "tu avevi eccitato",
+                    "tu avevi allettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invitavĕrat",
+                "traduzioni": [
+                    "lui aveva ospitato",
+                    "lei aveva ospitato",
+                    "egli aveva ospitato",
+                    "lui aveva ricevuto",
+                    "lei aveva ricevuto",
+                    "egli aveva ricevuto",
+                    "lui aveva incitato",
+                    "lei aveva incitato",
+                    "egli aveva incitato",
+                    "lui aveva eccitato",
+                    "lei aveva eccitato",
+                    "egli aveva eccitato",
+                    "lui aveva allettato",
+                    "lei aveva allettato",
+                    "egli aveva allettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invitaverāmus",
+                "traduzioni": [
+                    "noi avevamo ospitato",
+                    "noi avevamo ricevuto",
+                    "noi avevamo incitato",
+                    "noi avevamo eccitato",
+                    "noi avevamo allettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invitaverātis",
+                "traduzioni": [
+                    "voi avevate ospitato",
+                    "voi avevate ricevuto",
+                    "voi avevate incitato",
+                    "voi avevate eccitato",
+                    "voi avevate allettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invitavĕrant",
+                "traduzioni": [
+                    "loro avevano ospitato",
+                    "essi avevano ospitato",
+                    "loro avevano ricevuto",
+                    "essi avevano ricevuto",
+                    "loro avevano incitato",
+                    "essi avevano incitato",
+                    "loro avevano eccitato",
+                    "essi avevano eccitato",
+                    "loro avevano allettato",
+                    "essi avevano allettato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "invitavĕro",
+                "traduzioni": [
+                    "io avrò ospitato",
+                    "io avrò ricevuto",
+                    "io avrò incitato",
+                    "io avrò eccitato",
+                    "io avrò allettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invitavĕris",
+                "traduzioni": [
+                    "tu avrai ospitato",
+                    "tu avrai ricevuto",
+                    "tu avrai incitato",
+                    "tu avrai eccitato",
+                    "tu avrai allettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invitavĕrit",
+                "traduzioni": [
+                    "lui avrà ospitato",
+                    "lei avrà ospitato",
+                    "egli avrà ospitato",
+                    "lui avrà ricevuto",
+                    "lei avrà ricevuto",
+                    "egli avrà ricevuto",
+                    "lui avrà incitato",
+                    "lei avrà incitato",
+                    "egli avrà incitato",
+                    "lui avrà eccitato",
+                    "lei avrà eccitato",
+                    "egli avrà eccitato",
+                    "lui avrà allettato",
+                    "lei avrà allettato",
+                    "egli avrà allettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invitaverĭmus",
+                "traduzioni": [
+                    "noi avremo ospitato",
+                    "noi avremo ricevuto",
+                    "noi avremo incitato",
+                    "noi avremo eccitato",
+                    "noi avremo allettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invitaverĭtis",
+                "traduzioni": [
+                    "voi avrete ospitato",
+                    "voi avrete ricevuto",
+                    "voi avrete incitato",
+                    "voi avrete eccitato",
+                    "voi avrete allettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invitavĕrint",
+                "traduzioni": [
+                    "loro avranno ospitato",
+                    "essi avranno ospitato",
+                    "loro avranno ricevuto",
+                    "essi avranno ricevuto",
+                    "loro avranno incitato",
+                    "essi avranno incitato",
+                    "loro avranno eccitato",
+                    "essi avranno eccitato",
+                    "loro avranno allettato",
+                    "essi avranno allettato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "invītem",
+                "traduzioni": [
+                    "che io ospiti",
+                    "che io riceva",
+                    "che io inciti",
+                    "che io ecciti",
+                    "che io alletti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invītes",
+                "traduzioni": [
+                    "che tu ospiti",
+                    "che tu riceva",
+                    "che tu inciti",
+                    "che tu ecciti",
+                    "che tu alletti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invītet",
+                "traduzioni": [
+                    "che lui ospiti",
+                    "che lei ospiti",
+                    "che egli ospiti",
+                    "che lui riceva",
+                    "che lei riceva",
+                    "che egli riceva",
+                    "che lui inciti",
+                    "che lei inciti",
+                    "che egli inciti",
+                    "che lui ecciti",
+                    "che lei ecciti",
+                    "che egli ecciti",
+                    "che lui alletti",
+                    "che lei alletti",
+                    "che egli alletti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invītēmus",
+                "traduzioni": [
+                    "che noi ospitiamo",
+                    "che noi riceviamo",
+                    "che noi incitiamo",
+                    "che noi eccitiamo",
+                    "che noi allettiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invītētis",
+                "traduzioni": [
+                    "che voi ospitiate",
+                    "che voi riceviate",
+                    "che voi incitiate",
+                    "che voi eccitiate",
+                    "che voi allettiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invītent",
+                "traduzioni": [
+                    "che loro ospitino",
+                    "che essi ospitino",
+                    "che loro ricevano",
+                    "che essi ricevano",
+                    "che loro incitino",
+                    "che essi incitino",
+                    "che loro eccitino",
+                    "che essi eccitino",
+                    "che loro allettino",
+                    "che essi allettino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invītārem",
+                "traduzioni": [
+                    "che io ospitassi",
+                    "che io ricevessi",
+                    "che io incitassi",
+                    "che io eccitassi",
+                    "che io allettassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invītāres",
+                "traduzioni": [
+                    "che tu ospitassi",
+                    "che tu ricevessi",
+                    "che tu incitassi",
+                    "che tu eccitassi",
+                    "che tu allettassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invītāret",
+                "traduzioni": [
+                    "che lui ospitasse",
+                    "che lei ospitasse",
+                    "che egli ospitasse",
+                    "che lui ricevesse",
+                    "che lei ricevesse",
+                    "che egli ricevesse",
+                    "che lui incitasse",
+                    "che lei incitasse",
+                    "che egli incitasse",
+                    "che lui eccitasse",
+                    "che lei eccitasse",
+                    "che egli eccitasse",
+                    "che lui allettasse",
+                    "che lei allettasse",
+                    "che egli allettasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invītarēmus",
+                "traduzioni": [
+                    "che noi ospitassimo",
+                    "che noi ricevessimo",
+                    "che noi incitassimo",
+                    "che noi eccitassimo",
+                    "che noi allettassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invītarētis",
+                "traduzioni": [
+                    "che voi ospitaste",
+                    "che voi riceveste",
+                    "che voi incitaste",
+                    "che voi eccitaste",
+                    "che voi allettaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invītārent",
+                "traduzioni": [
+                    "che loro ospitassero",
+                    "che essi ospitassero",
+                    "che loro ricevessero",
+                    "che essi ricevessero",
+                    "che loro incitassero",
+                    "che essi incitassero",
+                    "che loro eccitassero",
+                    "che essi eccitassero",
+                    "che loro allettassero",
+                    "che essi allettassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invitavĕrim",
+                "traduzioni": [
+                    "che io abbia ospitato",
+                    "che io abbia ricevuto",
+                    "che io abbia incitato",
+                    "che io abbia eccitato",
+                    "che io abbia allettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invitavĕris",
+                "traduzioni": [
+                    "che tu abbia ospitato",
+                    "che tu abbia ricevuto",
+                    "che tu abbia incitato",
+                    "che tu abbia eccitato",
+                    "che tu abbia allettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invitavĕrit",
+                "traduzioni": [
+                    "che lui abbia ospitato",
+                    "che lei abbia ospitato",
+                    "che egli abbia ospitato",
+                    "che lui abbia ricevuto",
+                    "che lei abbia ricevuto",
+                    "che egli abbia ricevuto",
+                    "che lui abbia incitato",
+                    "che lei abbia incitato",
+                    "che egli abbia incitato",
+                    "che lui abbia eccitato",
+                    "che lei abbia eccitato",
+                    "che egli abbia eccitato",
+                    "che lui abbia allettato",
+                    "che lei abbia allettato",
+                    "che egli abbia allettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invitaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo ospitato",
+                    "che noi abbiamo ricevuto",
+                    "che noi abbiamo incitato",
+                    "che noi abbiamo eccitato",
+                    "che noi abbiamo allettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invitaverĭtis, invītassitis",
+                "traduzioni": [
+                    "che voi abbiate ospitato",
+                    "che voi abbiate ricevuto",
+                    "che voi abbiate incitato",
+                    "che voi abbiate eccitato",
+                    "che voi abbiate allettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invitavĕrint",
+                "traduzioni": [
+                    "che loro abbiano ospitato",
+                    "che essi abbiano ospitato",
+                    "che loro abbiano ricevuto",
+                    "che essi abbiano ricevuto",
+                    "che loro abbiano incitato",
+                    "che essi abbiano incitato",
+                    "che loro abbiano eccitato",
+                    "che essi abbiano eccitato",
+                    "che loro abbiano allettato",
+                    "che essi abbiano allettato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "invitavissem",
+                "traduzioni": [
+                    "che io avessi ospitato",
+                    "che io avessi ricevuto",
+                    "che io avessi incitato",
+                    "che io avessi eccitato",
+                    "che io avessi allettato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "invitavisses",
+                "traduzioni": [
+                    "che tu avessi ospitato",
+                    "che tu avessi ricevuto",
+                    "che tu avessi incitato",
+                    "che tu avessi eccitato",
+                    "che tu avessi allettato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "invitavisset",
+                "traduzioni": [
+                    "che lui avesse ospitato",
+                    "che lei avesse ospitato",
+                    "che egli avesse ospitato",
+                    "che lui avesse ricevuto",
+                    "che lei avesse ricevuto",
+                    "che egli avesse ricevuto",
+                    "che lui avesse incitato",
+                    "che lei avesse incitato",
+                    "che egli avesse incitato",
+                    "che lui avesse eccitato",
+                    "che lei avesse eccitato",
+                    "che egli avesse eccitato",
+                    "che lui avesse allettato",
+                    "che lei avesse allettato",
+                    "che egli avesse allettato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "invitavissēmus",
+                "traduzioni": [
+                    "che noi avessimo ospitato",
+                    "che noi avessimo ricevuto",
+                    "che noi avessimo incitato",
+                    "che noi avessimo eccitato",
+                    "che noi avessimo allettato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "invitavissētis",
+                "traduzioni": [
+                    "che voi aveste ospitato",
+                    "che voi aveste ricevuto",
+                    "che voi aveste incitato",
+                    "che voi aveste eccitato",
+                    "che voi aveste allettato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "invitavissent",
+                "traduzioni": [
+                    "che loro avessero ospitato",
+                    "che essi avessero ospitato",
+                    "che loro avessero ricevuto",
+                    "che essi avessero ricevuto",
+                    "che loro avessero incitato",
+                    "che essi avessero incitato",
+                    "che loro avessero eccitato",
+                    "che essi avessero eccitato",
+                    "che loro avessero allettato",
+                    "che essi avessero allettato"
+                ]
+            }
+        ]
+    }
+}

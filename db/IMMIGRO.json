@@ -1,0 +1,644 @@
+{
+    "identifier": "IMMIGRO",
+    "conuigazione": "1",
+    "translation": [
+        "traslocare",
+        "andare a abitare",
+        "(in senso figurato) entrare",
+        "penetrare"
+    ],
+    "valid_translations": [
+        "traslocare",
+        "penetrare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "immĭgro",
+                "traduzioni": [
+                    "io trasloco",
+                    "io penetro"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immĭgras",
+                "traduzioni": [
+                    "tu traslochi",
+                    "tu penetri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immĭgrat",
+                "traduzioni": [
+                    "lui trasloca",
+                    "lei trasloca",
+                    "egli trasloca",
+                    "lui penetra",
+                    "lei penetra",
+                    "egli penetra"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immĭgrāmus",
+                "traduzioni": [
+                    "noi traslochiamo",
+                    "noi penetriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immĭgrātis",
+                "traduzioni": [
+                    "voi traslocate",
+                    "voi penetrate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immĭgrant",
+                "traduzioni": [
+                    "loro traslocano",
+                    "essi traslocano",
+                    "loro penetrano",
+                    "essi penetrano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "immĭgrābam",
+                "traduzioni": [
+                    "io traslocavo",
+                    "io penetravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immĭgrābas",
+                "traduzioni": [
+                    "tu traslocavi",
+                    "tu penetravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immĭgrābat",
+                "traduzioni": [
+                    "lui traslocava",
+                    "lei traslocava",
+                    "egli traslocava",
+                    "lui penetrava",
+                    "lei penetrava",
+                    "egli penetrava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immĭgrabāmus",
+                "traduzioni": [
+                    "noi traslocavamo",
+                    "noi penetravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immĭgrabātis",
+                "traduzioni": [
+                    "voi traslocavate",
+                    "voi penetravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immĭgrābant",
+                "traduzioni": [
+                    "loro traslocavano",
+                    "essi traslocavano",
+                    "loro penetravano",
+                    "essi penetravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "immĭgrābo",
+                "traduzioni": [
+                    "io traslocherò",
+                    "io penetrerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immĭgrābis",
+                "traduzioni": [
+                    "tu traslocherai",
+                    "tu penetrerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immĭgrābit",
+                "traduzioni": [
+                    "lui traslocherà",
+                    "lei traslocherà",
+                    "egli traslocherà",
+                    "lui penetrerà",
+                    "lei penetrerà",
+                    "egli penetrerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immĭgrabĭmus",
+                "traduzioni": [
+                    "noi traslocheremo",
+                    "noi penetreremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immĭgrabĭtis",
+                "traduzioni": [
+                    "voi traslocherete",
+                    "voi penetrerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immĭgrābunt",
+                "traduzioni": [
+                    "loro traslocheranno",
+                    "essi traslocheranno",
+                    "loro penetreranno",
+                    "essi penetreranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "immigravi",
+                "traduzioni": [
+                    "io traslocai",
+                    "io ho traslocato",
+                    "io ebbi traslocato",
+                    "io penetrai",
+                    "io sono penetrato",
+                    "io sono penetrata",
+                    "io fui penetrato",
+                    "io fui penetrata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immigravisti",
+                "traduzioni": [
+                    "tu traslocasti",
+                    "tu hai traslocato",
+                    "tu avesti traslocato",
+                    "tu penetrasti",
+                    "tu sei penetrato",
+                    "tu sei penetrata",
+                    "tu fosti penetrato",
+                    "tu fosti penetrata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immigravit",
+                "traduzioni": [
+                    "lui traslocò",
+                    "lei traslocò",
+                    "egli traslocò",
+                    "lui ha traslocato",
+                    "lei ha traslocato",
+                    "egli ha traslocato",
+                    "lui ebbe traslocato",
+                    "lei ebbe traslocato",
+                    "egli ebbe traslocato",
+                    "lui penetrò",
+                    "lei penetrò",
+                    "egli penetrò",
+                    "lui è penetrato",
+                    "lei è penetrata",
+                    "egli è penetrato",
+                    "lui fu penetrato",
+                    "lei fu penetrata",
+                    "egli fu penetrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immigravĭmus",
+                "traduzioni": [
+                    "noi traslocammo",
+                    "noi abbiamo traslocato",
+                    "noi avemmo traslocato",
+                    "noi penetrammo",
+                    "noi siamo penetrati",
+                    "noi siamo penetrate",
+                    "noi fummo penetrati",
+                    "noi fummo penetrate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immigravistis",
+                "traduzioni": [
+                    "voi traslocaste",
+                    "voi avete traslocato",
+                    "voi aveste traslocato",
+                    "voi penetraste",
+                    "voi siete penetrati",
+                    "voi siete penetrate",
+                    "voi foste penetrati",
+                    "voi foste penetrate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immigravērunt, immigravēre",
+                "traduzioni": [
+                    "loro traslocarono",
+                    "essi traslocarono",
+                    "loro hanno traslocato",
+                    "essi hanno traslocato",
+                    "loro ebbero traslocato",
+                    "essi ebbero traslocato",
+                    "loro penetrarono",
+                    "essi penetrarono",
+                    "loro sono penetrati",
+                    "loro sono penetrate",
+                    "essi sono penetrati",
+                    "loro furono penetrati",
+                    "loro furono penetrate",
+                    "essi furono penetrati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "immigravĕram",
+                "traduzioni": [
+                    "io avevo traslocato",
+                    "io ero penetrato",
+                    "io ero penetrata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immigravĕras",
+                "traduzioni": [
+                    "tu avevi traslocato",
+                    "tu eri penetrato",
+                    "tu eri penetrata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immigravĕrat",
+                "traduzioni": [
+                    "lui aveva traslocato",
+                    "lei aveva traslocato",
+                    "egli aveva traslocato",
+                    "lui era penetrato",
+                    "lei era penetrata",
+                    "egli era penetrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immigraverāmus",
+                "traduzioni": [
+                    "noi avevamo traslocato",
+                    "noi eravamo penetrati",
+                    "noi eravamo penetrate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immigraverātis",
+                "traduzioni": [
+                    "voi avevate traslocato",
+                    "voi eravate penetrati",
+                    "voi eravate penetrate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immigravĕrant",
+                "traduzioni": [
+                    "loro avevano traslocato",
+                    "essi avevano traslocato",
+                    "loro erano penetrati",
+                    "loro erano penetrate",
+                    "essi erano penetrati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "immigravĕro",
+                "traduzioni": [
+                    "io avrò traslocato",
+                    "io sarò penetrato",
+                    "io sarò penetrata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immigravĕris",
+                "traduzioni": [
+                    "tu avrai traslocato",
+                    "tu sarai penetrato",
+                    "tu sarai penetrata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immigravĕrit",
+                "traduzioni": [
+                    "lui avrà traslocato",
+                    "lei avrà traslocato",
+                    "egli avrà traslocato",
+                    "lui sarà penetrato",
+                    "lei sarà penetrata",
+                    "egli sarà penetrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immigraverĭmus",
+                "traduzioni": [
+                    "noi avremo traslocato",
+                    "noi saremo penetrati",
+                    "noi saremo penetrate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immigraverĭtis",
+                "traduzioni": [
+                    "voi avrete traslocato",
+                    "voi sarete penetrati",
+                    "voi sarete penetrate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immigravĕrint",
+                "traduzioni": [
+                    "loro avranno traslocato",
+                    "essi avranno traslocato",
+                    "loro saranno penetrati",
+                    "loro saranno penetrate",
+                    "essi saranno penetrati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "immĭgrem",
+                "traduzioni": [
+                    "che io traslochi",
+                    "che io penetri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immĭgres",
+                "traduzioni": [
+                    "che tu traslochi",
+                    "che tu penetri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immĭgret",
+                "traduzioni": [
+                    "che lui traslochi",
+                    "che lei traslochi",
+                    "che egli traslochi",
+                    "che lui penetri",
+                    "che lei penetri",
+                    "che egli penetri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immĭgrēmus",
+                "traduzioni": [
+                    "che noi traslochiamo",
+                    "che noi penetriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immĭgrētis",
+                "traduzioni": [
+                    "che voi traslochiate",
+                    "che voi penetriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immĭgrent",
+                "traduzioni": [
+                    "che loro traslochino",
+                    "che essi traslochino",
+                    "che loro penetrino",
+                    "che essi penetrino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "immĭgrārem",
+                "traduzioni": [
+                    "che io traslocassi",
+                    "che io penetrassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immĭgrāres",
+                "traduzioni": [
+                    "che tu traslocassi",
+                    "che tu penetrassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immĭgrāret",
+                "traduzioni": [
+                    "che lui traslocasse",
+                    "che lei traslocasse",
+                    "che egli traslocasse",
+                    "che lui penetrasse",
+                    "che lei penetrasse",
+                    "che egli penetrasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immĭgrarēmus",
+                "traduzioni": [
+                    "che noi traslocassimo",
+                    "che noi penetrassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immĭgrarētis",
+                "traduzioni": [
+                    "che voi traslocaste",
+                    "che voi penetraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immĭgrārent",
+                "traduzioni": [
+                    "che loro traslocassero",
+                    "che essi traslocassero",
+                    "che loro penetrassero",
+                    "che essi penetrassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "immigravĕrim",
+                "traduzioni": [
+                    "che io abbia traslocato",
+                    "che io sia penetrato",
+                    "che io sia penetrata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immigravĕris",
+                "traduzioni": [
+                    "che tu abbia traslocato",
+                    "che tu sia penetrato",
+                    "che tu sia penetrata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immigravĕrit",
+                "traduzioni": [
+                    "che lui abbia traslocato",
+                    "che lei abbia traslocato",
+                    "che egli abbia traslocato",
+                    "che lui sia penetrato",
+                    "che lei sia penetrata",
+                    "che egli sia penetrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immigraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo traslocato",
+                    "che noi siamo penetrati",
+                    "che noi siamo penetrate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immigraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate traslocato",
+                    "che voi siate penetrati",
+                    "che voi siate penetrate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immigravĕrint",
+                "traduzioni": [
+                    "che loro abbiano traslocato",
+                    "che essi abbiano traslocato",
+                    "che loro siano penetrati",
+                    "che loro siano penetrate",
+                    "che essi siano penetrati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "immigravissem",
+                "traduzioni": [
+                    "che io avessi traslocato",
+                    "che io fossi penetrato",
+                    "che io fossi penetrata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "immigravisses",
+                "traduzioni": [
+                    "che tu avessi traslocato",
+                    "che tu fossi penetrato",
+                    "che tu fossi penetrata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "immigravisset",
+                "traduzioni": [
+                    "che lui avesse traslocato",
+                    "che lei avesse traslocato",
+                    "che egli avesse traslocato",
+                    "che lui fosse penetrato",
+                    "che lei fosse penetrata",
+                    "che egli fosse penetrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "immigravissēmus",
+                "traduzioni": [
+                    "che noi avessimo traslocato",
+                    "che noi fossimo penetrati",
+                    "che noi fossimo penetrate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "immigravissētis",
+                "traduzioni": [
+                    "che voi aveste traslocato",
+                    "che voi foste penetrati",
+                    "che voi foste penetrate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "immigravissent",
+                "traduzioni": [
+                    "che loro avessero traslocato",
+                    "che essi avessero traslocato",
+                    "che loro fossero penetrati",
+                    "che loro fossero penetrate",
+                    "che essi fossero penetrati"
+                ]
+            }
+        ]
+    }
+}

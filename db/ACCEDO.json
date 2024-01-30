@@ -1,0 +1,1256 @@
+{
+    "identifier": "ACCEDO",
+    "conuigazione": "3",
+    "translation": [
+        "(in + accusativo) accedere",
+        "andare",
+        "giungere",
+        "assalire",
+        "(ad + accusativo o dativo) aderire",
+        "acconsentire",
+        "partecipare",
+        "(in + accusativo) venire",
+        "assomigliare",
+        "(transitivo) avvicinare",
+        "accostare"
+    ],
+    "valid_translations": [
+        "andare",
+        "giungere",
+        "assalire",
+        "acconsentire",
+        "partecipare",
+        "assomigliare",
+        "accostare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "accēdo",
+                "traduzioni": [
+                    "io vado",
+                    "io giungo",
+                    "io assalgo",
+                    "io acconsento",
+                    "io partecipo",
+                    "io assomiglio",
+                    "io accosto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accēdis",
+                "traduzioni": [
+                    "tu vai",
+                    "tu giungi",
+                    "tu assali",
+                    "tu acconsenti",
+                    "tu partecipi",
+                    "tu assomigli",
+                    "tu accosti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accēdit",
+                "traduzioni": [
+                    "lui va",
+                    "lei va",
+                    "egli va",
+                    "lui giunge",
+                    "lei giunge",
+                    "egli giunge",
+                    "lui assale",
+                    "lei assale",
+                    "egli assale",
+                    "lui acconsente",
+                    "lei acconsente",
+                    "egli acconsente",
+                    "lui partecipa",
+                    "lei partecipa",
+                    "egli partecipa",
+                    "lui assomiglia",
+                    "lei assomiglia",
+                    "egli assomiglia",
+                    "lui accosta",
+                    "lei accosta",
+                    "egli accosta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accēdĭmus",
+                "traduzioni": [
+                    "noi andiamo",
+                    "noi giungiamo",
+                    "noi assaliamo",
+                    "noi acconsentiamo",
+                    "noi partecipiamo",
+                    "noi assomigliamo",
+                    "noi accostiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accēdĭtis",
+                "traduzioni": [
+                    "voi andate",
+                    "voi giungete",
+                    "voi assalite",
+                    "voi acconsentite",
+                    "voi partecipate",
+                    "voi assomigliate",
+                    "voi accostate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accēdunt",
+                "traduzioni": [
+                    "loro vanno",
+                    "essi vanno",
+                    "loro giungono",
+                    "essi giungono",
+                    "loro assalgono",
+                    "essi assalgono",
+                    "loro acconsentono",
+                    "essi acconsentono",
+                    "loro partecipano",
+                    "essi partecipano",
+                    "loro assomigliano",
+                    "essi assomigliano",
+                    "loro accostano",
+                    "essi accostano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "accēdēbam",
+                "traduzioni": [
+                    "io andavo",
+                    "io giungevo",
+                    "io assalivo",
+                    "io acconsentivo",
+                    "io partecipavo",
+                    "io assomigliavo",
+                    "io accostavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accēdēbas",
+                "traduzioni": [
+                    "tu andavi",
+                    "tu giungevi",
+                    "tu assalivi",
+                    "tu acconsentivi",
+                    "tu partecipavi",
+                    "tu assomigliavi",
+                    "tu accostavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accēdēbat",
+                "traduzioni": [
+                    "lui andava",
+                    "lei andava",
+                    "egli andava",
+                    "lui giungeva",
+                    "lei giungeva",
+                    "egli giungeva",
+                    "lui assaliva",
+                    "lei assaliva",
+                    "egli assaliva",
+                    "lui acconsentiva",
+                    "lei acconsentiva",
+                    "egli acconsentiva",
+                    "lui partecipava",
+                    "lei partecipava",
+                    "egli partecipava",
+                    "lui assomigliava",
+                    "lei assomigliava",
+                    "egli assomigliava",
+                    "lui accostava",
+                    "lei accostava",
+                    "egli accostava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accēdebāmus",
+                "traduzioni": [
+                    "noi andavamo",
+                    "noi giungevamo",
+                    "noi assalivamo",
+                    "noi acconsentivamo",
+                    "noi partecipavamo",
+                    "noi assomigliavamo",
+                    "noi accostavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accēdebātis",
+                "traduzioni": [
+                    "voi andavate",
+                    "voi giungevate",
+                    "voi assalivate",
+                    "voi acconsentivate",
+                    "voi partecipavate",
+                    "voi assomigliavate",
+                    "voi accostavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accēdēbant",
+                "traduzioni": [
+                    "loro andavano",
+                    "essi andavano",
+                    "loro giungevano",
+                    "essi giungevano",
+                    "loro assalivano",
+                    "essi assalivano",
+                    "loro acconsentivano",
+                    "essi acconsentivano",
+                    "loro partecipavano",
+                    "essi partecipavano",
+                    "loro assomigliavano",
+                    "essi assomigliavano",
+                    "loro accostavano",
+                    "essi accostavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "accēdam",
+                "traduzioni": [
+                    "io andrò",
+                    "io giungerò",
+                    "io assalirò",
+                    "io acconsentirò",
+                    "io parteciperò",
+                    "io assomiglierò",
+                    "io accosterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accēdes",
+                "traduzioni": [
+                    "tu andrai",
+                    "tu giungerai",
+                    "tu assalirai",
+                    "tu acconsentirai",
+                    "tu parteciperai",
+                    "tu assomiglierai",
+                    "tu accosterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accēdet",
+                "traduzioni": [
+                    "lui andrà",
+                    "lei andrà",
+                    "egli andrà",
+                    "lui giungerà",
+                    "lei giungerà",
+                    "egli giungerà",
+                    "lui assalirà",
+                    "lei assalirà",
+                    "egli assalirà",
+                    "lui acconsentirà",
+                    "lei acconsentirà",
+                    "egli acconsentirà",
+                    "lui parteciperà",
+                    "lei parteciperà",
+                    "egli parteciperà",
+                    "lui assomiglierà",
+                    "lei assomiglierà",
+                    "egli assomiglierà",
+                    "lui accosterà",
+                    "lei accosterà",
+                    "egli accosterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accēdēmus",
+                "traduzioni": [
+                    "noi andremo",
+                    "noi giungeremo",
+                    "noi assaliremo",
+                    "noi acconsentiremo",
+                    "noi parteciperemo",
+                    "noi assomiglieremo",
+                    "noi accosteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accēdētis",
+                "traduzioni": [
+                    "voi andrete",
+                    "voi giungerete",
+                    "voi assalirete",
+                    "voi acconsentirete",
+                    "voi parteciperete",
+                    "voi assomiglierete",
+                    "voi accosterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accēdent",
+                "traduzioni": [
+                    "loro andranno",
+                    "essi andranno",
+                    "loro giungeranno",
+                    "essi giungeranno",
+                    "loro assaliranno",
+                    "essi assaliranno",
+                    "loro acconsentiranno",
+                    "essi acconsentiranno",
+                    "loro parteciperanno",
+                    "essi parteciperanno",
+                    "loro assomiglieranno",
+                    "essi assomiglieranno",
+                    "loro accosteranno",
+                    "essi accosteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "accessi",
+                "traduzioni": [
+                    "io andai",
+                    "io sono andato",
+                    "io sono andata",
+                    "io fui andato",
+                    "io fui andata",
+                    "io giunsi",
+                    "io sono giunto",
+                    "io sono giunta",
+                    "io fui giunto",
+                    "io fui giunta",
+                    "io assalii",
+                    "io ho assalito",
+                    "io ebbi assalito",
+                    "io acconsentii",
+                    "io ho acconsentito",
+                    "io ebbi acconsentito",
+                    "io partecipai",
+                    "io ho partecipato",
+                    "io ebbi partecipato",
+                    "io assomigliai",
+                    "io sono assomigliato",
+                    "io sono assomigliata",
+                    "io fui assomigliato",
+                    "io fui assomigliata",
+                    "io accostai",
+                    "io ho accostato",
+                    "io ebbi accostato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accessisti, accestis",
+                "traduzioni": [
+                    "tu andasti",
+                    "tu sei andato",
+                    "tu sei andata",
+                    "tu fosti andato",
+                    "tu fosti andata",
+                    "tu giungesti",
+                    "tu sei giunto",
+                    "tu sei giunta",
+                    "tu fosti giunto",
+                    "tu fosti giunta",
+                    "tu assalisti",
+                    "tu hai assalito",
+                    "tu avesti assalito",
+                    "tu acconsentisti",
+                    "tu hai acconsentito",
+                    "tu avesti acconsentito",
+                    "tu partecipasti",
+                    "tu hai partecipato",
+                    "tu avesti partecipato",
+                    "tu assomigliasti",
+                    "tu sei assomigliato",
+                    "tu sei assomigliata",
+                    "tu fosti assomigliato",
+                    "tu fosti assomigliata",
+                    "tu accostasti",
+                    "tu hai accostato",
+                    "tu avesti accostato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accessit",
+                "traduzioni": [
+                    "lui andò",
+                    "lei andò",
+                    "egli andò",
+                    "lui è andato",
+                    "lei è andata",
+                    "egli è andato",
+                    "lui fu andato",
+                    "lei fu andata",
+                    "egli fu andato",
+                    "lui giunse",
+                    "lei giunse",
+                    "egli giunse",
+                    "lui è giunto",
+                    "lei è giunta",
+                    "egli è giunto",
+                    "lui fu giunto",
+                    "lei fu giunta",
+                    "egli fu giunto",
+                    "lui assalì",
+                    "lei assalì",
+                    "egli assalì",
+                    "lui ha assalito",
+                    "lei ha assalito",
+                    "egli ha assalito",
+                    "lui ebbe assalito",
+                    "lei ebbe assalito",
+                    "egli ebbe assalito",
+                    "lui acconsentì",
+                    "lei acconsentì",
+                    "egli acconsentì",
+                    "lui ha acconsentito",
+                    "lei ha acconsentito",
+                    "egli ha acconsentito",
+                    "lui ebbe acconsentito",
+                    "lei ebbe acconsentito",
+                    "egli ebbe acconsentito",
+                    "lui partecipò",
+                    "lei partecipò",
+                    "egli partecipò",
+                    "lui ha partecipato",
+                    "lei ha partecipato",
+                    "egli ha partecipato",
+                    "lui ebbe partecipato",
+                    "lei ebbe partecipato",
+                    "egli ebbe partecipato",
+                    "lui assomigliò",
+                    "lei assomigliò",
+                    "egli assomigliò",
+                    "lui è assomigliato",
+                    "lei è assomigliata",
+                    "egli è assomigliato",
+                    "lui fu assomigliato",
+                    "lei fu assomigliata",
+                    "egli fu assomigliato",
+                    "lui accostò",
+                    "lei accostò",
+                    "egli accostò",
+                    "lui ha accostato",
+                    "lei ha accostato",
+                    "egli ha accostato",
+                    "lui ebbe accostato",
+                    "lei ebbe accostato",
+                    "egli ebbe accostato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accessĭmus",
+                "traduzioni": [
+                    "noi andammo",
+                    "noi siamo andati",
+                    "noi siamo andate",
+                    "noi fummo andati",
+                    "noi fummo andate",
+                    "noi giungemmo",
+                    "noi siamo giunti",
+                    "noi siamo giunte",
+                    "noi fummo giunti",
+                    "noi fummo giunte",
+                    "noi assalimmo",
+                    "noi abbiamo assalito",
+                    "noi avemmo assalito",
+                    "noi acconsentimmo",
+                    "noi abbiamo acconsentito",
+                    "noi avemmo acconsentito",
+                    "noi partecipammo",
+                    "noi abbiamo partecipato",
+                    "noi avemmo partecipato",
+                    "noi assomigliammo",
+                    "noi siamo assomigliati",
+                    "noi siamo assomigliate",
+                    "noi fummo assomigliati",
+                    "noi fummo assomigliate",
+                    "noi accostammo",
+                    "noi abbiamo accostato",
+                    "noi avemmo accostato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accessistis",
+                "traduzioni": [
+                    "voi andaste",
+                    "voi siete andati",
+                    "voi siete andate",
+                    "voi foste andati",
+                    "voi foste andate",
+                    "voi giungeste",
+                    "voi siete giunti",
+                    "voi siete giunte",
+                    "voi foste giunti",
+                    "voi foste giunte",
+                    "voi assaliste",
+                    "voi avete assalito",
+                    "voi aveste assalito",
+                    "voi acconsentiste",
+                    "voi avete acconsentito",
+                    "voi aveste acconsentito",
+                    "voi partecipaste",
+                    "voi avete partecipato",
+                    "voi aveste partecipato",
+                    "voi assomigliaste",
+                    "voi siete assomigliati",
+                    "voi siete assomigliate",
+                    "voi foste assomigliati",
+                    "voi foste assomigliate",
+                    "voi accostaste",
+                    "voi avete accostato",
+                    "voi aveste accostato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accessērunt, accessēre",
+                "traduzioni": [
+                    "loro andarono",
+                    "essi andarono",
+                    "loro sono andati",
+                    "loro sono andate",
+                    "essi sono andati",
+                    "loro furono andati",
+                    "loro furono andate",
+                    "essi furono andati",
+                    "loro giunsero",
+                    "essi giunsero",
+                    "loro sono giunti",
+                    "loro sono giunte",
+                    "essi sono giunti",
+                    "loro furono giunti",
+                    "loro furono giunte",
+                    "essi furono giunti",
+                    "loro assalirono",
+                    "essi assalirono",
+                    "loro hanno assalito",
+                    "essi hanno assalito",
+                    "loro ebbero assalito",
+                    "essi ebbero assalito",
+                    "loro acconsentirono",
+                    "essi acconsentirono",
+                    "loro hanno acconsentito",
+                    "essi hanno acconsentito",
+                    "loro ebbero acconsentito",
+                    "essi ebbero acconsentito",
+                    "loro parteciparono",
+                    "essi parteciparono",
+                    "loro hanno partecipato",
+                    "essi hanno partecipato",
+                    "loro ebbero partecipato",
+                    "essi ebbero partecipato",
+                    "loro assomigliarono",
+                    "essi assomigliarono",
+                    "loro sono assomigliati",
+                    "loro sono assomigliate",
+                    "essi sono assomigliati",
+                    "loro furono assomigliati",
+                    "loro furono assomigliate",
+                    "essi furono assomigliati",
+                    "loro accostarono",
+                    "essi accostarono",
+                    "loro hanno accostato",
+                    "essi hanno accostato",
+                    "loro ebbero accostato",
+                    "essi ebbero accostato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "accessĕram",
+                "traduzioni": [
+                    "io ero andato",
+                    "io ero andata",
+                    "io ero giunto",
+                    "io ero giunta",
+                    "io avevo assalito",
+                    "io avevo acconsentito",
+                    "io avevo partecipato",
+                    "io ero assomigliato",
+                    "io ero assomigliata",
+                    "io avevo accostato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accessĕras",
+                "traduzioni": [
+                    "tu eri andato",
+                    "tu eri andata",
+                    "tu eri giunto",
+                    "tu eri giunta",
+                    "tu avevi assalito",
+                    "tu avevi acconsentito",
+                    "tu avevi partecipato",
+                    "tu eri assomigliato",
+                    "tu eri assomigliata",
+                    "tu avevi accostato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accessĕrat",
+                "traduzioni": [
+                    "lui era andato",
+                    "lei era andata",
+                    "egli era andato",
+                    "lui era giunto",
+                    "lei era giunta",
+                    "egli era giunto",
+                    "lui aveva assalito",
+                    "lei aveva assalito",
+                    "egli aveva assalito",
+                    "lui aveva acconsentito",
+                    "lei aveva acconsentito",
+                    "egli aveva acconsentito",
+                    "lui aveva partecipato",
+                    "lei aveva partecipato",
+                    "egli aveva partecipato",
+                    "lui era assomigliato",
+                    "lei era assomigliata",
+                    "egli era assomigliato",
+                    "lui aveva accostato",
+                    "lei aveva accostato",
+                    "egli aveva accostato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accesserāmus",
+                "traduzioni": [
+                    "noi eravamo andati",
+                    "noi eravamo andate",
+                    "noi eravamo giunti",
+                    "noi eravamo giunte",
+                    "noi avevamo assalito",
+                    "noi avevamo acconsentito",
+                    "noi avevamo partecipato",
+                    "noi eravamo assomigliati",
+                    "noi eravamo assomigliate",
+                    "noi avevamo accostato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accesserātis",
+                "traduzioni": [
+                    "voi eravate andati",
+                    "voi eravate andate",
+                    "voi eravate giunti",
+                    "voi eravate giunte",
+                    "voi avevate assalito",
+                    "voi avevate acconsentito",
+                    "voi avevate partecipato",
+                    "voi eravate assomigliati",
+                    "voi eravate assomigliate",
+                    "voi avevate accostato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accessĕrant",
+                "traduzioni": [
+                    "loro erano andati",
+                    "loro erano andate",
+                    "essi erano andati",
+                    "loro erano giunti",
+                    "loro erano giunte",
+                    "essi erano giunti",
+                    "loro avevano assalito",
+                    "essi avevano assalito",
+                    "loro avevano acconsentito",
+                    "essi avevano acconsentito",
+                    "loro avevano partecipato",
+                    "essi avevano partecipato",
+                    "loro erano assomigliati",
+                    "loro erano assomigliate",
+                    "essi erano assomigliati",
+                    "loro avevano accostato",
+                    "essi avevano accostato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "accessĕro",
+                "traduzioni": [
+                    "io sarò andato",
+                    "io sarò andata",
+                    "io sarò giunto",
+                    "io sarò giunta",
+                    "io avrò assalito",
+                    "io avrò acconsentito",
+                    "io avrò partecipato",
+                    "io sarò assomigliato",
+                    "io sarò assomigliata",
+                    "io avrò accostato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accessĕris",
+                "traduzioni": [
+                    "tu sarai andato",
+                    "tu sarai andata",
+                    "tu sarai giunto",
+                    "tu sarai giunta",
+                    "tu avrai assalito",
+                    "tu avrai acconsentito",
+                    "tu avrai partecipato",
+                    "tu sarai assomigliato",
+                    "tu sarai assomigliata",
+                    "tu avrai accostato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accessĕrit",
+                "traduzioni": [
+                    "lui sarà andato",
+                    "lei sarà andata",
+                    "egli sarà andato",
+                    "lui sarà giunto",
+                    "lei sarà giunta",
+                    "egli sarà giunto",
+                    "lui avrà assalito",
+                    "lei avrà assalito",
+                    "egli avrà assalito",
+                    "lui avrà acconsentito",
+                    "lei avrà acconsentito",
+                    "egli avrà acconsentito",
+                    "lui avrà partecipato",
+                    "lei avrà partecipato",
+                    "egli avrà partecipato",
+                    "lui sarà assomigliato",
+                    "lei sarà assomigliata",
+                    "egli sarà assomigliato",
+                    "lui avrà accostato",
+                    "lei avrà accostato",
+                    "egli avrà accostato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accesserĭmus",
+                "traduzioni": [
+                    "noi saremo andati",
+                    "noi saremo andate",
+                    "noi saremo giunti",
+                    "noi saremo giunte",
+                    "noi avremo assalito",
+                    "noi avremo acconsentito",
+                    "noi avremo partecipato",
+                    "noi saremo assomigliati",
+                    "noi saremo assomigliate",
+                    "noi avremo accostato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accesserĭtis",
+                "traduzioni": [
+                    "voi sarete andati",
+                    "voi sarete andate",
+                    "voi sarete giunti",
+                    "voi sarete giunte",
+                    "voi avrete assalito",
+                    "voi avrete acconsentito",
+                    "voi avrete partecipato",
+                    "voi sarete assomigliati",
+                    "voi sarete assomigliate",
+                    "voi avrete accostato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accessĕrint",
+                "traduzioni": [
+                    "loro saranno andati",
+                    "loro saranno andate",
+                    "essi saranno andati",
+                    "loro saranno giunti",
+                    "loro saranno giunte",
+                    "essi saranno giunti",
+                    "loro avranno assalito",
+                    "essi avranno assalito",
+                    "loro avranno acconsentito",
+                    "essi avranno acconsentito",
+                    "loro avranno partecipato",
+                    "essi avranno partecipato",
+                    "loro saranno assomigliati",
+                    "loro saranno assomigliate",
+                    "essi saranno assomigliati",
+                    "loro avranno accostato",
+                    "essi avranno accostato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "accēdam",
+                "traduzioni": [
+                    "che io vada",
+                    "che io giunga",
+                    "che io assalga",
+                    "che io acconsenta",
+                    "che io partecipi",
+                    "che io assomigli",
+                    "che io accosti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accēdas",
+                "traduzioni": [
+                    "che tu vada",
+                    "che tu giunga",
+                    "che tu assalga",
+                    "che tu acconsenta",
+                    "che tu partecipi",
+                    "che tu assomigli",
+                    "che tu accosti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accēdat",
+                "traduzioni": [
+                    "che lui vada",
+                    "che lei vada",
+                    "che egli vada",
+                    "che lui giunga",
+                    "che lei giunga",
+                    "che egli giunga",
+                    "che lui assalga",
+                    "che lei assalga",
+                    "che egli assalga",
+                    "che lui acconsenta",
+                    "che lei acconsenta",
+                    "che egli acconsenta",
+                    "che lui partecipi",
+                    "che lei partecipi",
+                    "che egli partecipi",
+                    "che lui assomigli",
+                    "che lei assomigli",
+                    "che egli assomigli",
+                    "che lui accosti",
+                    "che lei accosti",
+                    "che egli accosti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accēdāmus",
+                "traduzioni": [
+                    "che noi andiamo",
+                    "che noi giungiamo",
+                    "che noi assaliamo",
+                    "che noi acconsentiamo",
+                    "che noi partecipiamo",
+                    "che noi assomigliamo",
+                    "che noi accostiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accēdātis",
+                "traduzioni": [
+                    "che voi andiate",
+                    "che voi giungiate",
+                    "che voi assaliate",
+                    "che voi acconsentiate",
+                    "che voi partecipiate",
+                    "che voi assomigliate",
+                    "che voi accostiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accēdant",
+                "traduzioni": [
+                    "che loro vadano",
+                    "che essi vadano",
+                    "che loro giungano",
+                    "che essi giungano",
+                    "che loro assalgano",
+                    "che essi assalgano",
+                    "che loro acconsentano",
+                    "che essi acconsentano",
+                    "che loro partecipino",
+                    "che essi partecipino",
+                    "che loro assomiglino",
+                    "che essi assomiglino",
+                    "che loro accostino",
+                    "che essi accostino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "accēdĕrem",
+                "traduzioni": [
+                    "che io andassi",
+                    "che io giungessi",
+                    "che io assalissi",
+                    "che io acconsentissi",
+                    "che io partecipassi",
+                    "che io assomigliassi",
+                    "che io accostassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accēdĕres",
+                "traduzioni": [
+                    "che tu andassi",
+                    "che tu giungessi",
+                    "che tu assalissi",
+                    "che tu acconsentissi",
+                    "che tu partecipassi",
+                    "che tu assomigliassi",
+                    "che tu accostassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accēdĕret",
+                "traduzioni": [
+                    "che lui andasse",
+                    "che lei andasse",
+                    "che egli andasse",
+                    "che lui giungesse",
+                    "che lei giungesse",
+                    "che egli giungesse",
+                    "che lui assalisse",
+                    "che lei assalisse",
+                    "che egli assalisse",
+                    "che lui acconsentisse",
+                    "che lei acconsentisse",
+                    "che egli acconsentisse",
+                    "che lui partecipasse",
+                    "che lei partecipasse",
+                    "che egli partecipasse",
+                    "che lui assomigliasse",
+                    "che lei assomigliasse",
+                    "che egli assomigliasse",
+                    "che lui accostasse",
+                    "che lei accostasse",
+                    "che egli accostasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accēderēmus",
+                "traduzioni": [
+                    "che noi andassimo",
+                    "che noi giungessimo",
+                    "che noi assalissimo",
+                    "che noi acconsentissimo",
+                    "che noi partecipassimo",
+                    "che noi assomigliassimo",
+                    "che noi accostassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accēderētis",
+                "traduzioni": [
+                    "che voi andaste",
+                    "che voi giungeste",
+                    "che voi assaliste",
+                    "che voi acconsentiste",
+                    "che voi partecipaste",
+                    "che voi assomigliaste",
+                    "che voi accostaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accēdĕrent",
+                "traduzioni": [
+                    "che loro andassero",
+                    "che essi andassero",
+                    "che loro giungessero",
+                    "che essi giungessero",
+                    "che loro assalissero",
+                    "che essi assalissero",
+                    "che loro acconsentissero",
+                    "che essi acconsentissero",
+                    "che loro partecipassero",
+                    "che essi partecipassero",
+                    "che loro assomigliassero",
+                    "che essi assomigliassero",
+                    "che loro accostassero",
+                    "che essi accostassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "accessĕrim",
+                "traduzioni": [
+                    "che io sia andato",
+                    "che io sia andata",
+                    "che io sia giunto",
+                    "che io sia giunta",
+                    "che io abbia assalito",
+                    "che io abbia acconsentito",
+                    "che io abbia partecipato",
+                    "che io sia assomigliato",
+                    "che io sia assomigliata",
+                    "che io abbia accostato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accessĕris",
+                "traduzioni": [
+                    "che tu sia andato",
+                    "che tu sia andata",
+                    "che tu sia giunto",
+                    "che tu sia giunta",
+                    "che tu abbia assalito",
+                    "che tu abbia acconsentito",
+                    "che tu abbia partecipato",
+                    "che tu sia assomigliato",
+                    "che tu sia assomigliata",
+                    "che tu abbia accostato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accessĕrit",
+                "traduzioni": [
+                    "che lui sia andato",
+                    "che lei sia andata",
+                    "che egli sia andato",
+                    "che lui sia giunto",
+                    "che lei sia giunta",
+                    "che egli sia giunto",
+                    "che lui abbia assalito",
+                    "che lei abbia assalito",
+                    "che egli abbia assalito",
+                    "che lui abbia acconsentito",
+                    "che lei abbia acconsentito",
+                    "che egli abbia acconsentito",
+                    "che lui abbia partecipato",
+                    "che lei abbia partecipato",
+                    "che egli abbia partecipato",
+                    "che lui sia assomigliato",
+                    "che lei sia assomigliata",
+                    "che egli sia assomigliato",
+                    "che lui abbia accostato",
+                    "che lei abbia accostato",
+                    "che egli abbia accostato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accesserĭmus",
+                "traduzioni": [
+                    "che noi siamo andati",
+                    "che noi siamo andate",
+                    "che noi siamo giunti",
+                    "che noi siamo giunte",
+                    "che noi abbiamo assalito",
+                    "che noi abbiamo acconsentito",
+                    "che noi abbiamo partecipato",
+                    "che noi siamo assomigliati",
+                    "che noi siamo assomigliate",
+                    "che noi abbiamo accostato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accesserĭtis",
+                "traduzioni": [
+                    "che voi siate andati",
+                    "che voi siate andate",
+                    "che voi siate giunti",
+                    "che voi siate giunte",
+                    "che voi abbiate assalito",
+                    "che voi abbiate acconsentito",
+                    "che voi abbiate partecipato",
+                    "che voi siate assomigliati",
+                    "che voi siate assomigliate",
+                    "che voi abbiate accostato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accessĕrint",
+                "traduzioni": [
+                    "che loro siano andati",
+                    "che loro siano andate",
+                    "che essi siano andati",
+                    "che loro siano giunti",
+                    "che loro siano giunte",
+                    "che essi siano giunti",
+                    "che loro abbiano assalito",
+                    "che essi abbiano assalito",
+                    "che loro abbiano acconsentito",
+                    "che essi abbiano acconsentito",
+                    "che loro abbiano partecipato",
+                    "che essi abbiano partecipato",
+                    "che loro siano assomigliati",
+                    "che loro siano assomigliate",
+                    "che essi siano assomigliati",
+                    "che loro abbiano accostato",
+                    "che essi abbiano accostato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "accessissem",
+                "traduzioni": [
+                    "che io fossi andato",
+                    "che io fossi andata",
+                    "che io fossi giunto",
+                    "che io fossi giunta",
+                    "che io avessi assalito",
+                    "che io avessi acconsentito",
+                    "che io avessi partecipato",
+                    "che io fossi assomigliato",
+                    "che io fossi assomigliata",
+                    "che io avessi accostato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accessisses",
+                "traduzioni": [
+                    "che tu fossi andato",
+                    "che tu fossi andata",
+                    "che tu fossi giunto",
+                    "che tu fossi giunta",
+                    "che tu avessi assalito",
+                    "che tu avessi acconsentito",
+                    "che tu avessi partecipato",
+                    "che tu fossi assomigliato",
+                    "che tu fossi assomigliata",
+                    "che tu avessi accostato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accessisset",
+                "traduzioni": [
+                    "che lui fosse andato",
+                    "che lei fosse andata",
+                    "che egli fosse andato",
+                    "che lui fosse giunto",
+                    "che lei fosse giunta",
+                    "che egli fosse giunto",
+                    "che lui avesse assalito",
+                    "che lei avesse assalito",
+                    "che egli avesse assalito",
+                    "che lui avesse acconsentito",
+                    "che lei avesse acconsentito",
+                    "che egli avesse acconsentito",
+                    "che lui avesse partecipato",
+                    "che lei avesse partecipato",
+                    "che egli avesse partecipato",
+                    "che lui fosse assomigliato",
+                    "che lei fosse assomigliata",
+                    "che egli fosse assomigliato",
+                    "che lui avesse accostato",
+                    "che lei avesse accostato",
+                    "che egli avesse accostato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accessissēmus",
+                "traduzioni": [
+                    "che noi fossimo andati",
+                    "che noi fossimo andate",
+                    "che noi fossimo giunti",
+                    "che noi fossimo giunte",
+                    "che noi avessimo assalito",
+                    "che noi avessimo acconsentito",
+                    "che noi avessimo partecipato",
+                    "che noi fossimo assomigliati",
+                    "che noi fossimo assomigliate",
+                    "che noi avessimo accostato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accessissētis",
+                "traduzioni": [
+                    "che voi foste andati",
+                    "che voi foste andate",
+                    "che voi foste giunti",
+                    "che voi foste giunte",
+                    "che voi aveste assalito",
+                    "che voi aveste acconsentito",
+                    "che voi aveste partecipato",
+                    "che voi foste assomigliati",
+                    "che voi foste assomigliate",
+                    "che voi aveste accostato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accessissent",
+                "traduzioni": [
+                    "che loro fossero andati",
+                    "che loro fossero andate",
+                    "che essi fossero andati",
+                    "che loro fossero giunti",
+                    "che loro fossero giunte",
+                    "che essi fossero giunti",
+                    "che loro avessero assalito",
+                    "che essi avessero assalito",
+                    "che loro avessero acconsentito",
+                    "che essi avessero acconsentito",
+                    "che loro avessero partecipato",
+                    "che essi avessero partecipato",
+                    "che loro fossero assomigliati",
+                    "che loro fossero assomigliate",
+                    "che essi fossero assomigliati",
+                    "che loro avessero accostato",
+                    "che essi avessero accostato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,832 @@
+{
+    "identifier": "EVINCIO",
+    "conuigazione": "4",
+    "translation": [
+        "avvincere",
+        "cingere",
+        "circondare",
+        "legare"
+    ],
+    "valid_translations": [
+        "avvincere",
+        "cingere",
+        "circondare",
+        "legare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēvincĭo",
+                "traduzioni": [
+                    "io avvinco",
+                    "io cingo",
+                    "io circondo",
+                    "io lego"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēvincis",
+                "traduzioni": [
+                    "tu avvinci",
+                    "tu cingi",
+                    "tu circondi",
+                    "tu leghi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēvincit",
+                "traduzioni": [
+                    "lui avvince",
+                    "lei avvince",
+                    "egli avvince",
+                    "lui cinge",
+                    "lei cinge",
+                    "egli cinge",
+                    "lui circonda",
+                    "lei circonda",
+                    "egli circonda",
+                    "lui lega",
+                    "lei lega",
+                    "egli lega"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēvincīmus",
+                "traduzioni": [
+                    "noi avvinciamo",
+                    "noi cingiamo",
+                    "noi circondiamo",
+                    "noi leghiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēvincītis",
+                "traduzioni": [
+                    "voi avvincete",
+                    "voi cingete",
+                    "voi circondate",
+                    "voi legate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēvincĭunt",
+                "traduzioni": [
+                    "loro avvincono",
+                    "essi avvincono",
+                    "loro cingono",
+                    "essi cingono",
+                    "loro circondano",
+                    "essi circondano",
+                    "loro legano",
+                    "essi legano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēvinciēbam",
+                "traduzioni": [
+                    "io avvincevo",
+                    "io cingevo",
+                    "io circondavo",
+                    "io legavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēvinciēbas",
+                "traduzioni": [
+                    "tu avvincevi",
+                    "tu cingevi",
+                    "tu circondavi",
+                    "tu legavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēvinciēbat",
+                "traduzioni": [
+                    "lui avvinceva",
+                    "lei avvinceva",
+                    "egli avvinceva",
+                    "lui cingeva",
+                    "lei cingeva",
+                    "egli cingeva",
+                    "lui circondava",
+                    "lei circondava",
+                    "egli circondava",
+                    "lui legava",
+                    "lei legava",
+                    "egli legava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēvinciebāmus",
+                "traduzioni": [
+                    "noi avvincevamo",
+                    "noi cingevamo",
+                    "noi circondavamo",
+                    "noi legavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēvinciebātis",
+                "traduzioni": [
+                    "voi avvincevate",
+                    "voi cingevate",
+                    "voi circondavate",
+                    "voi legavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēvinciēbant",
+                "traduzioni": [
+                    "loro avvincevano",
+                    "essi avvincevano",
+                    "loro cingevano",
+                    "essi cingevano",
+                    "loro circondavano",
+                    "essi circondavano",
+                    "loro legavano",
+                    "essi legavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēvincĭam",
+                "traduzioni": [
+                    "io avvincerò",
+                    "io cingerò",
+                    "io circonderò",
+                    "io legherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēvincĭes",
+                "traduzioni": [
+                    "tu avvincerai",
+                    "tu cingerai",
+                    "tu circonderai",
+                    "tu legherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēvincĭet",
+                "traduzioni": [
+                    "lui avvincerà",
+                    "lei avvincerà",
+                    "egli avvincerà",
+                    "lui cingerà",
+                    "lei cingerà",
+                    "egli cingerà",
+                    "lui circonderà",
+                    "lei circonderà",
+                    "egli circonderà",
+                    "lui legherà",
+                    "lei legherà",
+                    "egli legherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēvinciēmus",
+                "traduzioni": [
+                    "noi avvinceremo",
+                    "noi cingeremo",
+                    "noi circonderemo",
+                    "noi legheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēvinciētis",
+                "traduzioni": [
+                    "voi avvincerete",
+                    "voi cingerete",
+                    "voi circonderete",
+                    "voi legherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēvincĭent",
+                "traduzioni": [
+                    "loro avvinceranno",
+                    "essi avvinceranno",
+                    "loro cingeranno",
+                    "essi cingeranno",
+                    "loro circonderanno",
+                    "essi circonderanno",
+                    "loro legheranno",
+                    "essi legheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "evinxi",
+                "traduzioni": [
+                    "io avvinsi",
+                    "io ho avvinto",
+                    "io ebbi avvinto",
+                    "io cinsi",
+                    "io ho cinto",
+                    "io ebbi cinto",
+                    "io circondai",
+                    "io ho circondato",
+                    "io ebbi circondato",
+                    "io legai",
+                    "io ho legato",
+                    "io ebbi legato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "evinxisti",
+                "traduzioni": [
+                    "tu avvincesti",
+                    "tu hai avvinto",
+                    "tu avesti avvinto",
+                    "tu cingesti",
+                    "tu hai cinto",
+                    "tu avesti cinto",
+                    "tu circondasti",
+                    "tu hai circondato",
+                    "tu avesti circondato",
+                    "tu legasti",
+                    "tu hai legato",
+                    "tu avesti legato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "evinxit",
+                "traduzioni": [
+                    "lui avvinse",
+                    "lei avvinse",
+                    "egli avvinse",
+                    "lui ha avvinto",
+                    "lei ha avvinto",
+                    "egli ha avvinto",
+                    "lui ebbe avvinto",
+                    "lei ebbe avvinto",
+                    "egli ebbe avvinto",
+                    "lui cinse",
+                    "lei cinse",
+                    "egli cinse",
+                    "lui ha cinto",
+                    "lei ha cinto",
+                    "egli ha cinto",
+                    "lui ebbe cinto",
+                    "lei ebbe cinto",
+                    "egli ebbe cinto",
+                    "lui circondò",
+                    "lei circondò",
+                    "egli circondò",
+                    "lui ha circondato",
+                    "lei ha circondato",
+                    "egli ha circondato",
+                    "lui ebbe circondato",
+                    "lei ebbe circondato",
+                    "egli ebbe circondato",
+                    "lui legò",
+                    "lei legò",
+                    "egli legò",
+                    "lui ha legato",
+                    "lei ha legato",
+                    "egli ha legato",
+                    "lui ebbe legato",
+                    "lei ebbe legato",
+                    "egli ebbe legato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "evinxĭmus",
+                "traduzioni": [
+                    "noi avvincemmo",
+                    "noi abbiamo avvinto",
+                    "noi avemmo avvinto",
+                    "noi cingemmo",
+                    "noi abbiamo cinto",
+                    "noi avemmo cinto",
+                    "noi circondammo",
+                    "noi abbiamo circondato",
+                    "noi avemmo circondato",
+                    "noi legammo",
+                    "noi abbiamo legato",
+                    "noi avemmo legato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "evinxistis",
+                "traduzioni": [
+                    "voi avvinceste",
+                    "voi avete avvinto",
+                    "voi aveste avvinto",
+                    "voi cingeste",
+                    "voi avete cinto",
+                    "voi aveste cinto",
+                    "voi circondaste",
+                    "voi avete circondato",
+                    "voi aveste circondato",
+                    "voi legaste",
+                    "voi avete legato",
+                    "voi aveste legato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "!5!ērunt, evinxēre",
+                "traduzioni": [
+                    "loro avvinsero",
+                    "essi avvinsero",
+                    "loro hanno avvinto",
+                    "essi hanno avvinto",
+                    "loro ebbero avvinto",
+                    "essi ebbero avvinto",
+                    "loro cinsero",
+                    "essi cinsero",
+                    "loro hanno cinto",
+                    "essi hanno cinto",
+                    "loro ebbero cinto",
+                    "essi ebbero cinto",
+                    "loro circondarono",
+                    "essi circondarono",
+                    "loro hanno circondato",
+                    "essi hanno circondato",
+                    "loro ebbero circondato",
+                    "essi ebbero circondato",
+                    "loro legarono",
+                    "essi legarono",
+                    "loro hanno legato",
+                    "essi hanno legato",
+                    "loro ebbero legato",
+                    "essi ebbero legato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "evinxĕram",
+                "traduzioni": [
+                    "io avevo avvinto",
+                    "io avevo cinto",
+                    "io avevo circondato",
+                    "io avevo legato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "evinxĕras",
+                "traduzioni": [
+                    "tu avevi avvinto",
+                    "tu avevi cinto",
+                    "tu avevi circondato",
+                    "tu avevi legato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "evinxĕrat",
+                "traduzioni": [
+                    "lui aveva avvinto",
+                    "lei aveva avvinto",
+                    "egli aveva avvinto",
+                    "lui aveva cinto",
+                    "lei aveva cinto",
+                    "egli aveva cinto",
+                    "lui aveva circondato",
+                    "lei aveva circondato",
+                    "egli aveva circondato",
+                    "lui aveva legato",
+                    "lei aveva legato",
+                    "egli aveva legato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "evinxerāmus",
+                "traduzioni": [
+                    "noi avevamo avvinto",
+                    "noi avevamo cinto",
+                    "noi avevamo circondato",
+                    "noi avevamo legato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "evinxerātis",
+                "traduzioni": [
+                    "voi avevate avvinto",
+                    "voi avevate cinto",
+                    "voi avevate circondato",
+                    "voi avevate legato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "evinxĕrant",
+                "traduzioni": [
+                    "loro avevano avvinto",
+                    "essi avevano avvinto",
+                    "loro avevano cinto",
+                    "essi avevano cinto",
+                    "loro avevano circondato",
+                    "essi avevano circondato",
+                    "loro avevano legato",
+                    "essi avevano legato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "evinxĕro",
+                "traduzioni": [
+                    "io avrò avvinto",
+                    "io avrò cinto",
+                    "io avrò circondato",
+                    "io avrò legato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "evinxĕris",
+                "traduzioni": [
+                    "tu avrai avvinto",
+                    "tu avrai cinto",
+                    "tu avrai circondato",
+                    "tu avrai legato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "evinxĕrit",
+                "traduzioni": [
+                    "lui avrà avvinto",
+                    "lei avrà avvinto",
+                    "egli avrà avvinto",
+                    "lui avrà cinto",
+                    "lei avrà cinto",
+                    "egli avrà cinto",
+                    "lui avrà circondato",
+                    "lei avrà circondato",
+                    "egli avrà circondato",
+                    "lui avrà legato",
+                    "lei avrà legato",
+                    "egli avrà legato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "evinxerĭmus",
+                "traduzioni": [
+                    "noi avremo avvinto",
+                    "noi avremo cinto",
+                    "noi avremo circondato",
+                    "noi avremo legato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "evinxerĭtis",
+                "traduzioni": [
+                    "voi avrete avvinto",
+                    "voi avrete cinto",
+                    "voi avrete circondato",
+                    "voi avrete legato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "evinxĕrint",
+                "traduzioni": [
+                    "loro avranno avvinto",
+                    "essi avranno avvinto",
+                    "loro avranno cinto",
+                    "essi avranno cinto",
+                    "loro avranno circondato",
+                    "essi avranno circondato",
+                    "loro avranno legato",
+                    "essi avranno legato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēvincĭam",
+                "traduzioni": [
+                    "che io avvinca",
+                    "che io cinga",
+                    "che io circondi",
+                    "che io leghi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēvincĭas",
+                "traduzioni": [
+                    "che tu avvinca",
+                    "che tu cinga",
+                    "che tu circondi",
+                    "che tu leghi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēvincĭat",
+                "traduzioni": [
+                    "che lui avvinca",
+                    "che lei avvinca",
+                    "che egli avvinca",
+                    "che lui cinga",
+                    "che lei cinga",
+                    "che egli cinga",
+                    "che lui circondi",
+                    "che lei circondi",
+                    "che egli circondi",
+                    "che lui leghi",
+                    "che lei leghi",
+                    "che egli leghi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēvinciāmus",
+                "traduzioni": [
+                    "che noi avvinciamo",
+                    "che noi cingiamo",
+                    "che noi circondiamo",
+                    "che noi leghiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēvinciātis",
+                "traduzioni": [
+                    "che voi avvinciate",
+                    "che voi cingiate",
+                    "che voi circondiate",
+                    "che voi leghiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēvincĭant",
+                "traduzioni": [
+                    "che loro avvincano",
+                    "che essi avvincano",
+                    "che loro cingano",
+                    "che essi cingano",
+                    "che loro circondino",
+                    "che essi circondino",
+                    "che loro leghino",
+                    "che essi leghino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēvincīrem",
+                "traduzioni": [
+                    "che io avvincessi",
+                    "che io cingessi",
+                    "che io circondassi",
+                    "che io legassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēvincīres",
+                "traduzioni": [
+                    "che tu avvincessi",
+                    "che tu cingessi",
+                    "che tu circondassi",
+                    "che tu legassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēvincīret",
+                "traduzioni": [
+                    "che lui avvincesse",
+                    "che lei avvincesse",
+                    "che egli avvincesse",
+                    "che lui cingesse",
+                    "che lei cingesse",
+                    "che egli cingesse",
+                    "che lui circondasse",
+                    "che lei circondasse",
+                    "che egli circondasse",
+                    "che lui legasse",
+                    "che lei legasse",
+                    "che egli legasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēvincirēmus",
+                "traduzioni": [
+                    "che noi avvincessimo",
+                    "che noi cingessimo",
+                    "che noi circondassimo",
+                    "che noi legassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēvincirētis",
+                "traduzioni": [
+                    "che voi avvinceste",
+                    "che voi cingeste",
+                    "che voi circondaste",
+                    "che voi legaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēvincīrent",
+                "traduzioni": [
+                    "che loro avvincessero",
+                    "che essi avvincessero",
+                    "che loro cingessero",
+                    "che essi cingessero",
+                    "che loro circondassero",
+                    "che essi circondassero",
+                    "che loro legassero",
+                    "che essi legassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "evinxĕrim",
+                "traduzioni": [
+                    "che io abbia avvinto",
+                    "che io abbia cinto",
+                    "che io abbia circondato",
+                    "che io abbia legato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "evinxĕris",
+                "traduzioni": [
+                    "che tu abbia avvinto",
+                    "che tu abbia cinto",
+                    "che tu abbia circondato",
+                    "che tu abbia legato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "evinxĕrit",
+                "traduzioni": [
+                    "che lui abbia avvinto",
+                    "che lei abbia avvinto",
+                    "che egli abbia avvinto",
+                    "che lui abbia cinto",
+                    "che lei abbia cinto",
+                    "che egli abbia cinto",
+                    "che lui abbia circondato",
+                    "che lei abbia circondato",
+                    "che egli abbia circondato",
+                    "che lui abbia legato",
+                    "che lei abbia legato",
+                    "che egli abbia legato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "evinxerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo avvinto",
+                    "che noi abbiamo cinto",
+                    "che noi abbiamo circondato",
+                    "che noi abbiamo legato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "evinxerĭtis",
+                "traduzioni": [
+                    "che voi abbiate avvinto",
+                    "che voi abbiate cinto",
+                    "che voi abbiate circondato",
+                    "che voi abbiate legato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "evinxĕrint",
+                "traduzioni": [
+                    "che loro abbiano avvinto",
+                    "che essi abbiano avvinto",
+                    "che loro abbiano cinto",
+                    "che essi abbiano cinto",
+                    "che loro abbiano circondato",
+                    "che essi abbiano circondato",
+                    "che loro abbiano legato",
+                    "che essi abbiano legato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "evinxissem",
+                "traduzioni": [
+                    "che io avessi avvinto",
+                    "che io avessi cinto",
+                    "che io avessi circondato",
+                    "che io avessi legato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "evinxisses",
+                "traduzioni": [
+                    "che tu avessi avvinto",
+                    "che tu avessi cinto",
+                    "che tu avessi circondato",
+                    "che tu avessi legato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "evinxisset",
+                "traduzioni": [
+                    "che lui avesse avvinto",
+                    "che lei avesse avvinto",
+                    "che egli avesse avvinto",
+                    "che lui avesse cinto",
+                    "che lei avesse cinto",
+                    "che egli avesse cinto",
+                    "che lui avesse circondato",
+                    "che lei avesse circondato",
+                    "che egli avesse circondato",
+                    "che lui avesse legato",
+                    "che lei avesse legato",
+                    "che egli avesse legato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "evinxissēmus",
+                "traduzioni": [
+                    "che noi avessimo avvinto",
+                    "che noi avessimo cinto",
+                    "che noi avessimo circondato",
+                    "che noi avessimo legato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "evinxissētis",
+                "traduzioni": [
+                    "che voi aveste avvinto",
+                    "che voi aveste cinto",
+                    "che voi aveste circondato",
+                    "che voi aveste legato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "evinxissent",
+                "traduzioni": [
+                    "che loro avessero avvinto",
+                    "che essi avessero avvinto",
+                    "che loro avessero cinto",
+                    "che essi avessero cinto",
+                    "che loro avessero circondato",
+                    "che essi avessero circondato",
+                    "che loro avessero legato",
+                    "che essi avessero legato"
+                ]
+            }
+        ]
+    }
+}

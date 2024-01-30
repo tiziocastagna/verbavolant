@@ -1,0 +1,730 @@
+{
+    "identifier": "RENUDO",
+    "conuigazione": "1",
+    "translation": [
+        "scoprire",
+        "svestire",
+        "spogliare",
+        "fare vedere",
+        "(in senso figurato) aprire"
+    ],
+    "valid_translations": [
+        "scoprire",
+        "svestire",
+        "spogliare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕnūdo",
+                "traduzioni": [
+                    "io scopro",
+                    "io svesto",
+                    "io spoglio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕnūdas",
+                "traduzioni": [
+                    "tu scopri",
+                    "tu svesti",
+                    "tu spogli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕnūdat",
+                "traduzioni": [
+                    "lui scopre",
+                    "lei scopre",
+                    "egli scopre",
+                    "lui sveste",
+                    "lei sveste",
+                    "egli sveste",
+                    "lui spoglia",
+                    "lei spoglia",
+                    "egli spoglia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕnūdāmus",
+                "traduzioni": [
+                    "noi scopriamo",
+                    "noi svestiamo",
+                    "noi spogliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕnūdātis",
+                "traduzioni": [
+                    "voi scoprite",
+                    "voi svestite",
+                    "voi spogliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕnūdant",
+                "traduzioni": [
+                    "loro scoprono",
+                    "essi scoprono",
+                    "loro svestono",
+                    "essi svestono",
+                    "loro spogliano",
+                    "essi spogliano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕnūdābam",
+                "traduzioni": [
+                    "io scoprivo",
+                    "io svestivo",
+                    "io spogliavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕnūdābas",
+                "traduzioni": [
+                    "tu scoprivi",
+                    "tu svestivi",
+                    "tu spogliavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕnūdābat",
+                "traduzioni": [
+                    "lui scopriva",
+                    "lei scopriva",
+                    "egli scopriva",
+                    "lui svestiva",
+                    "lei svestiva",
+                    "egli svestiva",
+                    "lui spogliava",
+                    "lei spogliava",
+                    "egli spogliava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕnūdabāmus",
+                "traduzioni": [
+                    "noi scoprivamo",
+                    "noi svestivamo",
+                    "noi spogliavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕnūdabātis",
+                "traduzioni": [
+                    "voi scoprivate",
+                    "voi svestivate",
+                    "voi spogliavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕnūdābant",
+                "traduzioni": [
+                    "loro scoprivano",
+                    "essi scoprivano",
+                    "loro svestivano",
+                    "essi svestivano",
+                    "loro spogliavano",
+                    "essi spogliavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕnūdābo",
+                "traduzioni": [
+                    "io scoprirò",
+                    "io svestirò",
+                    "io spoglierò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕnūdābis",
+                "traduzioni": [
+                    "tu scoprirai",
+                    "tu svestirai",
+                    "tu spoglierai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕnūdābit",
+                "traduzioni": [
+                    "lui scoprirà",
+                    "lei scoprirà",
+                    "egli scoprirà",
+                    "lui svestirà",
+                    "lei svestirà",
+                    "egli svestirà",
+                    "lui spoglierà",
+                    "lei spoglierà",
+                    "egli spoglierà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕnūdabĭmus",
+                "traduzioni": [
+                    "noi scopriremo",
+                    "noi svestiremo",
+                    "noi spoglieremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕnūdabĭtis",
+                "traduzioni": [
+                    "voi scoprirete",
+                    "voi svestirete",
+                    "voi spoglierete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕnūdābunt",
+                "traduzioni": [
+                    "loro scopriranno",
+                    "essi scopriranno",
+                    "loro svestiranno",
+                    "essi svestiranno",
+                    "loro spoglieranno",
+                    "essi spoglieranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "renudavi",
+                "traduzioni": [
+                    "io scoprii",
+                    "io scopersi",
+                    "io ho scoperto",
+                    "io ebbi scoperto",
+                    "io svestii",
+                    "io ho svestito",
+                    "io ebbi svestito",
+                    "io spogliai",
+                    "io ho spogliato",
+                    "io ebbi spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "renudavisti",
+                "traduzioni": [
+                    "tu scopristi",
+                    "tu hai scoperto",
+                    "tu avesti scoperto",
+                    "tu svestisti",
+                    "tu hai svestito",
+                    "tu avesti svestito",
+                    "tu spogliasti",
+                    "tu hai spogliato",
+                    "tu avesti spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "renudavit",
+                "traduzioni": [
+                    "lui scoprì",
+                    "lei scoprì",
+                    "egli scoprì",
+                    "lui scoperse",
+                    "lei scoperse",
+                    "egli scoperse",
+                    "lui ha scoperto",
+                    "lei ha scoperto",
+                    "egli ha scoperto",
+                    "lui ebbe scoperto",
+                    "lei ebbe scoperto",
+                    "egli ebbe scoperto",
+                    "lui svestì",
+                    "lei svestì",
+                    "egli svestì",
+                    "lui ha svestito",
+                    "lei ha svestito",
+                    "egli ha svestito",
+                    "lui ebbe svestito",
+                    "lei ebbe svestito",
+                    "egli ebbe svestito",
+                    "lui spogliò",
+                    "lei spogliò",
+                    "egli spogliò",
+                    "lui ha spogliato",
+                    "lei ha spogliato",
+                    "egli ha spogliato",
+                    "lui ebbe spogliato",
+                    "lei ebbe spogliato",
+                    "egli ebbe spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "renudavĭmus",
+                "traduzioni": [
+                    "noi scoprimmo",
+                    "noi abbiamo scoperto",
+                    "noi avemmo scoperto",
+                    "noi svestimmo",
+                    "noi abbiamo svestito",
+                    "noi avemmo svestito",
+                    "noi spogliammo",
+                    "noi abbiamo spogliato",
+                    "noi avemmo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "renudavistis",
+                "traduzioni": [
+                    "voi scopriste",
+                    "voi avete scoperto",
+                    "voi aveste scoperto",
+                    "voi svestiste",
+                    "voi avete svestito",
+                    "voi aveste svestito",
+                    "voi spogliaste",
+                    "voi avete spogliato",
+                    "voi aveste spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "renudavērunt, renudavēre",
+                "traduzioni": [
+                    "loro scoprirono",
+                    "essi scoprirono",
+                    "loro scopersero",
+                    "essi scopersero",
+                    "loro hanno scoperto",
+                    "essi hanno scoperto",
+                    "loro ebbero scoperto",
+                    "essi ebbero scoperto",
+                    "loro svestirono",
+                    "essi svestirono",
+                    "loro hanno svestito",
+                    "essi hanno svestito",
+                    "loro ebbero svestito",
+                    "essi ebbero svestito",
+                    "loro spogliarono",
+                    "essi spogliarono",
+                    "loro hanno spogliato",
+                    "essi hanno spogliato",
+                    "loro ebbero spogliato",
+                    "essi ebbero spogliato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "renudavĕram",
+                "traduzioni": [
+                    "io avevo scoperto",
+                    "io avevo svestito",
+                    "io avevo spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "renudavĕras",
+                "traduzioni": [
+                    "tu avevi scoperto",
+                    "tu avevi svestito",
+                    "tu avevi spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "renudavĕrat",
+                "traduzioni": [
+                    "lui aveva scoperto",
+                    "lei aveva scoperto",
+                    "egli aveva scoperto",
+                    "lui aveva svestito",
+                    "lei aveva svestito",
+                    "egli aveva svestito",
+                    "lui aveva spogliato",
+                    "lei aveva spogliato",
+                    "egli aveva spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "renudaverāmus",
+                "traduzioni": [
+                    "noi avevamo scoperto",
+                    "noi avevamo svestito",
+                    "noi avevamo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "renudaverātis",
+                "traduzioni": [
+                    "voi avevate scoperto",
+                    "voi avevate svestito",
+                    "voi avevate spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "renudavĕrant",
+                "traduzioni": [
+                    "loro avevano scoperto",
+                    "essi avevano scoperto",
+                    "loro avevano svestito",
+                    "essi avevano svestito",
+                    "loro avevano spogliato",
+                    "essi avevano spogliato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "renudavĕro",
+                "traduzioni": [
+                    "io avrò scoperto",
+                    "io avrò svestito",
+                    "io avrò spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "renudavĕris",
+                "traduzioni": [
+                    "tu avrai scoperto",
+                    "tu avrai svestito",
+                    "tu avrai spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "renudavĕrit",
+                "traduzioni": [
+                    "lui avrà scoperto",
+                    "lei avrà scoperto",
+                    "egli avrà scoperto",
+                    "lui avrà svestito",
+                    "lei avrà svestito",
+                    "egli avrà svestito",
+                    "lui avrà spogliato",
+                    "lei avrà spogliato",
+                    "egli avrà spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "renudaverĭmus",
+                "traduzioni": [
+                    "noi avremo scoperto",
+                    "noi avremo svestito",
+                    "noi avremo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "renudaverĭtis",
+                "traduzioni": [
+                    "voi avrete scoperto",
+                    "voi avrete svestito",
+                    "voi avrete spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "renudavĕrint",
+                "traduzioni": [
+                    "loro avranno scoperto",
+                    "essi avranno scoperto",
+                    "loro avranno svestito",
+                    "essi avranno svestito",
+                    "loro avranno spogliato",
+                    "essi avranno spogliato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕnūdem",
+                "traduzioni": [
+                    "che io scopra",
+                    "che io svesta",
+                    "che io spogli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕnūdes",
+                "traduzioni": [
+                    "che tu scopra",
+                    "che tu svesta",
+                    "che tu spogli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕnūdet",
+                "traduzioni": [
+                    "che lui scopra",
+                    "che lei scopra",
+                    "che egli scopra",
+                    "che lui svesta",
+                    "che lei svesta",
+                    "che egli svesta",
+                    "che lui spogli",
+                    "che lei spogli",
+                    "che egli spogli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕnūdēmus",
+                "traduzioni": [
+                    "che noi scopriamo",
+                    "che noi svestiamo",
+                    "che noi spogliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕnūdētis",
+                "traduzioni": [
+                    "che voi scopriate",
+                    "che voi svestiate",
+                    "che voi spogliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕnūdent",
+                "traduzioni": [
+                    "che loro scoprano",
+                    "che essi scoprano",
+                    "che loro svestano",
+                    "che essi svestano",
+                    "che loro spoglino",
+                    "che essi spoglino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕnūdārem",
+                "traduzioni": [
+                    "che io scoprissi",
+                    "che io svestissi",
+                    "che io spogliassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕnūdāres",
+                "traduzioni": [
+                    "che tu scoprissi",
+                    "che tu svestissi",
+                    "che tu spogliassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕnūdāret",
+                "traduzioni": [
+                    "che lui scoprisse",
+                    "che lei scoprisse",
+                    "che egli scoprisse",
+                    "che lui svestisse",
+                    "che lei svestisse",
+                    "che egli svestisse",
+                    "che lui spogliasse",
+                    "che lei spogliasse",
+                    "che egli spogliasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕnūdarēmus",
+                "traduzioni": [
+                    "che noi scoprissimo",
+                    "che noi svestissimo",
+                    "che noi spogliassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕnūdarētis",
+                "traduzioni": [
+                    "che voi scopriste",
+                    "che voi svestiste",
+                    "che voi spogliaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕnūdārent",
+                "traduzioni": [
+                    "che loro scoprissero",
+                    "che essi scoprissero",
+                    "che loro svestissero",
+                    "che essi svestissero",
+                    "che loro spogliassero",
+                    "che essi spogliassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "renudavĕrim",
+                "traduzioni": [
+                    "che io abbia scoperto",
+                    "che io abbia svestito",
+                    "che io abbia spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "renudavĕris",
+                "traduzioni": [
+                    "che tu abbia scoperto",
+                    "che tu abbia svestito",
+                    "che tu abbia spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "renudavĕrit",
+                "traduzioni": [
+                    "che lui abbia scoperto",
+                    "che lei abbia scoperto",
+                    "che egli abbia scoperto",
+                    "che lui abbia svestito",
+                    "che lei abbia svestito",
+                    "che egli abbia svestito",
+                    "che lui abbia spogliato",
+                    "che lei abbia spogliato",
+                    "che egli abbia spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "renudaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo scoperto",
+                    "che noi abbiamo svestito",
+                    "che noi abbiamo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "renudaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate scoperto",
+                    "che voi abbiate svestito",
+                    "che voi abbiate spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "renudavĕrint",
+                "traduzioni": [
+                    "che loro abbiano scoperto",
+                    "che essi abbiano scoperto",
+                    "che loro abbiano svestito",
+                    "che essi abbiano svestito",
+                    "che loro abbiano spogliato",
+                    "che essi abbiano spogliato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "renudavissem",
+                "traduzioni": [
+                    "che io avessi scoperto",
+                    "che io avessi svestito",
+                    "che io avessi spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "renudavisses",
+                "traduzioni": [
+                    "che tu avessi scoperto",
+                    "che tu avessi svestito",
+                    "che tu avessi spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "renudavisset",
+                "traduzioni": [
+                    "che lui avesse scoperto",
+                    "che lei avesse scoperto",
+                    "che egli avesse scoperto",
+                    "che lui avesse svestito",
+                    "che lei avesse svestito",
+                    "che egli avesse svestito",
+                    "che lui avesse spogliato",
+                    "che lei avesse spogliato",
+                    "che egli avesse spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "renudavissēmus",
+                "traduzioni": [
+                    "che noi avessimo scoperto",
+                    "che noi avessimo svestito",
+                    "che noi avessimo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "renudavissētis",
+                "traduzioni": [
+                    "che voi aveste scoperto",
+                    "che voi aveste svestito",
+                    "che voi aveste spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "renudavissent",
+                "traduzioni": [
+                    "che loro avessero scoperto",
+                    "che essi avessero scoperto",
+                    "che loro avessero svestito",
+                    "che essi avessero svestito",
+                    "che loro avessero spogliato",
+                    "che essi avessero spogliato"
+                ]
+            }
+        ]
+    }
+}

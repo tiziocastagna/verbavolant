@@ -1,0 +1,973 @@
+{
+    "identifier": "EROGO",
+    "conuigazione": "1",
+    "translation": [
+        "spendere",
+        "pagare",
+        "versare",
+        "(di acque) erogare",
+        "distribuire",
+        "uccidere"
+    ],
+    "valid_translations": [
+        "spendere",
+        "pagare",
+        "versare",
+        "distribuire",
+        "uccidere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ērŏgo",
+                "traduzioni": [
+                    "io spendo",
+                    "io pago",
+                    "io verso",
+                    "io distribuisco",
+                    "io uccido"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ērŏgas",
+                "traduzioni": [
+                    "tu spendi",
+                    "tu paghi",
+                    "tu versi",
+                    "tu distribuisci",
+                    "tu uccidi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ērŏgat",
+                "traduzioni": [
+                    "lui spende",
+                    "lei spende",
+                    "egli spende",
+                    "lui paga",
+                    "lei paga",
+                    "egli paga",
+                    "lui versa",
+                    "lei versa",
+                    "egli versa",
+                    "lui distribuisce",
+                    "lei distribuisce",
+                    "egli distribuisce",
+                    "lui uccide",
+                    "lei uccide",
+                    "egli uccide"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ērŏgāmus",
+                "traduzioni": [
+                    "noi spendiamo",
+                    "noi paghiamo",
+                    "noi versiamo",
+                    "noi distribuiamo",
+                    "noi uccidiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ērŏgātis",
+                "traduzioni": [
+                    "voi spendete",
+                    "voi pagate",
+                    "voi versate",
+                    "voi distribuite",
+                    "voi uccidete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ērŏgant",
+                "traduzioni": [
+                    "loro spendono",
+                    "essi spendono",
+                    "loro pagano",
+                    "essi pagano",
+                    "loro versano",
+                    "essi versano",
+                    "loro distribuiscono",
+                    "essi distribuiscono",
+                    "loro uccidono",
+                    "essi uccidono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ērŏgābam",
+                "traduzioni": [
+                    "io spendevo",
+                    "io pagavo",
+                    "io versavo",
+                    "io distribuivo",
+                    "io uccidevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ērŏgābas",
+                "traduzioni": [
+                    "tu spendevi",
+                    "tu pagavi",
+                    "tu versavi",
+                    "tu distribuivi",
+                    "tu uccidevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ērŏgābat",
+                "traduzioni": [
+                    "lui spendeva",
+                    "lei spendeva",
+                    "egli spendeva",
+                    "lui pagava",
+                    "lei pagava",
+                    "egli pagava",
+                    "lui versava",
+                    "lei versava",
+                    "egli versava",
+                    "lui distribuiva",
+                    "lei distribuiva",
+                    "egli distribuiva",
+                    "lui uccideva",
+                    "lei uccideva",
+                    "egli uccideva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ērŏgabāmus",
+                "traduzioni": [
+                    "noi spendevamo",
+                    "noi pagavamo",
+                    "noi versavamo",
+                    "noi distribuivamo",
+                    "noi uccidevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ērŏgabātis",
+                "traduzioni": [
+                    "voi spendevate",
+                    "voi pagavate",
+                    "voi versavate",
+                    "voi distribuivate",
+                    "voi uccidevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ērŏgābant",
+                "traduzioni": [
+                    "loro spendevano",
+                    "essi spendevano",
+                    "loro pagavano",
+                    "essi pagavano",
+                    "loro versavano",
+                    "essi versavano",
+                    "loro distribuivano",
+                    "essi distribuivano",
+                    "loro uccidevano",
+                    "essi uccidevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ērŏgābo",
+                "traduzioni": [
+                    "io spenderò",
+                    "io pagherò",
+                    "io verserò",
+                    "io distribuirò",
+                    "io ucciderò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ērŏgābis",
+                "traduzioni": [
+                    "tu spenderai",
+                    "tu pagherai",
+                    "tu verserai",
+                    "tu distribuirai",
+                    "tu ucciderai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ērŏgābit",
+                "traduzioni": [
+                    "lui spenderà",
+                    "lei spenderà",
+                    "egli spenderà",
+                    "lui pagherà",
+                    "lei pagherà",
+                    "egli pagherà",
+                    "lui verserà",
+                    "lei verserà",
+                    "egli verserà",
+                    "lui distribuirà",
+                    "lei distribuirà",
+                    "egli distribuirà",
+                    "lui ucciderà",
+                    "lei ucciderà",
+                    "egli ucciderà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ērŏgabĭmus",
+                "traduzioni": [
+                    "noi spenderemo",
+                    "noi pagheremo",
+                    "noi verseremo",
+                    "noi distribuiremo",
+                    "noi uccideremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ērŏgabĭtis",
+                "traduzioni": [
+                    "voi spenderete",
+                    "voi pagherete",
+                    "voi verserete",
+                    "voi distribuirete",
+                    "voi ucciderete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ērŏgābunt",
+                "traduzioni": [
+                    "loro spenderanno",
+                    "essi spenderanno",
+                    "loro pagheranno",
+                    "essi pagheranno",
+                    "loro verseranno",
+                    "essi verseranno",
+                    "loro distribuiranno",
+                    "essi distribuiranno",
+                    "loro uccideranno",
+                    "essi uccideranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "erogavi",
+                "traduzioni": [
+                    "io spesi",
+                    "io ho speso",
+                    "io ebbi speso",
+                    "io pagai",
+                    "io ho pagato",
+                    "io ebbi pagato",
+                    "io versai",
+                    "io sono versato",
+                    "io sono versata",
+                    "io fui versato",
+                    "io fui versata",
+                    "io distribuii",
+                    "io ho distribuito",
+                    "io ebbi distribuito",
+                    "io uccisi",
+                    "io ho ucciso",
+                    "io ebbi ucciso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "erogavisti",
+                "traduzioni": [
+                    "tu spendesti",
+                    "tu hai speso",
+                    "tu avesti speso",
+                    "tu pagasti",
+                    "tu hai pagato",
+                    "tu avesti pagato",
+                    "tu versasti",
+                    "tu sei versato",
+                    "tu sei versata",
+                    "tu fosti versato",
+                    "tu fosti versata",
+                    "tu distribuisti",
+                    "tu hai distribuito",
+                    "tu avesti distribuito",
+                    "tu uccidesti",
+                    "tu hai ucciso",
+                    "tu avesti ucciso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "erogavit",
+                "traduzioni": [
+                    "lui spese",
+                    "lei spese",
+                    "egli spese",
+                    "lui ha speso",
+                    "lei ha speso",
+                    "egli ha speso",
+                    "lui ebbe speso",
+                    "lei ebbe speso",
+                    "egli ebbe speso",
+                    "lui pagò",
+                    "lei pagò",
+                    "egli pagò",
+                    "lui ha pagato",
+                    "lei ha pagato",
+                    "egli ha pagato",
+                    "lui ebbe pagato",
+                    "lei ebbe pagato",
+                    "egli ebbe pagato",
+                    "lui versò",
+                    "lei versò",
+                    "egli versò",
+                    "lui è versato",
+                    "lei è versata",
+                    "egli è versato",
+                    "lui fu versato",
+                    "lei fu versata",
+                    "egli fu versato",
+                    "lui distribuì",
+                    "lei distribuì",
+                    "egli distribuì",
+                    "lui ha distribuito",
+                    "lei ha distribuito",
+                    "egli ha distribuito",
+                    "lui ebbe distribuito",
+                    "lei ebbe distribuito",
+                    "egli ebbe distribuito",
+                    "lui uccise",
+                    "lei uccise",
+                    "egli uccise",
+                    "lui ha ucciso",
+                    "lei ha ucciso",
+                    "egli ha ucciso",
+                    "lui ebbe ucciso",
+                    "lei ebbe ucciso",
+                    "egli ebbe ucciso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "erogavĭmus",
+                "traduzioni": [
+                    "noi spendemmo",
+                    "noi abbiamo speso",
+                    "noi avemmo speso",
+                    "noi pagammo",
+                    "noi abbiamo pagato",
+                    "noi avemmo pagato",
+                    "noi versammo",
+                    "noi siamo versati",
+                    "noi siamo versate",
+                    "noi fummo versati",
+                    "noi fummo versate",
+                    "noi distribuimmo",
+                    "noi abbiamo distribuito",
+                    "noi avemmo distribuito",
+                    "noi uccidemmo",
+                    "noi abbiamo ucciso",
+                    "noi avemmo ucciso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "erogavistis",
+                "traduzioni": [
+                    "voi spendeste",
+                    "voi avete speso",
+                    "voi aveste speso",
+                    "voi pagaste",
+                    "voi avete pagato",
+                    "voi aveste pagato",
+                    "voi versaste",
+                    "voi siete versati",
+                    "voi siete versate",
+                    "voi foste versati",
+                    "voi foste versate",
+                    "voi distribuiste",
+                    "voi avete distribuito",
+                    "voi aveste distribuito",
+                    "voi uccideste",
+                    "voi avete ucciso",
+                    "voi aveste ucciso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "erogavērunt, erogavēre",
+                "traduzioni": [
+                    "loro spesero",
+                    "essi spesero",
+                    "loro hanno speso",
+                    "essi hanno speso",
+                    "loro ebbero speso",
+                    "essi ebbero speso",
+                    "loro pagarono",
+                    "essi pagarono",
+                    "loro hanno pagato",
+                    "essi hanno pagato",
+                    "loro ebbero pagato",
+                    "essi ebbero pagato",
+                    "loro versarono",
+                    "essi versarono",
+                    "loro sono versati",
+                    "loro sono versate",
+                    "essi sono versati",
+                    "loro furono versati",
+                    "loro furono versate",
+                    "essi furono versati",
+                    "loro distribuirono",
+                    "essi distribuirono",
+                    "loro hanno distribuito",
+                    "essi hanno distribuito",
+                    "loro ebbero distribuito",
+                    "essi ebbero distribuito",
+                    "loro uccisero",
+                    "essi uccisero",
+                    "loro hanno ucciso",
+                    "essi hanno ucciso",
+                    "loro ebbero ucciso",
+                    "essi ebbero ucciso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "erogavĕram",
+                "traduzioni": [
+                    "io avevo speso",
+                    "io avevo pagato",
+                    "io ero versato",
+                    "io ero versata",
+                    "io avevo distribuito",
+                    "io avevo ucciso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "erogavĕras",
+                "traduzioni": [
+                    "tu avevi speso",
+                    "tu avevi pagato",
+                    "tu eri versato",
+                    "tu eri versata",
+                    "tu avevi distribuito",
+                    "tu avevi ucciso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "erogavĕrat",
+                "traduzioni": [
+                    "lui aveva speso",
+                    "lei aveva speso",
+                    "egli aveva speso",
+                    "lui aveva pagato",
+                    "lei aveva pagato",
+                    "egli aveva pagato",
+                    "lui era versato",
+                    "lei era versata",
+                    "egli era versato",
+                    "lui aveva distribuito",
+                    "lei aveva distribuito",
+                    "egli aveva distribuito",
+                    "lui aveva ucciso",
+                    "lei aveva ucciso",
+                    "egli aveva ucciso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "erogaverāmus",
+                "traduzioni": [
+                    "noi avevamo speso",
+                    "noi avevamo pagato",
+                    "noi eravamo versati",
+                    "noi eravamo versate",
+                    "noi avevamo distribuito",
+                    "noi avevamo ucciso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "erogaverātis",
+                "traduzioni": [
+                    "voi avevate speso",
+                    "voi avevate pagato",
+                    "voi eravate versati",
+                    "voi eravate versate",
+                    "voi avevate distribuito",
+                    "voi avevate ucciso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "erogavĕrant",
+                "traduzioni": [
+                    "loro avevano speso",
+                    "essi avevano speso",
+                    "loro avevano pagato",
+                    "essi avevano pagato",
+                    "loro erano versati",
+                    "loro erano versate",
+                    "essi erano versati",
+                    "loro avevano distribuito",
+                    "essi avevano distribuito",
+                    "loro avevano ucciso",
+                    "essi avevano ucciso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "erogavĕro",
+                "traduzioni": [
+                    "io avrò speso",
+                    "io avrò pagato",
+                    "io sarò versato",
+                    "io sarò versata",
+                    "io avrò distribuito",
+                    "io avrò ucciso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "erogavĕris",
+                "traduzioni": [
+                    "tu avrai speso",
+                    "tu avrai pagato",
+                    "tu sarai versato",
+                    "tu sarai versata",
+                    "tu avrai distribuito",
+                    "tu avrai ucciso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "erogavĕrit",
+                "traduzioni": [
+                    "lui avrà speso",
+                    "lei avrà speso",
+                    "egli avrà speso",
+                    "lui avrà pagato",
+                    "lei avrà pagato",
+                    "egli avrà pagato",
+                    "lui sarà versato",
+                    "lei sarà versata",
+                    "egli sarà versato",
+                    "lui avrà distribuito",
+                    "lei avrà distribuito",
+                    "egli avrà distribuito",
+                    "lui avrà ucciso",
+                    "lei avrà ucciso",
+                    "egli avrà ucciso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "erogaverĭmus",
+                "traduzioni": [
+                    "noi avremo speso",
+                    "noi avremo pagato",
+                    "noi saremo versati",
+                    "noi saremo versate",
+                    "noi avremo distribuito",
+                    "noi avremo ucciso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "erogaverĭtis",
+                "traduzioni": [
+                    "voi avrete speso",
+                    "voi avrete pagato",
+                    "voi sarete versati",
+                    "voi sarete versate",
+                    "voi avrete distribuito",
+                    "voi avrete ucciso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "erogavĕrint",
+                "traduzioni": [
+                    "loro avranno speso",
+                    "essi avranno speso",
+                    "loro avranno pagato",
+                    "essi avranno pagato",
+                    "loro saranno versati",
+                    "loro saranno versate",
+                    "essi saranno versati",
+                    "loro avranno distribuito",
+                    "essi avranno distribuito",
+                    "loro avranno ucciso",
+                    "essi avranno ucciso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ērŏgem",
+                "traduzioni": [
+                    "che io spenda",
+                    "che io paghi",
+                    "che io versi",
+                    "che io distribuisca",
+                    "che io uccida"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ērŏges",
+                "traduzioni": [
+                    "che tu spenda",
+                    "che tu paghi",
+                    "che tu versi",
+                    "che tu distribuisca",
+                    "che tu uccida"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ērŏget",
+                "traduzioni": [
+                    "che lui spenda",
+                    "che lei spenda",
+                    "che egli spenda",
+                    "che lui paghi",
+                    "che lei paghi",
+                    "che egli paghi",
+                    "che lui versi",
+                    "che lei versi",
+                    "che egli versi",
+                    "che lui distribuisca",
+                    "che lei distribuisca",
+                    "che egli distribuisca",
+                    "che lui uccida",
+                    "che lei uccida",
+                    "che egli uccida"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ērŏgēmus",
+                "traduzioni": [
+                    "che noi spendiamo",
+                    "che noi paghiamo",
+                    "che noi versiamo",
+                    "che noi distribuiamo",
+                    "che noi uccidiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ērŏgētis",
+                "traduzioni": [
+                    "che voi spendiate",
+                    "che voi paghiate",
+                    "che voi versiate",
+                    "che voi distribuiate",
+                    "che voi uccidiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ērŏgent",
+                "traduzioni": [
+                    "che loro spendano",
+                    "che essi spendano",
+                    "che loro paghino",
+                    "che essi paghino",
+                    "che loro versino",
+                    "che essi versino",
+                    "che loro distribuiscano",
+                    "che essi distribuiscano",
+                    "che loro uccidano",
+                    "che essi uccidano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ērŏgārem",
+                "traduzioni": [
+                    "che io spendessi",
+                    "che io pagassi",
+                    "che io versassi",
+                    "che io distribuissi",
+                    "che io uccidessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ērŏgāres",
+                "traduzioni": [
+                    "che tu spendessi",
+                    "che tu pagassi",
+                    "che tu versassi",
+                    "che tu distribuissi",
+                    "che tu uccidessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ērŏgāret",
+                "traduzioni": [
+                    "che lui spendesse",
+                    "che lei spendesse",
+                    "che egli spendesse",
+                    "che lui pagasse",
+                    "che lei pagasse",
+                    "che egli pagasse",
+                    "che lui versasse",
+                    "che lei versasse",
+                    "che egli versasse",
+                    "che lui distribuisse",
+                    "che lei distribuisse",
+                    "che egli distribuisse",
+                    "che lui uccidesse",
+                    "che lei uccidesse",
+                    "che egli uccidesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ērŏgarēmus",
+                "traduzioni": [
+                    "che noi spendessimo",
+                    "che noi pagassimo",
+                    "che noi versassimo",
+                    "che noi distribuissimo",
+                    "che noi uccidessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ērŏgarētis",
+                "traduzioni": [
+                    "che voi spendeste",
+                    "che voi pagaste",
+                    "che voi versaste",
+                    "che voi distribuiste",
+                    "che voi uccideste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ērŏgārent",
+                "traduzioni": [
+                    "che loro spendessero",
+                    "che essi spendessero",
+                    "che loro pagassero",
+                    "che essi pagassero",
+                    "che loro versassero",
+                    "che essi versassero",
+                    "che loro distribuissero",
+                    "che essi distribuissero",
+                    "che loro uccidessero",
+                    "che essi uccidessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "erogavĕrim",
+                "traduzioni": [
+                    "che io abbia speso",
+                    "che io abbia pagato",
+                    "che io sia versato",
+                    "che io sia versata",
+                    "che io abbia distribuito",
+                    "che io abbia ucciso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "erogavĕris",
+                "traduzioni": [
+                    "che tu abbia speso",
+                    "che tu abbia pagato",
+                    "che tu sia versato",
+                    "che tu sia versata",
+                    "che tu abbia distribuito",
+                    "che tu abbia ucciso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "erogavĕrit",
+                "traduzioni": [
+                    "che lui abbia speso",
+                    "che lei abbia speso",
+                    "che egli abbia speso",
+                    "che lui abbia pagato",
+                    "che lei abbia pagato",
+                    "che egli abbia pagato",
+                    "che lui sia versato",
+                    "che lei sia versata",
+                    "che egli sia versato",
+                    "che lui abbia distribuito",
+                    "che lei abbia distribuito",
+                    "che egli abbia distribuito",
+                    "che lui abbia ucciso",
+                    "che lei abbia ucciso",
+                    "che egli abbia ucciso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "erogaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo speso",
+                    "che noi abbiamo pagato",
+                    "che noi siamo versati",
+                    "che noi siamo versate",
+                    "che noi abbiamo distribuito",
+                    "che noi abbiamo ucciso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "erogaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate speso",
+                    "che voi abbiate pagato",
+                    "che voi siate versati",
+                    "che voi siate versate",
+                    "che voi abbiate distribuito",
+                    "che voi abbiate ucciso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "erogavĕrint",
+                "traduzioni": [
+                    "che loro abbiano speso",
+                    "che essi abbiano speso",
+                    "che loro abbiano pagato",
+                    "che essi abbiano pagato",
+                    "che loro siano versati",
+                    "che loro siano versate",
+                    "che essi siano versati",
+                    "che loro abbiano distribuito",
+                    "che essi abbiano distribuito",
+                    "che loro abbiano ucciso",
+                    "che essi abbiano ucciso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "erogavissem",
+                "traduzioni": [
+                    "che io avessi speso",
+                    "che io avessi pagato",
+                    "che io fossi versato",
+                    "che io fossi versata",
+                    "che io avessi distribuito",
+                    "che io avessi ucciso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "erogavisses",
+                "traduzioni": [
+                    "che tu avessi speso",
+                    "che tu avessi pagato",
+                    "che tu fossi versato",
+                    "che tu fossi versata",
+                    "che tu avessi distribuito",
+                    "che tu avessi ucciso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "erogavisset",
+                "traduzioni": [
+                    "che lui avesse speso",
+                    "che lei avesse speso",
+                    "che egli avesse speso",
+                    "che lui avesse pagato",
+                    "che lei avesse pagato",
+                    "che egli avesse pagato",
+                    "che lui fosse versato",
+                    "che lei fosse versata",
+                    "che egli fosse versato",
+                    "che lui avesse distribuito",
+                    "che lei avesse distribuito",
+                    "che egli avesse distribuito",
+                    "che lui avesse ucciso",
+                    "che lei avesse ucciso",
+                    "che egli avesse ucciso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "erogavissēmus",
+                "traduzioni": [
+                    "che noi avessimo speso",
+                    "che noi avessimo pagato",
+                    "che noi fossimo versati",
+                    "che noi fossimo versate",
+                    "che noi avessimo distribuito",
+                    "che noi avessimo ucciso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "erogavissētis",
+                "traduzioni": [
+                    "che voi aveste speso",
+                    "che voi aveste pagato",
+                    "che voi foste versati",
+                    "che voi foste versate",
+                    "che voi aveste distribuito",
+                    "che voi aveste ucciso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "erogavissent",
+                "traduzioni": [
+                    "che loro avessero speso",
+                    "che essi avessero speso",
+                    "che loro avessero pagato",
+                    "che essi avessero pagato",
+                    "che loro fossero versati",
+                    "che loro fossero versate",
+                    "che essi fossero versati",
+                    "che loro avessero distribuito",
+                    "che essi avessero distribuito",
+                    "che loro avessero ucciso",
+                    "che essi avessero ucciso"
+                ]
+            }
+        ]
+    }
+}

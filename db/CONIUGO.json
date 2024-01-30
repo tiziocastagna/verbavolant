@@ -1,0 +1,722 @@
+{
+    "identifier": "CONIUGO",
+    "conuigazione": "1",
+    "translation": [
+        "congiungere",
+        "unire",
+        "sposare"
+    ],
+    "valid_translations": [
+        "congiungere",
+        "unire",
+        "sposare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "coniŭgo",
+                "traduzioni": [
+                    "io congiungo",
+                    "io unisco",
+                    "io sposo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "coniŭgas",
+                "traduzioni": [
+                    "tu congiungi",
+                    "tu unisci",
+                    "tu sposi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "coniŭgat",
+                "traduzioni": [
+                    "lui congiunge",
+                    "lei congiunge",
+                    "egli congiunge",
+                    "lui unisce",
+                    "lei unisce",
+                    "egli unisce",
+                    "lui sposa",
+                    "lei sposa",
+                    "egli sposa"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "coniŭgāmus",
+                "traduzioni": [
+                    "noi congiungiamo",
+                    "noi uniamo",
+                    "noi sposiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "coniŭgātis",
+                "traduzioni": [
+                    "voi congiungete",
+                    "voi unite",
+                    "voi sposate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "coniŭgant",
+                "traduzioni": [
+                    "loro congiungono",
+                    "essi congiungono",
+                    "loro uniscono",
+                    "essi uniscono",
+                    "loro sposano",
+                    "essi sposano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "coniŭgābam",
+                "traduzioni": [
+                    "io congiungevo",
+                    "io univo",
+                    "io sposavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "coniŭgābas",
+                "traduzioni": [
+                    "tu congiungevi",
+                    "tu univi",
+                    "tu sposavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "coniŭgābat",
+                "traduzioni": [
+                    "lui congiungeva",
+                    "lei congiungeva",
+                    "egli congiungeva",
+                    "lui univa",
+                    "lei univa",
+                    "egli univa",
+                    "lui sposava",
+                    "lei sposava",
+                    "egli sposava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "coniŭgabāmus",
+                "traduzioni": [
+                    "noi congiungevamo",
+                    "noi univamo",
+                    "noi sposavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "coniŭgabātis",
+                "traduzioni": [
+                    "voi congiungevate",
+                    "voi univate",
+                    "voi sposavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "coniŭgābant",
+                "traduzioni": [
+                    "loro congiungevano",
+                    "essi congiungevano",
+                    "loro univano",
+                    "essi univano",
+                    "loro sposavano",
+                    "essi sposavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "coniŭgābo",
+                "traduzioni": [
+                    "io congiungerò",
+                    "io unirò",
+                    "io sposerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "coniŭgābis",
+                "traduzioni": [
+                    "tu congiungerai",
+                    "tu unirai",
+                    "tu sposerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "coniŭgābit",
+                "traduzioni": [
+                    "lui congiungerà",
+                    "lei congiungerà",
+                    "egli congiungerà",
+                    "lui unirà",
+                    "lei unirà",
+                    "egli unirà",
+                    "lui sposerà",
+                    "lei sposerà",
+                    "egli sposerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "coniŭgabĭmus",
+                "traduzioni": [
+                    "noi congiungeremo",
+                    "noi uniremo",
+                    "noi sposeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "coniŭgabĭtis",
+                "traduzioni": [
+                    "voi congiungerete",
+                    "voi unirete",
+                    "voi sposerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "coniŭgābunt",
+                "traduzioni": [
+                    "loro congiungeranno",
+                    "essi congiungeranno",
+                    "loro uniranno",
+                    "essi uniranno",
+                    "loro sposeranno",
+                    "essi sposeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "coniugavi",
+                "traduzioni": [
+                    "io congiunsi",
+                    "io ho congiunto",
+                    "io ebbi congiunto",
+                    "io unii",
+                    "io ho unito",
+                    "io ebbi unito",
+                    "io sposai",
+                    "io ho sposato",
+                    "io ebbi sposato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "coniugavisti",
+                "traduzioni": [
+                    "tu congiungesti",
+                    "tu hai congiunto",
+                    "tu avesti congiunto",
+                    "tu unisti",
+                    "tu hai unito",
+                    "tu avesti unito",
+                    "tu sposasti",
+                    "tu hai sposato",
+                    "tu avesti sposato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "coniugavit",
+                "traduzioni": [
+                    "lui congiunse",
+                    "lei congiunse",
+                    "egli congiunse",
+                    "lui ha congiunto",
+                    "lei ha congiunto",
+                    "egli ha congiunto",
+                    "lui ebbe congiunto",
+                    "lei ebbe congiunto",
+                    "egli ebbe congiunto",
+                    "lui unì",
+                    "lei unì",
+                    "egli unì",
+                    "lui ha unito",
+                    "lei ha unito",
+                    "egli ha unito",
+                    "lui ebbe unito",
+                    "lei ebbe unito",
+                    "egli ebbe unito",
+                    "lui sposò",
+                    "lei sposò",
+                    "egli sposò",
+                    "lui ha sposato",
+                    "lei ha sposato",
+                    "egli ha sposato",
+                    "lui ebbe sposato",
+                    "lei ebbe sposato",
+                    "egli ebbe sposato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "coniugavĭmus",
+                "traduzioni": [
+                    "noi congiungemmo",
+                    "noi abbiamo congiunto",
+                    "noi avemmo congiunto",
+                    "noi unimmo",
+                    "noi abbiamo unito",
+                    "noi avemmo unito",
+                    "noi sposammo",
+                    "noi abbiamo sposato",
+                    "noi avemmo sposato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "coniugavistis",
+                "traduzioni": [
+                    "voi congiungeste",
+                    "voi avete congiunto",
+                    "voi aveste congiunto",
+                    "voi uniste",
+                    "voi avete unito",
+                    "voi aveste unito",
+                    "voi sposaste",
+                    "voi avete sposato",
+                    "voi aveste sposato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "coniugavērunt, coniugavēre",
+                "traduzioni": [
+                    "loro congiunsero",
+                    "essi congiunsero",
+                    "loro hanno congiunto",
+                    "essi hanno congiunto",
+                    "loro ebbero congiunto",
+                    "essi ebbero congiunto",
+                    "loro unirono",
+                    "essi unirono",
+                    "loro hanno unito",
+                    "essi hanno unito",
+                    "loro ebbero unito",
+                    "essi ebbero unito",
+                    "loro sposarono",
+                    "essi sposarono",
+                    "loro hanno sposato",
+                    "essi hanno sposato",
+                    "loro ebbero sposato",
+                    "essi ebbero sposato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "coniugavĕram",
+                "traduzioni": [
+                    "io avevo congiunto",
+                    "io avevo unito",
+                    "io avevo sposato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "coniugavĕras",
+                "traduzioni": [
+                    "tu avevi congiunto",
+                    "tu avevi unito",
+                    "tu avevi sposato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "coniugavĕrat",
+                "traduzioni": [
+                    "lui aveva congiunto",
+                    "lei aveva congiunto",
+                    "egli aveva congiunto",
+                    "lui aveva unito",
+                    "lei aveva unito",
+                    "egli aveva unito",
+                    "lui aveva sposato",
+                    "lei aveva sposato",
+                    "egli aveva sposato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "coniugaverāmus",
+                "traduzioni": [
+                    "noi avevamo congiunto",
+                    "noi avevamo unito",
+                    "noi avevamo sposato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "coniugaverātis",
+                "traduzioni": [
+                    "voi avevate congiunto",
+                    "voi avevate unito",
+                    "voi avevate sposato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "coniugavĕrant",
+                "traduzioni": [
+                    "loro avevano congiunto",
+                    "essi avevano congiunto",
+                    "loro avevano unito",
+                    "essi avevano unito",
+                    "loro avevano sposato",
+                    "essi avevano sposato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "coniugavĕro",
+                "traduzioni": [
+                    "io avrò congiunto",
+                    "io avrò unito",
+                    "io avrò sposato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "coniugavĕris",
+                "traduzioni": [
+                    "tu avrai congiunto",
+                    "tu avrai unito",
+                    "tu avrai sposato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "coniugavĕrit",
+                "traduzioni": [
+                    "lui avrà congiunto",
+                    "lei avrà congiunto",
+                    "egli avrà congiunto",
+                    "lui avrà unito",
+                    "lei avrà unito",
+                    "egli avrà unito",
+                    "lui avrà sposato",
+                    "lei avrà sposato",
+                    "egli avrà sposato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "coniugaverĭmus",
+                "traduzioni": [
+                    "noi avremo congiunto",
+                    "noi avremo unito",
+                    "noi avremo sposato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "coniugaverĭtis",
+                "traduzioni": [
+                    "voi avrete congiunto",
+                    "voi avrete unito",
+                    "voi avrete sposato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "coniugavĕrint",
+                "traduzioni": [
+                    "loro avranno congiunto",
+                    "essi avranno congiunto",
+                    "loro avranno unito",
+                    "essi avranno unito",
+                    "loro avranno sposato",
+                    "essi avranno sposato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "coniŭgem",
+                "traduzioni": [
+                    "che io congiunga",
+                    "che io unisca",
+                    "che io sposi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "coniŭges",
+                "traduzioni": [
+                    "che tu congiunga",
+                    "che tu unisca",
+                    "che tu sposi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "coniŭget",
+                "traduzioni": [
+                    "che lui congiunga",
+                    "che lei congiunga",
+                    "che egli congiunga",
+                    "che lui unisca",
+                    "che lei unisca",
+                    "che egli unisca",
+                    "che lui sposi",
+                    "che lei sposi",
+                    "che egli sposi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "coniŭgēmus",
+                "traduzioni": [
+                    "che noi congiungiamo",
+                    "che noi uniamo",
+                    "che noi sposiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "coniŭgētis",
+                "traduzioni": [
+                    "che voi congiungiate",
+                    "che voi uniate",
+                    "che voi sposiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "coniŭgent",
+                "traduzioni": [
+                    "che loro congiungano",
+                    "che essi congiungano",
+                    "che loro uniscano",
+                    "che essi uniscano",
+                    "che loro sposino",
+                    "che essi sposino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "coniŭgārem",
+                "traduzioni": [
+                    "che io congiungessi",
+                    "che io unissi",
+                    "che io sposassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "coniŭgāres",
+                "traduzioni": [
+                    "che tu congiungessi",
+                    "che tu unissi",
+                    "che tu sposassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "coniŭgāret",
+                "traduzioni": [
+                    "che lui congiungesse",
+                    "che lei congiungesse",
+                    "che egli congiungesse",
+                    "che lui unisse",
+                    "che lei unisse",
+                    "che egli unisse",
+                    "che lui sposasse",
+                    "che lei sposasse",
+                    "che egli sposasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "coniŭgarēmus",
+                "traduzioni": [
+                    "che noi congiungessimo",
+                    "che noi unissimo",
+                    "che noi sposassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "coniŭgarētis",
+                "traduzioni": [
+                    "che voi congiungeste",
+                    "che voi uniste",
+                    "che voi sposaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "coniŭgārent",
+                "traduzioni": [
+                    "che loro congiungessero",
+                    "che essi congiungessero",
+                    "che loro unissero",
+                    "che essi unissero",
+                    "che loro sposassero",
+                    "che essi sposassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "coniugavĕrim",
+                "traduzioni": [
+                    "che io abbia congiunto",
+                    "che io abbia unito",
+                    "che io abbia sposato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "coniugavĕris",
+                "traduzioni": [
+                    "che tu abbia congiunto",
+                    "che tu abbia unito",
+                    "che tu abbia sposato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "coniugavĕrit",
+                "traduzioni": [
+                    "che lui abbia congiunto",
+                    "che lei abbia congiunto",
+                    "che egli abbia congiunto",
+                    "che lui abbia unito",
+                    "che lei abbia unito",
+                    "che egli abbia unito",
+                    "che lui abbia sposato",
+                    "che lei abbia sposato",
+                    "che egli abbia sposato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "coniugaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo congiunto",
+                    "che noi abbiamo unito",
+                    "che noi abbiamo sposato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "coniugaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate congiunto",
+                    "che voi abbiate unito",
+                    "che voi abbiate sposato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "coniugavĕrint",
+                "traduzioni": [
+                    "che loro abbiano congiunto",
+                    "che essi abbiano congiunto",
+                    "che loro abbiano unito",
+                    "che essi abbiano unito",
+                    "che loro abbiano sposato",
+                    "che essi abbiano sposato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "coniugavissem",
+                "traduzioni": [
+                    "che io avessi congiunto",
+                    "che io avessi unito",
+                    "che io avessi sposato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "coniugavisses",
+                "traduzioni": [
+                    "che tu avessi congiunto",
+                    "che tu avessi unito",
+                    "che tu avessi sposato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "coniugavisset",
+                "traduzioni": [
+                    "che lui avesse congiunto",
+                    "che lei avesse congiunto",
+                    "che egli avesse congiunto",
+                    "che lui avesse unito",
+                    "che lei avesse unito",
+                    "che egli avesse unito",
+                    "che lui avesse sposato",
+                    "che lei avesse sposato",
+                    "che egli avesse sposato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "coniugavissēmus",
+                "traduzioni": [
+                    "che noi avessimo congiunto",
+                    "che noi avessimo unito",
+                    "che noi avessimo sposato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "coniugavissētis",
+                "traduzioni": [
+                    "che voi aveste congiunto",
+                    "che voi aveste unito",
+                    "che voi aveste sposato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "coniugavissent",
+                "traduzioni": [
+                    "che loro avessero congiunto",
+                    "che essi avessero congiunto",
+                    "che loro avessero unito",
+                    "che essi avessero unito",
+                    "che loro avessero sposato",
+                    "che essi avessero sposato"
+                ]
+            }
+        ]
+    }
+}

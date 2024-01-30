@@ -1,0 +1,833 @@
+{
+    "identifier": "SEPARO",
+    "conuigazione": "1",
+    "translation": [
+        "separare",
+        "dividere",
+        "disgiungere",
+        "ab + ablativo) distinguere",
+        "escludere"
+    ],
+    "valid_translations": [
+        "separare",
+        "dividere",
+        "disgiungere",
+        "escludere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēpăro",
+                "traduzioni": [
+                    "io separo",
+                    "io divido",
+                    "io disgiungo",
+                    "io escludo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēpăras",
+                "traduzioni": [
+                    "tu separi",
+                    "tu dividi",
+                    "tu disgiungi",
+                    "tu escludi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēpărat",
+                "traduzioni": [
+                    "lui separa",
+                    "lei separa",
+                    "egli separa",
+                    "lui divide",
+                    "lei divide",
+                    "egli divide",
+                    "lui disgiunge",
+                    "lei disgiunge",
+                    "egli disgiunge",
+                    "lui esclude",
+                    "lei esclude",
+                    "egli esclude"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēpărāmus",
+                "traduzioni": [
+                    "noi separiamo",
+                    "noi dividiamo",
+                    "noi disgiungiamo",
+                    "noi escludiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēpărātis",
+                "traduzioni": [
+                    "voi separate",
+                    "voi dividete",
+                    "voi disgiungete",
+                    "voi escludete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēpărant",
+                "traduzioni": [
+                    "loro separano",
+                    "essi separano",
+                    "loro dividono",
+                    "essi dividono",
+                    "loro disgiungono",
+                    "essi disgiungono",
+                    "loro escludono",
+                    "essi escludono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēpărābam",
+                "traduzioni": [
+                    "io separavo",
+                    "io dividevo",
+                    "io disgiungevo",
+                    "io escludevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēpărābas",
+                "traduzioni": [
+                    "tu separavi",
+                    "tu dividevi",
+                    "tu disgiungevi",
+                    "tu escludevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēpărābat",
+                "traduzioni": [
+                    "lui separava",
+                    "lei separava",
+                    "egli separava",
+                    "lui divideva",
+                    "lei divideva",
+                    "egli divideva",
+                    "lui disgiungeva",
+                    "lei disgiungeva",
+                    "egli disgiungeva",
+                    "lui escludeva",
+                    "lei escludeva",
+                    "egli escludeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēpărabāmus",
+                "traduzioni": [
+                    "noi separavamo",
+                    "noi dividevamo",
+                    "noi disgiungevamo",
+                    "noi escludevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēpărabātis",
+                "traduzioni": [
+                    "voi separavate",
+                    "voi dividevate",
+                    "voi disgiungevate",
+                    "voi escludevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēpărābant",
+                "traduzioni": [
+                    "loro separavano",
+                    "essi separavano",
+                    "loro dividevano",
+                    "essi dividevano",
+                    "loro disgiungevano",
+                    "essi disgiungevano",
+                    "loro escludevano",
+                    "essi escludevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēpărābo",
+                "traduzioni": [
+                    "io separerò",
+                    "io dividerò",
+                    "io disgiungerò",
+                    "io escluderò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēpărābis",
+                "traduzioni": [
+                    "tu separerai",
+                    "tu dividerai",
+                    "tu disgiungerai",
+                    "tu escluderai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēpărābit",
+                "traduzioni": [
+                    "lui separerà",
+                    "lei separerà",
+                    "egli separerà",
+                    "lui dividerà",
+                    "lei dividerà",
+                    "egli dividerà",
+                    "lui disgiungerà",
+                    "lei disgiungerà",
+                    "egli disgiungerà",
+                    "lui escluderà",
+                    "lei escluderà",
+                    "egli escluderà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēpărabĭmus",
+                "traduzioni": [
+                    "noi separeremo",
+                    "noi divideremo",
+                    "noi disgiungeremo",
+                    "noi escluderemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēpărabĭtis",
+                "traduzioni": [
+                    "voi separerete",
+                    "voi dividerete",
+                    "voi disgiungerete",
+                    "voi escluderete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēpărābunt",
+                "traduzioni": [
+                    "loro separeranno",
+                    "essi separeranno",
+                    "loro divideranno",
+                    "essi divideranno",
+                    "loro disgiungeranno",
+                    "essi disgiungeranno",
+                    "loro escluderanno",
+                    "essi escluderanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "separavi",
+                "traduzioni": [
+                    "io separai",
+                    "io ho separato",
+                    "io ebbi separato",
+                    "io divisi",
+                    "io ho diviso",
+                    "io ebbi diviso",
+                    "io disgiunsi",
+                    "io ho disgiunto",
+                    "io ebbi disgiunto",
+                    "io esclusi",
+                    "io ho escluso",
+                    "io ebbi escluso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "separavisti",
+                "traduzioni": [
+                    "tu separasti",
+                    "tu hai separato",
+                    "tu avesti separato",
+                    "tu dividesti",
+                    "tu hai diviso",
+                    "tu avesti diviso",
+                    "tu disgiungesti",
+                    "tu hai disgiunto",
+                    "tu avesti disgiunto",
+                    "tu escludesti",
+                    "tu hai escluso",
+                    "tu avesti escluso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "separavit",
+                "traduzioni": [
+                    "lui separò",
+                    "lei separò",
+                    "egli separò",
+                    "lui ha separato",
+                    "lei ha separato",
+                    "egli ha separato",
+                    "lui ebbe separato",
+                    "lei ebbe separato",
+                    "egli ebbe separato",
+                    "lui divise",
+                    "lei divise",
+                    "egli divise",
+                    "lui ha diviso",
+                    "lei ha diviso",
+                    "egli ha diviso",
+                    "lui ebbe diviso",
+                    "lei ebbe diviso",
+                    "egli ebbe diviso",
+                    "lui disgiunse",
+                    "lei disgiunse",
+                    "egli disgiunse",
+                    "lui ha disgiunto",
+                    "lei ha disgiunto",
+                    "egli ha disgiunto",
+                    "lui ebbe disgiunto",
+                    "lei ebbe disgiunto",
+                    "egli ebbe disgiunto",
+                    "lui escluse",
+                    "lei escluse",
+                    "egli escluse",
+                    "lui ha escluso",
+                    "lei ha escluso",
+                    "egli ha escluso",
+                    "lui ebbe escluso",
+                    "lei ebbe escluso",
+                    "egli ebbe escluso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "separavĭmus",
+                "traduzioni": [
+                    "noi separammo",
+                    "noi abbiamo separato",
+                    "noi avemmo separato",
+                    "noi dividemmo",
+                    "noi abbiamo diviso",
+                    "noi avemmo diviso",
+                    "noi disgiungemmo",
+                    "noi abbiamo disgiunto",
+                    "noi avemmo disgiunto",
+                    "noi escludemmo",
+                    "noi abbiamo escluso",
+                    "noi avemmo escluso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "separavistis",
+                "traduzioni": [
+                    "voi separaste",
+                    "voi avete separato",
+                    "voi aveste separato",
+                    "voi divideste",
+                    "voi avete diviso",
+                    "voi aveste diviso",
+                    "voi disgiungeste",
+                    "voi avete disgiunto",
+                    "voi aveste disgiunto",
+                    "voi escludeste",
+                    "voi avete escluso",
+                    "voi aveste escluso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "separavērunt, separavēre",
+                "traduzioni": [
+                    "loro separarono",
+                    "essi separarono",
+                    "loro hanno separato",
+                    "essi hanno separato",
+                    "loro ebbero separato",
+                    "essi ebbero separato",
+                    "loro divisero",
+                    "essi divisero",
+                    "loro hanno diviso",
+                    "essi hanno diviso",
+                    "loro ebbero diviso",
+                    "essi ebbero diviso",
+                    "loro disgiunsero",
+                    "essi disgiunsero",
+                    "loro hanno disgiunto",
+                    "essi hanno disgiunto",
+                    "loro ebbero disgiunto",
+                    "essi ebbero disgiunto",
+                    "loro esclusero",
+                    "essi esclusero",
+                    "loro hanno escluso",
+                    "essi hanno escluso",
+                    "loro ebbero escluso",
+                    "essi ebbero escluso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "separavĕram",
+                "traduzioni": [
+                    "io avevo separato",
+                    "io avevo diviso",
+                    "io avevo disgiunto",
+                    "io avevo escluso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "separavĕras",
+                "traduzioni": [
+                    "tu avevi separato",
+                    "tu avevi diviso",
+                    "tu avevi disgiunto",
+                    "tu avevi escluso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "separavĕrat",
+                "traduzioni": [
+                    "lui aveva separato",
+                    "lei aveva separato",
+                    "egli aveva separato",
+                    "lui aveva diviso",
+                    "lei aveva diviso",
+                    "egli aveva diviso",
+                    "lui aveva disgiunto",
+                    "lei aveva disgiunto",
+                    "egli aveva disgiunto",
+                    "lui aveva escluso",
+                    "lei aveva escluso",
+                    "egli aveva escluso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "separaverāmus",
+                "traduzioni": [
+                    "noi avevamo separato",
+                    "noi avevamo diviso",
+                    "noi avevamo disgiunto",
+                    "noi avevamo escluso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "separaverātis",
+                "traduzioni": [
+                    "voi avevate separato",
+                    "voi avevate diviso",
+                    "voi avevate disgiunto",
+                    "voi avevate escluso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "separavĕrant",
+                "traduzioni": [
+                    "loro avevano separato",
+                    "essi avevano separato",
+                    "loro avevano diviso",
+                    "essi avevano diviso",
+                    "loro avevano disgiunto",
+                    "essi avevano disgiunto",
+                    "loro avevano escluso",
+                    "essi avevano escluso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "separavĕro",
+                "traduzioni": [
+                    "io avrò separato",
+                    "io avrò diviso",
+                    "io avrò disgiunto",
+                    "io avrò escluso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "separavĕris",
+                "traduzioni": [
+                    "tu avrai separato",
+                    "tu avrai diviso",
+                    "tu avrai disgiunto",
+                    "tu avrai escluso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "separavĕrit",
+                "traduzioni": [
+                    "lui avrà separato",
+                    "lei avrà separato",
+                    "egli avrà separato",
+                    "lui avrà diviso",
+                    "lei avrà diviso",
+                    "egli avrà diviso",
+                    "lui avrà disgiunto",
+                    "lei avrà disgiunto",
+                    "egli avrà disgiunto",
+                    "lui avrà escluso",
+                    "lei avrà escluso",
+                    "egli avrà escluso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "separaverĭmus",
+                "traduzioni": [
+                    "noi avremo separato",
+                    "noi avremo diviso",
+                    "noi avremo disgiunto",
+                    "noi avremo escluso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "separaverĭtis",
+                "traduzioni": [
+                    "voi avrete separato",
+                    "voi avrete diviso",
+                    "voi avrete disgiunto",
+                    "voi avrete escluso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "separavĕrint",
+                "traduzioni": [
+                    "loro avranno separato",
+                    "essi avranno separato",
+                    "loro avranno diviso",
+                    "essi avranno diviso",
+                    "loro avranno disgiunto",
+                    "essi avranno disgiunto",
+                    "loro avranno escluso",
+                    "essi avranno escluso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēpărem",
+                "traduzioni": [
+                    "che io separi",
+                    "che io divida",
+                    "che io disgiunga",
+                    "che io escluda"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēpăres",
+                "traduzioni": [
+                    "che tu separi",
+                    "che tu divida",
+                    "che tu disgiunga",
+                    "che tu escluda"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēpăret",
+                "traduzioni": [
+                    "che lui separi",
+                    "che lei separi",
+                    "che egli separi",
+                    "che lui divida",
+                    "che lei divida",
+                    "che egli divida",
+                    "che lui disgiunga",
+                    "che lei disgiunga",
+                    "che egli disgiunga",
+                    "che lui escluda",
+                    "che lei escluda",
+                    "che egli escluda"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēpărēmus",
+                "traduzioni": [
+                    "che noi separiamo",
+                    "che noi dividiamo",
+                    "che noi disgiungiamo",
+                    "che noi escludiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēpărētis",
+                "traduzioni": [
+                    "che voi separiate",
+                    "che voi dividiate",
+                    "che voi disgiungiate",
+                    "che voi escludiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēpărent",
+                "traduzioni": [
+                    "che loro separino",
+                    "che essi separino",
+                    "che loro dividano",
+                    "che essi dividano",
+                    "che loro disgiungano",
+                    "che essi disgiungano",
+                    "che loro escludano",
+                    "che essi escludano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēpărārem",
+                "traduzioni": [
+                    "che io separassi",
+                    "che io dividessi",
+                    "che io disgiungessi",
+                    "che io escludessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēpărāres",
+                "traduzioni": [
+                    "che tu separassi",
+                    "che tu dividessi",
+                    "che tu disgiungessi",
+                    "che tu escludessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēpărāret",
+                "traduzioni": [
+                    "che lui separasse",
+                    "che lei separasse",
+                    "che egli separasse",
+                    "che lui dividesse",
+                    "che lei dividesse",
+                    "che egli dividesse",
+                    "che lui disgiungesse",
+                    "che lei disgiungesse",
+                    "che egli disgiungesse",
+                    "che lui escludesse",
+                    "che lei escludesse",
+                    "che egli escludesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēpărarēmus",
+                "traduzioni": [
+                    "che noi separassimo",
+                    "che noi dividessimo",
+                    "che noi disgiungessimo",
+                    "che noi escludessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēpărarētis",
+                "traduzioni": [
+                    "che voi separaste",
+                    "che voi divideste",
+                    "che voi disgiungeste",
+                    "che voi escludeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēpărārent",
+                "traduzioni": [
+                    "che loro separassero",
+                    "che essi separassero",
+                    "che loro dividessero",
+                    "che essi dividessero",
+                    "che loro disgiungessero",
+                    "che essi disgiungessero",
+                    "che loro escludessero",
+                    "che essi escludessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "separavĕrim",
+                "traduzioni": [
+                    "che io abbia separato",
+                    "che io abbia diviso",
+                    "che io abbia disgiunto",
+                    "che io abbia escluso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "separavĕris",
+                "traduzioni": [
+                    "che tu abbia separato",
+                    "che tu abbia diviso",
+                    "che tu abbia disgiunto",
+                    "che tu abbia escluso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "separavĕrit",
+                "traduzioni": [
+                    "che lui abbia separato",
+                    "che lei abbia separato",
+                    "che egli abbia separato",
+                    "che lui abbia diviso",
+                    "che lei abbia diviso",
+                    "che egli abbia diviso",
+                    "che lui abbia disgiunto",
+                    "che lei abbia disgiunto",
+                    "che egli abbia disgiunto",
+                    "che lui abbia escluso",
+                    "che lei abbia escluso",
+                    "che egli abbia escluso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "separaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo separato",
+                    "che noi abbiamo diviso",
+                    "che noi abbiamo disgiunto",
+                    "che noi abbiamo escluso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "separaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate separato",
+                    "che voi abbiate diviso",
+                    "che voi abbiate disgiunto",
+                    "che voi abbiate escluso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "separavĕrint",
+                "traduzioni": [
+                    "che loro abbiano separato",
+                    "che essi abbiano separato",
+                    "che loro abbiano diviso",
+                    "che essi abbiano diviso",
+                    "che loro abbiano disgiunto",
+                    "che essi abbiano disgiunto",
+                    "che loro abbiano escluso",
+                    "che essi abbiano escluso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "separavissem",
+                "traduzioni": [
+                    "che io avessi separato",
+                    "che io avessi diviso",
+                    "che io avessi disgiunto",
+                    "che io avessi escluso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "separavisses",
+                "traduzioni": [
+                    "che tu avessi separato",
+                    "che tu avessi diviso",
+                    "che tu avessi disgiunto",
+                    "che tu avessi escluso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "separavisset",
+                "traduzioni": [
+                    "che lui avesse separato",
+                    "che lei avesse separato",
+                    "che egli avesse separato",
+                    "che lui avesse diviso",
+                    "che lei avesse diviso",
+                    "che egli avesse diviso",
+                    "che lui avesse disgiunto",
+                    "che lei avesse disgiunto",
+                    "che egli avesse disgiunto",
+                    "che lui avesse escluso",
+                    "che lei avesse escluso",
+                    "che egli avesse escluso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "separavissēmus",
+                "traduzioni": [
+                    "che noi avessimo separato",
+                    "che noi avessimo diviso",
+                    "che noi avessimo disgiunto",
+                    "che noi avessimo escluso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "separavissētis",
+                "traduzioni": [
+                    "che voi aveste separato",
+                    "che voi aveste diviso",
+                    "che voi aveste disgiunto",
+                    "che voi aveste escluso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "separavissent",
+                "traduzioni": [
+                    "che loro avessero separato",
+                    "che essi avessero separato",
+                    "che loro avessero diviso",
+                    "che essi avessero diviso",
+                    "che loro avessero disgiunto",
+                    "che essi avessero disgiunto",
+                    "che loro avessero escluso",
+                    "che essi avessero escluso"
+                ]
+            }
+        ]
+    }
+}

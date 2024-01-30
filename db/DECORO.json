@@ -1,0 +1,972 @@
+{
+    "identifier": "DECORO",
+    "conuigazione": "1",
+    "translation": [
+        "ornare",
+        "abbellire",
+        "decorare",
+        "insignire",
+        "onorare"
+    ],
+    "valid_translations": [
+        "ornare",
+        "abbellire",
+        "decorare",
+        "insignire",
+        "onorare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dĕcŏro",
+                "traduzioni": [
+                    "io orno",
+                    "io abbellisco",
+                    "io decoro",
+                    "io insignisco",
+                    "io onoro"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dĕcŏras",
+                "traduzioni": [
+                    "tu orni",
+                    "tu abbellisci",
+                    "tu decori",
+                    "tu insignisci",
+                    "tu onori"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dĕcŏrat",
+                "traduzioni": [
+                    "lui orna",
+                    "lei orna",
+                    "egli orna",
+                    "lui abbellisce",
+                    "lei abbellisce",
+                    "egli abbellisce",
+                    "lui decora",
+                    "lei decora",
+                    "egli decora",
+                    "lui insignisce",
+                    "lei insignisce",
+                    "egli insignisce",
+                    "lui onora",
+                    "lei onora",
+                    "egli onora"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dĕcŏrāmus",
+                "traduzioni": [
+                    "noi orniamo",
+                    "noi abbelliamo",
+                    "noi decoriamo",
+                    "noi insigniamo",
+                    "noi onoriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dĕcŏrātis",
+                "traduzioni": [
+                    "voi ornate",
+                    "voi abbellite",
+                    "voi decorate",
+                    "voi insignite",
+                    "voi onorate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dĕcŏrant",
+                "traduzioni": [
+                    "loro ornano",
+                    "essi ornano",
+                    "loro abbelliscono",
+                    "essi abbelliscono",
+                    "loro decorano",
+                    "essi decorano",
+                    "loro insigniscono",
+                    "essi insigniscono",
+                    "loro onorano",
+                    "essi onorano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dĕcŏrābam",
+                "traduzioni": [
+                    "io ornavo",
+                    "io abbellivo",
+                    "io decoravo",
+                    "io insignivo",
+                    "io onoravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dĕcŏrābas",
+                "traduzioni": [
+                    "tu ornavi",
+                    "tu abbellivi",
+                    "tu decoravi",
+                    "tu insignivi",
+                    "tu onoravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dĕcŏrābat",
+                "traduzioni": [
+                    "lui ornava",
+                    "lei ornava",
+                    "egli ornava",
+                    "lui abbelliva",
+                    "lei abbelliva",
+                    "egli abbelliva",
+                    "lui decorava",
+                    "lei decorava",
+                    "egli decorava",
+                    "lui insigniva",
+                    "lei insigniva",
+                    "egli insigniva",
+                    "lui onorava",
+                    "lei onorava",
+                    "egli onorava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dĕcŏrabāmus",
+                "traduzioni": [
+                    "noi ornavamo",
+                    "noi abbellivamo",
+                    "noi decoravamo",
+                    "noi insignivamo",
+                    "noi onoravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dĕcŏrabātis",
+                "traduzioni": [
+                    "voi ornavate",
+                    "voi abbellivate",
+                    "voi decoravate",
+                    "voi insignivate",
+                    "voi onoravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dĕcŏrābant",
+                "traduzioni": [
+                    "loro ornavano",
+                    "essi ornavano",
+                    "loro abbellivano",
+                    "essi abbellivano",
+                    "loro decoravano",
+                    "essi decoravano",
+                    "loro insignivano",
+                    "essi insignivano",
+                    "loro onoravano",
+                    "essi onoravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dĕcŏrābo",
+                "traduzioni": [
+                    "io ornerò",
+                    "io abbellirò",
+                    "io decorerò",
+                    "io insignirò",
+                    "io onorerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dĕcŏrābis",
+                "traduzioni": [
+                    "tu ornerai",
+                    "tu abbellirai",
+                    "tu decorerai",
+                    "tu insignirai",
+                    "tu onorerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dĕcŏrābit",
+                "traduzioni": [
+                    "lui ornerà",
+                    "lei ornerà",
+                    "egli ornerà",
+                    "lui abbellirà",
+                    "lei abbellirà",
+                    "egli abbellirà",
+                    "lui decorerà",
+                    "lei decorerà",
+                    "egli decorerà",
+                    "lui insignirà",
+                    "lei insignirà",
+                    "egli insignirà",
+                    "lui onorerà",
+                    "lei onorerà",
+                    "egli onorerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dĕcŏrabĭmus",
+                "traduzioni": [
+                    "noi orneremo",
+                    "noi abbelliremo",
+                    "noi decoreremo",
+                    "noi insigniremo",
+                    "noi onoreremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dĕcŏrabĭtis",
+                "traduzioni": [
+                    "voi ornerete",
+                    "voi abbellirete",
+                    "voi decorerete",
+                    "voi insignirete",
+                    "voi onorerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dĕcŏrābunt",
+                "traduzioni": [
+                    "loro orneranno",
+                    "essi orneranno",
+                    "loro abbelliranno",
+                    "essi abbelliranno",
+                    "loro decoreranno",
+                    "essi decoreranno",
+                    "loro insigniranno",
+                    "essi insigniranno",
+                    "loro onoreranno",
+                    "essi onoreranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "decoravi",
+                "traduzioni": [
+                    "io ornai",
+                    "io ho ornato",
+                    "io ebbi ornato",
+                    "io abbellii",
+                    "io sono abbellito",
+                    "io sono abbellita",
+                    "io fui abbellito",
+                    "io fui abbellita",
+                    "io decorai",
+                    "io ho decorato",
+                    "io ebbi decorato",
+                    "io insignii",
+                    "io ho insignito",
+                    "io ebbi insignito",
+                    "io onorai",
+                    "io ho onorato",
+                    "io ebbi onorato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "decoravisti",
+                "traduzioni": [
+                    "tu ornasti",
+                    "tu hai ornato",
+                    "tu avesti ornato",
+                    "tu abbellisti",
+                    "tu sei abbellito",
+                    "tu sei abbellita",
+                    "tu fosti abbellito",
+                    "tu fosti abbellita",
+                    "tu decorasti",
+                    "tu hai decorato",
+                    "tu avesti decorato",
+                    "tu insignisti",
+                    "tu hai insignito",
+                    "tu avesti insignito",
+                    "tu onorasti",
+                    "tu hai onorato",
+                    "tu avesti onorato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "decoravit",
+                "traduzioni": [
+                    "lui ornò",
+                    "lei ornò",
+                    "egli ornò",
+                    "lui ha ornato",
+                    "lei ha ornato",
+                    "egli ha ornato",
+                    "lui ebbe ornato",
+                    "lei ebbe ornato",
+                    "egli ebbe ornato",
+                    "lui abbellì",
+                    "lei abbellì",
+                    "egli abbellì",
+                    "lui è abbellito",
+                    "lei è abbellita",
+                    "egli è abbellito",
+                    "lui fu abbellito",
+                    "lei fu abbellita",
+                    "egli fu abbellito",
+                    "lui decorò",
+                    "lei decorò",
+                    "egli decorò",
+                    "lui ha decorato",
+                    "lei ha decorato",
+                    "egli ha decorato",
+                    "lui ebbe decorato",
+                    "lei ebbe decorato",
+                    "egli ebbe decorato",
+                    "lui insignì",
+                    "lei insignì",
+                    "egli insignì",
+                    "lui ha insignito",
+                    "lei ha insignito",
+                    "egli ha insignito",
+                    "lui ebbe insignito",
+                    "lei ebbe insignito",
+                    "egli ebbe insignito",
+                    "lui onorò",
+                    "lei onorò",
+                    "egli onorò",
+                    "lui ha onorato",
+                    "lei ha onorato",
+                    "egli ha onorato",
+                    "lui ebbe onorato",
+                    "lei ebbe onorato",
+                    "egli ebbe onorato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "decoravĭmus",
+                "traduzioni": [
+                    "noi ornammo",
+                    "noi abbiamo ornato",
+                    "noi avemmo ornato",
+                    "noi abbellimmo",
+                    "noi siamo abbelliti",
+                    "noi siamo abbellite",
+                    "noi fummo abbelliti",
+                    "noi fummo abbellite",
+                    "noi decorammo",
+                    "noi abbiamo decorato",
+                    "noi avemmo decorato",
+                    "noi insignimmo",
+                    "noi abbiamo insignito",
+                    "noi avemmo insignito",
+                    "noi onorammo",
+                    "noi abbiamo onorato",
+                    "noi avemmo onorato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "decoravistis",
+                "traduzioni": [
+                    "voi ornaste",
+                    "voi avete ornato",
+                    "voi aveste ornato",
+                    "voi abbelliste",
+                    "voi siete abbelliti",
+                    "voi siete abbellite",
+                    "voi foste abbelliti",
+                    "voi foste abbellite",
+                    "voi decoraste",
+                    "voi avete decorato",
+                    "voi aveste decorato",
+                    "voi insigniste",
+                    "voi avete insignito",
+                    "voi aveste insignito",
+                    "voi onoraste",
+                    "voi avete onorato",
+                    "voi aveste onorato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "decoravērunt, decoravēre",
+                "traduzioni": [
+                    "loro ornarono",
+                    "essi ornarono",
+                    "loro hanno ornato",
+                    "essi hanno ornato",
+                    "loro ebbero ornato",
+                    "essi ebbero ornato",
+                    "loro abbellirono",
+                    "essi abbellirono",
+                    "loro sono abbelliti",
+                    "loro sono abbellite",
+                    "essi sono abbelliti",
+                    "loro furono abbelliti",
+                    "loro furono abbellite",
+                    "essi furono abbelliti",
+                    "loro decorarono",
+                    "essi decorarono",
+                    "loro hanno decorato",
+                    "essi hanno decorato",
+                    "loro ebbero decorato",
+                    "essi ebbero decorato",
+                    "loro insignirono",
+                    "essi insignirono",
+                    "loro hanno insignito",
+                    "essi hanno insignito",
+                    "loro ebbero insignito",
+                    "essi ebbero insignito",
+                    "loro onorarono",
+                    "essi onorarono",
+                    "loro hanno onorato",
+                    "essi hanno onorato",
+                    "loro ebbero onorato",
+                    "essi ebbero onorato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "decoravĕram",
+                "traduzioni": [
+                    "io avevo ornato",
+                    "io ero abbellito",
+                    "io ero abbellita",
+                    "io avevo decorato",
+                    "io avevo insignito",
+                    "io avevo onorato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "decoravĕras",
+                "traduzioni": [
+                    "tu avevi ornato",
+                    "tu eri abbellito",
+                    "tu eri abbellita",
+                    "tu avevi decorato",
+                    "tu avevi insignito",
+                    "tu avevi onorato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "decoravĕrat",
+                "traduzioni": [
+                    "lui aveva ornato",
+                    "lei aveva ornato",
+                    "egli aveva ornato",
+                    "lui era abbellito",
+                    "lei era abbellita",
+                    "egli era abbellito",
+                    "lui aveva decorato",
+                    "lei aveva decorato",
+                    "egli aveva decorato",
+                    "lui aveva insignito",
+                    "lei aveva insignito",
+                    "egli aveva insignito",
+                    "lui aveva onorato",
+                    "lei aveva onorato",
+                    "egli aveva onorato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "decoraverāmus",
+                "traduzioni": [
+                    "noi avevamo ornato",
+                    "noi eravamo abbelliti",
+                    "noi eravamo abbellite",
+                    "noi avevamo decorato",
+                    "noi avevamo insignito",
+                    "noi avevamo onorato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "decoraverātis",
+                "traduzioni": [
+                    "voi avevate ornato",
+                    "voi eravate abbelliti",
+                    "voi eravate abbellite",
+                    "voi avevate decorato",
+                    "voi avevate insignito",
+                    "voi avevate onorato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "decoravĕrant",
+                "traduzioni": [
+                    "loro avevano ornato",
+                    "essi avevano ornato",
+                    "loro erano abbelliti",
+                    "loro erano abbellite",
+                    "essi erano abbelliti",
+                    "loro avevano decorato",
+                    "essi avevano decorato",
+                    "loro avevano insignito",
+                    "essi avevano insignito",
+                    "loro avevano onorato",
+                    "essi avevano onorato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "decoravĕro",
+                "traduzioni": [
+                    "io avrò ornato",
+                    "io sarò abbellito",
+                    "io sarò abbellita",
+                    "io avrò decorato",
+                    "io avrò insignito",
+                    "io avrò onorato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "decoravĕris",
+                "traduzioni": [
+                    "tu avrai ornato",
+                    "tu sarai abbellito",
+                    "tu sarai abbellita",
+                    "tu avrai decorato",
+                    "tu avrai insignito",
+                    "tu avrai onorato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "decoravĕrit",
+                "traduzioni": [
+                    "lui avrà ornato",
+                    "lei avrà ornato",
+                    "egli avrà ornato",
+                    "lui sarà abbellito",
+                    "lei sarà abbellita",
+                    "egli sarà abbellito",
+                    "lui avrà decorato",
+                    "lei avrà decorato",
+                    "egli avrà decorato",
+                    "lui avrà insignito",
+                    "lei avrà insignito",
+                    "egli avrà insignito",
+                    "lui avrà onorato",
+                    "lei avrà onorato",
+                    "egli avrà onorato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "decoraverĭmus",
+                "traduzioni": [
+                    "noi avremo ornato",
+                    "noi saremo abbelliti",
+                    "noi saremo abbellite",
+                    "noi avremo decorato",
+                    "noi avremo insignito",
+                    "noi avremo onorato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "decoraverĭtis",
+                "traduzioni": [
+                    "voi avrete ornato",
+                    "voi sarete abbelliti",
+                    "voi sarete abbellite",
+                    "voi avrete decorato",
+                    "voi avrete insignito",
+                    "voi avrete onorato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "decoravĕrint",
+                "traduzioni": [
+                    "loro avranno ornato",
+                    "essi avranno ornato",
+                    "loro saranno abbelliti",
+                    "loro saranno abbellite",
+                    "essi saranno abbelliti",
+                    "loro avranno decorato",
+                    "essi avranno decorato",
+                    "loro avranno insignito",
+                    "essi avranno insignito",
+                    "loro avranno onorato",
+                    "essi avranno onorato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dĕcŏrem",
+                "traduzioni": [
+                    "che io orni",
+                    "che io abbellisca",
+                    "che io decori",
+                    "che io insignisca",
+                    "che io onori"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dĕcŏres",
+                "traduzioni": [
+                    "che tu orni",
+                    "che tu abbellisca",
+                    "che tu decori",
+                    "che tu insignisca",
+                    "che tu onori"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dĕcŏret",
+                "traduzioni": [
+                    "che lui orni",
+                    "che lei orni",
+                    "che egli orni",
+                    "che lui abbellisca",
+                    "che lei abbellisca",
+                    "che egli abbellisca",
+                    "che lui decori",
+                    "che lei decori",
+                    "che egli decori",
+                    "che lui insignisca",
+                    "che lei insignisca",
+                    "che egli insignisca",
+                    "che lui onori",
+                    "che lei onori",
+                    "che egli onori"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dĕcŏrēmus",
+                "traduzioni": [
+                    "che noi orniamo",
+                    "che noi abbelliamo",
+                    "che noi decoriamo",
+                    "che noi insigniamo",
+                    "che noi onoriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dĕcŏrētis",
+                "traduzioni": [
+                    "che voi orniate",
+                    "che voi abbelliate",
+                    "che voi decoriate",
+                    "che voi insigniate",
+                    "che voi onoriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dĕcŏrent",
+                "traduzioni": [
+                    "che loro ornino",
+                    "che essi ornino",
+                    "che loro abbelliscano",
+                    "che essi abbelliscano",
+                    "che loro decorino",
+                    "che essi decorino",
+                    "che loro insigniscano",
+                    "che essi insigniscano",
+                    "che loro onorino",
+                    "che essi onorino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dĕcŏrārem",
+                "traduzioni": [
+                    "che io ornassi",
+                    "che io abbellissi",
+                    "che io decorassi",
+                    "che io insignissi",
+                    "che io onorassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dĕcŏrāres",
+                "traduzioni": [
+                    "che tu ornassi",
+                    "che tu abbellissi",
+                    "che tu decorassi",
+                    "che tu insignissi",
+                    "che tu onorassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dĕcŏrāret",
+                "traduzioni": [
+                    "che lui ornasse",
+                    "che lei ornasse",
+                    "che egli ornasse",
+                    "che lui abbellisse",
+                    "che lei abbellisse",
+                    "che egli abbellisse",
+                    "che lui decorasse",
+                    "che lei decorasse",
+                    "che egli decorasse",
+                    "che lui insignisse",
+                    "che lei insignisse",
+                    "che egli insignisse",
+                    "che lui onorasse",
+                    "che lei onorasse",
+                    "che egli onorasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dĕcŏrarēmus",
+                "traduzioni": [
+                    "che noi ornassimo",
+                    "che noi abbellissimo",
+                    "che noi decorassimo",
+                    "che noi insignissimo",
+                    "che noi onorassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dĕcŏrarētis",
+                "traduzioni": [
+                    "che voi ornaste",
+                    "che voi abbelliste",
+                    "che voi decoraste",
+                    "che voi insigniste",
+                    "che voi onoraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dĕcŏrārent",
+                "traduzioni": [
+                    "che loro ornassero",
+                    "che essi ornassero",
+                    "che loro abbellissero",
+                    "che essi abbellissero",
+                    "che loro decorassero",
+                    "che essi decorassero",
+                    "che loro insignissero",
+                    "che essi insignissero",
+                    "che loro onorassero",
+                    "che essi onorassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "decoravĕrim",
+                "traduzioni": [
+                    "che io abbia ornato",
+                    "che io sia abbellito",
+                    "che io sia abbellita",
+                    "che io abbia decorato",
+                    "che io abbia insignito",
+                    "che io abbia onorato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "decoravĕris",
+                "traduzioni": [
+                    "che tu abbia ornato",
+                    "che tu sia abbellito",
+                    "che tu sia abbellita",
+                    "che tu abbia decorato",
+                    "che tu abbia insignito",
+                    "che tu abbia onorato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "decoravĕrit",
+                "traduzioni": [
+                    "che lui abbia ornato",
+                    "che lei abbia ornato",
+                    "che egli abbia ornato",
+                    "che lui sia abbellito",
+                    "che lei sia abbellita",
+                    "che egli sia abbellito",
+                    "che lui abbia decorato",
+                    "che lei abbia decorato",
+                    "che egli abbia decorato",
+                    "che lui abbia insignito",
+                    "che lei abbia insignito",
+                    "che egli abbia insignito",
+                    "che lui abbia onorato",
+                    "che lei abbia onorato",
+                    "che egli abbia onorato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "decoraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo ornato",
+                    "che noi siamo abbelliti",
+                    "che noi siamo abbellite",
+                    "che noi abbiamo decorato",
+                    "che noi abbiamo insignito",
+                    "che noi abbiamo onorato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "decoraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate ornato",
+                    "che voi siate abbelliti",
+                    "che voi siate abbellite",
+                    "che voi abbiate decorato",
+                    "che voi abbiate insignito",
+                    "che voi abbiate onorato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "decoravĕrint",
+                "traduzioni": [
+                    "che loro abbiano ornato",
+                    "che essi abbiano ornato",
+                    "che loro siano abbelliti",
+                    "che loro siano abbellite",
+                    "che essi siano abbelliti",
+                    "che loro abbiano decorato",
+                    "che essi abbiano decorato",
+                    "che loro abbiano insignito",
+                    "che essi abbiano insignito",
+                    "che loro abbiano onorato",
+                    "che essi abbiano onorato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "decoravissem",
+                "traduzioni": [
+                    "che io avessi ornato",
+                    "che io fossi abbellito",
+                    "che io fossi abbellita",
+                    "che io avessi decorato",
+                    "che io avessi insignito",
+                    "che io avessi onorato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "decoravisses",
+                "traduzioni": [
+                    "che tu avessi ornato",
+                    "che tu fossi abbellito",
+                    "che tu fossi abbellita",
+                    "che tu avessi decorato",
+                    "che tu avessi insignito",
+                    "che tu avessi onorato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "decoravisset",
+                "traduzioni": [
+                    "che lui avesse ornato",
+                    "che lei avesse ornato",
+                    "che egli avesse ornato",
+                    "che lui fosse abbellito",
+                    "che lei fosse abbellita",
+                    "che egli fosse abbellito",
+                    "che lui avesse decorato",
+                    "che lei avesse decorato",
+                    "che egli avesse decorato",
+                    "che lui avesse insignito",
+                    "che lei avesse insignito",
+                    "che egli avesse insignito",
+                    "che lui avesse onorato",
+                    "che lei avesse onorato",
+                    "che egli avesse onorato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "decoravissēmus",
+                "traduzioni": [
+                    "che noi avessimo ornato",
+                    "che noi fossimo abbelliti",
+                    "che noi fossimo abbellite",
+                    "che noi avessimo decorato",
+                    "che noi avessimo insignito",
+                    "che noi avessimo onorato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "decoravissētis",
+                "traduzioni": [
+                    "che voi aveste ornato",
+                    "che voi foste abbelliti",
+                    "che voi foste abbellite",
+                    "che voi aveste decorato",
+                    "che voi aveste insignito",
+                    "che voi aveste onorato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "decoravissent",
+                "traduzioni": [
+                    "che loro avessero ornato",
+                    "che essi avessero ornato",
+                    "che loro fossero abbelliti",
+                    "che loro fossero abbellite",
+                    "che essi fossero abbelliti",
+                    "che loro avessero decorato",
+                    "che essi avessero decorato",
+                    "che loro avessero insignito",
+                    "che essi avessero insignito",
+                    "che loro avessero onorato",
+                    "che essi avessero onorato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,612 @@
+{
+    "identifier": "OCCULTO",
+    "conuigazione": "1",
+    "translation": [
+        "nascondere",
+        "occultare"
+    ],
+    "valid_translations": [
+        "nascondere",
+        "occultare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "occulto",
+                "traduzioni": [
+                    "io nascondo",
+                    "io occulto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "occultas",
+                "traduzioni": [
+                    "tu nascondi",
+                    "tu occulti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "occultat",
+                "traduzioni": [
+                    "lui nasconde",
+                    "lei nasconde",
+                    "egli nasconde",
+                    "lui occulta",
+                    "lei occulta",
+                    "egli occulta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "occultāmus",
+                "traduzioni": [
+                    "noi nascondiamo",
+                    "noi occultiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "occultātis",
+                "traduzioni": [
+                    "voi nascondete",
+                    "voi occultate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "occultant",
+                "traduzioni": [
+                    "loro nascondono",
+                    "essi nascondono",
+                    "loro occultano",
+                    "essi occultano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "occultābam",
+                "traduzioni": [
+                    "io nascondevo",
+                    "io occultavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "occultābas",
+                "traduzioni": [
+                    "tu nascondevi",
+                    "tu occultavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "occultābat",
+                "traduzioni": [
+                    "lui nascondeva",
+                    "lei nascondeva",
+                    "egli nascondeva",
+                    "lui occultava",
+                    "lei occultava",
+                    "egli occultava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "occultabāmus",
+                "traduzioni": [
+                    "noi nascondevamo",
+                    "noi occultavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "occultabātis",
+                "traduzioni": [
+                    "voi nascondevate",
+                    "voi occultavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "occultābant",
+                "traduzioni": [
+                    "loro nascondevano",
+                    "essi nascondevano",
+                    "loro occultavano",
+                    "essi occultavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "occultābo",
+                "traduzioni": [
+                    "io nasconderò",
+                    "io occulterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "occultābis",
+                "traduzioni": [
+                    "tu nasconderai",
+                    "tu occulterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "occultābit",
+                "traduzioni": [
+                    "lui nasconderà",
+                    "lei nasconderà",
+                    "egli nasconderà",
+                    "lui occulterà",
+                    "lei occulterà",
+                    "egli occulterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "occultabĭmus",
+                "traduzioni": [
+                    "noi nasconderemo",
+                    "noi occulteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "occultabĭtis",
+                "traduzioni": [
+                    "voi nasconderete",
+                    "voi occulterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "occultābunt",
+                "traduzioni": [
+                    "loro nasconderanno",
+                    "essi nasconderanno",
+                    "loro occulteranno",
+                    "essi occulteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "occultavi",
+                "traduzioni": [
+                    "io nascosi",
+                    "io ho nascosto",
+                    "io ebbi nascosto",
+                    "io occultai",
+                    "io ho occultato",
+                    "io ebbi occultato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "occultavisti",
+                "traduzioni": [
+                    "tu nascondesti",
+                    "tu hai nascosto",
+                    "tu avesti nascosto",
+                    "tu occultasti",
+                    "tu hai occultato",
+                    "tu avesti occultato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "occultavit",
+                "traduzioni": [
+                    "lui nascose",
+                    "lei nascose",
+                    "egli nascose",
+                    "lui ha nascosto",
+                    "lei ha nascosto",
+                    "egli ha nascosto",
+                    "lui ebbe nascosto",
+                    "lei ebbe nascosto",
+                    "egli ebbe nascosto",
+                    "lui occultò",
+                    "lei occultò",
+                    "egli occultò",
+                    "lui ha occultato",
+                    "lei ha occultato",
+                    "egli ha occultato",
+                    "lui ebbe occultato",
+                    "lei ebbe occultato",
+                    "egli ebbe occultato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "occultavĭmus",
+                "traduzioni": [
+                    "noi nascondemmo",
+                    "noi abbiamo nascosto",
+                    "noi avemmo nascosto",
+                    "noi occultammo",
+                    "noi abbiamo occultato",
+                    "noi avemmo occultato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "occultavistis",
+                "traduzioni": [
+                    "voi nascondeste",
+                    "voi avete nascosto",
+                    "voi aveste nascosto",
+                    "voi occultaste",
+                    "voi avete occultato",
+                    "voi aveste occultato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "occultavērunt, occultavēre",
+                "traduzioni": [
+                    "loro nascosero",
+                    "essi nascosero",
+                    "loro hanno nascosto",
+                    "essi hanno nascosto",
+                    "loro ebbero nascosto",
+                    "essi ebbero nascosto",
+                    "loro occultarono",
+                    "essi occultarono",
+                    "loro hanno occultato",
+                    "essi hanno occultato",
+                    "loro ebbero occultato",
+                    "essi ebbero occultato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "occultavĕram",
+                "traduzioni": [
+                    "io avevo nascosto",
+                    "io avevo occultato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "occultavĕras",
+                "traduzioni": [
+                    "tu avevi nascosto",
+                    "tu avevi occultato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "occultavĕrat",
+                "traduzioni": [
+                    "lui aveva nascosto",
+                    "lei aveva nascosto",
+                    "egli aveva nascosto",
+                    "lui aveva occultato",
+                    "lei aveva occultato",
+                    "egli aveva occultato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "occultaverāmus",
+                "traduzioni": [
+                    "noi avevamo nascosto",
+                    "noi avevamo occultato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "occultaverātis",
+                "traduzioni": [
+                    "voi avevate nascosto",
+                    "voi avevate occultato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "occultavĕrant",
+                "traduzioni": [
+                    "loro avevano nascosto",
+                    "essi avevano nascosto",
+                    "loro avevano occultato",
+                    "essi avevano occultato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "occultavĕro",
+                "traduzioni": [
+                    "io avrò nascosto",
+                    "io avrò occultato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "occultavĕris",
+                "traduzioni": [
+                    "tu avrai nascosto",
+                    "tu avrai occultato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "occultavĕrit",
+                "traduzioni": [
+                    "lui avrà nascosto",
+                    "lei avrà nascosto",
+                    "egli avrà nascosto",
+                    "lui avrà occultato",
+                    "lei avrà occultato",
+                    "egli avrà occultato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "occultaverĭmus",
+                "traduzioni": [
+                    "noi avremo nascosto",
+                    "noi avremo occultato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "occultaverĭtis",
+                "traduzioni": [
+                    "voi avrete nascosto",
+                    "voi avrete occultato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "occultavĕrint",
+                "traduzioni": [
+                    "loro avranno nascosto",
+                    "essi avranno nascosto",
+                    "loro avranno occultato",
+                    "essi avranno occultato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "occultem",
+                "traduzioni": [
+                    "che io nasconda",
+                    "che io occulti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "occultes",
+                "traduzioni": [
+                    "che tu nasconda",
+                    "che tu occulti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "occultet",
+                "traduzioni": [
+                    "che lui nasconda",
+                    "che lei nasconda",
+                    "che egli nasconda",
+                    "che lui occulti",
+                    "che lei occulti",
+                    "che egli occulti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "occultēmus",
+                "traduzioni": [
+                    "che noi nascondiamo",
+                    "che noi occultiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "occultētis",
+                "traduzioni": [
+                    "che voi nascondiate",
+                    "che voi occultiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "occultent",
+                "traduzioni": [
+                    "che loro nascondano",
+                    "che essi nascondano",
+                    "che loro occultino",
+                    "che essi occultino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "occultārem",
+                "traduzioni": [
+                    "che io nascondessi",
+                    "che io occultassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "occultāres",
+                "traduzioni": [
+                    "che tu nascondessi",
+                    "che tu occultassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "occultāret",
+                "traduzioni": [
+                    "che lui nascondesse",
+                    "che lei nascondesse",
+                    "che egli nascondesse",
+                    "che lui occultasse",
+                    "che lei occultasse",
+                    "che egli occultasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "occultarēmus",
+                "traduzioni": [
+                    "che noi nascondessimo",
+                    "che noi occultassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "occultarētis",
+                "traduzioni": [
+                    "che voi nascondeste",
+                    "che voi occultaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "occultārent",
+                "traduzioni": [
+                    "che loro nascondessero",
+                    "che essi nascondessero",
+                    "che loro occultassero",
+                    "che essi occultassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "occultavĕrim",
+                "traduzioni": [
+                    "che io abbia nascosto",
+                    "che io abbia occultato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "occultavĕris, occultassis",
+                "traduzioni": [
+                    "che tu abbia nascosto",
+                    "che tu abbia occultato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "occultavĕrit",
+                "traduzioni": [
+                    "che lui abbia nascosto",
+                    "che lei abbia nascosto",
+                    "che egli abbia nascosto",
+                    "che lui abbia occultato",
+                    "che lei abbia occultato",
+                    "che egli abbia occultato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "occultaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo nascosto",
+                    "che noi abbiamo occultato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "occultaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate nascosto",
+                    "che voi abbiate occultato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "occultavĕrint",
+                "traduzioni": [
+                    "che loro abbiano nascosto",
+                    "che essi abbiano nascosto",
+                    "che loro abbiano occultato",
+                    "che essi abbiano occultato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "occultavissem",
+                "traduzioni": [
+                    "che io avessi nascosto",
+                    "che io avessi occultato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "occultavisses",
+                "traduzioni": [
+                    "che tu avessi nascosto",
+                    "che tu avessi occultato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "occultavisset",
+                "traduzioni": [
+                    "che lui avesse nascosto",
+                    "che lei avesse nascosto",
+                    "che egli avesse nascosto",
+                    "che lui avesse occultato",
+                    "che lei avesse occultato",
+                    "che egli avesse occultato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "occultavissēmus",
+                "traduzioni": [
+                    "che noi avessimo nascosto",
+                    "che noi avessimo occultato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "occultavissētis",
+                "traduzioni": [
+                    "che voi aveste nascosto",
+                    "che voi aveste occultato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "occultavissent",
+                "traduzioni": [
+                    "che loro avessero nascosto",
+                    "che essi avessero nascosto",
+                    "che loro avessero occultato",
+                    "che essi avessero occultato"
+                ]
+            }
+        ]
+    }
+}

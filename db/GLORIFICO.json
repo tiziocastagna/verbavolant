@@ -1,0 +1,832 @@
+{
+    "identifier": "GLORIFICO",
+    "conuigazione": "1",
+    "translation": [
+        "glorificare",
+        "esaltare",
+        "magnificare",
+        "celebrare"
+    ],
+    "valid_translations": [
+        "glorificare",
+        "esaltare",
+        "magnificare",
+        "celebrare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "glōrĭfĭco",
+                "traduzioni": [
+                    "io glorifico",
+                    "io esalto",
+                    "io magnifico",
+                    "io celebro"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "glōrĭfĭcas",
+                "traduzioni": [
+                    "tu glorifichi",
+                    "tu esalti",
+                    "tu magnifichi",
+                    "tu celebri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "glōrĭfĭcat",
+                "traduzioni": [
+                    "lui glorifica",
+                    "lei glorifica",
+                    "egli glorifica",
+                    "lui esalta",
+                    "lei esalta",
+                    "egli esalta",
+                    "lui magnifica",
+                    "lei magnifica",
+                    "egli magnifica",
+                    "lui celebra",
+                    "lei celebra",
+                    "egli celebra"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "glōrĭfĭcāmus",
+                "traduzioni": [
+                    "noi glorifichiamo",
+                    "noi esaltiamo",
+                    "noi magnifichiamo",
+                    "noi celebriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "glōrĭfĭcātis",
+                "traduzioni": [
+                    "voi glorificate",
+                    "voi esaltate",
+                    "voi magnificate",
+                    "voi celebrate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "glōrĭfĭcant",
+                "traduzioni": [
+                    "loro glorificano",
+                    "essi glorificano",
+                    "loro esaltano",
+                    "essi esaltano",
+                    "loro magnificano",
+                    "essi magnificano",
+                    "loro celebrano",
+                    "essi celebrano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "glōrĭfĭcābam",
+                "traduzioni": [
+                    "io glorificavo",
+                    "io esaltavo",
+                    "io magnificavo",
+                    "io celebravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "glōrĭfĭcābas",
+                "traduzioni": [
+                    "tu glorificavi",
+                    "tu esaltavi",
+                    "tu magnificavi",
+                    "tu celebravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "glōrĭfĭcābat",
+                "traduzioni": [
+                    "lui glorificava",
+                    "lei glorificava",
+                    "egli glorificava",
+                    "lui esaltava",
+                    "lei esaltava",
+                    "egli esaltava",
+                    "lui magnificava",
+                    "lei magnificava",
+                    "egli magnificava",
+                    "lui celebrava",
+                    "lei celebrava",
+                    "egli celebrava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "glōrĭfĭcabāmus",
+                "traduzioni": [
+                    "noi glorificavamo",
+                    "noi esaltavamo",
+                    "noi magnificavamo",
+                    "noi celebravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "glōrĭfĭcabātis",
+                "traduzioni": [
+                    "voi glorificavate",
+                    "voi esaltavate",
+                    "voi magnificavate",
+                    "voi celebravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "glōrĭfĭcābant",
+                "traduzioni": [
+                    "loro glorificavano",
+                    "essi glorificavano",
+                    "loro esaltavano",
+                    "essi esaltavano",
+                    "loro magnificavano",
+                    "essi magnificavano",
+                    "loro celebravano",
+                    "essi celebravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "glōrĭfĭcābo",
+                "traduzioni": [
+                    "io glorificherò",
+                    "io esalterò",
+                    "io magnificherò",
+                    "io celebrerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "glōrĭfĭcābis",
+                "traduzioni": [
+                    "tu glorificherai",
+                    "tu esalterai",
+                    "tu magnificherai",
+                    "tu celebrerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "glōrĭfĭcābit",
+                "traduzioni": [
+                    "lui glorificherà",
+                    "lei glorificherà",
+                    "egli glorificherà",
+                    "lui esalterà",
+                    "lei esalterà",
+                    "egli esalterà",
+                    "lui magnificherà",
+                    "lei magnificherà",
+                    "egli magnificherà",
+                    "lui celebrerà",
+                    "lei celebrerà",
+                    "egli celebrerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "glōrĭfĭcabĭmus",
+                "traduzioni": [
+                    "noi glorificheremo",
+                    "noi esalteremo",
+                    "noi magnificheremo",
+                    "noi celebreremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "glōrĭfĭcabĭtis",
+                "traduzioni": [
+                    "voi glorificherete",
+                    "voi esalterete",
+                    "voi magnificherete",
+                    "voi celebrerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "glōrĭfĭcābunt",
+                "traduzioni": [
+                    "loro glorificheranno",
+                    "essi glorificheranno",
+                    "loro esalteranno",
+                    "essi esalteranno",
+                    "loro magnificheranno",
+                    "essi magnificheranno",
+                    "loro celebreranno",
+                    "essi celebreranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "glorificavi",
+                "traduzioni": [
+                    "io glorificai",
+                    "io ho glorificato",
+                    "io ebbi glorificato",
+                    "io esaltai",
+                    "io ho esaltato",
+                    "io ebbi esaltato",
+                    "io magnificai",
+                    "io ho magnificato",
+                    "io ebbi magnificato",
+                    "io celebrai",
+                    "io ho celebrato",
+                    "io ebbi celebrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "glorificavisti",
+                "traduzioni": [
+                    "tu glorificasti",
+                    "tu hai glorificato",
+                    "tu avesti glorificato",
+                    "tu esaltasti",
+                    "tu hai esaltato",
+                    "tu avesti esaltato",
+                    "tu magnificasti",
+                    "tu hai magnificato",
+                    "tu avesti magnificato",
+                    "tu celebrasti",
+                    "tu hai celebrato",
+                    "tu avesti celebrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "glorificavit",
+                "traduzioni": [
+                    "lui glorificò",
+                    "lei glorificò",
+                    "egli glorificò",
+                    "lui ha glorificato",
+                    "lei ha glorificato",
+                    "egli ha glorificato",
+                    "lui ebbe glorificato",
+                    "lei ebbe glorificato",
+                    "egli ebbe glorificato",
+                    "lui esaltò",
+                    "lei esaltò",
+                    "egli esaltò",
+                    "lui ha esaltato",
+                    "lei ha esaltato",
+                    "egli ha esaltato",
+                    "lui ebbe esaltato",
+                    "lei ebbe esaltato",
+                    "egli ebbe esaltato",
+                    "lui magnificò",
+                    "lei magnificò",
+                    "egli magnificò",
+                    "lui ha magnificato",
+                    "lei ha magnificato",
+                    "egli ha magnificato",
+                    "lui ebbe magnificato",
+                    "lei ebbe magnificato",
+                    "egli ebbe magnificato",
+                    "lui celebrò",
+                    "lei celebrò",
+                    "egli celebrò",
+                    "lui ha celebrato",
+                    "lei ha celebrato",
+                    "egli ha celebrato",
+                    "lui ebbe celebrato",
+                    "lei ebbe celebrato",
+                    "egli ebbe celebrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "glorificavĭmus",
+                "traduzioni": [
+                    "noi glorificammo",
+                    "noi abbiamo glorificato",
+                    "noi avemmo glorificato",
+                    "noi esaltammo",
+                    "noi abbiamo esaltato",
+                    "noi avemmo esaltato",
+                    "noi magnificammo",
+                    "noi abbiamo magnificato",
+                    "noi avemmo magnificato",
+                    "noi celebrammo",
+                    "noi abbiamo celebrato",
+                    "noi avemmo celebrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "glorificavistis",
+                "traduzioni": [
+                    "voi glorificaste",
+                    "voi avete glorificato",
+                    "voi aveste glorificato",
+                    "voi esaltaste",
+                    "voi avete esaltato",
+                    "voi aveste esaltato",
+                    "voi magnificaste",
+                    "voi avete magnificato",
+                    "voi aveste magnificato",
+                    "voi celebraste",
+                    "voi avete celebrato",
+                    "voi aveste celebrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "glorificavērunt, glorificavēre",
+                "traduzioni": [
+                    "loro glorificarono",
+                    "essi glorificarono",
+                    "loro hanno glorificato",
+                    "essi hanno glorificato",
+                    "loro ebbero glorificato",
+                    "essi ebbero glorificato",
+                    "loro esaltarono",
+                    "essi esaltarono",
+                    "loro hanno esaltato",
+                    "essi hanno esaltato",
+                    "loro ebbero esaltato",
+                    "essi ebbero esaltato",
+                    "loro magnificarono",
+                    "essi magnificarono",
+                    "loro hanno magnificato",
+                    "essi hanno magnificato",
+                    "loro ebbero magnificato",
+                    "essi ebbero magnificato",
+                    "loro celebrarono",
+                    "essi celebrarono",
+                    "loro hanno celebrato",
+                    "essi hanno celebrato",
+                    "loro ebbero celebrato",
+                    "essi ebbero celebrato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "glorificavĕram",
+                "traduzioni": [
+                    "io avevo glorificato",
+                    "io avevo esaltato",
+                    "io avevo magnificato",
+                    "io avevo celebrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "glorificavĕras",
+                "traduzioni": [
+                    "tu avevi glorificato",
+                    "tu avevi esaltato",
+                    "tu avevi magnificato",
+                    "tu avevi celebrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "glorificavĕrat",
+                "traduzioni": [
+                    "lui aveva glorificato",
+                    "lei aveva glorificato",
+                    "egli aveva glorificato",
+                    "lui aveva esaltato",
+                    "lei aveva esaltato",
+                    "egli aveva esaltato",
+                    "lui aveva magnificato",
+                    "lei aveva magnificato",
+                    "egli aveva magnificato",
+                    "lui aveva celebrato",
+                    "lei aveva celebrato",
+                    "egli aveva celebrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "glorificaverāmus",
+                "traduzioni": [
+                    "noi avevamo glorificato",
+                    "noi avevamo esaltato",
+                    "noi avevamo magnificato",
+                    "noi avevamo celebrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "glorificaverātis",
+                "traduzioni": [
+                    "voi avevate glorificato",
+                    "voi avevate esaltato",
+                    "voi avevate magnificato",
+                    "voi avevate celebrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "glorificavĕrant",
+                "traduzioni": [
+                    "loro avevano glorificato",
+                    "essi avevano glorificato",
+                    "loro avevano esaltato",
+                    "essi avevano esaltato",
+                    "loro avevano magnificato",
+                    "essi avevano magnificato",
+                    "loro avevano celebrato",
+                    "essi avevano celebrato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "glorificavĕro",
+                "traduzioni": [
+                    "io avrò glorificato",
+                    "io avrò esaltato",
+                    "io avrò magnificato",
+                    "io avrò celebrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "glorificavĕris",
+                "traduzioni": [
+                    "tu avrai glorificato",
+                    "tu avrai esaltato",
+                    "tu avrai magnificato",
+                    "tu avrai celebrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "glorificavĕrit",
+                "traduzioni": [
+                    "lui avrà glorificato",
+                    "lei avrà glorificato",
+                    "egli avrà glorificato",
+                    "lui avrà esaltato",
+                    "lei avrà esaltato",
+                    "egli avrà esaltato",
+                    "lui avrà magnificato",
+                    "lei avrà magnificato",
+                    "egli avrà magnificato",
+                    "lui avrà celebrato",
+                    "lei avrà celebrato",
+                    "egli avrà celebrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "glorificaverĭmus",
+                "traduzioni": [
+                    "noi avremo glorificato",
+                    "noi avremo esaltato",
+                    "noi avremo magnificato",
+                    "noi avremo celebrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "glorificaverĭtis",
+                "traduzioni": [
+                    "voi avrete glorificato",
+                    "voi avrete esaltato",
+                    "voi avrete magnificato",
+                    "voi avrete celebrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "glorificavĕrint",
+                "traduzioni": [
+                    "loro avranno glorificato",
+                    "essi avranno glorificato",
+                    "loro avranno esaltato",
+                    "essi avranno esaltato",
+                    "loro avranno magnificato",
+                    "essi avranno magnificato",
+                    "loro avranno celebrato",
+                    "essi avranno celebrato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "glōrĭfĭcem",
+                "traduzioni": [
+                    "che io glorifichi",
+                    "che io esalti",
+                    "che io magnifichi",
+                    "che io celebri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "glōrĭfĭces",
+                "traduzioni": [
+                    "che tu glorifichi",
+                    "che tu esalti",
+                    "che tu magnifichi",
+                    "che tu celebri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "glōrĭfĭcet",
+                "traduzioni": [
+                    "che lui glorifichi",
+                    "che lei glorifichi",
+                    "che egli glorifichi",
+                    "che lui esalti",
+                    "che lei esalti",
+                    "che egli esalti",
+                    "che lui magnifichi",
+                    "che lei magnifichi",
+                    "che egli magnifichi",
+                    "che lui celebri",
+                    "che lei celebri",
+                    "che egli celebri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "glōrĭfĭcēmus",
+                "traduzioni": [
+                    "che noi glorifichiamo",
+                    "che noi esaltiamo",
+                    "che noi magnifichiamo",
+                    "che noi celebriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "glōrĭfĭcētis",
+                "traduzioni": [
+                    "che voi glorifichiate",
+                    "che voi esaltiate",
+                    "che voi magnifichiate",
+                    "che voi celebriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "glōrĭfĭcent",
+                "traduzioni": [
+                    "che loro glorifichino",
+                    "che essi glorifichino",
+                    "che loro esaltino",
+                    "che essi esaltino",
+                    "che loro magnifichino",
+                    "che essi magnifichino",
+                    "che loro celebrino",
+                    "che essi celebrino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "glōrĭfĭcārem",
+                "traduzioni": [
+                    "che io glorificassi",
+                    "che io esaltassi",
+                    "che io magnificassi",
+                    "che io celebrassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "glōrĭfĭcāres",
+                "traduzioni": [
+                    "che tu glorificassi",
+                    "che tu esaltassi",
+                    "che tu magnificassi",
+                    "che tu celebrassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "glōrĭfĭcāret",
+                "traduzioni": [
+                    "che lui glorificasse",
+                    "che lei glorificasse",
+                    "che egli glorificasse",
+                    "che lui esaltasse",
+                    "che lei esaltasse",
+                    "che egli esaltasse",
+                    "che lui magnificasse",
+                    "che lei magnificasse",
+                    "che egli magnificasse",
+                    "che lui celebrasse",
+                    "che lei celebrasse",
+                    "che egli celebrasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "glōrĭfĭcarēmus",
+                "traduzioni": [
+                    "che noi glorificassimo",
+                    "che noi esaltassimo",
+                    "che noi magnificassimo",
+                    "che noi celebrassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "glōrĭfĭcarētis",
+                "traduzioni": [
+                    "che voi glorificaste",
+                    "che voi esaltaste",
+                    "che voi magnificaste",
+                    "che voi celebraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "glōrĭfĭcārent",
+                "traduzioni": [
+                    "che loro glorificassero",
+                    "che essi glorificassero",
+                    "che loro esaltassero",
+                    "che essi esaltassero",
+                    "che loro magnificassero",
+                    "che essi magnificassero",
+                    "che loro celebrassero",
+                    "che essi celebrassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "glorificavĕrim",
+                "traduzioni": [
+                    "che io abbia glorificato",
+                    "che io abbia esaltato",
+                    "che io abbia magnificato",
+                    "che io abbia celebrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "glorificavĕris",
+                "traduzioni": [
+                    "che tu abbia glorificato",
+                    "che tu abbia esaltato",
+                    "che tu abbia magnificato",
+                    "che tu abbia celebrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "glorificavĕrit",
+                "traduzioni": [
+                    "che lui abbia glorificato",
+                    "che lei abbia glorificato",
+                    "che egli abbia glorificato",
+                    "che lui abbia esaltato",
+                    "che lei abbia esaltato",
+                    "che egli abbia esaltato",
+                    "che lui abbia magnificato",
+                    "che lei abbia magnificato",
+                    "che egli abbia magnificato",
+                    "che lui abbia celebrato",
+                    "che lei abbia celebrato",
+                    "che egli abbia celebrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "glorificaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo glorificato",
+                    "che noi abbiamo esaltato",
+                    "che noi abbiamo magnificato",
+                    "che noi abbiamo celebrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "glorificaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate glorificato",
+                    "che voi abbiate esaltato",
+                    "che voi abbiate magnificato",
+                    "che voi abbiate celebrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "glorificavĕrint",
+                "traduzioni": [
+                    "che loro abbiano glorificato",
+                    "che essi abbiano glorificato",
+                    "che loro abbiano esaltato",
+                    "che essi abbiano esaltato",
+                    "che loro abbiano magnificato",
+                    "che essi abbiano magnificato",
+                    "che loro abbiano celebrato",
+                    "che essi abbiano celebrato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "glorificavissem",
+                "traduzioni": [
+                    "che io avessi glorificato",
+                    "che io avessi esaltato",
+                    "che io avessi magnificato",
+                    "che io avessi celebrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "glorificavisses",
+                "traduzioni": [
+                    "che tu avessi glorificato",
+                    "che tu avessi esaltato",
+                    "che tu avessi magnificato",
+                    "che tu avessi celebrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "glorificavisset",
+                "traduzioni": [
+                    "che lui avesse glorificato",
+                    "che lei avesse glorificato",
+                    "che egli avesse glorificato",
+                    "che lui avesse esaltato",
+                    "che lei avesse esaltato",
+                    "che egli avesse esaltato",
+                    "che lui avesse magnificato",
+                    "che lei avesse magnificato",
+                    "che egli avesse magnificato",
+                    "che lui avesse celebrato",
+                    "che lei avesse celebrato",
+                    "che egli avesse celebrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "glorificavissēmus",
+                "traduzioni": [
+                    "che noi avessimo glorificato",
+                    "che noi avessimo esaltato",
+                    "che noi avessimo magnificato",
+                    "che noi avessimo celebrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "glorificavissētis",
+                "traduzioni": [
+                    "che voi aveste glorificato",
+                    "che voi aveste esaltato",
+                    "che voi aveste magnificato",
+                    "che voi aveste celebrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "glorificavissent",
+                "traduzioni": [
+                    "che loro avessero glorificato",
+                    "che essi avessero glorificato",
+                    "che loro avessero esaltato",
+                    "che essi avessero esaltato",
+                    "che loro avessero magnificato",
+                    "che essi avessero magnificato",
+                    "che loro avessero celebrato",
+                    "che essi avessero celebrato"
+                ]
+            }
+        ]
+    }
+}

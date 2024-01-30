@@ -1,0 +1,863 @@
+{
+    "identifier": "NECO",
+    "conuigazione": "1",
+    "translation": [
+        "uccidere",
+        "far morire",
+        "spegnere",
+        "soffocare",
+        "opprimere"
+    ],
+    "valid_translations": [
+        "uccidere",
+        "spegnere",
+        "soffocare",
+        "opprimere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "nĕco",
+                "traduzioni": [
+                    "io uccido",
+                    "io spengo",
+                    "io soffoco",
+                    "io opprimo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nĕcas",
+                "traduzioni": [
+                    "tu uccidi",
+                    "tu spegni",
+                    "tu soffochi",
+                    "tu opprimi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nĕcat",
+                "traduzioni": [
+                    "lui uccide",
+                    "lei uccide",
+                    "egli uccide",
+                    "lui spegne",
+                    "lei spegne",
+                    "egli spegne",
+                    "lui soffoca",
+                    "lei soffoca",
+                    "egli soffoca",
+                    "lui opprime",
+                    "lei opprime",
+                    "egli opprime"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nĕcāmus",
+                "traduzioni": [
+                    "noi uccidiamo",
+                    "noi spegniamo",
+                    "noi soffochiamo",
+                    "noi opprimiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nĕcātis",
+                "traduzioni": [
+                    "voi uccidete",
+                    "voi spegnete",
+                    "voi soffocate",
+                    "voi opprimete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nĕcant",
+                "traduzioni": [
+                    "loro uccidono",
+                    "essi uccidono",
+                    "loro spengono",
+                    "essi spengono",
+                    "loro soffocano",
+                    "essi soffocano",
+                    "loro opprimono",
+                    "essi opprimono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "nĕcābam",
+                "traduzioni": [
+                    "io uccidevo",
+                    "io spegnevo",
+                    "io soffocavo",
+                    "io opprimevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nĕcābas",
+                "traduzioni": [
+                    "tu uccidevi",
+                    "tu spegnevi",
+                    "tu soffocavi",
+                    "tu opprimevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nĕcābat",
+                "traduzioni": [
+                    "lui uccideva",
+                    "lei uccideva",
+                    "egli uccideva",
+                    "lui spegneva",
+                    "lei spegneva",
+                    "egli spegneva",
+                    "lui soffocava",
+                    "lei soffocava",
+                    "egli soffocava",
+                    "lui opprimeva",
+                    "lei opprimeva",
+                    "egli opprimeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nĕcabāmus",
+                "traduzioni": [
+                    "noi uccidevamo",
+                    "noi spegnevamo",
+                    "noi soffocavamo",
+                    "noi opprimevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nĕcabātis",
+                "traduzioni": [
+                    "voi uccidevate",
+                    "voi spegnevate",
+                    "voi soffocavate",
+                    "voi opprimevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nĕcābant",
+                "traduzioni": [
+                    "loro uccidevano",
+                    "essi uccidevano",
+                    "loro spegnevano",
+                    "essi spegnevano",
+                    "loro soffocavano",
+                    "essi soffocavano",
+                    "loro opprimevano",
+                    "essi opprimevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "nĕcābo",
+                "traduzioni": [
+                    "io ucciderò",
+                    "io spegnerò",
+                    "io soffocherò",
+                    "io opprimerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nĕcābis",
+                "traduzioni": [
+                    "tu ucciderai",
+                    "tu spegnerai",
+                    "tu soffocherai",
+                    "tu opprimerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nĕcābit",
+                "traduzioni": [
+                    "lui ucciderà",
+                    "lei ucciderà",
+                    "egli ucciderà",
+                    "lui spegnerà",
+                    "lei spegnerà",
+                    "egli spegnerà",
+                    "lui soffocherà",
+                    "lei soffocherà",
+                    "egli soffocherà",
+                    "lui opprimerà",
+                    "lei opprimerà",
+                    "egli opprimerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nĕcabĭmus",
+                "traduzioni": [
+                    "noi uccideremo",
+                    "noi spegneremo",
+                    "noi soffocheremo",
+                    "noi opprimeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nĕcabĭtis",
+                "traduzioni": [
+                    "voi ucciderete",
+                    "voi spegnerete",
+                    "voi soffocherete",
+                    "voi opprimerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nĕcābunt",
+                "traduzioni": [
+                    "loro uccideranno",
+                    "essi uccideranno",
+                    "loro spegneranno",
+                    "essi spegneranno",
+                    "loro soffocheranno",
+                    "essi soffocheranno",
+                    "loro opprimeranno",
+                    "essi opprimeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "necavi, necus",
+                "traduzioni": [
+                    "io uccisi",
+                    "io ho ucciso",
+                    "io ebbi ucciso",
+                    "io spensi",
+                    "io ho spento",
+                    "io ebbi spento",
+                    "io soffocai",
+                    "io sono soffocato",
+                    "io sono soffocata",
+                    "io fui soffocato",
+                    "io fui soffocata",
+                    "io oppressi",
+                    "io ho oppresso",
+                    "io ebbi oppresso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "necavisti",
+                "traduzioni": [
+                    "tu uccidesti",
+                    "tu hai ucciso",
+                    "tu avesti ucciso",
+                    "tu spegnesti",
+                    "tu hai spento",
+                    "tu avesti spento",
+                    "tu soffocasti",
+                    "tu sei soffocato",
+                    "tu sei soffocata",
+                    "tu fosti soffocato",
+                    "tu fosti soffocata",
+                    "tu opprimesti",
+                    "tu hai oppresso",
+                    "tu avesti oppresso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "necavit",
+                "traduzioni": [
+                    "lui uccise",
+                    "lei uccise",
+                    "egli uccise",
+                    "lui ha ucciso",
+                    "lei ha ucciso",
+                    "egli ha ucciso",
+                    "lui ebbe ucciso",
+                    "lei ebbe ucciso",
+                    "egli ebbe ucciso",
+                    "lui spense",
+                    "lei spense",
+                    "egli spense",
+                    "lui ha spento",
+                    "lei ha spento",
+                    "egli ha spento",
+                    "lui ebbe spento",
+                    "lei ebbe spento",
+                    "egli ebbe spento",
+                    "lui soffocò",
+                    "lei soffocò",
+                    "egli soffocò",
+                    "lui è soffocato",
+                    "lei è soffocata",
+                    "egli è soffocato",
+                    "lui fu soffocato",
+                    "lei fu soffocata",
+                    "egli fu soffocato",
+                    "lui oppresse",
+                    "lei oppresse",
+                    "egli oppresse",
+                    "lui ha oppresso",
+                    "lei ha oppresso",
+                    "egli ha oppresso",
+                    "lui ebbe oppresso",
+                    "lei ebbe oppresso",
+                    "egli ebbe oppresso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "necavĭmus",
+                "traduzioni": [
+                    "noi uccidemmo",
+                    "noi abbiamo ucciso",
+                    "noi avemmo ucciso",
+                    "noi spegnemmo",
+                    "noi abbiamo spento",
+                    "noi avemmo spento",
+                    "noi soffocammo",
+                    "noi siamo soffocati",
+                    "noi siamo soffocate",
+                    "noi fummo soffocati",
+                    "noi fummo soffocate",
+                    "noi opprimemmo",
+                    "noi abbiamo oppresso",
+                    "noi avemmo oppresso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "necavistis",
+                "traduzioni": [
+                    "voi uccideste",
+                    "voi avete ucciso",
+                    "voi aveste ucciso",
+                    "voi spegneste",
+                    "voi avete spento",
+                    "voi aveste spento",
+                    "voi soffocaste",
+                    "voi siete soffocati",
+                    "voi siete soffocate",
+                    "voi foste soffocati",
+                    "voi foste soffocate",
+                    "voi opprimeste",
+                    "voi avete oppresso",
+                    "voi aveste oppresso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "necavērunt, necavēre",
+                "traduzioni": [
+                    "loro uccisero",
+                    "essi uccisero",
+                    "loro hanno ucciso",
+                    "essi hanno ucciso",
+                    "loro ebbero ucciso",
+                    "essi ebbero ucciso",
+                    "loro spensero",
+                    "essi spensero",
+                    "loro hanno spento",
+                    "essi hanno spento",
+                    "loro ebbero spento",
+                    "essi ebbero spento",
+                    "loro soffocarono",
+                    "essi soffocarono",
+                    "loro sono soffocati",
+                    "loro sono soffocate",
+                    "essi sono soffocati",
+                    "loro furono soffocati",
+                    "loro furono soffocate",
+                    "essi furono soffocati",
+                    "loro oppressero",
+                    "essi oppressero",
+                    "loro hanno oppresso",
+                    "essi hanno oppresso",
+                    "loro ebbero oppresso",
+                    "essi ebbero oppresso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "necavĕram",
+                "traduzioni": [
+                    "io avevo ucciso",
+                    "io avevo spento",
+                    "io ero soffocato",
+                    "io ero soffocata",
+                    "io avevo oppresso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "necavĕras",
+                "traduzioni": [
+                    "tu avevi ucciso",
+                    "tu avevi spento",
+                    "tu eri soffocato",
+                    "tu eri soffocata",
+                    "tu avevi oppresso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "necavĕrat",
+                "traduzioni": [
+                    "lui aveva ucciso",
+                    "lei aveva ucciso",
+                    "egli aveva ucciso",
+                    "lui aveva spento",
+                    "lei aveva spento",
+                    "egli aveva spento",
+                    "lui era soffocato",
+                    "lei era soffocata",
+                    "egli era soffocato",
+                    "lui aveva oppresso",
+                    "lei aveva oppresso",
+                    "egli aveva oppresso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "necaverāmus",
+                "traduzioni": [
+                    "noi avevamo ucciso",
+                    "noi avevamo spento",
+                    "noi eravamo soffocati",
+                    "noi eravamo soffocate",
+                    "noi avevamo oppresso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "necaverātis",
+                "traduzioni": [
+                    "voi avevate ucciso",
+                    "voi avevate spento",
+                    "voi eravate soffocati",
+                    "voi eravate soffocate",
+                    "voi avevate oppresso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "necavĕrant",
+                "traduzioni": [
+                    "loro avevano ucciso",
+                    "essi avevano ucciso",
+                    "loro avevano spento",
+                    "essi avevano spento",
+                    "loro erano soffocati",
+                    "loro erano soffocate",
+                    "essi erano soffocati",
+                    "loro avevano oppresso",
+                    "essi avevano oppresso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "necavĕro",
+                "traduzioni": [
+                    "io avrò ucciso",
+                    "io avrò spento",
+                    "io sarò soffocato",
+                    "io sarò soffocata",
+                    "io avrò oppresso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "necavĕris",
+                "traduzioni": [
+                    "tu avrai ucciso",
+                    "tu avrai spento",
+                    "tu sarai soffocato",
+                    "tu sarai soffocata",
+                    "tu avrai oppresso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "necavĕrit",
+                "traduzioni": [
+                    "lui avrà ucciso",
+                    "lei avrà ucciso",
+                    "egli avrà ucciso",
+                    "lui avrà spento",
+                    "lei avrà spento",
+                    "egli avrà spento",
+                    "lui sarà soffocato",
+                    "lei sarà soffocata",
+                    "egli sarà soffocato",
+                    "lui avrà oppresso",
+                    "lei avrà oppresso",
+                    "egli avrà oppresso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "necaverĭmus",
+                "traduzioni": [
+                    "noi avremo ucciso",
+                    "noi avremo spento",
+                    "noi saremo soffocati",
+                    "noi saremo soffocate",
+                    "noi avremo oppresso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "necaverĭtis",
+                "traduzioni": [
+                    "voi avrete ucciso",
+                    "voi avrete spento",
+                    "voi sarete soffocati",
+                    "voi sarete soffocate",
+                    "voi avrete oppresso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "necavĕrint",
+                "traduzioni": [
+                    "loro avranno ucciso",
+                    "essi avranno ucciso",
+                    "loro avranno spento",
+                    "essi avranno spento",
+                    "loro saranno soffocati",
+                    "loro saranno soffocate",
+                    "essi saranno soffocati",
+                    "loro avranno oppresso",
+                    "essi avranno oppresso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "nĕcem",
+                "traduzioni": [
+                    "che io uccida",
+                    "che io spenga",
+                    "che io soffochi",
+                    "che io opprima"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nĕces",
+                "traduzioni": [
+                    "che tu uccida",
+                    "che tu spenga",
+                    "che tu soffochi",
+                    "che tu opprima"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nĕcet",
+                "traduzioni": [
+                    "che lui uccida",
+                    "che lei uccida",
+                    "che egli uccida",
+                    "che lui spenga",
+                    "che lei spenga",
+                    "che egli spenga",
+                    "che lui soffochi",
+                    "che lei soffochi",
+                    "che egli soffochi",
+                    "che lui opprima",
+                    "che lei opprima",
+                    "che egli opprima"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nĕcēmus",
+                "traduzioni": [
+                    "che noi uccidiamo",
+                    "che noi spegniamo",
+                    "che noi soffochiamo",
+                    "che noi opprimiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nĕcētis",
+                "traduzioni": [
+                    "che voi uccidiate",
+                    "che voi spegniate",
+                    "che voi soffochiate",
+                    "che voi opprimiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nĕcent",
+                "traduzioni": [
+                    "che loro uccidano",
+                    "che essi uccidano",
+                    "che loro spengano",
+                    "che essi spengano",
+                    "che loro soffochino",
+                    "che essi soffochino",
+                    "che loro opprimano",
+                    "che essi opprimano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "nĕcārem",
+                "traduzioni": [
+                    "che io uccidessi",
+                    "che io spegnessi",
+                    "che io soffocassi",
+                    "che io opprimessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "nĕcāres",
+                "traduzioni": [
+                    "che tu uccidessi",
+                    "che tu spegnessi",
+                    "che tu soffocassi",
+                    "che tu opprimessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "nĕcāret",
+                "traduzioni": [
+                    "che lui uccidesse",
+                    "che lei uccidesse",
+                    "che egli uccidesse",
+                    "che lui spegnesse",
+                    "che lei spegnesse",
+                    "che egli spegnesse",
+                    "che lui soffocasse",
+                    "che lei soffocasse",
+                    "che egli soffocasse",
+                    "che lui opprimesse",
+                    "che lei opprimesse",
+                    "che egli opprimesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "nĕcarēmus",
+                "traduzioni": [
+                    "che noi uccidessimo",
+                    "che noi spegnessimo",
+                    "che noi soffocassimo",
+                    "che noi opprimessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "nĕcarētis",
+                "traduzioni": [
+                    "che voi uccideste",
+                    "che voi spegneste",
+                    "che voi soffocaste",
+                    "che voi opprimeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "nĕcārent",
+                "traduzioni": [
+                    "che loro uccidessero",
+                    "che essi uccidessero",
+                    "che loro spegnessero",
+                    "che essi spegnessero",
+                    "che loro soffocassero",
+                    "che essi soffocassero",
+                    "che loro opprimessero",
+                    "che essi opprimessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "necavĕrim",
+                "traduzioni": [
+                    "che io abbia ucciso",
+                    "che io abbia spento",
+                    "che io sia soffocato",
+                    "che io sia soffocata",
+                    "che io abbia oppresso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "necavĕris",
+                "traduzioni": [
+                    "che tu abbia ucciso",
+                    "che tu abbia spento",
+                    "che tu sia soffocato",
+                    "che tu sia soffocata",
+                    "che tu abbia oppresso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "necavĕrit",
+                "traduzioni": [
+                    "che lui abbia ucciso",
+                    "che lei abbia ucciso",
+                    "che egli abbia ucciso",
+                    "che lui abbia spento",
+                    "che lei abbia spento",
+                    "che egli abbia spento",
+                    "che lui sia soffocato",
+                    "che lei sia soffocata",
+                    "che egli sia soffocato",
+                    "che lui abbia oppresso",
+                    "che lei abbia oppresso",
+                    "che egli abbia oppresso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "necaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo ucciso",
+                    "che noi abbiamo spento",
+                    "che noi siamo soffocati",
+                    "che noi siamo soffocate",
+                    "che noi abbiamo oppresso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "necaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate ucciso",
+                    "che voi abbiate spento",
+                    "che voi siate soffocati",
+                    "che voi siate soffocate",
+                    "che voi abbiate oppresso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "necavĕrint",
+                "traduzioni": [
+                    "che loro abbiano ucciso",
+                    "che essi abbiano ucciso",
+                    "che loro abbiano spento",
+                    "che essi abbiano spento",
+                    "che loro siano soffocati",
+                    "che loro siano soffocate",
+                    "che essi siano soffocati",
+                    "che loro abbiano oppresso",
+                    "che essi abbiano oppresso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "necavissem",
+                "traduzioni": [
+                    "che io avessi ucciso",
+                    "che io avessi spento",
+                    "che io fossi soffocato",
+                    "che io fossi soffocata",
+                    "che io avessi oppresso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "necavisses",
+                "traduzioni": [
+                    "che tu avessi ucciso",
+                    "che tu avessi spento",
+                    "che tu fossi soffocato",
+                    "che tu fossi soffocata",
+                    "che tu avessi oppresso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "necavisset",
+                "traduzioni": [
+                    "che lui avesse ucciso",
+                    "che lei avesse ucciso",
+                    "che egli avesse ucciso",
+                    "che lui avesse spento",
+                    "che lei avesse spento",
+                    "che egli avesse spento",
+                    "che lui fosse soffocato",
+                    "che lei fosse soffocata",
+                    "che egli fosse soffocato",
+                    "che lui avesse oppresso",
+                    "che lei avesse oppresso",
+                    "che egli avesse oppresso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "necavissēmus",
+                "traduzioni": [
+                    "che noi avessimo ucciso",
+                    "che noi avessimo spento",
+                    "che noi fossimo soffocati",
+                    "che noi fossimo soffocate",
+                    "che noi avessimo oppresso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "necavissētis",
+                "traduzioni": [
+                    "che voi aveste ucciso",
+                    "che voi aveste spento",
+                    "che voi foste soffocati",
+                    "che voi foste soffocate",
+                    "che voi aveste oppresso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "necavissent",
+                "traduzioni": [
+                    "che loro avessero ucciso",
+                    "che essi avessero ucciso",
+                    "che loro avessero spento",
+                    "che essi avessero spento",
+                    "che loro fossero soffocati",
+                    "che loro fossero soffocate",
+                    "che essi fossero soffocati",
+                    "che loro avessero oppresso",
+                    "che essi avessero oppresso"
+                ]
+            }
+        ]
+    }
+}

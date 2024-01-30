@@ -1,0 +1,943 @@
+{
+    "identifier": "INCURVO",
+    "conuigazione": "1",
+    "translation": [
+        "incurvare",
+        "piegare",
+        "(in senso figurato) abbattere",
+        "prostrare",
+        "scoraggiare",
+        "commuovere"
+    ],
+    "valid_translations": [
+        "incurvare",
+        "piegare",
+        "prostrare",
+        "scoraggiare",
+        "commuovere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incurvo",
+                "traduzioni": [
+                    "io incurvo",
+                    "io piego",
+                    "io prostro",
+                    "io scoraggio",
+                    "io commuovo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incurvas",
+                "traduzioni": [
+                    "tu incurvi",
+                    "tu pieghi",
+                    "tu prostri",
+                    "tu scoraggi",
+                    "tu commuovi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incurvat",
+                "traduzioni": [
+                    "lui incurva",
+                    "lei incurva",
+                    "egli incurva",
+                    "lui piega",
+                    "lei piega",
+                    "egli piega",
+                    "lui prostra",
+                    "lei prostra",
+                    "egli prostra",
+                    "lui scoraggia",
+                    "lei scoraggia",
+                    "egli scoraggia",
+                    "lui commuove",
+                    "lei commuove",
+                    "egli commuove"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incurvāmus",
+                "traduzioni": [
+                    "noi incurviamo",
+                    "noi pieghiamo",
+                    "noi prostriamo",
+                    "noi scoraggiamo",
+                    "noi comm(u)oviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incurvātis",
+                "traduzioni": [
+                    "voi incurvate",
+                    "voi piegate",
+                    "voi prostrate",
+                    "voi scoraggiate",
+                    "voi comm(u)ovete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incurvant",
+                "traduzioni": [
+                    "loro incurvano",
+                    "essi incurvano",
+                    "loro piegano",
+                    "essi piegano",
+                    "loro prostrano",
+                    "essi prostrano",
+                    "loro scoraggiano",
+                    "essi scoraggiano",
+                    "loro commuovono",
+                    "essi commuovono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incurvābam",
+                "traduzioni": [
+                    "io incurvavo",
+                    "io piegavo",
+                    "io prostravo",
+                    "io scoraggiavo",
+                    "io comm(u)ovevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incurvābas",
+                "traduzioni": [
+                    "tu incurvavi",
+                    "tu piegavi",
+                    "tu prostravi",
+                    "tu scoraggiavi",
+                    "tu comm(u)ovevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incurvābat",
+                "traduzioni": [
+                    "lui incurvava",
+                    "lei incurvava",
+                    "egli incurvava",
+                    "lui piegava",
+                    "lei piegava",
+                    "egli piegava",
+                    "lui prostrava",
+                    "lei prostrava",
+                    "egli prostrava",
+                    "lui scoraggiava",
+                    "lei scoraggiava",
+                    "egli scoraggiava",
+                    "lui comm(u)oveva",
+                    "lei comm(u)oveva",
+                    "egli comm(u)oveva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incurvabāmus",
+                "traduzioni": [
+                    "noi incurvavamo",
+                    "noi piegavamo",
+                    "noi prostravamo",
+                    "noi scoraggiavamo",
+                    "noi comm(u)ovevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incurvabātis",
+                "traduzioni": [
+                    "voi incurvavate",
+                    "voi piegavate",
+                    "voi prostravate",
+                    "voi scoraggiavate",
+                    "voi comm(u)ovevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incurvābant",
+                "traduzioni": [
+                    "loro incurvavano",
+                    "essi incurvavano",
+                    "loro piegavano",
+                    "essi piegavano",
+                    "loro prostravano",
+                    "essi prostravano",
+                    "loro scoraggiavano",
+                    "essi scoraggiavano",
+                    "loro comm(u)ovevano",
+                    "essi comm(u)ovevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incurvābo",
+                "traduzioni": [
+                    "io incurverò",
+                    "io piegherò",
+                    "io prostrerò",
+                    "io scoraggerò",
+                    "io comm(u)overò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incurvābis",
+                "traduzioni": [
+                    "tu incurverai",
+                    "tu piegherai",
+                    "tu prostrerai",
+                    "tu scoraggerai",
+                    "tu comm(u)overai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incurvābit",
+                "traduzioni": [
+                    "lui incurverà",
+                    "lei incurverà",
+                    "egli incurverà",
+                    "lui piegherà",
+                    "lei piegherà",
+                    "egli piegherà",
+                    "lui prostrerà",
+                    "lei prostrerà",
+                    "egli prostrerà",
+                    "lui scoraggerà",
+                    "lei scoraggerà",
+                    "egli scoraggerà",
+                    "lui comm(u)overà",
+                    "lei comm(u)overà",
+                    "egli comm(u)overà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incurvabĭmus",
+                "traduzioni": [
+                    "noi incurveremo",
+                    "noi piegheremo",
+                    "noi prostreremo",
+                    "noi scoraggeremo",
+                    "noi comm(u)overemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incurvabĭtis",
+                "traduzioni": [
+                    "voi incurverete",
+                    "voi piegherete",
+                    "voi prostrerete",
+                    "voi scoraggerete",
+                    "voi comm(u)overete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incurvābunt",
+                "traduzioni": [
+                    "loro incurveranno",
+                    "essi incurveranno",
+                    "loro piegheranno",
+                    "essi piegheranno",
+                    "loro prostreranno",
+                    "essi prostreranno",
+                    "loro scoraggeranno",
+                    "essi scoraggeranno",
+                    "loro comm(u)overanno",
+                    "essi comm(u)overanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incurvavi",
+                "traduzioni": [
+                    "io incurvai",
+                    "io ho incurvato",
+                    "io ebbi incurvato",
+                    "io piegai",
+                    "io ho piegato",
+                    "io ebbi piegato",
+                    "io prostrai",
+                    "io ho prostrato",
+                    "io ebbi prostrato",
+                    "io scoraggiai",
+                    "io ho scoraggiato",
+                    "io ebbi scoraggiato",
+                    "io commossi",
+                    "io ho commosso",
+                    "io ebbi commosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incurvavisti",
+                "traduzioni": [
+                    "tu incurvasti",
+                    "tu hai incurvato",
+                    "tu avesti incurvato",
+                    "tu piegasti",
+                    "tu hai piegato",
+                    "tu avesti piegato",
+                    "tu prostrasti",
+                    "tu hai prostrato",
+                    "tu avesti prostrato",
+                    "tu scoraggiasti",
+                    "tu hai scoraggiato",
+                    "tu avesti scoraggiato",
+                    "tu comm(u)ovesti",
+                    "tu hai commosso",
+                    "tu avesti commosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incurvavit",
+                "traduzioni": [
+                    "lui incurvò",
+                    "lei incurvò",
+                    "egli incurvò",
+                    "lui ha incurvato",
+                    "lei ha incurvato",
+                    "egli ha incurvato",
+                    "lui ebbe incurvato",
+                    "lei ebbe incurvato",
+                    "egli ebbe incurvato",
+                    "lui piegò",
+                    "lei piegò",
+                    "egli piegò",
+                    "lui ha piegato",
+                    "lei ha piegato",
+                    "egli ha piegato",
+                    "lui ebbe piegato",
+                    "lei ebbe piegato",
+                    "egli ebbe piegato",
+                    "lui prostrò",
+                    "lei prostrò",
+                    "egli prostrò",
+                    "lui ha prostrato",
+                    "lei ha prostrato",
+                    "egli ha prostrato",
+                    "lui ebbe prostrato",
+                    "lei ebbe prostrato",
+                    "egli ebbe prostrato",
+                    "lui scoraggiò",
+                    "lei scoraggiò",
+                    "egli scoraggiò",
+                    "lui ha scoraggiato",
+                    "lei ha scoraggiato",
+                    "egli ha scoraggiato",
+                    "lui ebbe scoraggiato",
+                    "lei ebbe scoraggiato",
+                    "egli ebbe scoraggiato",
+                    "lui commosse",
+                    "lei commosse",
+                    "egli commosse",
+                    "lui ha commosso",
+                    "lei ha commosso",
+                    "egli ha commosso",
+                    "lui ebbe commosso",
+                    "lei ebbe commosso",
+                    "egli ebbe commosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incurvavĭmus",
+                "traduzioni": [
+                    "noi incurvammo",
+                    "noi abbiamo incurvato",
+                    "noi avemmo incurvato",
+                    "noi piegammo",
+                    "noi abbiamo piegato",
+                    "noi avemmo piegato",
+                    "noi prostrammo",
+                    "noi abbiamo prostrato",
+                    "noi avemmo prostrato",
+                    "noi scoraggiammo",
+                    "noi abbiamo scoraggiato",
+                    "noi avemmo scoraggiato",
+                    "noi comm(u)ovemmo",
+                    "noi abbiamo commosso",
+                    "noi avemmo commosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incurvavistis",
+                "traduzioni": [
+                    "voi incurvaste",
+                    "voi avete incurvato",
+                    "voi aveste incurvato",
+                    "voi piegaste",
+                    "voi avete piegato",
+                    "voi aveste piegato",
+                    "voi prostraste",
+                    "voi avete prostrato",
+                    "voi aveste prostrato",
+                    "voi scoraggiaste",
+                    "voi avete scoraggiato",
+                    "voi aveste scoraggiato",
+                    "voi comm(u)oveste",
+                    "voi avete commosso",
+                    "voi aveste commosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incurvavērunt, incurvavēre",
+                "traduzioni": [
+                    "loro incurvarono",
+                    "essi incurvarono",
+                    "loro hanno incurvato",
+                    "essi hanno incurvato",
+                    "loro ebbero incurvato",
+                    "essi ebbero incurvato",
+                    "loro piegarono",
+                    "essi piegarono",
+                    "loro hanno piegato",
+                    "essi hanno piegato",
+                    "loro ebbero piegato",
+                    "essi ebbero piegato",
+                    "loro prostrarono",
+                    "essi prostrarono",
+                    "loro hanno prostrato",
+                    "essi hanno prostrato",
+                    "loro ebbero prostrato",
+                    "essi ebbero prostrato",
+                    "loro scoraggiarono",
+                    "essi scoraggiarono",
+                    "loro hanno scoraggiato",
+                    "essi hanno scoraggiato",
+                    "loro ebbero scoraggiato",
+                    "essi ebbero scoraggiato",
+                    "loro commossero",
+                    "essi commossero",
+                    "loro hanno commosso",
+                    "essi hanno commosso",
+                    "loro ebbero commosso",
+                    "essi ebbero commosso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incurvavĕram",
+                "traduzioni": [
+                    "io avevo incurvato",
+                    "io avevo piegato",
+                    "io avevo prostrato",
+                    "io avevo scoraggiato",
+                    "io avevo commosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incurvavĕras",
+                "traduzioni": [
+                    "tu avevi incurvato",
+                    "tu avevi piegato",
+                    "tu avevi prostrato",
+                    "tu avevi scoraggiato",
+                    "tu avevi commosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incurvavĕrat",
+                "traduzioni": [
+                    "lui aveva incurvato",
+                    "lei aveva incurvato",
+                    "egli aveva incurvato",
+                    "lui aveva piegato",
+                    "lei aveva piegato",
+                    "egli aveva piegato",
+                    "lui aveva prostrato",
+                    "lei aveva prostrato",
+                    "egli aveva prostrato",
+                    "lui aveva scoraggiato",
+                    "lei aveva scoraggiato",
+                    "egli aveva scoraggiato",
+                    "lui aveva commosso",
+                    "lei aveva commosso",
+                    "egli aveva commosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incurvaverāmus",
+                "traduzioni": [
+                    "noi avevamo incurvato",
+                    "noi avevamo piegato",
+                    "noi avevamo prostrato",
+                    "noi avevamo scoraggiato",
+                    "noi avevamo commosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incurvaverātis",
+                "traduzioni": [
+                    "voi avevate incurvato",
+                    "voi avevate piegato",
+                    "voi avevate prostrato",
+                    "voi avevate scoraggiato",
+                    "voi avevate commosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incurvavĕrant",
+                "traduzioni": [
+                    "loro avevano incurvato",
+                    "essi avevano incurvato",
+                    "loro avevano piegato",
+                    "essi avevano piegato",
+                    "loro avevano prostrato",
+                    "essi avevano prostrato",
+                    "loro avevano scoraggiato",
+                    "essi avevano scoraggiato",
+                    "loro avevano commosso",
+                    "essi avevano commosso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incurvavĕro",
+                "traduzioni": [
+                    "io avrò incurvato",
+                    "io avrò piegato",
+                    "io avrò prostrato",
+                    "io avrò scoraggiato",
+                    "io avrò commosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incurvavĕris",
+                "traduzioni": [
+                    "tu avrai incurvato",
+                    "tu avrai piegato",
+                    "tu avrai prostrato",
+                    "tu avrai scoraggiato",
+                    "tu avrai commosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incurvavĕrit",
+                "traduzioni": [
+                    "lui avrà incurvato",
+                    "lei avrà incurvato",
+                    "egli avrà incurvato",
+                    "lui avrà piegato",
+                    "lei avrà piegato",
+                    "egli avrà piegato",
+                    "lui avrà prostrato",
+                    "lei avrà prostrato",
+                    "egli avrà prostrato",
+                    "lui avrà scoraggiato",
+                    "lei avrà scoraggiato",
+                    "egli avrà scoraggiato",
+                    "lui avrà commosso",
+                    "lei avrà commosso",
+                    "egli avrà commosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incurvaverĭmus",
+                "traduzioni": [
+                    "noi avremo incurvato",
+                    "noi avremo piegato",
+                    "noi avremo prostrato",
+                    "noi avremo scoraggiato",
+                    "noi avremo commosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incurvaverĭtis",
+                "traduzioni": [
+                    "voi avrete incurvato",
+                    "voi avrete piegato",
+                    "voi avrete prostrato",
+                    "voi avrete scoraggiato",
+                    "voi avrete commosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incurvavĕrint",
+                "traduzioni": [
+                    "loro avranno incurvato",
+                    "essi avranno incurvato",
+                    "loro avranno piegato",
+                    "essi avranno piegato",
+                    "loro avranno prostrato",
+                    "essi avranno prostrato",
+                    "loro avranno scoraggiato",
+                    "essi avranno scoraggiato",
+                    "loro avranno commosso",
+                    "essi avranno commosso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incurvem",
+                "traduzioni": [
+                    "che io incurvi",
+                    "che io pieghi",
+                    "che io prostri",
+                    "che io scoraggi",
+                    "che io commuova"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incurves",
+                "traduzioni": [
+                    "che tu incurvi",
+                    "che tu pieghi",
+                    "che tu prostri",
+                    "che tu scoraggi",
+                    "che tu commuova"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incurvet",
+                "traduzioni": [
+                    "che lui incurvi",
+                    "che lei incurvi",
+                    "che egli incurvi",
+                    "che lui pieghi",
+                    "che lei pieghi",
+                    "che egli pieghi",
+                    "che lui prostri",
+                    "che lei prostri",
+                    "che egli prostri",
+                    "che lui scoraggi",
+                    "che lei scoraggi",
+                    "che egli scoraggi",
+                    "che lui commuova",
+                    "che lei commuova",
+                    "che egli commuova"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incurvēmus",
+                "traduzioni": [
+                    "che noi incurviamo",
+                    "che noi pieghiamo",
+                    "che noi prostriamo",
+                    "che noi scoraggiamo",
+                    "che noi comm(u)oviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incurvētis",
+                "traduzioni": [
+                    "che voi incurviate",
+                    "che voi pieghiate",
+                    "che voi prostriate",
+                    "che voi scoraggiate",
+                    "che voi comm(u)oviate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incurvent",
+                "traduzioni": [
+                    "che loro incurvino",
+                    "che essi incurvino",
+                    "che loro pieghino",
+                    "che essi pieghino",
+                    "che loro prostrino",
+                    "che essi prostrino",
+                    "che loro scoraggino",
+                    "che essi scoraggino",
+                    "che loro commuovano",
+                    "che essi commuovano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incurvārem",
+                "traduzioni": [
+                    "che io incurvassi",
+                    "che io piegassi",
+                    "che io prostrassi",
+                    "che io scoraggiassi",
+                    "che io comm(u)ovessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incurvāres",
+                "traduzioni": [
+                    "che tu incurvassi",
+                    "che tu piegassi",
+                    "che tu prostrassi",
+                    "che tu scoraggiassi",
+                    "che tu comm(u)ovessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incurvāret",
+                "traduzioni": [
+                    "che lui incurvasse",
+                    "che lei incurvasse",
+                    "che egli incurvasse",
+                    "che lui piegasse",
+                    "che lei piegasse",
+                    "che egli piegasse",
+                    "che lui prostrasse",
+                    "che lei prostrasse",
+                    "che egli prostrasse",
+                    "che lui scoraggiasse",
+                    "che lei scoraggiasse",
+                    "che egli scoraggiasse",
+                    "che lui comm(u)ovesse",
+                    "che lei comm(u)ovesse",
+                    "che egli comm(u)ovesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incurvarēmus",
+                "traduzioni": [
+                    "che noi incurvassimo",
+                    "che noi piegassimo",
+                    "che noi prostrassimo",
+                    "che noi scoraggiassimo",
+                    "che noi comm(u)ovessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incurvarētis",
+                "traduzioni": [
+                    "che voi incurvaste",
+                    "che voi piegaste",
+                    "che voi prostraste",
+                    "che voi scoraggiaste",
+                    "che voi comm(u)oveste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incurvārent",
+                "traduzioni": [
+                    "che loro incurvassero",
+                    "che essi incurvassero",
+                    "che loro piegassero",
+                    "che essi piegassero",
+                    "che loro prostrassero",
+                    "che essi prostrassero",
+                    "che loro scoraggiassero",
+                    "che essi scoraggiassero",
+                    "che loro comm(u)ovessero",
+                    "che essi comm(u)ovessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incurvavĕrim",
+                "traduzioni": [
+                    "che io abbia incurvato",
+                    "che io abbia piegato",
+                    "che io abbia prostrato",
+                    "che io abbia scoraggiato",
+                    "che io abbia commosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incurvavĕris",
+                "traduzioni": [
+                    "che tu abbia incurvato",
+                    "che tu abbia piegato",
+                    "che tu abbia prostrato",
+                    "che tu abbia scoraggiato",
+                    "che tu abbia commosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incurvavĕrit",
+                "traduzioni": [
+                    "che lui abbia incurvato",
+                    "che lei abbia incurvato",
+                    "che egli abbia incurvato",
+                    "che lui abbia piegato",
+                    "che lei abbia piegato",
+                    "che egli abbia piegato",
+                    "che lui abbia prostrato",
+                    "che lei abbia prostrato",
+                    "che egli abbia prostrato",
+                    "che lui abbia scoraggiato",
+                    "che lei abbia scoraggiato",
+                    "che egli abbia scoraggiato",
+                    "che lui abbia commosso",
+                    "che lei abbia commosso",
+                    "che egli abbia commosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incurvaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo incurvato",
+                    "che noi abbiamo piegato",
+                    "che noi abbiamo prostrato",
+                    "che noi abbiamo scoraggiato",
+                    "che noi abbiamo commosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incurvaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate incurvato",
+                    "che voi abbiate piegato",
+                    "che voi abbiate prostrato",
+                    "che voi abbiate scoraggiato",
+                    "che voi abbiate commosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incurvavĕrint",
+                "traduzioni": [
+                    "che loro abbiano incurvato",
+                    "che essi abbiano incurvato",
+                    "che loro abbiano piegato",
+                    "che essi abbiano piegato",
+                    "che loro abbiano prostrato",
+                    "che essi abbiano prostrato",
+                    "che loro abbiano scoraggiato",
+                    "che essi abbiano scoraggiato",
+                    "che loro abbiano commosso",
+                    "che essi abbiano commosso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incurvavissem",
+                "traduzioni": [
+                    "che io avessi incurvato",
+                    "che io avessi piegato",
+                    "che io avessi prostrato",
+                    "che io avessi scoraggiato",
+                    "che io avessi commosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incurvavisses",
+                "traduzioni": [
+                    "che tu avessi incurvato",
+                    "che tu avessi piegato",
+                    "che tu avessi prostrato",
+                    "che tu avessi scoraggiato",
+                    "che tu avessi commosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incurvavisset",
+                "traduzioni": [
+                    "che lui avesse incurvato",
+                    "che lei avesse incurvato",
+                    "che egli avesse incurvato",
+                    "che lui avesse piegato",
+                    "che lei avesse piegato",
+                    "che egli avesse piegato",
+                    "che lui avesse prostrato",
+                    "che lei avesse prostrato",
+                    "che egli avesse prostrato",
+                    "che lui avesse scoraggiato",
+                    "che lei avesse scoraggiato",
+                    "che egli avesse scoraggiato",
+                    "che lui avesse commosso",
+                    "che lei avesse commosso",
+                    "che egli avesse commosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incurvavissēmus",
+                "traduzioni": [
+                    "che noi avessimo incurvato",
+                    "che noi avessimo piegato",
+                    "che noi avessimo prostrato",
+                    "che noi avessimo scoraggiato",
+                    "che noi avessimo commosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incurvavissētis",
+                "traduzioni": [
+                    "che voi aveste incurvato",
+                    "che voi aveste piegato",
+                    "che voi aveste prostrato",
+                    "che voi aveste scoraggiato",
+                    "che voi aveste commosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incurvavissent",
+                "traduzioni": [
+                    "che loro avessero incurvato",
+                    "che essi avessero incurvato",
+                    "che loro avessero piegato",
+                    "che essi avessero piegato",
+                    "che loro avessero prostrato",
+                    "che essi avessero prostrato",
+                    "che loro avessero scoraggiato",
+                    "che essi avessero scoraggiato",
+                    "che loro avessero commosso",
+                    "che essi avessero commosso"
+                ]
+            }
+        ]
+    }
+}

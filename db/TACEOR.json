@@ -1,0 +1,510 @@
+{
+    "identifier": "TACEOR",
+    "conuigazione": "2",
+    "translation": [
+        "(intransitivo) tacere",
+        "smettere di parlare",
+        "(transitivo) non dire",
+        "tacere"
+    ],
+    "valid_translations": [
+        "tacere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "tăcĕor",
+                "traduzioni": [
+                    "io taccio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tăcēris, tăcēre",
+                "traduzioni": [
+                    "tu taci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tăcētur",
+                "traduzioni": [
+                    "lui tace",
+                    "lei tace",
+                    "egli tace"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tăcēmur",
+                "traduzioni": [
+                    "noi tacciamo",
+                    "noi taciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tăcemĭni",
+                "traduzioni": [
+                    "voi tacete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tăcentur",
+                "traduzioni": [
+                    "loro tacciono",
+                    "essi tacciono",
+                    "loro taciono",
+                    "essi taciono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "tăcēbar",
+                "traduzioni": [
+                    "io tacevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tăcebāris, tăcebāre",
+                "traduzioni": [
+                    "tu tacevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tăcebātur",
+                "traduzioni": [
+                    "lui taceva",
+                    "lei taceva",
+                    "egli taceva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tăcebāmur",
+                "traduzioni": [
+                    "noi tacevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tăcebamĭni",
+                "traduzioni": [
+                    "voi tacevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tăcebantur",
+                "traduzioni": [
+                    "loro tacevano",
+                    "essi tacevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "tăcēbor",
+                "traduzioni": [
+                    "io tacerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tăcebĕris, tăcebĕre",
+                "traduzioni": [
+                    "tu tacerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tăcebĭtur",
+                "traduzioni": [
+                    "lui tacerà",
+                    "lei tacerà",
+                    "egli tacerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tăcebĭmur",
+                "traduzioni": [
+                    "noi taceremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tăcebimĭni",
+                "traduzioni": [
+                    "voi tacerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tăcebuntur",
+                "traduzioni": [
+                    "loro taceranno",
+                    "essi taceranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "tacitus, –a, –um  sum",
+                "traduzioni": [
+                    "io tacqui",
+                    "io ho taciuto",
+                    "io ebbi taciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tacitus, –a, –um  es",
+                "traduzioni": [
+                    "tu tacesti",
+                    "tu hai taciuto",
+                    "tu avesti taciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tacitus, –a, –um  est",
+                "traduzioni": [
+                    "lui tacque",
+                    "lei tacque",
+                    "egli tacque",
+                    "lui ha taciuto",
+                    "lei ha taciuto",
+                    "egli ha taciuto",
+                    "lui ebbe taciuto",
+                    "lei ebbe taciuto",
+                    "egli ebbe taciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "taciti, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi tacemmo",
+                    "noi abbiamo taciuto",
+                    "noi avemmo taciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "taciti, –ae, –a  estis",
+                "traduzioni": [
+                    "voi taceste",
+                    "voi avete taciuto",
+                    "voi aveste taciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "taciti, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro tacquero",
+                    "essi tacquero",
+                    "loro hanno taciuto",
+                    "essi hanno taciuto",
+                    "loro ebbero taciuto",
+                    "essi ebbero taciuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "tacitus, –a, –um  eram",
+                "traduzioni": [
+                    "io avevo taciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tacitus, –a, –um  eras",
+                "traduzioni": [
+                    "tu avevi taciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tacitus, –a, –um  erat",
+                "traduzioni": [
+                    "lui aveva taciuto",
+                    "lei aveva taciuto",
+                    "egli aveva taciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "taciti, –ae, –a  eramus",
+                "traduzioni": [
+                    "noi avevamo taciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "taciti, –ae, –a  eratis",
+                "traduzioni": [
+                    "voi avevate taciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "taciti, –ae, –a  erant",
+                "traduzioni": [
+                    "loro avevano taciuto",
+                    "essi avevano taciuto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "tacitus, –a, –um  ero",
+                "traduzioni": [
+                    "io avrò taciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tacitus, –a, –um  eris",
+                "traduzioni": [
+                    "tu avrai taciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tacitus, –a, –um  erit",
+                "traduzioni": [
+                    "lui avrà taciuto",
+                    "lei avrà taciuto",
+                    "egli avrà taciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "taciti, –ae, –a  erimus",
+                "traduzioni": [
+                    "noi avremo taciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "taciti, –ae, –a  eritis",
+                "traduzioni": [
+                    "voi avrete taciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "taciti, –ae, –a  erunt",
+                "traduzioni": [
+                    "loro avranno taciuto",
+                    "essi avranno taciuto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "tăcĕar",
+                "traduzioni": [
+                    "che io taccia"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tăceāris, tăceāre",
+                "traduzioni": [
+                    "che tu taccia"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tăceātur",
+                "traduzioni": [
+                    "che lui taccia",
+                    "che lei taccia",
+                    "che egli taccia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tăceāmur",
+                "traduzioni": [
+                    "che noi tacciamo",
+                    "che noi taciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tăceamĭni",
+                "traduzioni": [
+                    "che voi tacciate",
+                    "che voi taciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tăceantur",
+                "traduzioni": [
+                    "che loro tacciano",
+                    "che essi tacciano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "tăcērer",
+                "traduzioni": [
+                    "che io tacessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tăcerēris, tăcerēre",
+                "traduzioni": [
+                    "che tu tacessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tăcerētur",
+                "traduzioni": [
+                    "che lui tacesse",
+                    "che lei tacesse",
+                    "che egli tacesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tăcerēmur",
+                "traduzioni": [
+                    "che noi tacessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tăceremĭni",
+                "traduzioni": [
+                    "che voi taceste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tăcerentur",
+                "traduzioni": [
+                    "che loro tacessero",
+                    "che essi tacessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "tacitus, –a, –um  sim",
+                "traduzioni": [
+                    "che io abbia taciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tacitus, –a, –um  sis",
+                "traduzioni": [
+                    "che tu abbia taciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tacitus, –a, –um  sit",
+                "traduzioni": [
+                    "che lui abbia taciuto",
+                    "che lei abbia taciuto",
+                    "che egli abbia taciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "taciti, –ae, –a  simus",
+                "traduzioni": [
+                    "che noi abbiamo taciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "taciti, –ae, –a  sitis",
+                "traduzioni": [
+                    "che voi abbiate taciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "taciti, –ae, –a  sint",
+                "traduzioni": [
+                    "che loro abbiano taciuto",
+                    "che essi abbiano taciuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "tacitus, –a, –um  essem",
+                "traduzioni": [
+                    "che io avessi taciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tacitus, –a, –um  esses",
+                "traduzioni": [
+                    "che tu avessi taciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tacitus, –a, –um  esset",
+                "traduzioni": [
+                    "che lui avesse taciuto",
+                    "che lei avesse taciuto",
+                    "che egli avesse taciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "taciti, –ae, –a  essemus",
+                "traduzioni": [
+                    "che noi avessimo taciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "taciti, –ae, –a  essetis",
+                "traduzioni": [
+                    "che voi aveste taciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "taciti, –ae, –a  essent",
+                "traduzioni": [
+                    "che loro avessero taciuto",
+                    "che essi avessero taciuto"
+                ]
+            }
+        ]
+    }
+}

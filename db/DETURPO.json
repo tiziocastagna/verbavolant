@@ -1,0 +1,723 @@
+{
+    "identifier": "DETURPO",
+    "conuigazione": "1",
+    "translation": [
+        "deturpare",
+        "sfigurare",
+        "(in senso figurato) disonorare",
+        "infamare"
+    ],
+    "valid_translations": [
+        "deturpare",
+        "sfigurare",
+        "infamare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēturpo",
+                "traduzioni": [
+                    "io deturpo",
+                    "io sfiguro",
+                    "io infamo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēturpas",
+                "traduzioni": [
+                    "tu deturpi",
+                    "tu sfiguri",
+                    "tu infami"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēturpat",
+                "traduzioni": [
+                    "lui deturpa",
+                    "lei deturpa",
+                    "egli deturpa",
+                    "lui sfigura",
+                    "lei sfigura",
+                    "egli sfigura",
+                    "lui infama",
+                    "lei infama",
+                    "egli infama"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēturpāmus",
+                "traduzioni": [
+                    "noi deturpiamo",
+                    "noi sfiguriamo",
+                    "noi infamiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēturpātis",
+                "traduzioni": [
+                    "voi deturpate",
+                    "voi sfigurate",
+                    "voi infamate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēturpant",
+                "traduzioni": [
+                    "loro deturpano",
+                    "essi deturpano",
+                    "loro sfigurano",
+                    "essi sfigurano",
+                    "loro infamano",
+                    "essi infamano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēturpābam",
+                "traduzioni": [
+                    "io deturpavo",
+                    "io sfiguravo",
+                    "io infamavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēturpābas",
+                "traduzioni": [
+                    "tu deturpavi",
+                    "tu sfiguravi",
+                    "tu infamavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēturpābat",
+                "traduzioni": [
+                    "lui deturpava",
+                    "lei deturpava",
+                    "egli deturpava",
+                    "lui sfigurava",
+                    "lei sfigurava",
+                    "egli sfigurava",
+                    "lui infamava",
+                    "lei infamava",
+                    "egli infamava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēturpabāmus",
+                "traduzioni": [
+                    "noi deturpavamo",
+                    "noi sfiguravamo",
+                    "noi infamavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēturpabātis",
+                "traduzioni": [
+                    "voi deturpavate",
+                    "voi sfiguravate",
+                    "voi infamavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēturpābant",
+                "traduzioni": [
+                    "loro deturpavano",
+                    "essi deturpavano",
+                    "loro sfiguravano",
+                    "essi sfiguravano",
+                    "loro infamavano",
+                    "essi infamavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēturpābo",
+                "traduzioni": [
+                    "io deturperò",
+                    "io sfigurerò",
+                    "io infamerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēturpābis",
+                "traduzioni": [
+                    "tu deturperai",
+                    "tu sfigurerai",
+                    "tu infamerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēturpābit",
+                "traduzioni": [
+                    "lui deturperà",
+                    "lei deturperà",
+                    "egli deturperà",
+                    "lui sfigurerà",
+                    "lei sfigurerà",
+                    "egli sfigurerà",
+                    "lui infamerà",
+                    "lei infamerà",
+                    "egli infamerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēturpabĭmus",
+                "traduzioni": [
+                    "noi deturperemo",
+                    "noi sfigureremo",
+                    "noi infameremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēturpabĭtis",
+                "traduzioni": [
+                    "voi deturperete",
+                    "voi sfigurerete",
+                    "voi infamerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēturpābunt",
+                "traduzioni": [
+                    "loro deturperanno",
+                    "essi deturperanno",
+                    "loro sfigureranno",
+                    "essi sfigureranno",
+                    "loro infameranno",
+                    "essi infameranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "deturpavi",
+                "traduzioni": [
+                    "io deturpai",
+                    "io ho deturpato",
+                    "io ebbi deturpato",
+                    "io sfigurai",
+                    "io ho sfigurato",
+                    "io ebbi sfigurato",
+                    "io infamai",
+                    "io ho infamato",
+                    "io ebbi infamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "deturpavisti",
+                "traduzioni": [
+                    "tu deturpasti",
+                    "tu hai deturpato",
+                    "tu avesti deturpato",
+                    "tu sfigurasti",
+                    "tu hai sfigurato",
+                    "tu avesti sfigurato",
+                    "tu infamasti",
+                    "tu hai infamato",
+                    "tu avesti infamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "deturpavit",
+                "traduzioni": [
+                    "lui deturpò",
+                    "lei deturpò",
+                    "egli deturpò",
+                    "lui ha deturpato",
+                    "lei ha deturpato",
+                    "egli ha deturpato",
+                    "lui ebbe deturpato",
+                    "lei ebbe deturpato",
+                    "egli ebbe deturpato",
+                    "lui sfigurò",
+                    "lei sfigurò",
+                    "egli sfigurò",
+                    "lui ha sfigurato",
+                    "lei ha sfigurato",
+                    "egli ha sfigurato",
+                    "lui ebbe sfigurato",
+                    "lei ebbe sfigurato",
+                    "egli ebbe sfigurato",
+                    "lui infamò",
+                    "lei infamò",
+                    "egli infamò",
+                    "lui ha infamato",
+                    "lei ha infamato",
+                    "egli ha infamato",
+                    "lui ebbe infamato",
+                    "lei ebbe infamato",
+                    "egli ebbe infamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "deturpavĭmus",
+                "traduzioni": [
+                    "noi deturpammo",
+                    "noi abbiamo deturpato",
+                    "noi avemmo deturpato",
+                    "noi sfigurammo",
+                    "noi abbiamo sfigurato",
+                    "noi avemmo sfigurato",
+                    "noi infamammo",
+                    "noi abbiamo infamato",
+                    "noi avemmo infamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "deturpavistis",
+                "traduzioni": [
+                    "voi deturpaste",
+                    "voi avete deturpato",
+                    "voi aveste deturpato",
+                    "voi sfiguraste",
+                    "voi avete sfigurato",
+                    "voi aveste sfigurato",
+                    "voi infamaste",
+                    "voi avete infamato",
+                    "voi aveste infamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "deturpavērunt, deturpavēre",
+                "traduzioni": [
+                    "loro deturparono",
+                    "essi deturparono",
+                    "loro hanno deturpato",
+                    "essi hanno deturpato",
+                    "loro ebbero deturpato",
+                    "essi ebbero deturpato",
+                    "loro sfigurarono",
+                    "essi sfigurarono",
+                    "loro hanno sfigurato",
+                    "essi hanno sfigurato",
+                    "loro ebbero sfigurato",
+                    "essi ebbero sfigurato",
+                    "loro infamarono",
+                    "essi infamarono",
+                    "loro hanno infamato",
+                    "essi hanno infamato",
+                    "loro ebbero infamato",
+                    "essi ebbero infamato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "deturpavĕram",
+                "traduzioni": [
+                    "io avevo deturpato",
+                    "io avevo sfigurato",
+                    "io avevo infamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "deturpavĕras",
+                "traduzioni": [
+                    "tu avevi deturpato",
+                    "tu avevi sfigurato",
+                    "tu avevi infamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "deturpavĕrat",
+                "traduzioni": [
+                    "lui aveva deturpato",
+                    "lei aveva deturpato",
+                    "egli aveva deturpato",
+                    "lui aveva sfigurato",
+                    "lei aveva sfigurato",
+                    "egli aveva sfigurato",
+                    "lui aveva infamato",
+                    "lei aveva infamato",
+                    "egli aveva infamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "deturpaverāmus",
+                "traduzioni": [
+                    "noi avevamo deturpato",
+                    "noi avevamo sfigurato",
+                    "noi avevamo infamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "deturpaverātis",
+                "traduzioni": [
+                    "voi avevate deturpato",
+                    "voi avevate sfigurato",
+                    "voi avevate infamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "deturpavĕrant",
+                "traduzioni": [
+                    "loro avevano deturpato",
+                    "essi avevano deturpato",
+                    "loro avevano sfigurato",
+                    "essi avevano sfigurato",
+                    "loro avevano infamato",
+                    "essi avevano infamato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "deturpavĕro",
+                "traduzioni": [
+                    "io avrò deturpato",
+                    "io avrò sfigurato",
+                    "io avrò infamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "deturpavĕris",
+                "traduzioni": [
+                    "tu avrai deturpato",
+                    "tu avrai sfigurato",
+                    "tu avrai infamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "deturpavĕrit",
+                "traduzioni": [
+                    "lui avrà deturpato",
+                    "lei avrà deturpato",
+                    "egli avrà deturpato",
+                    "lui avrà sfigurato",
+                    "lei avrà sfigurato",
+                    "egli avrà sfigurato",
+                    "lui avrà infamato",
+                    "lei avrà infamato",
+                    "egli avrà infamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "deturpaverĭmus",
+                "traduzioni": [
+                    "noi avremo deturpato",
+                    "noi avremo sfigurato",
+                    "noi avremo infamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "deturpaverĭtis",
+                "traduzioni": [
+                    "voi avrete deturpato",
+                    "voi avrete sfigurato",
+                    "voi avrete infamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "deturpavĕrint",
+                "traduzioni": [
+                    "loro avranno deturpato",
+                    "essi avranno deturpato",
+                    "loro avranno sfigurato",
+                    "essi avranno sfigurato",
+                    "loro avranno infamato",
+                    "essi avranno infamato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēturpem",
+                "traduzioni": [
+                    "che io deturpi",
+                    "che io sfiguri",
+                    "che io infami"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēturpes",
+                "traduzioni": [
+                    "che tu deturpi",
+                    "che tu sfiguri",
+                    "che tu infami"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēturpet",
+                "traduzioni": [
+                    "che lui deturpi",
+                    "che lei deturpi",
+                    "che egli deturpi",
+                    "che lui sfiguri",
+                    "che lei sfiguri",
+                    "che egli sfiguri",
+                    "che lui infami",
+                    "che lei infami",
+                    "che egli infami"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēturpēmus",
+                "traduzioni": [
+                    "che noi deturpiamo",
+                    "che noi sfiguriamo",
+                    "che noi infamiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēturpētis",
+                "traduzioni": [
+                    "che voi deturpiate",
+                    "che voi sfiguriate",
+                    "che voi infamiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēturpent",
+                "traduzioni": [
+                    "che loro deturpino",
+                    "che essi deturpino",
+                    "che loro sfigurino",
+                    "che essi sfigurino",
+                    "che loro infamino",
+                    "che essi infamino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēturpārem",
+                "traduzioni": [
+                    "che io deturpassi",
+                    "che io sfigurassi",
+                    "che io infamassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēturpāres",
+                "traduzioni": [
+                    "che tu deturpassi",
+                    "che tu sfigurassi",
+                    "che tu infamassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēturpāret",
+                "traduzioni": [
+                    "che lui deturpasse",
+                    "che lei deturpasse",
+                    "che egli deturpasse",
+                    "che lui sfigurasse",
+                    "che lei sfigurasse",
+                    "che egli sfigurasse",
+                    "che lui infamasse",
+                    "che lei infamasse",
+                    "che egli infamasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēturparēmus",
+                "traduzioni": [
+                    "che noi deturpassimo",
+                    "che noi sfigurassimo",
+                    "che noi infamassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēturparētis",
+                "traduzioni": [
+                    "che voi deturpaste",
+                    "che voi sfiguraste",
+                    "che voi infamaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēturpārent",
+                "traduzioni": [
+                    "che loro deturpassero",
+                    "che essi deturpassero",
+                    "che loro sfigurassero",
+                    "che essi sfigurassero",
+                    "che loro infamassero",
+                    "che essi infamassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "deturpavĕrim",
+                "traduzioni": [
+                    "che io abbia deturpato",
+                    "che io abbia sfigurato",
+                    "che io abbia infamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "deturpavĕris",
+                "traduzioni": [
+                    "che tu abbia deturpato",
+                    "che tu abbia sfigurato",
+                    "che tu abbia infamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "deturpavĕrit",
+                "traduzioni": [
+                    "che lui abbia deturpato",
+                    "che lei abbia deturpato",
+                    "che egli abbia deturpato",
+                    "che lui abbia sfigurato",
+                    "che lei abbia sfigurato",
+                    "che egli abbia sfigurato",
+                    "che lui abbia infamato",
+                    "che lei abbia infamato",
+                    "che egli abbia infamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "deturpaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo deturpato",
+                    "che noi abbiamo sfigurato",
+                    "che noi abbiamo infamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "deturpaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate deturpato",
+                    "che voi abbiate sfigurato",
+                    "che voi abbiate infamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "deturpavĕrint",
+                "traduzioni": [
+                    "che loro abbiano deturpato",
+                    "che essi abbiano deturpato",
+                    "che loro abbiano sfigurato",
+                    "che essi abbiano sfigurato",
+                    "che loro abbiano infamato",
+                    "che essi abbiano infamato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "deturpavissem",
+                "traduzioni": [
+                    "che io avessi deturpato",
+                    "che io avessi sfigurato",
+                    "che io avessi infamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "deturpavisses",
+                "traduzioni": [
+                    "che tu avessi deturpato",
+                    "che tu avessi sfigurato",
+                    "che tu avessi infamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "deturpavisset",
+                "traduzioni": [
+                    "che lui avesse deturpato",
+                    "che lei avesse deturpato",
+                    "che egli avesse deturpato",
+                    "che lui avesse sfigurato",
+                    "che lei avesse sfigurato",
+                    "che egli avesse sfigurato",
+                    "che lui avesse infamato",
+                    "che lei avesse infamato",
+                    "che egli avesse infamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "deturpavissēmus",
+                "traduzioni": [
+                    "che noi avessimo deturpato",
+                    "che noi avessimo sfigurato",
+                    "che noi avessimo infamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "deturpavissētis",
+                "traduzioni": [
+                    "che voi aveste deturpato",
+                    "che voi aveste sfigurato",
+                    "che voi aveste infamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "deturpavissent",
+                "traduzioni": [
+                    "che loro avessero deturpato",
+                    "che essi avessero deturpato",
+                    "che loro avessero sfigurato",
+                    "che essi avessero sfigurato",
+                    "che loro avessero infamato",
+                    "che essi avessero infamato"
+                ]
+            }
+        ]
+    }
+}

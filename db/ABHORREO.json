@@ -1,0 +1,834 @@
+{
+    "identifier": "ABHORREO",
+    "conuigazione": "2",
+    "translation": [
+        "(intransitivo) aborrire",
+        "discordare",
+        "(transitivo). rifuggire",
+        "odiare",
+        "detestare",
+        "aborrire"
+    ],
+    "valid_translations": [
+        "discordare",
+        "odiare",
+        "detestare",
+        "aborrire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbhorrĕo",
+                "traduzioni": [
+                    "io discordo",
+                    "io odio",
+                    "io detesto",
+                    "io aborr(isc)o"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbhorres",
+                "traduzioni": [
+                    "tu discordi",
+                    "tu odii",
+                    "tu detesti",
+                    "tu aborr(isc)i"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbhorret",
+                "traduzioni": [
+                    "lui discorda",
+                    "lei discorda",
+                    "egli discorda",
+                    "lui odia",
+                    "lei odia",
+                    "egli odia",
+                    "lui detesta",
+                    "lei detesta",
+                    "egli detesta",
+                    "lui aborr(isc)e",
+                    "lei aborr(isc)e",
+                    "egli aborr(isc)e"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbhorrēmus",
+                "traduzioni": [
+                    "noi discordiamo",
+                    "noi odiamo",
+                    "noi detestiamo",
+                    "noi aborriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbhorrētis",
+                "traduzioni": [
+                    "voi discordate",
+                    "voi odiate",
+                    "voi detestate",
+                    "voi aborrite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbhorrent",
+                "traduzioni": [
+                    "loro discordano",
+                    "essi discordano",
+                    "loro odiano",
+                    "essi odiano",
+                    "loro detestano",
+                    "essi detestano",
+                    "loro aborr(isc)ono",
+                    "essi aborr(isc)ono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbhorrēbam",
+                "traduzioni": [
+                    "io discordavo",
+                    "io odiavo",
+                    "io detestavo",
+                    "io aborrivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbhorrēbas",
+                "traduzioni": [
+                    "tu discordavi",
+                    "tu odiavi",
+                    "tu detestavi",
+                    "tu aborrivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbhorrēbat",
+                "traduzioni": [
+                    "lui discordava",
+                    "lei discordava",
+                    "egli discordava",
+                    "lui odiava",
+                    "lei odiava",
+                    "egli odiava",
+                    "lui detestava",
+                    "lei detestava",
+                    "egli detestava",
+                    "lui aborriva",
+                    "lei aborriva",
+                    "egli aborriva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbhorrebāmus",
+                "traduzioni": [
+                    "noi discordavamo",
+                    "noi odiavamo",
+                    "noi detestavamo",
+                    "noi aborrivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbhorrebātis",
+                "traduzioni": [
+                    "voi discordavate",
+                    "voi odiavate",
+                    "voi detestavate",
+                    "voi aborrivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbhorrēbant",
+                "traduzioni": [
+                    "loro discordavano",
+                    "essi discordavano",
+                    "loro odiavano",
+                    "essi odiavano",
+                    "loro detestavano",
+                    "essi detestavano",
+                    "loro aborrivano",
+                    "essi aborrivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbhorrēbo",
+                "traduzioni": [
+                    "io discorderò",
+                    "io odierò",
+                    "io detesterò",
+                    "io aborrirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbhorrēbis",
+                "traduzioni": [
+                    "tu discorderai",
+                    "tu odierai",
+                    "tu detesterai",
+                    "tu aborrirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbhorrēbit",
+                "traduzioni": [
+                    "lui discorderà",
+                    "lei discorderà",
+                    "egli discorderà",
+                    "lui odierà",
+                    "lei odierà",
+                    "egli odierà",
+                    "lui detesterà",
+                    "lei detesterà",
+                    "egli detesterà",
+                    "lui aborrirà",
+                    "lei aborrirà",
+                    "egli aborrirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbhorrebĭmus",
+                "traduzioni": [
+                    "noi discorderemo",
+                    "noi odieremo",
+                    "noi detesteremo",
+                    "noi aborriremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbhorrebĭtis",
+                "traduzioni": [
+                    "voi discorderete",
+                    "voi odierete",
+                    "voi detesterete",
+                    "voi aborrirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbhorrēbunt",
+                "traduzioni": [
+                    "loro discorderanno",
+                    "essi discorderanno",
+                    "loro odieranno",
+                    "essi odieranno",
+                    "loro detesteranno",
+                    "essi detesteranno",
+                    "loro aborriranno",
+                    "essi aborriranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abhorrui",
+                "traduzioni": [
+                    "io discordai",
+                    "io ho discordato",
+                    "io ebbi discordato",
+                    "io odiai",
+                    "io ho odiato",
+                    "io ebbi odiato",
+                    "io detestai",
+                    "io ho detestato",
+                    "io ebbi detestato",
+                    "io aborrii",
+                    "io ho aborrito",
+                    "io ebbi aborrito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abhorruisti",
+                "traduzioni": [
+                    "tu discordasti",
+                    "tu hai discordato",
+                    "tu avesti discordato",
+                    "tu odiasti",
+                    "tu hai odiato",
+                    "tu avesti odiato",
+                    "tu detestasti",
+                    "tu hai detestato",
+                    "tu avesti detestato",
+                    "tu aborristi",
+                    "tu hai aborrito",
+                    "tu avesti aborrito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abhorruit",
+                "traduzioni": [
+                    "lui discordò",
+                    "lei discordò",
+                    "egli discordò",
+                    "lui ha discordato",
+                    "lei ha discordato",
+                    "egli ha discordato",
+                    "lui ebbe discordato",
+                    "lei ebbe discordato",
+                    "egli ebbe discordato",
+                    "lui odiò",
+                    "lei odiò",
+                    "egli odiò",
+                    "lui ha odiato",
+                    "lei ha odiato",
+                    "egli ha odiato",
+                    "lui ebbe odiato",
+                    "lei ebbe odiato",
+                    "egli ebbe odiato",
+                    "lui detestò",
+                    "lei detestò",
+                    "egli detestò",
+                    "lui ha detestato",
+                    "lei ha detestato",
+                    "egli ha detestato",
+                    "lui ebbe detestato",
+                    "lei ebbe detestato",
+                    "egli ebbe detestato",
+                    "lui aborrì",
+                    "lei aborrì",
+                    "egli aborrì",
+                    "lui ha aborrito",
+                    "lei ha aborrito",
+                    "egli ha aborrito",
+                    "lui ebbe aborrito",
+                    "lei ebbe aborrito",
+                    "egli ebbe aborrito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abhorruĭmus",
+                "traduzioni": [
+                    "noi discordammo",
+                    "noi abbiamo discordato",
+                    "noi avemmo discordato",
+                    "noi odiammo",
+                    "noi abbiamo odiato",
+                    "noi avemmo odiato",
+                    "noi detestammo",
+                    "noi abbiamo detestato",
+                    "noi avemmo detestato",
+                    "noi aborrimmo",
+                    "noi abbiamo aborrito",
+                    "noi avemmo aborrito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abhorruistis",
+                "traduzioni": [
+                    "voi discordaste",
+                    "voi avete discordato",
+                    "voi aveste discordato",
+                    "voi odiaste",
+                    "voi avete odiato",
+                    "voi aveste odiato",
+                    "voi detestaste",
+                    "voi avete detestato",
+                    "voi aveste detestato",
+                    "voi aborriste",
+                    "voi avete aborrito",
+                    "voi aveste aborrito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abhorruērunt, abhorruēre",
+                "traduzioni": [
+                    "loro discordarono",
+                    "essi discordarono",
+                    "loro hanno discordato",
+                    "essi hanno discordato",
+                    "loro ebbero discordato",
+                    "essi ebbero discordato",
+                    "loro odiarono",
+                    "essi odiarono",
+                    "loro hanno odiato",
+                    "essi hanno odiato",
+                    "loro ebbero odiato",
+                    "essi ebbero odiato",
+                    "loro detestarono",
+                    "essi detestarono",
+                    "loro hanno detestato",
+                    "essi hanno detestato",
+                    "loro ebbero detestato",
+                    "essi ebbero detestato",
+                    "loro aborrirono",
+                    "essi aborrirono",
+                    "loro hanno aborrito",
+                    "essi hanno aborrito",
+                    "loro ebbero aborrito",
+                    "essi ebbero aborrito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abhorruĕram",
+                "traduzioni": [
+                    "io avevo discordato",
+                    "io avevo odiato",
+                    "io avevo detestato",
+                    "io avevo aborrito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abhorruĕras",
+                "traduzioni": [
+                    "tu avevi discordato",
+                    "tu avevi odiato",
+                    "tu avevi detestato",
+                    "tu avevi aborrito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abhorruĕrat",
+                "traduzioni": [
+                    "lui aveva discordato",
+                    "lei aveva discordato",
+                    "egli aveva discordato",
+                    "lui aveva odiato",
+                    "lei aveva odiato",
+                    "egli aveva odiato",
+                    "lui aveva detestato",
+                    "lei aveva detestato",
+                    "egli aveva detestato",
+                    "lui aveva aborrito",
+                    "lei aveva aborrito",
+                    "egli aveva aborrito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abhorruerāmus",
+                "traduzioni": [
+                    "noi avevamo discordato",
+                    "noi avevamo odiato",
+                    "noi avevamo detestato",
+                    "noi avevamo aborrito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abhorruerātis",
+                "traduzioni": [
+                    "voi avevate discordato",
+                    "voi avevate odiato",
+                    "voi avevate detestato",
+                    "voi avevate aborrito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abhorruĕrant",
+                "traduzioni": [
+                    "loro avevano discordato",
+                    "essi avevano discordato",
+                    "loro avevano odiato",
+                    "essi avevano odiato",
+                    "loro avevano detestato",
+                    "essi avevano detestato",
+                    "loro avevano aborrito",
+                    "essi avevano aborrito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "abhorruĕro",
+                "traduzioni": [
+                    "io avrò discordato",
+                    "io avrò odiato",
+                    "io avrò detestato",
+                    "io avrò aborrito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abhorruĕris",
+                "traduzioni": [
+                    "tu avrai discordato",
+                    "tu avrai odiato",
+                    "tu avrai detestato",
+                    "tu avrai aborrito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abhorruĕrit",
+                "traduzioni": [
+                    "lui avrà discordato",
+                    "lei avrà discordato",
+                    "egli avrà discordato",
+                    "lui avrà odiato",
+                    "lei avrà odiato",
+                    "egli avrà odiato",
+                    "lui avrà detestato",
+                    "lei avrà detestato",
+                    "egli avrà detestato",
+                    "lui avrà aborrito",
+                    "lei avrà aborrito",
+                    "egli avrà aborrito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abhorruerĭmus",
+                "traduzioni": [
+                    "noi avremo discordato",
+                    "noi avremo odiato",
+                    "noi avremo detestato",
+                    "noi avremo aborrito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abhorruerĭtis",
+                "traduzioni": [
+                    "voi avrete discordato",
+                    "voi avrete odiato",
+                    "voi avrete detestato",
+                    "voi avrete aborrito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abhorruĕrint",
+                "traduzioni": [
+                    "loro avranno discordato",
+                    "essi avranno discordato",
+                    "loro avranno odiato",
+                    "essi avranno odiato",
+                    "loro avranno detestato",
+                    "essi avranno detestato",
+                    "loro avranno aborrito",
+                    "essi avranno aborrito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbhorrĕam",
+                "traduzioni": [
+                    "che io discordi",
+                    "che io odii",
+                    "che io detesti",
+                    "che io aborr(isc)a"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbhorrĕas",
+                "traduzioni": [
+                    "che tu discordi",
+                    "che tu odii",
+                    "che tu detesti",
+                    "che tu aborr(isc)a"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbhorrĕat",
+                "traduzioni": [
+                    "che lui discordi",
+                    "che lei discordi",
+                    "che egli discordi",
+                    "che lui odii",
+                    "che lei odii",
+                    "che egli odii",
+                    "che lui detesti",
+                    "che lei detesti",
+                    "che egli detesti",
+                    "che lui aborr(isc)a",
+                    "che lei aborr(isc)a",
+                    "che egli aborr(isc)a"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbhorreāmus",
+                "traduzioni": [
+                    "che noi discordiamo",
+                    "che noi odiamo",
+                    "che noi detestiamo",
+                    "che noi aborriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbhorreātis",
+                "traduzioni": [
+                    "che voi discordiate",
+                    "che voi odiate",
+                    "che voi detestiate",
+                    "che voi aborriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbhorrĕant",
+                "traduzioni": [
+                    "che loro discordino",
+                    "che essi discordino",
+                    "che loro odiino",
+                    "che essi odiino",
+                    "che loro detestino",
+                    "che essi detestino",
+                    "che loro aborr(isc)ano",
+                    "che essi aborr(isc)ano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbhorrērem",
+                "traduzioni": [
+                    "che io discordassi",
+                    "che io odiassi",
+                    "che io detestassi",
+                    "che io aborrissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbhorrēres",
+                "traduzioni": [
+                    "che tu discordassi",
+                    "che tu odiassi",
+                    "che tu detestassi",
+                    "che tu aborrissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbhorrēret",
+                "traduzioni": [
+                    "che lui discordasse",
+                    "che lei discordasse",
+                    "che egli discordasse",
+                    "che lui odiasse",
+                    "che lei odiasse",
+                    "che egli odiasse",
+                    "che lui detestasse",
+                    "che lei detestasse",
+                    "che egli detestasse",
+                    "che lui aborrisse",
+                    "che lei aborrisse",
+                    "che egli aborrisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbhorrerēmus",
+                "traduzioni": [
+                    "che noi discordassimo",
+                    "che noi odiassimo",
+                    "che noi detestassimo",
+                    "che noi aborrissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbhorrerētis",
+                "traduzioni": [
+                    "che voi discordaste",
+                    "che voi odiaste",
+                    "che voi detestaste",
+                    "che voi aborriste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbhorrērent",
+                "traduzioni": [
+                    "che loro discordassero",
+                    "che essi discordassero",
+                    "che loro odiassero",
+                    "che essi odiassero",
+                    "che loro detestassero",
+                    "che essi detestassero",
+                    "che loro aborrissero",
+                    "che essi aborrissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abhorruĕrim",
+                "traduzioni": [
+                    "che io abbia discordato",
+                    "che io abbia odiato",
+                    "che io abbia detestato",
+                    "che io abbia aborrito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abhorruĕris",
+                "traduzioni": [
+                    "che tu abbia discordato",
+                    "che tu abbia odiato",
+                    "che tu abbia detestato",
+                    "che tu abbia aborrito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abhorruĕrit",
+                "traduzioni": [
+                    "che lui abbia discordato",
+                    "che lei abbia discordato",
+                    "che egli abbia discordato",
+                    "che lui abbia odiato",
+                    "che lei abbia odiato",
+                    "che egli abbia odiato",
+                    "che lui abbia detestato",
+                    "che lei abbia detestato",
+                    "che egli abbia detestato",
+                    "che lui abbia aborrito",
+                    "che lei abbia aborrito",
+                    "che egli abbia aborrito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abhorruerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo discordato",
+                    "che noi abbiamo odiato",
+                    "che noi abbiamo detestato",
+                    "che noi abbiamo aborrito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abhorruerĭtis",
+                "traduzioni": [
+                    "che voi abbiate discordato",
+                    "che voi abbiate odiato",
+                    "che voi abbiate detestato",
+                    "che voi abbiate aborrito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abhorruĕrint",
+                "traduzioni": [
+                    "che loro abbiano discordato",
+                    "che essi abbiano discordato",
+                    "che loro abbiano odiato",
+                    "che essi abbiano odiato",
+                    "che loro abbiano detestato",
+                    "che essi abbiano detestato",
+                    "che loro abbiano aborrito",
+                    "che essi abbiano aborrito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abhorruissem",
+                "traduzioni": [
+                    "che io avessi discordato",
+                    "che io avessi odiato",
+                    "che io avessi detestato",
+                    "che io avessi aborrito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abhorruisses",
+                "traduzioni": [
+                    "che tu avessi discordato",
+                    "che tu avessi odiato",
+                    "che tu avessi detestato",
+                    "che tu avessi aborrito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abhorruisset",
+                "traduzioni": [
+                    "che lui avesse discordato",
+                    "che lei avesse discordato",
+                    "che egli avesse discordato",
+                    "che lui avesse odiato",
+                    "che lei avesse odiato",
+                    "che egli avesse odiato",
+                    "che lui avesse detestato",
+                    "che lei avesse detestato",
+                    "che egli avesse detestato",
+                    "che lui avesse aborrito",
+                    "che lei avesse aborrito",
+                    "che egli avesse aborrito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abhorruissēmus",
+                "traduzioni": [
+                    "che noi avessimo discordato",
+                    "che noi avessimo odiato",
+                    "che noi avessimo detestato",
+                    "che noi avessimo aborrito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abhorruissētis",
+                "traduzioni": [
+                    "che voi aveste discordato",
+                    "che voi aveste odiato",
+                    "che voi aveste detestato",
+                    "che voi aveste aborrito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abhorruissent",
+                "traduzioni": [
+                    "che loro avessero discordato",
+                    "che essi avessero discordato",
+                    "che loro avessero odiato",
+                    "che essi avessero odiato",
+                    "che loro avessero detestato",
+                    "che essi avessero detestato",
+                    "che loro avessero aborrito",
+                    "che essi avessero aborrito"
+                ]
+            }
+        ]
+    }
+}

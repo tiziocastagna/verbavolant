@@ -1,0 +1,903 @@
+{
+    "identifier": "ARDEO",
+    "conuigazione": "2",
+    "translation": [
+        "ardere",
+        "bruciare",
+        "scintillare",
+        "splendere",
+        "rifulgere",
+        "(detto di passioni e sentimenti) divampare"
+    ],
+    "valid_translations": [
+        "ardere",
+        "bruciare",
+        "scintillare",
+        "splendere",
+        "rifulgere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ardĕo",
+                "traduzioni": [
+                    "io ardo",
+                    "io brucio",
+                    "io scintillo",
+                    "io splendo",
+                    "io rifulgo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ardes",
+                "traduzioni": [
+                    "tu ardi",
+                    "tu bruci",
+                    "tu scintilli",
+                    "tu splendi",
+                    "tu rifulgi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ardet",
+                "traduzioni": [
+                    "lui arde",
+                    "lei arde",
+                    "egli arde",
+                    "lui brucia",
+                    "lei brucia",
+                    "egli brucia",
+                    "lui scintilla",
+                    "lei scintilla",
+                    "egli scintilla",
+                    "lui splende",
+                    "lei splende",
+                    "egli splende",
+                    "lui rifulge",
+                    "lei rifulge",
+                    "egli rifulge"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ardēmus",
+                "traduzioni": [
+                    "noi ardiamo",
+                    "noi bruciamo",
+                    "noi scintilliamo",
+                    "noi splendiamo",
+                    "noi rifulgiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ardētis",
+                "traduzioni": [
+                    "voi ardete",
+                    "voi bruciate",
+                    "voi scintillate",
+                    "voi splendete",
+                    "voi rifulgete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ardent",
+                "traduzioni": [
+                    "loro ardono",
+                    "essi ardono",
+                    "loro bruciano",
+                    "essi bruciano",
+                    "loro scintillano",
+                    "essi scintillano",
+                    "loro splendono",
+                    "essi splendono",
+                    "loro rifulgono",
+                    "essi rifulgono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ardēbam",
+                "traduzioni": [
+                    "io ardevo",
+                    "io bruciavo",
+                    "io scintillavo",
+                    "io splendevo",
+                    "io rifulgevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ardēbas",
+                "traduzioni": [
+                    "tu ardevi",
+                    "tu bruciavi",
+                    "tu scintillavi",
+                    "tu splendevi",
+                    "tu rifulgevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ardēbat",
+                "traduzioni": [
+                    "lui ardeva",
+                    "lei ardeva",
+                    "egli ardeva",
+                    "lui bruciava",
+                    "lei bruciava",
+                    "egli bruciava",
+                    "lui scintillava",
+                    "lei scintillava",
+                    "egli scintillava",
+                    "lui splendeva",
+                    "lei splendeva",
+                    "egli splendeva",
+                    "lui rifulgeva",
+                    "lei rifulgeva",
+                    "egli rifulgeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ardebāmus",
+                "traduzioni": [
+                    "noi ardevamo",
+                    "noi bruciavamo",
+                    "noi scintillavamo",
+                    "noi splendevamo",
+                    "noi rifulgevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ardebātis",
+                "traduzioni": [
+                    "voi ardevate",
+                    "voi bruciavate",
+                    "voi scintillavate",
+                    "voi splendevate",
+                    "voi rifulgevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ardēbant",
+                "traduzioni": [
+                    "loro ardevano",
+                    "essi ardevano",
+                    "loro bruciavano",
+                    "essi bruciavano",
+                    "loro scintillavano",
+                    "essi scintillavano",
+                    "loro splendevano",
+                    "essi splendevano",
+                    "loro rifulgevano",
+                    "essi rifulgevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ardēbo",
+                "traduzioni": [
+                    "io arderò",
+                    "io brucerò",
+                    "io scintillerò",
+                    "io splenderò",
+                    "io rifulgerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ardēbis",
+                "traduzioni": [
+                    "tu arderai",
+                    "tu brucerai",
+                    "tu scintillerai",
+                    "tu splenderai",
+                    "tu rifulgerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ardēbit",
+                "traduzioni": [
+                    "lui arderà",
+                    "lei arderà",
+                    "egli arderà",
+                    "lui brucerà",
+                    "lei brucerà",
+                    "egli brucerà",
+                    "lui scintillerà",
+                    "lei scintillerà",
+                    "egli scintillerà",
+                    "lui splenderà",
+                    "lei splenderà",
+                    "egli splenderà",
+                    "lui rifulgerà",
+                    "lei rifulgerà",
+                    "egli rifulgerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ardebĭmus",
+                "traduzioni": [
+                    "noi arderemo",
+                    "noi bruceremo",
+                    "noi scintilleremo",
+                    "noi splenderemo",
+                    "noi rifulgeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ardebĭtis",
+                "traduzioni": [
+                    "voi arderete",
+                    "voi brucerete",
+                    "voi scintillerete",
+                    "voi splenderete",
+                    "voi rifulgerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ardēbunt",
+                "traduzioni": [
+                    "loro arderanno",
+                    "essi arderanno",
+                    "loro bruceranno",
+                    "essi bruceranno",
+                    "loro scintilleranno",
+                    "essi scintilleranno",
+                    "loro splenderanno",
+                    "essi splenderanno",
+                    "loro rifulgeranno",
+                    "essi rifulgeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "arsi",
+                "traduzioni": [
+                    "io arsi",
+                    "io arse",
+                    "io sono arso",
+                    "io sono arsa",
+                    "io fui arso",
+                    "io fui arsa",
+                    "io bruciai",
+                    "io sono bruciato",
+                    "io sono bruciata",
+                    "io fui bruciato",
+                    "io fui bruciata",
+                    "io scintillai",
+                    "io ho scintillato",
+                    "io ebbi scintillato",
+                    "io splendetti",
+                    "io splendei",
+                    "io rifulsi",
+                    "io rifulse"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "arsisti",
+                "traduzioni": [
+                    "tu ardesti",
+                    "tu sei arso",
+                    "tu sei arsa",
+                    "tu fosti arso",
+                    "tu fosti arsa",
+                    "tu bruciasti",
+                    "tu sei bruciato",
+                    "tu sei bruciata",
+                    "tu fosti bruciato",
+                    "tu fosti bruciata",
+                    "tu scintillasti",
+                    "tu hai scintillato",
+                    "tu avesti scintillato",
+                    "tu splendesti",
+                    "tu rifulgesti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "arsit",
+                "traduzioni": [
+                    "lui arse",
+                    "lei arse",
+                    "egli arse",
+                    "lui è arso",
+                    "lei è arsa",
+                    "egli è arso",
+                    "lui fu arso",
+                    "lei fu arsa",
+                    "egli fu arso",
+                    "lui bruciò",
+                    "lei bruciò",
+                    "egli bruciò",
+                    "lui è bruciato",
+                    "lei è bruciata",
+                    "egli è bruciato",
+                    "lui fu bruciato",
+                    "lei fu bruciata",
+                    "egli fu bruciato",
+                    "lui scintillò",
+                    "lei scintillò",
+                    "egli scintillò",
+                    "lui ha scintillato",
+                    "lei ha scintillato",
+                    "egli ha scintillato",
+                    "lui ebbe scintillato",
+                    "lei ebbe scintillato",
+                    "egli ebbe scintillato",
+                    "lui splendette",
+                    "lei splendette",
+                    "egli splendette",
+                    "lui splendé",
+                    "lei splendé",
+                    "egli splendé",
+                    "lui rifulse",
+                    "lei rifulse",
+                    "egli rifulse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "arsĭmus",
+                "traduzioni": [
+                    "noi ardemmo",
+                    "noi siamo arsi",
+                    "noi siamo arse",
+                    "noi fummo arsi",
+                    "noi fummo arse",
+                    "noi bruciammo",
+                    "noi siamo bruciati",
+                    "noi siamo bruciate",
+                    "noi fummo bruciati",
+                    "noi fummo bruciate",
+                    "noi scintillammo",
+                    "noi abbiamo scintillato",
+                    "noi avemmo scintillato",
+                    "noi splendemmo",
+                    "noi rifulgemmo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "arsistis",
+                "traduzioni": [
+                    "voi ardeste",
+                    "voi siete arsi",
+                    "voi siete arse",
+                    "voi foste arsi",
+                    "voi foste arse",
+                    "voi bruciaste",
+                    "voi siete bruciati",
+                    "voi siete bruciate",
+                    "voi foste bruciati",
+                    "voi foste bruciate",
+                    "voi scintillaste",
+                    "voi avete scintillato",
+                    "voi aveste scintillato",
+                    "voi splendeste",
+                    "voi rifulgeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "arsērunt, arsēre",
+                "traduzioni": [
+                    "loro arsero",
+                    "essi arsero",
+                    "loro sono arsi",
+                    "loro sono arse",
+                    "essi sono arsi",
+                    "loro furono arsi",
+                    "loro furono arse",
+                    "essi furono arsi",
+                    "loro bruciarono",
+                    "essi bruciarono",
+                    "loro sono bruciati",
+                    "loro sono bruciate",
+                    "essi sono bruciati",
+                    "loro furono bruciati",
+                    "loro furono bruciate",
+                    "essi furono bruciati",
+                    "loro scintillarono",
+                    "essi scintillarono",
+                    "loro hanno scintillato",
+                    "essi hanno scintillato",
+                    "loro ebbero scintillato",
+                    "essi ebbero scintillato",
+                    "loro splendettero",
+                    "essi splendettero",
+                    "loro splenderono",
+                    "essi splenderono",
+                    "loro rifulsero",
+                    "essi rifulsero"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "arsĕram",
+                "traduzioni": [
+                    "io ero arso",
+                    "io ero arsa",
+                    "io ero bruciato",
+                    "io ero bruciata",
+                    "io avevo scintillato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "arsĕras",
+                "traduzioni": [
+                    "tu eri arso",
+                    "tu eri arsa",
+                    "tu eri bruciato",
+                    "tu eri bruciata",
+                    "tu avevi scintillato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "arsĕrat",
+                "traduzioni": [
+                    "lui era arso",
+                    "lei era arsa",
+                    "egli era arso",
+                    "lui era bruciato",
+                    "lei era bruciata",
+                    "egli era bruciato",
+                    "lui aveva scintillato",
+                    "lei aveva scintillato",
+                    "egli aveva scintillato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "arserāmus",
+                "traduzioni": [
+                    "noi eravamo arsi",
+                    "noi eravamo arse",
+                    "noi eravamo bruciati",
+                    "noi eravamo bruciate",
+                    "noi avevamo scintillato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "arserātis",
+                "traduzioni": [
+                    "voi eravate arsi",
+                    "voi eravate arse",
+                    "voi eravate bruciati",
+                    "voi eravate bruciate",
+                    "voi avevate scintillato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "arsĕrant",
+                "traduzioni": [
+                    "loro erano arsi",
+                    "loro erano arse",
+                    "essi erano arsi",
+                    "loro erano bruciati",
+                    "loro erano bruciate",
+                    "essi erano bruciati",
+                    "loro avevano scintillato",
+                    "essi avevano scintillato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "arsĕro",
+                "traduzioni": [
+                    "io sarò arso",
+                    "io sarò arsa",
+                    "io sarò bruciato",
+                    "io sarò bruciata",
+                    "io avrò scintillato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "arsĕris",
+                "traduzioni": [
+                    "tu sarai arso",
+                    "tu sarai arsa",
+                    "tu sarai bruciato",
+                    "tu sarai bruciata",
+                    "tu avrai scintillato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "arsĕrit",
+                "traduzioni": [
+                    "lui sarà arso",
+                    "lei sarà arsa",
+                    "egli sarà arso",
+                    "lui sarà bruciato",
+                    "lei sarà bruciata",
+                    "egli sarà bruciato",
+                    "lui avrà scintillato",
+                    "lei avrà scintillato",
+                    "egli avrà scintillato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "arserĭmus",
+                "traduzioni": [
+                    "noi saremo arsi",
+                    "noi saremo arse",
+                    "noi saremo bruciati",
+                    "noi saremo bruciate",
+                    "noi avremo scintillato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "arserĭtis",
+                "traduzioni": [
+                    "voi sarete arsi",
+                    "voi sarete arse",
+                    "voi sarete bruciati",
+                    "voi sarete bruciate",
+                    "voi avrete scintillato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "arsĕrint",
+                "traduzioni": [
+                    "loro saranno arsi",
+                    "loro saranno arse",
+                    "essi saranno arsi",
+                    "loro saranno bruciati",
+                    "loro saranno bruciate",
+                    "essi saranno bruciati",
+                    "loro avranno scintillato",
+                    "essi avranno scintillato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ardĕam",
+                "traduzioni": [
+                    "che io arda",
+                    "che io bruci",
+                    "che io scintilli",
+                    "che io splenda",
+                    "che io rifulga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ardĕas",
+                "traduzioni": [
+                    "che tu arda",
+                    "che tu bruci",
+                    "che tu scintilli",
+                    "che tu splenda",
+                    "che tu rifulga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ardĕat",
+                "traduzioni": [
+                    "che lui arda",
+                    "che lei arda",
+                    "che egli arda",
+                    "che lui bruci",
+                    "che lei bruci",
+                    "che egli bruci",
+                    "che lui scintilli",
+                    "che lei scintilli",
+                    "che egli scintilli",
+                    "che lui splenda",
+                    "che lei splenda",
+                    "che egli splenda",
+                    "che lui rifulga",
+                    "che lei rifulga",
+                    "che egli rifulga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ardeāmus",
+                "traduzioni": [
+                    "che noi ardiamo",
+                    "che noi bruciamo",
+                    "che noi scintilliamo",
+                    "che noi splendiamo",
+                    "che noi rifulgiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ardeātis",
+                "traduzioni": [
+                    "che voi ardiate",
+                    "che voi bruciate",
+                    "che voi scintilliate",
+                    "che voi splendiate",
+                    "che voi rifulgiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ardĕant",
+                "traduzioni": [
+                    "che loro ardano",
+                    "che essi ardano",
+                    "che loro brucino",
+                    "che essi brucino",
+                    "che loro scintillino",
+                    "che essi scintillino",
+                    "che loro splendano",
+                    "che essi splendano",
+                    "che loro rifulgano",
+                    "che essi rifulgano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ardērem",
+                "traduzioni": [
+                    "che io ardessi",
+                    "che io bruciassi",
+                    "che io scintillassi",
+                    "che io splendessi",
+                    "che io rifulgessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ardēres",
+                "traduzioni": [
+                    "che tu ardessi",
+                    "che tu bruciassi",
+                    "che tu scintillassi",
+                    "che tu splendessi",
+                    "che tu rifulgessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ardēret",
+                "traduzioni": [
+                    "che lui ardesse",
+                    "che lei ardesse",
+                    "che egli ardesse",
+                    "che lui bruciasse",
+                    "che lei bruciasse",
+                    "che egli bruciasse",
+                    "che lui scintillasse",
+                    "che lei scintillasse",
+                    "che egli scintillasse",
+                    "che lui splendesse",
+                    "che lei splendesse",
+                    "che egli splendesse",
+                    "che lui rifulgesse",
+                    "che lei rifulgesse",
+                    "che egli rifulgesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "arderēmus",
+                "traduzioni": [
+                    "che noi ardessimo",
+                    "che noi bruciassimo",
+                    "che noi scintillassimo",
+                    "che noi splendessimo",
+                    "che noi rifulgessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "arderētis",
+                "traduzioni": [
+                    "che voi ardeste",
+                    "che voi bruciaste",
+                    "che voi scintillaste",
+                    "che voi splendeste",
+                    "che voi rifulgeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ardērent",
+                "traduzioni": [
+                    "che loro ardessero",
+                    "che essi ardessero",
+                    "che loro bruciassero",
+                    "che essi bruciassero",
+                    "che loro scintillassero",
+                    "che essi scintillassero",
+                    "che loro splendessero",
+                    "che essi splendessero",
+                    "che loro rifulgessero",
+                    "che essi rifulgessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "arsĕrim",
+                "traduzioni": [
+                    "che io sia arso",
+                    "che io sia arsa",
+                    "che io sia bruciato",
+                    "che io sia bruciata",
+                    "che io abbia scintillato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "arsĕris",
+                "traduzioni": [
+                    "che tu sia arso",
+                    "che tu sia arsa",
+                    "che tu sia bruciato",
+                    "che tu sia bruciata",
+                    "che tu abbia scintillato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "arsĕrit",
+                "traduzioni": [
+                    "che lui sia arso",
+                    "che lei sia arsa",
+                    "che egli sia arso",
+                    "che lui sia bruciato",
+                    "che lei sia bruciata",
+                    "che egli sia bruciato",
+                    "che lui abbia scintillato",
+                    "che lei abbia scintillato",
+                    "che egli abbia scintillato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "arserĭmus",
+                "traduzioni": [
+                    "che noi siamo arsi",
+                    "che noi siamo arse",
+                    "che noi siamo bruciati",
+                    "che noi siamo bruciate",
+                    "che noi abbiamo scintillato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "arserĭtis",
+                "traduzioni": [
+                    "che voi siate arsi",
+                    "che voi siate arse",
+                    "che voi siate bruciati",
+                    "che voi siate bruciate",
+                    "che voi abbiate scintillato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "arsĕrint",
+                "traduzioni": [
+                    "che loro siano arsi",
+                    "che loro siano arse",
+                    "che essi siano arsi",
+                    "che loro siano bruciati",
+                    "che loro siano bruciate",
+                    "che essi siano bruciati",
+                    "che loro abbiano scintillato",
+                    "che essi abbiano scintillato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "arsissem",
+                "traduzioni": [
+                    "che io fossi arso",
+                    "che io fossi arsa",
+                    "che io fossi bruciato",
+                    "che io fossi bruciata",
+                    "che io avessi scintillato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "arsisses",
+                "traduzioni": [
+                    "che tu fossi arso",
+                    "che tu fossi arsa",
+                    "che tu fossi bruciato",
+                    "che tu fossi bruciata",
+                    "che tu avessi scintillato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "arsisset",
+                "traduzioni": [
+                    "che lui fosse arso",
+                    "che lei fosse arsa",
+                    "che egli fosse arso",
+                    "che lui fosse bruciato",
+                    "che lei fosse bruciata",
+                    "che egli fosse bruciato",
+                    "che lui avesse scintillato",
+                    "che lei avesse scintillato",
+                    "che egli avesse scintillato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "arsissēmus",
+                "traduzioni": [
+                    "che noi fossimo arsi",
+                    "che noi fossimo arse",
+                    "che noi fossimo bruciati",
+                    "che noi fossimo bruciate",
+                    "che noi avessimo scintillato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "arsissētis",
+                "traduzioni": [
+                    "che voi foste arsi",
+                    "che voi foste arse",
+                    "che voi foste bruciati",
+                    "che voi foste bruciate",
+                    "che voi aveste scintillato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "arsissent",
+                "traduzioni": [
+                    "che loro fossero arsi",
+                    "che loro fossero arse",
+                    "che essi fossero arsi",
+                    "che loro fossero bruciati",
+                    "che loro fossero bruciate",
+                    "che essi fossero bruciati",
+                    "che loro avessero scintillato",
+                    "che essi avessero scintillato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,973 @@
+{
+    "identifier": "ADPETO",
+    "conuigazione": "3",
+    "translation": [
+        "tentare di afferrare",
+        "andare",
+        "desiderare",
+        "aspirare",
+        "minacciare",
+        "assalire"
+    ],
+    "valid_translations": [
+        "andare",
+        "desiderare",
+        "aspirare",
+        "minacciare",
+        "assalire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adpĕto",
+                "traduzioni": [
+                    "io vado",
+                    "io desidero",
+                    "io aspiro",
+                    "io minaccio",
+                    "io assalgo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adpĕtis",
+                "traduzioni": [
+                    "tu vai",
+                    "tu desideri",
+                    "tu aspiri",
+                    "tu minacci",
+                    "tu assali"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adpĕtit",
+                "traduzioni": [
+                    "lui va",
+                    "lei va",
+                    "egli va",
+                    "lui desidera",
+                    "lei desidera",
+                    "egli desidera",
+                    "lui aspira",
+                    "lei aspira",
+                    "egli aspira",
+                    "lui minaccia",
+                    "lei minaccia",
+                    "egli minaccia",
+                    "lui assale",
+                    "lei assale",
+                    "egli assale"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adpĕtĭmus",
+                "traduzioni": [
+                    "noi andiamo",
+                    "noi desideriamo",
+                    "noi aspiriamo",
+                    "noi minacciamo",
+                    "noi assaliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adpĕtĭtis",
+                "traduzioni": [
+                    "voi andate",
+                    "voi desiderate",
+                    "voi aspirate",
+                    "voi minacciate",
+                    "voi assalite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adpĕtunt",
+                "traduzioni": [
+                    "loro vanno",
+                    "essi vanno",
+                    "loro desiderano",
+                    "essi desiderano",
+                    "loro aspirano",
+                    "essi aspirano",
+                    "loro minacciano",
+                    "essi minacciano",
+                    "loro assalgono",
+                    "essi assalgono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adpĕtēbam",
+                "traduzioni": [
+                    "io andavo",
+                    "io desideravo",
+                    "io aspiravo",
+                    "io minacciavo",
+                    "io assalivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adpĕtēbas",
+                "traduzioni": [
+                    "tu andavi",
+                    "tu desideravi",
+                    "tu aspiravi",
+                    "tu minacciavi",
+                    "tu assalivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adpĕtēbat",
+                "traduzioni": [
+                    "lui andava",
+                    "lei andava",
+                    "egli andava",
+                    "lui desiderava",
+                    "lei desiderava",
+                    "egli desiderava",
+                    "lui aspirava",
+                    "lei aspirava",
+                    "egli aspirava",
+                    "lui minacciava",
+                    "lei minacciava",
+                    "egli minacciava",
+                    "lui assaliva",
+                    "lei assaliva",
+                    "egli assaliva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adpĕtebāmus",
+                "traduzioni": [
+                    "noi andavamo",
+                    "noi desideravamo",
+                    "noi aspiravamo",
+                    "noi minacciavamo",
+                    "noi assalivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adpĕtebātis",
+                "traduzioni": [
+                    "voi andavate",
+                    "voi desideravate",
+                    "voi aspiravate",
+                    "voi minacciavate",
+                    "voi assalivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adpĕtēbant",
+                "traduzioni": [
+                    "loro andavano",
+                    "essi andavano",
+                    "loro desideravano",
+                    "essi desideravano",
+                    "loro aspiravano",
+                    "essi aspiravano",
+                    "loro minacciavano",
+                    "essi minacciavano",
+                    "loro assalivano",
+                    "essi assalivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adpĕtam",
+                "traduzioni": [
+                    "io andrò",
+                    "io desidererò",
+                    "io aspirerò",
+                    "io minaccerò",
+                    "io assalirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adpĕtes",
+                "traduzioni": [
+                    "tu andrai",
+                    "tu desidererai",
+                    "tu aspirerai",
+                    "tu minaccerai",
+                    "tu assalirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adpĕtet",
+                "traduzioni": [
+                    "lui andrà",
+                    "lei andrà",
+                    "egli andrà",
+                    "lui desidererà",
+                    "lei desidererà",
+                    "egli desidererà",
+                    "lui aspirerà",
+                    "lei aspirerà",
+                    "egli aspirerà",
+                    "lui minaccerà",
+                    "lei minaccerà",
+                    "egli minaccerà",
+                    "lui assalirà",
+                    "lei assalirà",
+                    "egli assalirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adpĕtēmus",
+                "traduzioni": [
+                    "noi andremo",
+                    "noi desidereremo",
+                    "noi aspireremo",
+                    "noi minacceremo",
+                    "noi assaliremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adpĕtētis",
+                "traduzioni": [
+                    "voi andrete",
+                    "voi desidererete",
+                    "voi aspirerete",
+                    "voi minaccerete",
+                    "voi assalirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adpĕtent",
+                "traduzioni": [
+                    "loro andranno",
+                    "essi andranno",
+                    "loro desidereranno",
+                    "essi desidereranno",
+                    "loro aspireranno",
+                    "essi aspireranno",
+                    "loro minacceranno",
+                    "essi minacceranno",
+                    "loro assaliranno",
+                    "essi assaliranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adpetii o adpetivi",
+                "traduzioni": [
+                    "io andai",
+                    "io sono andato",
+                    "io sono andata",
+                    "io fui andato",
+                    "io fui andata",
+                    "io desiderai",
+                    "io ho desiderato",
+                    "io ebbi desiderato",
+                    "io aspirai",
+                    "io ho aspirato",
+                    "io ebbi aspirato",
+                    "io minacciai",
+                    "io ho minacciato",
+                    "io ebbi minacciato",
+                    "io assalii",
+                    "io ho assalito",
+                    "io ebbi assalito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adpetiisti o adpetivisti",
+                "traduzioni": [
+                    "tu andasti",
+                    "tu sei andato",
+                    "tu sei andata",
+                    "tu fosti andato",
+                    "tu fosti andata",
+                    "tu desiderasti",
+                    "tu hai desiderato",
+                    "tu avesti desiderato",
+                    "tu aspirasti",
+                    "tu hai aspirato",
+                    "tu avesti aspirato",
+                    "tu minacciasti",
+                    "tu hai minacciato",
+                    "tu avesti minacciato",
+                    "tu assalisti",
+                    "tu hai assalito",
+                    "tu avesti assalito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adpetiit o adpetivit",
+                "traduzioni": [
+                    "lui andò",
+                    "lei andò",
+                    "egli andò",
+                    "lui è andato",
+                    "lei è andata",
+                    "egli è andato",
+                    "lui fu andato",
+                    "lei fu andata",
+                    "egli fu andato",
+                    "lui desiderò",
+                    "lei desiderò",
+                    "egli desiderò",
+                    "lui ha desiderato",
+                    "lei ha desiderato",
+                    "egli ha desiderato",
+                    "lui ebbe desiderato",
+                    "lei ebbe desiderato",
+                    "egli ebbe desiderato",
+                    "lui aspirò",
+                    "lei aspirò",
+                    "egli aspirò",
+                    "lui ha aspirato",
+                    "lei ha aspirato",
+                    "egli ha aspirato",
+                    "lui ebbe aspirato",
+                    "lei ebbe aspirato",
+                    "egli ebbe aspirato",
+                    "lui minacciò",
+                    "lei minacciò",
+                    "egli minacciò",
+                    "lui ha minacciato",
+                    "lei ha minacciato",
+                    "egli ha minacciato",
+                    "lui ebbe minacciato",
+                    "lei ebbe minacciato",
+                    "egli ebbe minacciato",
+                    "lui assalì",
+                    "lei assalì",
+                    "egli assalì",
+                    "lui ha assalito",
+                    "lei ha assalito",
+                    "egli ha assalito",
+                    "lui ebbe assalito",
+                    "lei ebbe assalito",
+                    "egli ebbe assalito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adpetiĭmus o adpetivĭmus",
+                "traduzioni": [
+                    "noi andammo",
+                    "noi siamo andati",
+                    "noi siamo andate",
+                    "noi fummo andati",
+                    "noi fummo andate",
+                    "noi desiderammo",
+                    "noi abbiamo desiderato",
+                    "noi avemmo desiderato",
+                    "noi aspirammo",
+                    "noi abbiamo aspirato",
+                    "noi avemmo aspirato",
+                    "noi minacciammo",
+                    "noi abbiamo minacciato",
+                    "noi avemmo minacciato",
+                    "noi assalimmo",
+                    "noi abbiamo assalito",
+                    "noi avemmo assalito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adpetiistis o adpetivistis",
+                "traduzioni": [
+                    "voi andaste",
+                    "voi siete andati",
+                    "voi siete andate",
+                    "voi foste andati",
+                    "voi foste andate",
+                    "voi desideraste",
+                    "voi avete desiderato",
+                    "voi aveste desiderato",
+                    "voi aspiraste",
+                    "voi avete aspirato",
+                    "voi aveste aspirato",
+                    "voi minacciaste",
+                    "voi avete minacciato",
+                    "voi aveste minacciato",
+                    "voi assaliste",
+                    "voi avete assalito",
+                    "voi aveste assalito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adpetiērunt o adpetivērunt, ēre",
+                "traduzioni": [
+                    "loro andarono",
+                    "essi andarono",
+                    "loro sono andati",
+                    "loro sono andate",
+                    "essi sono andati",
+                    "loro furono andati",
+                    "loro furono andate",
+                    "essi furono andati",
+                    "loro desiderarono",
+                    "essi desiderarono",
+                    "loro hanno desiderato",
+                    "essi hanno desiderato",
+                    "loro ebbero desiderato",
+                    "essi ebbero desiderato",
+                    "loro aspirarono",
+                    "essi aspirarono",
+                    "loro hanno aspirato",
+                    "essi hanno aspirato",
+                    "loro ebbero aspirato",
+                    "essi ebbero aspirato",
+                    "loro minacciarono",
+                    "essi minacciarono",
+                    "loro hanno minacciato",
+                    "essi hanno minacciato",
+                    "loro ebbero minacciato",
+                    "essi ebbero minacciato",
+                    "loro assalirono",
+                    "essi assalirono",
+                    "loro hanno assalito",
+                    "essi hanno assalito",
+                    "loro ebbero assalito",
+                    "essi ebbero assalito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adpetiĕram o adpetivĕram",
+                "traduzioni": [
+                    "io ero andato",
+                    "io ero andata",
+                    "io avevo desiderato",
+                    "io avevo aspirato",
+                    "io avevo minacciato",
+                    "io avevo assalito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adpetiĕras o adpetivĕras",
+                "traduzioni": [
+                    "tu eri andato",
+                    "tu eri andata",
+                    "tu avevi desiderato",
+                    "tu avevi aspirato",
+                    "tu avevi minacciato",
+                    "tu avevi assalito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adpetiĕrat o adpetivĕrat",
+                "traduzioni": [
+                    "lui era andato",
+                    "lei era andata",
+                    "egli era andato",
+                    "lui aveva desiderato",
+                    "lei aveva desiderato",
+                    "egli aveva desiderato",
+                    "lui aveva aspirato",
+                    "lei aveva aspirato",
+                    "egli aveva aspirato",
+                    "lui aveva minacciato",
+                    "lei aveva minacciato",
+                    "egli aveva minacciato",
+                    "lui aveva assalito",
+                    "lei aveva assalito",
+                    "egli aveva assalito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adpetierāmus o adpetiverāmus",
+                "traduzioni": [
+                    "noi eravamo andati",
+                    "noi eravamo andate",
+                    "noi avevamo desiderato",
+                    "noi avevamo aspirato",
+                    "noi avevamo minacciato",
+                    "noi avevamo assalito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adpetierātis o adpetiverātis",
+                "traduzioni": [
+                    "voi eravate andati",
+                    "voi eravate andate",
+                    "voi avevate desiderato",
+                    "voi avevate aspirato",
+                    "voi avevate minacciato",
+                    "voi avevate assalito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adpetiĕrant o adpetivĕrant",
+                "traduzioni": [
+                    "loro erano andati",
+                    "loro erano andate",
+                    "essi erano andati",
+                    "loro avevano desiderato",
+                    "essi avevano desiderato",
+                    "loro avevano aspirato",
+                    "essi avevano aspirato",
+                    "loro avevano minacciato",
+                    "essi avevano minacciato",
+                    "loro avevano assalito",
+                    "essi avevano assalito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adpetiĕro o adpetivĕro",
+                "traduzioni": [
+                    "io sarò andato",
+                    "io sarò andata",
+                    "io avrò desiderato",
+                    "io avrò aspirato",
+                    "io avrò minacciato",
+                    "io avrò assalito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adpetiĕris o adpetivĕris",
+                "traduzioni": [
+                    "tu sarai andato",
+                    "tu sarai andata",
+                    "tu avrai desiderato",
+                    "tu avrai aspirato",
+                    "tu avrai minacciato",
+                    "tu avrai assalito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adpetiĕrit o adpetivĕrit",
+                "traduzioni": [
+                    "lui sarà andato",
+                    "lei sarà andata",
+                    "egli sarà andato",
+                    "lui avrà desiderato",
+                    "lei avrà desiderato",
+                    "egli avrà desiderato",
+                    "lui avrà aspirato",
+                    "lei avrà aspirato",
+                    "egli avrà aspirato",
+                    "lui avrà minacciato",
+                    "lei avrà minacciato",
+                    "egli avrà minacciato",
+                    "lui avrà assalito",
+                    "lei avrà assalito",
+                    "egli avrà assalito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adpetierĭmus o adpetiverĭmus",
+                "traduzioni": [
+                    "noi saremo andati",
+                    "noi saremo andate",
+                    "noi avremo desiderato",
+                    "noi avremo aspirato",
+                    "noi avremo minacciato",
+                    "noi avremo assalito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adpetierĭtis o adpetiverĭtis",
+                "traduzioni": [
+                    "voi sarete andati",
+                    "voi sarete andate",
+                    "voi avrete desiderato",
+                    "voi avrete aspirato",
+                    "voi avrete minacciato",
+                    "voi avrete assalito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adpetiĕrint o adpetivĕrint",
+                "traduzioni": [
+                    "loro saranno andati",
+                    "loro saranno andate",
+                    "essi saranno andati",
+                    "loro avranno desiderato",
+                    "essi avranno desiderato",
+                    "loro avranno aspirato",
+                    "essi avranno aspirato",
+                    "loro avranno minacciato",
+                    "essi avranno minacciato",
+                    "loro avranno assalito",
+                    "essi avranno assalito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adpĕtam",
+                "traduzioni": [
+                    "che io vada",
+                    "che io desideri",
+                    "che io aspiri",
+                    "che io minacci",
+                    "che io assalga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adpĕtas",
+                "traduzioni": [
+                    "che tu vada",
+                    "che tu desideri",
+                    "che tu aspiri",
+                    "che tu minacci",
+                    "che tu assalga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adpĕtat",
+                "traduzioni": [
+                    "che lui vada",
+                    "che lei vada",
+                    "che egli vada",
+                    "che lui desideri",
+                    "che lei desideri",
+                    "che egli desideri",
+                    "che lui aspiri",
+                    "che lei aspiri",
+                    "che egli aspiri",
+                    "che lui minacci",
+                    "che lei minacci",
+                    "che egli minacci",
+                    "che lui assalga",
+                    "che lei assalga",
+                    "che egli assalga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adpĕtāmus",
+                "traduzioni": [
+                    "che noi andiamo",
+                    "che noi desideriamo",
+                    "che noi aspiriamo",
+                    "che noi minacciamo",
+                    "che noi assaliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adpĕtātis",
+                "traduzioni": [
+                    "che voi andiate",
+                    "che voi desideriate",
+                    "che voi aspiriate",
+                    "che voi minacciate",
+                    "che voi assaliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adpĕtant",
+                "traduzioni": [
+                    "che loro vadano",
+                    "che essi vadano",
+                    "che loro desiderino",
+                    "che essi desiderino",
+                    "che loro aspirino",
+                    "che essi aspirino",
+                    "che loro minaccino",
+                    "che essi minaccino",
+                    "che loro assalgano",
+                    "che essi assalgano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adpĕtĕrem",
+                "traduzioni": [
+                    "che io andassi",
+                    "che io desiderassi",
+                    "che io aspirassi",
+                    "che io minacciassi",
+                    "che io assalissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adpĕtĕres",
+                "traduzioni": [
+                    "che tu andassi",
+                    "che tu desiderassi",
+                    "che tu aspirassi",
+                    "che tu minacciassi",
+                    "che tu assalissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adpĕtĕret",
+                "traduzioni": [
+                    "che lui andasse",
+                    "che lei andasse",
+                    "che egli andasse",
+                    "che lui desiderasse",
+                    "che lei desiderasse",
+                    "che egli desiderasse",
+                    "che lui aspirasse",
+                    "che lei aspirasse",
+                    "che egli aspirasse",
+                    "che lui minacciasse",
+                    "che lei minacciasse",
+                    "che egli minacciasse",
+                    "che lui assalisse",
+                    "che lei assalisse",
+                    "che egli assalisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adpĕterēmus",
+                "traduzioni": [
+                    "che noi andassimo",
+                    "che noi desiderassimo",
+                    "che noi aspirassimo",
+                    "che noi minacciassimo",
+                    "che noi assalissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adpĕterētis",
+                "traduzioni": [
+                    "che voi andaste",
+                    "che voi desideraste",
+                    "che voi aspiraste",
+                    "che voi minacciaste",
+                    "che voi assaliste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adpĕtĕrent",
+                "traduzioni": [
+                    "che loro andassero",
+                    "che essi andassero",
+                    "che loro desiderassero",
+                    "che essi desiderassero",
+                    "che loro aspirassero",
+                    "che essi aspirassero",
+                    "che loro minacciassero",
+                    "che essi minacciassero",
+                    "che loro assalissero",
+                    "che essi assalissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adpetiĕrim o adpetivĕrim",
+                "traduzioni": [
+                    "che io sia andato",
+                    "che io sia andata",
+                    "che io abbia desiderato",
+                    "che io abbia aspirato",
+                    "che io abbia minacciato",
+                    "che io abbia assalito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adpetiĕris o adpetivĕris",
+                "traduzioni": [
+                    "che tu sia andato",
+                    "che tu sia andata",
+                    "che tu abbia desiderato",
+                    "che tu abbia aspirato",
+                    "che tu abbia minacciato",
+                    "che tu abbia assalito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adpetiĕrit o adpetivĕrit",
+                "traduzioni": [
+                    "che lui sia andato",
+                    "che lei sia andata",
+                    "che egli sia andato",
+                    "che lui abbia desiderato",
+                    "che lei abbia desiderato",
+                    "che egli abbia desiderato",
+                    "che lui abbia aspirato",
+                    "che lei abbia aspirato",
+                    "che egli abbia aspirato",
+                    "che lui abbia minacciato",
+                    "che lei abbia minacciato",
+                    "che egli abbia minacciato",
+                    "che lui abbia assalito",
+                    "che lei abbia assalito",
+                    "che egli abbia assalito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adpetierĭmus o adpetiverĭmus",
+                "traduzioni": [
+                    "che noi siamo andati",
+                    "che noi siamo andate",
+                    "che noi abbiamo desiderato",
+                    "che noi abbiamo aspirato",
+                    "che noi abbiamo minacciato",
+                    "che noi abbiamo assalito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adpetierĭtis o adpetiverĭtis",
+                "traduzioni": [
+                    "che voi siate andati",
+                    "che voi siate andate",
+                    "che voi abbiate desiderato",
+                    "che voi abbiate aspirato",
+                    "che voi abbiate minacciato",
+                    "che voi abbiate assalito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adpetiĕrint o adpetivĕrint",
+                "traduzioni": [
+                    "che loro siano andati",
+                    "che loro siano andate",
+                    "che essi siano andati",
+                    "che loro abbiano desiderato",
+                    "che essi abbiano desiderato",
+                    "che loro abbiano aspirato",
+                    "che essi abbiano aspirato",
+                    "che loro abbiano minacciato",
+                    "che essi abbiano minacciato",
+                    "che loro abbiano assalito",
+                    "che essi abbiano assalito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adpetiissem o adpetivissem",
+                "traduzioni": [
+                    "che io fossi andato",
+                    "che io fossi andata",
+                    "che io avessi desiderato",
+                    "che io avessi aspirato",
+                    "che io avessi minacciato",
+                    "che io avessi assalito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adpetiisses o adpetivisses",
+                "traduzioni": [
+                    "che tu fossi andato",
+                    "che tu fossi andata",
+                    "che tu avessi desiderato",
+                    "che tu avessi aspirato",
+                    "che tu avessi minacciato",
+                    "che tu avessi assalito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adpetiisset o adpetivisset",
+                "traduzioni": [
+                    "che lui fosse andato",
+                    "che lei fosse andata",
+                    "che egli fosse andato",
+                    "che lui avesse desiderato",
+                    "che lei avesse desiderato",
+                    "che egli avesse desiderato",
+                    "che lui avesse aspirato",
+                    "che lei avesse aspirato",
+                    "che egli avesse aspirato",
+                    "che lui avesse minacciato",
+                    "che lei avesse minacciato",
+                    "che egli avesse minacciato",
+                    "che lui avesse assalito",
+                    "che lei avesse assalito",
+                    "che egli avesse assalito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adpetiissēmus o adpetivissēmus",
+                "traduzioni": [
+                    "che noi fossimo andati",
+                    "che noi fossimo andate",
+                    "che noi avessimo desiderato",
+                    "che noi avessimo aspirato",
+                    "che noi avessimo minacciato",
+                    "che noi avessimo assalito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adpetiissētis o adpetivissētis",
+                "traduzioni": [
+                    "che voi foste andati",
+                    "che voi foste andate",
+                    "che voi aveste desiderato",
+                    "che voi aveste aspirato",
+                    "che voi aveste minacciato",
+                    "che voi aveste assalito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adpetiissent o adpetivissent",
+                "traduzioni": [
+                    "che loro fossero andati",
+                    "che loro fossero andate",
+                    "che essi fossero andati",
+                    "che loro avessero desiderato",
+                    "che essi avessero desiderato",
+                    "che loro avessero aspirato",
+                    "che essi avessero aspirato",
+                    "che loro avessero minacciato",
+                    "che essi avessero minacciato",
+                    "che loro avessero assalito",
+                    "che essi avessero assalito"
+                ]
+            }
+        ]
+    }
+}

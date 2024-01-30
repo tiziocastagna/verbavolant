@@ -1,0 +1,722 @@
+{
+    "identifier": "GREGO",
+    "conuigazione": "1",
+    "translation": [
+        "riunire",
+        "convocare",
+        "aggregare"
+    ],
+    "valid_translations": [
+        "riunire",
+        "convocare",
+        "aggregare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "grĕgo",
+                "traduzioni": [
+                    "io riunisco",
+                    "io convoco",
+                    "io aggrego"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "grĕgas",
+                "traduzioni": [
+                    "tu riunisci",
+                    "tu convochi",
+                    "tu aggreghi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "grĕgat",
+                "traduzioni": [
+                    "lui riunisce",
+                    "lei riunisce",
+                    "egli riunisce",
+                    "lui convoca",
+                    "lei convoca",
+                    "egli convoca",
+                    "lui aggrega",
+                    "lei aggrega",
+                    "egli aggrega"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "grĕgāmus",
+                "traduzioni": [
+                    "noi riuniamo",
+                    "noi convochiamo",
+                    "noi aggreghiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "grĕgātis",
+                "traduzioni": [
+                    "voi riunite",
+                    "voi convocate",
+                    "voi aggregate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "grĕgant",
+                "traduzioni": [
+                    "loro riuniscono",
+                    "essi riuniscono",
+                    "loro convocano",
+                    "essi convocano",
+                    "loro aggregano",
+                    "essi aggregano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "grĕgābam",
+                "traduzioni": [
+                    "io riunivo",
+                    "io convocavo",
+                    "io aggregavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "grĕgābas",
+                "traduzioni": [
+                    "tu riunivi",
+                    "tu convocavi",
+                    "tu aggregavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "grĕgābat",
+                "traduzioni": [
+                    "lui riuniva",
+                    "lei riuniva",
+                    "egli riuniva",
+                    "lui convocava",
+                    "lei convocava",
+                    "egli convocava",
+                    "lui aggregava",
+                    "lei aggregava",
+                    "egli aggregava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "grĕgabāmus",
+                "traduzioni": [
+                    "noi riunivamo",
+                    "noi convocavamo",
+                    "noi aggregavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "grĕgabātis",
+                "traduzioni": [
+                    "voi riunivate",
+                    "voi convocavate",
+                    "voi aggregavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "grĕgābant",
+                "traduzioni": [
+                    "loro riunivano",
+                    "essi riunivano",
+                    "loro convocavano",
+                    "essi convocavano",
+                    "loro aggregavano",
+                    "essi aggregavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "grĕgābo",
+                "traduzioni": [
+                    "io riunirò",
+                    "io convocherò",
+                    "io aggregherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "grĕgābis",
+                "traduzioni": [
+                    "tu riunirai",
+                    "tu convocherai",
+                    "tu aggregherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "grĕgābit",
+                "traduzioni": [
+                    "lui riunirà",
+                    "lei riunirà",
+                    "egli riunirà",
+                    "lui convocherà",
+                    "lei convocherà",
+                    "egli convocherà",
+                    "lui aggregherà",
+                    "lei aggregherà",
+                    "egli aggregherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "grĕgabĭmus",
+                "traduzioni": [
+                    "noi riuniremo",
+                    "noi convocheremo",
+                    "noi aggregheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "grĕgabĭtis",
+                "traduzioni": [
+                    "voi riunirete",
+                    "voi convocherete",
+                    "voi aggregherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "grĕgābunt",
+                "traduzioni": [
+                    "loro riuniranno",
+                    "essi riuniranno",
+                    "loro convocheranno",
+                    "essi convocheranno",
+                    "loro aggregheranno",
+                    "essi aggregheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gregavi",
+                "traduzioni": [
+                    "io riunii",
+                    "io ho riunito",
+                    "io ebbi riunito",
+                    "io convocai",
+                    "io ho convocato",
+                    "io ebbi convocato",
+                    "io aggregai",
+                    "io ho aggregato",
+                    "io ebbi aggregato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gregavisti",
+                "traduzioni": [
+                    "tu riunisti",
+                    "tu hai riunito",
+                    "tu avesti riunito",
+                    "tu convocasti",
+                    "tu hai convocato",
+                    "tu avesti convocato",
+                    "tu aggregasti",
+                    "tu hai aggregato",
+                    "tu avesti aggregato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gregavit",
+                "traduzioni": [
+                    "lui riunì",
+                    "lei riunì",
+                    "egli riunì",
+                    "lui ha riunito",
+                    "lei ha riunito",
+                    "egli ha riunito",
+                    "lui ebbe riunito",
+                    "lei ebbe riunito",
+                    "egli ebbe riunito",
+                    "lui convocò",
+                    "lei convocò",
+                    "egli convocò",
+                    "lui ha convocato",
+                    "lei ha convocato",
+                    "egli ha convocato",
+                    "lui ebbe convocato",
+                    "lei ebbe convocato",
+                    "egli ebbe convocato",
+                    "lui aggregò",
+                    "lei aggregò",
+                    "egli aggregò",
+                    "lui ha aggregato",
+                    "lei ha aggregato",
+                    "egli ha aggregato",
+                    "lui ebbe aggregato",
+                    "lei ebbe aggregato",
+                    "egli ebbe aggregato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gregavĭmus",
+                "traduzioni": [
+                    "noi riunimmo",
+                    "noi abbiamo riunito",
+                    "noi avemmo riunito",
+                    "noi convocammo",
+                    "noi abbiamo convocato",
+                    "noi avemmo convocato",
+                    "noi aggregammo",
+                    "noi abbiamo aggregato",
+                    "noi avemmo aggregato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gregavistis",
+                "traduzioni": [
+                    "voi riuniste",
+                    "voi avete riunito",
+                    "voi aveste riunito",
+                    "voi convocaste",
+                    "voi avete convocato",
+                    "voi aveste convocato",
+                    "voi aggregaste",
+                    "voi avete aggregato",
+                    "voi aveste aggregato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gregavērunt, gregavēre",
+                "traduzioni": [
+                    "loro riunirono",
+                    "essi riunirono",
+                    "loro hanno riunito",
+                    "essi hanno riunito",
+                    "loro ebbero riunito",
+                    "essi ebbero riunito",
+                    "loro convocarono",
+                    "essi convocarono",
+                    "loro hanno convocato",
+                    "essi hanno convocato",
+                    "loro ebbero convocato",
+                    "essi ebbero convocato",
+                    "loro aggregarono",
+                    "essi aggregarono",
+                    "loro hanno aggregato",
+                    "essi hanno aggregato",
+                    "loro ebbero aggregato",
+                    "essi ebbero aggregato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gregavĕram",
+                "traduzioni": [
+                    "io avevo riunito",
+                    "io avevo convocato",
+                    "io avevo aggregato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gregavĕras",
+                "traduzioni": [
+                    "tu avevi riunito",
+                    "tu avevi convocato",
+                    "tu avevi aggregato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gregavĕrat",
+                "traduzioni": [
+                    "lui aveva riunito",
+                    "lei aveva riunito",
+                    "egli aveva riunito",
+                    "lui aveva convocato",
+                    "lei aveva convocato",
+                    "egli aveva convocato",
+                    "lui aveva aggregato",
+                    "lei aveva aggregato",
+                    "egli aveva aggregato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gregaverāmus",
+                "traduzioni": [
+                    "noi avevamo riunito",
+                    "noi avevamo convocato",
+                    "noi avevamo aggregato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gregaverātis",
+                "traduzioni": [
+                    "voi avevate riunito",
+                    "voi avevate convocato",
+                    "voi avevate aggregato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gregavĕrant",
+                "traduzioni": [
+                    "loro avevano riunito",
+                    "essi avevano riunito",
+                    "loro avevano convocato",
+                    "essi avevano convocato",
+                    "loro avevano aggregato",
+                    "essi avevano aggregato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "gregavĕro",
+                "traduzioni": [
+                    "io avrò riunito",
+                    "io avrò convocato",
+                    "io avrò aggregato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gregavĕris",
+                "traduzioni": [
+                    "tu avrai riunito",
+                    "tu avrai convocato",
+                    "tu avrai aggregato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gregavĕrit",
+                "traduzioni": [
+                    "lui avrà riunito",
+                    "lei avrà riunito",
+                    "egli avrà riunito",
+                    "lui avrà convocato",
+                    "lei avrà convocato",
+                    "egli avrà convocato",
+                    "lui avrà aggregato",
+                    "lei avrà aggregato",
+                    "egli avrà aggregato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gregaverĭmus",
+                "traduzioni": [
+                    "noi avremo riunito",
+                    "noi avremo convocato",
+                    "noi avremo aggregato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gregaverĭtis",
+                "traduzioni": [
+                    "voi avrete riunito",
+                    "voi avrete convocato",
+                    "voi avrete aggregato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gregavĕrint",
+                "traduzioni": [
+                    "loro avranno riunito",
+                    "essi avranno riunito",
+                    "loro avranno convocato",
+                    "essi avranno convocato",
+                    "loro avranno aggregato",
+                    "essi avranno aggregato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "grĕgem",
+                "traduzioni": [
+                    "che io riunisca",
+                    "che io convochi",
+                    "che io aggreghi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "grĕges",
+                "traduzioni": [
+                    "che tu riunisca",
+                    "che tu convochi",
+                    "che tu aggreghi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "grĕget",
+                "traduzioni": [
+                    "che lui riunisca",
+                    "che lei riunisca",
+                    "che egli riunisca",
+                    "che lui convochi",
+                    "che lei convochi",
+                    "che egli convochi",
+                    "che lui aggreghi",
+                    "che lei aggreghi",
+                    "che egli aggreghi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "grĕgēmus",
+                "traduzioni": [
+                    "che noi riuniamo",
+                    "che noi convochiamo",
+                    "che noi aggreghiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "grĕgētis",
+                "traduzioni": [
+                    "che voi riuniate",
+                    "che voi convochiate",
+                    "che voi aggreghiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "grĕgent",
+                "traduzioni": [
+                    "che loro riuniscano",
+                    "che essi riuniscano",
+                    "che loro convochino",
+                    "che essi convochino",
+                    "che loro aggreghino",
+                    "che essi aggreghino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "grĕgārem",
+                "traduzioni": [
+                    "che io riunissi",
+                    "che io convocassi",
+                    "che io aggregassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "grĕgāres",
+                "traduzioni": [
+                    "che tu riunissi",
+                    "che tu convocassi",
+                    "che tu aggregassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "grĕgāret",
+                "traduzioni": [
+                    "che lui riunisse",
+                    "che lei riunisse",
+                    "che egli riunisse",
+                    "che lui convocasse",
+                    "che lei convocasse",
+                    "che egli convocasse",
+                    "che lui aggregasse",
+                    "che lei aggregasse",
+                    "che egli aggregasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "grĕgarēmus",
+                "traduzioni": [
+                    "che noi riunissimo",
+                    "che noi convocassimo",
+                    "che noi aggregassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "grĕgarētis",
+                "traduzioni": [
+                    "che voi riuniste",
+                    "che voi convocaste",
+                    "che voi aggregaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "grĕgārent",
+                "traduzioni": [
+                    "che loro riunissero",
+                    "che essi riunissero",
+                    "che loro convocassero",
+                    "che essi convocassero",
+                    "che loro aggregassero",
+                    "che essi aggregassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gregavĕrim",
+                "traduzioni": [
+                    "che io abbia riunito",
+                    "che io abbia convocato",
+                    "che io abbia aggregato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gregavĕris",
+                "traduzioni": [
+                    "che tu abbia riunito",
+                    "che tu abbia convocato",
+                    "che tu abbia aggregato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gregavĕrit",
+                "traduzioni": [
+                    "che lui abbia riunito",
+                    "che lei abbia riunito",
+                    "che egli abbia riunito",
+                    "che lui abbia convocato",
+                    "che lei abbia convocato",
+                    "che egli abbia convocato",
+                    "che lui abbia aggregato",
+                    "che lei abbia aggregato",
+                    "che egli abbia aggregato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gregaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo riunito",
+                    "che noi abbiamo convocato",
+                    "che noi abbiamo aggregato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gregaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate riunito",
+                    "che voi abbiate convocato",
+                    "che voi abbiate aggregato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gregavĕrint",
+                "traduzioni": [
+                    "che loro abbiano riunito",
+                    "che essi abbiano riunito",
+                    "che loro abbiano convocato",
+                    "che essi abbiano convocato",
+                    "che loro abbiano aggregato",
+                    "che essi abbiano aggregato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gregavissem",
+                "traduzioni": [
+                    "che io avessi riunito",
+                    "che io avessi convocato",
+                    "che io avessi aggregato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gregavisses",
+                "traduzioni": [
+                    "che tu avessi riunito",
+                    "che tu avessi convocato",
+                    "che tu avessi aggregato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gregavisset",
+                "traduzioni": [
+                    "che lui avesse riunito",
+                    "che lei avesse riunito",
+                    "che egli avesse riunito",
+                    "che lui avesse convocato",
+                    "che lei avesse convocato",
+                    "che egli avesse convocato",
+                    "che lui avesse aggregato",
+                    "che lei avesse aggregato",
+                    "che egli avesse aggregato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gregavissēmus",
+                "traduzioni": [
+                    "che noi avessimo riunito",
+                    "che noi avessimo convocato",
+                    "che noi avessimo aggregato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gregavissētis",
+                "traduzioni": [
+                    "che voi aveste riunito",
+                    "che voi aveste convocato",
+                    "che voi aveste aggregato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gregavissent",
+                "traduzioni": [
+                    "che loro avessero riunito",
+                    "che essi avessero riunito",
+                    "che loro avessero convocato",
+                    "che essi avessero convocato",
+                    "che loro avessero aggregato",
+                    "che essi avessero aggregato"
+                ]
+            }
+        ]
+    }
+}

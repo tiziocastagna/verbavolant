@@ -1,0 +1,723 @@
+{
+    "identifier": "PAVIMENTO",
+    "conuigazione": "1",
+    "translation": [
+        "battere",
+        "spianare",
+        "livellare",
+        "(in senso figurato) abbattere"
+    ],
+    "valid_translations": [
+        "battere",
+        "spianare",
+        "livellare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "păvīmento",
+                "traduzioni": [
+                    "io batto",
+                    "io spiano",
+                    "io livello"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "păvīmentas",
+                "traduzioni": [
+                    "tu batti",
+                    "tu spiani",
+                    "tu livelli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "păvīmentat",
+                "traduzioni": [
+                    "lui batte",
+                    "lei batte",
+                    "egli batte",
+                    "lui spiana",
+                    "lei spiana",
+                    "egli spiana",
+                    "lui livella",
+                    "lei livella",
+                    "egli livella"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "păvīmentāmus",
+                "traduzioni": [
+                    "noi battiamo",
+                    "noi spianiamo",
+                    "noi livelliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "păvīmentātis",
+                "traduzioni": [
+                    "voi battete",
+                    "voi spianate",
+                    "voi livellate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "păvīmentant",
+                "traduzioni": [
+                    "loro battono",
+                    "essi battono",
+                    "loro spianano",
+                    "essi spianano",
+                    "loro livellano",
+                    "essi livellano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "păvīmentābam",
+                "traduzioni": [
+                    "io battevo",
+                    "io spianavo",
+                    "io livellavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "păvīmentābas",
+                "traduzioni": [
+                    "tu battevi",
+                    "tu spianavi",
+                    "tu livellavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "păvīmentābat",
+                "traduzioni": [
+                    "lui batteva",
+                    "lei batteva",
+                    "egli batteva",
+                    "lui spianava",
+                    "lei spianava",
+                    "egli spianava",
+                    "lui livellava",
+                    "lei livellava",
+                    "egli livellava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "păvīmentabāmus",
+                "traduzioni": [
+                    "noi battevamo",
+                    "noi spianavamo",
+                    "noi livellavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "păvīmentabātis",
+                "traduzioni": [
+                    "voi battevate",
+                    "voi spianavate",
+                    "voi livellavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "păvīmentābant",
+                "traduzioni": [
+                    "loro battevano",
+                    "essi battevano",
+                    "loro spianavano",
+                    "essi spianavano",
+                    "loro livellavano",
+                    "essi livellavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "păvīmentābo",
+                "traduzioni": [
+                    "io batterò",
+                    "io spianerò",
+                    "io livellerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "păvīmentābis",
+                "traduzioni": [
+                    "tu batterai",
+                    "tu spianerai",
+                    "tu livellerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "păvīmentābit",
+                "traduzioni": [
+                    "lui batterà",
+                    "lei batterà",
+                    "egli batterà",
+                    "lui spianerà",
+                    "lei spianerà",
+                    "egli spianerà",
+                    "lui livellerà",
+                    "lei livellerà",
+                    "egli livellerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "păvīmentabĭmus",
+                "traduzioni": [
+                    "noi batteremo",
+                    "noi spianeremo",
+                    "noi livelleremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "păvīmentabĭtis",
+                "traduzioni": [
+                    "voi batterete",
+                    "voi spianerete",
+                    "voi livellerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "păvīmentābunt",
+                "traduzioni": [
+                    "loro batteranno",
+                    "essi batteranno",
+                    "loro spianeranno",
+                    "essi spianeranno",
+                    "loro livelleranno",
+                    "essi livelleranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io battei",
+                    "io ho battuto",
+                    "io ebbi battuto",
+                    "io spianai",
+                    "io ho spianato",
+                    "io ebbi spianato",
+                    "io livellai",
+                    "io ho livellato",
+                    "io ebbi livellato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu battesti",
+                    "tu hai battuto",
+                    "tu avesti battuto",
+                    "tu spianasti",
+                    "tu hai spianato",
+                    "tu avesti spianato",
+                    "tu livellasti",
+                    "tu hai livellato",
+                    "tu avesti livellato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui batté",
+                    "lei batté",
+                    "egli batté",
+                    "lui ha battuto",
+                    "lei ha battuto",
+                    "egli ha battuto",
+                    "lui ebbe battuto",
+                    "lei ebbe battuto",
+                    "egli ebbe battuto",
+                    "lui spianò",
+                    "lei spianò",
+                    "egli spianò",
+                    "lui ha spianato",
+                    "lei ha spianato",
+                    "egli ha spianato",
+                    "lui ebbe spianato",
+                    "lei ebbe spianato",
+                    "egli ebbe spianato",
+                    "lui livellò",
+                    "lei livellò",
+                    "egli livellò",
+                    "lui ha livellato",
+                    "lei ha livellato",
+                    "egli ha livellato",
+                    "lui ebbe livellato",
+                    "lei ebbe livellato",
+                    "egli ebbe livellato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi battemmo",
+                    "noi abbiamo battuto",
+                    "noi avemmo battuto",
+                    "noi spianammo",
+                    "noi abbiamo spianato",
+                    "noi avemmo spianato",
+                    "noi livellammo",
+                    "noi abbiamo livellato",
+                    "noi avemmo livellato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi batteste",
+                    "voi avete battuto",
+                    "voi aveste battuto",
+                    "voi spianaste",
+                    "voi avete spianato",
+                    "voi aveste spianato",
+                    "voi livellaste",
+                    "voi avete livellato",
+                    "voi aveste livellato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro batterono",
+                    "essi batterono",
+                    "loro hanno battuto",
+                    "essi hanno battuto",
+                    "loro ebbero battuto",
+                    "essi ebbero battuto",
+                    "loro spianarono",
+                    "essi spianarono",
+                    "loro hanno spianato",
+                    "essi hanno spianato",
+                    "loro ebbero spianato",
+                    "essi ebbero spianato",
+                    "loro livellarono",
+                    "essi livellarono",
+                    "loro hanno livellato",
+                    "essi hanno livellato",
+                    "loro ebbero livellato",
+                    "essi ebbero livellato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avevo battuto",
+                    "io avevo spianato",
+                    "io avevo livellato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avevi battuto",
+                    "tu avevi spianato",
+                    "tu avevi livellato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui aveva battuto",
+                    "lei aveva battuto",
+                    "egli aveva battuto",
+                    "lui aveva spianato",
+                    "lei aveva spianato",
+                    "egli aveva spianato",
+                    "lui aveva livellato",
+                    "lei aveva livellato",
+                    "egli aveva livellato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avevamo battuto",
+                    "noi avevamo spianato",
+                    "noi avevamo livellato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avevate battuto",
+                    "voi avevate spianato",
+                    "voi avevate livellato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avevano battuto",
+                    "essi avevano battuto",
+                    "loro avevano spianato",
+                    "essi avevano spianato",
+                    "loro avevano livellato",
+                    "essi avevano livellato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avrò battuto",
+                    "io avrò spianato",
+                    "io avrò livellato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avrai battuto",
+                    "tu avrai spianato",
+                    "tu avrai livellato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui avrà battuto",
+                    "lei avrà battuto",
+                    "egli avrà battuto",
+                    "lui avrà spianato",
+                    "lei avrà spianato",
+                    "egli avrà spianato",
+                    "lui avrà livellato",
+                    "lei avrà livellato",
+                    "egli avrà livellato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avremo battuto",
+                    "noi avremo spianato",
+                    "noi avremo livellato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avrete battuto",
+                    "voi avrete spianato",
+                    "voi avrete livellato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avranno battuto",
+                    "essi avranno battuto",
+                    "loro avranno spianato",
+                    "essi avranno spianato",
+                    "loro avranno livellato",
+                    "essi avranno livellato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "păvīmentem",
+                "traduzioni": [
+                    "che io batta",
+                    "che io spiani",
+                    "che io livelli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "păvīmentes",
+                "traduzioni": [
+                    "che tu batta",
+                    "che tu spiani",
+                    "che tu livelli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "păvīmentet",
+                "traduzioni": [
+                    "che lui batta",
+                    "che lei batta",
+                    "che egli batta",
+                    "che lui spiani",
+                    "che lei spiani",
+                    "che egli spiani",
+                    "che lui livelli",
+                    "che lei livelli",
+                    "che egli livelli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "păvīmentēmus",
+                "traduzioni": [
+                    "che noi battiamo",
+                    "che noi spianiamo",
+                    "che noi livelliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "păvīmentētis",
+                "traduzioni": [
+                    "che voi battiate",
+                    "che voi spianiate",
+                    "che voi livelliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "păvīmentent",
+                "traduzioni": [
+                    "che loro battano",
+                    "che essi battano",
+                    "che loro spianino",
+                    "che essi spianino",
+                    "che loro livellino",
+                    "che essi livellino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "păvīmentārem",
+                "traduzioni": [
+                    "che io battessi",
+                    "che io spianassi",
+                    "che io livellassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "păvīmentāres",
+                "traduzioni": [
+                    "che tu battessi",
+                    "che tu spianassi",
+                    "che tu livellassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "păvīmentāret",
+                "traduzioni": [
+                    "che lui battesse",
+                    "che lei battesse",
+                    "che egli battesse",
+                    "che lui spianasse",
+                    "che lei spianasse",
+                    "che egli spianasse",
+                    "che lui livellasse",
+                    "che lei livellasse",
+                    "che egli livellasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "păvīmentarēmus",
+                "traduzioni": [
+                    "che noi battessimo",
+                    "che noi spianassimo",
+                    "che noi livellassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "păvīmentarētis",
+                "traduzioni": [
+                    "che voi batteste",
+                    "che voi spianaste",
+                    "che voi livellaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "păvīmentārent",
+                "traduzioni": [
+                    "che loro battessero",
+                    "che essi battessero",
+                    "che loro spianassero",
+                    "che essi spianassero",
+                    "che loro livellassero",
+                    "che essi livellassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io abbia battuto",
+                    "che io abbia spianato",
+                    "che io abbia livellato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu abbia battuto",
+                    "che tu abbia spianato",
+                    "che tu abbia livellato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui abbia battuto",
+                    "che lei abbia battuto",
+                    "che egli abbia battuto",
+                    "che lui abbia spianato",
+                    "che lei abbia spianato",
+                    "che egli abbia spianato",
+                    "che lui abbia livellato",
+                    "che lei abbia livellato",
+                    "che egli abbia livellato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi abbiamo battuto",
+                    "che noi abbiamo spianato",
+                    "che noi abbiamo livellato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi abbiate battuto",
+                    "che voi abbiate spianato",
+                    "che voi abbiate livellato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro abbiano battuto",
+                    "che essi abbiano battuto",
+                    "che loro abbiano spianato",
+                    "che essi abbiano spianato",
+                    "che loro abbiano livellato",
+                    "che essi abbiano livellato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io avessi battuto",
+                    "che io avessi spianato",
+                    "che io avessi livellato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu avessi battuto",
+                    "che tu avessi spianato",
+                    "che tu avessi livellato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui avesse battuto",
+                    "che lei avesse battuto",
+                    "che egli avesse battuto",
+                    "che lui avesse spianato",
+                    "che lei avesse spianato",
+                    "che egli avesse spianato",
+                    "che lui avesse livellato",
+                    "che lei avesse livellato",
+                    "che egli avesse livellato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi avessimo battuto",
+                    "che noi avessimo spianato",
+                    "che noi avessimo livellato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi aveste battuto",
+                    "che voi aveste spianato",
+                    "che voi aveste livellato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro avessero battuto",
+                    "che essi avessero battuto",
+                    "che loro avessero spianato",
+                    "che essi avessero spianato",
+                    "che loro avessero livellato",
+                    "che essi avessero livellato"
+                ]
+            }
+        ]
+    }
+}

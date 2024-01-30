@@ -1,0 +1,722 @@
+{
+    "identifier": "PUNIO",
+    "conuigazione": "4",
+    "translation": [
+        "punire",
+        "castigare",
+        "vendicare"
+    ],
+    "valid_translations": [
+        "punire",
+        "castigare",
+        "vendicare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pūnĭo",
+                "traduzioni": [
+                    "io punisco",
+                    "io castigo",
+                    "io vendico"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pūnis",
+                "traduzioni": [
+                    "tu punisci",
+                    "tu castighi",
+                    "tu vendichi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pūnit",
+                "traduzioni": [
+                    "lui punisce",
+                    "lei punisce",
+                    "egli punisce",
+                    "lui castiga",
+                    "lei castiga",
+                    "egli castiga",
+                    "lui vendica",
+                    "lei vendica",
+                    "egli vendica"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pūnīmus",
+                "traduzioni": [
+                    "noi puniamo",
+                    "noi castighiamo",
+                    "noi vendichiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pūnītis",
+                "traduzioni": [
+                    "voi punite",
+                    "voi castigate",
+                    "voi vendicate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pūnĭunt",
+                "traduzioni": [
+                    "loro puniscono",
+                    "essi puniscono",
+                    "loro castigano",
+                    "essi castigano",
+                    "loro vendicano",
+                    "essi vendicano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pūniēbam",
+                "traduzioni": [
+                    "io punivo",
+                    "io castigavo",
+                    "io vendicavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pūniēbas",
+                "traduzioni": [
+                    "tu punivi",
+                    "tu castigavi",
+                    "tu vendicavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pūniēbat",
+                "traduzioni": [
+                    "lui puniva",
+                    "lei puniva",
+                    "egli puniva",
+                    "lui castigava",
+                    "lei castigava",
+                    "egli castigava",
+                    "lui vendicava",
+                    "lei vendicava",
+                    "egli vendicava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pūniebāmus",
+                "traduzioni": [
+                    "noi punivamo",
+                    "noi castigavamo",
+                    "noi vendicavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pūniebātis",
+                "traduzioni": [
+                    "voi punivate",
+                    "voi castigavate",
+                    "voi vendicavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pūniēbant",
+                "traduzioni": [
+                    "loro punivano",
+                    "essi punivano",
+                    "loro castigavano",
+                    "essi castigavano",
+                    "loro vendicavano",
+                    "essi vendicavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pūnĭam",
+                "traduzioni": [
+                    "io punirò",
+                    "io castigherò",
+                    "io vendicherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pūnĭes",
+                "traduzioni": [
+                    "tu punirai",
+                    "tu castigherai",
+                    "tu vendicherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pūnĭet",
+                "traduzioni": [
+                    "lui punirà",
+                    "lei punirà",
+                    "egli punirà",
+                    "lui castigherà",
+                    "lei castigherà",
+                    "egli castigherà",
+                    "lui vendicherà",
+                    "lei vendicherà",
+                    "egli vendicherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pūniēmus",
+                "traduzioni": [
+                    "noi puniremo",
+                    "noi castigheremo",
+                    "noi vendicheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pūniētis",
+                "traduzioni": [
+                    "voi punirete",
+                    "voi castigherete",
+                    "voi vendicherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pūnĭent",
+                "traduzioni": [
+                    "loro puniranno",
+                    "essi puniranno",
+                    "loro castigheranno",
+                    "essi castigheranno",
+                    "loro vendicheranno",
+                    "essi vendicheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "punii o punivi",
+                "traduzioni": [
+                    "io punii",
+                    "io ho punito",
+                    "io ebbi punito",
+                    "io castigai",
+                    "io ho castigato",
+                    "io ebbi castigato",
+                    "io vendicai",
+                    "io ho vendicato",
+                    "io ebbi vendicato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "puniisti o punivisti",
+                "traduzioni": [
+                    "tu punisti",
+                    "tu hai punito",
+                    "tu avesti punito",
+                    "tu castigasti",
+                    "tu hai castigato",
+                    "tu avesti castigato",
+                    "tu vendicasti",
+                    "tu hai vendicato",
+                    "tu avesti vendicato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "puniit o punivit",
+                "traduzioni": [
+                    "lui punì",
+                    "lei punì",
+                    "egli punì",
+                    "lui ha punito",
+                    "lei ha punito",
+                    "egli ha punito",
+                    "lui ebbe punito",
+                    "lei ebbe punito",
+                    "egli ebbe punito",
+                    "lui castigò",
+                    "lei castigò",
+                    "egli castigò",
+                    "lui ha castigato",
+                    "lei ha castigato",
+                    "egli ha castigato",
+                    "lui ebbe castigato",
+                    "lei ebbe castigato",
+                    "egli ebbe castigato",
+                    "lui vendicò",
+                    "lei vendicò",
+                    "egli vendicò",
+                    "lui ha vendicato",
+                    "lei ha vendicato",
+                    "egli ha vendicato",
+                    "lui ebbe vendicato",
+                    "lei ebbe vendicato",
+                    "egli ebbe vendicato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "puniĭmus o punivĭmus",
+                "traduzioni": [
+                    "noi punimmo",
+                    "noi abbiamo punito",
+                    "noi avemmo punito",
+                    "noi castigammo",
+                    "noi abbiamo castigato",
+                    "noi avemmo castigato",
+                    "noi vendicammo",
+                    "noi abbiamo vendicato",
+                    "noi avemmo vendicato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "puniistis o punivistis",
+                "traduzioni": [
+                    "voi puniste",
+                    "voi avete punito",
+                    "voi aveste punito",
+                    "voi castigaste",
+                    "voi avete castigato",
+                    "voi aveste castigato",
+                    "voi vendicaste",
+                    "voi avete vendicato",
+                    "voi aveste vendicato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "puniērunt o punivērunt, ēre",
+                "traduzioni": [
+                    "loro punirono",
+                    "essi punirono",
+                    "loro hanno punito",
+                    "essi hanno punito",
+                    "loro ebbero punito",
+                    "essi ebbero punito",
+                    "loro castigarono",
+                    "essi castigarono",
+                    "loro hanno castigato",
+                    "essi hanno castigato",
+                    "loro ebbero castigato",
+                    "essi ebbero castigato",
+                    "loro vendicarono",
+                    "essi vendicarono",
+                    "loro hanno vendicato",
+                    "essi hanno vendicato",
+                    "loro ebbero vendicato",
+                    "essi ebbero vendicato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "puniĕram o punivĕram",
+                "traduzioni": [
+                    "io avevo punito",
+                    "io avevo castigato",
+                    "io avevo vendicato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "puniĕras o punivĕras",
+                "traduzioni": [
+                    "tu avevi punito",
+                    "tu avevi castigato",
+                    "tu avevi vendicato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "puniĕrat o punivĕrat",
+                "traduzioni": [
+                    "lui aveva punito",
+                    "lei aveva punito",
+                    "egli aveva punito",
+                    "lui aveva castigato",
+                    "lei aveva castigato",
+                    "egli aveva castigato",
+                    "lui aveva vendicato",
+                    "lei aveva vendicato",
+                    "egli aveva vendicato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "punierāmus o puniverāmus",
+                "traduzioni": [
+                    "noi avevamo punito",
+                    "noi avevamo castigato",
+                    "noi avevamo vendicato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "punierātis o puniverātis",
+                "traduzioni": [
+                    "voi avevate punito",
+                    "voi avevate castigato",
+                    "voi avevate vendicato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "puniĕrant o punivĕrant",
+                "traduzioni": [
+                    "loro avevano punito",
+                    "essi avevano punito",
+                    "loro avevano castigato",
+                    "essi avevano castigato",
+                    "loro avevano vendicato",
+                    "essi avevano vendicato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "puniĕro o punivĕro",
+                "traduzioni": [
+                    "io avrò punito",
+                    "io avrò castigato",
+                    "io avrò vendicato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "puniĕris o punivĕris",
+                "traduzioni": [
+                    "tu avrai punito",
+                    "tu avrai castigato",
+                    "tu avrai vendicato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "puniĕrit o punivĕrit",
+                "traduzioni": [
+                    "lui avrà punito",
+                    "lei avrà punito",
+                    "egli avrà punito",
+                    "lui avrà castigato",
+                    "lei avrà castigato",
+                    "egli avrà castigato",
+                    "lui avrà vendicato",
+                    "lei avrà vendicato",
+                    "egli avrà vendicato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "punierĭmus o puniverĭmus",
+                "traduzioni": [
+                    "noi avremo punito",
+                    "noi avremo castigato",
+                    "noi avremo vendicato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "punierĭtis o puniverĭtis",
+                "traduzioni": [
+                    "voi avrete punito",
+                    "voi avrete castigato",
+                    "voi avrete vendicato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "puniĕrint o punivĕrint",
+                "traduzioni": [
+                    "loro avranno punito",
+                    "essi avranno punito",
+                    "loro avranno castigato",
+                    "essi avranno castigato",
+                    "loro avranno vendicato",
+                    "essi avranno vendicato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pūnĭam",
+                "traduzioni": [
+                    "che io punisca",
+                    "che io castighi",
+                    "che io vendichi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pūnĭas",
+                "traduzioni": [
+                    "che tu punisca",
+                    "che tu castighi",
+                    "che tu vendichi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pūnĭat",
+                "traduzioni": [
+                    "che lui punisca",
+                    "che lei punisca",
+                    "che egli punisca",
+                    "che lui castighi",
+                    "che lei castighi",
+                    "che egli castighi",
+                    "che lui vendichi",
+                    "che lei vendichi",
+                    "che egli vendichi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pūniāmus",
+                "traduzioni": [
+                    "che noi puniamo",
+                    "che noi castighiamo",
+                    "che noi vendichiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pūniātis",
+                "traduzioni": [
+                    "che voi puniate",
+                    "che voi castighiate",
+                    "che voi vendichiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pūnĭant",
+                "traduzioni": [
+                    "che loro puniscano",
+                    "che essi puniscano",
+                    "che loro castighino",
+                    "che essi castighino",
+                    "che loro vendichino",
+                    "che essi vendichino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pūnīrem",
+                "traduzioni": [
+                    "che io punissi",
+                    "che io castigassi",
+                    "che io vendicassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pūnīres",
+                "traduzioni": [
+                    "che tu punissi",
+                    "che tu castigassi",
+                    "che tu vendicassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pūnīret",
+                "traduzioni": [
+                    "che lui punisse",
+                    "che lei punisse",
+                    "che egli punisse",
+                    "che lui castigasse",
+                    "che lei castigasse",
+                    "che egli castigasse",
+                    "che lui vendicasse",
+                    "che lei vendicasse",
+                    "che egli vendicasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pūnirēmus",
+                "traduzioni": [
+                    "che noi punissimo",
+                    "che noi castigassimo",
+                    "che noi vendicassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pūnirētis",
+                "traduzioni": [
+                    "che voi puniste",
+                    "che voi castigaste",
+                    "che voi vendicaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pūnīrent",
+                "traduzioni": [
+                    "che loro punissero",
+                    "che essi punissero",
+                    "che loro castigassero",
+                    "che essi castigassero",
+                    "che loro vendicassero",
+                    "che essi vendicassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "puniĕrim o punivĕrim",
+                "traduzioni": [
+                    "che io abbia punito",
+                    "che io abbia castigato",
+                    "che io abbia vendicato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "puniĕris o punivĕris",
+                "traduzioni": [
+                    "che tu abbia punito",
+                    "che tu abbia castigato",
+                    "che tu abbia vendicato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "puniĕrit o punivĕrit",
+                "traduzioni": [
+                    "che lui abbia punito",
+                    "che lei abbia punito",
+                    "che egli abbia punito",
+                    "che lui abbia castigato",
+                    "che lei abbia castigato",
+                    "che egli abbia castigato",
+                    "che lui abbia vendicato",
+                    "che lei abbia vendicato",
+                    "che egli abbia vendicato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "punierĭmus o puniverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo punito",
+                    "che noi abbiamo castigato",
+                    "che noi abbiamo vendicato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "punierĭtis o puniverĭtis",
+                "traduzioni": [
+                    "che voi abbiate punito",
+                    "che voi abbiate castigato",
+                    "che voi abbiate vendicato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "puniĕrint o punivĕrint",
+                "traduzioni": [
+                    "che loro abbiano punito",
+                    "che essi abbiano punito",
+                    "che loro abbiano castigato",
+                    "che essi abbiano castigato",
+                    "che loro abbiano vendicato",
+                    "che essi abbiano vendicato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "puniissem o punivissem",
+                "traduzioni": [
+                    "che io avessi punito",
+                    "che io avessi castigato",
+                    "che io avessi vendicato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "puniisses o punivisses",
+                "traduzioni": [
+                    "che tu avessi punito",
+                    "che tu avessi castigato",
+                    "che tu avessi vendicato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "puniisset o punivisset",
+                "traduzioni": [
+                    "che lui avesse punito",
+                    "che lei avesse punito",
+                    "che egli avesse punito",
+                    "che lui avesse castigato",
+                    "che lei avesse castigato",
+                    "che egli avesse castigato",
+                    "che lui avesse vendicato",
+                    "che lei avesse vendicato",
+                    "che egli avesse vendicato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "puniissēmus o punivissēmus",
+                "traduzioni": [
+                    "che noi avessimo punito",
+                    "che noi avessimo castigato",
+                    "che noi avessimo vendicato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "puniissētis o punivissētis",
+                "traduzioni": [
+                    "che voi aveste punito",
+                    "che voi aveste castigato",
+                    "che voi aveste vendicato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "puniissent o punivissent",
+                "traduzioni": [
+                    "che loro avessero punito",
+                    "che essi avessero punito",
+                    "che loro avessero castigato",
+                    "che essi avessero castigato",
+                    "che loro avessero vendicato",
+                    "che essi avessero vendicato"
+                ]
+            }
+        ]
+    }
+}

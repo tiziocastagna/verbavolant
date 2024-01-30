@@ -1,0 +1,613 @@
+{
+    "identifier": "SALTO",
+    "conuigazione": "1",
+    "translation": [
+        "(intransitivo) danzare",
+        "ballare",
+        "mimare"
+    ],
+    "valid_translations": [
+        "ballare",
+        "mimare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "salto",
+                "traduzioni": [
+                    "io ballo",
+                    "io mimo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saltas",
+                "traduzioni": [
+                    "tu balli",
+                    "tu mimi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saltat",
+                "traduzioni": [
+                    "lui balla",
+                    "lei balla",
+                    "egli balla",
+                    "lui mima",
+                    "lei mima",
+                    "egli mima"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saltāmus",
+                "traduzioni": [
+                    "noi balliamo",
+                    "noi mimiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saltātis",
+                "traduzioni": [
+                    "voi ballate",
+                    "voi mimate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saltant",
+                "traduzioni": [
+                    "loro ballano",
+                    "essi ballano",
+                    "loro mimano",
+                    "essi mimano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "saltābam",
+                "traduzioni": [
+                    "io ballavo",
+                    "io mimavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saltābas",
+                "traduzioni": [
+                    "tu ballavi",
+                    "tu mimavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saltābat",
+                "traduzioni": [
+                    "lui ballava",
+                    "lei ballava",
+                    "egli ballava",
+                    "lui mimava",
+                    "lei mimava",
+                    "egli mimava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saltabāmus",
+                "traduzioni": [
+                    "noi ballavamo",
+                    "noi mimavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saltabātis",
+                "traduzioni": [
+                    "voi ballavate",
+                    "voi mimavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saltābant",
+                "traduzioni": [
+                    "loro ballavano",
+                    "essi ballavano",
+                    "loro mimavano",
+                    "essi mimavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "saltābo",
+                "traduzioni": [
+                    "io ballerò",
+                    "io mimerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saltābis",
+                "traduzioni": [
+                    "tu ballerai",
+                    "tu mimerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saltābit",
+                "traduzioni": [
+                    "lui ballerà",
+                    "lei ballerà",
+                    "egli ballerà",
+                    "lui mimerà",
+                    "lei mimerà",
+                    "egli mimerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saltabĭmus",
+                "traduzioni": [
+                    "noi balleremo",
+                    "noi mimeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saltabĭtis",
+                "traduzioni": [
+                    "voi ballerete",
+                    "voi mimerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saltābunt",
+                "traduzioni": [
+                    "loro balleranno",
+                    "essi balleranno",
+                    "loro mimeranno",
+                    "essi mimeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "saltavi",
+                "traduzioni": [
+                    "io ballai",
+                    "io ho ballato",
+                    "io ebbi ballato",
+                    "io mimai",
+                    "io ho mimato",
+                    "io ebbi mimato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saltavisti",
+                "traduzioni": [
+                    "tu ballasti",
+                    "tu hai ballato",
+                    "tu avesti ballato",
+                    "tu mimasti",
+                    "tu hai mimato",
+                    "tu avesti mimato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saltavit",
+                "traduzioni": [
+                    "lui ballò",
+                    "lei ballò",
+                    "egli ballò",
+                    "lui ha ballato",
+                    "lei ha ballato",
+                    "egli ha ballato",
+                    "lui ebbe ballato",
+                    "lei ebbe ballato",
+                    "egli ebbe ballato",
+                    "lui mimò",
+                    "lei mimò",
+                    "egli mimò",
+                    "lui ha mimato",
+                    "lei ha mimato",
+                    "egli ha mimato",
+                    "lui ebbe mimato",
+                    "lei ebbe mimato",
+                    "egli ebbe mimato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saltavĭmus",
+                "traduzioni": [
+                    "noi ballammo",
+                    "noi abbiamo ballato",
+                    "noi avemmo ballato",
+                    "noi mimammo",
+                    "noi abbiamo mimato",
+                    "noi avemmo mimato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saltavistis",
+                "traduzioni": [
+                    "voi ballaste",
+                    "voi avete ballato",
+                    "voi aveste ballato",
+                    "voi mimaste",
+                    "voi avete mimato",
+                    "voi aveste mimato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saltavēreunt, saltavēre",
+                "traduzioni": [
+                    "loro ballarono",
+                    "essi ballarono",
+                    "loro hanno ballato",
+                    "essi hanno ballato",
+                    "loro ebbero ballato",
+                    "essi ebbero ballato",
+                    "loro mimarono",
+                    "essi mimarono",
+                    "loro hanno mimato",
+                    "essi hanno mimato",
+                    "loro ebbero mimato",
+                    "essi ebbero mimato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "saltavĕram",
+                "traduzioni": [
+                    "io avevo ballato",
+                    "io avevo mimato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saltavĕras",
+                "traduzioni": [
+                    "tu avevi ballato",
+                    "tu avevi mimato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saltavĕrat",
+                "traduzioni": [
+                    "lui aveva ballato",
+                    "lei aveva ballato",
+                    "egli aveva ballato",
+                    "lui aveva mimato",
+                    "lei aveva mimato",
+                    "egli aveva mimato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saltaverāmus",
+                "traduzioni": [
+                    "noi avevamo ballato",
+                    "noi avevamo mimato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saltaverātis",
+                "traduzioni": [
+                    "voi avevate ballato",
+                    "voi avevate mimato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saltavĕrant",
+                "traduzioni": [
+                    "loro avevano ballato",
+                    "essi avevano ballato",
+                    "loro avevano mimato",
+                    "essi avevano mimato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "saltavĕro",
+                "traduzioni": [
+                    "io avrò ballato",
+                    "io avrò mimato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saltavĕris",
+                "traduzioni": [
+                    "tu avrai ballato",
+                    "tu avrai mimato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saltavĕrit",
+                "traduzioni": [
+                    "lui avrà ballato",
+                    "lei avrà ballato",
+                    "egli avrà ballato",
+                    "lui avrà mimato",
+                    "lei avrà mimato",
+                    "egli avrà mimato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saltaverĭmus",
+                "traduzioni": [
+                    "noi avremo ballato",
+                    "noi avremo mimato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saltaverĭtis",
+                "traduzioni": [
+                    "voi avrete ballato",
+                    "voi avrete mimato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saltavĕrint",
+                "traduzioni": [
+                    "loro avranno ballato",
+                    "essi avranno ballato",
+                    "loro avranno mimato",
+                    "essi avranno mimato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "saltem",
+                "traduzioni": [
+                    "che io balli",
+                    "che io mimi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saltes",
+                "traduzioni": [
+                    "che tu balli",
+                    "che tu mimi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saltet",
+                "traduzioni": [
+                    "che lui balli",
+                    "che lei balli",
+                    "che egli balli",
+                    "che lui mimi",
+                    "che lei mimi",
+                    "che egli mimi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saltēmus",
+                "traduzioni": [
+                    "che noi balliamo",
+                    "che noi mimiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saltētis",
+                "traduzioni": [
+                    "che voi balliate",
+                    "che voi mimiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saltent",
+                "traduzioni": [
+                    "che loro ballino",
+                    "che essi ballino",
+                    "che loro mimino",
+                    "che essi mimino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "saltārem",
+                "traduzioni": [
+                    "che io ballassi",
+                    "che io mimassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saltāres",
+                "traduzioni": [
+                    "che tu ballassi",
+                    "che tu mimassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saltāret",
+                "traduzioni": [
+                    "che lui ballasse",
+                    "che lei ballasse",
+                    "che egli ballasse",
+                    "che lui mimasse",
+                    "che lei mimasse",
+                    "che egli mimasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saltarēmus",
+                "traduzioni": [
+                    "che noi ballassimo",
+                    "che noi mimassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saltarētis",
+                "traduzioni": [
+                    "che voi ballaste",
+                    "che voi mimaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saltārent",
+                "traduzioni": [
+                    "che loro ballassero",
+                    "che essi ballassero",
+                    "che loro mimassero",
+                    "che essi mimassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "saltavĕrim",
+                "traduzioni": [
+                    "che io abbia ballato",
+                    "che io abbia mimato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saltavĕris",
+                "traduzioni": [
+                    "che tu abbia ballato",
+                    "che tu abbia mimato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saltavĕrit",
+                "traduzioni": [
+                    "che lui abbia ballato",
+                    "che lei abbia ballato",
+                    "che egli abbia ballato",
+                    "che lui abbia mimato",
+                    "che lei abbia mimato",
+                    "che egli abbia mimato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saltaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo ballato",
+                    "che noi abbiamo mimato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saltaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate ballato",
+                    "che voi abbiate mimato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saltavĕrint",
+                "traduzioni": [
+                    "che loro abbiano ballato",
+                    "che essi abbiano ballato",
+                    "che loro abbiano mimato",
+                    "che essi abbiano mimato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "saltavissem",
+                "traduzioni": [
+                    "che io avessi ballato",
+                    "che io avessi mimato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "saltavisses",
+                "traduzioni": [
+                    "che tu avessi ballato",
+                    "che tu avessi mimato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "saltavisset",
+                "traduzioni": [
+                    "che lui avesse ballato",
+                    "che lei avesse ballato",
+                    "che egli avesse ballato",
+                    "che lui avesse mimato",
+                    "che lei avesse mimato",
+                    "che egli avesse mimato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "saltavissēmus",
+                "traduzioni": [
+                    "che noi avessimo ballato",
+                    "che noi avessimo mimato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "saltavissētis",
+                "traduzioni": [
+                    "che voi aveste ballato",
+                    "che voi aveste mimato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "saltavissent",
+                "traduzioni": [
+                    "che loro avessero ballato",
+                    "che essi avessero ballato",
+                    "che loro avessero mimato",
+                    "che essi avessero mimato"
+                ]
+            }
+        ]
+    }
+}

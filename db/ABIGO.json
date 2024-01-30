@@ -1,0 +1,612 @@
+{
+    "identifier": "ABIGO",
+    "conuigazione": "3",
+    "translation": [
+        "rimuovere",
+        "allontanare"
+    ],
+    "valid_translations": [
+        "rimuovere",
+        "allontanare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbĭgo",
+                "traduzioni": [
+                    "io rimuovo",
+                    "io allontano"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbĭgis",
+                "traduzioni": [
+                    "tu rimuovi",
+                    "tu allontani"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbĭgit",
+                "traduzioni": [
+                    "lui rimuove",
+                    "lei rimuove",
+                    "egli rimuove",
+                    "lui allontana",
+                    "lei allontana",
+                    "egli allontana"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbĭgĭmus",
+                "traduzioni": [
+                    "noi rim(u)oviamo",
+                    "noi allontaniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbĭgĭtis",
+                "traduzioni": [
+                    "voi rim(u)ovete",
+                    "voi allontanate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbĭgunt",
+                "traduzioni": [
+                    "loro rimuovono",
+                    "essi rimuovono",
+                    "loro allontanano",
+                    "essi allontanano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbĭgēbam",
+                "traduzioni": [
+                    "io rim(u)ovevo",
+                    "io allontanavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbĭgēbas",
+                "traduzioni": [
+                    "tu rim(u)ovevi",
+                    "tu allontanavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbĭgēbat",
+                "traduzioni": [
+                    "lui rim(u)oveva",
+                    "lei rim(u)oveva",
+                    "egli rim(u)oveva",
+                    "lui allontanava",
+                    "lei allontanava",
+                    "egli allontanava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbĭgebāmus",
+                "traduzioni": [
+                    "noi rim(u)ovevamo",
+                    "noi allontanavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbĭgebātis",
+                "traduzioni": [
+                    "voi rim(u)ovevate",
+                    "voi allontanavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbĭgēbant",
+                "traduzioni": [
+                    "loro rim(u)ovevano",
+                    "essi rim(u)ovevano",
+                    "loro allontanavano",
+                    "essi allontanavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbĭgam",
+                "traduzioni": [
+                    "io rim(u)overò",
+                    "io allontanerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbĭges",
+                "traduzioni": [
+                    "tu rim(u)overai",
+                    "tu allontanerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbĭget",
+                "traduzioni": [
+                    "lui rim(u)overà",
+                    "lei rim(u)overà",
+                    "egli rim(u)overà",
+                    "lui allontanerà",
+                    "lei allontanerà",
+                    "egli allontanerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbĭgēmus",
+                "traduzioni": [
+                    "noi rim(u)overemo",
+                    "noi allontaneremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbĭgētis",
+                "traduzioni": [
+                    "voi rim(u)overete",
+                    "voi allontanerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbĭgent",
+                "traduzioni": [
+                    "loro rim(u)overanno",
+                    "essi rim(u)overanno",
+                    "loro allontaneranno",
+                    "essi allontaneranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abegi",
+                "traduzioni": [
+                    "io rimossi",
+                    "io ho rimosso",
+                    "io ebbi rimosso",
+                    "io allontanai",
+                    "io ho allontanato",
+                    "io ebbi allontanato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abegisti",
+                "traduzioni": [
+                    "tu rim(u)ovesti",
+                    "tu hai rimosso",
+                    "tu avesti rimosso",
+                    "tu allontanasti",
+                    "tu hai allontanato",
+                    "tu avesti allontanato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abegit",
+                "traduzioni": [
+                    "lui rimosse",
+                    "lei rimosse",
+                    "egli rimosse",
+                    "lui ha rimosso",
+                    "lei ha rimosso",
+                    "egli ha rimosso",
+                    "lui ebbe rimosso",
+                    "lei ebbe rimosso",
+                    "egli ebbe rimosso",
+                    "lui allontanò",
+                    "lei allontanò",
+                    "egli allontanò",
+                    "lui ha allontanato",
+                    "lei ha allontanato",
+                    "egli ha allontanato",
+                    "lui ebbe allontanato",
+                    "lei ebbe allontanato",
+                    "egli ebbe allontanato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abegĭmus",
+                "traduzioni": [
+                    "noi rim(u)ovemmo",
+                    "noi abbiamo rimosso",
+                    "noi avemmo rimosso",
+                    "noi allontanammo",
+                    "noi abbiamo allontanato",
+                    "noi avemmo allontanato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abegistis",
+                "traduzioni": [
+                    "voi rim(u)oveste",
+                    "voi avete rimosso",
+                    "voi aveste rimosso",
+                    "voi allontanaste",
+                    "voi avete allontanato",
+                    "voi aveste allontanato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abegērunt, abegēre",
+                "traduzioni": [
+                    "loro rimossero",
+                    "essi rimossero",
+                    "loro hanno rimosso",
+                    "essi hanno rimosso",
+                    "loro ebbero rimosso",
+                    "essi ebbero rimosso",
+                    "loro allontanarono",
+                    "essi allontanarono",
+                    "loro hanno allontanato",
+                    "essi hanno allontanato",
+                    "loro ebbero allontanato",
+                    "essi ebbero allontanato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abegĕram",
+                "traduzioni": [
+                    "io avevo rimosso",
+                    "io avevo allontanato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abegĕras",
+                "traduzioni": [
+                    "tu avevi rimosso",
+                    "tu avevi allontanato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abegĕrat",
+                "traduzioni": [
+                    "lui aveva rimosso",
+                    "lei aveva rimosso",
+                    "egli aveva rimosso",
+                    "lui aveva allontanato",
+                    "lei aveva allontanato",
+                    "egli aveva allontanato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abegerāmus",
+                "traduzioni": [
+                    "noi avevamo rimosso",
+                    "noi avevamo allontanato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abegerātis",
+                "traduzioni": [
+                    "voi avevate rimosso",
+                    "voi avevate allontanato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abegĕrant",
+                "traduzioni": [
+                    "loro avevano rimosso",
+                    "essi avevano rimosso",
+                    "loro avevano allontanato",
+                    "essi avevano allontanato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "abegĕro",
+                "traduzioni": [
+                    "io avrò rimosso",
+                    "io avrò allontanato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abegĕris",
+                "traduzioni": [
+                    "tu avrai rimosso",
+                    "tu avrai allontanato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abegĕrit",
+                "traduzioni": [
+                    "lui avrà rimosso",
+                    "lei avrà rimosso",
+                    "egli avrà rimosso",
+                    "lui avrà allontanato",
+                    "lei avrà allontanato",
+                    "egli avrà allontanato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abegerĭmus",
+                "traduzioni": [
+                    "noi avremo rimosso",
+                    "noi avremo allontanato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abegerĭtis",
+                "traduzioni": [
+                    "voi avrete rimosso",
+                    "voi avrete allontanato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abegĕrint",
+                "traduzioni": [
+                    "loro avranno rimosso",
+                    "essi avranno rimosso",
+                    "loro avranno allontanato",
+                    "essi avranno allontanato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbĭgam",
+                "traduzioni": [
+                    "che io rimuova",
+                    "che io allontani"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbĭgas",
+                "traduzioni": [
+                    "che tu rimuova",
+                    "che tu allontani"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbĭgat",
+                "traduzioni": [
+                    "che lui rimuova",
+                    "che lei rimuova",
+                    "che egli rimuova",
+                    "che lui allontani",
+                    "che lei allontani",
+                    "che egli allontani"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbĭgāmus",
+                "traduzioni": [
+                    "che noi rim(u)oviamo",
+                    "che noi allontaniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbĭgātis",
+                "traduzioni": [
+                    "che voi rim(u)oviate",
+                    "che voi allontaniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbĭgant",
+                "traduzioni": [
+                    "che loro rimuovano",
+                    "che essi rimuovano",
+                    "che loro allontanino",
+                    "che essi allontanino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbĭgĕrem",
+                "traduzioni": [
+                    "che io rim(u)ovessi",
+                    "che io allontanassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbĭgĕres",
+                "traduzioni": [
+                    "che tu rim(u)ovessi",
+                    "che tu allontanassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbĭgĕret",
+                "traduzioni": [
+                    "che lui rim(u)ovesse",
+                    "che lei rim(u)ovesse",
+                    "che egli rim(u)ovesse",
+                    "che lui allontanasse",
+                    "che lei allontanasse",
+                    "che egli allontanasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbĭgerēmus",
+                "traduzioni": [
+                    "che noi rim(u)ovessimo",
+                    "che noi allontanassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbĭgerētis",
+                "traduzioni": [
+                    "che voi rim(u)oveste",
+                    "che voi allontanaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbĭgĕrent",
+                "traduzioni": [
+                    "che loro rim(u)ovessero",
+                    "che essi rim(u)ovessero",
+                    "che loro allontanassero",
+                    "che essi allontanassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abegĕrim",
+                "traduzioni": [
+                    "che io abbia rimosso",
+                    "che io abbia allontanato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abegĕris",
+                "traduzioni": [
+                    "che tu abbia rimosso",
+                    "che tu abbia allontanato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abegĕrit",
+                "traduzioni": [
+                    "che lui abbia rimosso",
+                    "che lei abbia rimosso",
+                    "che egli abbia rimosso",
+                    "che lui abbia allontanato",
+                    "che lei abbia allontanato",
+                    "che egli abbia allontanato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abegerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo rimosso",
+                    "che noi abbiamo allontanato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abegerĭtis",
+                "traduzioni": [
+                    "che voi abbiate rimosso",
+                    "che voi abbiate allontanato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abegĕrint",
+                "traduzioni": [
+                    "che loro abbiano rimosso",
+                    "che essi abbiano rimosso",
+                    "che loro abbiano allontanato",
+                    "che essi abbiano allontanato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abegissem",
+                "traduzioni": [
+                    "che io avessi rimosso",
+                    "che io avessi allontanato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abegisses",
+                "traduzioni": [
+                    "che tu avessi rimosso",
+                    "che tu avessi allontanato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abegisset",
+                "traduzioni": [
+                    "che lui avesse rimosso",
+                    "che lei avesse rimosso",
+                    "che egli avesse rimosso",
+                    "che lui avesse allontanato",
+                    "che lei avesse allontanato",
+                    "che egli avesse allontanato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abegissēmus",
+                "traduzioni": [
+                    "che noi avessimo rimosso",
+                    "che noi avessimo allontanato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abegissētis",
+                "traduzioni": [
+                    "che voi aveste rimosso",
+                    "che voi aveste allontanato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abegissent",
+                "traduzioni": [
+                    "che loro avessero rimosso",
+                    "che essi avessero rimosso",
+                    "che loro avessero allontanato",
+                    "che essi avessero allontanato"
+                ]
+            }
+        ]
+    }
+}

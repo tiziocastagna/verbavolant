@@ -1,0 +1,504 @@
+{
+    "identifier": "LUGEO",
+    "conuigazione": "2",
+    "translation": [
+        "piangere",
+        "(transitivo) piangere",
+        "(transitivo; + accusativo e infinito) deplorare"
+    ],
+    "valid_translations": [
+        "piangere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lūgĕo",
+                "traduzioni": [
+                    "io piango"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lūges",
+                "traduzioni": [
+                    "tu piangi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lūget",
+                "traduzioni": [
+                    "lui piange",
+                    "lei piange",
+                    "egli piange"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lūgēmus",
+                "traduzioni": [
+                    "noi piangiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lūgētis",
+                "traduzioni": [
+                    "voi piangete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lūgent",
+                "traduzioni": [
+                    "loro piangono",
+                    "essi piangono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lūgēbam",
+                "traduzioni": [
+                    "io piangevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lūgēbas",
+                "traduzioni": [
+                    "tu piangevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lūgēbat",
+                "traduzioni": [
+                    "lui piangeva",
+                    "lei piangeva",
+                    "egli piangeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lūgebāmus",
+                "traduzioni": [
+                    "noi piangevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lūgebātis",
+                "traduzioni": [
+                    "voi piangevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lūgēbant",
+                "traduzioni": [
+                    "loro piangevano",
+                    "essi piangevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lūgēbo",
+                "traduzioni": [
+                    "io piangerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lūgēbis",
+                "traduzioni": [
+                    "tu piangerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lūgēbit",
+                "traduzioni": [
+                    "lui piangerà",
+                    "lei piangerà",
+                    "egli piangerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lūgebĭmus",
+                "traduzioni": [
+                    "noi piangeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lūgebĭtis",
+                "traduzioni": [
+                    "voi piangerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lūgēbunt",
+                "traduzioni": [
+                    "loro piangeranno",
+                    "essi piangeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "luxi",
+                "traduzioni": [
+                    "io piansi",
+                    "io ho pianto",
+                    "io ebbi pianto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "luxisti, lūgti",
+                "traduzioni": [
+                    "tu piangesti",
+                    "tu hai pianto",
+                    "tu avesti pianto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "luxit",
+                "traduzioni": [
+                    "lui pianse",
+                    "lei pianse",
+                    "egli pianse",
+                    "lui ha pianto",
+                    "lei ha pianto",
+                    "egli ha pianto",
+                    "lui ebbe pianto",
+                    "lei ebbe pianto",
+                    "egli ebbe pianto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "luxĭmus",
+                "traduzioni": [
+                    "noi piangemmo",
+                    "noi abbiamo pianto",
+                    "noi avemmo pianto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "luxistis",
+                "traduzioni": [
+                    "voi piangeste",
+                    "voi avete pianto",
+                    "voi aveste pianto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "luxērunt, luxēre",
+                "traduzioni": [
+                    "loro piansero",
+                    "essi piansero",
+                    "loro hanno pianto",
+                    "essi hanno pianto",
+                    "loro ebbero pianto",
+                    "essi ebbero pianto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "luxĕram",
+                "traduzioni": [
+                    "io avevo pianto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "luxĕras",
+                "traduzioni": [
+                    "tu avevi pianto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "luxĕrat",
+                "traduzioni": [
+                    "lui aveva pianto",
+                    "lei aveva pianto",
+                    "egli aveva pianto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "luxerāmus",
+                "traduzioni": [
+                    "noi avevamo pianto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "luxerātis",
+                "traduzioni": [
+                    "voi avevate pianto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "luxĕrant",
+                "traduzioni": [
+                    "loro avevano pianto",
+                    "essi avevano pianto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "luxĕro",
+                "traduzioni": [
+                    "io avrò pianto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "luxĕris",
+                "traduzioni": [
+                    "tu avrai pianto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "luxĕrit",
+                "traduzioni": [
+                    "lui avrà pianto",
+                    "lei avrà pianto",
+                    "egli avrà pianto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "luxerĭmus",
+                "traduzioni": [
+                    "noi avremo pianto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "luxerĭtis",
+                "traduzioni": [
+                    "voi avrete pianto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "luxĕrint",
+                "traduzioni": [
+                    "loro avranno pianto",
+                    "essi avranno pianto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lūgĕam",
+                "traduzioni": [
+                    "che io pianga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lūgĕas",
+                "traduzioni": [
+                    "che tu pianga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lūgĕat",
+                "traduzioni": [
+                    "che lui pianga",
+                    "che lei pianga",
+                    "che egli pianga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lūgeāmus",
+                "traduzioni": [
+                    "che noi piangiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lūgeātis",
+                "traduzioni": [
+                    "che voi piangiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lūgĕant",
+                "traduzioni": [
+                    "che loro piangano",
+                    "che essi piangano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lūgērem",
+                "traduzioni": [
+                    "che io piangessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lūgēres",
+                "traduzioni": [
+                    "che tu piangessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lūgēret",
+                "traduzioni": [
+                    "che lui piangesse",
+                    "che lei piangesse",
+                    "che egli piangesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lūgerēmus",
+                "traduzioni": [
+                    "che noi piangessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lūgerētis",
+                "traduzioni": [
+                    "che voi piangeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lūgērent",
+                "traduzioni": [
+                    "che loro piangessero",
+                    "che essi piangessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "luxĕrim",
+                "traduzioni": [
+                    "che io abbia pianto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "luxĕris",
+                "traduzioni": [
+                    "che tu abbia pianto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "luxĕrit",
+                "traduzioni": [
+                    "che lui abbia pianto",
+                    "che lei abbia pianto",
+                    "che egli abbia pianto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "luxerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo pianto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "luxerĭtis",
+                "traduzioni": [
+                    "che voi abbiate pianto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "luxĕrint",
+                "traduzioni": [
+                    "che loro abbiano pianto",
+                    "che essi abbiano pianto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "luxissem",
+                "traduzioni": [
+                    "che io avessi pianto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "luxisses",
+                "traduzioni": [
+                    "che tu avessi pianto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "luxisset",
+                "traduzioni": [
+                    "che lui avesse pianto",
+                    "che lei avesse pianto",
+                    "che egli avesse pianto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "luxissēmus",
+                "traduzioni": [
+                    "che noi avessimo pianto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "luxissētis",
+                "traduzioni": [
+                    "che voi aveste pianto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "luxissent",
+                "traduzioni": [
+                    "che loro avessero pianto",
+                    "che essi avessero pianto"
+                ]
+            }
+        ]
+    }
+}

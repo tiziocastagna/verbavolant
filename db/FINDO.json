@@ -1,0 +1,784 @@
+{
+    "identifier": "FINDO",
+    "conuigazione": "3",
+    "translation": [
+        "spaccare",
+        "spezzare",
+        "fendere",
+        "solcare il mare",
+        "(passivo con valore riflessivo) crepare"
+    ],
+    "valid_translations": [
+        "spaccare",
+        "spezzare",
+        "fendere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "findo",
+                "traduzioni": [
+                    "io spacco",
+                    "io spezzo",
+                    "io fendo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "findis",
+                "traduzioni": [
+                    "tu spacchi",
+                    "tu spezzi",
+                    "tu fendi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "findit",
+                "traduzioni": [
+                    "lui spacca",
+                    "lei spacca",
+                    "egli spacca",
+                    "lui spezza",
+                    "lei spezza",
+                    "egli spezza",
+                    "lui fende",
+                    "lei fende",
+                    "egli fende"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "findĭmus",
+                "traduzioni": [
+                    "noi spacchiamo",
+                    "noi spezziamo",
+                    "noi fendiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "findĭtis",
+                "traduzioni": [
+                    "voi spaccate",
+                    "voi spezzate",
+                    "voi fendete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "findunt",
+                "traduzioni": [
+                    "loro spaccano",
+                    "essi spaccano",
+                    "loro spezzano",
+                    "essi spezzano",
+                    "loro fendono",
+                    "essi fendono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "findēbam",
+                "traduzioni": [
+                    "io spaccavo",
+                    "io spezzavo",
+                    "io fendevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "findēbas",
+                "traduzioni": [
+                    "tu spaccavi",
+                    "tu spezzavi",
+                    "tu fendevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "findēbat",
+                "traduzioni": [
+                    "lui spaccava",
+                    "lei spaccava",
+                    "egli spaccava",
+                    "lui spezzava",
+                    "lei spezzava",
+                    "egli spezzava",
+                    "lui fendeva",
+                    "lei fendeva",
+                    "egli fendeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "findebāmus",
+                "traduzioni": [
+                    "noi spaccavamo",
+                    "noi spezzavamo",
+                    "noi fendevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "findebātis",
+                "traduzioni": [
+                    "voi spaccavate",
+                    "voi spezzavate",
+                    "voi fendevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "findēbant",
+                "traduzioni": [
+                    "loro spaccavano",
+                    "essi spaccavano",
+                    "loro spezzavano",
+                    "essi spezzavano",
+                    "loro fendevano",
+                    "essi fendevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "findam",
+                "traduzioni": [
+                    "io spaccherò",
+                    "io spezzerò",
+                    "io fenderò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "findes",
+                "traduzioni": [
+                    "tu spaccherai",
+                    "tu spezzerai",
+                    "tu fenderai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "findet",
+                "traduzioni": [
+                    "lui spaccherà",
+                    "lei spaccherà",
+                    "egli spaccherà",
+                    "lui spezzerà",
+                    "lei spezzerà",
+                    "egli spezzerà",
+                    "lui fenderà",
+                    "lei fenderà",
+                    "egli fenderà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "findēmus",
+                "traduzioni": [
+                    "noi spaccheremo",
+                    "noi spezzeremo",
+                    "noi fenderemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "findētis",
+                "traduzioni": [
+                    "voi spaccherete",
+                    "voi spezzerete",
+                    "voi fenderete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "findent",
+                "traduzioni": [
+                    "loro spaccheranno",
+                    "essi spaccheranno",
+                    "loro spezzeranno",
+                    "essi spezzeranno",
+                    "loro fenderanno",
+                    "essi fenderanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fidi",
+                "traduzioni": [
+                    "io spaccai",
+                    "io ho spaccato",
+                    "io ebbi spaccato",
+                    "io spezzai",
+                    "io ho spezzato",
+                    "io ebbi spezzato",
+                    "io fendetti",
+                    "io fendei",
+                    "io ho fenduto",
+                    "io ho fesso",
+                    "io ebbi fenduto",
+                    "io ebbi fesso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fidisti",
+                "traduzioni": [
+                    "tu spaccasti",
+                    "tu hai spaccato",
+                    "tu avesti spaccato",
+                    "tu spezzasti",
+                    "tu hai spezzato",
+                    "tu avesti spezzato",
+                    "tu fendesti",
+                    "tu hai fenduto",
+                    "tu hai fesso",
+                    "tu avesti fenduto",
+                    "tu avesti fesso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fidit",
+                "traduzioni": [
+                    "lui spaccò",
+                    "lei spaccò",
+                    "egli spaccò",
+                    "lui ha spaccato",
+                    "lei ha spaccato",
+                    "egli ha spaccato",
+                    "lui ebbe spaccato",
+                    "lei ebbe spaccato",
+                    "egli ebbe spaccato",
+                    "lui spezzò",
+                    "lei spezzò",
+                    "egli spezzò",
+                    "lui ha spezzato",
+                    "lei ha spezzato",
+                    "egli ha spezzato",
+                    "lui ebbe spezzato",
+                    "lei ebbe spezzato",
+                    "egli ebbe spezzato",
+                    "lui fendette",
+                    "lei fendette",
+                    "egli fendette",
+                    "lui fendé",
+                    "lei fendé",
+                    "egli fendé",
+                    "lui ha fenduto",
+                    "lei ha fenduto",
+                    "egli ha fenduto",
+                    "lui ha fesso",
+                    "lei ha fesso",
+                    "egli ha fesso",
+                    "lui ebbe fenduto",
+                    "lei ebbe fenduto",
+                    "egli ebbe fenduto",
+                    "lui ebbe fesso",
+                    "lei ebbe fesso",
+                    "egli ebbe fesso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fidĭmus",
+                "traduzioni": [
+                    "noi spaccammo",
+                    "noi abbiamo spaccato",
+                    "noi avemmo spaccato",
+                    "noi spezzammo",
+                    "noi abbiamo spezzato",
+                    "noi avemmo spezzato",
+                    "noi fendemmo",
+                    "noi abbiamo fenduto",
+                    "noi abbiamo fesso",
+                    "noi avemmo fenduto",
+                    "noi avemmo fesso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fidistis",
+                "traduzioni": [
+                    "voi spaccaste",
+                    "voi avete spaccato",
+                    "voi aveste spaccato",
+                    "voi spezzaste",
+                    "voi avete spezzato",
+                    "voi aveste spezzato",
+                    "voi fendeste",
+                    "voi avete fenduto",
+                    "voi avete fesso",
+                    "voi aveste fenduto",
+                    "voi aveste fesso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fidērunt, fidēre",
+                "traduzioni": [
+                    "loro spaccarono",
+                    "essi spaccarono",
+                    "loro hanno spaccato",
+                    "essi hanno spaccato",
+                    "loro ebbero spaccato",
+                    "essi ebbero spaccato",
+                    "loro spezzarono",
+                    "essi spezzarono",
+                    "loro hanno spezzato",
+                    "essi hanno spezzato",
+                    "loro ebbero spezzato",
+                    "essi ebbero spezzato",
+                    "loro fendettero",
+                    "essi fendettero",
+                    "loro fenderono",
+                    "essi fenderono",
+                    "loro hanno fenduto",
+                    "essi hanno fenduto",
+                    "loro hanno fesso",
+                    "essi hanno fesso",
+                    "loro ebbero fenduto",
+                    "essi ebbero fenduto",
+                    "loro ebbero fesso",
+                    "essi ebbero fesso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fidĕram",
+                "traduzioni": [
+                    "io avevo spaccato",
+                    "io avevo spezzato",
+                    "io avevo fenduto",
+                    "io avevo fesso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fidĕras",
+                "traduzioni": [
+                    "tu avevi spaccato",
+                    "tu avevi spezzato",
+                    "tu avevi fenduto",
+                    "tu avevi fesso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fidĕrat",
+                "traduzioni": [
+                    "lui aveva spaccato",
+                    "lei aveva spaccato",
+                    "egli aveva spaccato",
+                    "lui aveva spezzato",
+                    "lei aveva spezzato",
+                    "egli aveva spezzato",
+                    "lui aveva fenduto",
+                    "lei aveva fenduto",
+                    "egli aveva fenduto",
+                    "lui aveva fesso",
+                    "lei aveva fesso",
+                    "egli aveva fesso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fiderāmus",
+                "traduzioni": [
+                    "noi avevamo spaccato",
+                    "noi avevamo spezzato",
+                    "noi avevamo fenduto",
+                    "noi avevamo fesso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fiderātis",
+                "traduzioni": [
+                    "voi avevate spaccato",
+                    "voi avevate spezzato",
+                    "voi avevate fenduto",
+                    "voi avevate fesso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fidĕrant",
+                "traduzioni": [
+                    "loro avevano spaccato",
+                    "essi avevano spaccato",
+                    "loro avevano spezzato",
+                    "essi avevano spezzato",
+                    "loro avevano fenduto",
+                    "essi avevano fenduto",
+                    "loro avevano fesso",
+                    "essi avevano fesso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "fidĕro",
+                "traduzioni": [
+                    "io avrò spaccato",
+                    "io avrò spezzato",
+                    "io avrò fenduto",
+                    "io avrò fesso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fidĕris",
+                "traduzioni": [
+                    "tu avrai spaccato",
+                    "tu avrai spezzato",
+                    "tu avrai fenduto",
+                    "tu avrai fesso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fidĕrit",
+                "traduzioni": [
+                    "lui avrà spaccato",
+                    "lei avrà spaccato",
+                    "egli avrà spaccato",
+                    "lui avrà spezzato",
+                    "lei avrà spezzato",
+                    "egli avrà spezzato",
+                    "lui avrà fenduto",
+                    "lei avrà fenduto",
+                    "egli avrà fenduto",
+                    "lui avrà fesso",
+                    "lei avrà fesso",
+                    "egli avrà fesso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fiderĭmus",
+                "traduzioni": [
+                    "noi avremo spaccato",
+                    "noi avremo spezzato",
+                    "noi avremo fenduto",
+                    "noi avremo fesso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fiderĭtis",
+                "traduzioni": [
+                    "voi avrete spaccato",
+                    "voi avrete spezzato",
+                    "voi avrete fenduto",
+                    "voi avrete fesso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fidĕrint",
+                "traduzioni": [
+                    "loro avranno spaccato",
+                    "essi avranno spaccato",
+                    "loro avranno spezzato",
+                    "essi avranno spezzato",
+                    "loro avranno fenduto",
+                    "essi avranno fenduto",
+                    "loro avranno fesso",
+                    "essi avranno fesso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "findam",
+                "traduzioni": [
+                    "che io spacchi",
+                    "che io spezzi",
+                    "che io fenda"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "findas",
+                "traduzioni": [
+                    "che tu spacchi",
+                    "che tu spezzi",
+                    "che tu fenda"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "findat",
+                "traduzioni": [
+                    "che lui spacchi",
+                    "che lei spacchi",
+                    "che egli spacchi",
+                    "che lui spezzi",
+                    "che lei spezzi",
+                    "che egli spezzi",
+                    "che lui fenda",
+                    "che lei fenda",
+                    "che egli fenda"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "findāmus",
+                "traduzioni": [
+                    "che noi spacchiamo",
+                    "che noi spezziamo",
+                    "che noi fendiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "findātis",
+                "traduzioni": [
+                    "che voi spacchiate",
+                    "che voi spezziate",
+                    "che voi fendiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "findant",
+                "traduzioni": [
+                    "che loro spacchino",
+                    "che essi spacchino",
+                    "che loro spezzino",
+                    "che essi spezzino",
+                    "che loro fendano",
+                    "che essi fendano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "findĕrem",
+                "traduzioni": [
+                    "che io spaccassi",
+                    "che io spezzassi",
+                    "che io fendessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "findĕres",
+                "traduzioni": [
+                    "che tu spaccassi",
+                    "che tu spezzassi",
+                    "che tu fendessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "findĕret",
+                "traduzioni": [
+                    "che lui spaccasse",
+                    "che lei spaccasse",
+                    "che egli spaccasse",
+                    "che lui spezzasse",
+                    "che lei spezzasse",
+                    "che egli spezzasse",
+                    "che lui fendesse",
+                    "che lei fendesse",
+                    "che egli fendesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "finderēmus",
+                "traduzioni": [
+                    "che noi spaccassimo",
+                    "che noi spezzassimo",
+                    "che noi fendessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "finderētis",
+                "traduzioni": [
+                    "che voi spaccaste",
+                    "che voi spezzaste",
+                    "che voi fendeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "findĕrent",
+                "traduzioni": [
+                    "che loro spaccassero",
+                    "che essi spaccassero",
+                    "che loro spezzassero",
+                    "che essi spezzassero",
+                    "che loro fendessero",
+                    "che essi fendessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fidĕrim",
+                "traduzioni": [
+                    "che io abbia spaccato",
+                    "che io abbia spezzato",
+                    "che io abbia fenduto",
+                    "che io abbia fesso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fidĕris",
+                "traduzioni": [
+                    "che tu abbia spaccato",
+                    "che tu abbia spezzato",
+                    "che tu abbia fenduto",
+                    "che tu abbia fesso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fidĕrit",
+                "traduzioni": [
+                    "che lui abbia spaccato",
+                    "che lei abbia spaccato",
+                    "che egli abbia spaccato",
+                    "che lui abbia spezzato",
+                    "che lei abbia spezzato",
+                    "che egli abbia spezzato",
+                    "che lui abbia fenduto",
+                    "che lei abbia fenduto",
+                    "che egli abbia fenduto",
+                    "che lui abbia fesso",
+                    "che lei abbia fesso",
+                    "che egli abbia fesso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fiderĭmus",
+                "traduzioni": [
+                    "che noi abbiamo spaccato",
+                    "che noi abbiamo spezzato",
+                    "che noi abbiamo fenduto",
+                    "che noi abbiamo fesso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fiderĭtis",
+                "traduzioni": [
+                    "che voi abbiate spaccato",
+                    "che voi abbiate spezzato",
+                    "che voi abbiate fenduto",
+                    "che voi abbiate fesso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fidĕrint",
+                "traduzioni": [
+                    "che loro abbiano spaccato",
+                    "che essi abbiano spaccato",
+                    "che loro abbiano spezzato",
+                    "che essi abbiano spezzato",
+                    "che loro abbiano fenduto",
+                    "che essi abbiano fenduto",
+                    "che loro abbiano fesso",
+                    "che essi abbiano fesso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fidissem",
+                "traduzioni": [
+                    "che io avessi spaccato",
+                    "che io avessi spezzato",
+                    "che io avessi fenduto",
+                    "che io avessi fesso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fidisses",
+                "traduzioni": [
+                    "che tu avessi spaccato",
+                    "che tu avessi spezzato",
+                    "che tu avessi fenduto",
+                    "che tu avessi fesso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fidisset",
+                "traduzioni": [
+                    "che lui avesse spaccato",
+                    "che lei avesse spaccato",
+                    "che egli avesse spaccato",
+                    "che lui avesse spezzato",
+                    "che lei avesse spezzato",
+                    "che egli avesse spezzato",
+                    "che lui avesse fenduto",
+                    "che lei avesse fenduto",
+                    "che egli avesse fenduto",
+                    "che lui avesse fesso",
+                    "che lei avesse fesso",
+                    "che egli avesse fesso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fidissēmus",
+                "traduzioni": [
+                    "che noi avessimo spaccato",
+                    "che noi avessimo spezzato",
+                    "che noi avessimo fenduto",
+                    "che noi avessimo fesso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fidissētis",
+                "traduzioni": [
+                    "che voi aveste spaccato",
+                    "che voi aveste spezzato",
+                    "che voi aveste fenduto",
+                    "che voi aveste fesso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fidissent",
+                "traduzioni": [
+                    "che loro avessero spaccato",
+                    "che essi avessero spaccato",
+                    "che loro avessero spezzato",
+                    "che essi avessero spezzato",
+                    "che loro avessero fenduto",
+                    "che essi avessero fenduto",
+                    "che loro avessero fesso",
+                    "che essi avessero fesso"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,723 @@
+{
+    "identifier": "IRRIDEO",
+    "conuigazione": "2",
+    "translation": [
+        "(transitivo) canzonare",
+        "sbeffeggiare",
+        "deridere",
+        "schernire"
+    ],
+    "valid_translations": [
+        "sbeffeggiare",
+        "deridere",
+        "schernire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "irrīdĕo",
+                "traduzioni": [
+                    "io sbeffeggio",
+                    "io derido",
+                    "io schernisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "irrīdes",
+                "traduzioni": [
+                    "tu sbeffeggi",
+                    "tu deridi",
+                    "tu schernisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "irrīdet",
+                "traduzioni": [
+                    "lui sbeffeggia",
+                    "lei sbeffeggia",
+                    "egli sbeffeggia",
+                    "lui deride",
+                    "lei deride",
+                    "egli deride",
+                    "lui schernisce",
+                    "lei schernisce",
+                    "egli schernisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "irrīdēmus",
+                "traduzioni": [
+                    "noi sbeffeggiamo",
+                    "noi deridiamo",
+                    "noi scherniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "irrīdētis",
+                "traduzioni": [
+                    "voi sbeffeggiate",
+                    "voi deridete",
+                    "voi schernite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "irrīdent",
+                "traduzioni": [
+                    "loro sbeffeggiano",
+                    "essi sbeffeggiano",
+                    "loro deridono",
+                    "essi deridono",
+                    "loro scherniscono",
+                    "essi scherniscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "irrīdēbam",
+                "traduzioni": [
+                    "io sbeffeggiavo",
+                    "io deridevo",
+                    "io schernivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "irrīdēbas",
+                "traduzioni": [
+                    "tu sbeffeggiavi",
+                    "tu deridevi",
+                    "tu schernivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "irrīdēbat",
+                "traduzioni": [
+                    "lui sbeffeggiava",
+                    "lei sbeffeggiava",
+                    "egli sbeffeggiava",
+                    "lui derideva",
+                    "lei derideva",
+                    "egli derideva",
+                    "lui scherniva",
+                    "lei scherniva",
+                    "egli scherniva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "irrīdebāmus",
+                "traduzioni": [
+                    "noi sbeffeggiavamo",
+                    "noi deridevamo",
+                    "noi schernivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "irrīdebātis",
+                "traduzioni": [
+                    "voi sbeffeggiavate",
+                    "voi deridevate",
+                    "voi schernivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "irrīdēbant",
+                "traduzioni": [
+                    "loro sbeffeggiavano",
+                    "essi sbeffeggiavano",
+                    "loro deridevano",
+                    "essi deridevano",
+                    "loro schernivano",
+                    "essi schernivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "irrīdēbo",
+                "traduzioni": [
+                    "io sbeffeggerò",
+                    "io deriderò",
+                    "io schernirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "irrīdēbis",
+                "traduzioni": [
+                    "tu sbeffeggerai",
+                    "tu deriderai",
+                    "tu schernirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "irrīdēbit",
+                "traduzioni": [
+                    "lui sbeffeggerà",
+                    "lei sbeffeggerà",
+                    "egli sbeffeggerà",
+                    "lui deriderà",
+                    "lei deriderà",
+                    "egli deriderà",
+                    "lui schernirà",
+                    "lei schernirà",
+                    "egli schernirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "irrīdebĭmus",
+                "traduzioni": [
+                    "noi sbeffeggeremo",
+                    "noi derideremo",
+                    "noi scherniremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "irrīdebĭtis",
+                "traduzioni": [
+                    "voi sbeffeggerete",
+                    "voi deriderete",
+                    "voi schernirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "irrīdēbunt",
+                "traduzioni": [
+                    "loro sbeffeggeranno",
+                    "essi sbeffeggeranno",
+                    "loro derideranno",
+                    "essi derideranno",
+                    "loro scherniranno",
+                    "essi scherniranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "irrisi",
+                "traduzioni": [
+                    "io sbeffeggiai",
+                    "io ho sbeffeggiato",
+                    "io ebbi sbeffeggiato",
+                    "io derisi",
+                    "io ho deriso",
+                    "io ebbi deriso",
+                    "io schernii",
+                    "io ho schernito",
+                    "io ebbi schernito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "irrisisti",
+                "traduzioni": [
+                    "tu sbeffeggiasti",
+                    "tu hai sbeffeggiato",
+                    "tu avesti sbeffeggiato",
+                    "tu deridesti",
+                    "tu hai deriso",
+                    "tu avesti deriso",
+                    "tu schernisti",
+                    "tu hai schernito",
+                    "tu avesti schernito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "irrisit",
+                "traduzioni": [
+                    "lui sbeffeggiò",
+                    "lei sbeffeggiò",
+                    "egli sbeffeggiò",
+                    "lui ha sbeffeggiato",
+                    "lei ha sbeffeggiato",
+                    "egli ha sbeffeggiato",
+                    "lui ebbe sbeffeggiato",
+                    "lei ebbe sbeffeggiato",
+                    "egli ebbe sbeffeggiato",
+                    "lui derise",
+                    "lei derise",
+                    "egli derise",
+                    "lui ha deriso",
+                    "lei ha deriso",
+                    "egli ha deriso",
+                    "lui ebbe deriso",
+                    "lei ebbe deriso",
+                    "egli ebbe deriso",
+                    "lui schernì",
+                    "lei schernì",
+                    "egli schernì",
+                    "lui ha schernito",
+                    "lei ha schernito",
+                    "egli ha schernito",
+                    "lui ebbe schernito",
+                    "lei ebbe schernito",
+                    "egli ebbe schernito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "irrisĭmus",
+                "traduzioni": [
+                    "noi sbeffeggiammo",
+                    "noi abbiamo sbeffeggiato",
+                    "noi avemmo sbeffeggiato",
+                    "noi deridemmo",
+                    "noi abbiamo deriso",
+                    "noi avemmo deriso",
+                    "noi schernimmo",
+                    "noi abbiamo schernito",
+                    "noi avemmo schernito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "irrisistis",
+                "traduzioni": [
+                    "voi sbeffeggiaste",
+                    "voi avete sbeffeggiato",
+                    "voi aveste sbeffeggiato",
+                    "voi derideste",
+                    "voi avete deriso",
+                    "voi aveste deriso",
+                    "voi scherniste",
+                    "voi avete schernito",
+                    "voi aveste schernito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "irrisērunt, irrisēre",
+                "traduzioni": [
+                    "loro sbeffeggiarono",
+                    "essi sbeffeggiarono",
+                    "loro hanno sbeffeggiato",
+                    "essi hanno sbeffeggiato",
+                    "loro ebbero sbeffeggiato",
+                    "essi ebbero sbeffeggiato",
+                    "loro derisero",
+                    "essi derisero",
+                    "loro hanno deriso",
+                    "essi hanno deriso",
+                    "loro ebbero deriso",
+                    "essi ebbero deriso",
+                    "loro schernirono",
+                    "essi schernirono",
+                    "loro hanno schernito",
+                    "essi hanno schernito",
+                    "loro ebbero schernito",
+                    "essi ebbero schernito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "irrisĕram",
+                "traduzioni": [
+                    "io avevo sbeffeggiato",
+                    "io avevo deriso",
+                    "io avevo schernito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "irrisĕras",
+                "traduzioni": [
+                    "tu avevi sbeffeggiato",
+                    "tu avevi deriso",
+                    "tu avevi schernito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "irrisĕrat",
+                "traduzioni": [
+                    "lui aveva sbeffeggiato",
+                    "lei aveva sbeffeggiato",
+                    "egli aveva sbeffeggiato",
+                    "lui aveva deriso",
+                    "lei aveva deriso",
+                    "egli aveva deriso",
+                    "lui aveva schernito",
+                    "lei aveva schernito",
+                    "egli aveva schernito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "irriserāmus",
+                "traduzioni": [
+                    "noi avevamo sbeffeggiato",
+                    "noi avevamo deriso",
+                    "noi avevamo schernito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "irriserātis",
+                "traduzioni": [
+                    "voi avevate sbeffeggiato",
+                    "voi avevate deriso",
+                    "voi avevate schernito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "irrisĕrant",
+                "traduzioni": [
+                    "loro avevano sbeffeggiato",
+                    "essi avevano sbeffeggiato",
+                    "loro avevano deriso",
+                    "essi avevano deriso",
+                    "loro avevano schernito",
+                    "essi avevano schernito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "irrisĕro",
+                "traduzioni": [
+                    "io avrò sbeffeggiato",
+                    "io avrò deriso",
+                    "io avrò schernito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "irrisĕris",
+                "traduzioni": [
+                    "tu avrai sbeffeggiato",
+                    "tu avrai deriso",
+                    "tu avrai schernito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "irrisĕrit",
+                "traduzioni": [
+                    "lui avrà sbeffeggiato",
+                    "lei avrà sbeffeggiato",
+                    "egli avrà sbeffeggiato",
+                    "lui avrà deriso",
+                    "lei avrà deriso",
+                    "egli avrà deriso",
+                    "lui avrà schernito",
+                    "lei avrà schernito",
+                    "egli avrà schernito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "irriserĭmus",
+                "traduzioni": [
+                    "noi avremo sbeffeggiato",
+                    "noi avremo deriso",
+                    "noi avremo schernito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "irriserĭtis",
+                "traduzioni": [
+                    "voi avrete sbeffeggiato",
+                    "voi avrete deriso",
+                    "voi avrete schernito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "irrisĕrint",
+                "traduzioni": [
+                    "loro avranno sbeffeggiato",
+                    "essi avranno sbeffeggiato",
+                    "loro avranno deriso",
+                    "essi avranno deriso",
+                    "loro avranno schernito",
+                    "essi avranno schernito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "irrīdĕam",
+                "traduzioni": [
+                    "che io sbeffeggi",
+                    "che io derida",
+                    "che io schernisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "irrīdĕas",
+                "traduzioni": [
+                    "che tu sbeffeggi",
+                    "che tu derida",
+                    "che tu schernisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "irrīdĕat",
+                "traduzioni": [
+                    "che lui sbeffeggi",
+                    "che lei sbeffeggi",
+                    "che egli sbeffeggi",
+                    "che lui derida",
+                    "che lei derida",
+                    "che egli derida",
+                    "che lui schernisca",
+                    "che lei schernisca",
+                    "che egli schernisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "irrīdeāmus",
+                "traduzioni": [
+                    "che noi sbeffeggiamo",
+                    "che noi deridiamo",
+                    "che noi scherniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "irrīdeātis",
+                "traduzioni": [
+                    "che voi sbeffeggiate",
+                    "che voi deridiate",
+                    "che voi scherniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "irrīdĕant",
+                "traduzioni": [
+                    "che loro sbeffeggino",
+                    "che essi sbeffeggino",
+                    "che loro deridano",
+                    "che essi deridano",
+                    "che loro scherniscano",
+                    "che essi scherniscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "irrīdērem",
+                "traduzioni": [
+                    "che io sbeffeggiassi",
+                    "che io deridessi",
+                    "che io schernissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "irrīdēres",
+                "traduzioni": [
+                    "che tu sbeffeggiassi",
+                    "che tu deridessi",
+                    "che tu schernissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "irrīdēret",
+                "traduzioni": [
+                    "che lui sbeffeggiasse",
+                    "che lei sbeffeggiasse",
+                    "che egli sbeffeggiasse",
+                    "che lui deridesse",
+                    "che lei deridesse",
+                    "che egli deridesse",
+                    "che lui schernisse",
+                    "che lei schernisse",
+                    "che egli schernisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "irrīderēmus",
+                "traduzioni": [
+                    "che noi sbeffeggiassimo",
+                    "che noi deridessimo",
+                    "che noi schernissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "irrīderētis",
+                "traduzioni": [
+                    "che voi sbeffeggiaste",
+                    "che voi derideste",
+                    "che voi scherniste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "irrīdērent",
+                "traduzioni": [
+                    "che loro sbeffeggiassero",
+                    "che essi sbeffeggiassero",
+                    "che loro deridessero",
+                    "che essi deridessero",
+                    "che loro schernissero",
+                    "che essi schernissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "irrisĕrim",
+                "traduzioni": [
+                    "che io abbia sbeffeggiato",
+                    "che io abbia deriso",
+                    "che io abbia schernito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "irrisĕris",
+                "traduzioni": [
+                    "che tu abbia sbeffeggiato",
+                    "che tu abbia deriso",
+                    "che tu abbia schernito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "irrisĕrit",
+                "traduzioni": [
+                    "che lui abbia sbeffeggiato",
+                    "che lei abbia sbeffeggiato",
+                    "che egli abbia sbeffeggiato",
+                    "che lui abbia deriso",
+                    "che lei abbia deriso",
+                    "che egli abbia deriso",
+                    "che lui abbia schernito",
+                    "che lei abbia schernito",
+                    "che egli abbia schernito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "irriserĭmus",
+                "traduzioni": [
+                    "che noi abbiamo sbeffeggiato",
+                    "che noi abbiamo deriso",
+                    "che noi abbiamo schernito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "irriserĭtis",
+                "traduzioni": [
+                    "che voi abbiate sbeffeggiato",
+                    "che voi abbiate deriso",
+                    "che voi abbiate schernito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "irrisĕrint",
+                "traduzioni": [
+                    "che loro abbiano sbeffeggiato",
+                    "che essi abbiano sbeffeggiato",
+                    "che loro abbiano deriso",
+                    "che essi abbiano deriso",
+                    "che loro abbiano schernito",
+                    "che essi abbiano schernito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "irrisissem",
+                "traduzioni": [
+                    "che io avessi sbeffeggiato",
+                    "che io avessi deriso",
+                    "che io avessi schernito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "irrisisses",
+                "traduzioni": [
+                    "che tu avessi sbeffeggiato",
+                    "che tu avessi deriso",
+                    "che tu avessi schernito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "irrisisset",
+                "traduzioni": [
+                    "che lui avesse sbeffeggiato",
+                    "che lei avesse sbeffeggiato",
+                    "che egli avesse sbeffeggiato",
+                    "che lui avesse deriso",
+                    "che lei avesse deriso",
+                    "che egli avesse deriso",
+                    "che lui avesse schernito",
+                    "che lei avesse schernito",
+                    "che egli avesse schernito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "irrisissēmus",
+                "traduzioni": [
+                    "che noi avessimo sbeffeggiato",
+                    "che noi avessimo deriso",
+                    "che noi avessimo schernito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "irrisissētis",
+                "traduzioni": [
+                    "che voi aveste sbeffeggiato",
+                    "che voi aveste deriso",
+                    "che voi aveste schernito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "irrisissent",
+                "traduzioni": [
+                    "che loro avessero sbeffeggiato",
+                    "che essi avessero sbeffeggiato",
+                    "che loro avessero deriso",
+                    "che essi avessero deriso",
+                    "che loro avessero schernito",
+                    "che essi avessero schernito"
+                ]
+            }
+        ]
+    }
+}

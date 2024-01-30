@@ -1,0 +1,927 @@
+{
+    "identifier": "CONTINUO",
+    "conuigazione": "1",
+    "translation": [
+        "(transitivo) (nello spazio) congiungere",
+        "far continuare",
+        "far proseguire",
+        "succedere",
+        "(transitivo) prorogare",
+        "prolungare",
+        "(intransitivo) continuare",
+        "seguitare",
+        "persistere"
+    ],
+    "valid_translations": [
+        "succedere",
+        "prolungare",
+        "seguitare",
+        "persistere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "contĭnŭo",
+                "traduzioni": [
+                    "io succedo",
+                    "io prolungo",
+                    "io seguito",
+                    "io persisto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contĭnŭas",
+                "traduzioni": [
+                    "tu succedi",
+                    "tu prolunghi",
+                    "tu seguiti",
+                    "tu persisti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contĭnŭat",
+                "traduzioni": [
+                    "lui succede",
+                    "lei succede",
+                    "egli succede",
+                    "lui prolunga",
+                    "lei prolunga",
+                    "egli prolunga",
+                    "lui seguita",
+                    "lei seguita",
+                    "egli seguita",
+                    "lui persiste",
+                    "lei persiste",
+                    "egli persiste"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contĭnŭāmus",
+                "traduzioni": [
+                    "noi succediamo",
+                    "noi prolunghiamo",
+                    "noi seguitiamo",
+                    "noi persistiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contĭnŭātis",
+                "traduzioni": [
+                    "voi succedete",
+                    "voi prolungate",
+                    "voi seguitate",
+                    "voi persistete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contĭnŭant",
+                "traduzioni": [
+                    "loro succedono",
+                    "essi succedono",
+                    "loro prolungano",
+                    "essi prolungano",
+                    "loro seguitano",
+                    "essi seguitano",
+                    "loro persistono",
+                    "essi persistono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "contĭnŭābam",
+                "traduzioni": [
+                    "io succedevo",
+                    "io prolungavo",
+                    "io seguitavo",
+                    "io persistevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contĭnŭābas",
+                "traduzioni": [
+                    "tu succedevi",
+                    "tu prolungavi",
+                    "tu seguitavi",
+                    "tu persistevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contĭnŭābat",
+                "traduzioni": [
+                    "lui succedeva",
+                    "lei succedeva",
+                    "egli succedeva",
+                    "lui prolungava",
+                    "lei prolungava",
+                    "egli prolungava",
+                    "lui seguitava",
+                    "lei seguitava",
+                    "egli seguitava",
+                    "lui persisteva",
+                    "lei persisteva",
+                    "egli persisteva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contĭnŭabāmus",
+                "traduzioni": [
+                    "noi succedevamo",
+                    "noi prolungavamo",
+                    "noi seguitavamo",
+                    "noi persistevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contĭnŭabātis",
+                "traduzioni": [
+                    "voi succedevate",
+                    "voi prolungavate",
+                    "voi seguitavate",
+                    "voi persistevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contĭnŭābant",
+                "traduzioni": [
+                    "loro succedevano",
+                    "essi succedevano",
+                    "loro prolungavano",
+                    "essi prolungavano",
+                    "loro seguitavano",
+                    "essi seguitavano",
+                    "loro persistevano",
+                    "essi persistevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "contĭnŭābo",
+                "traduzioni": [
+                    "io succederò",
+                    "io prolungherò",
+                    "io seguiterò",
+                    "io persisterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contĭnŭābis",
+                "traduzioni": [
+                    "tu succederai",
+                    "tu prolungherai",
+                    "tu seguiterai",
+                    "tu persisterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contĭnŭābit",
+                "traduzioni": [
+                    "lui succederà",
+                    "lei succederà",
+                    "egli succederà",
+                    "lui prolungherà",
+                    "lei prolungherà",
+                    "egli prolungherà",
+                    "lui seguiterà",
+                    "lei seguiterà",
+                    "egli seguiterà",
+                    "lui persisterà",
+                    "lei persisterà",
+                    "egli persisterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contĭnŭabĭmus",
+                "traduzioni": [
+                    "noi succederemo",
+                    "noi prolungheremo",
+                    "noi seguiteremo",
+                    "noi persisteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contĭnŭabĭtis",
+                "traduzioni": [
+                    "voi succederete",
+                    "voi prolungherete",
+                    "voi seguiterete",
+                    "voi persisterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contĭnŭābunt",
+                "traduzioni": [
+                    "loro succederanno",
+                    "essi succederanno",
+                    "loro prolungheranno",
+                    "essi prolungheranno",
+                    "loro seguiteranno",
+                    "essi seguiteranno",
+                    "loro persisteranno",
+                    "essi persisteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "continuavi",
+                "traduzioni": [
+                    "io successi",
+                    "io sono successo",
+                    "io sono succeduto",
+                    "io fui successo",
+                    "io fui succeduto",
+                    "io prolungai",
+                    "io ho prolungato",
+                    "io ebbi prolungato",
+                    "io seguitai",
+                    "io sono seguitato",
+                    "io sono seguitata",
+                    "io fui seguitato",
+                    "io fui seguitata",
+                    "io persistetti",
+                    "io persistei",
+                    "io ho persistito",
+                    "io ebbi persistito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "continuavisti",
+                "traduzioni": [
+                    "tu succedesti",
+                    "tu sei successo",
+                    "tu sei succeduto",
+                    "tu fosti successo",
+                    "tu fosti succeduto",
+                    "tu prolungasti",
+                    "tu hai prolungato",
+                    "tu avesti prolungato",
+                    "tu seguitasti",
+                    "tu sei seguitato",
+                    "tu sei seguitata",
+                    "tu fosti seguitato",
+                    "tu fosti seguitata",
+                    "tu persistesti",
+                    "tu hai persistito",
+                    "tu avesti persistito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "continuavit",
+                "traduzioni": [
+                    "lui successe",
+                    "lei successe",
+                    "egli successe",
+                    "lui è successo",
+                    "lei è successo",
+                    "egli è successo",
+                    "lui è succeduto",
+                    "lei è succeduto",
+                    "egli è succeduto",
+                    "lui fu successo",
+                    "lei fu successo",
+                    "egli fu successo",
+                    "lui fu succeduto",
+                    "lei fu succeduto",
+                    "egli fu succeduto",
+                    "lui prolungò",
+                    "lei prolungò",
+                    "egli prolungò",
+                    "lui ha prolungato",
+                    "lei ha prolungato",
+                    "egli ha prolungato",
+                    "lui ebbe prolungato",
+                    "lei ebbe prolungato",
+                    "egli ebbe prolungato",
+                    "lui seguitò",
+                    "lei seguitò",
+                    "egli seguitò",
+                    "lui è seguitato",
+                    "lei è seguitata",
+                    "egli è seguitato",
+                    "lui fu seguitato",
+                    "lei fu seguitata",
+                    "egli fu seguitato",
+                    "lui persistette",
+                    "lei persistette",
+                    "egli persistette",
+                    "lui persisté",
+                    "lei persisté",
+                    "egli persisté",
+                    "lui ha persistito",
+                    "lei ha persistito",
+                    "egli ha persistito",
+                    "lui ebbe persistito",
+                    "lei ebbe persistito",
+                    "egli ebbe persistito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "continuavĭmus",
+                "traduzioni": [
+                    "noi succedemmo",
+                    "noi siamo successo",
+                    "noi siamo succeduti",
+                    "noi fummo successo",
+                    "noi fummo succeduti",
+                    "noi prolungammo",
+                    "noi abbiamo prolungato",
+                    "noi avemmo prolungato",
+                    "noi seguitammo",
+                    "noi siamo seguitati",
+                    "noi siamo seguitate",
+                    "noi fummo seguitati",
+                    "noi fummo seguitate",
+                    "noi persistemmo",
+                    "noi abbiamo persistito",
+                    "noi avemmo persistito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "continuavistis",
+                "traduzioni": [
+                    "voi succedeste",
+                    "voi siete successo",
+                    "voi siete succeduti",
+                    "voi foste successo",
+                    "voi foste succeduti",
+                    "voi prolungaste",
+                    "voi avete prolungato",
+                    "voi aveste prolungato",
+                    "voi seguitaste",
+                    "voi siete seguitati",
+                    "voi siete seguitate",
+                    "voi foste seguitati",
+                    "voi foste seguitate",
+                    "voi persisteste",
+                    "voi avete persistito",
+                    "voi aveste persistito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "continuavēreunt, continuavēre",
+                "traduzioni": [
+                    "loro successero",
+                    "essi successero",
+                    "loro sono successo",
+                    "essi sono successo",
+                    "loro sono succeduti",
+                    "essi sono succeduti",
+                    "loro furono successo",
+                    "essi furono successo",
+                    "loro furono succeduti",
+                    "essi furono succeduti",
+                    "loro prolungarono",
+                    "essi prolungarono",
+                    "loro hanno prolungato",
+                    "essi hanno prolungato",
+                    "loro ebbero prolungato",
+                    "essi ebbero prolungato",
+                    "loro seguitarono",
+                    "essi seguitarono",
+                    "loro sono seguitati",
+                    "loro sono seguitate",
+                    "essi sono seguitati",
+                    "loro furono seguitati",
+                    "loro furono seguitate",
+                    "essi furono seguitati",
+                    "loro persistettero",
+                    "essi persistettero",
+                    "loro persisterono",
+                    "essi persisterono",
+                    "loro hanno persistito",
+                    "essi hanno persistito",
+                    "loro ebbero persistito",
+                    "essi ebbero persistito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "continuavĕram",
+                "traduzioni": [
+                    "io ero successo",
+                    "io ero succeduto",
+                    "io avevo prolungato",
+                    "io ero seguitato",
+                    "io ero seguitata",
+                    "io avevo persistito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "continuavĕras",
+                "traduzioni": [
+                    "tu eri successo",
+                    "tu eri succeduto",
+                    "tu avevi prolungato",
+                    "tu eri seguitato",
+                    "tu eri seguitata",
+                    "tu avevi persistito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "continuavĕrat",
+                "traduzioni": [
+                    "lui era successo",
+                    "lei era successo",
+                    "egli era successo",
+                    "lui era succeduto",
+                    "lei era succeduto",
+                    "egli era succeduto",
+                    "lui aveva prolungato",
+                    "lei aveva prolungato",
+                    "egli aveva prolungato",
+                    "lui era seguitato",
+                    "lei era seguitata",
+                    "egli era seguitato",
+                    "lui aveva persistito",
+                    "lei aveva persistito",
+                    "egli aveva persistito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "continuaverāmus",
+                "traduzioni": [
+                    "noi eravamo successo",
+                    "noi eravamo succeduti",
+                    "noi avevamo prolungato",
+                    "noi eravamo seguitati",
+                    "noi eravamo seguitate",
+                    "noi avevamo persistito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "continuaverātis",
+                "traduzioni": [
+                    "voi eravate successo",
+                    "voi eravate succeduti",
+                    "voi avevate prolungato",
+                    "voi eravate seguitati",
+                    "voi eravate seguitate",
+                    "voi avevate persistito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "continuavĕrant",
+                "traduzioni": [
+                    "loro erano successo",
+                    "essi erano successo",
+                    "loro erano succeduti",
+                    "essi erano succeduti",
+                    "loro avevano prolungato",
+                    "essi avevano prolungato",
+                    "loro erano seguitati",
+                    "loro erano seguitate",
+                    "essi erano seguitati",
+                    "loro avevano persistito",
+                    "essi avevano persistito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "continuavĕro",
+                "traduzioni": [
+                    "io sarò successo",
+                    "io sarò succeduto",
+                    "io avrò prolungato",
+                    "io sarò seguitato",
+                    "io sarò seguitata",
+                    "io avrò persistito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "continuavĕris",
+                "traduzioni": [
+                    "tu sarai successo",
+                    "tu sarai succeduto",
+                    "tu avrai prolungato",
+                    "tu sarai seguitato",
+                    "tu sarai seguitata",
+                    "tu avrai persistito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "continuavĕrit",
+                "traduzioni": [
+                    "lui sarà successo",
+                    "lei sarà successo",
+                    "egli sarà successo",
+                    "lui sarà succeduto",
+                    "lei sarà succeduto",
+                    "egli sarà succeduto",
+                    "lui avrà prolungato",
+                    "lei avrà prolungato",
+                    "egli avrà prolungato",
+                    "lui sarà seguitato",
+                    "lei sarà seguitata",
+                    "egli sarà seguitato",
+                    "lui avrà persistito",
+                    "lei avrà persistito",
+                    "egli avrà persistito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "continuaverĭmus",
+                "traduzioni": [
+                    "noi saremo successo",
+                    "noi saremo succeduti",
+                    "noi avremo prolungato",
+                    "noi saremo seguitati",
+                    "noi saremo seguitate",
+                    "noi avremo persistito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "continuaverĭtis",
+                "traduzioni": [
+                    "voi sarete successo",
+                    "voi sarete succeduti",
+                    "voi avrete prolungato",
+                    "voi sarete seguitati",
+                    "voi sarete seguitate",
+                    "voi avrete persistito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "continuavĕrint",
+                "traduzioni": [
+                    "loro saranno successo",
+                    "essi saranno successo",
+                    "loro saranno succeduti",
+                    "essi saranno succeduti",
+                    "loro avranno prolungato",
+                    "essi avranno prolungato",
+                    "loro saranno seguitati",
+                    "loro saranno seguitate",
+                    "essi saranno seguitati",
+                    "loro avranno persistito",
+                    "essi avranno persistito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "contĭnŭem",
+                "traduzioni": [
+                    "che io succeda",
+                    "che io prolunghi",
+                    "che io seguiti",
+                    "che io persista"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contĭnŭes",
+                "traduzioni": [
+                    "che tu succeda",
+                    "che tu prolunghi",
+                    "che tu seguiti",
+                    "che tu persista"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contĭnŭet",
+                "traduzioni": [
+                    "che lui succeda",
+                    "che lei succeda",
+                    "che egli succeda",
+                    "che lui prolunghi",
+                    "che lei prolunghi",
+                    "che egli prolunghi",
+                    "che lui seguiti",
+                    "che lei seguiti",
+                    "che egli seguiti",
+                    "che lui persista",
+                    "che lei persista",
+                    "che egli persista"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contĭnŭēmus",
+                "traduzioni": [
+                    "che noi succediamo",
+                    "che noi prolunghiamo",
+                    "che noi seguitiamo",
+                    "che noi persistiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contĭnŭētis",
+                "traduzioni": [
+                    "che voi succediate",
+                    "che voi prolunghiate",
+                    "che voi seguitiate",
+                    "che voi persistiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contĭnŭent",
+                "traduzioni": [
+                    "che loro succedano",
+                    "che essi succedano",
+                    "che loro prolunghino",
+                    "che essi prolunghino",
+                    "che loro seguitino",
+                    "che essi seguitino",
+                    "che loro persistano",
+                    "che essi persistano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "contĭnŭārem",
+                "traduzioni": [
+                    "che io succedessi",
+                    "che io prolungassi",
+                    "che io seguitassi",
+                    "che io persistessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "contĭnŭāres",
+                "traduzioni": [
+                    "che tu succedessi",
+                    "che tu prolungassi",
+                    "che tu seguitassi",
+                    "che tu persistessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "contĭnŭāret",
+                "traduzioni": [
+                    "che lui succedesse",
+                    "che lei succedesse",
+                    "che egli succedesse",
+                    "che lui prolungasse",
+                    "che lei prolungasse",
+                    "che egli prolungasse",
+                    "che lui seguitasse",
+                    "che lei seguitasse",
+                    "che egli seguitasse",
+                    "che lui persistesse",
+                    "che lei persistesse",
+                    "che egli persistesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "contĭnŭarēmus",
+                "traduzioni": [
+                    "che noi succedessimo",
+                    "che noi prolungassimo",
+                    "che noi seguitassimo",
+                    "che noi persistessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "contĭnŭarētis",
+                "traduzioni": [
+                    "che voi succedeste",
+                    "che voi prolungaste",
+                    "che voi seguitaste",
+                    "che voi persisteste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "contĭnŭārent",
+                "traduzioni": [
+                    "che loro succedessero",
+                    "che essi succedessero",
+                    "che loro prolungassero",
+                    "che essi prolungassero",
+                    "che loro seguitassero",
+                    "che essi seguitassero",
+                    "che loro persistessero",
+                    "che essi persistessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "continuavĕrim",
+                "traduzioni": [
+                    "che io sia successo",
+                    "che io sia succeduto",
+                    "che io abbia prolungato",
+                    "che io sia seguitato",
+                    "che io sia seguitata",
+                    "che io abbia persistito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "continuavĕris",
+                "traduzioni": [
+                    "che tu sia successo",
+                    "che tu sia succeduto",
+                    "che tu abbia prolungato",
+                    "che tu sia seguitato",
+                    "che tu sia seguitata",
+                    "che tu abbia persistito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "continuavĕrit",
+                "traduzioni": [
+                    "che lui sia successo",
+                    "che lei sia successo",
+                    "che egli sia successo",
+                    "che lui sia succeduto",
+                    "che lei sia succeduto",
+                    "che egli sia succeduto",
+                    "che lui abbia prolungato",
+                    "che lei abbia prolungato",
+                    "che egli abbia prolungato",
+                    "che lui sia seguitato",
+                    "che lei sia seguitata",
+                    "che egli sia seguitato",
+                    "che lui abbia persistito",
+                    "che lei abbia persistito",
+                    "che egli abbia persistito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "continuaverĭmus",
+                "traduzioni": [
+                    "che noi siamo successo",
+                    "che noi siamo succeduti",
+                    "che noi abbiamo prolungato",
+                    "che noi siamo seguitati",
+                    "che noi siamo seguitate",
+                    "che noi abbiamo persistito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "continuaverĭtis",
+                "traduzioni": [
+                    "che voi siate successo",
+                    "che voi siate succeduti",
+                    "che voi abbiate prolungato",
+                    "che voi siate seguitati",
+                    "che voi siate seguitate",
+                    "che voi abbiate persistito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "continuavĕrint",
+                "traduzioni": [
+                    "che loro siano successo",
+                    "che essi siano successo",
+                    "che loro siano succeduti",
+                    "che essi siano succeduti",
+                    "che loro abbiano prolungato",
+                    "che essi abbiano prolungato",
+                    "che loro siano seguitati",
+                    "che loro siano seguitate",
+                    "che essi siano seguitati",
+                    "che loro abbiano persistito",
+                    "che essi abbiano persistito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "continuavissem",
+                "traduzioni": [
+                    "che io fossi successo",
+                    "che io fossi succeduto",
+                    "che io avessi prolungato",
+                    "che io fossi seguitato",
+                    "che io fossi seguitata",
+                    "che io avessi persistito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "continuavisses",
+                "traduzioni": [
+                    "che tu fossi successo",
+                    "che tu fossi succeduto",
+                    "che tu avessi prolungato",
+                    "che tu fossi seguitato",
+                    "che tu fossi seguitata",
+                    "che tu avessi persistito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "continuavisset",
+                "traduzioni": [
+                    "che lui fosse successo",
+                    "che lei fosse successo",
+                    "che egli fosse successo",
+                    "che lui fosse succeduto",
+                    "che lei fosse succeduto",
+                    "che egli fosse succeduto",
+                    "che lui avesse prolungato",
+                    "che lei avesse prolungato",
+                    "che egli avesse prolungato",
+                    "che lui fosse seguitato",
+                    "che lei fosse seguitata",
+                    "che egli fosse seguitato",
+                    "che lui avesse persistito",
+                    "che lei avesse persistito",
+                    "che egli avesse persistito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "continuavissēmus",
+                "traduzioni": [
+                    "che noi fossimo successo",
+                    "che noi fossimo succeduti",
+                    "che noi avessimo prolungato",
+                    "che noi fossimo seguitati",
+                    "che noi fossimo seguitate",
+                    "che noi avessimo persistito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "continuavissētis",
+                "traduzioni": [
+                    "che voi foste successo",
+                    "che voi foste succeduti",
+                    "che voi aveste prolungato",
+                    "che voi foste seguitati",
+                    "che voi foste seguitate",
+                    "che voi aveste persistito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "continuavissent",
+                "traduzioni": [
+                    "che loro fossero successo",
+                    "che essi fossero successo",
+                    "che loro fossero succeduti",
+                    "che essi fossero succeduti",
+                    "che loro avessero prolungato",
+                    "che essi avessero prolungato",
+                    "che loro fossero seguitati",
+                    "che loro fossero seguitate",
+                    "che essi fossero seguitati",
+                    "che loro avessero persistito",
+                    "che essi avessero persistito"
+                ]
+            }
+        ]
+    }
+}

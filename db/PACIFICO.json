@@ -1,0 +1,753 @@
+{
+    "identifier": "PACIFICO",
+    "conuigazione": "1",
+    "translation": [
+        "(transitivo) placare",
+        "calmare",
+        "pacificare",
+        "blandire"
+    ],
+    "valid_translations": [
+        "calmare",
+        "pacificare",
+        "blandire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pācĭfĭco",
+                "traduzioni": [
+                    "io calmo",
+                    "io pacifico",
+                    "io blandisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pācĭfĭcas",
+                "traduzioni": [
+                    "tu calmi",
+                    "tu pacifichi",
+                    "tu blandisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pācĭfĭcat",
+                "traduzioni": [
+                    "lui calma",
+                    "lei calma",
+                    "egli calma",
+                    "lui pacifica",
+                    "lei pacifica",
+                    "egli pacifica",
+                    "lui blandisce",
+                    "lei blandisce",
+                    "egli blandisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pācĭfĭcāmus",
+                "traduzioni": [
+                    "noi calmiamo",
+                    "noi pacifichiamo",
+                    "noi blandiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pācĭfĭcātis",
+                "traduzioni": [
+                    "voi calmate",
+                    "voi pacificate",
+                    "voi blandite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pācĭfĭcant",
+                "traduzioni": [
+                    "loro calmano",
+                    "essi calmano",
+                    "loro pacificano",
+                    "essi pacificano",
+                    "loro blandiscono",
+                    "essi blandiscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pācĭfĭcābam",
+                "traduzioni": [
+                    "io calmavo",
+                    "io pacificavo",
+                    "io blandivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pācĭfĭcābas",
+                "traduzioni": [
+                    "tu calmavi",
+                    "tu pacificavi",
+                    "tu blandivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pācĭfĭcābat",
+                "traduzioni": [
+                    "lui calmava",
+                    "lei calmava",
+                    "egli calmava",
+                    "lui pacificava",
+                    "lei pacificava",
+                    "egli pacificava",
+                    "lui blandiva",
+                    "lei blandiva",
+                    "egli blandiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pācĭfĭcabāmus",
+                "traduzioni": [
+                    "noi calmavamo",
+                    "noi pacificavamo",
+                    "noi blandivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pācĭfĭcabātis",
+                "traduzioni": [
+                    "voi calmavate",
+                    "voi pacificavate",
+                    "voi blandivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pācĭfĭcābant",
+                "traduzioni": [
+                    "loro calmavano",
+                    "essi calmavano",
+                    "loro pacificavano",
+                    "essi pacificavano",
+                    "loro blandivano",
+                    "essi blandivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pācĭfĭcābo",
+                "traduzioni": [
+                    "io calmerò",
+                    "io pacificherò",
+                    "io blandirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pācĭfĭcābis",
+                "traduzioni": [
+                    "tu calmerai",
+                    "tu pacificherai",
+                    "tu blandirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pācĭfĭcābit",
+                "traduzioni": [
+                    "lui calmerà",
+                    "lei calmerà",
+                    "egli calmerà",
+                    "lui pacificherà",
+                    "lei pacificherà",
+                    "egli pacificherà",
+                    "lui blandirà",
+                    "lei blandirà",
+                    "egli blandirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pācĭfĭcabĭmus",
+                "traduzioni": [
+                    "noi calmeremo",
+                    "noi pacificheremo",
+                    "noi blandiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pācĭfĭcabĭtis",
+                "traduzioni": [
+                    "voi calmerete",
+                    "voi pacificherete",
+                    "voi blandirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pācĭfĭcābunt",
+                "traduzioni": [
+                    "loro calmeranno",
+                    "essi calmeranno",
+                    "loro pacificheranno",
+                    "essi pacificheranno",
+                    "loro blandiranno",
+                    "essi blandiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pacificavi",
+                "traduzioni": [
+                    "io calmai",
+                    "io sono calmato",
+                    "io sono calmata",
+                    "io fui calmato",
+                    "io fui calmata",
+                    "io pacificai",
+                    "io ho pacificato",
+                    "io ebbi pacificato",
+                    "io blandii",
+                    "io ho blandito",
+                    "io ebbi blandito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pacificavisti",
+                "traduzioni": [
+                    "tu calmasti",
+                    "tu sei calmato",
+                    "tu sei calmata",
+                    "tu fosti calmato",
+                    "tu fosti calmata",
+                    "tu pacificasti",
+                    "tu hai pacificato",
+                    "tu avesti pacificato",
+                    "tu blandisti",
+                    "tu hai blandito",
+                    "tu avesti blandito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pacificavit",
+                "traduzioni": [
+                    "lui calmò",
+                    "lei calmò",
+                    "egli calmò",
+                    "lui è calmato",
+                    "lei è calmata",
+                    "egli è calmato",
+                    "lui fu calmato",
+                    "lei fu calmata",
+                    "egli fu calmato",
+                    "lui pacificò",
+                    "lei pacificò",
+                    "egli pacificò",
+                    "lui ha pacificato",
+                    "lei ha pacificato",
+                    "egli ha pacificato",
+                    "lui ebbe pacificato",
+                    "lei ebbe pacificato",
+                    "egli ebbe pacificato",
+                    "lui blandì",
+                    "lei blandì",
+                    "egli blandì",
+                    "lui ha blandito",
+                    "lei ha blandito",
+                    "egli ha blandito",
+                    "lui ebbe blandito",
+                    "lei ebbe blandito",
+                    "egli ebbe blandito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pacificavĭmus",
+                "traduzioni": [
+                    "noi calmammo",
+                    "noi siamo calmati",
+                    "noi siamo calmate",
+                    "noi fummo calmati",
+                    "noi fummo calmate",
+                    "noi pacificammo",
+                    "noi abbiamo pacificato",
+                    "noi avemmo pacificato",
+                    "noi blandimmo",
+                    "noi abbiamo blandito",
+                    "noi avemmo blandito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pacificavistis",
+                "traduzioni": [
+                    "voi calmaste",
+                    "voi siete calmati",
+                    "voi siete calmate",
+                    "voi foste calmati",
+                    "voi foste calmate",
+                    "voi pacificaste",
+                    "voi avete pacificato",
+                    "voi aveste pacificato",
+                    "voi blandiste",
+                    "voi avete blandito",
+                    "voi aveste blandito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pacificavēreunt, pacificavēre",
+                "traduzioni": [
+                    "loro calmarono",
+                    "essi calmarono",
+                    "loro sono calmati",
+                    "loro sono calmate",
+                    "essi sono calmati",
+                    "loro furono calmati",
+                    "loro furono calmate",
+                    "essi furono calmati",
+                    "loro pacificarono",
+                    "essi pacificarono",
+                    "loro hanno pacificato",
+                    "essi hanno pacificato",
+                    "loro ebbero pacificato",
+                    "essi ebbero pacificato",
+                    "loro blandirono",
+                    "essi blandirono",
+                    "loro hanno blandito",
+                    "essi hanno blandito",
+                    "loro ebbero blandito",
+                    "essi ebbero blandito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pacificavĕram",
+                "traduzioni": [
+                    "io ero calmato",
+                    "io ero calmata",
+                    "io avevo pacificato",
+                    "io avevo blandito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pacificavĕras",
+                "traduzioni": [
+                    "tu eri calmato",
+                    "tu eri calmata",
+                    "tu avevi pacificato",
+                    "tu avevi blandito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pacificavĕrat",
+                "traduzioni": [
+                    "lui era calmato",
+                    "lei era calmata",
+                    "egli era calmato",
+                    "lui aveva pacificato",
+                    "lei aveva pacificato",
+                    "egli aveva pacificato",
+                    "lui aveva blandito",
+                    "lei aveva blandito",
+                    "egli aveva blandito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pacificaverāmus",
+                "traduzioni": [
+                    "noi eravamo calmati",
+                    "noi eravamo calmate",
+                    "noi avevamo pacificato",
+                    "noi avevamo blandito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pacificaverātis",
+                "traduzioni": [
+                    "voi eravate calmati",
+                    "voi eravate calmate",
+                    "voi avevate pacificato",
+                    "voi avevate blandito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pacificavĕrant",
+                "traduzioni": [
+                    "loro erano calmati",
+                    "loro erano calmate",
+                    "essi erano calmati",
+                    "loro avevano pacificato",
+                    "essi avevano pacificato",
+                    "loro avevano blandito",
+                    "essi avevano blandito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pacificavĕro",
+                "traduzioni": [
+                    "io sarò calmato",
+                    "io sarò calmata",
+                    "io avrò pacificato",
+                    "io avrò blandito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pacificavĕris",
+                "traduzioni": [
+                    "tu sarai calmato",
+                    "tu sarai calmata",
+                    "tu avrai pacificato",
+                    "tu avrai blandito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pacificavĕrit",
+                "traduzioni": [
+                    "lui sarà calmato",
+                    "lei sarà calmata",
+                    "egli sarà calmato",
+                    "lui avrà pacificato",
+                    "lei avrà pacificato",
+                    "egli avrà pacificato",
+                    "lui avrà blandito",
+                    "lei avrà blandito",
+                    "egli avrà blandito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pacificaverĭmus",
+                "traduzioni": [
+                    "noi saremo calmati",
+                    "noi saremo calmate",
+                    "noi avremo pacificato",
+                    "noi avremo blandito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pacificaverĭtis",
+                "traduzioni": [
+                    "voi sarete calmati",
+                    "voi sarete calmate",
+                    "voi avrete pacificato",
+                    "voi avrete blandito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pacificavĕrint",
+                "traduzioni": [
+                    "loro saranno calmati",
+                    "loro saranno calmate",
+                    "essi saranno calmati",
+                    "loro avranno pacificato",
+                    "essi avranno pacificato",
+                    "loro avranno blandito",
+                    "essi avranno blandito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pācĭfĭcem",
+                "traduzioni": [
+                    "che io calmi",
+                    "che io pacifichi",
+                    "che io blandisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pācĭfĭces",
+                "traduzioni": [
+                    "che tu calmi",
+                    "che tu pacifichi",
+                    "che tu blandisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pācĭfĭcet",
+                "traduzioni": [
+                    "che lui calmi",
+                    "che lei calmi",
+                    "che egli calmi",
+                    "che lui pacifichi",
+                    "che lei pacifichi",
+                    "che egli pacifichi",
+                    "che lui blandisca",
+                    "che lei blandisca",
+                    "che egli blandisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pācĭfĭcēmus",
+                "traduzioni": [
+                    "che noi calmiamo",
+                    "che noi pacifichiamo",
+                    "che noi blandiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pācĭfĭcētis",
+                "traduzioni": [
+                    "che voi calmiate",
+                    "che voi pacifichiate",
+                    "che voi blandiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pācĭfĭcent",
+                "traduzioni": [
+                    "che loro calmino",
+                    "che essi calmino",
+                    "che loro pacifichino",
+                    "che essi pacifichino",
+                    "che loro blandiscano",
+                    "che essi blandiscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pācĭfĭcārem",
+                "traduzioni": [
+                    "che io calmassi",
+                    "che io pacificassi",
+                    "che io blandissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pācĭfĭcāres",
+                "traduzioni": [
+                    "che tu calmassi",
+                    "che tu pacificassi",
+                    "che tu blandissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pācĭfĭcāret",
+                "traduzioni": [
+                    "che lui calmasse",
+                    "che lei calmasse",
+                    "che egli calmasse",
+                    "che lui pacificasse",
+                    "che lei pacificasse",
+                    "che egli pacificasse",
+                    "che lui blandisse",
+                    "che lei blandisse",
+                    "che egli blandisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pācĭfĭcarēmus",
+                "traduzioni": [
+                    "che noi calmassimo",
+                    "che noi pacificassimo",
+                    "che noi blandissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pācĭfĭcarētis",
+                "traduzioni": [
+                    "che voi calmaste",
+                    "che voi pacificaste",
+                    "che voi blandiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pācĭfĭcārent",
+                "traduzioni": [
+                    "che loro calmassero",
+                    "che essi calmassero",
+                    "che loro pacificassero",
+                    "che essi pacificassero",
+                    "che loro blandissero",
+                    "che essi blandissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pacificavĕrim",
+                "traduzioni": [
+                    "che io sia calmato",
+                    "che io sia calmata",
+                    "che io abbia pacificato",
+                    "che io abbia blandito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pacificavĕris",
+                "traduzioni": [
+                    "che tu sia calmato",
+                    "che tu sia calmata",
+                    "che tu abbia pacificato",
+                    "che tu abbia blandito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pacificavĕrit",
+                "traduzioni": [
+                    "che lui sia calmato",
+                    "che lei sia calmata",
+                    "che egli sia calmato",
+                    "che lui abbia pacificato",
+                    "che lei abbia pacificato",
+                    "che egli abbia pacificato",
+                    "che lui abbia blandito",
+                    "che lei abbia blandito",
+                    "che egli abbia blandito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pacificaverĭmus",
+                "traduzioni": [
+                    "che noi siamo calmati",
+                    "che noi siamo calmate",
+                    "che noi abbiamo pacificato",
+                    "che noi abbiamo blandito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pacificaverĭtis",
+                "traduzioni": [
+                    "che voi siate calmati",
+                    "che voi siate calmate",
+                    "che voi abbiate pacificato",
+                    "che voi abbiate blandito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pacificavĕrint",
+                "traduzioni": [
+                    "che loro siano calmati",
+                    "che loro siano calmate",
+                    "che essi siano calmati",
+                    "che loro abbiano pacificato",
+                    "che essi abbiano pacificato",
+                    "che loro abbiano blandito",
+                    "che essi abbiano blandito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pacificavissem",
+                "traduzioni": [
+                    "che io fossi calmato",
+                    "che io fossi calmata",
+                    "che io avessi pacificato",
+                    "che io avessi blandito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pacificavisses",
+                "traduzioni": [
+                    "che tu fossi calmato",
+                    "che tu fossi calmata",
+                    "che tu avessi pacificato",
+                    "che tu avessi blandito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pacificavisset",
+                "traduzioni": [
+                    "che lui fosse calmato",
+                    "che lei fosse calmata",
+                    "che egli fosse calmato",
+                    "che lui avesse pacificato",
+                    "che lei avesse pacificato",
+                    "che egli avesse pacificato",
+                    "che lui avesse blandito",
+                    "che lei avesse blandito",
+                    "che egli avesse blandito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pacificavissēmus",
+                "traduzioni": [
+                    "che noi fossimo calmati",
+                    "che noi fossimo calmate",
+                    "che noi avessimo pacificato",
+                    "che noi avessimo blandito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pacificavissētis",
+                "traduzioni": [
+                    "che voi foste calmati",
+                    "che voi foste calmate",
+                    "che voi aveste pacificato",
+                    "che voi aveste blandito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pacificavissent",
+                "traduzioni": [
+                    "che loro fossero calmati",
+                    "che loro fossero calmate",
+                    "che essi fossero calmati",
+                    "che loro avessero pacificato",
+                    "che essi avessero pacificato",
+                    "che loro avessero blandito",
+                    "che essi avessero blandito"
+                ]
+            }
+        ]
+    }
+}

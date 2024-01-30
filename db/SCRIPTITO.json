@@ -1,0 +1,502 @@
+{
+    "identifier": "SCRIPTITO",
+    "conuigazione": "1",
+    "translation": [
+        "scrivere"
+    ],
+    "valid_translations": [
+        "scrivere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "scriptĭto",
+                "traduzioni": [
+                    "io scrivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "scriptĭtas",
+                "traduzioni": [
+                    "tu scrivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "scriptĭtat",
+                "traduzioni": [
+                    "lui scrive",
+                    "lei scrive",
+                    "egli scrive"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scriptĭtāmus",
+                "traduzioni": [
+                    "noi scriviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scriptĭtātis",
+                "traduzioni": [
+                    "voi scrivete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "scriptĭtant",
+                "traduzioni": [
+                    "loro scrivono",
+                    "essi scrivono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "scriptĭtābam",
+                "traduzioni": [
+                    "io scrivevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "scriptĭtābas",
+                "traduzioni": [
+                    "tu scrivevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "scriptĭtābat",
+                "traduzioni": [
+                    "lui scriveva",
+                    "lei scriveva",
+                    "egli scriveva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scriptĭtabāmus",
+                "traduzioni": [
+                    "noi scrivevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scriptĭtabātis",
+                "traduzioni": [
+                    "voi scrivevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "scriptĭtābant",
+                "traduzioni": [
+                    "loro scrivevano",
+                    "essi scrivevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "scriptĭtābo",
+                "traduzioni": [
+                    "io scriverò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "scriptĭtābis",
+                "traduzioni": [
+                    "tu scriverai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "scriptĭtābit",
+                "traduzioni": [
+                    "lui scriverà",
+                    "lei scriverà",
+                    "egli scriverà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scriptĭtabĭmus",
+                "traduzioni": [
+                    "noi scriveremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scriptĭtabĭtis",
+                "traduzioni": [
+                    "voi scriverete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "scriptĭtābunt",
+                "traduzioni": [
+                    "loro scriveranno",
+                    "essi scriveranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "scriptitavi",
+                "traduzioni": [
+                    "io scrissi",
+                    "io ho scritto",
+                    "io ebbi scritto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "scriptitavisti",
+                "traduzioni": [
+                    "tu scrivesti",
+                    "tu hai scritto",
+                    "tu avesti scritto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "scriptitavit",
+                "traduzioni": [
+                    "lui scrisse",
+                    "lei scrisse",
+                    "egli scrisse",
+                    "lui ha scritto",
+                    "lei ha scritto",
+                    "egli ha scritto",
+                    "lui ebbe scritto",
+                    "lei ebbe scritto",
+                    "egli ebbe scritto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scriptitavĭmus",
+                "traduzioni": [
+                    "noi scrivemmo",
+                    "noi abbiamo scritto",
+                    "noi avemmo scritto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scriptitavistis",
+                "traduzioni": [
+                    "voi scriveste",
+                    "voi avete scritto",
+                    "voi aveste scritto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "scriptitavērunt, scriptitavēre",
+                "traduzioni": [
+                    "loro scrissero",
+                    "essi scrissero",
+                    "loro hanno scritto",
+                    "essi hanno scritto",
+                    "loro ebbero scritto",
+                    "essi ebbero scritto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "scriptitavĕram",
+                "traduzioni": [
+                    "io avevo scritto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "scriptitavĕras",
+                "traduzioni": [
+                    "tu avevi scritto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "scriptitavĕrat",
+                "traduzioni": [
+                    "lui aveva scritto",
+                    "lei aveva scritto",
+                    "egli aveva scritto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scriptitaverāmus",
+                "traduzioni": [
+                    "noi avevamo scritto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scriptitaverātis",
+                "traduzioni": [
+                    "voi avevate scritto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "scriptitavĕrant",
+                "traduzioni": [
+                    "loro avevano scritto",
+                    "essi avevano scritto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "scriptitavĕro",
+                "traduzioni": [
+                    "io avrò scritto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "scriptitavĕris",
+                "traduzioni": [
+                    "tu avrai scritto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "scriptitavĕrit",
+                "traduzioni": [
+                    "lui avrà scritto",
+                    "lei avrà scritto",
+                    "egli avrà scritto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scriptitaverĭmus",
+                "traduzioni": [
+                    "noi avremo scritto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scriptitaverĭtis",
+                "traduzioni": [
+                    "voi avrete scritto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "scriptitavĕrint",
+                "traduzioni": [
+                    "loro avranno scritto",
+                    "essi avranno scritto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "scriptĭtem",
+                "traduzioni": [
+                    "che io scriva"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "scriptĭtes",
+                "traduzioni": [
+                    "che tu scriva"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "scriptĭtet",
+                "traduzioni": [
+                    "che lui scriva",
+                    "che lei scriva",
+                    "che egli scriva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scriptĭtēmus",
+                "traduzioni": [
+                    "che noi scriviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scriptĭtētis",
+                "traduzioni": [
+                    "che voi scriviate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "scriptĭtent",
+                "traduzioni": [
+                    "che loro scrivano",
+                    "che essi scrivano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "scriptĭtārem",
+                "traduzioni": [
+                    "che io scrivessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "scriptĭtāres",
+                "traduzioni": [
+                    "che tu scrivessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "scriptĭtāret",
+                "traduzioni": [
+                    "che lui scrivesse",
+                    "che lei scrivesse",
+                    "che egli scrivesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scriptĭtarēmus",
+                "traduzioni": [
+                    "che noi scrivessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scriptĭtarētis",
+                "traduzioni": [
+                    "che voi scriveste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "scriptĭtārent",
+                "traduzioni": [
+                    "che loro scrivessero",
+                    "che essi scrivessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "scriptitavĕrim",
+                "traduzioni": [
+                    "che io abbia scritto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "scriptitavĕris",
+                "traduzioni": [
+                    "che tu abbia scritto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "scriptitavĕrit",
+                "traduzioni": [
+                    "che lui abbia scritto",
+                    "che lei abbia scritto",
+                    "che egli abbia scritto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scriptitaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo scritto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scriptitaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate scritto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "scriptitavĕrint",
+                "traduzioni": [
+                    "che loro abbiano scritto",
+                    "che essi abbiano scritto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "scriptitavissem",
+                "traduzioni": [
+                    "che io avessi scritto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "scriptitavisses",
+                "traduzioni": [
+                    "che tu avessi scritto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "scriptitavisset",
+                "traduzioni": [
+                    "che lui avesse scritto",
+                    "che lei avesse scritto",
+                    "che egli avesse scritto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scriptitavissēmus",
+                "traduzioni": [
+                    "che noi avessimo scritto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scriptitavissētis",
+                "traduzioni": [
+                    "che voi aveste scritto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "scriptitavissent",
+                "traduzioni": [
+                    "che loro avessero scritto",
+                    "che essi avessero scritto"
+                ]
+            }
+        ]
+    }
+}

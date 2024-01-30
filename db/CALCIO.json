@@ -1,0 +1,502 @@
+{
+    "identifier": "CALCIO",
+    "conuigazione": "1",
+    "translation": [
+        "calzare"
+    ],
+    "valid_translations": [
+        "calzare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "calcio",
+                "traduzioni": [
+                    "io calzo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "calcias",
+                "traduzioni": [
+                    "tu calzi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "calciat",
+                "traduzioni": [
+                    "lui calza",
+                    "lei calza",
+                    "egli calza"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "calciāmus",
+                "traduzioni": [
+                    "noi calziamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "calciātis",
+                "traduzioni": [
+                    "voi calzate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "calciant",
+                "traduzioni": [
+                    "loro calzano",
+                    "essi calzano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "calciābam",
+                "traduzioni": [
+                    "io calzavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "calciābas",
+                "traduzioni": [
+                    "tu calzavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "calciābat",
+                "traduzioni": [
+                    "lui calzava",
+                    "lei calzava",
+                    "egli calzava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "calciabāmus",
+                "traduzioni": [
+                    "noi calzavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "calciabātis",
+                "traduzioni": [
+                    "voi calzavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "calciābant",
+                "traduzioni": [
+                    "loro calzavano",
+                    "essi calzavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "calciābo",
+                "traduzioni": [
+                    "io calzerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "calciābis",
+                "traduzioni": [
+                    "tu calzerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "calciābit",
+                "traduzioni": [
+                    "lui calzerà",
+                    "lei calzerà",
+                    "egli calzerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "calciabĭmus",
+                "traduzioni": [
+                    "noi calzeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "calciabĭtis",
+                "traduzioni": [
+                    "voi calzerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "calciābunt",
+                "traduzioni": [
+                    "loro calzeranno",
+                    "essi calzeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "calciavi",
+                "traduzioni": [
+                    "io calzai",
+                    "io ho calzato",
+                    "io ebbi calzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "calciavisti",
+                "traduzioni": [
+                    "tu calzasti",
+                    "tu hai calzato",
+                    "tu avesti calzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "calciavit",
+                "traduzioni": [
+                    "lui calzò",
+                    "lei calzò",
+                    "egli calzò",
+                    "lui ha calzato",
+                    "lei ha calzato",
+                    "egli ha calzato",
+                    "lui ebbe calzato",
+                    "lei ebbe calzato",
+                    "egli ebbe calzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "calciavĭmus",
+                "traduzioni": [
+                    "noi calzammo",
+                    "noi abbiamo calzato",
+                    "noi avemmo calzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "calciavistis",
+                "traduzioni": [
+                    "voi calzaste",
+                    "voi avete calzato",
+                    "voi aveste calzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "calciavērunt, calciavēre",
+                "traduzioni": [
+                    "loro calzarono",
+                    "essi calzarono",
+                    "loro hanno calzato",
+                    "essi hanno calzato",
+                    "loro ebbero calzato",
+                    "essi ebbero calzato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "calciavĕram",
+                "traduzioni": [
+                    "io avevo calzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "calciavĕras",
+                "traduzioni": [
+                    "tu avevi calzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "calciavĕrat",
+                "traduzioni": [
+                    "lui aveva calzato",
+                    "lei aveva calzato",
+                    "egli aveva calzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "calciaverāmus",
+                "traduzioni": [
+                    "noi avevamo calzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "calciaverātis",
+                "traduzioni": [
+                    "voi avevate calzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "calciavĕrant",
+                "traduzioni": [
+                    "loro avevano calzato",
+                    "essi avevano calzato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "calciavĕro",
+                "traduzioni": [
+                    "io avrò calzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "calciavĕris",
+                "traduzioni": [
+                    "tu avrai calzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "calciavĕrit",
+                "traduzioni": [
+                    "lui avrà calzato",
+                    "lei avrà calzato",
+                    "egli avrà calzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "calciaverĭmus",
+                "traduzioni": [
+                    "noi avremo calzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "calciaverĭtis",
+                "traduzioni": [
+                    "voi avrete calzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "calciavĕrint",
+                "traduzioni": [
+                    "loro avranno calzato",
+                    "essi avranno calzato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "calciem",
+                "traduzioni": [
+                    "che io calzi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "calcies",
+                "traduzioni": [
+                    "che tu calzi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "calciet",
+                "traduzioni": [
+                    "che lui calzi",
+                    "che lei calzi",
+                    "che egli calzi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "calciēmus",
+                "traduzioni": [
+                    "che noi calziamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "calciētis",
+                "traduzioni": [
+                    "che voi calziate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "calcient",
+                "traduzioni": [
+                    "che loro calzino",
+                    "che essi calzino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "calciārem",
+                "traduzioni": [
+                    "che io calzassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "calciāres",
+                "traduzioni": [
+                    "che tu calzassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "calciāret",
+                "traduzioni": [
+                    "che lui calzasse",
+                    "che lei calzasse",
+                    "che egli calzasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "calciarēmus",
+                "traduzioni": [
+                    "che noi calzassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "calciarētis",
+                "traduzioni": [
+                    "che voi calzaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "calciārent",
+                "traduzioni": [
+                    "che loro calzassero",
+                    "che essi calzassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "calciavĕrim",
+                "traduzioni": [
+                    "che io abbia calzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "calciavĕris",
+                "traduzioni": [
+                    "che tu abbia calzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "calciavĕrit",
+                "traduzioni": [
+                    "che lui abbia calzato",
+                    "che lei abbia calzato",
+                    "che egli abbia calzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "calciaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo calzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "calciaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate calzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "calciavĕrint",
+                "traduzioni": [
+                    "che loro abbiano calzato",
+                    "che essi abbiano calzato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "calciavissem",
+                "traduzioni": [
+                    "che io avessi calzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "calciavisses",
+                "traduzioni": [
+                    "che tu avessi calzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "calciavisset",
+                "traduzioni": [
+                    "che lui avesse calzato",
+                    "che lei avesse calzato",
+                    "che egli avesse calzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "calciavissēmus",
+                "traduzioni": [
+                    "che noi avessimo calzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "calciavissētis",
+                "traduzioni": [
+                    "che voi aveste calzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "calciavissent",
+                "traduzioni": [
+                    "che loro avessero calzato",
+                    "che essi avessero calzato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,867 @@
+{
+    "identifier": "SERVIO",
+    "conuigazione": "4",
+    "translation": [
+        "servire",
+        "accondiscendere",
+        "compiacere",
+        "favorire"
+    ],
+    "valid_translations": [
+        "servire",
+        "accondiscendere",
+        "compiacere",
+        "favorire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "servĭo",
+                "traduzioni": [
+                    "io servo",
+                    "io accondiscendo",
+                    "io compiaccio",
+                    "io favorisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "servis",
+                "traduzioni": [
+                    "tu servi",
+                    "tu accondiscendi",
+                    "tu compiaci",
+                    "tu favorisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "servit",
+                "traduzioni": [
+                    "lui serve",
+                    "lei serve",
+                    "egli serve",
+                    "lui accondiscende",
+                    "lei accondiscende",
+                    "egli accondiscende",
+                    "lui compiace",
+                    "lei compiace",
+                    "egli compiace",
+                    "lui favorisce",
+                    "lei favorisce",
+                    "egli favorisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "servīmus",
+                "traduzioni": [
+                    "noi serviamo",
+                    "noi accondiscendiamo",
+                    "noi compiacciamo",
+                    "noi compiaciamo",
+                    "noi favoriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "servītis",
+                "traduzioni": [
+                    "voi servite",
+                    "voi accondiscendete",
+                    "voi compiacete",
+                    "voi favorite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "servĭunt",
+                "traduzioni": [
+                    "loro servono",
+                    "essi servono",
+                    "loro accondiscendono",
+                    "essi accondiscendono",
+                    "loro compiacciono",
+                    "essi compiacciono",
+                    "loro compiaciono",
+                    "essi compiaciono",
+                    "loro favoriscono",
+                    "essi favoriscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "serviēbam, servībam",
+                "traduzioni": [
+                    "io servivo",
+                    "io accondiscendevo",
+                    "io compiacevo",
+                    "io favorivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serviēbas",
+                "traduzioni": [
+                    "tu servivi",
+                    "tu accondiscendevi",
+                    "tu compiacevi",
+                    "tu favorivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serviēbat",
+                "traduzioni": [
+                    "lui serviva",
+                    "lei serviva",
+                    "egli serviva",
+                    "lui accondiscendeva",
+                    "lei accondiscendeva",
+                    "egli accondiscendeva",
+                    "lui compiaceva",
+                    "lei compiaceva",
+                    "egli compiaceva",
+                    "lui favoriva",
+                    "lei favoriva",
+                    "egli favoriva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serviebāmus",
+                "traduzioni": [
+                    "noi servivamo",
+                    "noi accondiscendevamo",
+                    "noi compiacevamo",
+                    "noi favorivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serviebātis",
+                "traduzioni": [
+                    "voi servivate",
+                    "voi accondiscendevate",
+                    "voi compiacevate",
+                    "voi favorivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serviēbant",
+                "traduzioni": [
+                    "loro servivano",
+                    "essi servivano",
+                    "loro accondiscendevano",
+                    "essi accondiscendevano",
+                    "loro compiacevano",
+                    "essi compiacevano",
+                    "loro favorivano",
+                    "essi favorivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "servĭam, servĭbo",
+                "traduzioni": [
+                    "io servirò",
+                    "io accondiscenderò",
+                    "io compiacerò",
+                    "io favorirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "servĭes",
+                "traduzioni": [
+                    "tu servirai",
+                    "tu accondiscenderai",
+                    "tu compiacerai",
+                    "tu favorirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "servĭet",
+                "traduzioni": [
+                    "lui servirà",
+                    "lei servirà",
+                    "egli servirà",
+                    "lui accondiscenderà",
+                    "lei accondiscenderà",
+                    "egli accondiscenderà",
+                    "lui compiacerà",
+                    "lei compiacerà",
+                    "egli compiacerà",
+                    "lui favorirà",
+                    "lei favorirà",
+                    "egli favorirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serviēmus",
+                "traduzioni": [
+                    "noi serviremo",
+                    "noi accondiscenderemo",
+                    "noi compiaceremo",
+                    "noi favoriremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serviētis",
+                "traduzioni": [
+                    "voi servirete",
+                    "voi accondiscenderete",
+                    "voi compiacerete",
+                    "voi favorirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "servĭent",
+                "traduzioni": [
+                    "loro serviranno",
+                    "essi serviranno",
+                    "loro accondiscenderanno",
+                    "essi accondiscenderanno",
+                    "loro compiaceranno",
+                    "essi compiaceranno",
+                    "loro favoriranno",
+                    "essi favoriranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "servii o servivi",
+                "traduzioni": [
+                    "io servii",
+                    "io sono servito",
+                    "io sono servita",
+                    "io fui servito",
+                    "io fui servita",
+                    "io accondiscesi",
+                    "io ho accondisceso",
+                    "io ebbi accondisceso",
+                    "io compiacqui",
+                    "io ho compiaciuto",
+                    "io ebbi compiaciuto",
+                    "io favorii",
+                    "io ho favorito",
+                    "io ebbi favorito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serviisti o servivisti",
+                "traduzioni": [
+                    "tu servisti",
+                    "tu sei servito",
+                    "tu sei servita",
+                    "tu fosti servito",
+                    "tu fosti servita",
+                    "tu accondiscendesti",
+                    "tu hai accondisceso",
+                    "tu avesti accondisceso",
+                    "tu compiacesti",
+                    "tu hai compiaciuto",
+                    "tu avesti compiaciuto",
+                    "tu favoristi",
+                    "tu hai favorito",
+                    "tu avesti favorito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serviit o servivit",
+                "traduzioni": [
+                    "lui servì",
+                    "lei servì",
+                    "egli servì",
+                    "lui è servito",
+                    "lei è servita",
+                    "egli è servito",
+                    "lui fu servito",
+                    "lei fu servita",
+                    "egli fu servito",
+                    "lui accondiscese",
+                    "lei accondiscese",
+                    "egli accondiscese",
+                    "lui ha accondisceso",
+                    "lei ha accondisceso",
+                    "egli ha accondisceso",
+                    "lui ebbe accondisceso",
+                    "lei ebbe accondisceso",
+                    "egli ebbe accondisceso",
+                    "lui compiacque",
+                    "lei compiacque",
+                    "egli compiacque",
+                    "lui ha compiaciuto",
+                    "lei ha compiaciuto",
+                    "egli ha compiaciuto",
+                    "lui ebbe compiaciuto",
+                    "lei ebbe compiaciuto",
+                    "egli ebbe compiaciuto",
+                    "lui favorì",
+                    "lei favorì",
+                    "egli favorì",
+                    "lui ha favorito",
+                    "lei ha favorito",
+                    "egli ha favorito",
+                    "lui ebbe favorito",
+                    "lei ebbe favorito",
+                    "egli ebbe favorito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serviĭmus o servivĭmus",
+                "traduzioni": [
+                    "noi servimmo",
+                    "noi siamo serviti",
+                    "noi siamo servite",
+                    "noi fummo serviti",
+                    "noi fummo servite",
+                    "noi accondiscendemmo",
+                    "noi abbiamo accondisceso",
+                    "noi avemmo accondisceso",
+                    "noi compiacemmo",
+                    "noi abbiamo compiaciuto",
+                    "noi avemmo compiaciuto",
+                    "noi favorimmo",
+                    "noi abbiamo favorito",
+                    "noi avemmo favorito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serviistis o servivistis",
+                "traduzioni": [
+                    "voi serviste",
+                    "voi siete serviti",
+                    "voi siete servite",
+                    "voi foste serviti",
+                    "voi foste servite",
+                    "voi accondiscendeste",
+                    "voi avete accondisceso",
+                    "voi aveste accondisceso",
+                    "voi compiaceste",
+                    "voi avete compiaciuto",
+                    "voi aveste compiaciuto",
+                    "voi favoriste",
+                    "voi avete favorito",
+                    "voi aveste favorito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serviērunt o servivērunt, ēre",
+                "traduzioni": [
+                    "loro servirono",
+                    "essi servirono",
+                    "loro sono serviti",
+                    "loro sono servite",
+                    "essi sono serviti",
+                    "loro furono serviti",
+                    "loro furono servite",
+                    "essi furono serviti",
+                    "loro accondiscesero",
+                    "essi accondiscesero",
+                    "loro hanno accondisceso",
+                    "essi hanno accondisceso",
+                    "loro ebbero accondisceso",
+                    "essi ebbero accondisceso",
+                    "loro compiacquero",
+                    "essi compiacquero",
+                    "loro hanno compiaciuto",
+                    "essi hanno compiaciuto",
+                    "loro ebbero compiaciuto",
+                    "essi ebbero compiaciuto",
+                    "loro favorirono",
+                    "essi favorirono",
+                    "loro hanno favorito",
+                    "essi hanno favorito",
+                    "loro ebbero favorito",
+                    "essi ebbero favorito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "serviĕram o servivĕram",
+                "traduzioni": [
+                    "io ero servito",
+                    "io ero servita",
+                    "io avevo accondisceso",
+                    "io avevo compiaciuto",
+                    "io avevo favorito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serviĕras o servivĕras",
+                "traduzioni": [
+                    "tu eri servito",
+                    "tu eri servita",
+                    "tu avevi accondisceso",
+                    "tu avevi compiaciuto",
+                    "tu avevi favorito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serviĕrat o servivĕrat",
+                "traduzioni": [
+                    "lui era servito",
+                    "lei era servita",
+                    "egli era servito",
+                    "lui aveva accondisceso",
+                    "lei aveva accondisceso",
+                    "egli aveva accondisceso",
+                    "lui aveva compiaciuto",
+                    "lei aveva compiaciuto",
+                    "egli aveva compiaciuto",
+                    "lui aveva favorito",
+                    "lei aveva favorito",
+                    "egli aveva favorito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "servierāmus o serviverāmus",
+                "traduzioni": [
+                    "noi eravamo serviti",
+                    "noi eravamo servite",
+                    "noi avevamo accondisceso",
+                    "noi avevamo compiaciuto",
+                    "noi avevamo favorito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "servierātis o serviverātis",
+                "traduzioni": [
+                    "voi eravate serviti",
+                    "voi eravate servite",
+                    "voi avevate accondisceso",
+                    "voi avevate compiaciuto",
+                    "voi avevate favorito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serviĕrant o servivĕrant",
+                "traduzioni": [
+                    "loro erano serviti",
+                    "loro erano servite",
+                    "essi erano serviti",
+                    "loro avevano accondisceso",
+                    "essi avevano accondisceso",
+                    "loro avevano compiaciuto",
+                    "essi avevano compiaciuto",
+                    "loro avevano favorito",
+                    "essi avevano favorito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "serviĕro o servivĕro",
+                "traduzioni": [
+                    "io sarò servito",
+                    "io sarò servita",
+                    "io avrò accondisceso",
+                    "io avrò compiaciuto",
+                    "io avrò favorito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serviĕris o servivĕris",
+                "traduzioni": [
+                    "tu sarai servito",
+                    "tu sarai servita",
+                    "tu avrai accondisceso",
+                    "tu avrai compiaciuto",
+                    "tu avrai favorito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serviĕrit o servivĕrit",
+                "traduzioni": [
+                    "lui sarà servito",
+                    "lei sarà servita",
+                    "egli sarà servito",
+                    "lui avrà accondisceso",
+                    "lei avrà accondisceso",
+                    "egli avrà accondisceso",
+                    "lui avrà compiaciuto",
+                    "lei avrà compiaciuto",
+                    "egli avrà compiaciuto",
+                    "lui avrà favorito",
+                    "lei avrà favorito",
+                    "egli avrà favorito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "servierĭmus o serviverĭmus",
+                "traduzioni": [
+                    "noi saremo serviti",
+                    "noi saremo servite",
+                    "noi avremo accondisceso",
+                    "noi avremo compiaciuto",
+                    "noi avremo favorito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "servierĭtis o serviverĭtis",
+                "traduzioni": [
+                    "voi sarete serviti",
+                    "voi sarete servite",
+                    "voi avrete accondisceso",
+                    "voi avrete compiaciuto",
+                    "voi avrete favorito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serviĕrint o servivĕrint",
+                "traduzioni": [
+                    "loro saranno serviti",
+                    "loro saranno servite",
+                    "essi saranno serviti",
+                    "loro avranno accondisceso",
+                    "essi avranno accondisceso",
+                    "loro avranno compiaciuto",
+                    "essi avranno compiaciuto",
+                    "loro avranno favorito",
+                    "essi avranno favorito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "servĭam",
+                "traduzioni": [
+                    "che io serva",
+                    "che io accondiscenda",
+                    "che io compiaccia",
+                    "che io favorisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "servĭas",
+                "traduzioni": [
+                    "che tu serva",
+                    "che tu accondiscenda",
+                    "che tu compiaccia",
+                    "che tu favorisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "servĭat",
+                "traduzioni": [
+                    "che lui serva",
+                    "che lei serva",
+                    "che egli serva",
+                    "che lui accondiscenda",
+                    "che lei accondiscenda",
+                    "che egli accondiscenda",
+                    "che lui compiaccia",
+                    "che lei compiaccia",
+                    "che egli compiaccia",
+                    "che lui favorisca",
+                    "che lei favorisca",
+                    "che egli favorisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serviāmus",
+                "traduzioni": [
+                    "che noi serviamo",
+                    "che noi accondiscendiamo",
+                    "che noi compiacciamo",
+                    "che noi compiaciamo",
+                    "che noi favoriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serviātis",
+                "traduzioni": [
+                    "che voi serviate",
+                    "che voi accondiscendiate",
+                    "che voi compiacciate",
+                    "che voi compiaciate",
+                    "che voi favoriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "servĭant",
+                "traduzioni": [
+                    "che loro servano",
+                    "che essi servano",
+                    "che loro accondiscendano",
+                    "che essi accondiscendano",
+                    "che loro compiacciano",
+                    "che essi compiacciano",
+                    "che loro favoriscano",
+                    "che essi favoriscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "servīrem",
+                "traduzioni": [
+                    "che io servissi",
+                    "che io accondiscendessi",
+                    "che io compiacessi",
+                    "che io favorissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "servīres",
+                "traduzioni": [
+                    "che tu servissi",
+                    "che tu accondiscendessi",
+                    "che tu compiacessi",
+                    "che tu favorissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "servīret",
+                "traduzioni": [
+                    "che lui servisse",
+                    "che lei servisse",
+                    "che egli servisse",
+                    "che lui accondiscendesse",
+                    "che lei accondiscendesse",
+                    "che egli accondiscendesse",
+                    "che lui compiacesse",
+                    "che lei compiacesse",
+                    "che egli compiacesse",
+                    "che lui favorisse",
+                    "che lei favorisse",
+                    "che egli favorisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "servirēmus",
+                "traduzioni": [
+                    "che noi servissimo",
+                    "che noi accondiscendessimo",
+                    "che noi compiacessimo",
+                    "che noi favorissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "servirētis",
+                "traduzioni": [
+                    "che voi serviste",
+                    "che voi accondiscendeste",
+                    "che voi compiaceste",
+                    "che voi favoriste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "servīrent",
+                "traduzioni": [
+                    "che loro servissero",
+                    "che essi servissero",
+                    "che loro accondiscendessero",
+                    "che essi accondiscendessero",
+                    "che loro compiacessero",
+                    "che essi compiacessero",
+                    "che loro favorissero",
+                    "che essi favorissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "serviĕrim o servivĕrim",
+                "traduzioni": [
+                    "che io sia servito",
+                    "che io sia servita",
+                    "che io abbia accondisceso",
+                    "che io abbia compiaciuto",
+                    "che io abbia favorito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serviĕris o servivĕris",
+                "traduzioni": [
+                    "che tu sia servito",
+                    "che tu sia servita",
+                    "che tu abbia accondisceso",
+                    "che tu abbia compiaciuto",
+                    "che tu abbia favorito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serviĕrit o servivĕrit",
+                "traduzioni": [
+                    "che lui sia servito",
+                    "che lei sia servita",
+                    "che egli sia servito",
+                    "che lui abbia accondisceso",
+                    "che lei abbia accondisceso",
+                    "che egli abbia accondisceso",
+                    "che lui abbia compiaciuto",
+                    "che lei abbia compiaciuto",
+                    "che egli abbia compiaciuto",
+                    "che lui abbia favorito",
+                    "che lei abbia favorito",
+                    "che egli abbia favorito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "servierĭmus o serviverĭmus",
+                "traduzioni": [
+                    "che noi siamo serviti",
+                    "che noi siamo servite",
+                    "che noi abbiamo accondisceso",
+                    "che noi abbiamo compiaciuto",
+                    "che noi abbiamo favorito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "servierĭtis o serviverĭtis",
+                "traduzioni": [
+                    "che voi siate serviti",
+                    "che voi siate servite",
+                    "che voi abbiate accondisceso",
+                    "che voi abbiate compiaciuto",
+                    "che voi abbiate favorito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serviĕrint o servivĕrint",
+                "traduzioni": [
+                    "che loro siano serviti",
+                    "che loro siano servite",
+                    "che essi siano serviti",
+                    "che loro abbiano accondisceso",
+                    "che essi abbiano accondisceso",
+                    "che loro abbiano compiaciuto",
+                    "che essi abbiano compiaciuto",
+                    "che loro abbiano favorito",
+                    "che essi abbiano favorito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "serviissem o servivissem",
+                "traduzioni": [
+                    "che io fossi servito",
+                    "che io fossi servita",
+                    "che io avessi accondisceso",
+                    "che io avessi compiaciuto",
+                    "che io avessi favorito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "serviisses o servivisses",
+                "traduzioni": [
+                    "che tu fossi servito",
+                    "che tu fossi servita",
+                    "che tu avessi accondisceso",
+                    "che tu avessi compiaciuto",
+                    "che tu avessi favorito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "serviisset o servivisset",
+                "traduzioni": [
+                    "che lui fosse servito",
+                    "che lei fosse servita",
+                    "che egli fosse servito",
+                    "che lui avesse accondisceso",
+                    "che lei avesse accondisceso",
+                    "che egli avesse accondisceso",
+                    "che lui avesse compiaciuto",
+                    "che lei avesse compiaciuto",
+                    "che egli avesse compiaciuto",
+                    "che lui avesse favorito",
+                    "che lei avesse favorito",
+                    "che egli avesse favorito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "serviissēmus o servivissēmus",
+                "traduzioni": [
+                    "che noi fossimo serviti",
+                    "che noi fossimo servite",
+                    "che noi avessimo accondisceso",
+                    "che noi avessimo compiaciuto",
+                    "che noi avessimo favorito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "serviissētis o servivissētis",
+                "traduzioni": [
+                    "che voi foste serviti",
+                    "che voi foste servite",
+                    "che voi aveste accondisceso",
+                    "che voi aveste compiaciuto",
+                    "che voi aveste favorito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "serviissent o servivissent",
+                "traduzioni": [
+                    "che loro fossero serviti",
+                    "che loro fossero servite",
+                    "che essi fossero serviti",
+                    "che loro avessero accondisceso",
+                    "che essi avessero accondisceso",
+                    "che loro avessero compiaciuto",
+                    "che essi avessero compiaciuto",
+                    "che loro avessero favorito",
+                    "che essi avessero favorito"
+                ]
+            }
+        ]
+    }
+}

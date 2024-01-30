@@ -1,0 +1,833 @@
+{
+    "identifier": "CELO",
+    "conuigazione": "1",
+    "translation": [
+        "celare",
+        "nascondere",
+        "occultare",
+        "contenere"
+    ],
+    "valid_translations": [
+        "celare",
+        "nascondere",
+        "occultare",
+        "contenere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cēlo",
+                "traduzioni": [
+                    "io celo",
+                    "io nascondo",
+                    "io occulto",
+                    "io contengo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cēlas",
+                "traduzioni": [
+                    "tu celi",
+                    "tu nascondi",
+                    "tu occulti",
+                    "tu contieni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cēlat",
+                "traduzioni": [
+                    "lui cela",
+                    "lei cela",
+                    "egli cela",
+                    "lui nasconde",
+                    "lei nasconde",
+                    "egli nasconde",
+                    "lui occulta",
+                    "lei occulta",
+                    "egli occulta",
+                    "lui contiene",
+                    "lei contiene",
+                    "egli contiene"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cēlāmus",
+                "traduzioni": [
+                    "noi celiamo",
+                    "noi nascondiamo",
+                    "noi occultiamo",
+                    "noi conteniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cēlātis",
+                "traduzioni": [
+                    "voi celate",
+                    "voi nascondete",
+                    "voi occultate",
+                    "voi contenete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cēlant",
+                "traduzioni": [
+                    "loro celano",
+                    "essi celano",
+                    "loro nascondono",
+                    "essi nascondono",
+                    "loro occultano",
+                    "essi occultano",
+                    "loro contengono",
+                    "essi contengono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cēlābam",
+                "traduzioni": [
+                    "io celavo",
+                    "io nascondevo",
+                    "io occultavo",
+                    "io contenevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cēlābas",
+                "traduzioni": [
+                    "tu celavi",
+                    "tu nascondevi",
+                    "tu occultavi",
+                    "tu contenevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cēlābat",
+                "traduzioni": [
+                    "lui celava",
+                    "lei celava",
+                    "egli celava",
+                    "lui nascondeva",
+                    "lei nascondeva",
+                    "egli nascondeva",
+                    "lui occultava",
+                    "lei occultava",
+                    "egli occultava",
+                    "lui conteneva",
+                    "lei conteneva",
+                    "egli conteneva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cēlabāmus",
+                "traduzioni": [
+                    "noi celavamo",
+                    "noi nascondevamo",
+                    "noi occultavamo",
+                    "noi contenevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cēlabātis",
+                "traduzioni": [
+                    "voi celavate",
+                    "voi nascondevate",
+                    "voi occultavate",
+                    "voi contenevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cēlābant",
+                "traduzioni": [
+                    "loro celavano",
+                    "essi celavano",
+                    "loro nascondevano",
+                    "essi nascondevano",
+                    "loro occultavano",
+                    "essi occultavano",
+                    "loro contenevano",
+                    "essi contenevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cēlābo",
+                "traduzioni": [
+                    "io celerò",
+                    "io nasconderò",
+                    "io occulterò",
+                    "io conterrò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cēlābis",
+                "traduzioni": [
+                    "tu celerai",
+                    "tu nasconderai",
+                    "tu occulterai",
+                    "tu conterrai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cēlābit",
+                "traduzioni": [
+                    "lui celerà",
+                    "lei celerà",
+                    "egli celerà",
+                    "lui nasconderà",
+                    "lei nasconderà",
+                    "egli nasconderà",
+                    "lui occulterà",
+                    "lei occulterà",
+                    "egli occulterà",
+                    "lui conterrà",
+                    "lei conterrà",
+                    "egli conterrà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cēlabĭmus",
+                "traduzioni": [
+                    "noi celeremo",
+                    "noi nasconderemo",
+                    "noi occulteremo",
+                    "noi conterremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cēlabĭtis",
+                "traduzioni": [
+                    "voi celerete",
+                    "voi nasconderete",
+                    "voi occulterete",
+                    "voi conterrete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cēlābunt",
+                "traduzioni": [
+                    "loro celeranno",
+                    "essi celeranno",
+                    "loro nasconderanno",
+                    "essi nasconderanno",
+                    "loro occulteranno",
+                    "essi occulteranno",
+                    "loro conterranno",
+                    "essi conterranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "celavi",
+                "traduzioni": [
+                    "io celai",
+                    "io ho celato",
+                    "io ebbi celato",
+                    "io nascosi",
+                    "io ho nascosto",
+                    "io ebbi nascosto",
+                    "io occultai",
+                    "io ho occultato",
+                    "io ebbi occultato",
+                    "io contenni",
+                    "io contenetti",
+                    "io ho contenuto",
+                    "io ebbi contenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "celavisti",
+                "traduzioni": [
+                    "tu celasti",
+                    "tu hai celato",
+                    "tu avesti celato",
+                    "tu nascondesti",
+                    "tu hai nascosto",
+                    "tu avesti nascosto",
+                    "tu occultasti",
+                    "tu hai occultato",
+                    "tu avesti occultato",
+                    "tu contenesti",
+                    "tu hai contenuto",
+                    "tu avesti contenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "celavit",
+                "traduzioni": [
+                    "lui celò",
+                    "lei celò",
+                    "egli celò",
+                    "lui ha celato",
+                    "lei ha celato",
+                    "egli ha celato",
+                    "lui ebbe celato",
+                    "lei ebbe celato",
+                    "egli ebbe celato",
+                    "lui nascose",
+                    "lei nascose",
+                    "egli nascose",
+                    "lui ha nascosto",
+                    "lei ha nascosto",
+                    "egli ha nascosto",
+                    "lui ebbe nascosto",
+                    "lei ebbe nascosto",
+                    "egli ebbe nascosto",
+                    "lui occultò",
+                    "lei occultò",
+                    "egli occultò",
+                    "lui ha occultato",
+                    "lei ha occultato",
+                    "egli ha occultato",
+                    "lui ebbe occultato",
+                    "lei ebbe occultato",
+                    "egli ebbe occultato",
+                    "lui contenne",
+                    "lei contenne",
+                    "egli contenne",
+                    "lui ha contenuto",
+                    "lei ha contenuto",
+                    "egli ha contenuto",
+                    "lui ebbe contenuto",
+                    "lei ebbe contenuto",
+                    "egli ebbe contenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "celavĭmus",
+                "traduzioni": [
+                    "noi celammo",
+                    "noi abbiamo celato",
+                    "noi avemmo celato",
+                    "noi nascondemmo",
+                    "noi abbiamo nascosto",
+                    "noi avemmo nascosto",
+                    "noi occultammo",
+                    "noi abbiamo occultato",
+                    "noi avemmo occultato",
+                    "noi contenemmo",
+                    "noi abbiamo contenuto",
+                    "noi avemmo contenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "celavistis",
+                "traduzioni": [
+                    "voi celaste",
+                    "voi avete celato",
+                    "voi aveste celato",
+                    "voi nascondeste",
+                    "voi avete nascosto",
+                    "voi aveste nascosto",
+                    "voi occultaste",
+                    "voi avete occultato",
+                    "voi aveste occultato",
+                    "voi conteneste",
+                    "voi avete contenuto",
+                    "voi aveste contenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "celavērunt, celavēre",
+                "traduzioni": [
+                    "loro celarono",
+                    "essi celarono",
+                    "loro hanno celato",
+                    "essi hanno celato",
+                    "loro ebbero celato",
+                    "essi ebbero celato",
+                    "loro nascosero",
+                    "essi nascosero",
+                    "loro hanno nascosto",
+                    "essi hanno nascosto",
+                    "loro ebbero nascosto",
+                    "essi ebbero nascosto",
+                    "loro occultarono",
+                    "essi occultarono",
+                    "loro hanno occultato",
+                    "essi hanno occultato",
+                    "loro ebbero occultato",
+                    "essi ebbero occultato",
+                    "loro contennero",
+                    "essi contennero",
+                    "loro hanno contenuto",
+                    "essi hanno contenuto",
+                    "loro ebbero contenuto",
+                    "essi ebbero contenuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "celavĕram",
+                "traduzioni": [
+                    "io avevo celato",
+                    "io avevo nascosto",
+                    "io avevo occultato",
+                    "io avevo contenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "celavĕras",
+                "traduzioni": [
+                    "tu avevi celato",
+                    "tu avevi nascosto",
+                    "tu avevi occultato",
+                    "tu avevi contenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "celavĕrat",
+                "traduzioni": [
+                    "lui aveva celato",
+                    "lei aveva celato",
+                    "egli aveva celato",
+                    "lui aveva nascosto",
+                    "lei aveva nascosto",
+                    "egli aveva nascosto",
+                    "lui aveva occultato",
+                    "lei aveva occultato",
+                    "egli aveva occultato",
+                    "lui aveva contenuto",
+                    "lei aveva contenuto",
+                    "egli aveva contenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "celaverāmus",
+                "traduzioni": [
+                    "noi avevamo celato",
+                    "noi avevamo nascosto",
+                    "noi avevamo occultato",
+                    "noi avevamo contenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "celaverātis",
+                "traduzioni": [
+                    "voi avevate celato",
+                    "voi avevate nascosto",
+                    "voi avevate occultato",
+                    "voi avevate contenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "celavĕrant",
+                "traduzioni": [
+                    "loro avevano celato",
+                    "essi avevano celato",
+                    "loro avevano nascosto",
+                    "essi avevano nascosto",
+                    "loro avevano occultato",
+                    "essi avevano occultato",
+                    "loro avevano contenuto",
+                    "essi avevano contenuto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "celavĕro",
+                "traduzioni": [
+                    "io avrò celato",
+                    "io avrò nascosto",
+                    "io avrò occultato",
+                    "io avrò contenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "celavĕris",
+                "traduzioni": [
+                    "tu avrai celato",
+                    "tu avrai nascosto",
+                    "tu avrai occultato",
+                    "tu avrai contenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "celavĕrit",
+                "traduzioni": [
+                    "lui avrà celato",
+                    "lei avrà celato",
+                    "egli avrà celato",
+                    "lui avrà nascosto",
+                    "lei avrà nascosto",
+                    "egli avrà nascosto",
+                    "lui avrà occultato",
+                    "lei avrà occultato",
+                    "egli avrà occultato",
+                    "lui avrà contenuto",
+                    "lei avrà contenuto",
+                    "egli avrà contenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "celaverĭmus",
+                "traduzioni": [
+                    "noi avremo celato",
+                    "noi avremo nascosto",
+                    "noi avremo occultato",
+                    "noi avremo contenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "celaverĭtis",
+                "traduzioni": [
+                    "voi avrete celato",
+                    "voi avrete nascosto",
+                    "voi avrete occultato",
+                    "voi avrete contenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "celavĕrint",
+                "traduzioni": [
+                    "loro avranno celato",
+                    "essi avranno celato",
+                    "loro avranno nascosto",
+                    "essi avranno nascosto",
+                    "loro avranno occultato",
+                    "essi avranno occultato",
+                    "loro avranno contenuto",
+                    "essi avranno contenuto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "cēlem",
+                "traduzioni": [
+                    "che io celi",
+                    "che io nasconda",
+                    "che io occulti",
+                    "che io contenga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cēles",
+                "traduzioni": [
+                    "che tu celi",
+                    "che tu nasconda",
+                    "che tu occulti",
+                    "che tu contenga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cēlet",
+                "traduzioni": [
+                    "che lui celi",
+                    "che lei celi",
+                    "che egli celi",
+                    "che lui nasconda",
+                    "che lei nasconda",
+                    "che egli nasconda",
+                    "che lui occulti",
+                    "che lei occulti",
+                    "che egli occulti",
+                    "che lui contenga",
+                    "che lei contenga",
+                    "che egli contenga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cēlēmus",
+                "traduzioni": [
+                    "che noi celiamo",
+                    "che noi nascondiamo",
+                    "che noi occultiamo",
+                    "che noi conteniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cēlētis",
+                "traduzioni": [
+                    "che voi celiate",
+                    "che voi nascondiate",
+                    "che voi occultiate",
+                    "che voi conteniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cēlent",
+                "traduzioni": [
+                    "che loro celino",
+                    "che essi celino",
+                    "che loro nascondano",
+                    "che essi nascondano",
+                    "che loro occultino",
+                    "che essi occultino",
+                    "che loro contengano",
+                    "che essi contengano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "cēlārem",
+                "traduzioni": [
+                    "che io celassi",
+                    "che io nascondessi",
+                    "che io occultassi",
+                    "che io contenessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "cēlāres",
+                "traduzioni": [
+                    "che tu celassi",
+                    "che tu nascondessi",
+                    "che tu occultassi",
+                    "che tu contenessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "cēlāret",
+                "traduzioni": [
+                    "che lui celasse",
+                    "che lei celasse",
+                    "che egli celasse",
+                    "che lui nascondesse",
+                    "che lei nascondesse",
+                    "che egli nascondesse",
+                    "che lui occultasse",
+                    "che lei occultasse",
+                    "che egli occultasse",
+                    "che lui contenesse",
+                    "che lei contenesse",
+                    "che egli contenesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "cēlarēmus",
+                "traduzioni": [
+                    "che noi celassimo",
+                    "che noi nascondessimo",
+                    "che noi occultassimo",
+                    "che noi contenessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "cēlarētis",
+                "traduzioni": [
+                    "che voi celaste",
+                    "che voi nascondeste",
+                    "che voi occultaste",
+                    "che voi conteneste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "cēlārent",
+                "traduzioni": [
+                    "che loro celassero",
+                    "che essi celassero",
+                    "che loro nascondessero",
+                    "che essi nascondessero",
+                    "che loro occultassero",
+                    "che essi occultassero",
+                    "che loro contenessero",
+                    "che essi contenessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "celavĕrim",
+                "traduzioni": [
+                    "che io abbia celato",
+                    "che io abbia nascosto",
+                    "che io abbia occultato",
+                    "che io abbia contenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "celavĕris",
+                "traduzioni": [
+                    "che tu abbia celato",
+                    "che tu abbia nascosto",
+                    "che tu abbia occultato",
+                    "che tu abbia contenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "celavĕrit",
+                "traduzioni": [
+                    "che lui abbia celato",
+                    "che lei abbia celato",
+                    "che egli abbia celato",
+                    "che lui abbia nascosto",
+                    "che lei abbia nascosto",
+                    "che egli abbia nascosto",
+                    "che lui abbia occultato",
+                    "che lei abbia occultato",
+                    "che egli abbia occultato",
+                    "che lui abbia contenuto",
+                    "che lei abbia contenuto",
+                    "che egli abbia contenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "celaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo celato",
+                    "che noi abbiamo nascosto",
+                    "che noi abbiamo occultato",
+                    "che noi abbiamo contenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "celaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate celato",
+                    "che voi abbiate nascosto",
+                    "che voi abbiate occultato",
+                    "che voi abbiate contenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "celavĕrint",
+                "traduzioni": [
+                    "che loro abbiano celato",
+                    "che essi abbiano celato",
+                    "che loro abbiano nascosto",
+                    "che essi abbiano nascosto",
+                    "che loro abbiano occultato",
+                    "che essi abbiano occultato",
+                    "che loro abbiano contenuto",
+                    "che essi abbiano contenuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "celavissem",
+                "traduzioni": [
+                    "che io avessi celato",
+                    "che io avessi nascosto",
+                    "che io avessi occultato",
+                    "che io avessi contenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "celavisses",
+                "traduzioni": [
+                    "che tu avessi celato",
+                    "che tu avessi nascosto",
+                    "che tu avessi occultato",
+                    "che tu avessi contenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "celavisset",
+                "traduzioni": [
+                    "che lui avesse celato",
+                    "che lei avesse celato",
+                    "che egli avesse celato",
+                    "che lui avesse nascosto",
+                    "che lei avesse nascosto",
+                    "che egli avesse nascosto",
+                    "che lui avesse occultato",
+                    "che lei avesse occultato",
+                    "che egli avesse occultato",
+                    "che lui avesse contenuto",
+                    "che lei avesse contenuto",
+                    "che egli avesse contenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "celavissēmus",
+                "traduzioni": [
+                    "che noi avessimo celato",
+                    "che noi avessimo nascosto",
+                    "che noi avessimo occultato",
+                    "che noi avessimo contenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "celavissētis",
+                "traduzioni": [
+                    "che voi aveste celato",
+                    "che voi aveste nascosto",
+                    "che voi aveste occultato",
+                    "che voi aveste contenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "celavissent",
+                "traduzioni": [
+                    "che loro avessero celato",
+                    "che essi avessero celato",
+                    "che loro avessero nascosto",
+                    "che essi avessero nascosto",
+                    "che loro avessero occultato",
+                    "che essi avessero occultato",
+                    "che loro avessero contenuto",
+                    "che essi avessero contenuto"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,832 @@
+{
+    "identifier": "ADCLINO",
+    "conuigazione": "1",
+    "translation": [
+        "inclinare",
+        "appoggiare",
+        "piegare",
+        "accondiscendere"
+    ],
+    "valid_translations": [
+        "inclinare",
+        "appoggiare",
+        "piegare",
+        "accondiscendere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adclīno",
+                "traduzioni": [
+                    "io inclino",
+                    "io appoggio",
+                    "io piego",
+                    "io accondiscendo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adclīnas",
+                "traduzioni": [
+                    "tu inclini",
+                    "tu appoggi",
+                    "tu pieghi",
+                    "tu accondiscendi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adclīnat",
+                "traduzioni": [
+                    "lui inclina",
+                    "lei inclina",
+                    "egli inclina",
+                    "lui appoggia",
+                    "lei appoggia",
+                    "egli appoggia",
+                    "lui piega",
+                    "lei piega",
+                    "egli piega",
+                    "lui accondiscende",
+                    "lei accondiscende",
+                    "egli accondiscende"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adclīnāmus",
+                "traduzioni": [
+                    "noi incliniamo",
+                    "noi appoggiamo",
+                    "noi pieghiamo",
+                    "noi accondiscendiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adclīnātis",
+                "traduzioni": [
+                    "voi inclinate",
+                    "voi appoggiate",
+                    "voi piegate",
+                    "voi accondiscendete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adclīnant",
+                "traduzioni": [
+                    "loro inclinano",
+                    "essi inclinano",
+                    "loro appoggiano",
+                    "essi appoggiano",
+                    "loro piegano",
+                    "essi piegano",
+                    "loro accondiscendono",
+                    "essi accondiscendono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adclīnābam",
+                "traduzioni": [
+                    "io inclinavo",
+                    "io appoggiavo",
+                    "io piegavo",
+                    "io accondiscendevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adclīnābas",
+                "traduzioni": [
+                    "tu inclinavi",
+                    "tu appoggiavi",
+                    "tu piegavi",
+                    "tu accondiscendevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adclīnābat",
+                "traduzioni": [
+                    "lui inclinava",
+                    "lei inclinava",
+                    "egli inclinava",
+                    "lui appoggiava",
+                    "lei appoggiava",
+                    "egli appoggiava",
+                    "lui piegava",
+                    "lei piegava",
+                    "egli piegava",
+                    "lui accondiscendeva",
+                    "lei accondiscendeva",
+                    "egli accondiscendeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adclīnabāmus",
+                "traduzioni": [
+                    "noi inclinavamo",
+                    "noi appoggiavamo",
+                    "noi piegavamo",
+                    "noi accondiscendevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adclīnabātis",
+                "traduzioni": [
+                    "voi inclinavate",
+                    "voi appoggiavate",
+                    "voi piegavate",
+                    "voi accondiscendevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adclīnābant",
+                "traduzioni": [
+                    "loro inclinavano",
+                    "essi inclinavano",
+                    "loro appoggiavano",
+                    "essi appoggiavano",
+                    "loro piegavano",
+                    "essi piegavano",
+                    "loro accondiscendevano",
+                    "essi accondiscendevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adclīnābo",
+                "traduzioni": [
+                    "io inclinerò",
+                    "io appoggerò",
+                    "io piegherò",
+                    "io accondiscenderò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adclīnābis",
+                "traduzioni": [
+                    "tu inclinerai",
+                    "tu appoggerai",
+                    "tu piegherai",
+                    "tu accondiscenderai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adclīnābit",
+                "traduzioni": [
+                    "lui inclinerà",
+                    "lei inclinerà",
+                    "egli inclinerà",
+                    "lui appoggerà",
+                    "lei appoggerà",
+                    "egli appoggerà",
+                    "lui piegherà",
+                    "lei piegherà",
+                    "egli piegherà",
+                    "lui accondiscenderà",
+                    "lei accondiscenderà",
+                    "egli accondiscenderà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adclīnabĭmus",
+                "traduzioni": [
+                    "noi inclineremo",
+                    "noi appoggeremo",
+                    "noi piegheremo",
+                    "noi accondiscenderemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adclīnabĭtis",
+                "traduzioni": [
+                    "voi inclinerete",
+                    "voi appoggerete",
+                    "voi piegherete",
+                    "voi accondiscenderete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adclīnābunt",
+                "traduzioni": [
+                    "loro inclineranno",
+                    "essi inclineranno",
+                    "loro appoggeranno",
+                    "essi appoggeranno",
+                    "loro piegheranno",
+                    "essi piegheranno",
+                    "loro accondiscenderanno",
+                    "essi accondiscenderanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adclinavi",
+                "traduzioni": [
+                    "io inclinai",
+                    "io ho inclinato",
+                    "io ebbi inclinato",
+                    "io appoggiai",
+                    "io ho appoggiato",
+                    "io ebbi appoggiato",
+                    "io piegai",
+                    "io ho piegato",
+                    "io ebbi piegato",
+                    "io accondiscesi",
+                    "io ho accondisceso",
+                    "io ebbi accondisceso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adclinavisti",
+                "traduzioni": [
+                    "tu inclinasti",
+                    "tu hai inclinato",
+                    "tu avesti inclinato",
+                    "tu appoggiasti",
+                    "tu hai appoggiato",
+                    "tu avesti appoggiato",
+                    "tu piegasti",
+                    "tu hai piegato",
+                    "tu avesti piegato",
+                    "tu accondiscendesti",
+                    "tu hai accondisceso",
+                    "tu avesti accondisceso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adclinavit",
+                "traduzioni": [
+                    "lui inclinò",
+                    "lei inclinò",
+                    "egli inclinò",
+                    "lui ha inclinato",
+                    "lei ha inclinato",
+                    "egli ha inclinato",
+                    "lui ebbe inclinato",
+                    "lei ebbe inclinato",
+                    "egli ebbe inclinato",
+                    "lui appoggiò",
+                    "lei appoggiò",
+                    "egli appoggiò",
+                    "lui ha appoggiato",
+                    "lei ha appoggiato",
+                    "egli ha appoggiato",
+                    "lui ebbe appoggiato",
+                    "lei ebbe appoggiato",
+                    "egli ebbe appoggiato",
+                    "lui piegò",
+                    "lei piegò",
+                    "egli piegò",
+                    "lui ha piegato",
+                    "lei ha piegato",
+                    "egli ha piegato",
+                    "lui ebbe piegato",
+                    "lei ebbe piegato",
+                    "egli ebbe piegato",
+                    "lui accondiscese",
+                    "lei accondiscese",
+                    "egli accondiscese",
+                    "lui ha accondisceso",
+                    "lei ha accondisceso",
+                    "egli ha accondisceso",
+                    "lui ebbe accondisceso",
+                    "lei ebbe accondisceso",
+                    "egli ebbe accondisceso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adclinavĭmus",
+                "traduzioni": [
+                    "noi inclinammo",
+                    "noi abbiamo inclinato",
+                    "noi avemmo inclinato",
+                    "noi appoggiammo",
+                    "noi abbiamo appoggiato",
+                    "noi avemmo appoggiato",
+                    "noi piegammo",
+                    "noi abbiamo piegato",
+                    "noi avemmo piegato",
+                    "noi accondiscendemmo",
+                    "noi abbiamo accondisceso",
+                    "noi avemmo accondisceso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adclinavistis",
+                "traduzioni": [
+                    "voi inclinaste",
+                    "voi avete inclinato",
+                    "voi aveste inclinato",
+                    "voi appoggiaste",
+                    "voi avete appoggiato",
+                    "voi aveste appoggiato",
+                    "voi piegaste",
+                    "voi avete piegato",
+                    "voi aveste piegato",
+                    "voi accondiscendeste",
+                    "voi avete accondisceso",
+                    "voi aveste accondisceso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adclinavērunt, adclinavēre",
+                "traduzioni": [
+                    "loro inclinarono",
+                    "essi inclinarono",
+                    "loro hanno inclinato",
+                    "essi hanno inclinato",
+                    "loro ebbero inclinato",
+                    "essi ebbero inclinato",
+                    "loro appoggiarono",
+                    "essi appoggiarono",
+                    "loro hanno appoggiato",
+                    "essi hanno appoggiato",
+                    "loro ebbero appoggiato",
+                    "essi ebbero appoggiato",
+                    "loro piegarono",
+                    "essi piegarono",
+                    "loro hanno piegato",
+                    "essi hanno piegato",
+                    "loro ebbero piegato",
+                    "essi ebbero piegato",
+                    "loro accondiscesero",
+                    "essi accondiscesero",
+                    "loro hanno accondisceso",
+                    "essi hanno accondisceso",
+                    "loro ebbero accondisceso",
+                    "essi ebbero accondisceso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adclinavĕram",
+                "traduzioni": [
+                    "io avevo inclinato",
+                    "io avevo appoggiato",
+                    "io avevo piegato",
+                    "io avevo accondisceso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adclinavĕras",
+                "traduzioni": [
+                    "tu avevi inclinato",
+                    "tu avevi appoggiato",
+                    "tu avevi piegato",
+                    "tu avevi accondisceso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adclinavĕrat",
+                "traduzioni": [
+                    "lui aveva inclinato",
+                    "lei aveva inclinato",
+                    "egli aveva inclinato",
+                    "lui aveva appoggiato",
+                    "lei aveva appoggiato",
+                    "egli aveva appoggiato",
+                    "lui aveva piegato",
+                    "lei aveva piegato",
+                    "egli aveva piegato",
+                    "lui aveva accondisceso",
+                    "lei aveva accondisceso",
+                    "egli aveva accondisceso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adclinaverāmus",
+                "traduzioni": [
+                    "noi avevamo inclinato",
+                    "noi avevamo appoggiato",
+                    "noi avevamo piegato",
+                    "noi avevamo accondisceso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adclinaverātis",
+                "traduzioni": [
+                    "voi avevate inclinato",
+                    "voi avevate appoggiato",
+                    "voi avevate piegato",
+                    "voi avevate accondisceso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adclinavĕrant",
+                "traduzioni": [
+                    "loro avevano inclinato",
+                    "essi avevano inclinato",
+                    "loro avevano appoggiato",
+                    "essi avevano appoggiato",
+                    "loro avevano piegato",
+                    "essi avevano piegato",
+                    "loro avevano accondisceso",
+                    "essi avevano accondisceso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adclinavĕro",
+                "traduzioni": [
+                    "io avrò inclinato",
+                    "io avrò appoggiato",
+                    "io avrò piegato",
+                    "io avrò accondisceso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adclinavĕris",
+                "traduzioni": [
+                    "tu avrai inclinato",
+                    "tu avrai appoggiato",
+                    "tu avrai piegato",
+                    "tu avrai accondisceso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adclinavĕrit",
+                "traduzioni": [
+                    "lui avrà inclinato",
+                    "lei avrà inclinato",
+                    "egli avrà inclinato",
+                    "lui avrà appoggiato",
+                    "lei avrà appoggiato",
+                    "egli avrà appoggiato",
+                    "lui avrà piegato",
+                    "lei avrà piegato",
+                    "egli avrà piegato",
+                    "lui avrà accondisceso",
+                    "lei avrà accondisceso",
+                    "egli avrà accondisceso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adclinaverĭmus",
+                "traduzioni": [
+                    "noi avremo inclinato",
+                    "noi avremo appoggiato",
+                    "noi avremo piegato",
+                    "noi avremo accondisceso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adclinaverĭtis",
+                "traduzioni": [
+                    "voi avrete inclinato",
+                    "voi avrete appoggiato",
+                    "voi avrete piegato",
+                    "voi avrete accondisceso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adclinavĕrint",
+                "traduzioni": [
+                    "loro avranno inclinato",
+                    "essi avranno inclinato",
+                    "loro avranno appoggiato",
+                    "essi avranno appoggiato",
+                    "loro avranno piegato",
+                    "essi avranno piegato",
+                    "loro avranno accondisceso",
+                    "essi avranno accondisceso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "adclīnem",
+                "traduzioni": [
+                    "che io inclini",
+                    "che io appoggi",
+                    "che io pieghi",
+                    "che io accondiscenda"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adclīnes",
+                "traduzioni": [
+                    "che tu inclini",
+                    "che tu appoggi",
+                    "che tu pieghi",
+                    "che tu accondiscenda"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adclīnet",
+                "traduzioni": [
+                    "che lui inclini",
+                    "che lei inclini",
+                    "che egli inclini",
+                    "che lui appoggi",
+                    "che lei appoggi",
+                    "che egli appoggi",
+                    "che lui pieghi",
+                    "che lei pieghi",
+                    "che egli pieghi",
+                    "che lui accondiscenda",
+                    "che lei accondiscenda",
+                    "che egli accondiscenda"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adclīnēmus",
+                "traduzioni": [
+                    "che noi incliniamo",
+                    "che noi appoggiamo",
+                    "che noi pieghiamo",
+                    "che noi accondiscendiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adclīnētis",
+                "traduzioni": [
+                    "che voi incliniate",
+                    "che voi appoggiate",
+                    "che voi pieghiate",
+                    "che voi accondiscendiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adclīnent",
+                "traduzioni": [
+                    "che loro inclinino",
+                    "che essi inclinino",
+                    "che loro appoggino",
+                    "che essi appoggino",
+                    "che loro pieghino",
+                    "che essi pieghino",
+                    "che loro accondiscendano",
+                    "che essi accondiscendano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adclīnārem",
+                "traduzioni": [
+                    "che io inclinassi",
+                    "che io appoggiassi",
+                    "che io piegassi",
+                    "che io accondiscendessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adclīnāres",
+                "traduzioni": [
+                    "che tu inclinassi",
+                    "che tu appoggiassi",
+                    "che tu piegassi",
+                    "che tu accondiscendessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adclīnāret",
+                "traduzioni": [
+                    "che lui inclinasse",
+                    "che lei inclinasse",
+                    "che egli inclinasse",
+                    "che lui appoggiasse",
+                    "che lei appoggiasse",
+                    "che egli appoggiasse",
+                    "che lui piegasse",
+                    "che lei piegasse",
+                    "che egli piegasse",
+                    "che lui accondiscendesse",
+                    "che lei accondiscendesse",
+                    "che egli accondiscendesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adclīnarēmus",
+                "traduzioni": [
+                    "che noi inclinassimo",
+                    "che noi appoggiassimo",
+                    "che noi piegassimo",
+                    "che noi accondiscendessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adclīnarētis",
+                "traduzioni": [
+                    "che voi inclinaste",
+                    "che voi appoggiaste",
+                    "che voi piegaste",
+                    "che voi accondiscendeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adclīnārent",
+                "traduzioni": [
+                    "che loro inclinassero",
+                    "che essi inclinassero",
+                    "che loro appoggiassero",
+                    "che essi appoggiassero",
+                    "che loro piegassero",
+                    "che essi piegassero",
+                    "che loro accondiscendessero",
+                    "che essi accondiscendessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adclinavĕrim",
+                "traduzioni": [
+                    "che io abbia inclinato",
+                    "che io abbia appoggiato",
+                    "che io abbia piegato",
+                    "che io abbia accondisceso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adclinavĕris",
+                "traduzioni": [
+                    "che tu abbia inclinato",
+                    "che tu abbia appoggiato",
+                    "che tu abbia piegato",
+                    "che tu abbia accondisceso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adclinavĕrit",
+                "traduzioni": [
+                    "che lui abbia inclinato",
+                    "che lei abbia inclinato",
+                    "che egli abbia inclinato",
+                    "che lui abbia appoggiato",
+                    "che lei abbia appoggiato",
+                    "che egli abbia appoggiato",
+                    "che lui abbia piegato",
+                    "che lei abbia piegato",
+                    "che egli abbia piegato",
+                    "che lui abbia accondisceso",
+                    "che lei abbia accondisceso",
+                    "che egli abbia accondisceso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adclinaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo inclinato",
+                    "che noi abbiamo appoggiato",
+                    "che noi abbiamo piegato",
+                    "che noi abbiamo accondisceso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adclinaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate inclinato",
+                    "che voi abbiate appoggiato",
+                    "che voi abbiate piegato",
+                    "che voi abbiate accondisceso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adclinavĕrint",
+                "traduzioni": [
+                    "che loro abbiano inclinato",
+                    "che essi abbiano inclinato",
+                    "che loro abbiano appoggiato",
+                    "che essi abbiano appoggiato",
+                    "che loro abbiano piegato",
+                    "che essi abbiano piegato",
+                    "che loro abbiano accondisceso",
+                    "che essi abbiano accondisceso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "adclinavissem",
+                "traduzioni": [
+                    "che io avessi inclinato",
+                    "che io avessi appoggiato",
+                    "che io avessi piegato",
+                    "che io avessi accondisceso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "adclinavisses",
+                "traduzioni": [
+                    "che tu avessi inclinato",
+                    "che tu avessi appoggiato",
+                    "che tu avessi piegato",
+                    "che tu avessi accondisceso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "adclinavisset",
+                "traduzioni": [
+                    "che lui avesse inclinato",
+                    "che lei avesse inclinato",
+                    "che egli avesse inclinato",
+                    "che lui avesse appoggiato",
+                    "che lei avesse appoggiato",
+                    "che egli avesse appoggiato",
+                    "che lui avesse piegato",
+                    "che lei avesse piegato",
+                    "che egli avesse piegato",
+                    "che lui avesse accondisceso",
+                    "che lei avesse accondisceso",
+                    "che egli avesse accondisceso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "adclinavissēmus",
+                "traduzioni": [
+                    "che noi avessimo inclinato",
+                    "che noi avessimo appoggiato",
+                    "che noi avessimo piegato",
+                    "che noi avessimo accondisceso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "adclinavissētis",
+                "traduzioni": [
+                    "che voi aveste inclinato",
+                    "che voi aveste appoggiato",
+                    "che voi aveste piegato",
+                    "che voi aveste accondisceso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "adclinavissent",
+                "traduzioni": [
+                    "che loro avessero inclinato",
+                    "che essi avessero inclinato",
+                    "che loro avessero appoggiato",
+                    "che essi avessero appoggiato",
+                    "che loro avessero piegato",
+                    "che essi avessero piegato",
+                    "che loro avessero accondisceso",
+                    "che essi avessero accondisceso"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,613 @@
+{
+    "identifier": "INCORPORO",
+    "conuigazione": "1",
+    "translation": [
+        "ecclesiastico incarnare",
+        "incorporare",
+        "inserire"
+    ],
+    "valid_translations": [
+        "incorporare",
+        "inserire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incorpŏro",
+                "traduzioni": [
+                    "io incorporo",
+                    "io inserisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incorpŏras",
+                "traduzioni": [
+                    "tu incorpori",
+                    "tu inserisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incorpŏrat",
+                "traduzioni": [
+                    "lui incorpora",
+                    "lei incorpora",
+                    "egli incorpora",
+                    "lui inserisce",
+                    "lei inserisce",
+                    "egli inserisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incorpŏrāmus",
+                "traduzioni": [
+                    "noi incorporiamo",
+                    "noi inseriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incorpŏrātis",
+                "traduzioni": [
+                    "voi incorporate",
+                    "voi inserite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incorpŏrant",
+                "traduzioni": [
+                    "loro incorporano",
+                    "essi incorporano",
+                    "loro inseriscono",
+                    "essi inseriscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incorpŏrābam",
+                "traduzioni": [
+                    "io incorporavo",
+                    "io inserivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incorpŏrābas",
+                "traduzioni": [
+                    "tu incorporavi",
+                    "tu inserivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incorpŏrābat",
+                "traduzioni": [
+                    "lui incorporava",
+                    "lei incorporava",
+                    "egli incorporava",
+                    "lui inseriva",
+                    "lei inseriva",
+                    "egli inseriva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incorpŏrabāmus",
+                "traduzioni": [
+                    "noi incorporavamo",
+                    "noi inserivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incorpŏrabātis",
+                "traduzioni": [
+                    "voi incorporavate",
+                    "voi inserivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incorpŏrābant",
+                "traduzioni": [
+                    "loro incorporavano",
+                    "essi incorporavano",
+                    "loro inserivano",
+                    "essi inserivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incorpŏrābo",
+                "traduzioni": [
+                    "io incorporerò",
+                    "io inserirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incorpŏrābis",
+                "traduzioni": [
+                    "tu incorporerai",
+                    "tu inserirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incorpŏrābit",
+                "traduzioni": [
+                    "lui incorporerà",
+                    "lei incorporerà",
+                    "egli incorporerà",
+                    "lui inserirà",
+                    "lei inserirà",
+                    "egli inserirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incorpŏrabĭmus",
+                "traduzioni": [
+                    "noi incorporeremo",
+                    "noi inseriremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incorpŏrabĭtis",
+                "traduzioni": [
+                    "voi incorporerete",
+                    "voi inserirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incorpŏrābunt",
+                "traduzioni": [
+                    "loro incorporeranno",
+                    "essi incorporeranno",
+                    "loro inseriranno",
+                    "essi inseriranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incorporavi",
+                "traduzioni": [
+                    "io incorporai",
+                    "io ho incorporato",
+                    "io ebbi incorporato",
+                    "io inserii",
+                    "io ho inserito",
+                    "io ebbi inserito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incorporavisti",
+                "traduzioni": [
+                    "tu incorporasti",
+                    "tu hai incorporato",
+                    "tu avesti incorporato",
+                    "tu inseristi",
+                    "tu hai inserito",
+                    "tu avesti inserito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incorporavit",
+                "traduzioni": [
+                    "lui incorporò",
+                    "lei incorporò",
+                    "egli incorporò",
+                    "lui ha incorporato",
+                    "lei ha incorporato",
+                    "egli ha incorporato",
+                    "lui ebbe incorporato",
+                    "lei ebbe incorporato",
+                    "egli ebbe incorporato",
+                    "lui inserì",
+                    "lei inserì",
+                    "egli inserì",
+                    "lui ha inserito",
+                    "lei ha inserito",
+                    "egli ha inserito",
+                    "lui ebbe inserito",
+                    "lei ebbe inserito",
+                    "egli ebbe inserito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incorporavĭmus",
+                "traduzioni": [
+                    "noi incorporammo",
+                    "noi abbiamo incorporato",
+                    "noi avemmo incorporato",
+                    "noi inserimmo",
+                    "noi abbiamo inserito",
+                    "noi avemmo inserito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incorporavistis",
+                "traduzioni": [
+                    "voi incorporaste",
+                    "voi avete incorporato",
+                    "voi aveste incorporato",
+                    "voi inseriste",
+                    "voi avete inserito",
+                    "voi aveste inserito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incorporavērunt, incorporavēre",
+                "traduzioni": [
+                    "loro incorporarono",
+                    "essi incorporarono",
+                    "loro hanno incorporato",
+                    "essi hanno incorporato",
+                    "loro ebbero incorporato",
+                    "essi ebbero incorporato",
+                    "loro inserirono",
+                    "essi inserirono",
+                    "loro hanno inserito",
+                    "essi hanno inserito",
+                    "loro ebbero inserito",
+                    "essi ebbero inserito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incorporavĕram",
+                "traduzioni": [
+                    "io avevo incorporato",
+                    "io avevo inserito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incorporavĕras",
+                "traduzioni": [
+                    "tu avevi incorporato",
+                    "tu avevi inserito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incorporavĕrat",
+                "traduzioni": [
+                    "lui aveva incorporato",
+                    "lei aveva incorporato",
+                    "egli aveva incorporato",
+                    "lui aveva inserito",
+                    "lei aveva inserito",
+                    "egli aveva inserito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incorporaverāmus",
+                "traduzioni": [
+                    "noi avevamo incorporato",
+                    "noi avevamo inserito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incorporaverātis",
+                "traduzioni": [
+                    "voi avevate incorporato",
+                    "voi avevate inserito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incorporavĕrant",
+                "traduzioni": [
+                    "loro avevano incorporato",
+                    "essi avevano incorporato",
+                    "loro avevano inserito",
+                    "essi avevano inserito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incorporavĕro",
+                "traduzioni": [
+                    "io avrò incorporato",
+                    "io avrò inserito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incorporavĕris",
+                "traduzioni": [
+                    "tu avrai incorporato",
+                    "tu avrai inserito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incorporavĕrit",
+                "traduzioni": [
+                    "lui avrà incorporato",
+                    "lei avrà incorporato",
+                    "egli avrà incorporato",
+                    "lui avrà inserito",
+                    "lei avrà inserito",
+                    "egli avrà inserito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incorporaverĭmus",
+                "traduzioni": [
+                    "noi avremo incorporato",
+                    "noi avremo inserito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incorporaverĭtis",
+                "traduzioni": [
+                    "voi avrete incorporato",
+                    "voi avrete inserito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incorporavĕrint",
+                "traduzioni": [
+                    "loro avranno incorporato",
+                    "essi avranno incorporato",
+                    "loro avranno inserito",
+                    "essi avranno inserito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "incorpŏrem",
+                "traduzioni": [
+                    "che io incorpori",
+                    "che io inserisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incorpŏres",
+                "traduzioni": [
+                    "che tu incorpori",
+                    "che tu inserisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incorpŏret",
+                "traduzioni": [
+                    "che lui incorpori",
+                    "che lei incorpori",
+                    "che egli incorpori",
+                    "che lui inserisca",
+                    "che lei inserisca",
+                    "che egli inserisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incorpŏrēmus",
+                "traduzioni": [
+                    "che noi incorporiamo",
+                    "che noi inseriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incorpŏrētis",
+                "traduzioni": [
+                    "che voi incorporiate",
+                    "che voi inseriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incorpŏrent",
+                "traduzioni": [
+                    "che loro incorporino",
+                    "che essi incorporino",
+                    "che loro inseriscano",
+                    "che essi inseriscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incorpŏrārem",
+                "traduzioni": [
+                    "che io incorporassi",
+                    "che io inserissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incorpŏrāres",
+                "traduzioni": [
+                    "che tu incorporassi",
+                    "che tu inserissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incorpŏrāret",
+                "traduzioni": [
+                    "che lui incorporasse",
+                    "che lei incorporasse",
+                    "che egli incorporasse",
+                    "che lui inserisse",
+                    "che lei inserisse",
+                    "che egli inserisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incorpŏrarēmus",
+                "traduzioni": [
+                    "che noi incorporassimo",
+                    "che noi inserissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incorpŏrarētis",
+                "traduzioni": [
+                    "che voi incorporaste",
+                    "che voi inseriste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incorpŏrārent",
+                "traduzioni": [
+                    "che loro incorporassero",
+                    "che essi incorporassero",
+                    "che loro inserissero",
+                    "che essi inserissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incorporavĕrim",
+                "traduzioni": [
+                    "che io abbia incorporato",
+                    "che io abbia inserito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incorporavĕris",
+                "traduzioni": [
+                    "che tu abbia incorporato",
+                    "che tu abbia inserito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incorporavĕrit",
+                "traduzioni": [
+                    "che lui abbia incorporato",
+                    "che lei abbia incorporato",
+                    "che egli abbia incorporato",
+                    "che lui abbia inserito",
+                    "che lei abbia inserito",
+                    "che egli abbia inserito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incorporaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo incorporato",
+                    "che noi abbiamo inserito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incorporaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate incorporato",
+                    "che voi abbiate inserito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incorporavĕrint",
+                "traduzioni": [
+                    "che loro abbiano incorporato",
+                    "che essi abbiano incorporato",
+                    "che loro abbiano inserito",
+                    "che essi abbiano inserito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "incorporavissem",
+                "traduzioni": [
+                    "che io avessi incorporato",
+                    "che io avessi inserito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "incorporavisses",
+                "traduzioni": [
+                    "che tu avessi incorporato",
+                    "che tu avessi inserito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "incorporavisset",
+                "traduzioni": [
+                    "che lui avesse incorporato",
+                    "che lei avesse incorporato",
+                    "che egli avesse incorporato",
+                    "che lui avesse inserito",
+                    "che lei avesse inserito",
+                    "che egli avesse inserito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "incorporavissēmus",
+                "traduzioni": [
+                    "che noi avessimo incorporato",
+                    "che noi avessimo inserito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "incorporavissētis",
+                "traduzioni": [
+                    "che voi aveste incorporato",
+                    "che voi aveste inserito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "incorporavissent",
+                "traduzioni": [
+                    "che loro avessero incorporato",
+                    "che essi avessero incorporato",
+                    "che loro avessero inserito",
+                    "che essi avessero inserito"
+                ]
+            }
+        ]
+    }
+}

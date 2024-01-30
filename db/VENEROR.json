@@ -1,0 +1,642 @@
+{
+    "identifier": "VENEROR",
+    "conuigazione": "1",
+    "translation": [
+        "decorare",
+        "abbellire"
+    ],
+    "valid_translations": [
+        "decorare",
+        "abbellire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "vĕnĕror",
+                "traduzioni": [
+                    "io decoro",
+                    "io abbellisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vĕnĕrāris, vĕnĕrāre",
+                "traduzioni": [
+                    "tu decori",
+                    "tu abbellisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vĕnĕrātur",
+                "traduzioni": [
+                    "lui decora",
+                    "lei decora",
+                    "egli decora",
+                    "lui abbellisce",
+                    "lei abbellisce",
+                    "egli abbellisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vĕnĕrāmur",
+                "traduzioni": [
+                    "noi decoriamo",
+                    "noi abbelliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vĕnĕramĭni",
+                "traduzioni": [
+                    "voi decorate",
+                    "voi abbellite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vĕnĕrantur",
+                "traduzioni": [
+                    "loro decorano",
+                    "essi decorano",
+                    "loro abbelliscono",
+                    "essi abbelliscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "vĕnĕrābar",
+                "traduzioni": [
+                    "io decoravo",
+                    "io abbellivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vĕnĕrabāris, vĕnĕrabāre",
+                "traduzioni": [
+                    "tu decoravi",
+                    "tu abbellivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vĕnĕrabātur",
+                "traduzioni": [
+                    "lui decorava",
+                    "lei decorava",
+                    "egli decorava",
+                    "lui abbelliva",
+                    "lei abbelliva",
+                    "egli abbelliva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vĕnĕrabāmur",
+                "traduzioni": [
+                    "noi decoravamo",
+                    "noi abbellivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vĕnĕrabamĭni",
+                "traduzioni": [
+                    "voi decoravate",
+                    "voi abbellivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vĕnĕrabantur",
+                "traduzioni": [
+                    "loro decoravano",
+                    "essi decoravano",
+                    "loro abbellivano",
+                    "essi abbellivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "vĕnĕrābor",
+                "traduzioni": [
+                    "io decorerò",
+                    "io abbellirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vĕnĕrabĕris, vĕnĕrabĕre",
+                "traduzioni": [
+                    "tu decorerai",
+                    "tu abbellirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vĕnĕrabĭtur",
+                "traduzioni": [
+                    "lui decorerà",
+                    "lei decorerà",
+                    "egli decorerà",
+                    "lui abbellirà",
+                    "lei abbellirà",
+                    "egli abbellirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vĕnĕrabĭmur",
+                "traduzioni": [
+                    "noi decoreremo",
+                    "noi abbelliremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vĕnĕrabimĭni",
+                "traduzioni": [
+                    "voi decorerete",
+                    "voi abbellirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vĕnĕrabuntur",
+                "traduzioni": [
+                    "loro decoreranno",
+                    "essi decoreranno",
+                    "loro abbelliranno",
+                    "essi abbelliranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "veneratus, –a, –um  sum",
+                "traduzioni": [
+                    "io decorai",
+                    "io ho decorato",
+                    "io ebbi decorato",
+                    "io abbellii",
+                    "io sono abbellito",
+                    "io sono abbellita",
+                    "io fui abbellito",
+                    "io fui abbellita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "veneratus, –a, –um  es",
+                "traduzioni": [
+                    "tu decorasti",
+                    "tu hai decorato",
+                    "tu avesti decorato",
+                    "tu abbellisti",
+                    "tu sei abbellito",
+                    "tu sei abbellita",
+                    "tu fosti abbellito",
+                    "tu fosti abbellita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "veneratus, –a, –um  est",
+                "traduzioni": [
+                    "lui decorò",
+                    "lei decorò",
+                    "egli decorò",
+                    "lui ha decorato",
+                    "lei ha decorato",
+                    "egli ha decorato",
+                    "lui ebbe decorato",
+                    "lei ebbe decorato",
+                    "egli ebbe decorato",
+                    "lui abbellì",
+                    "lei abbellì",
+                    "egli abbellì",
+                    "lui è abbellito",
+                    "lei è abbellita",
+                    "egli è abbellito",
+                    "lui fu abbellito",
+                    "lei fu abbellita",
+                    "egli fu abbellito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "venerati, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi decorammo",
+                    "noi abbiamo decorato",
+                    "noi avemmo decorato",
+                    "noi abbellimmo",
+                    "noi siamo abbelliti",
+                    "noi siamo abbellite",
+                    "noi fummo abbelliti",
+                    "noi fummo abbellite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "venerati, –ae, –a  estis",
+                "traduzioni": [
+                    "voi decoraste",
+                    "voi avete decorato",
+                    "voi aveste decorato",
+                    "voi abbelliste",
+                    "voi siete abbelliti",
+                    "voi siete abbellite",
+                    "voi foste abbelliti",
+                    "voi foste abbellite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "venerati, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro decorarono",
+                    "essi decorarono",
+                    "loro hanno decorato",
+                    "essi hanno decorato",
+                    "loro ebbero decorato",
+                    "essi ebbero decorato",
+                    "loro abbellirono",
+                    "essi abbellirono",
+                    "loro sono abbelliti",
+                    "loro sono abbellite",
+                    "essi sono abbelliti",
+                    "loro furono abbelliti",
+                    "loro furono abbellite",
+                    "essi furono abbelliti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "veneratus, –a, –um  eram",
+                "traduzioni": [
+                    "io avevo decorato",
+                    "io ero abbellito",
+                    "io ero abbellita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "veneratus, –a, –um  eras",
+                "traduzioni": [
+                    "tu avevi decorato",
+                    "tu eri abbellito",
+                    "tu eri abbellita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "veneratus, –a, –um  erat",
+                "traduzioni": [
+                    "lui aveva decorato",
+                    "lei aveva decorato",
+                    "egli aveva decorato",
+                    "lui era abbellito",
+                    "lei era abbellita",
+                    "egli era abbellito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "venerati, –ae, –a  eramus",
+                "traduzioni": [
+                    "noi avevamo decorato",
+                    "noi eravamo abbelliti",
+                    "noi eravamo abbellite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "venerati, –ae, –a  eratis",
+                "traduzioni": [
+                    "voi avevate decorato",
+                    "voi eravate abbelliti",
+                    "voi eravate abbellite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "venerati, –ae, –a  erant",
+                "traduzioni": [
+                    "loro avevano decorato",
+                    "essi avevano decorato",
+                    "loro erano abbelliti",
+                    "loro erano abbellite",
+                    "essi erano abbelliti"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "veneratus, –a, –um  ero",
+                "traduzioni": [
+                    "io avrò decorato",
+                    "io sarò abbellito",
+                    "io sarò abbellita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "veneratus, –a, –um  eris",
+                "traduzioni": [
+                    "tu avrai decorato",
+                    "tu sarai abbellito",
+                    "tu sarai abbellita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "veneratus, –a, –um  erit",
+                "traduzioni": [
+                    "lui avrà decorato",
+                    "lei avrà decorato",
+                    "egli avrà decorato",
+                    "lui sarà abbellito",
+                    "lei sarà abbellita",
+                    "egli sarà abbellito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "venerati, –ae, –a  erimus",
+                "traduzioni": [
+                    "noi avremo decorato",
+                    "noi saremo abbelliti",
+                    "noi saremo abbellite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "venerati, –ae, –a  eritis",
+                "traduzioni": [
+                    "voi avrete decorato",
+                    "voi sarete abbelliti",
+                    "voi sarete abbellite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "venerati, –ae, –a  erunt",
+                "traduzioni": [
+                    "loro avranno decorato",
+                    "essi avranno decorato",
+                    "loro saranno abbelliti",
+                    "loro saranno abbellite",
+                    "essi saranno abbelliti"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "vĕnĕrer",
+                "traduzioni": [
+                    "che io decori",
+                    "che io abbellisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vĕnĕrēris, vĕnĕrēre",
+                "traduzioni": [
+                    "che tu decori",
+                    "che tu abbellisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vĕnĕrētur",
+                "traduzioni": [
+                    "che lui decori",
+                    "che lei decori",
+                    "che egli decori",
+                    "che lui abbellisca",
+                    "che lei abbellisca",
+                    "che egli abbellisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vĕnĕrēmur",
+                "traduzioni": [
+                    "che noi decoriamo",
+                    "che noi abbelliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vĕnĕremĭni",
+                "traduzioni": [
+                    "che voi decoriate",
+                    "che voi abbelliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vĕnĕrentur",
+                "traduzioni": [
+                    "che loro decorino",
+                    "che essi decorino",
+                    "che loro abbelliscano",
+                    "che essi abbelliscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "vĕnĕrārer",
+                "traduzioni": [
+                    "che io decorassi",
+                    "che io abbellissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "vĕnĕrarēris, vĕnĕrarēre",
+                "traduzioni": [
+                    "che tu decorassi",
+                    "che tu abbellissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "vĕnĕrarētur",
+                "traduzioni": [
+                    "che lui decorasse",
+                    "che lei decorasse",
+                    "che egli decorasse",
+                    "che lui abbellisse",
+                    "che lei abbellisse",
+                    "che egli abbellisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "vĕnĕrarēmur",
+                "traduzioni": [
+                    "che noi decorassimo",
+                    "che noi abbellissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "vĕnĕraremĭni",
+                "traduzioni": [
+                    "che voi decoraste",
+                    "che voi abbelliste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "vĕnĕrarentur",
+                "traduzioni": [
+                    "che loro decorassero",
+                    "che essi decorassero",
+                    "che loro abbellissero",
+                    "che essi abbellissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "veneratus, –a, –um  sim",
+                "traduzioni": [
+                    "che io abbia decorato",
+                    "che io sia abbellito",
+                    "che io sia abbellita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "veneratus, –a, –um  sis",
+                "traduzioni": [
+                    "che tu abbia decorato",
+                    "che tu sia abbellito",
+                    "che tu sia abbellita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "veneratus, –a, –um  sit",
+                "traduzioni": [
+                    "che lui abbia decorato",
+                    "che lei abbia decorato",
+                    "che egli abbia decorato",
+                    "che lui sia abbellito",
+                    "che lei sia abbellita",
+                    "che egli sia abbellito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "venerati, –ae, –a  simus",
+                "traduzioni": [
+                    "che noi abbiamo decorato",
+                    "che noi siamo abbelliti",
+                    "che noi siamo abbellite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "venerati, –ae, –a  sitis",
+                "traduzioni": [
+                    "che voi abbiate decorato",
+                    "che voi siate abbelliti",
+                    "che voi siate abbellite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "venerati, –ae, –a  sint",
+                "traduzioni": [
+                    "che loro abbiano decorato",
+                    "che essi abbiano decorato",
+                    "che loro siano abbelliti",
+                    "che loro siano abbellite",
+                    "che essi siano abbelliti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "veneratus, –a, –um  essem",
+                "traduzioni": [
+                    "che io avessi decorato",
+                    "che io fossi abbellito",
+                    "che io fossi abbellita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "veneratus, –a, –um  esses",
+                "traduzioni": [
+                    "che tu avessi decorato",
+                    "che tu fossi abbellito",
+                    "che tu fossi abbellita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "veneratus, –a, –um  esset",
+                "traduzioni": [
+                    "che lui avesse decorato",
+                    "che lei avesse decorato",
+                    "che egli avesse decorato",
+                    "che lui fosse abbellito",
+                    "che lei fosse abbellita",
+                    "che egli fosse abbellito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "venerati, –ae, –a  essemus",
+                "traduzioni": [
+                    "che noi avessimo decorato",
+                    "che noi fossimo abbelliti",
+                    "che noi fossimo abbellite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "venerati, –ae, –a  essetis",
+                "traduzioni": [
+                    "che voi aveste decorato",
+                    "che voi foste abbelliti",
+                    "che voi foste abbellite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "venerati, –ae, –a  essent",
+                "traduzioni": [
+                    "che loro avessero decorato",
+                    "che essi avessero decorato",
+                    "che loro fossero abbelliti",
+                    "che loro fossero abbellite",
+                    "che essi fossero abbelliti"
+                ]
+            }
+        ]
+    }
+}

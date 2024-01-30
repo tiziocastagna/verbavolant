@@ -1,0 +1,612 @@
+{
+    "identifier": "PECCO",
+    "conuigazione": "1",
+    "translation": [
+        "peccare",
+        "sbagliare"
+    ],
+    "valid_translations": [
+        "peccare",
+        "sbagliare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pecco",
+                "traduzioni": [
+                    "io pecco",
+                    "io sbaglio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peccas",
+                "traduzioni": [
+                    "tu pecchi",
+                    "tu sbagli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peccat",
+                "traduzioni": [
+                    "lui pecca",
+                    "lei pecca",
+                    "egli pecca",
+                    "lui sbaglia",
+                    "lei sbaglia",
+                    "egli sbaglia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peccāmus",
+                "traduzioni": [
+                    "noi pecchiamo",
+                    "noi sbagliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peccātis",
+                "traduzioni": [
+                    "voi peccate",
+                    "voi sbagliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peccant",
+                "traduzioni": [
+                    "loro peccano",
+                    "essi peccano",
+                    "loro sbagliano",
+                    "essi sbagliano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "peccābam",
+                "traduzioni": [
+                    "io peccavo",
+                    "io sbagliavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peccābas",
+                "traduzioni": [
+                    "tu peccavi",
+                    "tu sbagliavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peccābat",
+                "traduzioni": [
+                    "lui peccava",
+                    "lei peccava",
+                    "egli peccava",
+                    "lui sbagliava",
+                    "lei sbagliava",
+                    "egli sbagliava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peccabāmus",
+                "traduzioni": [
+                    "noi peccavamo",
+                    "noi sbagliavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peccabātis",
+                "traduzioni": [
+                    "voi peccavate",
+                    "voi sbagliavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peccābant",
+                "traduzioni": [
+                    "loro peccavano",
+                    "essi peccavano",
+                    "loro sbagliavano",
+                    "essi sbagliavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "peccābo",
+                "traduzioni": [
+                    "io peccherò",
+                    "io sbaglierò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peccābis",
+                "traduzioni": [
+                    "tu peccherai",
+                    "tu sbaglierai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peccābit",
+                "traduzioni": [
+                    "lui peccherà",
+                    "lei peccherà",
+                    "egli peccherà",
+                    "lui sbaglierà",
+                    "lei sbaglierà",
+                    "egli sbaglierà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peccabĭmus",
+                "traduzioni": [
+                    "noi peccheremo",
+                    "noi sbaglieremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peccabĭtis",
+                "traduzioni": [
+                    "voi peccherete",
+                    "voi sbaglierete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peccābunt",
+                "traduzioni": [
+                    "loro peccheranno",
+                    "essi peccheranno",
+                    "loro sbaglieranno",
+                    "essi sbaglieranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "peccavi",
+                "traduzioni": [
+                    "io peccai",
+                    "io ho peccato",
+                    "io ebbi peccato",
+                    "io sbagliai",
+                    "io ho sbagliato",
+                    "io ebbi sbagliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peccavisti",
+                "traduzioni": [
+                    "tu peccasti",
+                    "tu hai peccato",
+                    "tu avesti peccato",
+                    "tu sbagliasti",
+                    "tu hai sbagliato",
+                    "tu avesti sbagliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peccavit",
+                "traduzioni": [
+                    "lui peccò",
+                    "lei peccò",
+                    "egli peccò",
+                    "lui ha peccato",
+                    "lei ha peccato",
+                    "egli ha peccato",
+                    "lui ebbe peccato",
+                    "lei ebbe peccato",
+                    "egli ebbe peccato",
+                    "lui sbagliò",
+                    "lei sbagliò",
+                    "egli sbagliò",
+                    "lui ha sbagliato",
+                    "lei ha sbagliato",
+                    "egli ha sbagliato",
+                    "lui ebbe sbagliato",
+                    "lei ebbe sbagliato",
+                    "egli ebbe sbagliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peccavĭmus",
+                "traduzioni": [
+                    "noi peccammo",
+                    "noi abbiamo peccato",
+                    "noi avemmo peccato",
+                    "noi sbagliammo",
+                    "noi abbiamo sbagliato",
+                    "noi avemmo sbagliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peccavistis",
+                "traduzioni": [
+                    "voi peccaste",
+                    "voi avete peccato",
+                    "voi aveste peccato",
+                    "voi sbagliaste",
+                    "voi avete sbagliato",
+                    "voi aveste sbagliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peccavērunt, peccavēre",
+                "traduzioni": [
+                    "loro peccarono",
+                    "essi peccarono",
+                    "loro hanno peccato",
+                    "essi hanno peccato",
+                    "loro ebbero peccato",
+                    "essi ebbero peccato",
+                    "loro sbagliarono",
+                    "essi sbagliarono",
+                    "loro hanno sbagliato",
+                    "essi hanno sbagliato",
+                    "loro ebbero sbagliato",
+                    "essi ebbero sbagliato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "peccavĕram",
+                "traduzioni": [
+                    "io avevo peccato",
+                    "io avevo sbagliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peccavĕras",
+                "traduzioni": [
+                    "tu avevi peccato",
+                    "tu avevi sbagliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peccavĕrat",
+                "traduzioni": [
+                    "lui aveva peccato",
+                    "lei aveva peccato",
+                    "egli aveva peccato",
+                    "lui aveva sbagliato",
+                    "lei aveva sbagliato",
+                    "egli aveva sbagliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peccaverāmus",
+                "traduzioni": [
+                    "noi avevamo peccato",
+                    "noi avevamo sbagliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peccaverātis",
+                "traduzioni": [
+                    "voi avevate peccato",
+                    "voi avevate sbagliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peccavĕrant",
+                "traduzioni": [
+                    "loro avevano peccato",
+                    "essi avevano peccato",
+                    "loro avevano sbagliato",
+                    "essi avevano sbagliato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "peccavĕro, peccasso",
+                "traduzioni": [
+                    "io avrò peccato",
+                    "io avrò sbagliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peccavĕris",
+                "traduzioni": [
+                    "tu avrai peccato",
+                    "tu avrai sbagliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peccavĕrit",
+                "traduzioni": [
+                    "lui avrà peccato",
+                    "lei avrà peccato",
+                    "egli avrà peccato",
+                    "lui avrà sbagliato",
+                    "lei avrà sbagliato",
+                    "egli avrà sbagliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peccaverĭmus",
+                "traduzioni": [
+                    "noi avremo peccato",
+                    "noi avremo sbagliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peccaverĭtis",
+                "traduzioni": [
+                    "voi avrete peccato",
+                    "voi avrete sbagliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peccavĕrint",
+                "traduzioni": [
+                    "loro avranno peccato",
+                    "essi avranno peccato",
+                    "loro avranno sbagliato",
+                    "essi avranno sbagliato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "peccem",
+                "traduzioni": [
+                    "che io pecchi",
+                    "che io sbagli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pecces",
+                "traduzioni": [
+                    "che tu pecchi",
+                    "che tu sbagli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peccet",
+                "traduzioni": [
+                    "che lui pecchi",
+                    "che lei pecchi",
+                    "che egli pecchi",
+                    "che lui sbagli",
+                    "che lei sbagli",
+                    "che egli sbagli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peccēmus",
+                "traduzioni": [
+                    "che noi pecchiamo",
+                    "che noi sbagliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peccētis",
+                "traduzioni": [
+                    "che voi pecchiate",
+                    "che voi sbagliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peccent",
+                "traduzioni": [
+                    "che loro pecchino",
+                    "che essi pecchino",
+                    "che loro sbaglino",
+                    "che essi sbaglino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "peccārem",
+                "traduzioni": [
+                    "che io peccassi",
+                    "che io sbagliassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peccāres",
+                "traduzioni": [
+                    "che tu peccassi",
+                    "che tu sbagliassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peccāret",
+                "traduzioni": [
+                    "che lui peccasse",
+                    "che lei peccasse",
+                    "che egli peccasse",
+                    "che lui sbagliasse",
+                    "che lei sbagliasse",
+                    "che egli sbagliasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peccarēmus",
+                "traduzioni": [
+                    "che noi peccassimo",
+                    "che noi sbagliassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peccarētis",
+                "traduzioni": [
+                    "che voi peccaste",
+                    "che voi sbagliaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peccārent",
+                "traduzioni": [
+                    "che loro peccassero",
+                    "che essi peccassero",
+                    "che loro sbagliassero",
+                    "che essi sbagliassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "peccavĕrim",
+                "traduzioni": [
+                    "che io abbia peccato",
+                    "che io abbia sbagliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peccavĕris",
+                "traduzioni": [
+                    "che tu abbia peccato",
+                    "che tu abbia sbagliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peccavĕrit",
+                "traduzioni": [
+                    "che lui abbia peccato",
+                    "che lei abbia peccato",
+                    "che egli abbia peccato",
+                    "che lui abbia sbagliato",
+                    "che lei abbia sbagliato",
+                    "che egli abbia sbagliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peccaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo peccato",
+                    "che noi abbiamo sbagliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peccaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate peccato",
+                    "che voi abbiate sbagliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peccavĕrint",
+                "traduzioni": [
+                    "che loro abbiano peccato",
+                    "che essi abbiano peccato",
+                    "che loro abbiano sbagliato",
+                    "che essi abbiano sbagliato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "peccavissem",
+                "traduzioni": [
+                    "che io avessi peccato",
+                    "che io avessi sbagliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "peccavisses",
+                "traduzioni": [
+                    "che tu avessi peccato",
+                    "che tu avessi sbagliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "peccavisset",
+                "traduzioni": [
+                    "che lui avesse peccato",
+                    "che lei avesse peccato",
+                    "che egli avesse peccato",
+                    "che lui avesse sbagliato",
+                    "che lei avesse sbagliato",
+                    "che egli avesse sbagliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "peccavissēmus",
+                "traduzioni": [
+                    "che noi avessimo peccato",
+                    "che noi avessimo sbagliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "peccavissētis",
+                "traduzioni": [
+                    "che voi aveste peccato",
+                    "che voi aveste sbagliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "peccavissent",
+                "traduzioni": [
+                    "che loro avessero peccato",
+                    "che essi avessero peccato",
+                    "che loro avessero sbagliato",
+                    "che essi avessero sbagliato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,675 @@
+{
+    "identifier": "CONFLAGRO",
+    "conuigazione": "1",
+    "translation": [
+        "(intransitivo) bruciare",
+        "ardere",
+        "(transitivo) infiammare",
+        "bruciare"
+    ],
+    "valid_translations": [
+        "ardere",
+        "bruciare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conflăgro",
+                "traduzioni": [
+                    "io ardo",
+                    "io brucio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conflăgras",
+                "traduzioni": [
+                    "tu ardi",
+                    "tu bruci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conflăgrat",
+                "traduzioni": [
+                    "lui arde",
+                    "lei arde",
+                    "egli arde",
+                    "lui brucia",
+                    "lei brucia",
+                    "egli brucia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conflăgrāmus",
+                "traduzioni": [
+                    "noi ardiamo",
+                    "noi bruciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conflăgrātis",
+                "traduzioni": [
+                    "voi ardete",
+                    "voi bruciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conflăgrant",
+                "traduzioni": [
+                    "loro ardono",
+                    "essi ardono",
+                    "loro bruciano",
+                    "essi bruciano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conflăgrābam",
+                "traduzioni": [
+                    "io ardevo",
+                    "io bruciavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conflăgrābas",
+                "traduzioni": [
+                    "tu ardevi",
+                    "tu bruciavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conflăgrābat",
+                "traduzioni": [
+                    "lui ardeva",
+                    "lei ardeva",
+                    "egli ardeva",
+                    "lui bruciava",
+                    "lei bruciava",
+                    "egli bruciava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conflăgrabāmus",
+                "traduzioni": [
+                    "noi ardevamo",
+                    "noi bruciavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conflăgrabātis",
+                "traduzioni": [
+                    "voi ardevate",
+                    "voi bruciavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conflăgrābant",
+                "traduzioni": [
+                    "loro ardevano",
+                    "essi ardevano",
+                    "loro bruciavano",
+                    "essi bruciavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conflăgrābo",
+                "traduzioni": [
+                    "io arderò",
+                    "io brucerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conflăgrābis",
+                "traduzioni": [
+                    "tu arderai",
+                    "tu brucerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conflăgrābit",
+                "traduzioni": [
+                    "lui arderà",
+                    "lei arderà",
+                    "egli arderà",
+                    "lui brucerà",
+                    "lei brucerà",
+                    "egli brucerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conflăgrabĭmus",
+                "traduzioni": [
+                    "noi arderemo",
+                    "noi bruceremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conflăgrabĭtis",
+                "traduzioni": [
+                    "voi arderete",
+                    "voi brucerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conflăgrābunt",
+                "traduzioni": [
+                    "loro arderanno",
+                    "essi arderanno",
+                    "loro bruceranno",
+                    "essi bruceranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conflagravi",
+                "traduzioni": [
+                    "io arsi",
+                    "io arse",
+                    "io sono arso",
+                    "io sono arsa",
+                    "io fui arso",
+                    "io fui arsa",
+                    "io bruciai",
+                    "io sono bruciato",
+                    "io sono bruciata",
+                    "io fui bruciato",
+                    "io fui bruciata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conflagravisti",
+                "traduzioni": [
+                    "tu ardesti",
+                    "tu sei arso",
+                    "tu sei arsa",
+                    "tu fosti arso",
+                    "tu fosti arsa",
+                    "tu bruciasti",
+                    "tu sei bruciato",
+                    "tu sei bruciata",
+                    "tu fosti bruciato",
+                    "tu fosti bruciata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conflagravit",
+                "traduzioni": [
+                    "lui arse",
+                    "lei arse",
+                    "egli arse",
+                    "lui è arso",
+                    "lei è arsa",
+                    "egli è arso",
+                    "lui fu arso",
+                    "lei fu arsa",
+                    "egli fu arso",
+                    "lui bruciò",
+                    "lei bruciò",
+                    "egli bruciò",
+                    "lui è bruciato",
+                    "lei è bruciata",
+                    "egli è bruciato",
+                    "lui fu bruciato",
+                    "lei fu bruciata",
+                    "egli fu bruciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conflagravĭmus",
+                "traduzioni": [
+                    "noi ardemmo",
+                    "noi siamo arsi",
+                    "noi siamo arse",
+                    "noi fummo arsi",
+                    "noi fummo arse",
+                    "noi bruciammo",
+                    "noi siamo bruciati",
+                    "noi siamo bruciate",
+                    "noi fummo bruciati",
+                    "noi fummo bruciate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conflagravistis",
+                "traduzioni": [
+                    "voi ardeste",
+                    "voi siete arsi",
+                    "voi siete arse",
+                    "voi foste arsi",
+                    "voi foste arse",
+                    "voi bruciaste",
+                    "voi siete bruciati",
+                    "voi siete bruciate",
+                    "voi foste bruciati",
+                    "voi foste bruciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conflagravēreunt, conflagravēre",
+                "traduzioni": [
+                    "loro arsero",
+                    "essi arsero",
+                    "loro sono arsi",
+                    "loro sono arse",
+                    "essi sono arsi",
+                    "loro furono arsi",
+                    "loro furono arse",
+                    "essi furono arsi",
+                    "loro bruciarono",
+                    "essi bruciarono",
+                    "loro sono bruciati",
+                    "loro sono bruciate",
+                    "essi sono bruciati",
+                    "loro furono bruciati",
+                    "loro furono bruciate",
+                    "essi furono bruciati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conflagravĕram",
+                "traduzioni": [
+                    "io ero arso",
+                    "io ero arsa",
+                    "io ero bruciato",
+                    "io ero bruciata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conflagravĕras",
+                "traduzioni": [
+                    "tu eri arso",
+                    "tu eri arsa",
+                    "tu eri bruciato",
+                    "tu eri bruciata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conflagravĕrat",
+                "traduzioni": [
+                    "lui era arso",
+                    "lei era arsa",
+                    "egli era arso",
+                    "lui era bruciato",
+                    "lei era bruciata",
+                    "egli era bruciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conflagraverāmus",
+                "traduzioni": [
+                    "noi eravamo arsi",
+                    "noi eravamo arse",
+                    "noi eravamo bruciati",
+                    "noi eravamo bruciate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conflagraverātis",
+                "traduzioni": [
+                    "voi eravate arsi",
+                    "voi eravate arse",
+                    "voi eravate bruciati",
+                    "voi eravate bruciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conflagravĕrant",
+                "traduzioni": [
+                    "loro erano arsi",
+                    "loro erano arse",
+                    "essi erano arsi",
+                    "loro erano bruciati",
+                    "loro erano bruciate",
+                    "essi erano bruciati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conflagravĕro",
+                "traduzioni": [
+                    "io sarò arso",
+                    "io sarò arsa",
+                    "io sarò bruciato",
+                    "io sarò bruciata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conflagravĕris",
+                "traduzioni": [
+                    "tu sarai arso",
+                    "tu sarai arsa",
+                    "tu sarai bruciato",
+                    "tu sarai bruciata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conflagravĕrit",
+                "traduzioni": [
+                    "lui sarà arso",
+                    "lei sarà arsa",
+                    "egli sarà arso",
+                    "lui sarà bruciato",
+                    "lei sarà bruciata",
+                    "egli sarà bruciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conflagraverĭmus",
+                "traduzioni": [
+                    "noi saremo arsi",
+                    "noi saremo arse",
+                    "noi saremo bruciati",
+                    "noi saremo bruciate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conflagraverĭtis",
+                "traduzioni": [
+                    "voi sarete arsi",
+                    "voi sarete arse",
+                    "voi sarete bruciati",
+                    "voi sarete bruciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conflagravĕrint",
+                "traduzioni": [
+                    "loro saranno arsi",
+                    "loro saranno arse",
+                    "essi saranno arsi",
+                    "loro saranno bruciati",
+                    "loro saranno bruciate",
+                    "essi saranno bruciati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conflăgrem",
+                "traduzioni": [
+                    "che io arda",
+                    "che io bruci"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conflăgres",
+                "traduzioni": [
+                    "che tu arda",
+                    "che tu bruci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conflăgret",
+                "traduzioni": [
+                    "che lui arda",
+                    "che lei arda",
+                    "che egli arda",
+                    "che lui bruci",
+                    "che lei bruci",
+                    "che egli bruci"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conflăgrēmus",
+                "traduzioni": [
+                    "che noi ardiamo",
+                    "che noi bruciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conflăgrētis",
+                "traduzioni": [
+                    "che voi ardiate",
+                    "che voi bruciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conflăgrent",
+                "traduzioni": [
+                    "che loro ardano",
+                    "che essi ardano",
+                    "che loro brucino",
+                    "che essi brucino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conflăgrārem",
+                "traduzioni": [
+                    "che io ardessi",
+                    "che io bruciassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conflăgrāres",
+                "traduzioni": [
+                    "che tu ardessi",
+                    "che tu bruciassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conflăgrāret",
+                "traduzioni": [
+                    "che lui ardesse",
+                    "che lei ardesse",
+                    "che egli ardesse",
+                    "che lui bruciasse",
+                    "che lei bruciasse",
+                    "che egli bruciasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conflăgrarēmus",
+                "traduzioni": [
+                    "che noi ardessimo",
+                    "che noi bruciassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conflăgrarētis",
+                "traduzioni": [
+                    "che voi ardeste",
+                    "che voi bruciaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conflăgrārent",
+                "traduzioni": [
+                    "che loro ardessero",
+                    "che essi ardessero",
+                    "che loro bruciassero",
+                    "che essi bruciassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conflagravĕrim",
+                "traduzioni": [
+                    "che io sia arso",
+                    "che io sia arsa",
+                    "che io sia bruciato",
+                    "che io sia bruciata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conflagravĕris",
+                "traduzioni": [
+                    "che tu sia arso",
+                    "che tu sia arsa",
+                    "che tu sia bruciato",
+                    "che tu sia bruciata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conflagravĕrit",
+                "traduzioni": [
+                    "che lui sia arso",
+                    "che lei sia arsa",
+                    "che egli sia arso",
+                    "che lui sia bruciato",
+                    "che lei sia bruciata",
+                    "che egli sia bruciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conflagraverĭmus",
+                "traduzioni": [
+                    "che noi siamo arsi",
+                    "che noi siamo arse",
+                    "che noi siamo bruciati",
+                    "che noi siamo bruciate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conflagraverĭtis",
+                "traduzioni": [
+                    "che voi siate arsi",
+                    "che voi siate arse",
+                    "che voi siate bruciati",
+                    "che voi siate bruciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conflagravĕrint",
+                "traduzioni": [
+                    "che loro siano arsi",
+                    "che loro siano arse",
+                    "che essi siano arsi",
+                    "che loro siano bruciati",
+                    "che loro siano bruciate",
+                    "che essi siano bruciati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conflagravissem",
+                "traduzioni": [
+                    "che io fossi arso",
+                    "che io fossi arsa",
+                    "che io fossi bruciato",
+                    "che io fossi bruciata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conflagravisses",
+                "traduzioni": [
+                    "che tu fossi arso",
+                    "che tu fossi arsa",
+                    "che tu fossi bruciato",
+                    "che tu fossi bruciata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conflagravisset",
+                "traduzioni": [
+                    "che lui fosse arso",
+                    "che lei fosse arsa",
+                    "che egli fosse arso",
+                    "che lui fosse bruciato",
+                    "che lei fosse bruciata",
+                    "che egli fosse bruciato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conflagravissēmus",
+                "traduzioni": [
+                    "che noi fossimo arsi",
+                    "che noi fossimo arse",
+                    "che noi fossimo bruciati",
+                    "che noi fossimo bruciate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conflagravissētis",
+                "traduzioni": [
+                    "che voi foste arsi",
+                    "che voi foste arse",
+                    "che voi foste bruciati",
+                    "che voi foste bruciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conflagravissent",
+                "traduzioni": [
+                    "che loro fossero arsi",
+                    "che loro fossero arse",
+                    "che essi fossero arsi",
+                    "che loro fossero bruciati",
+                    "che loro fossero bruciate",
+                    "che essi fossero bruciati"
+                ]
+            }
+        ]
+    }
+}

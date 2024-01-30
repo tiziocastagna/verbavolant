@@ -1,0 +1,1284 @@
+{
+    "identifier": "DISTURBO",
+    "conuigazione": "1",
+    "translation": [
+        "disperdere",
+        "demolire",
+        "abbattere",
+        "distruggere",
+        "sconvolgere",
+        "sovvertire",
+        "sconquassare",
+        "annullare"
+    ],
+    "valid_translations": [
+        "disperdere",
+        "demolire",
+        "abbattere",
+        "distruggere",
+        "sconvolgere",
+        "sovvertire",
+        "sconquassare",
+        "annullare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "disturbo",
+                "traduzioni": [
+                    "io disperdo",
+                    "io demolisco",
+                    "io abbatto",
+                    "io distruggo",
+                    "io sconvolgo",
+                    "io sovverto",
+                    "io sconquasso",
+                    "io annullo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "disturbas",
+                "traduzioni": [
+                    "tu disperdi",
+                    "tu demolisci",
+                    "tu abbatti",
+                    "tu distruggi",
+                    "tu sconvolgi",
+                    "tu sovverti",
+                    "tu sconquassi",
+                    "tu annulli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "disturbat",
+                "traduzioni": [
+                    "lui disperde",
+                    "lei disperde",
+                    "egli disperde",
+                    "lui demolisce",
+                    "lei demolisce",
+                    "egli demolisce",
+                    "lui abbatte",
+                    "lei abbatte",
+                    "egli abbatte",
+                    "lui distrugge",
+                    "lei distrugge",
+                    "egli distrugge",
+                    "lui sconvolge",
+                    "lei sconvolge",
+                    "egli sconvolge",
+                    "lui sovverte",
+                    "lei sovverte",
+                    "egli sovverte",
+                    "lui sconquassa",
+                    "lei sconquassa",
+                    "egli sconquassa",
+                    "lui annulla",
+                    "lei annulla",
+                    "egli annulla"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "disturbāmus",
+                "traduzioni": [
+                    "noi disperdiamo",
+                    "noi demoliamo",
+                    "noi abbattiamo",
+                    "noi distruggiamo",
+                    "noi sconvolgiamo",
+                    "noi sovvertiamo",
+                    "noi sconquassiamo",
+                    "noi annulliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "disturbātis",
+                "traduzioni": [
+                    "voi disperdete",
+                    "voi demolite",
+                    "voi abbattete",
+                    "voi distruggete",
+                    "voi sconvolgete",
+                    "voi sovvertite",
+                    "voi sconquassate",
+                    "voi annullate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "disturbant",
+                "traduzioni": [
+                    "loro disperdono",
+                    "essi disperdono",
+                    "loro demoliscono",
+                    "essi demoliscono",
+                    "loro abbattono",
+                    "essi abbattono",
+                    "loro distruggono",
+                    "essi distruggono",
+                    "loro sconvolgono",
+                    "essi sconvolgono",
+                    "loro sovvertono",
+                    "essi sovvertono",
+                    "loro sconquassano",
+                    "essi sconquassano",
+                    "loro annullano",
+                    "essi annullano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "disturbābam",
+                "traduzioni": [
+                    "io disperdevo",
+                    "io demolivo",
+                    "io abbattevo",
+                    "io distruggevo",
+                    "io sconvolgevo",
+                    "io sovvertivo",
+                    "io sconquassavo",
+                    "io annullavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "disturbābas",
+                "traduzioni": [
+                    "tu disperdevi",
+                    "tu demolivi",
+                    "tu abbattevi",
+                    "tu distruggevi",
+                    "tu sconvolgevi",
+                    "tu sovvertivi",
+                    "tu sconquassavi",
+                    "tu annullavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "disturbābat",
+                "traduzioni": [
+                    "lui disperdeva",
+                    "lei disperdeva",
+                    "egli disperdeva",
+                    "lui demoliva",
+                    "lei demoliva",
+                    "egli demoliva",
+                    "lui abbatteva",
+                    "lei abbatteva",
+                    "egli abbatteva",
+                    "lui distruggeva",
+                    "lei distruggeva",
+                    "egli distruggeva",
+                    "lui sconvolgeva",
+                    "lei sconvolgeva",
+                    "egli sconvolgeva",
+                    "lui sovvertiva",
+                    "lei sovvertiva",
+                    "egli sovvertiva",
+                    "lui sconquassava",
+                    "lei sconquassava",
+                    "egli sconquassava",
+                    "lui annullava",
+                    "lei annullava",
+                    "egli annullava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "disturbabāmus",
+                "traduzioni": [
+                    "noi disperdevamo",
+                    "noi demolivamo",
+                    "noi abbattevamo",
+                    "noi distruggevamo",
+                    "noi sconvolgevamo",
+                    "noi sovvertivamo",
+                    "noi sconquassavamo",
+                    "noi annullavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "disturbabātis",
+                "traduzioni": [
+                    "voi disperdevate",
+                    "voi demolivate",
+                    "voi abbattevate",
+                    "voi distruggevate",
+                    "voi sconvolgevate",
+                    "voi sovvertivate",
+                    "voi sconquassavate",
+                    "voi annullavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "disturbābant",
+                "traduzioni": [
+                    "loro disperdevano",
+                    "essi disperdevano",
+                    "loro demolivano",
+                    "essi demolivano",
+                    "loro abbattevano",
+                    "essi abbattevano",
+                    "loro distruggevano",
+                    "essi distruggevano",
+                    "loro sconvolgevano",
+                    "essi sconvolgevano",
+                    "loro sovvertivano",
+                    "essi sovvertivano",
+                    "loro sconquassavano",
+                    "essi sconquassavano",
+                    "loro annullavano",
+                    "essi annullavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "disturbābo",
+                "traduzioni": [
+                    "io disperderò",
+                    "io demolirò",
+                    "io abbatterò",
+                    "io distruggerò",
+                    "io sconvolgerò",
+                    "io sovvertirò",
+                    "io sconquasserò",
+                    "io annullerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "disturbābis",
+                "traduzioni": [
+                    "tu disperderai",
+                    "tu demolirai",
+                    "tu abbatterai",
+                    "tu distruggerai",
+                    "tu sconvolgerai",
+                    "tu sovvertirai",
+                    "tu sconquasserai",
+                    "tu annullerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "disturbābit",
+                "traduzioni": [
+                    "lui disperderà",
+                    "lei disperderà",
+                    "egli disperderà",
+                    "lui demolirà",
+                    "lei demolirà",
+                    "egli demolirà",
+                    "lui abbatterà",
+                    "lei abbatterà",
+                    "egli abbatterà",
+                    "lui distruggerà",
+                    "lei distruggerà",
+                    "egli distruggerà",
+                    "lui sconvolgerà",
+                    "lei sconvolgerà",
+                    "egli sconvolgerà",
+                    "lui sovvertirà",
+                    "lei sovvertirà",
+                    "egli sovvertirà",
+                    "lui sconquasserà",
+                    "lei sconquasserà",
+                    "egli sconquasserà",
+                    "lui annullerà",
+                    "lei annullerà",
+                    "egli annullerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "disturbabĭmus",
+                "traduzioni": [
+                    "noi disperderemo",
+                    "noi demoliremo",
+                    "noi abbatteremo",
+                    "noi distruggeremo",
+                    "noi sconvolgeremo",
+                    "noi sovvertiremo",
+                    "noi sconquasseremo",
+                    "noi annulleremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "disturbabĭtis",
+                "traduzioni": [
+                    "voi disperderete",
+                    "voi demolirete",
+                    "voi abbatterete",
+                    "voi distruggerete",
+                    "voi sconvolgerete",
+                    "voi sovvertirete",
+                    "voi sconquasserete",
+                    "voi annullerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "disturbābunt",
+                "traduzioni": [
+                    "loro disperderanno",
+                    "essi disperderanno",
+                    "loro demoliranno",
+                    "essi demoliranno",
+                    "loro abbatteranno",
+                    "essi abbatteranno",
+                    "loro distruggeranno",
+                    "essi distruggeranno",
+                    "loro sconvolgeranno",
+                    "essi sconvolgeranno",
+                    "loro sovvertiranno",
+                    "essi sovvertiranno",
+                    "loro sconquasseranno",
+                    "essi sconquasseranno",
+                    "loro annulleranno",
+                    "essi annulleranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "disturbavi",
+                "traduzioni": [
+                    "io dispersi",
+                    "io disperdei",
+                    "io disperdetti",
+                    "io ho disperso",
+                    "io ebbi disperso",
+                    "io demolii",
+                    "io ho demolito",
+                    "io ebbi demolito",
+                    "io abbattei",
+                    "io ho abbattuto",
+                    "io ebbi abbattuto",
+                    "io distrussi",
+                    "io ho distrutto",
+                    "io ebbi distrutto",
+                    "io sconvolsi",
+                    "io ho sconvolto",
+                    "io ebbi sconvolto",
+                    "io sovvertii",
+                    "io ho sovvertito",
+                    "io ebbi sovvertito",
+                    "io sconquassai",
+                    "io ho sconquassato",
+                    "io ebbi sconquassato",
+                    "io annullai",
+                    "io ho annullato",
+                    "io ebbi annullato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "disturbavisti",
+                "traduzioni": [
+                    "tu disperdesti",
+                    "tu hai disperso",
+                    "tu avesti disperso",
+                    "tu demolisti",
+                    "tu hai demolito",
+                    "tu avesti demolito",
+                    "tu abbattesti",
+                    "tu hai abbattuto",
+                    "tu avesti abbattuto",
+                    "tu distruggesti",
+                    "tu hai distrutto",
+                    "tu avesti distrutto",
+                    "tu sconvolgesti",
+                    "tu hai sconvolto",
+                    "tu avesti sconvolto",
+                    "tu sovvertisti",
+                    "tu hai sovvertito",
+                    "tu avesti sovvertito",
+                    "tu sconquassasti",
+                    "tu hai sconquassato",
+                    "tu avesti sconquassato",
+                    "tu annullasti",
+                    "tu hai annullato",
+                    "tu avesti annullato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "disturbavit",
+                "traduzioni": [
+                    "lui disperse",
+                    "lei disperse",
+                    "egli disperse",
+                    "lui disperdé",
+                    "lei disperdé",
+                    "egli disperdé",
+                    "lui disperdette",
+                    "lei disperdette",
+                    "egli disperdette",
+                    "lui ha disperso",
+                    "lei ha disperso",
+                    "egli ha disperso",
+                    "lui ebbe disperso",
+                    "lei ebbe disperso",
+                    "egli ebbe disperso",
+                    "lui demolì",
+                    "lei demolì",
+                    "egli demolì",
+                    "lui ha demolito",
+                    "lei ha demolito",
+                    "egli ha demolito",
+                    "lui ebbe demolito",
+                    "lei ebbe demolito",
+                    "egli ebbe demolito",
+                    "lui abbatté",
+                    "lei abbatté",
+                    "egli abbatté",
+                    "lui ha abbattuto",
+                    "lei ha abbattuto",
+                    "egli ha abbattuto",
+                    "lui ebbe abbattuto",
+                    "lei ebbe abbattuto",
+                    "egli ebbe abbattuto",
+                    "lui distrusse",
+                    "lei distrusse",
+                    "egli distrusse",
+                    "lui ha distrutto",
+                    "lei ha distrutto",
+                    "egli ha distrutto",
+                    "lui ebbe distrutto",
+                    "lei ebbe distrutto",
+                    "egli ebbe distrutto",
+                    "lui sconvolse",
+                    "lei sconvolse",
+                    "egli sconvolse",
+                    "lui ha sconvolto",
+                    "lei ha sconvolto",
+                    "egli ha sconvolto",
+                    "lui ebbe sconvolto",
+                    "lei ebbe sconvolto",
+                    "egli ebbe sconvolto",
+                    "lui sovvertì",
+                    "lei sovvertì",
+                    "egli sovvertì",
+                    "lui ha sovvertito",
+                    "lei ha sovvertito",
+                    "egli ha sovvertito",
+                    "lui ebbe sovvertito",
+                    "lei ebbe sovvertito",
+                    "egli ebbe sovvertito",
+                    "lui sconquassò",
+                    "lei sconquassò",
+                    "egli sconquassò",
+                    "lui ha sconquassato",
+                    "lei ha sconquassato",
+                    "egli ha sconquassato",
+                    "lui ebbe sconquassato",
+                    "lei ebbe sconquassato",
+                    "egli ebbe sconquassato",
+                    "lui annullò",
+                    "lei annullò",
+                    "egli annullò",
+                    "lui ha annullato",
+                    "lei ha annullato",
+                    "egli ha annullato",
+                    "lui ebbe annullato",
+                    "lei ebbe annullato",
+                    "egli ebbe annullato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "disturbavĭmus",
+                "traduzioni": [
+                    "noi disperdemmo",
+                    "noi abbiamo disperso",
+                    "noi avemmo disperso",
+                    "noi demolimmo",
+                    "noi abbiamo demolito",
+                    "noi avemmo demolito",
+                    "noi abbattemmo",
+                    "noi abbiamo abbattuto",
+                    "noi avemmo abbattuto",
+                    "noi distruggemmo",
+                    "noi abbiamo distrutto",
+                    "noi avemmo distrutto",
+                    "noi sconvolgemmo",
+                    "noi abbiamo sconvolto",
+                    "noi avemmo sconvolto",
+                    "noi sovvertimmo",
+                    "noi abbiamo sovvertito",
+                    "noi avemmo sovvertito",
+                    "noi sconquassammo",
+                    "noi abbiamo sconquassato",
+                    "noi avemmo sconquassato",
+                    "noi annullammo",
+                    "noi abbiamo annullato",
+                    "noi avemmo annullato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "disturbavistis",
+                "traduzioni": [
+                    "voi disperdeste",
+                    "voi avete disperso",
+                    "voi aveste disperso",
+                    "voi demoliste",
+                    "voi avete demolito",
+                    "voi aveste demolito",
+                    "voi abbatteste",
+                    "voi avete abbattuto",
+                    "voi aveste abbattuto",
+                    "voi distruggeste",
+                    "voi avete distrutto",
+                    "voi aveste distrutto",
+                    "voi sconvolgeste",
+                    "voi avete sconvolto",
+                    "voi aveste sconvolto",
+                    "voi sovvertiste",
+                    "voi avete sovvertito",
+                    "voi aveste sovvertito",
+                    "voi sconquassaste",
+                    "voi avete sconquassato",
+                    "voi aveste sconquassato",
+                    "voi annullaste",
+                    "voi avete annullato",
+                    "voi aveste annullato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "disturbavērunt, disturbavēre",
+                "traduzioni": [
+                    "loro dispersero",
+                    "essi dispersero",
+                    "loro disperderono",
+                    "essi disperderono",
+                    "loro disperdettero",
+                    "essi disperdettero",
+                    "loro hanno disperso",
+                    "essi hanno disperso",
+                    "loro ebbero disperso",
+                    "essi ebbero disperso",
+                    "loro demolirono",
+                    "essi demolirono",
+                    "loro hanno demolito",
+                    "essi hanno demolito",
+                    "loro ebbero demolito",
+                    "essi ebbero demolito",
+                    "loro abbatterono",
+                    "essi abbatterono",
+                    "loro hanno abbattuto",
+                    "essi hanno abbattuto",
+                    "loro ebbero abbattuto",
+                    "essi ebbero abbattuto",
+                    "loro distrussero",
+                    "essi distrussero",
+                    "loro hanno distrutto",
+                    "essi hanno distrutto",
+                    "loro ebbero distrutto",
+                    "essi ebbero distrutto",
+                    "loro sconvolsero",
+                    "essi sconvolsero",
+                    "loro hanno sconvolto",
+                    "essi hanno sconvolto",
+                    "loro ebbero sconvolto",
+                    "essi ebbero sconvolto",
+                    "loro sovvertirono",
+                    "essi sovvertirono",
+                    "loro hanno sovvertito",
+                    "essi hanno sovvertito",
+                    "loro ebbero sovvertito",
+                    "essi ebbero sovvertito",
+                    "loro sconquassarono",
+                    "essi sconquassarono",
+                    "loro hanno sconquassato",
+                    "essi hanno sconquassato",
+                    "loro ebbero sconquassato",
+                    "essi ebbero sconquassato",
+                    "loro annullarono",
+                    "essi annullarono",
+                    "loro hanno annullato",
+                    "essi hanno annullato",
+                    "loro ebbero annullato",
+                    "essi ebbero annullato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "disturbavĕram",
+                "traduzioni": [
+                    "io avevo disperso",
+                    "io avevo demolito",
+                    "io avevo abbattuto",
+                    "io avevo distrutto",
+                    "io avevo sconvolto",
+                    "io avevo sovvertito",
+                    "io avevo sconquassato",
+                    "io avevo annullato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "disturbavĕras",
+                "traduzioni": [
+                    "tu avevi disperso",
+                    "tu avevi demolito",
+                    "tu avevi abbattuto",
+                    "tu avevi distrutto",
+                    "tu avevi sconvolto",
+                    "tu avevi sovvertito",
+                    "tu avevi sconquassato",
+                    "tu avevi annullato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "disturbavĕrat",
+                "traduzioni": [
+                    "lui aveva disperso",
+                    "lei aveva disperso",
+                    "egli aveva disperso",
+                    "lui aveva demolito",
+                    "lei aveva demolito",
+                    "egli aveva demolito",
+                    "lui aveva abbattuto",
+                    "lei aveva abbattuto",
+                    "egli aveva abbattuto",
+                    "lui aveva distrutto",
+                    "lei aveva distrutto",
+                    "egli aveva distrutto",
+                    "lui aveva sconvolto",
+                    "lei aveva sconvolto",
+                    "egli aveva sconvolto",
+                    "lui aveva sovvertito",
+                    "lei aveva sovvertito",
+                    "egli aveva sovvertito",
+                    "lui aveva sconquassato",
+                    "lei aveva sconquassato",
+                    "egli aveva sconquassato",
+                    "lui aveva annullato",
+                    "lei aveva annullato",
+                    "egli aveva annullato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "disturbaverāmus",
+                "traduzioni": [
+                    "noi avevamo disperso",
+                    "noi avevamo demolito",
+                    "noi avevamo abbattuto",
+                    "noi avevamo distrutto",
+                    "noi avevamo sconvolto",
+                    "noi avevamo sovvertito",
+                    "noi avevamo sconquassato",
+                    "noi avevamo annullato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "disturbaverātis",
+                "traduzioni": [
+                    "voi avevate disperso",
+                    "voi avevate demolito",
+                    "voi avevate abbattuto",
+                    "voi avevate distrutto",
+                    "voi avevate sconvolto",
+                    "voi avevate sovvertito",
+                    "voi avevate sconquassato",
+                    "voi avevate annullato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "disturbavĕrant",
+                "traduzioni": [
+                    "loro avevano disperso",
+                    "essi avevano disperso",
+                    "loro avevano demolito",
+                    "essi avevano demolito",
+                    "loro avevano abbattuto",
+                    "essi avevano abbattuto",
+                    "loro avevano distrutto",
+                    "essi avevano distrutto",
+                    "loro avevano sconvolto",
+                    "essi avevano sconvolto",
+                    "loro avevano sovvertito",
+                    "essi avevano sovvertito",
+                    "loro avevano sconquassato",
+                    "essi avevano sconquassato",
+                    "loro avevano annullato",
+                    "essi avevano annullato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "disturbavĕro",
+                "traduzioni": [
+                    "io avrò disperso",
+                    "io avrò demolito",
+                    "io avrò abbattuto",
+                    "io avrò distrutto",
+                    "io avrò sconvolto",
+                    "io avrò sovvertito",
+                    "io avrò sconquassato",
+                    "io avrò annullato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "disturbavĕris",
+                "traduzioni": [
+                    "tu avrai disperso",
+                    "tu avrai demolito",
+                    "tu avrai abbattuto",
+                    "tu avrai distrutto",
+                    "tu avrai sconvolto",
+                    "tu avrai sovvertito",
+                    "tu avrai sconquassato",
+                    "tu avrai annullato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "disturbavĕrit",
+                "traduzioni": [
+                    "lui avrà disperso",
+                    "lei avrà disperso",
+                    "egli avrà disperso",
+                    "lui avrà demolito",
+                    "lei avrà demolito",
+                    "egli avrà demolito",
+                    "lui avrà abbattuto",
+                    "lei avrà abbattuto",
+                    "egli avrà abbattuto",
+                    "lui avrà distrutto",
+                    "lei avrà distrutto",
+                    "egli avrà distrutto",
+                    "lui avrà sconvolto",
+                    "lei avrà sconvolto",
+                    "egli avrà sconvolto",
+                    "lui avrà sovvertito",
+                    "lei avrà sovvertito",
+                    "egli avrà sovvertito",
+                    "lui avrà sconquassato",
+                    "lei avrà sconquassato",
+                    "egli avrà sconquassato",
+                    "lui avrà annullato",
+                    "lei avrà annullato",
+                    "egli avrà annullato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "disturbaverĭmus",
+                "traduzioni": [
+                    "noi avremo disperso",
+                    "noi avremo demolito",
+                    "noi avremo abbattuto",
+                    "noi avremo distrutto",
+                    "noi avremo sconvolto",
+                    "noi avremo sovvertito",
+                    "noi avremo sconquassato",
+                    "noi avremo annullato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "disturbaverĭtis",
+                "traduzioni": [
+                    "voi avrete disperso",
+                    "voi avrete demolito",
+                    "voi avrete abbattuto",
+                    "voi avrete distrutto",
+                    "voi avrete sconvolto",
+                    "voi avrete sovvertito",
+                    "voi avrete sconquassato",
+                    "voi avrete annullato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "disturbavĕrint",
+                "traduzioni": [
+                    "loro avranno disperso",
+                    "essi avranno disperso",
+                    "loro avranno demolito",
+                    "essi avranno demolito",
+                    "loro avranno abbattuto",
+                    "essi avranno abbattuto",
+                    "loro avranno distrutto",
+                    "essi avranno distrutto",
+                    "loro avranno sconvolto",
+                    "essi avranno sconvolto",
+                    "loro avranno sovvertito",
+                    "essi avranno sovvertito",
+                    "loro avranno sconquassato",
+                    "essi avranno sconquassato",
+                    "loro avranno annullato",
+                    "essi avranno annullato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "disturbem",
+                "traduzioni": [
+                    "che io disperda",
+                    "che io demolisca",
+                    "che io abbatta",
+                    "che io distrugga",
+                    "che io sconvolga",
+                    "che io sovverta",
+                    "che io sconquassi",
+                    "che io annulli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "disturbes",
+                "traduzioni": [
+                    "che tu disperda",
+                    "che tu demolisca",
+                    "che tu abbatta",
+                    "che tu distrugga",
+                    "che tu sconvolga",
+                    "che tu sovverta",
+                    "che tu sconquassi",
+                    "che tu annulli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "disturbet",
+                "traduzioni": [
+                    "che lui disperda",
+                    "che lei disperda",
+                    "che egli disperda",
+                    "che lui demolisca",
+                    "che lei demolisca",
+                    "che egli demolisca",
+                    "che lui abbatta",
+                    "che lei abbatta",
+                    "che egli abbatta",
+                    "che lui distrugga",
+                    "che lei distrugga",
+                    "che egli distrugga",
+                    "che lui sconvolga",
+                    "che lei sconvolga",
+                    "che egli sconvolga",
+                    "che lui sovverta",
+                    "che lei sovverta",
+                    "che egli sovverta",
+                    "che lui sconquassi",
+                    "che lei sconquassi",
+                    "che egli sconquassi",
+                    "che lui annulli",
+                    "che lei annulli",
+                    "che egli annulli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "disturbēmus",
+                "traduzioni": [
+                    "che noi disperdiamo",
+                    "che noi demoliamo",
+                    "che noi abbattiamo",
+                    "che noi distruggiamo",
+                    "che noi sconvolgiamo",
+                    "che noi sovvertiamo",
+                    "che noi sconquassiamo",
+                    "che noi annulliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "disturbētis",
+                "traduzioni": [
+                    "che voi disperdiate",
+                    "che voi demoliate",
+                    "che voi abbattiate",
+                    "che voi distruggiate",
+                    "che voi sconvolgiate",
+                    "che voi sovvertiate",
+                    "che voi sconquassiate",
+                    "che voi annulliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "disturbent",
+                "traduzioni": [
+                    "che loro disperdano",
+                    "che essi disperdano",
+                    "che loro demoliscano",
+                    "che essi demoliscano",
+                    "che loro abbattano",
+                    "che essi abbattano",
+                    "che loro distruggano",
+                    "che essi distruggano",
+                    "che loro sconvolgano",
+                    "che essi sconvolgano",
+                    "che loro sovvertano",
+                    "che essi sovvertano",
+                    "che loro sconquassino",
+                    "che essi sconquassino",
+                    "che loro annullino",
+                    "che essi annullino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "disturbārem",
+                "traduzioni": [
+                    "che io disperdessi",
+                    "che io demolissi",
+                    "che io abbattessi",
+                    "che io distruggessi",
+                    "che io sconvolgessi",
+                    "che io sovvertissi",
+                    "che io sconquassassi",
+                    "che io annullassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "disturbāres",
+                "traduzioni": [
+                    "che tu disperdessi",
+                    "che tu demolissi",
+                    "che tu abbattessi",
+                    "che tu distruggessi",
+                    "che tu sconvolgessi",
+                    "che tu sovvertissi",
+                    "che tu sconquassassi",
+                    "che tu annullassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "disturbāret",
+                "traduzioni": [
+                    "che lui disperdesse",
+                    "che lei disperdesse",
+                    "che egli disperdesse",
+                    "che lui demolisse",
+                    "che lei demolisse",
+                    "che egli demolisse",
+                    "che lui abbattesse",
+                    "che lei abbattesse",
+                    "che egli abbattesse",
+                    "che lui distruggesse",
+                    "che lei distruggesse",
+                    "che egli distruggesse",
+                    "che lui sconvolgesse",
+                    "che lei sconvolgesse",
+                    "che egli sconvolgesse",
+                    "che lui sovvertisse",
+                    "che lei sovvertisse",
+                    "che egli sovvertisse",
+                    "che lui sconquassasse",
+                    "che lei sconquassasse",
+                    "che egli sconquassasse",
+                    "che lui annullasse",
+                    "che lei annullasse",
+                    "che egli annullasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "disturbarēmus",
+                "traduzioni": [
+                    "che noi disperdessimo",
+                    "che noi demolissimo",
+                    "che noi abbattessimo",
+                    "che noi distruggessimo",
+                    "che noi sconvolgessimo",
+                    "che noi sovvertissimo",
+                    "che noi sconquassassimo",
+                    "che noi annullassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "disturbarētis",
+                "traduzioni": [
+                    "che voi disperdeste",
+                    "che voi demoliste",
+                    "che voi abbatteste",
+                    "che voi distruggeste",
+                    "che voi sconvolgeste",
+                    "che voi sovvertiste",
+                    "che voi sconquassaste",
+                    "che voi annullaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "disturbārent",
+                "traduzioni": [
+                    "che loro disperdessero",
+                    "che essi disperdessero",
+                    "che loro demolissero",
+                    "che essi demolissero",
+                    "che loro abbattessero",
+                    "che essi abbattessero",
+                    "che loro distruggessero",
+                    "che essi distruggessero",
+                    "che loro sconvolgessero",
+                    "che essi sconvolgessero",
+                    "che loro sovvertissero",
+                    "che essi sovvertissero",
+                    "che loro sconquassassero",
+                    "che essi sconquassassero",
+                    "che loro annullassero",
+                    "che essi annullassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "disturbavĕrim",
+                "traduzioni": [
+                    "che io abbia disperso",
+                    "che io abbia demolito",
+                    "che io abbia abbattuto",
+                    "che io abbia distrutto",
+                    "che io abbia sconvolto",
+                    "che io abbia sovvertito",
+                    "che io abbia sconquassato",
+                    "che io abbia annullato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "disturbavĕris",
+                "traduzioni": [
+                    "che tu abbia disperso",
+                    "che tu abbia demolito",
+                    "che tu abbia abbattuto",
+                    "che tu abbia distrutto",
+                    "che tu abbia sconvolto",
+                    "che tu abbia sovvertito",
+                    "che tu abbia sconquassato",
+                    "che tu abbia annullato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "disturbavĕrit",
+                "traduzioni": [
+                    "che lui abbia disperso",
+                    "che lei abbia disperso",
+                    "che egli abbia disperso",
+                    "che lui abbia demolito",
+                    "che lei abbia demolito",
+                    "che egli abbia demolito",
+                    "che lui abbia abbattuto",
+                    "che lei abbia abbattuto",
+                    "che egli abbia abbattuto",
+                    "che lui abbia distrutto",
+                    "che lei abbia distrutto",
+                    "che egli abbia distrutto",
+                    "che lui abbia sconvolto",
+                    "che lei abbia sconvolto",
+                    "che egli abbia sconvolto",
+                    "che lui abbia sovvertito",
+                    "che lei abbia sovvertito",
+                    "che egli abbia sovvertito",
+                    "che lui abbia sconquassato",
+                    "che lei abbia sconquassato",
+                    "che egli abbia sconquassato",
+                    "che lui abbia annullato",
+                    "che lei abbia annullato",
+                    "che egli abbia annullato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "disturbaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo disperso",
+                    "che noi abbiamo demolito",
+                    "che noi abbiamo abbattuto",
+                    "che noi abbiamo distrutto",
+                    "che noi abbiamo sconvolto",
+                    "che noi abbiamo sovvertito",
+                    "che noi abbiamo sconquassato",
+                    "che noi abbiamo annullato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "disturbaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate disperso",
+                    "che voi abbiate demolito",
+                    "che voi abbiate abbattuto",
+                    "che voi abbiate distrutto",
+                    "che voi abbiate sconvolto",
+                    "che voi abbiate sovvertito",
+                    "che voi abbiate sconquassato",
+                    "che voi abbiate annullato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "disturbavĕrint",
+                "traduzioni": [
+                    "che loro abbiano disperso",
+                    "che essi abbiano disperso",
+                    "che loro abbiano demolito",
+                    "che essi abbiano demolito",
+                    "che loro abbiano abbattuto",
+                    "che essi abbiano abbattuto",
+                    "che loro abbiano distrutto",
+                    "che essi abbiano distrutto",
+                    "che loro abbiano sconvolto",
+                    "che essi abbiano sconvolto",
+                    "che loro abbiano sovvertito",
+                    "che essi abbiano sovvertito",
+                    "che loro abbiano sconquassato",
+                    "che essi abbiano sconquassato",
+                    "che loro abbiano annullato",
+                    "che essi abbiano annullato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "disturbavissem",
+                "traduzioni": [
+                    "che io avessi disperso",
+                    "che io avessi demolito",
+                    "che io avessi abbattuto",
+                    "che io avessi distrutto",
+                    "che io avessi sconvolto",
+                    "che io avessi sovvertito",
+                    "che io avessi sconquassato",
+                    "che io avessi annullato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "disturbavisses",
+                "traduzioni": [
+                    "che tu avessi disperso",
+                    "che tu avessi demolito",
+                    "che tu avessi abbattuto",
+                    "che tu avessi distrutto",
+                    "che tu avessi sconvolto",
+                    "che tu avessi sovvertito",
+                    "che tu avessi sconquassato",
+                    "che tu avessi annullato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "disturbavisset",
+                "traduzioni": [
+                    "che lui avesse disperso",
+                    "che lei avesse disperso",
+                    "che egli avesse disperso",
+                    "che lui avesse demolito",
+                    "che lei avesse demolito",
+                    "che egli avesse demolito",
+                    "che lui avesse abbattuto",
+                    "che lei avesse abbattuto",
+                    "che egli avesse abbattuto",
+                    "che lui avesse distrutto",
+                    "che lei avesse distrutto",
+                    "che egli avesse distrutto",
+                    "che lui avesse sconvolto",
+                    "che lei avesse sconvolto",
+                    "che egli avesse sconvolto",
+                    "che lui avesse sovvertito",
+                    "che lei avesse sovvertito",
+                    "che egli avesse sovvertito",
+                    "che lui avesse sconquassato",
+                    "che lei avesse sconquassato",
+                    "che egli avesse sconquassato",
+                    "che lui avesse annullato",
+                    "che lei avesse annullato",
+                    "che egli avesse annullato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "disturbavissēmus",
+                "traduzioni": [
+                    "che noi avessimo disperso",
+                    "che noi avessimo demolito",
+                    "che noi avessimo abbattuto",
+                    "che noi avessimo distrutto",
+                    "che noi avessimo sconvolto",
+                    "che noi avessimo sovvertito",
+                    "che noi avessimo sconquassato",
+                    "che noi avessimo annullato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "disturbavissētis",
+                "traduzioni": [
+                    "che voi aveste disperso",
+                    "che voi aveste demolito",
+                    "che voi aveste abbattuto",
+                    "che voi aveste distrutto",
+                    "che voi aveste sconvolto",
+                    "che voi aveste sovvertito",
+                    "che voi aveste sconquassato",
+                    "che voi aveste annullato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "disturbavissent",
+                "traduzioni": [
+                    "che loro avessero disperso",
+                    "che essi avessero disperso",
+                    "che loro avessero demolito",
+                    "che essi avessero demolito",
+                    "che loro avessero abbattuto",
+                    "che essi avessero abbattuto",
+                    "che loro avessero distrutto",
+                    "che essi avessero distrutto",
+                    "che loro avessero sconvolto",
+                    "che essi avessero sconvolto",
+                    "che loro avessero sovvertito",
+                    "che essi avessero sovvertito",
+                    "che loro avessero sconquassato",
+                    "che essi avessero sconquassato",
+                    "che loro avessero annullato",
+                    "che essi avessero annullato"
+                ]
+            }
+        ]
+    }
+}

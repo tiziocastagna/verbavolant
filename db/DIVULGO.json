@@ -1,0 +1,614 @@
+{
+    "identifier": "DIVULGO",
+    "conuigazione": "1",
+    "translation": [
+        "diffondere",
+        "rendere volgare",
+        "banalizzare",
+        "(di libri) pubblicare"
+    ],
+    "valid_translations": [
+        "diffondere",
+        "banalizzare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dīvulgo",
+                "traduzioni": [
+                    "io diffondo",
+                    "io banalizzo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dīvulgas",
+                "traduzioni": [
+                    "tu diffondi",
+                    "tu banalizzi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dīvulgat",
+                "traduzioni": [
+                    "lui diffonde",
+                    "lei diffonde",
+                    "egli diffonde",
+                    "lui banalizza",
+                    "lei banalizza",
+                    "egli banalizza"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dīvulgāmus",
+                "traduzioni": [
+                    "noi diffondiamo",
+                    "noi banalizziamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dīvulgātis",
+                "traduzioni": [
+                    "voi diffondete",
+                    "voi banalizzate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dīvulgant",
+                "traduzioni": [
+                    "loro diffondono",
+                    "essi diffondono",
+                    "loro banalizzano",
+                    "essi banalizzano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dīvulgābam",
+                "traduzioni": [
+                    "io diffondevo",
+                    "io banalizzavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dīvulgābas",
+                "traduzioni": [
+                    "tu diffondevi",
+                    "tu banalizzavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dīvulgābat",
+                "traduzioni": [
+                    "lui diffondeva",
+                    "lei diffondeva",
+                    "egli diffondeva",
+                    "lui banalizzava",
+                    "lei banalizzava",
+                    "egli banalizzava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dīvulgabāmus",
+                "traduzioni": [
+                    "noi diffondevamo",
+                    "noi banalizzavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dīvulgabātis",
+                "traduzioni": [
+                    "voi diffondevate",
+                    "voi banalizzavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dīvulgābant",
+                "traduzioni": [
+                    "loro diffondevano",
+                    "essi diffondevano",
+                    "loro banalizzavano",
+                    "essi banalizzavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dīvulgābo",
+                "traduzioni": [
+                    "io diffonderò",
+                    "io banalizzerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dīvulgābis",
+                "traduzioni": [
+                    "tu diffonderai",
+                    "tu banalizzerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dīvulgābit",
+                "traduzioni": [
+                    "lui diffonderà",
+                    "lei diffonderà",
+                    "egli diffonderà",
+                    "lui banalizzerà",
+                    "lei banalizzerà",
+                    "egli banalizzerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dīvulgabĭmus",
+                "traduzioni": [
+                    "noi diffonderemo",
+                    "noi banalizzeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dīvulgabĭtis",
+                "traduzioni": [
+                    "voi diffonderete",
+                    "voi banalizzerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dīvulgābunt",
+                "traduzioni": [
+                    "loro diffonderanno",
+                    "essi diffonderanno",
+                    "loro banalizzeranno",
+                    "essi banalizzeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "divulgavi",
+                "traduzioni": [
+                    "io diffusi",
+                    "io ho diffuso",
+                    "io ebbi diffuso",
+                    "io banalizzai",
+                    "io ho banalizzato",
+                    "io ebbi banalizzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "divulgavisti",
+                "traduzioni": [
+                    "tu diffondesti",
+                    "tu hai diffuso",
+                    "tu avesti diffuso",
+                    "tu banalizzasti",
+                    "tu hai banalizzato",
+                    "tu avesti banalizzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "divulgavit",
+                "traduzioni": [
+                    "lui diffuse",
+                    "lei diffuse",
+                    "egli diffuse",
+                    "lui ha diffuso",
+                    "lei ha diffuso",
+                    "egli ha diffuso",
+                    "lui ebbe diffuso",
+                    "lei ebbe diffuso",
+                    "egli ebbe diffuso",
+                    "lui banalizzò",
+                    "lei banalizzò",
+                    "egli banalizzò",
+                    "lui ha banalizzato",
+                    "lei ha banalizzato",
+                    "egli ha banalizzato",
+                    "lui ebbe banalizzato",
+                    "lei ebbe banalizzato",
+                    "egli ebbe banalizzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "divulgavĭmus",
+                "traduzioni": [
+                    "noi diffondemmo",
+                    "noi abbiamo diffuso",
+                    "noi avemmo diffuso",
+                    "noi banalizzammo",
+                    "noi abbiamo banalizzato",
+                    "noi avemmo banalizzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "divulgavistis",
+                "traduzioni": [
+                    "voi diffondeste",
+                    "voi avete diffuso",
+                    "voi aveste diffuso",
+                    "voi banalizzaste",
+                    "voi avete banalizzato",
+                    "voi aveste banalizzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "divulgavērunt, divulgavēre",
+                "traduzioni": [
+                    "loro diffusero",
+                    "essi diffusero",
+                    "loro hanno diffuso",
+                    "essi hanno diffuso",
+                    "loro ebbero diffuso",
+                    "essi ebbero diffuso",
+                    "loro banalizzarono",
+                    "essi banalizzarono",
+                    "loro hanno banalizzato",
+                    "essi hanno banalizzato",
+                    "loro ebbero banalizzato",
+                    "essi ebbero banalizzato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "divulgavĕram",
+                "traduzioni": [
+                    "io avevo diffuso",
+                    "io avevo banalizzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "divulgavĕras",
+                "traduzioni": [
+                    "tu avevi diffuso",
+                    "tu avevi banalizzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "divulgavĕrat",
+                "traduzioni": [
+                    "lui aveva diffuso",
+                    "lei aveva diffuso",
+                    "egli aveva diffuso",
+                    "lui aveva banalizzato",
+                    "lei aveva banalizzato",
+                    "egli aveva banalizzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "divulgaverāmus",
+                "traduzioni": [
+                    "noi avevamo diffuso",
+                    "noi avevamo banalizzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "divulgaverātis",
+                "traduzioni": [
+                    "voi avevate diffuso",
+                    "voi avevate banalizzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "divulgavĕrant",
+                "traduzioni": [
+                    "loro avevano diffuso",
+                    "essi avevano diffuso",
+                    "loro avevano banalizzato",
+                    "essi avevano banalizzato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "divulgavĕro",
+                "traduzioni": [
+                    "io avrò diffuso",
+                    "io avrò banalizzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "divulgavĕris",
+                "traduzioni": [
+                    "tu avrai diffuso",
+                    "tu avrai banalizzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "divulgavĕrit",
+                "traduzioni": [
+                    "lui avrà diffuso",
+                    "lei avrà diffuso",
+                    "egli avrà diffuso",
+                    "lui avrà banalizzato",
+                    "lei avrà banalizzato",
+                    "egli avrà banalizzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "divulgaverĭmus",
+                "traduzioni": [
+                    "noi avremo diffuso",
+                    "noi avremo banalizzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "divulgaverĭtis",
+                "traduzioni": [
+                    "voi avrete diffuso",
+                    "voi avrete banalizzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "divulgavĕrint",
+                "traduzioni": [
+                    "loro avranno diffuso",
+                    "essi avranno diffuso",
+                    "loro avranno banalizzato",
+                    "essi avranno banalizzato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dīvulgem",
+                "traduzioni": [
+                    "che io diffonda",
+                    "che io banalizzi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dīvulges",
+                "traduzioni": [
+                    "che tu diffonda",
+                    "che tu banalizzi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dīvulget",
+                "traduzioni": [
+                    "che lui diffonda",
+                    "che lei diffonda",
+                    "che egli diffonda",
+                    "che lui banalizzi",
+                    "che lei banalizzi",
+                    "che egli banalizzi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dīvulgēmus",
+                "traduzioni": [
+                    "che noi diffondiamo",
+                    "che noi banalizziamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dīvulgētis",
+                "traduzioni": [
+                    "che voi diffondiate",
+                    "che voi banalizziate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dīvulgent",
+                "traduzioni": [
+                    "che loro diffondano",
+                    "che essi diffondano",
+                    "che loro banalizzino",
+                    "che essi banalizzino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dīvulgārem",
+                "traduzioni": [
+                    "che io diffondessi",
+                    "che io banalizzassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dīvulgāres",
+                "traduzioni": [
+                    "che tu diffondessi",
+                    "che tu banalizzassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dīvulgāret",
+                "traduzioni": [
+                    "che lui diffondesse",
+                    "che lei diffondesse",
+                    "che egli diffondesse",
+                    "che lui banalizzasse",
+                    "che lei banalizzasse",
+                    "che egli banalizzasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dīvulgarēmus",
+                "traduzioni": [
+                    "che noi diffondessimo",
+                    "che noi banalizzassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dīvulgarētis",
+                "traduzioni": [
+                    "che voi diffondeste",
+                    "che voi banalizzaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dīvulgārent",
+                "traduzioni": [
+                    "che loro diffondessero",
+                    "che essi diffondessero",
+                    "che loro banalizzassero",
+                    "che essi banalizzassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "divulgavĕrim",
+                "traduzioni": [
+                    "che io abbia diffuso",
+                    "che io abbia banalizzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "divulgavĕris",
+                "traduzioni": [
+                    "che tu abbia diffuso",
+                    "che tu abbia banalizzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "divulgavĕrit",
+                "traduzioni": [
+                    "che lui abbia diffuso",
+                    "che lei abbia diffuso",
+                    "che egli abbia diffuso",
+                    "che lui abbia banalizzato",
+                    "che lei abbia banalizzato",
+                    "che egli abbia banalizzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "divulgaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo diffuso",
+                    "che noi abbiamo banalizzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "divulgaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate diffuso",
+                    "che voi abbiate banalizzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "divulgavĕrint",
+                "traduzioni": [
+                    "che loro abbiano diffuso",
+                    "che essi abbiano diffuso",
+                    "che loro abbiano banalizzato",
+                    "che essi abbiano banalizzato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "divulgavissem",
+                "traduzioni": [
+                    "che io avessi diffuso",
+                    "che io avessi banalizzato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "divulgavisses",
+                "traduzioni": [
+                    "che tu avessi diffuso",
+                    "che tu avessi banalizzato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "divulgavisset",
+                "traduzioni": [
+                    "che lui avesse diffuso",
+                    "che lei avesse diffuso",
+                    "che egli avesse diffuso",
+                    "che lui avesse banalizzato",
+                    "che lei avesse banalizzato",
+                    "che egli avesse banalizzato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "divulgavissēmus",
+                "traduzioni": [
+                    "che noi avessimo diffuso",
+                    "che noi avessimo banalizzato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "divulgavissētis",
+                "traduzioni": [
+                    "che voi aveste diffuso",
+                    "che voi aveste banalizzato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "divulgavissent",
+                "traduzioni": [
+                    "che loro avessero diffuso",
+                    "che essi avessero diffuso",
+                    "che loro avessero banalizzato",
+                    "che essi avessero banalizzato"
+                ]
+            }
+        ]
+    }
+}

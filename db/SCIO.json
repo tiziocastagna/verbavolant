@@ -1,0 +1,504 @@
+{
+    "identifier": "SCIO",
+    "conuigazione": "4",
+    "translation": [
+        "(+ accusativo o de + ablativo; + infinito o + accusativo + infinito) sapere",
+        "(+ accusativo o de + ablativo; + infinito o + accusativo + infinito) conoscere",
+        "capire"
+    ],
+    "valid_translations": [
+        "capire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "scĭo",
+                "traduzioni": [
+                    "io capisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "scis",
+                "traduzioni": [
+                    "tu capisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "scit",
+                "traduzioni": [
+                    "lui capisce",
+                    "lei capisce",
+                    "egli capisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scīmus",
+                "traduzioni": [
+                    "noi capiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scītis",
+                "traduzioni": [
+                    "voi capite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "scĭunt",
+                "traduzioni": [
+                    "loro capiscono",
+                    "essi capiscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sciēbam",
+                "traduzioni": [
+                    "io capivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sciēbas",
+                "traduzioni": [
+                    "tu capivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sciēbat",
+                "traduzioni": [
+                    "lui capiva",
+                    "lei capiva",
+                    "egli capiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sciebāmus",
+                "traduzioni": [
+                    "noi capivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sciebātis",
+                "traduzioni": [
+                    "voi capivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sciēbant",
+                "traduzioni": [
+                    "loro capivano",
+                    "essi capivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "scĭam, scibo",
+                "traduzioni": [
+                    "io capirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "scĭes, scibis",
+                "traduzioni": [
+                    "tu capirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "scĭet, scibit",
+                "traduzioni": [
+                    "lui capirà",
+                    "lei capirà",
+                    "egli capirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sciēmus, scibīmus",
+                "traduzioni": [
+                    "noi capiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sciētis, scibītis",
+                "traduzioni": [
+                    "voi capirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "scĭent, scibunt",
+                "traduzioni": [
+                    "loro capiranno",
+                    "essi capiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "scii o scivi",
+                "traduzioni": [
+                    "io capii",
+                    "io ho capito",
+                    "io ebbi capito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sciisti o scivisti",
+                "traduzioni": [
+                    "tu capisti",
+                    "tu hai capito",
+                    "tu avesti capito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sciit o scivit",
+                "traduzioni": [
+                    "lui capì",
+                    "lei capì",
+                    "egli capì",
+                    "lui ha capito",
+                    "lei ha capito",
+                    "egli ha capito",
+                    "lui ebbe capito",
+                    "lei ebbe capito",
+                    "egli ebbe capito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sciĭmus o scivĭmus",
+                "traduzioni": [
+                    "noi capimmo",
+                    "noi abbiamo capito",
+                    "noi avemmo capito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sciistis o scivistis",
+                "traduzioni": [
+                    "voi capiste",
+                    "voi avete capito",
+                    "voi aveste capito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sciērunt o scivērunt, ēre",
+                "traduzioni": [
+                    "loro capirono",
+                    "essi capirono",
+                    "loro hanno capito",
+                    "essi hanno capito",
+                    "loro ebbero capito",
+                    "essi ebbero capito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sciĕram o scivĕram",
+                "traduzioni": [
+                    "io avevo capito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sciĕras o scivĕras",
+                "traduzioni": [
+                    "tu avevi capito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sciĕrat o scivĕrat",
+                "traduzioni": [
+                    "lui aveva capito",
+                    "lei aveva capito",
+                    "egli aveva capito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scierāmus o sciverāmus",
+                "traduzioni": [
+                    "noi avevamo capito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scierātis o sciverātis",
+                "traduzioni": [
+                    "voi avevate capito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sciĕrant o scivĕrant",
+                "traduzioni": [
+                    "loro avevano capito",
+                    "essi avevano capito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sciĕro o scivĕro",
+                "traduzioni": [
+                    "io avrò capito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sciĕris o scivĕris",
+                "traduzioni": [
+                    "tu avrai capito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sciĕrit o scivĕrit",
+                "traduzioni": [
+                    "lui avrà capito",
+                    "lei avrà capito",
+                    "egli avrà capito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scierĭmus o sciverĭmus",
+                "traduzioni": [
+                    "noi avremo capito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scierĭtis o sciverĭtis",
+                "traduzioni": [
+                    "voi avrete capito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sciĕrint o scivĕrint",
+                "traduzioni": [
+                    "loro avranno capito",
+                    "essi avranno capito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "scĭam",
+                "traduzioni": [
+                    "che io capisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "scĭas",
+                "traduzioni": [
+                    "che tu capisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "scĭat",
+                "traduzioni": [
+                    "che lui capisca",
+                    "che lei capisca",
+                    "che egli capisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sciāmus",
+                "traduzioni": [
+                    "che noi capiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sciātis",
+                "traduzioni": [
+                    "che voi capiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "scĭant",
+                "traduzioni": [
+                    "che loro capiscano",
+                    "che essi capiscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "scīrem",
+                "traduzioni": [
+                    "che io capissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "scīres",
+                "traduzioni": [
+                    "che tu capissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "scīret",
+                "traduzioni": [
+                    "che lui capisse",
+                    "che lei capisse",
+                    "che egli capisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scirēmus",
+                "traduzioni": [
+                    "che noi capissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scirētis",
+                "traduzioni": [
+                    "che voi capiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "scīrent",
+                "traduzioni": [
+                    "che loro capissero",
+                    "che essi capissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sciĕrim o scivĕrim",
+                "traduzioni": [
+                    "che io abbia capito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sciĕris o scivĕris",
+                "traduzioni": [
+                    "che tu abbia capito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sciĕrit o scivĕrit",
+                "traduzioni": [
+                    "che lui abbia capito",
+                    "che lei abbia capito",
+                    "che egli abbia capito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "scierĭmus o sciverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo capito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "scierĭtis o sciverĭtis",
+                "traduzioni": [
+                    "che voi abbiate capito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sciĕrint o scivĕrint",
+                "traduzioni": [
+                    "che loro abbiano capito",
+                    "che essi abbiano capito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sciissem o scivissem",
+                "traduzioni": [
+                    "che io avessi capito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sciisses o scivisses",
+                "traduzioni": [
+                    "che tu avessi capito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sciisset o scivisset",
+                "traduzioni": [
+                    "che lui avesse capito",
+                    "che lei avesse capito",
+                    "che egli avesse capito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sciissēmus o scivissēmus",
+                "traduzioni": [
+                    "che noi avessimo capito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sciissētis o scivissētis",
+                "traduzioni": [
+                    "che voi aveste capito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sciissent o scivissent",
+                "traduzioni": [
+                    "che loro avessero capito",
+                    "che essi avessero capito"
+                ]
+            }
+        ]
+    }
+}

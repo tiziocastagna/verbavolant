@@ -1,0 +1,618 @@
+{
+    "identifier": "GAUDEO",
+    "conuigazione": "2",
+    "translation": [
+        "gioire",
+        "godere"
+    ],
+    "valid_translations": [
+        "gioire",
+        "godere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "gaudĕo",
+                "traduzioni": [
+                    "io gioisco",
+                    "io godo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gaudes",
+                "traduzioni": [
+                    "tu gioisci",
+                    "tu godi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gaudet",
+                "traduzioni": [
+                    "lui gioisce",
+                    "lei gioisce",
+                    "egli gioisce",
+                    "lui gode",
+                    "lei gode",
+                    "egli gode"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gaudēmus",
+                "traduzioni": [
+                    "noi gioiamo",
+                    "noi godiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gaudētis",
+                "traduzioni": [
+                    "voi gioite",
+                    "voi godete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gaudent",
+                "traduzioni": [
+                    "loro gioiscono",
+                    "essi gioiscono",
+                    "loro godono",
+                    "essi godono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gaudēbam",
+                "traduzioni": [
+                    "io gioivo",
+                    "io godevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gaudēbas",
+                "traduzioni": [
+                    "tu gioivi",
+                    "tu godevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gaudēbat",
+                "traduzioni": [
+                    "lui gioiva",
+                    "lei gioiva",
+                    "egli gioiva",
+                    "lui godeva",
+                    "lei godeva",
+                    "egli godeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gaudebāmus",
+                "traduzioni": [
+                    "noi gioivamo",
+                    "noi godevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gaudebātis",
+                "traduzioni": [
+                    "voi gioivate",
+                    "voi godevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gaudēbant",
+                "traduzioni": [
+                    "loro gioivano",
+                    "essi gioivano",
+                    "loro godevano",
+                    "essi godevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "gaudēbo",
+                "traduzioni": [
+                    "io gioirò",
+                    "io godrò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gaudēbis",
+                "traduzioni": [
+                    "tu gioirai",
+                    "tu godrai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gaudēbit",
+                "traduzioni": [
+                    "lui gioirà",
+                    "lei gioirà",
+                    "egli gioirà",
+                    "lui godrà",
+                    "lei godrà",
+                    "egli godrà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gaudebĭmus",
+                "traduzioni": [
+                    "noi gioiremo",
+                    "noi godremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gaudebĭtis",
+                "traduzioni": [
+                    "voi gioirete",
+                    "voi godrete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gaudēbunt",
+                "traduzioni": [
+                    "loro gioiranno",
+                    "essi gioiranno",
+                    "loro godranno",
+                    "essi godranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gavisus, –a, –um  sum",
+                "traduzioni": [
+                    "io gioii",
+                    "io ho gioito",
+                    "io ebbi gioito",
+                    "io godetti",
+                    "io godei",
+                    "io ho goduto",
+                    "io ebbi goduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gavisus, –a, –um  es",
+                "traduzioni": [
+                    "tu gioisti",
+                    "tu hai gioito",
+                    "tu avesti gioito",
+                    "tu godesti",
+                    "tu hai goduto",
+                    "tu avesti goduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gavisus, –a, –um  est",
+                "traduzioni": [
+                    "lui gioì",
+                    "lei gioì",
+                    "egli gioì",
+                    "lui ha gioito",
+                    "lei ha gioito",
+                    "egli ha gioito",
+                    "lui ebbe gioito",
+                    "lei ebbe gioito",
+                    "egli ebbe gioito",
+                    "lui godette",
+                    "lei godette",
+                    "egli godette",
+                    "lui godé",
+                    "lei godé",
+                    "egli godé",
+                    "lui ha goduto",
+                    "lei ha goduto",
+                    "egli ha goduto",
+                    "lui ebbe goduto",
+                    "lei ebbe goduto",
+                    "egli ebbe goduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gavisi, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi gioimmo",
+                    "noi abbiamo gioito",
+                    "noi avemmo gioito",
+                    "noi godemmo",
+                    "noi abbiamo goduto",
+                    "noi avemmo goduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gavisi, –ae, –a  estis",
+                "traduzioni": [
+                    "voi gioiste",
+                    "voi avete gioito",
+                    "voi aveste gioito",
+                    "voi godeste",
+                    "voi avete goduto",
+                    "voi aveste goduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gavisi, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro gioirono",
+                    "essi gioirono",
+                    "loro hanno gioito",
+                    "essi hanno gioito",
+                    "loro ebbero gioito",
+                    "essi ebbero gioito",
+                    "loro godettero",
+                    "essi godettero",
+                    "loro goderono",
+                    "essi goderono",
+                    "loro hanno goduto",
+                    "essi hanno goduto",
+                    "loro ebbero goduto",
+                    "essi ebbero goduto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gavisus, –a, –um  eram",
+                "traduzioni": [
+                    "io avevo gioito",
+                    "io avevo goduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gavisus, –a, –um  eras",
+                "traduzioni": [
+                    "tu avevi gioito",
+                    "tu avevi goduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gavisus, –a, –um  erat",
+                "traduzioni": [
+                    "lui aveva gioito",
+                    "lei aveva gioito",
+                    "egli aveva gioito",
+                    "lui aveva goduto",
+                    "lei aveva goduto",
+                    "egli aveva goduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gavisi, –ae, –a  eramus",
+                "traduzioni": [
+                    "noi avevamo gioito",
+                    "noi avevamo goduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gavisi, –ae, –a  eratis",
+                "traduzioni": [
+                    "voi avevate gioito",
+                    "voi avevate goduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gavisi, –ae, –a erant",
+                "traduzioni": [
+                    "loro avevano gioito",
+                    "essi avevano gioito",
+                    "loro avevano goduto",
+                    "essi avevano goduto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "gavisus, –a, –um  ero",
+                "traduzioni": [
+                    "io avrò gioito",
+                    "io avrò goduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gavisus, –a, –um  eris",
+                "traduzioni": [
+                    "tu avrai gioito",
+                    "tu avrai goduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gavisus, –a, –um  erit",
+                "traduzioni": [
+                    "lui avrà gioito",
+                    "lei avrà gioito",
+                    "egli avrà gioito",
+                    "lui avrà goduto",
+                    "lei avrà goduto",
+                    "egli avrà goduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gavisi, –ae, –a  erimus",
+                "traduzioni": [
+                    "noi avremo gioito",
+                    "noi avremo goduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gavisi, –ae, –a  eritis",
+                "traduzioni": [
+                    "voi avrete gioito",
+                    "voi avrete goduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gavisi, –ae, –a  erunt",
+                "traduzioni": [
+                    "loro avranno gioito",
+                    "essi avranno gioito",
+                    "loro avranno goduto",
+                    "essi avranno goduto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "gaudĕam",
+                "traduzioni": [
+                    "che io gioisca",
+                    "che io goda"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gaudĕas",
+                "traduzioni": [
+                    "che tu gioisca",
+                    "che tu goda"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gaudĕat",
+                "traduzioni": [
+                    "che lui gioisca",
+                    "che lei gioisca",
+                    "che egli gioisca",
+                    "che lui goda",
+                    "che lei goda",
+                    "che egli goda"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gaudeāmus",
+                "traduzioni": [
+                    "che noi gioiamo",
+                    "che noi godiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gaudeātis",
+                "traduzioni": [
+                    "che voi gioiate",
+                    "che voi godiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gaudĕant",
+                "traduzioni": [
+                    "che loro gioiscano",
+                    "che essi gioiscano",
+                    "che loro godano",
+                    "che essi godano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gaudērem",
+                "traduzioni": [
+                    "che io gioissi",
+                    "che io godessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gaudēres",
+                "traduzioni": [
+                    "che tu gioissi",
+                    "che tu godessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gaudēret",
+                "traduzioni": [
+                    "che lui gioisse",
+                    "che lei gioisse",
+                    "che egli gioisse",
+                    "che lui godesse",
+                    "che lei godesse",
+                    "che egli godesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gauderēmus",
+                "traduzioni": [
+                    "che noi gioissimo",
+                    "che noi godessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gauderētis",
+                "traduzioni": [
+                    "che voi gioiste",
+                    "che voi godeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gaudērent",
+                "traduzioni": [
+                    "che loro gioissero",
+                    "che essi gioissero",
+                    "che loro godessero",
+                    "che essi godessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gavisus, –a, –um  sim",
+                "traduzioni": [
+                    "che io abbia gioito",
+                    "che io abbia goduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gavisus, –a, –um  sis",
+                "traduzioni": [
+                    "che tu abbia gioito",
+                    "che tu abbia goduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gavisus, –a, –um  sit",
+                "traduzioni": [
+                    "che lui abbia gioito",
+                    "che lei abbia gioito",
+                    "che egli abbia gioito",
+                    "che lui abbia goduto",
+                    "che lei abbia goduto",
+                    "che egli abbia goduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gavisi, –ae, –a  simus",
+                "traduzioni": [
+                    "che noi abbiamo gioito",
+                    "che noi abbiamo goduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gavisi, –ae, –a  sitis",
+                "traduzioni": [
+                    "che voi abbiate gioito",
+                    "che voi abbiate goduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gavisi, –ae, –a  sint",
+                "traduzioni": [
+                    "che loro abbiano gioito",
+                    "che essi abbiano gioito",
+                    "che loro abbiano goduto",
+                    "che essi abbiano goduto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "gavisus, –a, –um  essem",
+                "traduzioni": [
+                    "che io avessi gioito",
+                    "che io avessi goduto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "gavisus, –a, –um  esses",
+                "traduzioni": [
+                    "che tu avessi gioito",
+                    "che tu avessi goduto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "gavisus, –a, –um  esset",
+                "traduzioni": [
+                    "che lui avesse gioito",
+                    "che lei avesse gioito",
+                    "che egli avesse gioito",
+                    "che lui avesse goduto",
+                    "che lei avesse goduto",
+                    "che egli avesse goduto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "gavisi, –ae, –a  essemus",
+                "traduzioni": [
+                    "che noi avessimo gioito",
+                    "che noi avessimo goduto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "gavisi, –ae, –a  essetis",
+                "traduzioni": [
+                    "che voi aveste gioito",
+                    "che voi aveste goduto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "gavisi, –ae, –a  essent",
+                "traduzioni": [
+                    "che loro avessero gioito",
+                    "che essi avessero gioito",
+                    "che loro avessero goduto",
+                    "che essi avessero goduto"
+                ]
+            }
+        ]
+    }
+}

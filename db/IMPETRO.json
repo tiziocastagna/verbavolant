@@ -1,0 +1,613 @@
+{
+    "identifier": "IMPETRO",
+    "conuigazione": "1",
+    "translation": [
+        "conseguire",
+        "ottenere"
+    ],
+    "valid_translations": [
+        "conseguire",
+        "ottenere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "impĕtro",
+                "traduzioni": [
+                    "io conseguo",
+                    "io ottengo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impĕtras",
+                "traduzioni": [
+                    "tu consegui",
+                    "tu ottieni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impĕtrat",
+                "traduzioni": [
+                    "lui consegue",
+                    "lei consegue",
+                    "egli consegue",
+                    "lui ottiene",
+                    "lei ottiene",
+                    "egli ottiene"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impĕtrāmus",
+                "traduzioni": [
+                    "noi conseguiamo",
+                    "noi otteniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impĕtrātis",
+                "traduzioni": [
+                    "voi conseguite",
+                    "voi ottenete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impĕtrant",
+                "traduzioni": [
+                    "loro conseguono",
+                    "essi conseguono",
+                    "loro ottengono",
+                    "essi ottengono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "impĕtrābam",
+                "traduzioni": [
+                    "io conseguivo",
+                    "io ottenevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impĕtrābas",
+                "traduzioni": [
+                    "tu conseguivi",
+                    "tu ottenevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impĕtrābat",
+                "traduzioni": [
+                    "lui conseguiva",
+                    "lei conseguiva",
+                    "egli conseguiva",
+                    "lui otteneva",
+                    "lei otteneva",
+                    "egli otteneva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impĕtrabāmus",
+                "traduzioni": [
+                    "noi conseguivamo",
+                    "noi ottenevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impĕtrabātis",
+                "traduzioni": [
+                    "voi conseguivate",
+                    "voi ottenevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impĕtrābant",
+                "traduzioni": [
+                    "loro conseguivano",
+                    "essi conseguivano",
+                    "loro ottenevano",
+                    "essi ottenevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "impĕtrābo",
+                "traduzioni": [
+                    "io conseguirò",
+                    "io otterrò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impĕtrābis",
+                "traduzioni": [
+                    "tu conseguirai",
+                    "tu otterrai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impĕtrābit",
+                "traduzioni": [
+                    "lui conseguirà",
+                    "lei conseguirà",
+                    "egli conseguirà",
+                    "lui otterrà",
+                    "lei otterrà",
+                    "egli otterrà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impĕtrabĭmus",
+                "traduzioni": [
+                    "noi conseguiremo",
+                    "noi otterremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impĕtrabĭtis",
+                "traduzioni": [
+                    "voi conseguirete",
+                    "voi otterrete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impĕtrābunt",
+                "traduzioni": [
+                    "loro conseguiranno",
+                    "essi conseguiranno",
+                    "loro otterranno",
+                    "essi otterranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "impetravi",
+                "traduzioni": [
+                    "io conseguii",
+                    "io ho conseguito",
+                    "io ebbi conseguito",
+                    "io ottenni",
+                    "io ottenetti",
+                    "io ho ottenuto",
+                    "io ebbi ottenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impetravisti",
+                "traduzioni": [
+                    "tu conseguisti",
+                    "tu hai conseguito",
+                    "tu avesti conseguito",
+                    "tu ottenesti",
+                    "tu hai ottenuto",
+                    "tu avesti ottenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impetravit",
+                "traduzioni": [
+                    "lui conseguì",
+                    "lei conseguì",
+                    "egli conseguì",
+                    "lui ha conseguito",
+                    "lei ha conseguito",
+                    "egli ha conseguito",
+                    "lui ebbe conseguito",
+                    "lei ebbe conseguito",
+                    "egli ebbe conseguito",
+                    "lui ottenne",
+                    "lei ottenne",
+                    "egli ottenne",
+                    "lui ha ottenuto",
+                    "lei ha ottenuto",
+                    "egli ha ottenuto",
+                    "lui ebbe ottenuto",
+                    "lei ebbe ottenuto",
+                    "egli ebbe ottenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impetravĭmus",
+                "traduzioni": [
+                    "noi conseguimmo",
+                    "noi abbiamo conseguito",
+                    "noi avemmo conseguito",
+                    "noi ottenemmo",
+                    "noi abbiamo ottenuto",
+                    "noi avemmo ottenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impetravistis",
+                "traduzioni": [
+                    "voi conseguiste",
+                    "voi avete conseguito",
+                    "voi aveste conseguito",
+                    "voi otteneste",
+                    "voi avete ottenuto",
+                    "voi aveste ottenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impetravērunt, impetravēre",
+                "traduzioni": [
+                    "loro conseguirono",
+                    "essi conseguirono",
+                    "loro hanno conseguito",
+                    "essi hanno conseguito",
+                    "loro ebbero conseguito",
+                    "essi ebbero conseguito",
+                    "loro ottennero",
+                    "essi ottennero",
+                    "loro hanno ottenuto",
+                    "essi hanno ottenuto",
+                    "loro ebbero ottenuto",
+                    "essi ebbero ottenuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "impetravĕram",
+                "traduzioni": [
+                    "io avevo conseguito",
+                    "io avevo ottenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impetravĕras",
+                "traduzioni": [
+                    "tu avevi conseguito",
+                    "tu avevi ottenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impetravĕrat",
+                "traduzioni": [
+                    "lui aveva conseguito",
+                    "lei aveva conseguito",
+                    "egli aveva conseguito",
+                    "lui aveva ottenuto",
+                    "lei aveva ottenuto",
+                    "egli aveva ottenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impetraverāmus",
+                "traduzioni": [
+                    "noi avevamo conseguito",
+                    "noi avevamo ottenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impetraverātis",
+                "traduzioni": [
+                    "voi avevate conseguito",
+                    "voi avevate ottenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impetravĕrant",
+                "traduzioni": [
+                    "loro avevano conseguito",
+                    "essi avevano conseguito",
+                    "loro avevano ottenuto",
+                    "essi avevano ottenuto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "impetravĕro",
+                "traduzioni": [
+                    "io avrò conseguito",
+                    "io avrò ottenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impetravĕris",
+                "traduzioni": [
+                    "tu avrai conseguito",
+                    "tu avrai ottenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impetravĕrit",
+                "traduzioni": [
+                    "lui avrà conseguito",
+                    "lei avrà conseguito",
+                    "egli avrà conseguito",
+                    "lui avrà ottenuto",
+                    "lei avrà ottenuto",
+                    "egli avrà ottenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impetraverĭmus",
+                "traduzioni": [
+                    "noi avremo conseguito",
+                    "noi avremo ottenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impetraverĭtis",
+                "traduzioni": [
+                    "voi avrete conseguito",
+                    "voi avrete ottenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impetravĕrint",
+                "traduzioni": [
+                    "loro avranno conseguito",
+                    "essi avranno conseguito",
+                    "loro avranno ottenuto",
+                    "essi avranno ottenuto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "impĕtrem",
+                "traduzioni": [
+                    "che io consegua",
+                    "che io ottenga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impĕtres",
+                "traduzioni": [
+                    "che tu consegua",
+                    "che tu ottenga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impĕtret",
+                "traduzioni": [
+                    "che lui consegua",
+                    "che lei consegua",
+                    "che egli consegua",
+                    "che lui ottenga",
+                    "che lei ottenga",
+                    "che egli ottenga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impĕtrēmus",
+                "traduzioni": [
+                    "che noi conseguiamo",
+                    "che noi otteniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impĕtrētis",
+                "traduzioni": [
+                    "che voi conseguiate",
+                    "che voi otteniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impĕtrent",
+                "traduzioni": [
+                    "che loro conseguano",
+                    "che essi conseguano",
+                    "che loro ottengano",
+                    "che essi ottengano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "impĕtrārem",
+                "traduzioni": [
+                    "che io conseguissi",
+                    "che io ottenessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impĕtrāres",
+                "traduzioni": [
+                    "che tu conseguissi",
+                    "che tu ottenessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impĕtrāret",
+                "traduzioni": [
+                    "che lui conseguisse",
+                    "che lei conseguisse",
+                    "che egli conseguisse",
+                    "che lui ottenesse",
+                    "che lei ottenesse",
+                    "che egli ottenesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impĕtrarēmus",
+                "traduzioni": [
+                    "che noi conseguissimo",
+                    "che noi ottenessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impĕtrarētis",
+                "traduzioni": [
+                    "che voi conseguiste",
+                    "che voi otteneste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impĕtrārent",
+                "traduzioni": [
+                    "che loro conseguissero",
+                    "che essi conseguissero",
+                    "che loro ottenessero",
+                    "che essi ottenessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "impetravĕrim",
+                "traduzioni": [
+                    "che io abbia conseguito",
+                    "che io abbia ottenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impetravĕris",
+                "traduzioni": [
+                    "che tu abbia conseguito",
+                    "che tu abbia ottenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impetravĕrit",
+                "traduzioni": [
+                    "che lui abbia conseguito",
+                    "che lei abbia conseguito",
+                    "che egli abbia conseguito",
+                    "che lui abbia ottenuto",
+                    "che lei abbia ottenuto",
+                    "che egli abbia ottenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impetraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo conseguito",
+                    "che noi abbiamo ottenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impetraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate conseguito",
+                    "che voi abbiate ottenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impetravĕrint",
+                "traduzioni": [
+                    "che loro abbiano conseguito",
+                    "che essi abbiano conseguito",
+                    "che loro abbiano ottenuto",
+                    "che essi abbiano ottenuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "impetravissem",
+                "traduzioni": [
+                    "che io avessi conseguito",
+                    "che io avessi ottenuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "impetravisses",
+                "traduzioni": [
+                    "che tu avessi conseguito",
+                    "che tu avessi ottenuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "impetravisset",
+                "traduzioni": [
+                    "che lui avesse conseguito",
+                    "che lei avesse conseguito",
+                    "che egli avesse conseguito",
+                    "che lui avesse ottenuto",
+                    "che lei avesse ottenuto",
+                    "che egli avesse ottenuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "impetravissēmus",
+                "traduzioni": [
+                    "che noi avessimo conseguito",
+                    "che noi avessimo ottenuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "impetravissētis",
+                "traduzioni": [
+                    "che voi aveste conseguito",
+                    "che voi aveste ottenuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "impetravissent",
+                "traduzioni": [
+                    "che loro avessero conseguito",
+                    "che essi avessero conseguito",
+                    "che loro avessero ottenuto",
+                    "che essi avessero ottenuto"
+                ]
+            }
+        ]
+    }
+}

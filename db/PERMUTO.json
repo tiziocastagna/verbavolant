@@ -1,0 +1,1302 @@
+{
+    "identifier": "PERMUTO",
+    "conuigazione": "1",
+    "translation": [
+        "scambiare",
+        "barattare",
+        "cambiare",
+        "capovolgere",
+        "sovvertire",
+        "rovesciare",
+        "trasferire",
+        "sostituire"
+    ],
+    "valid_translations": [
+        "scambiare",
+        "barattare",
+        "cambiare",
+        "capovolgere",
+        "sovvertire",
+        "rovesciare",
+        "trasferire",
+        "sostituire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "permūto",
+                "traduzioni": [
+                    "io scambio",
+                    "io baratto",
+                    "io cambio",
+                    "io capovolgo",
+                    "io sovverto",
+                    "io rovescio",
+                    "io trasferisco",
+                    "io sostituisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permūtas",
+                "traduzioni": [
+                    "tu scambi",
+                    "tu baratti",
+                    "tu cambi",
+                    "tu capovolgi",
+                    "tu sovverti",
+                    "tu rovesci",
+                    "tu trasferisci",
+                    "tu sostituisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permūtat",
+                "traduzioni": [
+                    "lui scambia",
+                    "lei scambia",
+                    "egli scambia",
+                    "lui baratta",
+                    "lei baratta",
+                    "egli baratta",
+                    "lui cambia",
+                    "lei cambia",
+                    "egli cambia",
+                    "lui capovolge",
+                    "lei capovolge",
+                    "egli capovolge",
+                    "lui sovverte",
+                    "lei sovverte",
+                    "egli sovverte",
+                    "lui rovescia",
+                    "lei rovescia",
+                    "egli rovescia",
+                    "lui trasferisce",
+                    "lei trasferisce",
+                    "egli trasferisce",
+                    "lui sostituisce",
+                    "lei sostituisce",
+                    "egli sostituisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permūtāmus",
+                "traduzioni": [
+                    "noi scambiamo",
+                    "noi barattiamo",
+                    "noi cambiamo",
+                    "noi capovolgiamo",
+                    "noi sovvertiamo",
+                    "noi rovesciamo",
+                    "noi trasferiamo",
+                    "noi sostituiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permūtātis",
+                "traduzioni": [
+                    "voi scambiate",
+                    "voi barattate",
+                    "voi cambiate",
+                    "voi capovolgete",
+                    "voi sovvertite",
+                    "voi rovesciate",
+                    "voi trasferite",
+                    "voi sostituite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permūtant",
+                "traduzioni": [
+                    "loro scambiano",
+                    "essi scambiano",
+                    "loro barattano",
+                    "essi barattano",
+                    "loro cambiano",
+                    "essi cambiano",
+                    "loro capovolgono",
+                    "essi capovolgono",
+                    "loro sovvertono",
+                    "essi sovvertono",
+                    "loro rovesciano",
+                    "essi rovesciano",
+                    "loro trasferiscono",
+                    "essi trasferiscono",
+                    "loro sostituiscono",
+                    "essi sostituiscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "permūtābam",
+                "traduzioni": [
+                    "io scambiavo",
+                    "io barattavo",
+                    "io cambiavo",
+                    "io capovolgevo",
+                    "io sovvertivo",
+                    "io rovesciavo",
+                    "io trasferivo",
+                    "io sostituivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permūtābas",
+                "traduzioni": [
+                    "tu scambiavi",
+                    "tu barattavi",
+                    "tu cambiavi",
+                    "tu capovolgevi",
+                    "tu sovvertivi",
+                    "tu rovesciavi",
+                    "tu trasferivi",
+                    "tu sostituivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permūtābat",
+                "traduzioni": [
+                    "lui scambiava",
+                    "lei scambiava",
+                    "egli scambiava",
+                    "lui barattava",
+                    "lei barattava",
+                    "egli barattava",
+                    "lui cambiava",
+                    "lei cambiava",
+                    "egli cambiava",
+                    "lui capovolgeva",
+                    "lei capovolgeva",
+                    "egli capovolgeva",
+                    "lui sovvertiva",
+                    "lei sovvertiva",
+                    "egli sovvertiva",
+                    "lui rovesciava",
+                    "lei rovesciava",
+                    "egli rovesciava",
+                    "lui trasferiva",
+                    "lei trasferiva",
+                    "egli trasferiva",
+                    "lui sostituiva",
+                    "lei sostituiva",
+                    "egli sostituiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permūtabāmus",
+                "traduzioni": [
+                    "noi scambiavamo",
+                    "noi barattavamo",
+                    "noi cambiavamo",
+                    "noi capovolgevamo",
+                    "noi sovvertivamo",
+                    "noi rovesciavamo",
+                    "noi trasferivamo",
+                    "noi sostituivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permūtabātis",
+                "traduzioni": [
+                    "voi scambiavate",
+                    "voi barattavate",
+                    "voi cambiavate",
+                    "voi capovolgevate",
+                    "voi sovvertivate",
+                    "voi rovesciavate",
+                    "voi trasferivate",
+                    "voi sostituivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permūtābant",
+                "traduzioni": [
+                    "loro scambiavano",
+                    "essi scambiavano",
+                    "loro barattavano",
+                    "essi barattavano",
+                    "loro cambiavano",
+                    "essi cambiavano",
+                    "loro capovolgevano",
+                    "essi capovolgevano",
+                    "loro sovvertivano",
+                    "essi sovvertivano",
+                    "loro rovesciavano",
+                    "essi rovesciavano",
+                    "loro trasferivano",
+                    "essi trasferivano",
+                    "loro sostituivano",
+                    "essi sostituivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "permūtābo",
+                "traduzioni": [
+                    "io scambierò",
+                    "io baratterò",
+                    "io cambierò",
+                    "io capovolgerò",
+                    "io sovvertirò",
+                    "io rovescerò",
+                    "io trasferirò",
+                    "io sostituirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permūtābis",
+                "traduzioni": [
+                    "tu scambierai",
+                    "tu baratterai",
+                    "tu cambierai",
+                    "tu capovolgerai",
+                    "tu sovvertirai",
+                    "tu rovescerai",
+                    "tu trasferirai",
+                    "tu sostituirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permūtābit",
+                "traduzioni": [
+                    "lui scambierà",
+                    "lei scambierà",
+                    "egli scambierà",
+                    "lui baratterà",
+                    "lei baratterà",
+                    "egli baratterà",
+                    "lui cambierà",
+                    "lei cambierà",
+                    "egli cambierà",
+                    "lui capovolgerà",
+                    "lei capovolgerà",
+                    "egli capovolgerà",
+                    "lui sovvertirà",
+                    "lei sovvertirà",
+                    "egli sovvertirà",
+                    "lui rovescerà",
+                    "lei rovescerà",
+                    "egli rovescerà",
+                    "lui trasferirà",
+                    "lei trasferirà",
+                    "egli trasferirà",
+                    "lui sostituirà",
+                    "lei sostituirà",
+                    "egli sostituirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permūtabĭmus",
+                "traduzioni": [
+                    "noi scambieremo",
+                    "noi baratteremo",
+                    "noi cambieremo",
+                    "noi capovolgeremo",
+                    "noi sovvertiremo",
+                    "noi rovesceremo",
+                    "noi trasferiremo",
+                    "noi sostituiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permūtabĭtis",
+                "traduzioni": [
+                    "voi scambierete",
+                    "voi baratterete",
+                    "voi cambierete",
+                    "voi capovolgerete",
+                    "voi sovvertirete",
+                    "voi rovescerete",
+                    "voi trasferirete",
+                    "voi sostituirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permūtābunt",
+                "traduzioni": [
+                    "loro scambieranno",
+                    "essi scambieranno",
+                    "loro baratteranno",
+                    "essi baratteranno",
+                    "loro cambieranno",
+                    "essi cambieranno",
+                    "loro capovolgeranno",
+                    "essi capovolgeranno",
+                    "loro sovvertiranno",
+                    "essi sovvertiranno",
+                    "loro rovesceranno",
+                    "essi rovesceranno",
+                    "loro trasferiranno",
+                    "essi trasferiranno",
+                    "loro sostituiranno",
+                    "essi sostituiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "permutavi",
+                "traduzioni": [
+                    "io scambiai",
+                    "io ho scambiato",
+                    "io ebbi scambiato",
+                    "io barattai",
+                    "io ho barattato",
+                    "io ebbi barattato",
+                    "io cambiai",
+                    "io sono cambiato",
+                    "io sono cambiata",
+                    "io fui cambiato",
+                    "io fui cambiata",
+                    "io capovolsi",
+                    "io ho capovolto",
+                    "io ebbi capovolto",
+                    "io sovvertii",
+                    "io ho sovvertito",
+                    "io ebbi sovvertito",
+                    "io rovesciai",
+                    "io ho rovesciato",
+                    "io ebbi rovesciato",
+                    "io trasferii",
+                    "io ho trasferito",
+                    "io ebbi trasferito",
+                    "io sostituii",
+                    "io ho sostituito",
+                    "io ebbi sostituito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permutavisti",
+                "traduzioni": [
+                    "tu scambiasti",
+                    "tu hai scambiato",
+                    "tu avesti scambiato",
+                    "tu barattasti",
+                    "tu hai barattato",
+                    "tu avesti barattato",
+                    "tu cambiasti",
+                    "tu sei cambiato",
+                    "tu sei cambiata",
+                    "tu fosti cambiato",
+                    "tu fosti cambiata",
+                    "tu capovolgesti",
+                    "tu hai capovolto",
+                    "tu avesti capovolto",
+                    "tu sovvertisti",
+                    "tu hai sovvertito",
+                    "tu avesti sovvertito",
+                    "tu rovesciasti",
+                    "tu hai rovesciato",
+                    "tu avesti rovesciato",
+                    "tu trasferisti",
+                    "tu hai trasferito",
+                    "tu avesti trasferito",
+                    "tu sostituisti",
+                    "tu hai sostituito",
+                    "tu avesti sostituito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permutavit",
+                "traduzioni": [
+                    "lui scambiò",
+                    "lei scambiò",
+                    "egli scambiò",
+                    "lui ha scambiato",
+                    "lei ha scambiato",
+                    "egli ha scambiato",
+                    "lui ebbe scambiato",
+                    "lei ebbe scambiato",
+                    "egli ebbe scambiato",
+                    "lui barattò",
+                    "lei barattò",
+                    "egli barattò",
+                    "lui ha barattato",
+                    "lei ha barattato",
+                    "egli ha barattato",
+                    "lui ebbe barattato",
+                    "lei ebbe barattato",
+                    "egli ebbe barattato",
+                    "lui cambiò",
+                    "lei cambiò",
+                    "egli cambiò",
+                    "lui è cambiato",
+                    "lei è cambiata",
+                    "egli è cambiato",
+                    "lui fu cambiato",
+                    "lei fu cambiata",
+                    "egli fu cambiato",
+                    "lui capovolse",
+                    "lei capovolse",
+                    "egli capovolse",
+                    "lui ha capovolto",
+                    "lei ha capovolto",
+                    "egli ha capovolto",
+                    "lui ebbe capovolto",
+                    "lei ebbe capovolto",
+                    "egli ebbe capovolto",
+                    "lui sovvertì",
+                    "lei sovvertì",
+                    "egli sovvertì",
+                    "lui ha sovvertito",
+                    "lei ha sovvertito",
+                    "egli ha sovvertito",
+                    "lui ebbe sovvertito",
+                    "lei ebbe sovvertito",
+                    "egli ebbe sovvertito",
+                    "lui rovesciò",
+                    "lei rovesciò",
+                    "egli rovesciò",
+                    "lui ha rovesciato",
+                    "lei ha rovesciato",
+                    "egli ha rovesciato",
+                    "lui ebbe rovesciato",
+                    "lei ebbe rovesciato",
+                    "egli ebbe rovesciato",
+                    "lui trasferì",
+                    "lei trasferì",
+                    "egli trasferì",
+                    "lui ha trasferito",
+                    "lei ha trasferito",
+                    "egli ha trasferito",
+                    "lui ebbe trasferito",
+                    "lei ebbe trasferito",
+                    "egli ebbe trasferito",
+                    "lui sostituì",
+                    "lei sostituì",
+                    "egli sostituì",
+                    "lui ha sostituito",
+                    "lei ha sostituito",
+                    "egli ha sostituito",
+                    "lui ebbe sostituito",
+                    "lei ebbe sostituito",
+                    "egli ebbe sostituito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permutavĭmus",
+                "traduzioni": [
+                    "noi scambiammo",
+                    "noi abbiamo scambiato",
+                    "noi avemmo scambiato",
+                    "noi barattammo",
+                    "noi abbiamo barattato",
+                    "noi avemmo barattato",
+                    "noi cambiammo",
+                    "noi siamo cambiati",
+                    "noi siamo cambiate",
+                    "noi fummo cambiati",
+                    "noi fummo cambiate",
+                    "noi capovolgemmo",
+                    "noi abbiamo capovolto",
+                    "noi avemmo capovolto",
+                    "noi sovvertimmo",
+                    "noi abbiamo sovvertito",
+                    "noi avemmo sovvertito",
+                    "noi rovesciammo",
+                    "noi abbiamo rovesciato",
+                    "noi avemmo rovesciato",
+                    "noi trasferimmo",
+                    "noi abbiamo trasferito",
+                    "noi avemmo trasferito",
+                    "noi sostituimmo",
+                    "noi abbiamo sostituito",
+                    "noi avemmo sostituito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permutavistis",
+                "traduzioni": [
+                    "voi scambiaste",
+                    "voi avete scambiato",
+                    "voi aveste scambiato",
+                    "voi barattaste",
+                    "voi avete barattato",
+                    "voi aveste barattato",
+                    "voi cambiaste",
+                    "voi siete cambiati",
+                    "voi siete cambiate",
+                    "voi foste cambiati",
+                    "voi foste cambiate",
+                    "voi capovolgeste",
+                    "voi avete capovolto",
+                    "voi aveste capovolto",
+                    "voi sovvertiste",
+                    "voi avete sovvertito",
+                    "voi aveste sovvertito",
+                    "voi rovesciaste",
+                    "voi avete rovesciato",
+                    "voi aveste rovesciato",
+                    "voi trasferiste",
+                    "voi avete trasferito",
+                    "voi aveste trasferito",
+                    "voi sostituiste",
+                    "voi avete sostituito",
+                    "voi aveste sostituito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permutavērunt, permutavēre",
+                "traduzioni": [
+                    "loro scambiarono",
+                    "essi scambiarono",
+                    "loro hanno scambiato",
+                    "essi hanno scambiato",
+                    "loro ebbero scambiato",
+                    "essi ebbero scambiato",
+                    "loro barattarono",
+                    "essi barattarono",
+                    "loro hanno barattato",
+                    "essi hanno barattato",
+                    "loro ebbero barattato",
+                    "essi ebbero barattato",
+                    "loro cambiarono",
+                    "essi cambiarono",
+                    "loro sono cambiati",
+                    "loro sono cambiate",
+                    "essi sono cambiati",
+                    "loro furono cambiati",
+                    "loro furono cambiate",
+                    "essi furono cambiati",
+                    "loro capovolsero",
+                    "essi capovolsero",
+                    "loro hanno capovolto",
+                    "essi hanno capovolto",
+                    "loro ebbero capovolto",
+                    "essi ebbero capovolto",
+                    "loro sovvertirono",
+                    "essi sovvertirono",
+                    "loro hanno sovvertito",
+                    "essi hanno sovvertito",
+                    "loro ebbero sovvertito",
+                    "essi ebbero sovvertito",
+                    "loro rovesciarono",
+                    "essi rovesciarono",
+                    "loro hanno rovesciato",
+                    "essi hanno rovesciato",
+                    "loro ebbero rovesciato",
+                    "essi ebbero rovesciato",
+                    "loro trasferirono",
+                    "essi trasferirono",
+                    "loro hanno trasferito",
+                    "essi hanno trasferito",
+                    "loro ebbero trasferito",
+                    "essi ebbero trasferito",
+                    "loro sostituirono",
+                    "essi sostituirono",
+                    "loro hanno sostituito",
+                    "essi hanno sostituito",
+                    "loro ebbero sostituito",
+                    "essi ebbero sostituito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "permutavĕram",
+                "traduzioni": [
+                    "io avevo scambiato",
+                    "io avevo barattato",
+                    "io ero cambiato",
+                    "io ero cambiata",
+                    "io avevo capovolto",
+                    "io avevo sovvertito",
+                    "io avevo rovesciato",
+                    "io avevo trasferito",
+                    "io avevo sostituito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permutavĕras",
+                "traduzioni": [
+                    "tu avevi scambiato",
+                    "tu avevi barattato",
+                    "tu eri cambiato",
+                    "tu eri cambiata",
+                    "tu avevi capovolto",
+                    "tu avevi sovvertito",
+                    "tu avevi rovesciato",
+                    "tu avevi trasferito",
+                    "tu avevi sostituito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permutavĕrat",
+                "traduzioni": [
+                    "lui aveva scambiato",
+                    "lei aveva scambiato",
+                    "egli aveva scambiato",
+                    "lui aveva barattato",
+                    "lei aveva barattato",
+                    "egli aveva barattato",
+                    "lui era cambiato",
+                    "lei era cambiata",
+                    "egli era cambiato",
+                    "lui aveva capovolto",
+                    "lei aveva capovolto",
+                    "egli aveva capovolto",
+                    "lui aveva sovvertito",
+                    "lei aveva sovvertito",
+                    "egli aveva sovvertito",
+                    "lui aveva rovesciato",
+                    "lei aveva rovesciato",
+                    "egli aveva rovesciato",
+                    "lui aveva trasferito",
+                    "lei aveva trasferito",
+                    "egli aveva trasferito",
+                    "lui aveva sostituito",
+                    "lei aveva sostituito",
+                    "egli aveva sostituito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permutaverāmus",
+                "traduzioni": [
+                    "noi avevamo scambiato",
+                    "noi avevamo barattato",
+                    "noi eravamo cambiati",
+                    "noi eravamo cambiate",
+                    "noi avevamo capovolto",
+                    "noi avevamo sovvertito",
+                    "noi avevamo rovesciato",
+                    "noi avevamo trasferito",
+                    "noi avevamo sostituito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permutaverātis",
+                "traduzioni": [
+                    "voi avevate scambiato",
+                    "voi avevate barattato",
+                    "voi eravate cambiati",
+                    "voi eravate cambiate",
+                    "voi avevate capovolto",
+                    "voi avevate sovvertito",
+                    "voi avevate rovesciato",
+                    "voi avevate trasferito",
+                    "voi avevate sostituito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permutavĕrant",
+                "traduzioni": [
+                    "loro avevano scambiato",
+                    "essi avevano scambiato",
+                    "loro avevano barattato",
+                    "essi avevano barattato",
+                    "loro erano cambiati",
+                    "loro erano cambiate",
+                    "essi erano cambiati",
+                    "loro avevano capovolto",
+                    "essi avevano capovolto",
+                    "loro avevano sovvertito",
+                    "essi avevano sovvertito",
+                    "loro avevano rovesciato",
+                    "essi avevano rovesciato",
+                    "loro avevano trasferito",
+                    "essi avevano trasferito",
+                    "loro avevano sostituito",
+                    "essi avevano sostituito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "permutavĕro",
+                "traduzioni": [
+                    "io avrò scambiato",
+                    "io avrò barattato",
+                    "io sarò cambiato",
+                    "io sarò cambiata",
+                    "io avrò capovolto",
+                    "io avrò sovvertito",
+                    "io avrò rovesciato",
+                    "io avrò trasferito",
+                    "io avrò sostituito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permutavĕris",
+                "traduzioni": [
+                    "tu avrai scambiato",
+                    "tu avrai barattato",
+                    "tu sarai cambiato",
+                    "tu sarai cambiata",
+                    "tu avrai capovolto",
+                    "tu avrai sovvertito",
+                    "tu avrai rovesciato",
+                    "tu avrai trasferito",
+                    "tu avrai sostituito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permutavĕrit",
+                "traduzioni": [
+                    "lui avrà scambiato",
+                    "lei avrà scambiato",
+                    "egli avrà scambiato",
+                    "lui avrà barattato",
+                    "lei avrà barattato",
+                    "egli avrà barattato",
+                    "lui sarà cambiato",
+                    "lei sarà cambiata",
+                    "egli sarà cambiato",
+                    "lui avrà capovolto",
+                    "lei avrà capovolto",
+                    "egli avrà capovolto",
+                    "lui avrà sovvertito",
+                    "lei avrà sovvertito",
+                    "egli avrà sovvertito",
+                    "lui avrà rovesciato",
+                    "lei avrà rovesciato",
+                    "egli avrà rovesciato",
+                    "lui avrà trasferito",
+                    "lei avrà trasferito",
+                    "egli avrà trasferito",
+                    "lui avrà sostituito",
+                    "lei avrà sostituito",
+                    "egli avrà sostituito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permutaverĭmus",
+                "traduzioni": [
+                    "noi avremo scambiato",
+                    "noi avremo barattato",
+                    "noi saremo cambiati",
+                    "noi saremo cambiate",
+                    "noi avremo capovolto",
+                    "noi avremo sovvertito",
+                    "noi avremo rovesciato",
+                    "noi avremo trasferito",
+                    "noi avremo sostituito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permutaverĭtis",
+                "traduzioni": [
+                    "voi avrete scambiato",
+                    "voi avrete barattato",
+                    "voi sarete cambiati",
+                    "voi sarete cambiate",
+                    "voi avrete capovolto",
+                    "voi avrete sovvertito",
+                    "voi avrete rovesciato",
+                    "voi avrete trasferito",
+                    "voi avrete sostituito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permutavĕrint",
+                "traduzioni": [
+                    "loro avranno scambiato",
+                    "essi avranno scambiato",
+                    "loro avranno barattato",
+                    "essi avranno barattato",
+                    "loro saranno cambiati",
+                    "loro saranno cambiate",
+                    "essi saranno cambiati",
+                    "loro avranno capovolto",
+                    "essi avranno capovolto",
+                    "loro avranno sovvertito",
+                    "essi avranno sovvertito",
+                    "loro avranno rovesciato",
+                    "essi avranno rovesciato",
+                    "loro avranno trasferito",
+                    "essi avranno trasferito",
+                    "loro avranno sostituito",
+                    "essi avranno sostituito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "permūtem",
+                "traduzioni": [
+                    "che io scambi",
+                    "che io baratti",
+                    "che io cambi",
+                    "che io capovolga",
+                    "che io sovverta",
+                    "che io rovesci",
+                    "che io trasferisca",
+                    "che io sostituisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permūtes",
+                "traduzioni": [
+                    "che tu scambi",
+                    "che tu baratti",
+                    "che tu cambi",
+                    "che tu capovolga",
+                    "che tu sovverta",
+                    "che tu rovesci",
+                    "che tu trasferisca",
+                    "che tu sostituisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permūtet",
+                "traduzioni": [
+                    "che lui scambi",
+                    "che lei scambi",
+                    "che egli scambi",
+                    "che lui baratti",
+                    "che lei baratti",
+                    "che egli baratti",
+                    "che lui cambi",
+                    "che lei cambi",
+                    "che egli cambi",
+                    "che lui capovolga",
+                    "che lei capovolga",
+                    "che egli capovolga",
+                    "che lui sovverta",
+                    "che lei sovverta",
+                    "che egli sovverta",
+                    "che lui rovesci",
+                    "che lei rovesci",
+                    "che egli rovesci",
+                    "che lui trasferisca",
+                    "che lei trasferisca",
+                    "che egli trasferisca",
+                    "che lui sostituisca",
+                    "che lei sostituisca",
+                    "che egli sostituisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permūtēmus",
+                "traduzioni": [
+                    "che noi scambiamo",
+                    "che noi barattiamo",
+                    "che noi cambiamo",
+                    "che noi capovolgiamo",
+                    "che noi sovvertiamo",
+                    "che noi rovesciamo",
+                    "che noi trasferiamo",
+                    "che noi sostituiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permūtētis",
+                "traduzioni": [
+                    "che voi scambiate",
+                    "che voi barattiate",
+                    "che voi cambiate",
+                    "che voi capovolgiate",
+                    "che voi sovvertiate",
+                    "che voi rovesciate",
+                    "che voi trasferiate",
+                    "che voi sostituiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permūtent",
+                "traduzioni": [
+                    "che loro scambino",
+                    "che essi scambino",
+                    "che loro barattino",
+                    "che essi barattino",
+                    "che loro cambino",
+                    "che essi cambino",
+                    "che loro capovolgano",
+                    "che essi capovolgano",
+                    "che loro sovvertano",
+                    "che essi sovvertano",
+                    "che loro rovescino",
+                    "che essi rovescino",
+                    "che loro trasferiscano",
+                    "che essi trasferiscano",
+                    "che loro sostituiscano",
+                    "che essi sostituiscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "permūtārem",
+                "traduzioni": [
+                    "che io scambiassi",
+                    "che io barattassi",
+                    "che io cambiassi",
+                    "che io capovolgessi",
+                    "che io sovvertissi",
+                    "che io rovesciassi",
+                    "che io trasferissi",
+                    "che io sostituissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permūtāres",
+                "traduzioni": [
+                    "che tu scambiassi",
+                    "che tu barattassi",
+                    "che tu cambiassi",
+                    "che tu capovolgessi",
+                    "che tu sovvertissi",
+                    "che tu rovesciassi",
+                    "che tu trasferissi",
+                    "che tu sostituissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permūtāret",
+                "traduzioni": [
+                    "che lui scambiasse",
+                    "che lei scambiasse",
+                    "che egli scambiasse",
+                    "che lui barattasse",
+                    "che lei barattasse",
+                    "che egli barattasse",
+                    "che lui cambiasse",
+                    "che lei cambiasse",
+                    "che egli cambiasse",
+                    "che lui capovolgesse",
+                    "che lei capovolgesse",
+                    "che egli capovolgesse",
+                    "che lui sovvertisse",
+                    "che lei sovvertisse",
+                    "che egli sovvertisse",
+                    "che lui rovesciasse",
+                    "che lei rovesciasse",
+                    "che egli rovesciasse",
+                    "che lui trasferisse",
+                    "che lei trasferisse",
+                    "che egli trasferisse",
+                    "che lui sostituisse",
+                    "che lei sostituisse",
+                    "che egli sostituisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permūtarēmus",
+                "traduzioni": [
+                    "che noi scambiassimo",
+                    "che noi barattassimo",
+                    "che noi cambiassimo",
+                    "che noi capovolgessimo",
+                    "che noi sovvertissimo",
+                    "che noi rovesciassimo",
+                    "che noi trasferissimo",
+                    "che noi sostituissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permūtarētis",
+                "traduzioni": [
+                    "che voi scambiaste",
+                    "che voi barattaste",
+                    "che voi cambiaste",
+                    "che voi capovolgeste",
+                    "che voi sovvertiste",
+                    "che voi rovesciaste",
+                    "che voi trasferiste",
+                    "che voi sostituiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permūtārent",
+                "traduzioni": [
+                    "che loro scambiassero",
+                    "che essi scambiassero",
+                    "che loro barattassero",
+                    "che essi barattassero",
+                    "che loro cambiassero",
+                    "che essi cambiassero",
+                    "che loro capovolgessero",
+                    "che essi capovolgessero",
+                    "che loro sovvertissero",
+                    "che essi sovvertissero",
+                    "che loro rovesciassero",
+                    "che essi rovesciassero",
+                    "che loro trasferissero",
+                    "che essi trasferissero",
+                    "che loro sostituissero",
+                    "che essi sostituissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "permutavĕrim",
+                "traduzioni": [
+                    "che io abbia scambiato",
+                    "che io abbia barattato",
+                    "che io sia cambiato",
+                    "che io sia cambiata",
+                    "che io abbia capovolto",
+                    "che io abbia sovvertito",
+                    "che io abbia rovesciato",
+                    "che io abbia trasferito",
+                    "che io abbia sostituito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permutavĕris",
+                "traduzioni": [
+                    "che tu abbia scambiato",
+                    "che tu abbia barattato",
+                    "che tu sia cambiato",
+                    "che tu sia cambiata",
+                    "che tu abbia capovolto",
+                    "che tu abbia sovvertito",
+                    "che tu abbia rovesciato",
+                    "che tu abbia trasferito",
+                    "che tu abbia sostituito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permutavĕrit",
+                "traduzioni": [
+                    "che lui abbia scambiato",
+                    "che lei abbia scambiato",
+                    "che egli abbia scambiato",
+                    "che lui abbia barattato",
+                    "che lei abbia barattato",
+                    "che egli abbia barattato",
+                    "che lui sia cambiato",
+                    "che lei sia cambiata",
+                    "che egli sia cambiato",
+                    "che lui abbia capovolto",
+                    "che lei abbia capovolto",
+                    "che egli abbia capovolto",
+                    "che lui abbia sovvertito",
+                    "che lei abbia sovvertito",
+                    "che egli abbia sovvertito",
+                    "che lui abbia rovesciato",
+                    "che lei abbia rovesciato",
+                    "che egli abbia rovesciato",
+                    "che lui abbia trasferito",
+                    "che lei abbia trasferito",
+                    "che egli abbia trasferito",
+                    "che lui abbia sostituito",
+                    "che lei abbia sostituito",
+                    "che egli abbia sostituito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permutaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo scambiato",
+                    "che noi abbiamo barattato",
+                    "che noi siamo cambiati",
+                    "che noi siamo cambiate",
+                    "che noi abbiamo capovolto",
+                    "che noi abbiamo sovvertito",
+                    "che noi abbiamo rovesciato",
+                    "che noi abbiamo trasferito",
+                    "che noi abbiamo sostituito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permutaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate scambiato",
+                    "che voi abbiate barattato",
+                    "che voi siate cambiati",
+                    "che voi siate cambiate",
+                    "che voi abbiate capovolto",
+                    "che voi abbiate sovvertito",
+                    "che voi abbiate rovesciato",
+                    "che voi abbiate trasferito",
+                    "che voi abbiate sostituito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permutavĕrint",
+                "traduzioni": [
+                    "che loro abbiano scambiato",
+                    "che essi abbiano scambiato",
+                    "che loro abbiano barattato",
+                    "che essi abbiano barattato",
+                    "che loro siano cambiati",
+                    "che loro siano cambiate",
+                    "che essi siano cambiati",
+                    "che loro abbiano capovolto",
+                    "che essi abbiano capovolto",
+                    "che loro abbiano sovvertito",
+                    "che essi abbiano sovvertito",
+                    "che loro abbiano rovesciato",
+                    "che essi abbiano rovesciato",
+                    "che loro abbiano trasferito",
+                    "che essi abbiano trasferito",
+                    "che loro abbiano sostituito",
+                    "che essi abbiano sostituito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "permutavissem",
+                "traduzioni": [
+                    "che io avessi scambiato",
+                    "che io avessi barattato",
+                    "che io fossi cambiato",
+                    "che io fossi cambiata",
+                    "che io avessi capovolto",
+                    "che io avessi sovvertito",
+                    "che io avessi rovesciato",
+                    "che io avessi trasferito",
+                    "che io avessi sostituito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "permutavisses",
+                "traduzioni": [
+                    "che tu avessi scambiato",
+                    "che tu avessi barattato",
+                    "che tu fossi cambiato",
+                    "che tu fossi cambiata",
+                    "che tu avessi capovolto",
+                    "che tu avessi sovvertito",
+                    "che tu avessi rovesciato",
+                    "che tu avessi trasferito",
+                    "che tu avessi sostituito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "permutavisset",
+                "traduzioni": [
+                    "che lui avesse scambiato",
+                    "che lei avesse scambiato",
+                    "che egli avesse scambiato",
+                    "che lui avesse barattato",
+                    "che lei avesse barattato",
+                    "che egli avesse barattato",
+                    "che lui fosse cambiato",
+                    "che lei fosse cambiata",
+                    "che egli fosse cambiato",
+                    "che lui avesse capovolto",
+                    "che lei avesse capovolto",
+                    "che egli avesse capovolto",
+                    "che lui avesse sovvertito",
+                    "che lei avesse sovvertito",
+                    "che egli avesse sovvertito",
+                    "che lui avesse rovesciato",
+                    "che lei avesse rovesciato",
+                    "che egli avesse rovesciato",
+                    "che lui avesse trasferito",
+                    "che lei avesse trasferito",
+                    "che egli avesse trasferito",
+                    "che lui avesse sostituito",
+                    "che lei avesse sostituito",
+                    "che egli avesse sostituito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "permutavissēmus",
+                "traduzioni": [
+                    "che noi avessimo scambiato",
+                    "che noi avessimo barattato",
+                    "che noi fossimo cambiati",
+                    "che noi fossimo cambiate",
+                    "che noi avessimo capovolto",
+                    "che noi avessimo sovvertito",
+                    "che noi avessimo rovesciato",
+                    "che noi avessimo trasferito",
+                    "che noi avessimo sostituito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "permutavissētis",
+                "traduzioni": [
+                    "che voi aveste scambiato",
+                    "che voi aveste barattato",
+                    "che voi foste cambiati",
+                    "che voi foste cambiate",
+                    "che voi aveste capovolto",
+                    "che voi aveste sovvertito",
+                    "che voi aveste rovesciato",
+                    "che voi aveste trasferito",
+                    "che voi aveste sostituito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "permutavissent",
+                "traduzioni": [
+                    "che loro avessero scambiato",
+                    "che essi avessero scambiato",
+                    "che loro avessero barattato",
+                    "che essi avessero barattato",
+                    "che loro fossero cambiati",
+                    "che loro fossero cambiate",
+                    "che essi fossero cambiati",
+                    "che loro avessero capovolto",
+                    "che essi avessero capovolto",
+                    "che loro avessero sovvertito",
+                    "che essi avessero sovvertito",
+                    "che loro avessero rovesciato",
+                    "che essi avessero rovesciato",
+                    "che loro avessero trasferito",
+                    "che essi avessero trasferito",
+                    "che loro avessero sostituito",
+                    "che essi avessero sostituito"
+                ]
+            }
+        ]
+    }
+}

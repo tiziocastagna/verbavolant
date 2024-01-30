@@ -1,0 +1,943 @@
+{
+    "identifier": "PERTURBO",
+    "conuigazione": "1",
+    "translation": [
+        "sconvolgere",
+        "scompigliare",
+        "sovvertire",
+        "(della mente o dell'animo) turbare",
+        "inquietare",
+        "commuovere"
+    ],
+    "valid_translations": [
+        "sconvolgere",
+        "scompigliare",
+        "sovvertire",
+        "inquietare",
+        "commuovere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "perturbo",
+                "traduzioni": [
+                    "io sconvolgo",
+                    "io scompiglio",
+                    "io sovverto",
+                    "io inquieto",
+                    "io commuovo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perturbas",
+                "traduzioni": [
+                    "tu sconvolgi",
+                    "tu scompigli",
+                    "tu sovverti",
+                    "tu inquieti",
+                    "tu commuovi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perturbat",
+                "traduzioni": [
+                    "lui sconvolge",
+                    "lei sconvolge",
+                    "egli sconvolge",
+                    "lui scompiglia",
+                    "lei scompiglia",
+                    "egli scompiglia",
+                    "lui sovverte",
+                    "lei sovverte",
+                    "egli sovverte",
+                    "lui inquieta",
+                    "lei inquieta",
+                    "egli inquieta",
+                    "lui commuove",
+                    "lei commuove",
+                    "egli commuove"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perturbāmus",
+                "traduzioni": [
+                    "noi sconvolgiamo",
+                    "noi scompigliamo",
+                    "noi sovvertiamo",
+                    "noi inquietiamo",
+                    "noi comm(u)oviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perturbātis",
+                "traduzioni": [
+                    "voi sconvolgete",
+                    "voi scompigliate",
+                    "voi sovvertite",
+                    "voi inquietate",
+                    "voi comm(u)ovete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perturbant",
+                "traduzioni": [
+                    "loro sconvolgono",
+                    "essi sconvolgono",
+                    "loro scompigliano",
+                    "essi scompigliano",
+                    "loro sovvertono",
+                    "essi sovvertono",
+                    "loro inquietano",
+                    "essi inquietano",
+                    "loro commuovono",
+                    "essi commuovono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "perturbābam",
+                "traduzioni": [
+                    "io sconvolgevo",
+                    "io scompigliavo",
+                    "io sovvertivo",
+                    "io inquietavo",
+                    "io comm(u)ovevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perturbābas",
+                "traduzioni": [
+                    "tu sconvolgevi",
+                    "tu scompigliavi",
+                    "tu sovvertivi",
+                    "tu inquietavi",
+                    "tu comm(u)ovevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perturbābat",
+                "traduzioni": [
+                    "lui sconvolgeva",
+                    "lei sconvolgeva",
+                    "egli sconvolgeva",
+                    "lui scompigliava",
+                    "lei scompigliava",
+                    "egli scompigliava",
+                    "lui sovvertiva",
+                    "lei sovvertiva",
+                    "egli sovvertiva",
+                    "lui inquietava",
+                    "lei inquietava",
+                    "egli inquietava",
+                    "lui comm(u)oveva",
+                    "lei comm(u)oveva",
+                    "egli comm(u)oveva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perturbabāmus",
+                "traduzioni": [
+                    "noi sconvolgevamo",
+                    "noi scompigliavamo",
+                    "noi sovvertivamo",
+                    "noi inquietavamo",
+                    "noi comm(u)ovevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perturbabātis",
+                "traduzioni": [
+                    "voi sconvolgevate",
+                    "voi scompigliavate",
+                    "voi sovvertivate",
+                    "voi inquietavate",
+                    "voi comm(u)ovevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perturbābant",
+                "traduzioni": [
+                    "loro sconvolgevano",
+                    "essi sconvolgevano",
+                    "loro scompigliavano",
+                    "essi scompigliavano",
+                    "loro sovvertivano",
+                    "essi sovvertivano",
+                    "loro inquietavano",
+                    "essi inquietavano",
+                    "loro comm(u)ovevano",
+                    "essi comm(u)ovevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "perturbābo",
+                "traduzioni": [
+                    "io sconvolgerò",
+                    "io scompiglierò",
+                    "io sovvertirò",
+                    "io inquieterò",
+                    "io comm(u)overò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perturbābis",
+                "traduzioni": [
+                    "tu sconvolgerai",
+                    "tu scompiglierai",
+                    "tu sovvertirai",
+                    "tu inquieterai",
+                    "tu comm(u)overai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perturbābit",
+                "traduzioni": [
+                    "lui sconvolgerà",
+                    "lei sconvolgerà",
+                    "egli sconvolgerà",
+                    "lui scompiglierà",
+                    "lei scompiglierà",
+                    "egli scompiglierà",
+                    "lui sovvertirà",
+                    "lei sovvertirà",
+                    "egli sovvertirà",
+                    "lui inquieterà",
+                    "lei inquieterà",
+                    "egli inquieterà",
+                    "lui comm(u)overà",
+                    "lei comm(u)overà",
+                    "egli comm(u)overà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perturbabĭmus",
+                "traduzioni": [
+                    "noi sconvolgeremo",
+                    "noi scompiglieremo",
+                    "noi sovvertiremo",
+                    "noi inquieteremo",
+                    "noi comm(u)overemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perturbabĭtis",
+                "traduzioni": [
+                    "voi sconvolgerete",
+                    "voi scompiglierete",
+                    "voi sovvertirete",
+                    "voi inquieterete",
+                    "voi comm(u)overete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perturbābunt",
+                "traduzioni": [
+                    "loro sconvolgeranno",
+                    "essi sconvolgeranno",
+                    "loro scompiglieranno",
+                    "essi scompiglieranno",
+                    "loro sovvertiranno",
+                    "essi sovvertiranno",
+                    "loro inquieteranno",
+                    "essi inquieteranno",
+                    "loro comm(u)overanno",
+                    "essi comm(u)overanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "perturbavi",
+                "traduzioni": [
+                    "io sconvolsi",
+                    "io ho sconvolto",
+                    "io ebbi sconvolto",
+                    "io scompigliai",
+                    "io ho scompigliato",
+                    "io ebbi scompigliato",
+                    "io sovvertii",
+                    "io ho sovvertito",
+                    "io ebbi sovvertito",
+                    "io inquietai",
+                    "io ho inquietato",
+                    "io ebbi inquietato",
+                    "io commossi",
+                    "io ho commosso",
+                    "io ebbi commosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perturbavisti",
+                "traduzioni": [
+                    "tu sconvolgesti",
+                    "tu hai sconvolto",
+                    "tu avesti sconvolto",
+                    "tu scompigliasti",
+                    "tu hai scompigliato",
+                    "tu avesti scompigliato",
+                    "tu sovvertisti",
+                    "tu hai sovvertito",
+                    "tu avesti sovvertito",
+                    "tu inquietasti",
+                    "tu hai inquietato",
+                    "tu avesti inquietato",
+                    "tu comm(u)ovesti",
+                    "tu hai commosso",
+                    "tu avesti commosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perturbavit",
+                "traduzioni": [
+                    "lui sconvolse",
+                    "lei sconvolse",
+                    "egli sconvolse",
+                    "lui ha sconvolto",
+                    "lei ha sconvolto",
+                    "egli ha sconvolto",
+                    "lui ebbe sconvolto",
+                    "lei ebbe sconvolto",
+                    "egli ebbe sconvolto",
+                    "lui scompigliò",
+                    "lei scompigliò",
+                    "egli scompigliò",
+                    "lui ha scompigliato",
+                    "lei ha scompigliato",
+                    "egli ha scompigliato",
+                    "lui ebbe scompigliato",
+                    "lei ebbe scompigliato",
+                    "egli ebbe scompigliato",
+                    "lui sovvertì",
+                    "lei sovvertì",
+                    "egli sovvertì",
+                    "lui ha sovvertito",
+                    "lei ha sovvertito",
+                    "egli ha sovvertito",
+                    "lui ebbe sovvertito",
+                    "lei ebbe sovvertito",
+                    "egli ebbe sovvertito",
+                    "lui inquietò",
+                    "lei inquietò",
+                    "egli inquietò",
+                    "lui ha inquietato",
+                    "lei ha inquietato",
+                    "egli ha inquietato",
+                    "lui ebbe inquietato",
+                    "lei ebbe inquietato",
+                    "egli ebbe inquietato",
+                    "lui commosse",
+                    "lei commosse",
+                    "egli commosse",
+                    "lui ha commosso",
+                    "lei ha commosso",
+                    "egli ha commosso",
+                    "lui ebbe commosso",
+                    "lei ebbe commosso",
+                    "egli ebbe commosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perturbavĭmus",
+                "traduzioni": [
+                    "noi sconvolgemmo",
+                    "noi abbiamo sconvolto",
+                    "noi avemmo sconvolto",
+                    "noi scompigliammo",
+                    "noi abbiamo scompigliato",
+                    "noi avemmo scompigliato",
+                    "noi sovvertimmo",
+                    "noi abbiamo sovvertito",
+                    "noi avemmo sovvertito",
+                    "noi inquietammo",
+                    "noi abbiamo inquietato",
+                    "noi avemmo inquietato",
+                    "noi comm(u)ovemmo",
+                    "noi abbiamo commosso",
+                    "noi avemmo commosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perturbavistis",
+                "traduzioni": [
+                    "voi sconvolgeste",
+                    "voi avete sconvolto",
+                    "voi aveste sconvolto",
+                    "voi scompigliaste",
+                    "voi avete scompigliato",
+                    "voi aveste scompigliato",
+                    "voi sovvertiste",
+                    "voi avete sovvertito",
+                    "voi aveste sovvertito",
+                    "voi inquietaste",
+                    "voi avete inquietato",
+                    "voi aveste inquietato",
+                    "voi comm(u)oveste",
+                    "voi avete commosso",
+                    "voi aveste commosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perturbavērunt, perturbavēre",
+                "traduzioni": [
+                    "loro sconvolsero",
+                    "essi sconvolsero",
+                    "loro hanno sconvolto",
+                    "essi hanno sconvolto",
+                    "loro ebbero sconvolto",
+                    "essi ebbero sconvolto",
+                    "loro scompigliarono",
+                    "essi scompigliarono",
+                    "loro hanno scompigliato",
+                    "essi hanno scompigliato",
+                    "loro ebbero scompigliato",
+                    "essi ebbero scompigliato",
+                    "loro sovvertirono",
+                    "essi sovvertirono",
+                    "loro hanno sovvertito",
+                    "essi hanno sovvertito",
+                    "loro ebbero sovvertito",
+                    "essi ebbero sovvertito",
+                    "loro inquietarono",
+                    "essi inquietarono",
+                    "loro hanno inquietato",
+                    "essi hanno inquietato",
+                    "loro ebbero inquietato",
+                    "essi ebbero inquietato",
+                    "loro commossero",
+                    "essi commossero",
+                    "loro hanno commosso",
+                    "essi hanno commosso",
+                    "loro ebbero commosso",
+                    "essi ebbero commosso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "perturbavĕram",
+                "traduzioni": [
+                    "io avevo sconvolto",
+                    "io avevo scompigliato",
+                    "io avevo sovvertito",
+                    "io avevo inquietato",
+                    "io avevo commosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perturbavĕras",
+                "traduzioni": [
+                    "tu avevi sconvolto",
+                    "tu avevi scompigliato",
+                    "tu avevi sovvertito",
+                    "tu avevi inquietato",
+                    "tu avevi commosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perturbavĕrat",
+                "traduzioni": [
+                    "lui aveva sconvolto",
+                    "lei aveva sconvolto",
+                    "egli aveva sconvolto",
+                    "lui aveva scompigliato",
+                    "lei aveva scompigliato",
+                    "egli aveva scompigliato",
+                    "lui aveva sovvertito",
+                    "lei aveva sovvertito",
+                    "egli aveva sovvertito",
+                    "lui aveva inquietato",
+                    "lei aveva inquietato",
+                    "egli aveva inquietato",
+                    "lui aveva commosso",
+                    "lei aveva commosso",
+                    "egli aveva commosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perturbaverāmus",
+                "traduzioni": [
+                    "noi avevamo sconvolto",
+                    "noi avevamo scompigliato",
+                    "noi avevamo sovvertito",
+                    "noi avevamo inquietato",
+                    "noi avevamo commosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perturbaverātis",
+                "traduzioni": [
+                    "voi avevate sconvolto",
+                    "voi avevate scompigliato",
+                    "voi avevate sovvertito",
+                    "voi avevate inquietato",
+                    "voi avevate commosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perturbavĕrant",
+                "traduzioni": [
+                    "loro avevano sconvolto",
+                    "essi avevano sconvolto",
+                    "loro avevano scompigliato",
+                    "essi avevano scompigliato",
+                    "loro avevano sovvertito",
+                    "essi avevano sovvertito",
+                    "loro avevano inquietato",
+                    "essi avevano inquietato",
+                    "loro avevano commosso",
+                    "essi avevano commosso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "perturbavĕro",
+                "traduzioni": [
+                    "io avrò sconvolto",
+                    "io avrò scompigliato",
+                    "io avrò sovvertito",
+                    "io avrò inquietato",
+                    "io avrò commosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perturbavĕris",
+                "traduzioni": [
+                    "tu avrai sconvolto",
+                    "tu avrai scompigliato",
+                    "tu avrai sovvertito",
+                    "tu avrai inquietato",
+                    "tu avrai commosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perturbavĕrit",
+                "traduzioni": [
+                    "lui avrà sconvolto",
+                    "lei avrà sconvolto",
+                    "egli avrà sconvolto",
+                    "lui avrà scompigliato",
+                    "lei avrà scompigliato",
+                    "egli avrà scompigliato",
+                    "lui avrà sovvertito",
+                    "lei avrà sovvertito",
+                    "egli avrà sovvertito",
+                    "lui avrà inquietato",
+                    "lei avrà inquietato",
+                    "egli avrà inquietato",
+                    "lui avrà commosso",
+                    "lei avrà commosso",
+                    "egli avrà commosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perturbaverĭmus",
+                "traduzioni": [
+                    "noi avremo sconvolto",
+                    "noi avremo scompigliato",
+                    "noi avremo sovvertito",
+                    "noi avremo inquietato",
+                    "noi avremo commosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perturbaverĭtis",
+                "traduzioni": [
+                    "voi avrete sconvolto",
+                    "voi avrete scompigliato",
+                    "voi avrete sovvertito",
+                    "voi avrete inquietato",
+                    "voi avrete commosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perturbavĕrint",
+                "traduzioni": [
+                    "loro avranno sconvolto",
+                    "essi avranno sconvolto",
+                    "loro avranno scompigliato",
+                    "essi avranno scompigliato",
+                    "loro avranno sovvertito",
+                    "essi avranno sovvertito",
+                    "loro avranno inquietato",
+                    "essi avranno inquietato",
+                    "loro avranno commosso",
+                    "essi avranno commosso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "perturbem",
+                "traduzioni": [
+                    "che io sconvolga",
+                    "che io scompigli",
+                    "che io sovverta",
+                    "che io inquieti",
+                    "che io commuova"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perturbes",
+                "traduzioni": [
+                    "che tu sconvolga",
+                    "che tu scompigli",
+                    "che tu sovverta",
+                    "che tu inquieti",
+                    "che tu commuova"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perturbet",
+                "traduzioni": [
+                    "che lui sconvolga",
+                    "che lei sconvolga",
+                    "che egli sconvolga",
+                    "che lui scompigli",
+                    "che lei scompigli",
+                    "che egli scompigli",
+                    "che lui sovverta",
+                    "che lei sovverta",
+                    "che egli sovverta",
+                    "che lui inquieti",
+                    "che lei inquieti",
+                    "che egli inquieti",
+                    "che lui commuova",
+                    "che lei commuova",
+                    "che egli commuova"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perturbēmus",
+                "traduzioni": [
+                    "che noi sconvolgiamo",
+                    "che noi scompigliamo",
+                    "che noi sovvertiamo",
+                    "che noi inquietiamo",
+                    "che noi comm(u)oviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perturbētis",
+                "traduzioni": [
+                    "che voi sconvolgiate",
+                    "che voi scompigliate",
+                    "che voi sovvertiate",
+                    "che voi inquietiate",
+                    "che voi comm(u)oviate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perturbent",
+                "traduzioni": [
+                    "che loro sconvolgano",
+                    "che essi sconvolgano",
+                    "che loro scompiglino",
+                    "che essi scompiglino",
+                    "che loro sovvertano",
+                    "che essi sovvertano",
+                    "che loro inquietino",
+                    "che essi inquietino",
+                    "che loro commuovano",
+                    "che essi commuovano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "perturbārem",
+                "traduzioni": [
+                    "che io sconvolgessi",
+                    "che io scompigliassi",
+                    "che io sovvertissi",
+                    "che io inquietassi",
+                    "che io comm(u)ovessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perturbāres",
+                "traduzioni": [
+                    "che tu sconvolgessi",
+                    "che tu scompigliassi",
+                    "che tu sovvertissi",
+                    "che tu inquietassi",
+                    "che tu comm(u)ovessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perturbāret",
+                "traduzioni": [
+                    "che lui sconvolgesse",
+                    "che lei sconvolgesse",
+                    "che egli sconvolgesse",
+                    "che lui scompigliasse",
+                    "che lei scompigliasse",
+                    "che egli scompigliasse",
+                    "che lui sovvertisse",
+                    "che lei sovvertisse",
+                    "che egli sovvertisse",
+                    "che lui inquietasse",
+                    "che lei inquietasse",
+                    "che egli inquietasse",
+                    "che lui comm(u)ovesse",
+                    "che lei comm(u)ovesse",
+                    "che egli comm(u)ovesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perturbarēmus",
+                "traduzioni": [
+                    "che noi sconvolgessimo",
+                    "che noi scompigliassimo",
+                    "che noi sovvertissimo",
+                    "che noi inquietassimo",
+                    "che noi comm(u)ovessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perturbarētis",
+                "traduzioni": [
+                    "che voi sconvolgeste",
+                    "che voi scompigliaste",
+                    "che voi sovvertiste",
+                    "che voi inquietaste",
+                    "che voi comm(u)oveste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perturbārent",
+                "traduzioni": [
+                    "che loro sconvolgessero",
+                    "che essi sconvolgessero",
+                    "che loro scompigliassero",
+                    "che essi scompigliassero",
+                    "che loro sovvertissero",
+                    "che essi sovvertissero",
+                    "che loro inquietassero",
+                    "che essi inquietassero",
+                    "che loro comm(u)ovessero",
+                    "che essi comm(u)ovessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "perturbavĕrim",
+                "traduzioni": [
+                    "che io abbia sconvolto",
+                    "che io abbia scompigliato",
+                    "che io abbia sovvertito",
+                    "che io abbia inquietato",
+                    "che io abbia commosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perturbavĕris",
+                "traduzioni": [
+                    "che tu abbia sconvolto",
+                    "che tu abbia scompigliato",
+                    "che tu abbia sovvertito",
+                    "che tu abbia inquietato",
+                    "che tu abbia commosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perturbavĕrit",
+                "traduzioni": [
+                    "che lui abbia sconvolto",
+                    "che lei abbia sconvolto",
+                    "che egli abbia sconvolto",
+                    "che lui abbia scompigliato",
+                    "che lei abbia scompigliato",
+                    "che egli abbia scompigliato",
+                    "che lui abbia sovvertito",
+                    "che lei abbia sovvertito",
+                    "che egli abbia sovvertito",
+                    "che lui abbia inquietato",
+                    "che lei abbia inquietato",
+                    "che egli abbia inquietato",
+                    "che lui abbia commosso",
+                    "che lei abbia commosso",
+                    "che egli abbia commosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perturbaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo sconvolto",
+                    "che noi abbiamo scompigliato",
+                    "che noi abbiamo sovvertito",
+                    "che noi abbiamo inquietato",
+                    "che noi abbiamo commosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perturbaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate sconvolto",
+                    "che voi abbiate scompigliato",
+                    "che voi abbiate sovvertito",
+                    "che voi abbiate inquietato",
+                    "che voi abbiate commosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perturbavĕrint",
+                "traduzioni": [
+                    "che loro abbiano sconvolto",
+                    "che essi abbiano sconvolto",
+                    "che loro abbiano scompigliato",
+                    "che essi abbiano scompigliato",
+                    "che loro abbiano sovvertito",
+                    "che essi abbiano sovvertito",
+                    "che loro abbiano inquietato",
+                    "che essi abbiano inquietato",
+                    "che loro abbiano commosso",
+                    "che essi abbiano commosso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "perturbavissem",
+                "traduzioni": [
+                    "che io avessi sconvolto",
+                    "che io avessi scompigliato",
+                    "che io avessi sovvertito",
+                    "che io avessi inquietato",
+                    "che io avessi commosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perturbavisses",
+                "traduzioni": [
+                    "che tu avessi sconvolto",
+                    "che tu avessi scompigliato",
+                    "che tu avessi sovvertito",
+                    "che tu avessi inquietato",
+                    "che tu avessi commosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perturbavisset",
+                "traduzioni": [
+                    "che lui avesse sconvolto",
+                    "che lei avesse sconvolto",
+                    "che egli avesse sconvolto",
+                    "che lui avesse scompigliato",
+                    "che lei avesse scompigliato",
+                    "che egli avesse scompigliato",
+                    "che lui avesse sovvertito",
+                    "che lei avesse sovvertito",
+                    "che egli avesse sovvertito",
+                    "che lui avesse inquietato",
+                    "che lei avesse inquietato",
+                    "che egli avesse inquietato",
+                    "che lui avesse commosso",
+                    "che lei avesse commosso",
+                    "che egli avesse commosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perturbavissēmus",
+                "traduzioni": [
+                    "che noi avessimo sconvolto",
+                    "che noi avessimo scompigliato",
+                    "che noi avessimo sovvertito",
+                    "che noi avessimo inquietato",
+                    "che noi avessimo commosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perturbavissētis",
+                "traduzioni": [
+                    "che voi aveste sconvolto",
+                    "che voi aveste scompigliato",
+                    "che voi aveste sovvertito",
+                    "che voi aveste inquietato",
+                    "che voi aveste commosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perturbavissent",
+                "traduzioni": [
+                    "che loro avessero sconvolto",
+                    "che essi avessero sconvolto",
+                    "che loro avessero scompigliato",
+                    "che essi avessero scompigliato",
+                    "che loro avessero sovvertito",
+                    "che essi avessero sovvertito",
+                    "che loro avessero inquietato",
+                    "che essi avessero inquietato",
+                    "che loro avessero commosso",
+                    "che essi avessero commosso"
+                ]
+            }
+        ]
+    }
+}

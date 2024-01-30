@@ -1,0 +1,612 @@
+{
+    "identifier": "BELLOR",
+    "conuigazione": "1",
+    "translation": [
+        "guerreggiare",
+        "combattere"
+    ],
+    "valid_translations": [
+        "guerreggiare",
+        "combattere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "bellor",
+                "traduzioni": [
+                    "io guerreggio",
+                    "io combatto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bellāris, bellāre",
+                "traduzioni": [
+                    "tu guerreggi",
+                    "tu combatti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bellātur",
+                "traduzioni": [
+                    "lui guerreggia",
+                    "lei guerreggia",
+                    "egli guerreggia",
+                    "lui combatte",
+                    "lei combatte",
+                    "egli combatte"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bellāmur",
+                "traduzioni": [
+                    "noi guerreggiamo",
+                    "noi combattiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bellamĭni",
+                "traduzioni": [
+                    "voi guerreggiate",
+                    "voi combattete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bellantur",
+                "traduzioni": [
+                    "loro guerreggiano",
+                    "essi guerreggiano",
+                    "loro combattono",
+                    "essi combattono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "bellābar",
+                "traduzioni": [
+                    "io guerreggiavo",
+                    "io combattevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bellabāris, bellabāre",
+                "traduzioni": [
+                    "tu guerreggiavi",
+                    "tu combattevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bellabātur",
+                "traduzioni": [
+                    "lui guerreggiava",
+                    "lei guerreggiava",
+                    "egli guerreggiava",
+                    "lui combatteva",
+                    "lei combatteva",
+                    "egli combatteva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bellabāmus",
+                "traduzioni": [
+                    "noi guerreggiavamo",
+                    "noi combattevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bellabamĭni",
+                "traduzioni": [
+                    "voi guerreggiavate",
+                    "voi combattevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bellantur",
+                "traduzioni": [
+                    "loro guerreggiavano",
+                    "essi guerreggiavano",
+                    "loro combattevano",
+                    "essi combattevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "bellābor",
+                "traduzioni": [
+                    "io guerreggerò",
+                    "io combatterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bellabĕris, bellabĕre",
+                "traduzioni": [
+                    "tu guerreggerai",
+                    "tu combatterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bellabĭtur",
+                "traduzioni": [
+                    "lui guerreggerà",
+                    "lei guerreggerà",
+                    "egli guerreggerà",
+                    "lui combatterà",
+                    "lei combatterà",
+                    "egli combatterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bellabĭmur",
+                "traduzioni": [
+                    "noi guerreggeremo",
+                    "noi combatteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bellabimĭni",
+                "traduzioni": [
+                    "voi guerreggerete",
+                    "voi combatterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bellabuntur",
+                "traduzioni": [
+                    "loro guerreggeranno",
+                    "essi guerreggeranno",
+                    "loro combatteranno",
+                    "essi combatteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "– sum",
+                "traduzioni": [
+                    "io guerreggiai",
+                    "io ho guerreggiato",
+                    "io ebbi guerreggiato",
+                    "io combattei",
+                    "io ho combattuto",
+                    "io ebbi combattuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "– es",
+                "traduzioni": [
+                    "tu guerreggiasti",
+                    "tu hai guerreggiato",
+                    "tu avesti guerreggiato",
+                    "tu combattesti",
+                    "tu hai combattuto",
+                    "tu avesti combattuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "– est",
+                "traduzioni": [
+                    "lui guerreggiò",
+                    "lei guerreggiò",
+                    "egli guerreggiò",
+                    "lui ha guerreggiato",
+                    "lei ha guerreggiato",
+                    "egli ha guerreggiato",
+                    "lui ebbe guerreggiato",
+                    "lei ebbe guerreggiato",
+                    "egli ebbe guerreggiato",
+                    "lui combatté",
+                    "lei combatté",
+                    "egli combatté",
+                    "lui ha combattuto",
+                    "lei ha combattuto",
+                    "egli ha combattuto",
+                    "lui ebbe combattuto",
+                    "lei ebbe combattuto",
+                    "egli ebbe combattuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "– sumus",
+                "traduzioni": [
+                    "noi guerreggiammo",
+                    "noi abbiamo guerreggiato",
+                    "noi avemmo guerreggiato",
+                    "noi combattemmo",
+                    "noi abbiamo combattuto",
+                    "noi avemmo combattuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "– estis",
+                "traduzioni": [
+                    "voi guerreggiaste",
+                    "voi avete guerreggiato",
+                    "voi aveste guerreggiato",
+                    "voi combatteste",
+                    "voi avete combattuto",
+                    "voi aveste combattuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "– sunt",
+                "traduzioni": [
+                    "loro guerreggiarono",
+                    "essi guerreggiarono",
+                    "loro hanno guerreggiato",
+                    "essi hanno guerreggiato",
+                    "loro ebbero guerreggiato",
+                    "essi ebbero guerreggiato",
+                    "loro combatterono",
+                    "essi combatterono",
+                    "loro hanno combattuto",
+                    "essi hanno combattuto",
+                    "loro ebbero combattuto",
+                    "essi ebbero combattuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "– eram",
+                "traduzioni": [
+                    "io avevo guerreggiato",
+                    "io avevo combattuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "– eras",
+                "traduzioni": [
+                    "tu avevi guerreggiato",
+                    "tu avevi combattuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "– erat",
+                "traduzioni": [
+                    "lui aveva guerreggiato",
+                    "lei aveva guerreggiato",
+                    "egli aveva guerreggiato",
+                    "lui aveva combattuto",
+                    "lei aveva combattuto",
+                    "egli aveva combattuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "– eramus",
+                "traduzioni": [
+                    "noi avevamo guerreggiato",
+                    "noi avevamo combattuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "– eratis",
+                "traduzioni": [
+                    "voi avevate guerreggiato",
+                    "voi avevate combattuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–erant",
+                "traduzioni": [
+                    "loro avevano guerreggiato",
+                    "essi avevano guerreggiato",
+                    "loro avevano combattuto",
+                    "essi avevano combattuto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "– ero",
+                "traduzioni": [
+                    "io avrò guerreggiato",
+                    "io avrò combattuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "– eris",
+                "traduzioni": [
+                    "tu avrai guerreggiato",
+                    "tu avrai combattuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "– erit",
+                "traduzioni": [
+                    "lui avrà guerreggiato",
+                    "lei avrà guerreggiato",
+                    "egli avrà guerreggiato",
+                    "lui avrà combattuto",
+                    "lei avrà combattuto",
+                    "egli avrà combattuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "– erimus",
+                "traduzioni": [
+                    "noi avremo guerreggiato",
+                    "noi avremo combattuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "– eritis",
+                "traduzioni": [
+                    "voi avrete guerreggiato",
+                    "voi avrete combattuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "– erunt",
+                "traduzioni": [
+                    "loro avranno guerreggiato",
+                    "essi avranno guerreggiato",
+                    "loro avranno combattuto",
+                    "essi avranno combattuto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "beller",
+                "traduzioni": [
+                    "che io guerreggi",
+                    "che io combatta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bellēris, bellēre",
+                "traduzioni": [
+                    "che tu guerreggi",
+                    "che tu combatta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bellētur",
+                "traduzioni": [
+                    "che lui guerreggi",
+                    "che lei guerreggi",
+                    "che egli guerreggi",
+                    "che lui combatta",
+                    "che lei combatta",
+                    "che egli combatta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bellēmur",
+                "traduzioni": [
+                    "che noi guerreggiamo",
+                    "che noi combattiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bellemĭni",
+                "traduzioni": [
+                    "che voi guerreggiate",
+                    "che voi combattiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bellentur",
+                "traduzioni": [
+                    "che loro guerreggino",
+                    "che essi guerreggino",
+                    "che loro combattano",
+                    "che essi combattano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "bellārer",
+                "traduzioni": [
+                    "che io guerreggiassi",
+                    "che io combattessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "bellarēris, bellarēre",
+                "traduzioni": [
+                    "che tu guerreggiassi",
+                    "che tu combattessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "bellarētur",
+                "traduzioni": [
+                    "che lui guerreggiasse",
+                    "che lei guerreggiasse",
+                    "che egli guerreggiasse",
+                    "che lui combattesse",
+                    "che lei combattesse",
+                    "che egli combattesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "bellāremur",
+                "traduzioni": [
+                    "che noi guerreggiassimo",
+                    "che noi combattessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "bellaremĭni",
+                "traduzioni": [
+                    "che voi guerreggiaste",
+                    "che voi combatteste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "bellarentur",
+                "traduzioni": [
+                    "che loro guerreggiassero",
+                    "che essi guerreggiassero",
+                    "che loro combattessero",
+                    "che essi combattessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "– sim",
+                "traduzioni": [
+                    "che io abbia guerreggiato",
+                    "che io abbia combattuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "– sis",
+                "traduzioni": [
+                    "che tu abbia guerreggiato",
+                    "che tu abbia combattuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "– sit",
+                "traduzioni": [
+                    "che lui abbia guerreggiato",
+                    "che lei abbia guerreggiato",
+                    "che egli abbia guerreggiato",
+                    "che lui abbia combattuto",
+                    "che lei abbia combattuto",
+                    "che egli abbia combattuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "– simus",
+                "traduzioni": [
+                    "che noi abbiamo guerreggiato",
+                    "che noi abbiamo combattuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "– sitis",
+                "traduzioni": [
+                    "che voi abbiate guerreggiato",
+                    "che voi abbiate combattuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "– sint",
+                "traduzioni": [
+                    "che loro abbiano guerreggiato",
+                    "che essi abbiano guerreggiato",
+                    "che loro abbiano combattuto",
+                    "che essi abbiano combattuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "– essem",
+                "traduzioni": [
+                    "che io avessi guerreggiato",
+                    "che io avessi combattuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "– esses",
+                "traduzioni": [
+                    "che tu avessi guerreggiato",
+                    "che tu avessi combattuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "– esset",
+                "traduzioni": [
+                    "che lui avesse guerreggiato",
+                    "che lei avesse guerreggiato",
+                    "che egli avesse guerreggiato",
+                    "che lui avesse combattuto",
+                    "che lei avesse combattuto",
+                    "che egli avesse combattuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "– essemus",
+                "traduzioni": [
+                    "che noi avessimo guerreggiato",
+                    "che noi avessimo combattuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "– essetis",
+                "traduzioni": [
+                    "che voi aveste guerreggiato",
+                    "che voi aveste combattuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "– essent",
+                "traduzioni": [
+                    "che loro avessero guerreggiato",
+                    "che essi avessero guerreggiato",
+                    "che loro avessero combattuto",
+                    "che essi avessero combattuto"
+                ]
+            }
+        ]
+    }
+}

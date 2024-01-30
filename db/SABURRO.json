@@ -1,0 +1,612 @@
+{
+    "identifier": "SABURRO",
+    "conuigazione": "1",
+    "translation": [
+        "caricare",
+        "zavorrare"
+    ],
+    "valid_translations": [
+        "caricare",
+        "zavorrare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "săburro",
+                "traduzioni": [
+                    "io carico",
+                    "io zavorro"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "săburras",
+                "traduzioni": [
+                    "tu carichi",
+                    "tu zavorri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "săburrat",
+                "traduzioni": [
+                    "lui carica",
+                    "lei carica",
+                    "egli carica",
+                    "lui zavorra",
+                    "lei zavorra",
+                    "egli zavorra"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "săburrāmus",
+                "traduzioni": [
+                    "noi carichiamo",
+                    "noi zavorriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "săburrātis",
+                "traduzioni": [
+                    "voi caricate",
+                    "voi zavorrate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "săburrant",
+                "traduzioni": [
+                    "loro caricano",
+                    "essi caricano",
+                    "loro zavorrano",
+                    "essi zavorrano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "săburrābam",
+                "traduzioni": [
+                    "io caricavo",
+                    "io zavorravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "săburrābas",
+                "traduzioni": [
+                    "tu caricavi",
+                    "tu zavorravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "săburrābat",
+                "traduzioni": [
+                    "lui caricava",
+                    "lei caricava",
+                    "egli caricava",
+                    "lui zavorrava",
+                    "lei zavorrava",
+                    "egli zavorrava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "săburrabāmus",
+                "traduzioni": [
+                    "noi caricavamo",
+                    "noi zavorravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "săburrabātis",
+                "traduzioni": [
+                    "voi caricavate",
+                    "voi zavorravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "săburrābant",
+                "traduzioni": [
+                    "loro caricavano",
+                    "essi caricavano",
+                    "loro zavorravano",
+                    "essi zavorravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "săburrābo",
+                "traduzioni": [
+                    "io caricherò",
+                    "io zavorrerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "săburrābis",
+                "traduzioni": [
+                    "tu caricherai",
+                    "tu zavorrerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "săburrābit",
+                "traduzioni": [
+                    "lui caricherà",
+                    "lei caricherà",
+                    "egli caricherà",
+                    "lui zavorrerà",
+                    "lei zavorrerà",
+                    "egli zavorrerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "săburrabĭmus",
+                "traduzioni": [
+                    "noi caricheremo",
+                    "noi zavorreremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "săburrabĭtis",
+                "traduzioni": [
+                    "voi caricherete",
+                    "voi zavorrerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "săburrābunt",
+                "traduzioni": [
+                    "loro caricheranno",
+                    "essi caricheranno",
+                    "loro zavorreranno",
+                    "essi zavorreranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io caricai",
+                    "io ho caricato",
+                    "io ebbi caricato",
+                    "io zavorrai",
+                    "io ho zavorrato",
+                    "io ebbi zavorrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu caricasti",
+                    "tu hai caricato",
+                    "tu avesti caricato",
+                    "tu zavorrasti",
+                    "tu hai zavorrato",
+                    "tu avesti zavorrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui caricò",
+                    "lei caricò",
+                    "egli caricò",
+                    "lui ha caricato",
+                    "lei ha caricato",
+                    "egli ha caricato",
+                    "lui ebbe caricato",
+                    "lei ebbe caricato",
+                    "egli ebbe caricato",
+                    "lui zavorrò",
+                    "lei zavorrò",
+                    "egli zavorrò",
+                    "lui ha zavorrato",
+                    "lei ha zavorrato",
+                    "egli ha zavorrato",
+                    "lui ebbe zavorrato",
+                    "lei ebbe zavorrato",
+                    "egli ebbe zavorrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi caricammo",
+                    "noi abbiamo caricato",
+                    "noi avemmo caricato",
+                    "noi zavorrammo",
+                    "noi abbiamo zavorrato",
+                    "noi avemmo zavorrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi caricaste",
+                    "voi avete caricato",
+                    "voi aveste caricato",
+                    "voi zavorraste",
+                    "voi avete zavorrato",
+                    "voi aveste zavorrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro caricarono",
+                    "essi caricarono",
+                    "loro hanno caricato",
+                    "essi hanno caricato",
+                    "loro ebbero caricato",
+                    "essi ebbero caricato",
+                    "loro zavorrarono",
+                    "essi zavorrarono",
+                    "loro hanno zavorrato",
+                    "essi hanno zavorrato",
+                    "loro ebbero zavorrato",
+                    "essi ebbero zavorrato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avevo caricato",
+                    "io avevo zavorrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avevi caricato",
+                    "tu avevi zavorrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui aveva caricato",
+                    "lei aveva caricato",
+                    "egli aveva caricato",
+                    "lui aveva zavorrato",
+                    "lei aveva zavorrato",
+                    "egli aveva zavorrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avevamo caricato",
+                    "noi avevamo zavorrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avevate caricato",
+                    "voi avevate zavorrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avevano caricato",
+                    "essi avevano caricato",
+                    "loro avevano zavorrato",
+                    "essi avevano zavorrato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avrò caricato",
+                    "io avrò zavorrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avrai caricato",
+                    "tu avrai zavorrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui avrà caricato",
+                    "lei avrà caricato",
+                    "egli avrà caricato",
+                    "lui avrà zavorrato",
+                    "lei avrà zavorrato",
+                    "egli avrà zavorrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avremo caricato",
+                    "noi avremo zavorrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avrete caricato",
+                    "voi avrete zavorrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avranno caricato",
+                    "essi avranno caricato",
+                    "loro avranno zavorrato",
+                    "essi avranno zavorrato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "săburrem",
+                "traduzioni": [
+                    "che io carichi",
+                    "che io zavorri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "săburres",
+                "traduzioni": [
+                    "che tu carichi",
+                    "che tu zavorri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "săburret",
+                "traduzioni": [
+                    "che lui carichi",
+                    "che lei carichi",
+                    "che egli carichi",
+                    "che lui zavorri",
+                    "che lei zavorri",
+                    "che egli zavorri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "săburrēmus",
+                "traduzioni": [
+                    "che noi carichiamo",
+                    "che noi zavorriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "săburrētis",
+                "traduzioni": [
+                    "che voi carichiate",
+                    "che voi zavorriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "săburrent",
+                "traduzioni": [
+                    "che loro carichino",
+                    "che essi carichino",
+                    "che loro zavorrino",
+                    "che essi zavorrino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "săburrārem",
+                "traduzioni": [
+                    "che io caricassi",
+                    "che io zavorrassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "săburrāres",
+                "traduzioni": [
+                    "che tu caricassi",
+                    "che tu zavorrassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "săburrāret",
+                "traduzioni": [
+                    "che lui caricasse",
+                    "che lei caricasse",
+                    "che egli caricasse",
+                    "che lui zavorrasse",
+                    "che lei zavorrasse",
+                    "che egli zavorrasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "săburrarēmus",
+                "traduzioni": [
+                    "che noi caricassimo",
+                    "che noi zavorrassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "săburrarētis",
+                "traduzioni": [
+                    "che voi caricaste",
+                    "che voi zavorraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "săburrārent",
+                "traduzioni": [
+                    "che loro caricassero",
+                    "che essi caricassero",
+                    "che loro zavorrassero",
+                    "che essi zavorrassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io abbia caricato",
+                    "che io abbia zavorrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu abbia caricato",
+                    "che tu abbia zavorrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui abbia caricato",
+                    "che lei abbia caricato",
+                    "che egli abbia caricato",
+                    "che lui abbia zavorrato",
+                    "che lei abbia zavorrato",
+                    "che egli abbia zavorrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi abbiamo caricato",
+                    "che noi abbiamo zavorrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi abbiate caricato",
+                    "che voi abbiate zavorrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro abbiano caricato",
+                    "che essi abbiano caricato",
+                    "che loro abbiano zavorrato",
+                    "che essi abbiano zavorrato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io avessi caricato",
+                    "che io avessi zavorrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu avessi caricato",
+                    "che tu avessi zavorrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui avesse caricato",
+                    "che lei avesse caricato",
+                    "che egli avesse caricato",
+                    "che lui avesse zavorrato",
+                    "che lei avesse zavorrato",
+                    "che egli avesse zavorrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi avessimo caricato",
+                    "che noi avessimo zavorrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi aveste caricato",
+                    "che voi aveste zavorrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro avessero caricato",
+                    "che essi avessero caricato",
+                    "che loro avessero zavorrato",
+                    "che essi avessero zavorrato"
+                ]
+            }
+        ]
+    }
+}

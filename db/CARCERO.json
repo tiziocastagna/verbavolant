@@ -1,0 +1,502 @@
+{
+    "identifier": "CARCERO",
+    "conuigazione": "1",
+    "translation": [
+        "incarcerare"
+    ],
+    "valid_translations": [
+        "incarcerare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "carcĕro",
+                "traduzioni": [
+                    "io incarcero"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "carcĕras",
+                "traduzioni": [
+                    "tu incarceri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "carcĕrat",
+                "traduzioni": [
+                    "lui incarcera",
+                    "lei incarcera",
+                    "egli incarcera"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "carcĕrāmus",
+                "traduzioni": [
+                    "noi incarceriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "carcĕrātis",
+                "traduzioni": [
+                    "voi incarcerate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "carcĕrant",
+                "traduzioni": [
+                    "loro incarcerano",
+                    "essi incarcerano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "carcĕrābam",
+                "traduzioni": [
+                    "io incarceravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "carcĕrābas",
+                "traduzioni": [
+                    "tu incarceravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "carcĕrābat",
+                "traduzioni": [
+                    "lui incarcerava",
+                    "lei incarcerava",
+                    "egli incarcerava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "carcĕrabāmus",
+                "traduzioni": [
+                    "noi incarceravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "carcĕrabātis",
+                "traduzioni": [
+                    "voi incarceravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "carcĕrābant",
+                "traduzioni": [
+                    "loro incarceravano",
+                    "essi incarceravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "carcĕrābo",
+                "traduzioni": [
+                    "io incarcererò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "carcĕrābis",
+                "traduzioni": [
+                    "tu incarcererai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "carcĕrābit",
+                "traduzioni": [
+                    "lui incarcererà",
+                    "lei incarcererà",
+                    "egli incarcererà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "carcĕrabĭmus",
+                "traduzioni": [
+                    "noi incarcereremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "carcĕrabĭtis",
+                "traduzioni": [
+                    "voi incarcererete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "carcĕrābunt",
+                "traduzioni": [
+                    "loro incarcereranno",
+                    "essi incarcereranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io incarcerai",
+                    "io ho incarcerato",
+                    "io ebbi incarcerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu incarcerasti",
+                    "tu hai incarcerato",
+                    "tu avesti incarcerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui incarcerò",
+                    "lei incarcerò",
+                    "egli incarcerò",
+                    "lui ha incarcerato",
+                    "lei ha incarcerato",
+                    "egli ha incarcerato",
+                    "lui ebbe incarcerato",
+                    "lei ebbe incarcerato",
+                    "egli ebbe incarcerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi incarcerammo",
+                    "noi abbiamo incarcerato",
+                    "noi avemmo incarcerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi incarceraste",
+                    "voi avete incarcerato",
+                    "voi aveste incarcerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro incarcerarono",
+                    "essi incarcerarono",
+                    "loro hanno incarcerato",
+                    "essi hanno incarcerato",
+                    "loro ebbero incarcerato",
+                    "essi ebbero incarcerato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avevo incarcerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avevi incarcerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui aveva incarcerato",
+                    "lei aveva incarcerato",
+                    "egli aveva incarcerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avevamo incarcerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avevate incarcerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avevano incarcerato",
+                    "essi avevano incarcerato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avrò incarcerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avrai incarcerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui avrà incarcerato",
+                    "lei avrà incarcerato",
+                    "egli avrà incarcerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avremo incarcerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avrete incarcerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avranno incarcerato",
+                    "essi avranno incarcerato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "carcĕrem",
+                "traduzioni": [
+                    "che io incarceri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "carcĕres",
+                "traduzioni": [
+                    "che tu incarceri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "carcĕret",
+                "traduzioni": [
+                    "che lui incarceri",
+                    "che lei incarceri",
+                    "che egli incarceri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "carcĕrēmus",
+                "traduzioni": [
+                    "che noi incarceriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "carcĕrētis",
+                "traduzioni": [
+                    "che voi incarceriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "carcĕrent",
+                "traduzioni": [
+                    "che loro incarcerino",
+                    "che essi incarcerino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "carcĕrārem",
+                "traduzioni": [
+                    "che io incarcerassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "carcĕrāres",
+                "traduzioni": [
+                    "che tu incarcerassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "carcĕrāret",
+                "traduzioni": [
+                    "che lui incarcerasse",
+                    "che lei incarcerasse",
+                    "che egli incarcerasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "carcĕrarēmus",
+                "traduzioni": [
+                    "che noi incarcerassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "carcĕrarētis",
+                "traduzioni": [
+                    "che voi incarceraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "carcĕrārent",
+                "traduzioni": [
+                    "che loro incarcerassero",
+                    "che essi incarcerassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io abbia incarcerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu abbia incarcerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui abbia incarcerato",
+                    "che lei abbia incarcerato",
+                    "che egli abbia incarcerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi abbiamo incarcerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi abbiate incarcerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro abbiano incarcerato",
+                    "che essi abbiano incarcerato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io avessi incarcerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu avessi incarcerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui avesse incarcerato",
+                    "che lei avesse incarcerato",
+                    "che egli avesse incarcerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi avessimo incarcerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi aveste incarcerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro avessero incarcerato",
+                    "che essi avessero incarcerato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,834 @@
+{
+    "identifier": "TUTOR",
+    "conuigazione": "1",
+    "translation": [
+        "tutelare",
+        "proteggere",
+        "difendere",
+        "custodire",
+        "cercare di allontanare",
+        "diritto difendere"
+    ],
+    "valid_translations": [
+        "tutelare",
+        "proteggere",
+        "difendere",
+        "custodire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "tūtor",
+                "traduzioni": [
+                    "io tutelo",
+                    "io proteggo",
+                    "io difendo",
+                    "io custodisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tūtāris, tūtāre",
+                "traduzioni": [
+                    "tu tuteli",
+                    "tu proteggi",
+                    "tu difendi",
+                    "tu custodisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tūtātur",
+                "traduzioni": [
+                    "lui tutela",
+                    "lei tutela",
+                    "egli tutela",
+                    "lui protegge",
+                    "lei protegge",
+                    "egli protegge",
+                    "lui difende",
+                    "lei difende",
+                    "egli difende",
+                    "lui custodisce",
+                    "lei custodisce",
+                    "egli custodisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tūtāmur",
+                "traduzioni": [
+                    "noi tuteliamo",
+                    "noi proteggiamo",
+                    "noi difendiamo",
+                    "noi custodiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tūtamĭni",
+                "traduzioni": [
+                    "voi tutelate",
+                    "voi proteggete",
+                    "voi difendete",
+                    "voi custodite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tūtantur",
+                "traduzioni": [
+                    "loro tutelano",
+                    "essi tutelano",
+                    "loro proteggono",
+                    "essi proteggono",
+                    "loro difendono",
+                    "essi difendono",
+                    "loro custodiscono",
+                    "essi custodiscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "tūtābar",
+                "traduzioni": [
+                    "io tutelavo",
+                    "io proteggevo",
+                    "io difendevo",
+                    "io custodivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tūtabāris, tūtabāre",
+                "traduzioni": [
+                    "tu tutelavi",
+                    "tu proteggevi",
+                    "tu difendevi",
+                    "tu custodivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tūtabātur",
+                "traduzioni": [
+                    "lui tutelava",
+                    "lei tutelava",
+                    "egli tutelava",
+                    "lui proteggeva",
+                    "lei proteggeva",
+                    "egli proteggeva",
+                    "lui difendeva",
+                    "lei difendeva",
+                    "egli difendeva",
+                    "lui custodiva",
+                    "lei custodiva",
+                    "egli custodiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tūtabāmur",
+                "traduzioni": [
+                    "noi tutelavamo",
+                    "noi proteggevamo",
+                    "noi difendevamo",
+                    "noi custodivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tūtabamĭni",
+                "traduzioni": [
+                    "voi tutelavate",
+                    "voi proteggevate",
+                    "voi difendevate",
+                    "voi custodivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tūtabantur",
+                "traduzioni": [
+                    "loro tutelavano",
+                    "essi tutelavano",
+                    "loro proteggevano",
+                    "essi proteggevano",
+                    "loro difendevano",
+                    "essi difendevano",
+                    "loro custodivano",
+                    "essi custodivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "tūtābor",
+                "traduzioni": [
+                    "io tutelerò",
+                    "io proteggerò",
+                    "io difenderò",
+                    "io custodirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tūtabĕris, tūtabĕre",
+                "traduzioni": [
+                    "tu tutelerai",
+                    "tu proteggerai",
+                    "tu difenderai",
+                    "tu custodirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tūtabĭtur",
+                "traduzioni": [
+                    "lui tutelerà",
+                    "lei tutelerà",
+                    "egli tutelerà",
+                    "lui proteggerà",
+                    "lei proteggerà",
+                    "egli proteggerà",
+                    "lui difenderà",
+                    "lei difenderà",
+                    "egli difenderà",
+                    "lui custodirà",
+                    "lei custodirà",
+                    "egli custodirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tūtabĭmur",
+                "traduzioni": [
+                    "noi tuteleremo",
+                    "noi proteggeremo",
+                    "noi difenderemo",
+                    "noi custodiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tūtabimĭni",
+                "traduzioni": [
+                    "voi tutelerete",
+                    "voi proteggerete",
+                    "voi difenderete",
+                    "voi custodirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tūtabuntur",
+                "traduzioni": [
+                    "loro tuteleranno",
+                    "essi tuteleranno",
+                    "loro proteggeranno",
+                    "essi proteggeranno",
+                    "loro difenderanno",
+                    "essi difenderanno",
+                    "loro custodiranno",
+                    "essi custodiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "– sum",
+                "traduzioni": [
+                    "io tutelai",
+                    "io ho tutelato",
+                    "io ebbi tutelato",
+                    "io protessi",
+                    "io ho protetto",
+                    "io ebbi protetto",
+                    "io difesi",
+                    "io ho difeso",
+                    "io ebbi difeso",
+                    "io custodii",
+                    "io ho custodito",
+                    "io ebbi custodito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "– es",
+                "traduzioni": [
+                    "tu tutelasti",
+                    "tu hai tutelato",
+                    "tu avesti tutelato",
+                    "tu proteggesti",
+                    "tu hai protetto",
+                    "tu avesti protetto",
+                    "tu difendesti",
+                    "tu hai difeso",
+                    "tu avesti difeso",
+                    "tu custodisti",
+                    "tu hai custodito",
+                    "tu avesti custodito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "– est",
+                "traduzioni": [
+                    "lui tutelò",
+                    "lei tutelò",
+                    "egli tutelò",
+                    "lui ha tutelato",
+                    "lei ha tutelato",
+                    "egli ha tutelato",
+                    "lui ebbe tutelato",
+                    "lei ebbe tutelato",
+                    "egli ebbe tutelato",
+                    "lui protesse",
+                    "lei protesse",
+                    "egli protesse",
+                    "lui ha protetto",
+                    "lei ha protetto",
+                    "egli ha protetto",
+                    "lui ebbe protetto",
+                    "lei ebbe protetto",
+                    "egli ebbe protetto",
+                    "lui difese",
+                    "lei difese",
+                    "egli difese",
+                    "lui ha difeso",
+                    "lei ha difeso",
+                    "egli ha difeso",
+                    "lui ebbe difeso",
+                    "lei ebbe difeso",
+                    "egli ebbe difeso",
+                    "lui custodì",
+                    "lei custodì",
+                    "egli custodì",
+                    "lui ha custodito",
+                    "lei ha custodito",
+                    "egli ha custodito",
+                    "lui ebbe custodito",
+                    "lei ebbe custodito",
+                    "egli ebbe custodito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "– sumus",
+                "traduzioni": [
+                    "noi tutelammo",
+                    "noi abbiamo tutelato",
+                    "noi avemmo tutelato",
+                    "noi proteggemmo",
+                    "noi abbiamo protetto",
+                    "noi avemmo protetto",
+                    "noi difendemmo",
+                    "noi abbiamo difeso",
+                    "noi avemmo difeso",
+                    "noi custodimmo",
+                    "noi abbiamo custodito",
+                    "noi avemmo custodito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "– estis",
+                "traduzioni": [
+                    "voi tutelaste",
+                    "voi avete tutelato",
+                    "voi aveste tutelato",
+                    "voi proteggeste",
+                    "voi avete protetto",
+                    "voi aveste protetto",
+                    "voi difendeste",
+                    "voi avete difeso",
+                    "voi aveste difeso",
+                    "voi custodiste",
+                    "voi avete custodito",
+                    "voi aveste custodito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "– sunt",
+                "traduzioni": [
+                    "loro tutelarono",
+                    "essi tutelarono",
+                    "loro hanno tutelato",
+                    "essi hanno tutelato",
+                    "loro ebbero tutelato",
+                    "essi ebbero tutelato",
+                    "loro protessero",
+                    "essi protessero",
+                    "loro hanno protetto",
+                    "essi hanno protetto",
+                    "loro ebbero protetto",
+                    "essi ebbero protetto",
+                    "loro difesero",
+                    "essi difesero",
+                    "loro hanno difeso",
+                    "essi hanno difeso",
+                    "loro ebbero difeso",
+                    "essi ebbero difeso",
+                    "loro custodirono",
+                    "essi custodirono",
+                    "loro hanno custodito",
+                    "essi hanno custodito",
+                    "loro ebbero custodito",
+                    "essi ebbero custodito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "– eram",
+                "traduzioni": [
+                    "io avevo tutelato",
+                    "io avevo protetto",
+                    "io avevo difeso",
+                    "io avevo custodito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "– eras",
+                "traduzioni": [
+                    "tu avevi tutelato",
+                    "tu avevi protetto",
+                    "tu avevi difeso",
+                    "tu avevi custodito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "– erat",
+                "traduzioni": [
+                    "lui aveva tutelato",
+                    "lei aveva tutelato",
+                    "egli aveva tutelato",
+                    "lui aveva protetto",
+                    "lei aveva protetto",
+                    "egli aveva protetto",
+                    "lui aveva difeso",
+                    "lei aveva difeso",
+                    "egli aveva difeso",
+                    "lui aveva custodito",
+                    "lei aveva custodito",
+                    "egli aveva custodito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "– eramus",
+                "traduzioni": [
+                    "noi avevamo tutelato",
+                    "noi avevamo protetto",
+                    "noi avevamo difeso",
+                    "noi avevamo custodito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "– eratis",
+                "traduzioni": [
+                    "voi avevate tutelato",
+                    "voi avevate protetto",
+                    "voi avevate difeso",
+                    "voi avevate custodito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "– erant",
+                "traduzioni": [
+                    "loro avevano tutelato",
+                    "essi avevano tutelato",
+                    "loro avevano protetto",
+                    "essi avevano protetto",
+                    "loro avevano difeso",
+                    "essi avevano difeso",
+                    "loro avevano custodito",
+                    "essi avevano custodito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "– ero",
+                "traduzioni": [
+                    "io avrò tutelato",
+                    "io avrò protetto",
+                    "io avrò difeso",
+                    "io avrò custodito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "– eris",
+                "traduzioni": [
+                    "tu avrai tutelato",
+                    "tu avrai protetto",
+                    "tu avrai difeso",
+                    "tu avrai custodito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "– erit",
+                "traduzioni": [
+                    "lui avrà tutelato",
+                    "lei avrà tutelato",
+                    "egli avrà tutelato",
+                    "lui avrà protetto",
+                    "lei avrà protetto",
+                    "egli avrà protetto",
+                    "lui avrà difeso",
+                    "lei avrà difeso",
+                    "egli avrà difeso",
+                    "lui avrà custodito",
+                    "lei avrà custodito",
+                    "egli avrà custodito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "– erimus",
+                "traduzioni": [
+                    "noi avremo tutelato",
+                    "noi avremo protetto",
+                    "noi avremo difeso",
+                    "noi avremo custodito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "– eritis",
+                "traduzioni": [
+                    "voi avrete tutelato",
+                    "voi avrete protetto",
+                    "voi avrete difeso",
+                    "voi avrete custodito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "– erunt",
+                "traduzioni": [
+                    "loro avranno tutelato",
+                    "essi avranno tutelato",
+                    "loro avranno protetto",
+                    "essi avranno protetto",
+                    "loro avranno difeso",
+                    "essi avranno difeso",
+                    "loro avranno custodito",
+                    "essi avranno custodito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "tūter",
+                "traduzioni": [
+                    "che io tuteli",
+                    "che io protegga",
+                    "che io difenda",
+                    "che io custodisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tūtēris, tūtēre",
+                "traduzioni": [
+                    "che tu tuteli",
+                    "che tu protegga",
+                    "che tu difenda",
+                    "che tu custodisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tūtētur",
+                "traduzioni": [
+                    "che lui tuteli",
+                    "che lei tuteli",
+                    "che egli tuteli",
+                    "che lui protegga",
+                    "che lei protegga",
+                    "che egli protegga",
+                    "che lui difenda",
+                    "che lei difenda",
+                    "che egli difenda",
+                    "che lui custodisca",
+                    "che lei custodisca",
+                    "che egli custodisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tūtēmur",
+                "traduzioni": [
+                    "che noi tuteliamo",
+                    "che noi proteggiamo",
+                    "che noi difendiamo",
+                    "che noi custodiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tūtemĭni",
+                "traduzioni": [
+                    "che voi tuteliate",
+                    "che voi proteggiate",
+                    "che voi difendiate",
+                    "che voi custodiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tūtentur",
+                "traduzioni": [
+                    "che loro tutelino",
+                    "che essi tutelino",
+                    "che loro proteggano",
+                    "che essi proteggano",
+                    "che loro difendano",
+                    "che essi difendano",
+                    "che loro custodiscano",
+                    "che essi custodiscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "tūtārer",
+                "traduzioni": [
+                    "che io tutelassi",
+                    "che io proteggessi",
+                    "che io difendessi",
+                    "che io custodissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "tūtarēris, tūtarēre",
+                "traduzioni": [
+                    "che tu tutelassi",
+                    "che tu proteggessi",
+                    "che tu difendessi",
+                    "che tu custodissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "tūtarētur",
+                "traduzioni": [
+                    "che lui tutelasse",
+                    "che lei tutelasse",
+                    "che egli tutelasse",
+                    "che lui proteggesse",
+                    "che lei proteggesse",
+                    "che egli proteggesse",
+                    "che lui difendesse",
+                    "che lei difendesse",
+                    "che egli difendesse",
+                    "che lui custodisse",
+                    "che lei custodisse",
+                    "che egli custodisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "tūtarēmur",
+                "traduzioni": [
+                    "che noi tutelassimo",
+                    "che noi proteggessimo",
+                    "che noi difendessimo",
+                    "che noi custodissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "tūtaremĭni",
+                "traduzioni": [
+                    "che voi tutelaste",
+                    "che voi proteggeste",
+                    "che voi difendeste",
+                    "che voi custodiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "tūtarentur",
+                "traduzioni": [
+                    "che loro tutelassero",
+                    "che essi tutelassero",
+                    "che loro proteggessero",
+                    "che essi proteggessero",
+                    "che loro difendessero",
+                    "che essi difendessero",
+                    "che loro custodissero",
+                    "che essi custodissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "– sim",
+                "traduzioni": [
+                    "che io abbia tutelato",
+                    "che io abbia protetto",
+                    "che io abbia difeso",
+                    "che io abbia custodito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "– sis",
+                "traduzioni": [
+                    "che tu abbia tutelato",
+                    "che tu abbia protetto",
+                    "che tu abbia difeso",
+                    "che tu abbia custodito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "– sit",
+                "traduzioni": [
+                    "che lui abbia tutelato",
+                    "che lei abbia tutelato",
+                    "che egli abbia tutelato",
+                    "che lui abbia protetto",
+                    "che lei abbia protetto",
+                    "che egli abbia protetto",
+                    "che lui abbia difeso",
+                    "che lei abbia difeso",
+                    "che egli abbia difeso",
+                    "che lui abbia custodito",
+                    "che lei abbia custodito",
+                    "che egli abbia custodito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "– simus",
+                "traduzioni": [
+                    "che noi abbiamo tutelato",
+                    "che noi abbiamo protetto",
+                    "che noi abbiamo difeso",
+                    "che noi abbiamo custodito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "– sitis",
+                "traduzioni": [
+                    "che voi abbiate tutelato",
+                    "che voi abbiate protetto",
+                    "che voi abbiate difeso",
+                    "che voi abbiate custodito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "– sint",
+                "traduzioni": [
+                    "che loro abbiano tutelato",
+                    "che essi abbiano tutelato",
+                    "che loro abbiano protetto",
+                    "che essi abbiano protetto",
+                    "che loro abbiano difeso",
+                    "che essi abbiano difeso",
+                    "che loro abbiano custodito",
+                    "che essi abbiano custodito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "– essem",
+                "traduzioni": [
+                    "che io avessi tutelato",
+                    "che io avessi protetto",
+                    "che io avessi difeso",
+                    "che io avessi custodito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "– esses",
+                "traduzioni": [
+                    "che tu avessi tutelato",
+                    "che tu avessi protetto",
+                    "che tu avessi difeso",
+                    "che tu avessi custodito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "– esset",
+                "traduzioni": [
+                    "che lui avesse tutelato",
+                    "che lei avesse tutelato",
+                    "che egli avesse tutelato",
+                    "che lui avesse protetto",
+                    "che lei avesse protetto",
+                    "che egli avesse protetto",
+                    "che lui avesse difeso",
+                    "che lei avesse difeso",
+                    "che egli avesse difeso",
+                    "che lui avesse custodito",
+                    "che lei avesse custodito",
+                    "che egli avesse custodito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "– essemus",
+                "traduzioni": [
+                    "che noi avessimo tutelato",
+                    "che noi avessimo protetto",
+                    "che noi avessimo difeso",
+                    "che noi avessimo custodito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "– essetis",
+                "traduzioni": [
+                    "che voi aveste tutelato",
+                    "che voi aveste protetto",
+                    "che voi aveste difeso",
+                    "che voi aveste custodito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "– essent",
+                "traduzioni": [
+                    "che loro avessero tutelato",
+                    "che essi avessero tutelato",
+                    "che loro avessero protetto",
+                    "che essi avessero protetto",
+                    "che loro avessero difeso",
+                    "che essi avessero difeso",
+                    "che loro avessero custodito",
+                    "che essi avessero custodito"
+                ]
+            }
+        ]
+    }
+}

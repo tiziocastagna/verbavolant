@@ -1,0 +1,728 @@
+{
+    "identifier": "AMICIO",
+    "conuigazione": "4",
+    "translation": [
+        "coprire",
+        "vestire",
+        "avvolgere"
+    ],
+    "valid_translations": [
+        "coprire",
+        "vestire",
+        "avvolgere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ămĭcĭo",
+                "traduzioni": [
+                    "io copro",
+                    "io vesto",
+                    "io avvolgo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ămĭcis",
+                "traduzioni": [
+                    "tu copri",
+                    "tu vesti",
+                    "tu avvolgi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ămĭcit",
+                "traduzioni": [
+                    "lui copre",
+                    "lei copre",
+                    "egli copre",
+                    "lui veste",
+                    "lei veste",
+                    "egli veste",
+                    "lui avvolge",
+                    "lei avvolge",
+                    "egli avvolge"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ămĭcīmus",
+                "traduzioni": [
+                    "noi copriamo",
+                    "noi vestiamo",
+                    "noi avvolgiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ămĭcītis",
+                "traduzioni": [
+                    "voi coprite",
+                    "voi vestite",
+                    "voi avvolgete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ămĭcĭunt",
+                "traduzioni": [
+                    "loro coprono",
+                    "essi coprono",
+                    "loro vestono",
+                    "essi vestono",
+                    "loro avvolgono",
+                    "essi avvolgono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ămĭciēbam",
+                "traduzioni": [
+                    "io coprivo",
+                    "io vestivo",
+                    "io avvolgevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ămĭciēbas",
+                "traduzioni": [
+                    "tu coprivi",
+                    "tu vestivi",
+                    "tu avvolgevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ămĭciēbat",
+                "traduzioni": [
+                    "lui copriva",
+                    "lei copriva",
+                    "egli copriva",
+                    "lui vestiva",
+                    "lei vestiva",
+                    "egli vestiva",
+                    "lui avvolgeva",
+                    "lei avvolgeva",
+                    "egli avvolgeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ămĭciebāmus",
+                "traduzioni": [
+                    "noi coprivamo",
+                    "noi vestivamo",
+                    "noi avvolgevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ămĭciebātis",
+                "traduzioni": [
+                    "voi coprivate",
+                    "voi vestivate",
+                    "voi avvolgevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ămĭciēbant",
+                "traduzioni": [
+                    "loro coprivano",
+                    "essi coprivano",
+                    "loro vestivano",
+                    "essi vestivano",
+                    "loro avvolgevano",
+                    "essi avvolgevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ămĭcĭam",
+                "traduzioni": [
+                    "io coprirò",
+                    "io vestirò",
+                    "io avvolgerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ămĭcĭes",
+                "traduzioni": [
+                    "tu coprirai",
+                    "tu vestirai",
+                    "tu avvolgerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ămĭcĭet",
+                "traduzioni": [
+                    "lui coprirà",
+                    "lei coprirà",
+                    "egli coprirà",
+                    "lui vestirà",
+                    "lei vestirà",
+                    "egli vestirà",
+                    "lui avvolgerà",
+                    "lei avvolgerà",
+                    "egli avvolgerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ămĭciēmus",
+                "traduzioni": [
+                    "noi copriremo",
+                    "noi vestiremo",
+                    "noi avvolgeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ămĭciētis",
+                "traduzioni": [
+                    "voi coprirete",
+                    "voi vestirete",
+                    "voi avvolgerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ămĭcĭent",
+                "traduzioni": [
+                    "loro copriranno",
+                    "essi copriranno",
+                    "loro vestiranno",
+                    "essi vestiranno",
+                    "loro avvolgeranno",
+                    "essi avvolgeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "amicui o amixi",
+                "traduzioni": [
+                    "io coprii",
+                    "io copersi",
+                    "io ho coperto",
+                    "io ebbi coperto",
+                    "io vestii",
+                    "io ho vestito",
+                    "io ebbi vestito",
+                    "io avvolsi",
+                    "io ho avvolto",
+                    "io ebbi avvolto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amicuisti o amixisti",
+                "traduzioni": [
+                    "tu copristi",
+                    "tu hai coperto",
+                    "tu avesti coperto",
+                    "tu vestisti",
+                    "tu hai vestito",
+                    "tu avesti vestito",
+                    "tu avvolgesti",
+                    "tu hai avvolto",
+                    "tu avesti avvolto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amicuit o amixit",
+                "traduzioni": [
+                    "lui coprì",
+                    "lei coprì",
+                    "egli coprì",
+                    "lui coperse",
+                    "lei coperse",
+                    "egli coperse",
+                    "lui ha coperto",
+                    "lei ha coperto",
+                    "egli ha coperto",
+                    "lui ebbe coperto",
+                    "lei ebbe coperto",
+                    "egli ebbe coperto",
+                    "lui vestì",
+                    "lei vestì",
+                    "egli vestì",
+                    "lui ha vestito",
+                    "lei ha vestito",
+                    "egli ha vestito",
+                    "lui ebbe vestito",
+                    "lei ebbe vestito",
+                    "egli ebbe vestito",
+                    "lui avvolse",
+                    "lei avvolse",
+                    "egli avvolse",
+                    "lui ha avvolto",
+                    "lei ha avvolto",
+                    "egli ha avvolto",
+                    "lui ebbe avvolto",
+                    "lei ebbe avvolto",
+                    "egli ebbe avvolto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amicuĭmus o amixĭmus",
+                "traduzioni": [
+                    "noi coprimmo",
+                    "noi abbiamo coperto",
+                    "noi avemmo coperto",
+                    "noi vestimmo",
+                    "noi abbiamo vestito",
+                    "noi avemmo vestito",
+                    "noi avvolgemmo",
+                    "noi abbiamo avvolto",
+                    "noi avemmo avvolto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amicuistis o amixistis",
+                "traduzioni": [
+                    "voi copriste",
+                    "voi avete coperto",
+                    "voi aveste coperto",
+                    "voi vestiste",
+                    "voi avete vestito",
+                    "voi aveste vestito",
+                    "voi avvolgeste",
+                    "voi avete avvolto",
+                    "voi aveste avvolto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amicuērunt o amixērunt, ēre",
+                "traduzioni": [
+                    "loro coprirono",
+                    "essi coprirono",
+                    "loro copersero",
+                    "essi copersero",
+                    "loro hanno coperto",
+                    "essi hanno coperto",
+                    "loro ebbero coperto",
+                    "essi ebbero coperto",
+                    "loro vestirono",
+                    "essi vestirono",
+                    "loro hanno vestito",
+                    "essi hanno vestito",
+                    "loro ebbero vestito",
+                    "essi ebbero vestito",
+                    "loro avvolsero",
+                    "essi avvolsero",
+                    "loro hanno avvolto",
+                    "essi hanno avvolto",
+                    "loro ebbero avvolto",
+                    "essi ebbero avvolto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "amicuĕram o amixĕram",
+                "traduzioni": [
+                    "io avevo coperto",
+                    "io avevo vestito",
+                    "io avevo avvolto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amicuĕras o amixĕras",
+                "traduzioni": [
+                    "tu avevi coperto",
+                    "tu avevi vestito",
+                    "tu avevi avvolto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amicuĕrat o amixĕrat",
+                "traduzioni": [
+                    "lui aveva coperto",
+                    "lei aveva coperto",
+                    "egli aveva coperto",
+                    "lui aveva vestito",
+                    "lei aveva vestito",
+                    "egli aveva vestito",
+                    "lui aveva avvolto",
+                    "lei aveva avvolto",
+                    "egli aveva avvolto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amicuerāmus o amixerāmus",
+                "traduzioni": [
+                    "noi avevamo coperto",
+                    "noi avevamo vestito",
+                    "noi avevamo avvolto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amicuerātis o amixerātis",
+                "traduzioni": [
+                    "voi avevate coperto",
+                    "voi avevate vestito",
+                    "voi avevate avvolto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amicuĕrant o amixĕrant",
+                "traduzioni": [
+                    "loro avevano coperto",
+                    "essi avevano coperto",
+                    "loro avevano vestito",
+                    "essi avevano vestito",
+                    "loro avevano avvolto",
+                    "essi avevano avvolto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "amicuĕro o amixĕro",
+                "traduzioni": [
+                    "io avrò coperto",
+                    "io avrò vestito",
+                    "io avrò avvolto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amicuĕris o amixĕris",
+                "traduzioni": [
+                    "tu avrai coperto",
+                    "tu avrai vestito",
+                    "tu avrai avvolto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amicuĕrit o amixĕrit",
+                "traduzioni": [
+                    "lui avrà coperto",
+                    "lei avrà coperto",
+                    "egli avrà coperto",
+                    "lui avrà vestito",
+                    "lei avrà vestito",
+                    "egli avrà vestito",
+                    "lui avrà avvolto",
+                    "lei avrà avvolto",
+                    "egli avrà avvolto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amicuerĭmus o amixerĭmus",
+                "traduzioni": [
+                    "noi avremo coperto",
+                    "noi avremo vestito",
+                    "noi avremo avvolto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amicuerĭtis o amixerĭtis",
+                "traduzioni": [
+                    "voi avrete coperto",
+                    "voi avrete vestito",
+                    "voi avrete avvolto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amicuĕrint o amixĕrint",
+                "traduzioni": [
+                    "loro avranno coperto",
+                    "essi avranno coperto",
+                    "loro avranno vestito",
+                    "essi avranno vestito",
+                    "loro avranno avvolto",
+                    "essi avranno avvolto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ămĭcĭam",
+                "traduzioni": [
+                    "che io copra",
+                    "che io vesta",
+                    "che io avvolga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ămĭcĭas",
+                "traduzioni": [
+                    "che tu copra",
+                    "che tu vesta",
+                    "che tu avvolga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ămĭcĭat",
+                "traduzioni": [
+                    "che lui copra",
+                    "che lei copra",
+                    "che egli copra",
+                    "che lui vesta",
+                    "che lei vesta",
+                    "che egli vesta",
+                    "che lui avvolga",
+                    "che lei avvolga",
+                    "che egli avvolga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ămĭciāmus",
+                "traduzioni": [
+                    "che noi copriamo",
+                    "che noi vestiamo",
+                    "che noi avvolgiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ămĭciātis",
+                "traduzioni": [
+                    "che voi copriate",
+                    "che voi vestiate",
+                    "che voi avvolgiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ămĭcĭant",
+                "traduzioni": [
+                    "che loro coprano",
+                    "che essi coprano",
+                    "che loro vestano",
+                    "che essi vestano",
+                    "che loro avvolgano",
+                    "che essi avvolgano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ămĭcīrem",
+                "traduzioni": [
+                    "che io coprissi",
+                    "che io vestissi",
+                    "che io avvolgessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ămĭcīres",
+                "traduzioni": [
+                    "che tu coprissi",
+                    "che tu vestissi",
+                    "che tu avvolgessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ămĭcīret",
+                "traduzioni": [
+                    "che lui coprisse",
+                    "che lei coprisse",
+                    "che egli coprisse",
+                    "che lui vestisse",
+                    "che lei vestisse",
+                    "che egli vestisse",
+                    "che lui avvolgesse",
+                    "che lei avvolgesse",
+                    "che egli avvolgesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ămĭcirēmus",
+                "traduzioni": [
+                    "che noi coprissimo",
+                    "che noi vestissimo",
+                    "che noi avvolgessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ămĭcirētis",
+                "traduzioni": [
+                    "che voi copriste",
+                    "che voi vestiste",
+                    "che voi avvolgeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ămĭcīrent",
+                "traduzioni": [
+                    "che loro coprissero",
+                    "che essi coprissero",
+                    "che loro vestissero",
+                    "che essi vestissero",
+                    "che loro avvolgessero",
+                    "che essi avvolgessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "amicuĕrim o amixĕrim",
+                "traduzioni": [
+                    "che io abbia coperto",
+                    "che io abbia vestito",
+                    "che io abbia avvolto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amicuĕris o amixĕris",
+                "traduzioni": [
+                    "che tu abbia coperto",
+                    "che tu abbia vestito",
+                    "che tu abbia avvolto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amicuĕrit o amixĕrit",
+                "traduzioni": [
+                    "che lui abbia coperto",
+                    "che lei abbia coperto",
+                    "che egli abbia coperto",
+                    "che lui abbia vestito",
+                    "che lei abbia vestito",
+                    "che egli abbia vestito",
+                    "che lui abbia avvolto",
+                    "che lei abbia avvolto",
+                    "che egli abbia avvolto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amicuerĭmus o amixerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo coperto",
+                    "che noi abbiamo vestito",
+                    "che noi abbiamo avvolto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amicuerĭtis o amixerĭtis",
+                "traduzioni": [
+                    "che voi abbiate coperto",
+                    "che voi abbiate vestito",
+                    "che voi abbiate avvolto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amicuĕrint o amixĕrint",
+                "traduzioni": [
+                    "che loro abbiano coperto",
+                    "che essi abbiano coperto",
+                    "che loro abbiano vestito",
+                    "che essi abbiano vestito",
+                    "che loro abbiano avvolto",
+                    "che essi abbiano avvolto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "amicuissem o amixissem",
+                "traduzioni": [
+                    "che io avessi coperto",
+                    "che io avessi vestito",
+                    "che io avessi avvolto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "amicuisses o amixisses",
+                "traduzioni": [
+                    "che tu avessi coperto",
+                    "che tu avessi vestito",
+                    "che tu avessi avvolto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "amicuisset o amixisset",
+                "traduzioni": [
+                    "che lui avesse coperto",
+                    "che lei avesse coperto",
+                    "che egli avesse coperto",
+                    "che lui avesse vestito",
+                    "che lei avesse vestito",
+                    "che egli avesse vestito",
+                    "che lui avesse avvolto",
+                    "che lei avesse avvolto",
+                    "che egli avesse avvolto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "amicuissēmus o amixissēmus",
+                "traduzioni": [
+                    "che noi avessimo coperto",
+                    "che noi avessimo vestito",
+                    "che noi avessimo avvolto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "amicuissētis o amixissētis",
+                "traduzioni": [
+                    "che voi aveste coperto",
+                    "che voi aveste vestito",
+                    "che voi aveste avvolto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "amicuissent o amixissent",
+                "traduzioni": [
+                    "che loro avessero coperto",
+                    "che essi avessero coperto",
+                    "che loro avessero vestito",
+                    "che essi avessero vestito",
+                    "che loro avessero avvolto",
+                    "che essi avessero avvolto"
+                ]
+            }
+        ]
+    }
+}

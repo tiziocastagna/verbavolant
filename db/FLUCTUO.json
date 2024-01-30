@@ -1,0 +1,944 @@
+{
+    "identifier": "FLUCTUO",
+    "conuigazione": "1",
+    "translation": [
+        "ondeggiare",
+        "fluttuare",
+        "galleggiare",
+        "(in senso figurato) oscillare",
+        "tentennare",
+        "vacillare",
+        "(in senso figurato) ribollire"
+    ],
+    "valid_translations": [
+        "ondeggiare",
+        "fluttuare",
+        "galleggiare",
+        "tentennare",
+        "vacillare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "fluctŭo",
+                "traduzioni": [
+                    "io ondeggio",
+                    "io fluttuo",
+                    "io galleggio",
+                    "io tentenno",
+                    "io vacillo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fluctŭas",
+                "traduzioni": [
+                    "tu ondeggi",
+                    "tu fluttui",
+                    "tu galleggi",
+                    "tu tentenni",
+                    "tu vacilli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fluctŭat",
+                "traduzioni": [
+                    "lui ondeggia",
+                    "lei ondeggia",
+                    "egli ondeggia",
+                    "lui fluttua",
+                    "lei fluttua",
+                    "egli fluttua",
+                    "lui galleggia",
+                    "lei galleggia",
+                    "egli galleggia",
+                    "lui tentenna",
+                    "lei tentenna",
+                    "egli tentenna",
+                    "lui vacilla",
+                    "lei vacilla",
+                    "egli vacilla"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fluctŭāmus",
+                "traduzioni": [
+                    "noi ondeggiamo",
+                    "noi fluttuiamo",
+                    "noi galleggiamo",
+                    "noi tentenniamo",
+                    "noi vacilliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fluctŭātis",
+                "traduzioni": [
+                    "voi ondeggiate",
+                    "voi fluttuate",
+                    "voi galleggiate",
+                    "voi tentennate",
+                    "voi vacillate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fluctŭant",
+                "traduzioni": [
+                    "loro ondeggiano",
+                    "essi ondeggiano",
+                    "loro fluttuano",
+                    "essi fluttuano",
+                    "loro galleggiano",
+                    "essi galleggiano",
+                    "loro tentennano",
+                    "essi tentennano",
+                    "loro vacillano",
+                    "essi vacillano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fluctŭābam",
+                "traduzioni": [
+                    "io ondeggiavo",
+                    "io fluttuavo",
+                    "io galleggiavo",
+                    "io tentennavo",
+                    "io vacillavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fluctŭābas",
+                "traduzioni": [
+                    "tu ondeggiavi",
+                    "tu fluttuavi",
+                    "tu galleggiavi",
+                    "tu tentennavi",
+                    "tu vacillavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fluctŭābat",
+                "traduzioni": [
+                    "lui ondeggiava",
+                    "lei ondeggiava",
+                    "egli ondeggiava",
+                    "lui fluttuava",
+                    "lei fluttuava",
+                    "egli fluttuava",
+                    "lui galleggiava",
+                    "lei galleggiava",
+                    "egli galleggiava",
+                    "lui tentennava",
+                    "lei tentennava",
+                    "egli tentennava",
+                    "lui vacillava",
+                    "lei vacillava",
+                    "egli vacillava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fluctŭabāmus",
+                "traduzioni": [
+                    "noi ondeggiavamo",
+                    "noi fluttuavamo",
+                    "noi galleggiavamo",
+                    "noi tentennavamo",
+                    "noi vacillavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fluctŭabātis",
+                "traduzioni": [
+                    "voi ondeggiavate",
+                    "voi fluttuavate",
+                    "voi galleggiavate",
+                    "voi tentennavate",
+                    "voi vacillavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fluctŭābant",
+                "traduzioni": [
+                    "loro ondeggiavano",
+                    "essi ondeggiavano",
+                    "loro fluttuavano",
+                    "essi fluttuavano",
+                    "loro galleggiavano",
+                    "essi galleggiavano",
+                    "loro tentennavano",
+                    "essi tentennavano",
+                    "loro vacillavano",
+                    "essi vacillavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "fluctŭābo",
+                "traduzioni": [
+                    "io ondeggerò",
+                    "io fluttuerò",
+                    "io galleggerò",
+                    "io tentennerò",
+                    "io vacillerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fluctŭābis",
+                "traduzioni": [
+                    "tu ondeggerai",
+                    "tu fluttuerai",
+                    "tu galleggerai",
+                    "tu tentennerai",
+                    "tu vacillerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fluctŭābit",
+                "traduzioni": [
+                    "lui ondeggerà",
+                    "lei ondeggerà",
+                    "egli ondeggerà",
+                    "lui fluttuerà",
+                    "lei fluttuerà",
+                    "egli fluttuerà",
+                    "lui galleggerà",
+                    "lei galleggerà",
+                    "egli galleggerà",
+                    "lui tentennerà",
+                    "lei tentennerà",
+                    "egli tentennerà",
+                    "lui vacillerà",
+                    "lei vacillerà",
+                    "egli vacillerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fluctŭabĭmus",
+                "traduzioni": [
+                    "noi ondeggeremo",
+                    "noi fluttueremo",
+                    "noi galleggeremo",
+                    "noi tentenneremo",
+                    "noi vacilleremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fluctŭabĭtis",
+                "traduzioni": [
+                    "voi ondeggerete",
+                    "voi fluttuerete",
+                    "voi galleggerete",
+                    "voi tentennerete",
+                    "voi vacillerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fluctŭābunt",
+                "traduzioni": [
+                    "loro ondeggeranno",
+                    "essi ondeggeranno",
+                    "loro fluttueranno",
+                    "essi fluttueranno",
+                    "loro galleggeranno",
+                    "essi galleggeranno",
+                    "loro tentenneranno",
+                    "essi tentenneranno",
+                    "loro vacilleranno",
+                    "essi vacilleranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fluctuavi",
+                "traduzioni": [
+                    "io ondeggiai",
+                    "io ho ondeggiato",
+                    "io ebbi ondeggiato",
+                    "io fluttuai",
+                    "io ho fluttuato",
+                    "io ebbi fluttuato",
+                    "io galleggiai",
+                    "io ho galleggiato",
+                    "io ebbi galleggiato",
+                    "io tentennai",
+                    "io ho tentennato",
+                    "io ebbi tentennato",
+                    "io vacillai",
+                    "io ho vacillato",
+                    "io ebbi vacillato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fluctuavisti",
+                "traduzioni": [
+                    "tu ondeggiasti",
+                    "tu hai ondeggiato",
+                    "tu avesti ondeggiato",
+                    "tu fluttuasti",
+                    "tu hai fluttuato",
+                    "tu avesti fluttuato",
+                    "tu galleggiasti",
+                    "tu hai galleggiato",
+                    "tu avesti galleggiato",
+                    "tu tentennasti",
+                    "tu hai tentennato",
+                    "tu avesti tentennato",
+                    "tu vacillasti",
+                    "tu hai vacillato",
+                    "tu avesti vacillato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fluctuavit",
+                "traduzioni": [
+                    "lui ondeggiò",
+                    "lei ondeggiò",
+                    "egli ondeggiò",
+                    "lui ha ondeggiato",
+                    "lei ha ondeggiato",
+                    "egli ha ondeggiato",
+                    "lui ebbe ondeggiato",
+                    "lei ebbe ondeggiato",
+                    "egli ebbe ondeggiato",
+                    "lui fluttuò",
+                    "lei fluttuò",
+                    "egli fluttuò",
+                    "lui ha fluttuato",
+                    "lei ha fluttuato",
+                    "egli ha fluttuato",
+                    "lui ebbe fluttuato",
+                    "lei ebbe fluttuato",
+                    "egli ebbe fluttuato",
+                    "lui galleggiò",
+                    "lei galleggiò",
+                    "egli galleggiò",
+                    "lui ha galleggiato",
+                    "lei ha galleggiato",
+                    "egli ha galleggiato",
+                    "lui ebbe galleggiato",
+                    "lei ebbe galleggiato",
+                    "egli ebbe galleggiato",
+                    "lui tentennò",
+                    "lei tentennò",
+                    "egli tentennò",
+                    "lui ha tentennato",
+                    "lei ha tentennato",
+                    "egli ha tentennato",
+                    "lui ebbe tentennato",
+                    "lei ebbe tentennato",
+                    "egli ebbe tentennato",
+                    "lui vacillò",
+                    "lei vacillò",
+                    "egli vacillò",
+                    "lui ha vacillato",
+                    "lei ha vacillato",
+                    "egli ha vacillato",
+                    "lui ebbe vacillato",
+                    "lei ebbe vacillato",
+                    "egli ebbe vacillato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fluctuavĭmus",
+                "traduzioni": [
+                    "noi ondeggiammo",
+                    "noi abbiamo ondeggiato",
+                    "noi avemmo ondeggiato",
+                    "noi fluttuammo",
+                    "noi abbiamo fluttuato",
+                    "noi avemmo fluttuato",
+                    "noi galleggiammo",
+                    "noi abbiamo galleggiato",
+                    "noi avemmo galleggiato",
+                    "noi tentennammo",
+                    "noi abbiamo tentennato",
+                    "noi avemmo tentennato",
+                    "noi vacillammo",
+                    "noi abbiamo vacillato",
+                    "noi avemmo vacillato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fluctuavistis",
+                "traduzioni": [
+                    "voi ondeggiaste",
+                    "voi avete ondeggiato",
+                    "voi aveste ondeggiato",
+                    "voi fluttuaste",
+                    "voi avete fluttuato",
+                    "voi aveste fluttuato",
+                    "voi galleggiaste",
+                    "voi avete galleggiato",
+                    "voi aveste galleggiato",
+                    "voi tentennaste",
+                    "voi avete tentennato",
+                    "voi aveste tentennato",
+                    "voi vacillaste",
+                    "voi avete vacillato",
+                    "voi aveste vacillato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fluctuavērunt, fluctuavēre",
+                "traduzioni": [
+                    "loro ondeggiarono",
+                    "essi ondeggiarono",
+                    "loro hanno ondeggiato",
+                    "essi hanno ondeggiato",
+                    "loro ebbero ondeggiato",
+                    "essi ebbero ondeggiato",
+                    "loro fluttuarono",
+                    "essi fluttuarono",
+                    "loro hanno fluttuato",
+                    "essi hanno fluttuato",
+                    "loro ebbero fluttuato",
+                    "essi ebbero fluttuato",
+                    "loro galleggiarono",
+                    "essi galleggiarono",
+                    "loro hanno galleggiato",
+                    "essi hanno galleggiato",
+                    "loro ebbero galleggiato",
+                    "essi ebbero galleggiato",
+                    "loro tentennarono",
+                    "essi tentennarono",
+                    "loro hanno tentennato",
+                    "essi hanno tentennato",
+                    "loro ebbero tentennato",
+                    "essi ebbero tentennato",
+                    "loro vacillarono",
+                    "essi vacillarono",
+                    "loro hanno vacillato",
+                    "essi hanno vacillato",
+                    "loro ebbero vacillato",
+                    "essi ebbero vacillato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fluctuavĕram",
+                "traduzioni": [
+                    "io avevo ondeggiato",
+                    "io avevo fluttuato",
+                    "io avevo galleggiato",
+                    "io avevo tentennato",
+                    "io avevo vacillato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fluctuavĕras",
+                "traduzioni": [
+                    "tu avevi ondeggiato",
+                    "tu avevi fluttuato",
+                    "tu avevi galleggiato",
+                    "tu avevi tentennato",
+                    "tu avevi vacillato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fluctuavĕrat",
+                "traduzioni": [
+                    "lui aveva ondeggiato",
+                    "lei aveva ondeggiato",
+                    "egli aveva ondeggiato",
+                    "lui aveva fluttuato",
+                    "lei aveva fluttuato",
+                    "egli aveva fluttuato",
+                    "lui aveva galleggiato",
+                    "lei aveva galleggiato",
+                    "egli aveva galleggiato",
+                    "lui aveva tentennato",
+                    "lei aveva tentennato",
+                    "egli aveva tentennato",
+                    "lui aveva vacillato",
+                    "lei aveva vacillato",
+                    "egli aveva vacillato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fluctuaverāmus",
+                "traduzioni": [
+                    "noi avevamo ondeggiato",
+                    "noi avevamo fluttuato",
+                    "noi avevamo galleggiato",
+                    "noi avevamo tentennato",
+                    "noi avevamo vacillato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fluctuaverātis",
+                "traduzioni": [
+                    "voi avevate ondeggiato",
+                    "voi avevate fluttuato",
+                    "voi avevate galleggiato",
+                    "voi avevate tentennato",
+                    "voi avevate vacillato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fluctuavĕrant",
+                "traduzioni": [
+                    "loro avevano ondeggiato",
+                    "essi avevano ondeggiato",
+                    "loro avevano fluttuato",
+                    "essi avevano fluttuato",
+                    "loro avevano galleggiato",
+                    "essi avevano galleggiato",
+                    "loro avevano tentennato",
+                    "essi avevano tentennato",
+                    "loro avevano vacillato",
+                    "essi avevano vacillato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "fluctuavĕro",
+                "traduzioni": [
+                    "io avrò ondeggiato",
+                    "io avrò fluttuato",
+                    "io avrò galleggiato",
+                    "io avrò tentennato",
+                    "io avrò vacillato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fluctuavĕris",
+                "traduzioni": [
+                    "tu avrai ondeggiato",
+                    "tu avrai fluttuato",
+                    "tu avrai galleggiato",
+                    "tu avrai tentennato",
+                    "tu avrai vacillato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fluctuavĕrit",
+                "traduzioni": [
+                    "lui avrà ondeggiato",
+                    "lei avrà ondeggiato",
+                    "egli avrà ondeggiato",
+                    "lui avrà fluttuato",
+                    "lei avrà fluttuato",
+                    "egli avrà fluttuato",
+                    "lui avrà galleggiato",
+                    "lei avrà galleggiato",
+                    "egli avrà galleggiato",
+                    "lui avrà tentennato",
+                    "lei avrà tentennato",
+                    "egli avrà tentennato",
+                    "lui avrà vacillato",
+                    "lei avrà vacillato",
+                    "egli avrà vacillato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fluctuaverĭmus",
+                "traduzioni": [
+                    "noi avremo ondeggiato",
+                    "noi avremo fluttuato",
+                    "noi avremo galleggiato",
+                    "noi avremo tentennato",
+                    "noi avremo vacillato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fluctuaverĭtis",
+                "traduzioni": [
+                    "voi avrete ondeggiato",
+                    "voi avrete fluttuato",
+                    "voi avrete galleggiato",
+                    "voi avrete tentennato",
+                    "voi avrete vacillato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fluctuavĕrint",
+                "traduzioni": [
+                    "loro avranno ondeggiato",
+                    "essi avranno ondeggiato",
+                    "loro avranno fluttuato",
+                    "essi avranno fluttuato",
+                    "loro avranno galleggiato",
+                    "essi avranno galleggiato",
+                    "loro avranno tentennato",
+                    "essi avranno tentennato",
+                    "loro avranno vacillato",
+                    "essi avranno vacillato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "fluctŭem",
+                "traduzioni": [
+                    "che io ondeggi",
+                    "che io fluttui",
+                    "che io galleggi",
+                    "che io tentenni",
+                    "che io vacilli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fluctŭes",
+                "traduzioni": [
+                    "che tu ondeggi",
+                    "che tu fluttui",
+                    "che tu galleggi",
+                    "che tu tentenni",
+                    "che tu vacilli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fluctŭet",
+                "traduzioni": [
+                    "che lui ondeggi",
+                    "che lei ondeggi",
+                    "che egli ondeggi",
+                    "che lui fluttui",
+                    "che lei fluttui",
+                    "che egli fluttui",
+                    "che lui galleggi",
+                    "che lei galleggi",
+                    "che egli galleggi",
+                    "che lui tentenni",
+                    "che lei tentenni",
+                    "che egli tentenni",
+                    "che lui vacilli",
+                    "che lei vacilli",
+                    "che egli vacilli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fluctŭēmus",
+                "traduzioni": [
+                    "che noi ondeggiamo",
+                    "che noi fluttuiamo",
+                    "che noi galleggiamo",
+                    "che noi tentenniamo",
+                    "che noi vacilliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fluctŭētis",
+                "traduzioni": [
+                    "che voi ondeggiate",
+                    "che voi fluttuiate",
+                    "che voi galleggiate",
+                    "che voi tentenniate",
+                    "che voi vacilliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fluctŭent",
+                "traduzioni": [
+                    "che loro ondeggino",
+                    "che essi ondeggino",
+                    "che loro fluttuino",
+                    "che essi fluttuino",
+                    "che loro galleggino",
+                    "che essi galleggino",
+                    "che loro tentennino",
+                    "che essi tentennino",
+                    "che loro vacillino",
+                    "che essi vacillino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fluctŭārem",
+                "traduzioni": [
+                    "che io ondeggiassi",
+                    "che io fluttuassi",
+                    "che io galleggiassi",
+                    "che io tentennassi",
+                    "che io vacillassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fluctŭāres",
+                "traduzioni": [
+                    "che tu ondeggiassi",
+                    "che tu fluttuassi",
+                    "che tu galleggiassi",
+                    "che tu tentennassi",
+                    "che tu vacillassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fluctŭāret",
+                "traduzioni": [
+                    "che lui ondeggiasse",
+                    "che lei ondeggiasse",
+                    "che egli ondeggiasse",
+                    "che lui fluttuasse",
+                    "che lei fluttuasse",
+                    "che egli fluttuasse",
+                    "che lui galleggiasse",
+                    "che lei galleggiasse",
+                    "che egli galleggiasse",
+                    "che lui tentennasse",
+                    "che lei tentennasse",
+                    "che egli tentennasse",
+                    "che lui vacillasse",
+                    "che lei vacillasse",
+                    "che egli vacillasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fluctŭarēmus",
+                "traduzioni": [
+                    "che noi ondeggiassimo",
+                    "che noi fluttuassimo",
+                    "che noi galleggiassimo",
+                    "che noi tentennassimo",
+                    "che noi vacillassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fluctŭarētis",
+                "traduzioni": [
+                    "che voi ondeggiaste",
+                    "che voi fluttuaste",
+                    "che voi galleggiaste",
+                    "che voi tentennaste",
+                    "che voi vacillaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fluctŭārent",
+                "traduzioni": [
+                    "che loro ondeggiassero",
+                    "che essi ondeggiassero",
+                    "che loro fluttuassero",
+                    "che essi fluttuassero",
+                    "che loro galleggiassero",
+                    "che essi galleggiassero",
+                    "che loro tentennassero",
+                    "che essi tentennassero",
+                    "che loro vacillassero",
+                    "che essi vacillassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fluctuavĕrim",
+                "traduzioni": [
+                    "che io abbia ondeggiato",
+                    "che io abbia fluttuato",
+                    "che io abbia galleggiato",
+                    "che io abbia tentennato",
+                    "che io abbia vacillato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fluctuavĕris",
+                "traduzioni": [
+                    "che tu abbia ondeggiato",
+                    "che tu abbia fluttuato",
+                    "che tu abbia galleggiato",
+                    "che tu abbia tentennato",
+                    "che tu abbia vacillato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fluctuavĕrit",
+                "traduzioni": [
+                    "che lui abbia ondeggiato",
+                    "che lei abbia ondeggiato",
+                    "che egli abbia ondeggiato",
+                    "che lui abbia fluttuato",
+                    "che lei abbia fluttuato",
+                    "che egli abbia fluttuato",
+                    "che lui abbia galleggiato",
+                    "che lei abbia galleggiato",
+                    "che egli abbia galleggiato",
+                    "che lui abbia tentennato",
+                    "che lei abbia tentennato",
+                    "che egli abbia tentennato",
+                    "che lui abbia vacillato",
+                    "che lei abbia vacillato",
+                    "che egli abbia vacillato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fluctuaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo ondeggiato",
+                    "che noi abbiamo fluttuato",
+                    "che noi abbiamo galleggiato",
+                    "che noi abbiamo tentennato",
+                    "che noi abbiamo vacillato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fluctuaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate ondeggiato",
+                    "che voi abbiate fluttuato",
+                    "che voi abbiate galleggiato",
+                    "che voi abbiate tentennato",
+                    "che voi abbiate vacillato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fluctuavĕrint",
+                "traduzioni": [
+                    "che loro abbiano ondeggiato",
+                    "che essi abbiano ondeggiato",
+                    "che loro abbiano fluttuato",
+                    "che essi abbiano fluttuato",
+                    "che loro abbiano galleggiato",
+                    "che essi abbiano galleggiato",
+                    "che loro abbiano tentennato",
+                    "che essi abbiano tentennato",
+                    "che loro abbiano vacillato",
+                    "che essi abbiano vacillato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fluctuavissem",
+                "traduzioni": [
+                    "che io avessi ondeggiato",
+                    "che io avessi fluttuato",
+                    "che io avessi galleggiato",
+                    "che io avessi tentennato",
+                    "che io avessi vacillato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fluctuavisses",
+                "traduzioni": [
+                    "che tu avessi ondeggiato",
+                    "che tu avessi fluttuato",
+                    "che tu avessi galleggiato",
+                    "che tu avessi tentennato",
+                    "che tu avessi vacillato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fluctuavisset",
+                "traduzioni": [
+                    "che lui avesse ondeggiato",
+                    "che lei avesse ondeggiato",
+                    "che egli avesse ondeggiato",
+                    "che lui avesse fluttuato",
+                    "che lei avesse fluttuato",
+                    "che egli avesse fluttuato",
+                    "che lui avesse galleggiato",
+                    "che lei avesse galleggiato",
+                    "che egli avesse galleggiato",
+                    "che lui avesse tentennato",
+                    "che lei avesse tentennato",
+                    "che egli avesse tentennato",
+                    "che lui avesse vacillato",
+                    "che lei avesse vacillato",
+                    "che egli avesse vacillato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fluctuavissēmus",
+                "traduzioni": [
+                    "che noi avessimo ondeggiato",
+                    "che noi avessimo fluttuato",
+                    "che noi avessimo galleggiato",
+                    "che noi avessimo tentennato",
+                    "che noi avessimo vacillato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fluctuavissētis",
+                "traduzioni": [
+                    "che voi aveste ondeggiato",
+                    "che voi aveste fluttuato",
+                    "che voi aveste galleggiato",
+                    "che voi aveste tentennato",
+                    "che voi aveste vacillato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fluctuavissent",
+                "traduzioni": [
+                    "che loro avessero ondeggiato",
+                    "che essi avessero ondeggiato",
+                    "che loro avessero fluttuato",
+                    "che essi avessero fluttuato",
+                    "che loro avessero galleggiato",
+                    "che essi avessero galleggiato",
+                    "che loro avessero tentennato",
+                    "che essi avessero tentennato",
+                    "che loro avessero vacillato",
+                    "che essi avessero vacillato"
+                ]
+            }
+        ]
+    }
+}

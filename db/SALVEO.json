@@ -1,0 +1,502 @@
+{
+    "identifier": "SALVEO",
+    "conuigazione": "2",
+    "translation": [
+        "salutare"
+    ],
+    "valid_translations": [
+        "salutare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvĕo",
+                "traduzioni": [
+                    "io saluto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salves",
+                "traduzioni": [
+                    "tu saluti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvet",
+                "traduzioni": [
+                    "lui saluta",
+                    "lei saluta",
+                    "egli saluta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salvēmus",
+                "traduzioni": [
+                    "noi salutiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salvētis",
+                "traduzioni": [
+                    "voi salutate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvent",
+                "traduzioni": [
+                    "loro salutano",
+                    "essi salutano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvēbam",
+                "traduzioni": [
+                    "io salutavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salvēbas",
+                "traduzioni": [
+                    "tu salutavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvēbat",
+                "traduzioni": [
+                    "lui salutava",
+                    "lei salutava",
+                    "egli salutava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salvebāmus",
+                "traduzioni": [
+                    "noi salutavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salvebātis",
+                "traduzioni": [
+                    "voi salutavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvēbant",
+                "traduzioni": [
+                    "loro salutavano",
+                    "essi salutavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvēbo",
+                "traduzioni": [
+                    "io saluterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salvēbis",
+                "traduzioni": [
+                    "tu saluterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvēbit",
+                "traduzioni": [
+                    "lui saluterà",
+                    "lei saluterà",
+                    "egli saluterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salvebĭmus",
+                "traduzioni": [
+                    "noi saluteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salvebĭtis",
+                "traduzioni": [
+                    "voi saluterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvēbunt",
+                "traduzioni": [
+                    "loro saluteranno",
+                    "essi saluteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io salutai",
+                    "io ho salutato",
+                    "io ebbi salutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu salutasti",
+                    "tu hai salutato",
+                    "tu avesti salutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui salutò",
+                    "lei salutò",
+                    "egli salutò",
+                    "lui ha salutato",
+                    "lei ha salutato",
+                    "egli ha salutato",
+                    "lui ebbe salutato",
+                    "lei ebbe salutato",
+                    "egli ebbe salutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi salutammo",
+                    "noi abbiamo salutato",
+                    "noi avemmo salutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi salutaste",
+                    "voi avete salutato",
+                    "voi aveste salutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro salutarono",
+                    "essi salutarono",
+                    "loro hanno salutato",
+                    "essi hanno salutato",
+                    "loro ebbero salutato",
+                    "essi ebbero salutato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avevo salutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avevi salutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui aveva salutato",
+                    "lei aveva salutato",
+                    "egli aveva salutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avevamo salutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avevate salutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avevano salutato",
+                    "essi avevano salutato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avrò salutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avrai salutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui avrà salutato",
+                    "lei avrà salutato",
+                    "egli avrà salutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avremo salutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avrete salutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avranno salutato",
+                    "essi avranno salutato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvĕam",
+                "traduzioni": [
+                    "che io saluti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salvĕas",
+                "traduzioni": [
+                    "che tu saluti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvĕat",
+                "traduzioni": [
+                    "che lui saluti",
+                    "che lei saluti",
+                    "che egli saluti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salveāmus",
+                "traduzioni": [
+                    "che noi salutiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salveātis",
+                "traduzioni": [
+                    "che voi salutiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvĕant",
+                "traduzioni": [
+                    "che loro salutino",
+                    "che essi salutino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "salvērem",
+                "traduzioni": [
+                    "che io salutassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "salvēres",
+                "traduzioni": [
+                    "che tu salutassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "salvēret",
+                "traduzioni": [
+                    "che lui salutasse",
+                    "che lei salutasse",
+                    "che egli salutasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "salverēmus",
+                "traduzioni": [
+                    "che noi salutassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "salverētis",
+                "traduzioni": [
+                    "che voi salutaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "salvērent",
+                "traduzioni": [
+                    "che loro salutassero",
+                    "che essi salutassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io abbia salutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu abbia salutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui abbia salutato",
+                    "che lei abbia salutato",
+                    "che egli abbia salutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi abbiamo salutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi abbiate salutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro abbiano salutato",
+                    "che essi abbiano salutato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io avessi salutato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu avessi salutato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui avesse salutato",
+                    "che lei avesse salutato",
+                    "che egli avesse salutato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi avessimo salutato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi aveste salutato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro avessero salutato",
+                    "che essi avessero salutato"
+                ]
+            }
+        ]
+    }
+}

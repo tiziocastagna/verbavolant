@@ -1,0 +1,722 @@
+{
+    "identifier": "ALUCINOR",
+    "conuigazione": "1",
+    "translation": [
+        "delirare",
+        "vaneggiare",
+        "sragionare"
+    ],
+    "valid_translations": [
+        "delirare",
+        "vaneggiare",
+        "sragionare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ālūcĭnor",
+                "traduzioni": [
+                    "io deliro",
+                    "io vaneggio",
+                    "io sragiono"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ālūcĭnāris, ālūcĭnāre",
+                "traduzioni": [
+                    "tu deliri",
+                    "tu vaneggi",
+                    "tu sragioni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ālūcĭnātur",
+                "traduzioni": [
+                    "lui delira",
+                    "lei delira",
+                    "egli delira",
+                    "lui vaneggia",
+                    "lei vaneggia",
+                    "egli vaneggia",
+                    "lui sragiona",
+                    "lei sragiona",
+                    "egli sragiona"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ālūcĭnāmur",
+                "traduzioni": [
+                    "noi deliriamo",
+                    "noi vaneggiamo",
+                    "noi sragioniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ālūcĭnamĭni",
+                "traduzioni": [
+                    "voi delirate",
+                    "voi vaneggiate",
+                    "voi sragionate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ālūcĭnantur",
+                "traduzioni": [
+                    "loro delirano",
+                    "essi delirano",
+                    "loro vaneggiano",
+                    "essi vaneggiano",
+                    "loro sragionano",
+                    "essi sragionano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ālūcĭnābar",
+                "traduzioni": [
+                    "io deliravo",
+                    "io vaneggiavo",
+                    "io sragionavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ālūcĭnabāris, ālūcĭnabāre",
+                "traduzioni": [
+                    "tu deliravi",
+                    "tu vaneggiavi",
+                    "tu sragionavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ālūcĭnabātur",
+                "traduzioni": [
+                    "lui delirava",
+                    "lei delirava",
+                    "egli delirava",
+                    "lui vaneggiava",
+                    "lei vaneggiava",
+                    "egli vaneggiava",
+                    "lui sragionava",
+                    "lei sragionava",
+                    "egli sragionava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ālūcĭnabāmus",
+                "traduzioni": [
+                    "noi deliravamo",
+                    "noi vaneggiavamo",
+                    "noi sragionavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ālūcĭnabamĭni",
+                "traduzioni": [
+                    "voi deliravate",
+                    "voi vaneggiavate",
+                    "voi sragionavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ālūcĭnantur",
+                "traduzioni": [
+                    "loro deliravano",
+                    "essi deliravano",
+                    "loro vaneggiavano",
+                    "essi vaneggiavano",
+                    "loro sragionavano",
+                    "essi sragionavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ālūcĭnābor",
+                "traduzioni": [
+                    "io delirerò",
+                    "io vaneggerò",
+                    "io sragionerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ālūcĭnabĕris, ālūcĭnabĕre",
+                "traduzioni": [
+                    "tu delirerai",
+                    "tu vaneggerai",
+                    "tu sragionerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ālūcĭnabĭtur",
+                "traduzioni": [
+                    "lui delirerà",
+                    "lei delirerà",
+                    "egli delirerà",
+                    "lui vaneggerà",
+                    "lei vaneggerà",
+                    "egli vaneggerà",
+                    "lui sragionerà",
+                    "lei sragionerà",
+                    "egli sragionerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ālūcĭnabĭmur",
+                "traduzioni": [
+                    "noi delireremo",
+                    "noi vaneggeremo",
+                    "noi sragioneremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ālūcĭnabimĭni",
+                "traduzioni": [
+                    "voi delirerete",
+                    "voi vaneggerete",
+                    "voi sragionerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ālūcĭnabuntur",
+                "traduzioni": [
+                    "loro delireranno",
+                    "essi delireranno",
+                    "loro vaneggeranno",
+                    "essi vaneggeranno",
+                    "loro sragioneranno",
+                    "essi sragioneranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "alucinatus, –a, –um  sum",
+                "traduzioni": [
+                    "io delirai",
+                    "io ho delirato",
+                    "io ebbi delirato",
+                    "io vaneggiai",
+                    "io ho vaneggiato",
+                    "io ebbi vaneggiato",
+                    "io sragionai",
+                    "io ho sragionato",
+                    "io ebbi sragionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "alucinatus, –a, –um  es",
+                "traduzioni": [
+                    "tu delirasti",
+                    "tu hai delirato",
+                    "tu avesti delirato",
+                    "tu vaneggiasti",
+                    "tu hai vaneggiato",
+                    "tu avesti vaneggiato",
+                    "tu sragionasti",
+                    "tu hai sragionato",
+                    "tu avesti sragionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "alucinatus, –a, –um  est",
+                "traduzioni": [
+                    "lui delirò",
+                    "lei delirò",
+                    "egli delirò",
+                    "lui ha delirato",
+                    "lei ha delirato",
+                    "egli ha delirato",
+                    "lui ebbe delirato",
+                    "lei ebbe delirato",
+                    "egli ebbe delirato",
+                    "lui vaneggiò",
+                    "lei vaneggiò",
+                    "egli vaneggiò",
+                    "lui ha vaneggiato",
+                    "lei ha vaneggiato",
+                    "egli ha vaneggiato",
+                    "lui ebbe vaneggiato",
+                    "lei ebbe vaneggiato",
+                    "egli ebbe vaneggiato",
+                    "lui sragionò",
+                    "lei sragionò",
+                    "egli sragionò",
+                    "lui ha sragionato",
+                    "lei ha sragionato",
+                    "egli ha sragionato",
+                    "lui ebbe sragionato",
+                    "lei ebbe sragionato",
+                    "egli ebbe sragionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "alucinati, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi delirammo",
+                    "noi abbiamo delirato",
+                    "noi avemmo delirato",
+                    "noi vaneggiammo",
+                    "noi abbiamo vaneggiato",
+                    "noi avemmo vaneggiato",
+                    "noi sragionammo",
+                    "noi abbiamo sragionato",
+                    "noi avemmo sragionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "alucinati, –ae, –a  estis",
+                "traduzioni": [
+                    "voi deliraste",
+                    "voi avete delirato",
+                    "voi aveste delirato",
+                    "voi vaneggiaste",
+                    "voi avete vaneggiato",
+                    "voi aveste vaneggiato",
+                    "voi sragionaste",
+                    "voi avete sragionato",
+                    "voi aveste sragionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "alucinati, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro delirarono",
+                    "essi delirarono",
+                    "loro hanno delirato",
+                    "essi hanno delirato",
+                    "loro ebbero delirato",
+                    "essi ebbero delirato",
+                    "loro vaneggiarono",
+                    "essi vaneggiarono",
+                    "loro hanno vaneggiato",
+                    "essi hanno vaneggiato",
+                    "loro ebbero vaneggiato",
+                    "essi ebbero vaneggiato",
+                    "loro sragionarono",
+                    "essi sragionarono",
+                    "loro hanno sragionato",
+                    "essi hanno sragionato",
+                    "loro ebbero sragionato",
+                    "essi ebbero sragionato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "alucinatus, –a, –um  eram",
+                "traduzioni": [
+                    "io avevo delirato",
+                    "io avevo vaneggiato",
+                    "io avevo sragionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "alucinatus, –a, –um  eras",
+                "traduzioni": [
+                    "tu avevi delirato",
+                    "tu avevi vaneggiato",
+                    "tu avevi sragionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "alucinatus, –a, –um  erat",
+                "traduzioni": [
+                    "lui aveva delirato",
+                    "lei aveva delirato",
+                    "egli aveva delirato",
+                    "lui aveva vaneggiato",
+                    "lei aveva vaneggiato",
+                    "egli aveva vaneggiato",
+                    "lui aveva sragionato",
+                    "lei aveva sragionato",
+                    "egli aveva sragionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "alucinati, –ae, –a  eramus",
+                "traduzioni": [
+                    "noi avevamo delirato",
+                    "noi avevamo vaneggiato",
+                    "noi avevamo sragionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "alucinati, –ae, –a  eratis",
+                "traduzioni": [
+                    "voi avevate delirato",
+                    "voi avevate vaneggiato",
+                    "voi avevate sragionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "alucinati, –ae, –a erant",
+                "traduzioni": [
+                    "loro avevano delirato",
+                    "essi avevano delirato",
+                    "loro avevano vaneggiato",
+                    "essi avevano vaneggiato",
+                    "loro avevano sragionato",
+                    "essi avevano sragionato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "alucinatus, –a, –um  ero",
+                "traduzioni": [
+                    "io avrò delirato",
+                    "io avrò vaneggiato",
+                    "io avrò sragionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "alucinatus, –a, –um  eris",
+                "traduzioni": [
+                    "tu avrai delirato",
+                    "tu avrai vaneggiato",
+                    "tu avrai sragionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "alucinatus, –a, –um  erit",
+                "traduzioni": [
+                    "lui avrà delirato",
+                    "lei avrà delirato",
+                    "egli avrà delirato",
+                    "lui avrà vaneggiato",
+                    "lei avrà vaneggiato",
+                    "egli avrà vaneggiato",
+                    "lui avrà sragionato",
+                    "lei avrà sragionato",
+                    "egli avrà sragionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "alucinati, –ae, –a  erimus",
+                "traduzioni": [
+                    "noi avremo delirato",
+                    "noi avremo vaneggiato",
+                    "noi avremo sragionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "alucinati, –ae, –a  eritis",
+                "traduzioni": [
+                    "voi avrete delirato",
+                    "voi avrete vaneggiato",
+                    "voi avrete sragionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "alucinati, –ae, –a  erunt",
+                "traduzioni": [
+                    "loro avranno delirato",
+                    "essi avranno delirato",
+                    "loro avranno vaneggiato",
+                    "essi avranno vaneggiato",
+                    "loro avranno sragionato",
+                    "essi avranno sragionato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ālūcĭner",
+                "traduzioni": [
+                    "che io deliri",
+                    "che io vaneggi",
+                    "che io sragioni"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ālūcĭnēris, ālūcĭnēre",
+                "traduzioni": [
+                    "che tu deliri",
+                    "che tu vaneggi",
+                    "che tu sragioni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ālūcĭnētur",
+                "traduzioni": [
+                    "che lui deliri",
+                    "che lei deliri",
+                    "che egli deliri",
+                    "che lui vaneggi",
+                    "che lei vaneggi",
+                    "che egli vaneggi",
+                    "che lui sragioni",
+                    "che lei sragioni",
+                    "che egli sragioni"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ālūcĭnēmur",
+                "traduzioni": [
+                    "che noi deliriamo",
+                    "che noi vaneggiamo",
+                    "che noi sragioniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ālūcĭnemĭni",
+                "traduzioni": [
+                    "che voi deliriate",
+                    "che voi vaneggiate",
+                    "che voi sragioniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ālūcĭnentur",
+                "traduzioni": [
+                    "che loro delirino",
+                    "che essi delirino",
+                    "che loro vaneggino",
+                    "che essi vaneggino",
+                    "che loro sragionino",
+                    "che essi sragionino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ālūcĭnārer",
+                "traduzioni": [
+                    "che io delirassi",
+                    "che io vaneggiassi",
+                    "che io sragionassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ālūcĭnarēris, ālūcĭnarēre",
+                "traduzioni": [
+                    "che tu delirassi",
+                    "che tu vaneggiassi",
+                    "che tu sragionassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ālūcĭnarētur",
+                "traduzioni": [
+                    "che lui delirasse",
+                    "che lei delirasse",
+                    "che egli delirasse",
+                    "che lui vaneggiasse",
+                    "che lei vaneggiasse",
+                    "che egli vaneggiasse",
+                    "che lui sragionasse",
+                    "che lei sragionasse",
+                    "che egli sragionasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ālūcĭnāremur",
+                "traduzioni": [
+                    "che noi delirassimo",
+                    "che noi vaneggiassimo",
+                    "che noi sragionassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ālūcĭnaremĭni",
+                "traduzioni": [
+                    "che voi deliraste",
+                    "che voi vaneggiaste",
+                    "che voi sragionaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ālūcĭnarentur",
+                "traduzioni": [
+                    "che loro delirassero",
+                    "che essi delirassero",
+                    "che loro vaneggiassero",
+                    "che essi vaneggiassero",
+                    "che loro sragionassero",
+                    "che essi sragionassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "alucinatus, –a, –um  sim",
+                "traduzioni": [
+                    "che io abbia delirato",
+                    "che io abbia vaneggiato",
+                    "che io abbia sragionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "alucinatus, –a, –um  sis",
+                "traduzioni": [
+                    "che tu abbia delirato",
+                    "che tu abbia vaneggiato",
+                    "che tu abbia sragionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "alucinatus, –a, –um  sit",
+                "traduzioni": [
+                    "che lui abbia delirato",
+                    "che lei abbia delirato",
+                    "che egli abbia delirato",
+                    "che lui abbia vaneggiato",
+                    "che lei abbia vaneggiato",
+                    "che egli abbia vaneggiato",
+                    "che lui abbia sragionato",
+                    "che lei abbia sragionato",
+                    "che egli abbia sragionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "alucinati, –ae, –a  simus",
+                "traduzioni": [
+                    "che noi abbiamo delirato",
+                    "che noi abbiamo vaneggiato",
+                    "che noi abbiamo sragionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "alucinati, –ae, –a  sitis",
+                "traduzioni": [
+                    "che voi abbiate delirato",
+                    "che voi abbiate vaneggiato",
+                    "che voi abbiate sragionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "alucinati, –ae, –a  sint",
+                "traduzioni": [
+                    "che loro abbiano delirato",
+                    "che essi abbiano delirato",
+                    "che loro abbiano vaneggiato",
+                    "che essi abbiano vaneggiato",
+                    "che loro abbiano sragionato",
+                    "che essi abbiano sragionato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "alucinatus, –a, –um  essem",
+                "traduzioni": [
+                    "che io avessi delirato",
+                    "che io avessi vaneggiato",
+                    "che io avessi sragionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "alucinatus, –a, –um  esses",
+                "traduzioni": [
+                    "che tu avessi delirato",
+                    "che tu avessi vaneggiato",
+                    "che tu avessi sragionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "alucinatus, –a, –um  esset",
+                "traduzioni": [
+                    "che lui avesse delirato",
+                    "che lei avesse delirato",
+                    "che egli avesse delirato",
+                    "che lui avesse vaneggiato",
+                    "che lei avesse vaneggiato",
+                    "che egli avesse vaneggiato",
+                    "che lui avesse sragionato",
+                    "che lei avesse sragionato",
+                    "che egli avesse sragionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "alucinati, –ae, –a  essemus",
+                "traduzioni": [
+                    "che noi avessimo delirato",
+                    "che noi avessimo vaneggiato",
+                    "che noi avessimo sragionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "alucinati, –ae, –a  essetis",
+                "traduzioni": [
+                    "che voi aveste delirato",
+                    "che voi aveste vaneggiato",
+                    "che voi aveste sragionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "alucinati, –ae, –a  essent",
+                "traduzioni": [
+                    "che loro avessero delirato",
+                    "che essi avessero delirato",
+                    "che loro avessero vaneggiato",
+                    "che essi avessero vaneggiato",
+                    "che loro avessero sragionato",
+                    "che essi avessero sragionato"
+                ]
+            }
+        ]
+    }
+}

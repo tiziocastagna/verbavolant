@@ -1,0 +1,673 @@
+{
+    "identifier": "ASCENDO",
+    "conuigazione": "3",
+    "translation": [
+        "ascendere",
+        "salire"
+    ],
+    "valid_translations": [
+        "ascendere",
+        "salire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ascendo",
+                "traduzioni": [
+                    "io ascendo",
+                    "io salgo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ascendis",
+                "traduzioni": [
+                    "tu ascendi",
+                    "tu sali"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ascendit",
+                "traduzioni": [
+                    "lui ascende",
+                    "lei ascende",
+                    "egli ascende",
+                    "lui sale",
+                    "lei sale",
+                    "egli sale"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ascendĭmus",
+                "traduzioni": [
+                    "noi ascendiamo",
+                    "noi saliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ascendĭtis",
+                "traduzioni": [
+                    "voi ascendete",
+                    "voi salite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ascendunt",
+                "traduzioni": [
+                    "loro ascendono",
+                    "essi ascendono",
+                    "loro salgono",
+                    "essi salgono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ascendēbam",
+                "traduzioni": [
+                    "io ascendevo",
+                    "io salivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ascendēbas",
+                "traduzioni": [
+                    "tu ascendevi",
+                    "tu salivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ascendēbat",
+                "traduzioni": [
+                    "lui ascendeva",
+                    "lei ascendeva",
+                    "egli ascendeva",
+                    "lui saliva",
+                    "lei saliva",
+                    "egli saliva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ascendebāmus",
+                "traduzioni": [
+                    "noi ascendevamo",
+                    "noi salivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ascendebātis",
+                "traduzioni": [
+                    "voi ascendevate",
+                    "voi salivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ascendēbant",
+                "traduzioni": [
+                    "loro ascendevano",
+                    "essi ascendevano",
+                    "loro salivano",
+                    "essi salivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ascendam",
+                "traduzioni": [
+                    "io ascenderò",
+                    "io salirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ascendes",
+                "traduzioni": [
+                    "tu ascenderai",
+                    "tu salirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ascendet",
+                "traduzioni": [
+                    "lui ascenderà",
+                    "lei ascenderà",
+                    "egli ascenderà",
+                    "lui salirà",
+                    "lei salirà",
+                    "egli salirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ascendēmus",
+                "traduzioni": [
+                    "noi ascenderemo",
+                    "noi saliremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ascendētis",
+                "traduzioni": [
+                    "voi ascenderete",
+                    "voi salirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ascendent",
+                "traduzioni": [
+                    "loro ascenderanno",
+                    "essi ascenderanno",
+                    "loro saliranno",
+                    "essi saliranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ascendi",
+                "traduzioni": [
+                    "io ascesi",
+                    "io ascese",
+                    "io sono asceso",
+                    "io sono ascesa",
+                    "io fui asceso",
+                    "io fui ascesa",
+                    "io salii",
+                    "io sono salito",
+                    "io sono salita",
+                    "io fui salito",
+                    "io fui salita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ascendisti",
+                "traduzioni": [
+                    "tu ascendesti",
+                    "tu sei asceso",
+                    "tu sei ascesa",
+                    "tu fosti asceso",
+                    "tu fosti ascesa",
+                    "tu salisti",
+                    "tu sei salito",
+                    "tu sei salita",
+                    "tu fosti salito",
+                    "tu fosti salita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ascendit",
+                "traduzioni": [
+                    "lui ascese",
+                    "lei ascese",
+                    "egli ascese",
+                    "lui è asceso",
+                    "lei è ascesa",
+                    "egli è asceso",
+                    "lui fu asceso",
+                    "lei fu ascesa",
+                    "egli fu asceso",
+                    "lui salì",
+                    "lei salì",
+                    "egli salì",
+                    "lui è salito",
+                    "lei è salita",
+                    "egli è salito",
+                    "lui fu salito",
+                    "lei fu salita",
+                    "egli fu salito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ascendĭmus",
+                "traduzioni": [
+                    "noi ascendemmo",
+                    "noi siamo ascesi",
+                    "noi siamo ascese",
+                    "noi fummo ascesi",
+                    "noi fummo ascese",
+                    "noi salimmo",
+                    "noi siamo saliti",
+                    "noi siamo salite",
+                    "noi fummo saliti",
+                    "noi fummo salite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ascendistis",
+                "traduzioni": [
+                    "voi ascendeste",
+                    "voi siete ascesi",
+                    "voi siete ascese",
+                    "voi foste ascesi",
+                    "voi foste ascese",
+                    "voi saliste",
+                    "voi siete saliti",
+                    "voi siete salite",
+                    "voi foste saliti",
+                    "voi foste salite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ascendērunt, ascendēre",
+                "traduzioni": [
+                    "loro ascesero",
+                    "essi ascesero",
+                    "loro sono ascesi",
+                    "loro sono ascese",
+                    "essi sono ascesi",
+                    "loro furono ascesi",
+                    "loro furono ascese",
+                    "essi furono ascesi",
+                    "loro salirono",
+                    "essi salirono",
+                    "loro sono saliti",
+                    "loro sono salite",
+                    "essi sono saliti",
+                    "loro furono saliti",
+                    "loro furono salite",
+                    "essi furono saliti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ascendĕram",
+                "traduzioni": [
+                    "io ero asceso",
+                    "io ero ascesa",
+                    "io ero salito",
+                    "io ero salita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ascendĕras",
+                "traduzioni": [
+                    "tu eri asceso",
+                    "tu eri ascesa",
+                    "tu eri salito",
+                    "tu eri salita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ascendĕrat",
+                "traduzioni": [
+                    "lui era asceso",
+                    "lei era ascesa",
+                    "egli era asceso",
+                    "lui era salito",
+                    "lei era salita",
+                    "egli era salito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ascenderāmus",
+                "traduzioni": [
+                    "noi eravamo ascesi",
+                    "noi eravamo ascese",
+                    "noi eravamo saliti",
+                    "noi eravamo salite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ascenderātis",
+                "traduzioni": [
+                    "voi eravate ascesi",
+                    "voi eravate ascese",
+                    "voi eravate saliti",
+                    "voi eravate salite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ascendĕrant",
+                "traduzioni": [
+                    "loro erano ascesi",
+                    "loro erano ascese",
+                    "essi erano ascesi",
+                    "loro erano saliti",
+                    "loro erano salite",
+                    "essi erano saliti"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ascendĕro",
+                "traduzioni": [
+                    "io sarò asceso",
+                    "io sarò ascesa",
+                    "io sarò salito",
+                    "io sarò salita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ascendĕris",
+                "traduzioni": [
+                    "tu sarai asceso",
+                    "tu sarai ascesa",
+                    "tu sarai salito",
+                    "tu sarai salita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ascendĕrit",
+                "traduzioni": [
+                    "lui sarà asceso",
+                    "lei sarà ascesa",
+                    "egli sarà asceso",
+                    "lui sarà salito",
+                    "lei sarà salita",
+                    "egli sarà salito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ascenderĭmus",
+                "traduzioni": [
+                    "noi saremo ascesi",
+                    "noi saremo ascese",
+                    "noi saremo saliti",
+                    "noi saremo salite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ascenderĭtis",
+                "traduzioni": [
+                    "voi sarete ascesi",
+                    "voi sarete ascese",
+                    "voi sarete saliti",
+                    "voi sarete salite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ascendĕrint",
+                "traduzioni": [
+                    "loro saranno ascesi",
+                    "loro saranno ascese",
+                    "essi saranno ascesi",
+                    "loro saranno saliti",
+                    "loro saranno salite",
+                    "essi saranno saliti"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ascendam",
+                "traduzioni": [
+                    "che io ascenda",
+                    "che io salga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ascendas",
+                "traduzioni": [
+                    "che tu ascenda",
+                    "che tu salga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ascendat",
+                "traduzioni": [
+                    "che lui ascenda",
+                    "che lei ascenda",
+                    "che egli ascenda",
+                    "che lui salga",
+                    "che lei salga",
+                    "che egli salga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ascendāmus",
+                "traduzioni": [
+                    "che noi ascendiamo",
+                    "che noi saliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ascendātis",
+                "traduzioni": [
+                    "che voi ascendiate",
+                    "che voi saliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ascendant",
+                "traduzioni": [
+                    "che loro ascendano",
+                    "che essi ascendano",
+                    "che loro salgano",
+                    "che essi salgano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ascendĕrem",
+                "traduzioni": [
+                    "che io ascendessi",
+                    "che io salissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ascendĕres",
+                "traduzioni": [
+                    "che tu ascendessi",
+                    "che tu salissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ascendĕret",
+                "traduzioni": [
+                    "che lui ascendesse",
+                    "che lei ascendesse",
+                    "che egli ascendesse",
+                    "che lui salisse",
+                    "che lei salisse",
+                    "che egli salisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ascenderēmus",
+                "traduzioni": [
+                    "che noi ascendessimo",
+                    "che noi salissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ascenderētis",
+                "traduzioni": [
+                    "che voi ascendeste",
+                    "che voi saliste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ascendĕrent",
+                "traduzioni": [
+                    "che loro ascendessero",
+                    "che essi ascendessero",
+                    "che loro salissero",
+                    "che essi salissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ascendĕrim",
+                "traduzioni": [
+                    "che io sia asceso",
+                    "che io sia ascesa",
+                    "che io sia salito",
+                    "che io sia salita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ascendĕris",
+                "traduzioni": [
+                    "che tu sia asceso",
+                    "che tu sia ascesa",
+                    "che tu sia salito",
+                    "che tu sia salita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ascendĕrit",
+                "traduzioni": [
+                    "che lui sia asceso",
+                    "che lei sia ascesa",
+                    "che egli sia asceso",
+                    "che lui sia salito",
+                    "che lei sia salita",
+                    "che egli sia salito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ascenderĭmus",
+                "traduzioni": [
+                    "che noi siamo ascesi",
+                    "che noi siamo ascese",
+                    "che noi siamo saliti",
+                    "che noi siamo salite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ascenderĭtis",
+                "traduzioni": [
+                    "che voi siate ascesi",
+                    "che voi siate ascese",
+                    "che voi siate saliti",
+                    "che voi siate salite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ascendĕrint",
+                "traduzioni": [
+                    "che loro siano ascesi",
+                    "che loro siano ascese",
+                    "che essi siano ascesi",
+                    "che loro siano saliti",
+                    "che loro siano salite",
+                    "che essi siano saliti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ascendissem",
+                "traduzioni": [
+                    "che io fossi asceso",
+                    "che io fossi ascesa",
+                    "che io fossi salito",
+                    "che io fossi salita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ascendisses",
+                "traduzioni": [
+                    "che tu fossi asceso",
+                    "che tu fossi ascesa",
+                    "che tu fossi salito",
+                    "che tu fossi salita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ascendisset",
+                "traduzioni": [
+                    "che lui fosse asceso",
+                    "che lei fosse ascesa",
+                    "che egli fosse asceso",
+                    "che lui fosse salito",
+                    "che lei fosse salita",
+                    "che egli fosse salito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ascendissēmus",
+                "traduzioni": [
+                    "che noi fossimo ascesi",
+                    "che noi fossimo ascese",
+                    "che noi fossimo saliti",
+                    "che noi fossimo salite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ascendissētis",
+                "traduzioni": [
+                    "che voi foste ascesi",
+                    "che voi foste ascese",
+                    "che voi foste saliti",
+                    "che voi foste salite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ascendissent",
+                "traduzioni": [
+                    "che loro fossero ascesi",
+                    "che loro fossero ascese",
+                    "che essi fossero ascesi",
+                    "che loro fossero saliti",
+                    "che loro fossero salite",
+                    "che essi fossero saliti"
+                ]
+            }
+        ]
+    }
+}

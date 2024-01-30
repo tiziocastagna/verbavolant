@@ -1,0 +1,892 @@
+{
+    "identifier": "ACERBO",
+    "conuigazione": "1",
+    "translation": [
+        "esacerbare",
+        "aggravare",
+        "amareggiare",
+        "inacerbire"
+    ],
+    "valid_translations": [
+        "esacerbare",
+        "aggravare",
+        "amareggiare",
+        "inacerbire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăcerbo",
+                "traduzioni": [
+                    "io esacerbo",
+                    "io aggravo",
+                    "io amareggio",
+                    "io inacerbisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăcerbas",
+                "traduzioni": [
+                    "tu esacerbi",
+                    "tu aggravi",
+                    "tu amareggi",
+                    "tu inacerbisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăcerbat",
+                "traduzioni": [
+                    "lui esacerba",
+                    "lei esacerba",
+                    "egli esacerba",
+                    "lui aggrava",
+                    "lei aggrava",
+                    "egli aggrava",
+                    "lui amareggia",
+                    "lei amareggia",
+                    "egli amareggia",
+                    "lui inacerbisce",
+                    "lei inacerbisce",
+                    "egli inacerbisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăcerbāmus",
+                "traduzioni": [
+                    "noi esacerbiamo",
+                    "noi aggraviamo",
+                    "noi amareggiamo",
+                    "noi inacerbiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăcerbātis",
+                "traduzioni": [
+                    "voi esacerbate",
+                    "voi aggravate",
+                    "voi amareggiate",
+                    "voi inacerbite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăcerbant",
+                "traduzioni": [
+                    "loro esacerbano",
+                    "essi esacerbano",
+                    "loro aggravano",
+                    "essi aggravano",
+                    "loro amareggiano",
+                    "essi amareggiano",
+                    "loro inacerbiscono",
+                    "essi inacerbiscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăcerbābam",
+                "traduzioni": [
+                    "io esacerbavo",
+                    "io aggravavo",
+                    "io amareggiavo",
+                    "io inacerbivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăcerbābas",
+                "traduzioni": [
+                    "tu esacerbavi",
+                    "tu aggravavi",
+                    "tu amareggiavi",
+                    "tu inacerbivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăcerbābat",
+                "traduzioni": [
+                    "lui esacerbava",
+                    "lei esacerbava",
+                    "egli esacerbava",
+                    "lui aggravava",
+                    "lei aggravava",
+                    "egli aggravava",
+                    "lui amareggiava",
+                    "lei amareggiava",
+                    "egli amareggiava",
+                    "lui inacerbiva",
+                    "lei inacerbiva",
+                    "egli inacerbiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăcerbabāmus",
+                "traduzioni": [
+                    "noi esacerbavamo",
+                    "noi aggravavamo",
+                    "noi amareggiavamo",
+                    "noi inacerbivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăcerbabātis",
+                "traduzioni": [
+                    "voi esacerbavate",
+                    "voi aggravavate",
+                    "voi amareggiavate",
+                    "voi inacerbivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăcerbābant",
+                "traduzioni": [
+                    "loro esacerbavano",
+                    "essi esacerbavano",
+                    "loro aggravavano",
+                    "essi aggravavano",
+                    "loro amareggiavano",
+                    "essi amareggiavano",
+                    "loro inacerbivano",
+                    "essi inacerbivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăcerbābo",
+                "traduzioni": [
+                    "io esacerberò",
+                    "io aggraverò",
+                    "io amareggerò",
+                    "io inacerbirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăcerbābis",
+                "traduzioni": [
+                    "tu esacerberai",
+                    "tu aggraverai",
+                    "tu amareggerai",
+                    "tu inacerbirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăcerbābit",
+                "traduzioni": [
+                    "lui esacerberà",
+                    "lei esacerberà",
+                    "egli esacerberà",
+                    "lui aggraverà",
+                    "lei aggraverà",
+                    "egli aggraverà",
+                    "lui amareggerà",
+                    "lei amareggerà",
+                    "egli amareggerà",
+                    "lui inacerbirà",
+                    "lei inacerbirà",
+                    "egli inacerbirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăcerbabĭmus",
+                "traduzioni": [
+                    "noi esacerberemo",
+                    "noi aggraveremo",
+                    "noi amareggeremo",
+                    "noi inacerbiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăcerbabĭtis",
+                "traduzioni": [
+                    "voi esacerberete",
+                    "voi aggraverete",
+                    "voi amareggerete",
+                    "voi inacerbirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăcerbābunt",
+                "traduzioni": [
+                    "loro esacerberanno",
+                    "essi esacerberanno",
+                    "loro aggraveranno",
+                    "essi aggraveranno",
+                    "loro amareggeranno",
+                    "essi amareggeranno",
+                    "loro inacerbiranno",
+                    "essi inacerbiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io esacerbai",
+                    "io ho esacerbato",
+                    "io ebbi esacerbato",
+                    "io aggravai",
+                    "io sono aggravato",
+                    "io sono aggravata",
+                    "io fui aggravato",
+                    "io fui aggravata",
+                    "io amareggiai",
+                    "io sono amareggiato",
+                    "io sono amareggiata",
+                    "io fui amareggiato",
+                    "io fui amareggiata",
+                    "io inacerbii",
+                    "io ho inacerbito",
+                    "io ebbi inacerbito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu esacerbasti",
+                    "tu hai esacerbato",
+                    "tu avesti esacerbato",
+                    "tu aggravasti",
+                    "tu sei aggravato",
+                    "tu sei aggravata",
+                    "tu fosti aggravato",
+                    "tu fosti aggravata",
+                    "tu amareggiasti",
+                    "tu sei amareggiato",
+                    "tu sei amareggiata",
+                    "tu fosti amareggiato",
+                    "tu fosti amareggiata",
+                    "tu inacerbisti",
+                    "tu hai inacerbito",
+                    "tu avesti inacerbito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui esacerbò",
+                    "lei esacerbò",
+                    "egli esacerbò",
+                    "lui ha esacerbato",
+                    "lei ha esacerbato",
+                    "egli ha esacerbato",
+                    "lui ebbe esacerbato",
+                    "lei ebbe esacerbato",
+                    "egli ebbe esacerbato",
+                    "lui aggravò",
+                    "lei aggravò",
+                    "egli aggravò",
+                    "lui è aggravato",
+                    "lei è aggravata",
+                    "egli è aggravato",
+                    "lui fu aggravato",
+                    "lei fu aggravata",
+                    "egli fu aggravato",
+                    "lui amareggiò",
+                    "lei amareggiò",
+                    "egli amareggiò",
+                    "lui è amareggiato",
+                    "lei è amareggiata",
+                    "egli è amareggiato",
+                    "lui fu amareggiato",
+                    "lei fu amareggiata",
+                    "egli fu amareggiato",
+                    "lui inacerbì",
+                    "lei inacerbì",
+                    "egli inacerbì",
+                    "lui ha inacerbito",
+                    "lei ha inacerbito",
+                    "egli ha inacerbito",
+                    "lui ebbe inacerbito",
+                    "lei ebbe inacerbito",
+                    "egli ebbe inacerbito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi esacerbammo",
+                    "noi abbiamo esacerbato",
+                    "noi avemmo esacerbato",
+                    "noi aggravammo",
+                    "noi siamo aggravati",
+                    "noi siamo aggravate",
+                    "noi fummo aggravati",
+                    "noi fummo aggravate",
+                    "noi amareggiammo",
+                    "noi siamo amareggiati",
+                    "noi siamo amareggiate",
+                    "noi fummo amareggiati",
+                    "noi fummo amareggiate",
+                    "noi inacerbimmo",
+                    "noi abbiamo inacerbito",
+                    "noi avemmo inacerbito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi esacerbaste",
+                    "voi avete esacerbato",
+                    "voi aveste esacerbato",
+                    "voi aggravaste",
+                    "voi siete aggravati",
+                    "voi siete aggravate",
+                    "voi foste aggravati",
+                    "voi foste aggravate",
+                    "voi amareggiaste",
+                    "voi siete amareggiati",
+                    "voi siete amareggiate",
+                    "voi foste amareggiati",
+                    "voi foste amareggiate",
+                    "voi inacerbiste",
+                    "voi avete inacerbito",
+                    "voi aveste inacerbito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro esacerbarono",
+                    "essi esacerbarono",
+                    "loro hanno esacerbato",
+                    "essi hanno esacerbato",
+                    "loro ebbero esacerbato",
+                    "essi ebbero esacerbato",
+                    "loro aggravarono",
+                    "essi aggravarono",
+                    "loro sono aggravati",
+                    "loro sono aggravate",
+                    "essi sono aggravati",
+                    "loro furono aggravati",
+                    "loro furono aggravate",
+                    "essi furono aggravati",
+                    "loro amareggiarono",
+                    "essi amareggiarono",
+                    "loro sono amareggiati",
+                    "loro sono amareggiate",
+                    "essi sono amareggiati",
+                    "loro furono amareggiati",
+                    "loro furono amareggiate",
+                    "essi furono amareggiati",
+                    "loro inacerbirono",
+                    "essi inacerbirono",
+                    "loro hanno inacerbito",
+                    "essi hanno inacerbito",
+                    "loro ebbero inacerbito",
+                    "essi ebbero inacerbito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avevo esacerbato",
+                    "io ero aggravato",
+                    "io ero aggravata",
+                    "io ero amareggiato",
+                    "io ero amareggiata",
+                    "io avevo inacerbito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avevi esacerbato",
+                    "tu eri aggravato",
+                    "tu eri aggravata",
+                    "tu eri amareggiato",
+                    "tu eri amareggiata",
+                    "tu avevi inacerbito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui aveva esacerbato",
+                    "lei aveva esacerbato",
+                    "egli aveva esacerbato",
+                    "lui era aggravato",
+                    "lei era aggravata",
+                    "egli era aggravato",
+                    "lui era amareggiato",
+                    "lei era amareggiata",
+                    "egli era amareggiato",
+                    "lui aveva inacerbito",
+                    "lei aveva inacerbito",
+                    "egli aveva inacerbito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avevamo esacerbato",
+                    "noi eravamo aggravati",
+                    "noi eravamo aggravate",
+                    "noi eravamo amareggiati",
+                    "noi eravamo amareggiate",
+                    "noi avevamo inacerbito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avevate esacerbato",
+                    "voi eravate aggravati",
+                    "voi eravate aggravate",
+                    "voi eravate amareggiati",
+                    "voi eravate amareggiate",
+                    "voi avevate inacerbito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avevano esacerbato",
+                    "essi avevano esacerbato",
+                    "loro erano aggravati",
+                    "loro erano aggravate",
+                    "essi erano aggravati",
+                    "loro erano amareggiati",
+                    "loro erano amareggiate",
+                    "essi erano amareggiati",
+                    "loro avevano inacerbito",
+                    "essi avevano inacerbito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "io avrò esacerbato",
+                    "io sarò aggravato",
+                    "io sarò aggravata",
+                    "io sarò amareggiato",
+                    "io sarò amareggiata",
+                    "io avrò inacerbito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "tu avrai esacerbato",
+                    "tu sarai aggravato",
+                    "tu sarai aggravata",
+                    "tu sarai amareggiato",
+                    "tu sarai amareggiata",
+                    "tu avrai inacerbito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "lui avrà esacerbato",
+                    "lei avrà esacerbato",
+                    "egli avrà esacerbato",
+                    "lui sarà aggravato",
+                    "lei sarà aggravata",
+                    "egli sarà aggravato",
+                    "lui sarà amareggiato",
+                    "lei sarà amareggiata",
+                    "egli sarà amareggiato",
+                    "lui avrà inacerbito",
+                    "lei avrà inacerbito",
+                    "egli avrà inacerbito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "noi avremo esacerbato",
+                    "noi saremo aggravati",
+                    "noi saremo aggravate",
+                    "noi saremo amareggiati",
+                    "noi saremo amareggiate",
+                    "noi avremo inacerbito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "voi avrete esacerbato",
+                    "voi sarete aggravati",
+                    "voi sarete aggravate",
+                    "voi sarete amareggiati",
+                    "voi sarete amareggiate",
+                    "voi avrete inacerbito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "loro avranno esacerbato",
+                    "essi avranno esacerbato",
+                    "loro saranno aggravati",
+                    "loro saranno aggravate",
+                    "essi saranno aggravati",
+                    "loro saranno amareggiati",
+                    "loro saranno amareggiate",
+                    "essi saranno amareggiati",
+                    "loro avranno inacerbito",
+                    "essi avranno inacerbito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăcerbem",
+                "traduzioni": [
+                    "che io esacerbi",
+                    "che io aggravi",
+                    "che io amareggi",
+                    "che io inacerbisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăcerbes",
+                "traduzioni": [
+                    "che tu esacerbi",
+                    "che tu aggravi",
+                    "che tu amareggi",
+                    "che tu inacerbisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăcerbet",
+                "traduzioni": [
+                    "che lui esacerbi",
+                    "che lei esacerbi",
+                    "che egli esacerbi",
+                    "che lui aggravi",
+                    "che lei aggravi",
+                    "che egli aggravi",
+                    "che lui amareggi",
+                    "che lei amareggi",
+                    "che egli amareggi",
+                    "che lui inacerbisca",
+                    "che lei inacerbisca",
+                    "che egli inacerbisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăcerbēmus",
+                "traduzioni": [
+                    "che noi esacerbiamo",
+                    "che noi aggraviamo",
+                    "che noi amareggiamo",
+                    "che noi inacerbiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăcerbētis",
+                "traduzioni": [
+                    "che voi esacerbiate",
+                    "che voi aggraviate",
+                    "che voi amareggiate",
+                    "che voi inacerbiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăcerbent",
+                "traduzioni": [
+                    "che loro esacerbino",
+                    "che essi esacerbino",
+                    "che loro aggravino",
+                    "che essi aggravino",
+                    "che loro amareggino",
+                    "che essi amareggino",
+                    "che loro inacerbiscano",
+                    "che essi inacerbiscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăcerbārem",
+                "traduzioni": [
+                    "che io esacerbassi",
+                    "che io aggravassi",
+                    "che io amareggiassi",
+                    "che io inacerbissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăcerbāres",
+                "traduzioni": [
+                    "che tu esacerbassi",
+                    "che tu aggravassi",
+                    "che tu amareggiassi",
+                    "che tu inacerbissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăcerbāret",
+                "traduzioni": [
+                    "che lui esacerbasse",
+                    "che lei esacerbasse",
+                    "che egli esacerbasse",
+                    "che lui aggravasse",
+                    "che lei aggravasse",
+                    "che egli aggravasse",
+                    "che lui amareggiasse",
+                    "che lei amareggiasse",
+                    "che egli amareggiasse",
+                    "che lui inacerbisse",
+                    "che lei inacerbisse",
+                    "che egli inacerbisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăcerbarēmus",
+                "traduzioni": [
+                    "che noi esacerbassimo",
+                    "che noi aggravassimo",
+                    "che noi amareggiassimo",
+                    "che noi inacerbissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăcerbarētis",
+                "traduzioni": [
+                    "che voi esacerbaste",
+                    "che voi aggravaste",
+                    "che voi amareggiaste",
+                    "che voi inacerbiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăcerbārent",
+                "traduzioni": [
+                    "che loro esacerbassero",
+                    "che essi esacerbassero",
+                    "che loro aggravassero",
+                    "che essi aggravassero",
+                    "che loro amareggiassero",
+                    "che essi amareggiassero",
+                    "che loro inacerbissero",
+                    "che essi inacerbissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io abbia esacerbato",
+                    "che io sia aggravato",
+                    "che io sia aggravata",
+                    "che io sia amareggiato",
+                    "che io sia amareggiata",
+                    "che io abbia inacerbito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu abbia esacerbato",
+                    "che tu sia aggravato",
+                    "che tu sia aggravata",
+                    "che tu sia amareggiato",
+                    "che tu sia amareggiata",
+                    "che tu abbia inacerbito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui abbia esacerbato",
+                    "che lei abbia esacerbato",
+                    "che egli abbia esacerbato",
+                    "che lui sia aggravato",
+                    "che lei sia aggravata",
+                    "che egli sia aggravato",
+                    "che lui sia amareggiato",
+                    "che lei sia amareggiata",
+                    "che egli sia amareggiato",
+                    "che lui abbia inacerbito",
+                    "che lei abbia inacerbito",
+                    "che egli abbia inacerbito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi abbiamo esacerbato",
+                    "che noi siamo aggravati",
+                    "che noi siamo aggravate",
+                    "che noi siamo amareggiati",
+                    "che noi siamo amareggiate",
+                    "che noi abbiamo inacerbito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi abbiate esacerbato",
+                    "che voi siate aggravati",
+                    "che voi siate aggravate",
+                    "che voi siate amareggiati",
+                    "che voi siate amareggiate",
+                    "che voi abbiate inacerbito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro abbiano esacerbato",
+                    "che essi abbiano esacerbato",
+                    "che loro siano aggravati",
+                    "che loro siano aggravate",
+                    "che essi siano aggravati",
+                    "che loro siano amareggiati",
+                    "che loro siano amareggiate",
+                    "che essi siano amareggiati",
+                    "che loro abbiano inacerbito",
+                    "che essi abbiano inacerbito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che io avessi esacerbato",
+                    "che io fossi aggravato",
+                    "che io fossi aggravata",
+                    "che io fossi amareggiato",
+                    "che io fossi amareggiata",
+                    "che io avessi inacerbito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che tu avessi esacerbato",
+                    "che tu fossi aggravato",
+                    "che tu fossi aggravata",
+                    "che tu fossi amareggiato",
+                    "che tu fossi amareggiata",
+                    "che tu avessi inacerbito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che lui avesse esacerbato",
+                    "che lei avesse esacerbato",
+                    "che egli avesse esacerbato",
+                    "che lui fosse aggravato",
+                    "che lei fosse aggravata",
+                    "che egli fosse aggravato",
+                    "che lui fosse amareggiato",
+                    "che lei fosse amareggiata",
+                    "che egli fosse amareggiato",
+                    "che lui avesse inacerbito",
+                    "che lei avesse inacerbito",
+                    "che egli avesse inacerbito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che noi avessimo esacerbato",
+                    "che noi fossimo aggravati",
+                    "che noi fossimo aggravate",
+                    "che noi fossimo amareggiati",
+                    "che noi fossimo amareggiate",
+                    "che noi avessimo inacerbito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che voi aveste esacerbato",
+                    "che voi foste aggravati",
+                    "che voi foste aggravate",
+                    "che voi foste amareggiati",
+                    "che voi foste amareggiate",
+                    "che voi aveste inacerbito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "–",
+                "traduzioni": [
+                    "che loro avessero esacerbato",
+                    "che essi avessero esacerbato",
+                    "che loro fossero aggravati",
+                    "che loro fossero aggravate",
+                    "che essi fossero aggravati",
+                    "che loro fossero amareggiati",
+                    "che loro fossero amareggiate",
+                    "che essi fossero amareggiati",
+                    "che loro avessero inacerbito",
+                    "che essi avessero inacerbito"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,673 @@
+{
+    "identifier": "ENATO",
+    "conuigazione": "1",
+    "translation": [
+        "emergere",
+        "affiorare"
+    ],
+    "valid_translations": [
+        "emergere",
+        "affiorare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnăto",
+                "traduzioni": [
+                    "io emergo",
+                    "io affioro"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnătas",
+                "traduzioni": [
+                    "tu emergi",
+                    "tu affiori"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnătat",
+                "traduzioni": [
+                    "lui emerge",
+                    "lei emerge",
+                    "egli emerge",
+                    "lui affiora",
+                    "lei affiora",
+                    "egli affiora"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnătāmus",
+                "traduzioni": [
+                    "noi emergiamo",
+                    "noi affioriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnătātis",
+                "traduzioni": [
+                    "voi emergete",
+                    "voi affiorate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnătant",
+                "traduzioni": [
+                    "loro emergono",
+                    "essi emergono",
+                    "loro affiorano",
+                    "essi affiorano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnătābam",
+                "traduzioni": [
+                    "io emergevo",
+                    "io affioravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnătābas",
+                "traduzioni": [
+                    "tu emergevi",
+                    "tu affioravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnătābat",
+                "traduzioni": [
+                    "lui emergeva",
+                    "lei emergeva",
+                    "egli emergeva",
+                    "lui affiorava",
+                    "lei affiorava",
+                    "egli affiorava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnătabāmus",
+                "traduzioni": [
+                    "noi emergevamo",
+                    "noi affioravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnătabātis",
+                "traduzioni": [
+                    "voi emergevate",
+                    "voi affioravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnătābant",
+                "traduzioni": [
+                    "loro emergevano",
+                    "essi emergevano",
+                    "loro affioravano",
+                    "essi affioravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnătābo",
+                "traduzioni": [
+                    "io emergerò",
+                    "io affiorerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnătābis",
+                "traduzioni": [
+                    "tu emergerai",
+                    "tu affiorerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnătābit",
+                "traduzioni": [
+                    "lui emergerà",
+                    "lei emergerà",
+                    "egli emergerà",
+                    "lui affiorerà",
+                    "lei affiorerà",
+                    "egli affiorerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnătabĭmus",
+                "traduzioni": [
+                    "noi emergeremo",
+                    "noi affioreremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnătabĭtis",
+                "traduzioni": [
+                    "voi emergerete",
+                    "voi affiorerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnătābunt",
+                "traduzioni": [
+                    "loro emergeranno",
+                    "essi emergeranno",
+                    "loro affioreranno",
+                    "essi affioreranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "enatavi",
+                "traduzioni": [
+                    "io emersi",
+                    "io emerse",
+                    "io sono emerso",
+                    "io sono emersa",
+                    "io fui emerso",
+                    "io fui emersa",
+                    "io affiorai",
+                    "io sono affiorato",
+                    "io sono affiorata",
+                    "io fui affiorato",
+                    "io fui affiorata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enatavisti",
+                "traduzioni": [
+                    "tu emergesti",
+                    "tu sei emerso",
+                    "tu sei emersa",
+                    "tu fosti emerso",
+                    "tu fosti emersa",
+                    "tu affiorasti",
+                    "tu sei affiorato",
+                    "tu sei affiorata",
+                    "tu fosti affiorato",
+                    "tu fosti affiorata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enatavit",
+                "traduzioni": [
+                    "lui emerse",
+                    "lei emerse",
+                    "egli emerse",
+                    "lui è emerso",
+                    "lei è emersa",
+                    "egli è emerso",
+                    "lui fu emerso",
+                    "lei fu emersa",
+                    "egli fu emerso",
+                    "lui affiorò",
+                    "lei affiorò",
+                    "egli affiorò",
+                    "lui è affiorato",
+                    "lei è affiorata",
+                    "egli è affiorato",
+                    "lui fu affiorato",
+                    "lei fu affiorata",
+                    "egli fu affiorato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enatavĭmus",
+                "traduzioni": [
+                    "noi emergemmo",
+                    "noi siamo emersi",
+                    "noi siamo emerse",
+                    "noi fummo emersi",
+                    "noi fummo emerse",
+                    "noi affiorammo",
+                    "noi siamo affiorati",
+                    "noi siamo affiorate",
+                    "noi fummo affiorati",
+                    "noi fummo affiorate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enatavistis",
+                "traduzioni": [
+                    "voi emergeste",
+                    "voi siete emersi",
+                    "voi siete emerse",
+                    "voi foste emersi",
+                    "voi foste emerse",
+                    "voi affioraste",
+                    "voi siete affiorati",
+                    "voi siete affiorate",
+                    "voi foste affiorati",
+                    "voi foste affiorate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enatavērunt, enatavēre",
+                "traduzioni": [
+                    "loro emersero",
+                    "essi emersero",
+                    "loro sono emersi",
+                    "loro sono emerse",
+                    "essi sono emersi",
+                    "loro furono emersi",
+                    "loro furono emerse",
+                    "essi furono emersi",
+                    "loro affiorarono",
+                    "essi affiorarono",
+                    "loro sono affiorati",
+                    "loro sono affiorate",
+                    "essi sono affiorati",
+                    "loro furono affiorati",
+                    "loro furono affiorate",
+                    "essi furono affiorati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "enatavĕram",
+                "traduzioni": [
+                    "io ero emerso",
+                    "io ero emersa",
+                    "io ero affiorato",
+                    "io ero affiorata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enatavĕras",
+                "traduzioni": [
+                    "tu eri emerso",
+                    "tu eri emersa",
+                    "tu eri affiorato",
+                    "tu eri affiorata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enatavĕrat",
+                "traduzioni": [
+                    "lui era emerso",
+                    "lei era emersa",
+                    "egli era emerso",
+                    "lui era affiorato",
+                    "lei era affiorata",
+                    "egli era affiorato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enataverāmus",
+                "traduzioni": [
+                    "noi eravamo emersi",
+                    "noi eravamo emerse",
+                    "noi eravamo affiorati",
+                    "noi eravamo affiorate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enataverātis",
+                "traduzioni": [
+                    "voi eravate emersi",
+                    "voi eravate emerse",
+                    "voi eravate affiorati",
+                    "voi eravate affiorate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enatavĕrant",
+                "traduzioni": [
+                    "loro erano emersi",
+                    "loro erano emerse",
+                    "essi erano emersi",
+                    "loro erano affiorati",
+                    "loro erano affiorate",
+                    "essi erano affiorati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "enatavĕro",
+                "traduzioni": [
+                    "io sarò emerso",
+                    "io sarò emersa",
+                    "io sarò affiorato",
+                    "io sarò affiorata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enatavĕris",
+                "traduzioni": [
+                    "tu sarai emerso",
+                    "tu sarai emersa",
+                    "tu sarai affiorato",
+                    "tu sarai affiorata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enatavĕrit",
+                "traduzioni": [
+                    "lui sarà emerso",
+                    "lei sarà emersa",
+                    "egli sarà emerso",
+                    "lui sarà affiorato",
+                    "lei sarà affiorata",
+                    "egli sarà affiorato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enataverĭmus",
+                "traduzioni": [
+                    "noi saremo emersi",
+                    "noi saremo emerse",
+                    "noi saremo affiorati",
+                    "noi saremo affiorate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enataverĭtis",
+                "traduzioni": [
+                    "voi sarete emersi",
+                    "voi sarete emerse",
+                    "voi sarete affiorati",
+                    "voi sarete affiorate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enatavĕrint",
+                "traduzioni": [
+                    "loro saranno emersi",
+                    "loro saranno emerse",
+                    "essi saranno emersi",
+                    "loro saranno affiorati",
+                    "loro saranno affiorate",
+                    "essi saranno affiorati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnătem",
+                "traduzioni": [
+                    "che io emerga",
+                    "che io affiori"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnătes",
+                "traduzioni": [
+                    "che tu emerga",
+                    "che tu affiori"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnătet",
+                "traduzioni": [
+                    "che lui emerga",
+                    "che lei emerga",
+                    "che egli emerga",
+                    "che lui affiori",
+                    "che lei affiori",
+                    "che egli affiori"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnătēmus",
+                "traduzioni": [
+                    "che noi emergiamo",
+                    "che noi affioriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnătētis",
+                "traduzioni": [
+                    "che voi emergiate",
+                    "che voi affioriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnătent",
+                "traduzioni": [
+                    "che loro emergano",
+                    "che essi emergano",
+                    "che loro affiorino",
+                    "che essi affiorino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnătārem",
+                "traduzioni": [
+                    "che io emergessi",
+                    "che io affiorassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnătāres",
+                "traduzioni": [
+                    "che tu emergessi",
+                    "che tu affiorassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnătāret",
+                "traduzioni": [
+                    "che lui emergesse",
+                    "che lei emergesse",
+                    "che egli emergesse",
+                    "che lui affiorasse",
+                    "che lei affiorasse",
+                    "che egli affiorasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnătarēmus",
+                "traduzioni": [
+                    "che noi emergessimo",
+                    "che noi affiorassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnătarētis",
+                "traduzioni": [
+                    "che voi emergeste",
+                    "che voi affioraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnătārent",
+                "traduzioni": [
+                    "che loro emergessero",
+                    "che essi emergessero",
+                    "che loro affiorassero",
+                    "che essi affiorassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "enatavĕrim",
+                "traduzioni": [
+                    "che io sia emerso",
+                    "che io sia emersa",
+                    "che io sia affiorato",
+                    "che io sia affiorata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enatavĕris",
+                "traduzioni": [
+                    "che tu sia emerso",
+                    "che tu sia emersa",
+                    "che tu sia affiorato",
+                    "che tu sia affiorata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enatavĕrit",
+                "traduzioni": [
+                    "che lui sia emerso",
+                    "che lei sia emersa",
+                    "che egli sia emerso",
+                    "che lui sia affiorato",
+                    "che lei sia affiorata",
+                    "che egli sia affiorato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enataverĭmus",
+                "traduzioni": [
+                    "che noi siamo emersi",
+                    "che noi siamo emerse",
+                    "che noi siamo affiorati",
+                    "che noi siamo affiorate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enataverĭtis",
+                "traduzioni": [
+                    "che voi siate emersi",
+                    "che voi siate emerse",
+                    "che voi siate affiorati",
+                    "che voi siate affiorate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enatavĕrint",
+                "traduzioni": [
+                    "che loro siano emersi",
+                    "che loro siano emerse",
+                    "che essi siano emersi",
+                    "che loro siano affiorati",
+                    "che loro siano affiorate",
+                    "che essi siano affiorati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "enatavissem",
+                "traduzioni": [
+                    "che io fossi emerso",
+                    "che io fossi emersa",
+                    "che io fossi affiorato",
+                    "che io fossi affiorata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enatavisses",
+                "traduzioni": [
+                    "che tu fossi emerso",
+                    "che tu fossi emersa",
+                    "che tu fossi affiorato",
+                    "che tu fossi affiorata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enatavisset",
+                "traduzioni": [
+                    "che lui fosse emerso",
+                    "che lei fosse emersa",
+                    "che egli fosse emerso",
+                    "che lui fosse affiorato",
+                    "che lei fosse affiorata",
+                    "che egli fosse affiorato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enatavissēmus",
+                "traduzioni": [
+                    "che noi fossimo emersi",
+                    "che noi fossimo emerse",
+                    "che noi fossimo affiorati",
+                    "che noi fossimo affiorate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enatavissētis",
+                "traduzioni": [
+                    "che voi foste emersi",
+                    "che voi foste emerse",
+                    "che voi foste affiorati",
+                    "che voi foste affiorate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enatavissent",
+                "traduzioni": [
+                    "che loro fossero emersi",
+                    "che loro fossero emerse",
+                    "che essi fossero emersi",
+                    "che loro fossero affiorati",
+                    "che loro fossero affiorate",
+                    "che essi fossero affiorati"
+                ]
+            }
+        ]
+    }
+}

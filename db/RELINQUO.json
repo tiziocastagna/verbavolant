@@ -1,0 +1,1333 @@
+{
+    "identifier": "RELINQUO",
+    "conuigazione": "3",
+    "translation": [
+        "(passivo) restare",
+        "abbandonare",
+        "lasciare",
+        "permettere",
+        "accordare",
+        "concedere",
+        "tralasciare",
+        "trascurare",
+        "lasciare andare",
+        "tacere"
+    ],
+    "valid_translations": [
+        "abbandonare",
+        "lasciare",
+        "permettere",
+        "accordare",
+        "concedere",
+        "tralasciare",
+        "trascurare",
+        "tacere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕlinquo",
+                "traduzioni": [
+                    "io abbandono",
+                    "io lascio",
+                    "io permetto",
+                    "io accordo",
+                    "io concedo",
+                    "io tralascio",
+                    "io trascuro",
+                    "io taccio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕlinquis",
+                "traduzioni": [
+                    "tu abbandoni",
+                    "tu lasci",
+                    "tu permetti",
+                    "tu accordi",
+                    "tu concedi",
+                    "tu tralasci",
+                    "tu trascuri",
+                    "tu taci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕlinquit",
+                "traduzioni": [
+                    "lui abbandona",
+                    "lei abbandona",
+                    "egli abbandona",
+                    "lui lascia",
+                    "lei lascia",
+                    "egli lascia",
+                    "lui permette",
+                    "lei permette",
+                    "egli permette",
+                    "lui accorda",
+                    "lei accorda",
+                    "egli accorda",
+                    "lui concede",
+                    "lei concede",
+                    "egli concede",
+                    "lui tralascia",
+                    "lei tralascia",
+                    "egli tralascia",
+                    "lui trascura",
+                    "lei trascura",
+                    "egli trascura",
+                    "lui tace",
+                    "lei tace",
+                    "egli tace"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕlinquĭmus",
+                "traduzioni": [
+                    "noi abbandoniamo",
+                    "noi lasciamo",
+                    "noi permettiamo",
+                    "noi accordiamo",
+                    "noi concediamo",
+                    "noi tralasciamo",
+                    "noi trascuriamo",
+                    "noi tacciamo",
+                    "noi taciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕlinquĭtis",
+                "traduzioni": [
+                    "voi abbandonate",
+                    "voi lasciate",
+                    "voi permettete",
+                    "voi accordate",
+                    "voi concedete",
+                    "voi tralasciate",
+                    "voi trascurate",
+                    "voi tacete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕlinquunt",
+                "traduzioni": [
+                    "loro abbandonano",
+                    "essi abbandonano",
+                    "loro lasciano",
+                    "essi lasciano",
+                    "loro permettono",
+                    "essi permettono",
+                    "loro accordano",
+                    "essi accordano",
+                    "loro concedono",
+                    "essi concedono",
+                    "loro tralasciano",
+                    "essi tralasciano",
+                    "loro trascurano",
+                    "essi trascurano",
+                    "loro tacciono",
+                    "essi tacciono",
+                    "loro taciono",
+                    "essi taciono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕlinquēbam",
+                "traduzioni": [
+                    "io abbandonavo",
+                    "io lasciavo",
+                    "io permettevo",
+                    "io accordavo",
+                    "io concedevo",
+                    "io tralasciavo",
+                    "io trascuravo",
+                    "io tacevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕlinquēbas",
+                "traduzioni": [
+                    "tu abbandonavi",
+                    "tu lasciavi",
+                    "tu permettevi",
+                    "tu accordavi",
+                    "tu concedevi",
+                    "tu tralasciavi",
+                    "tu trascuravi",
+                    "tu tacevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕlinquēbat",
+                "traduzioni": [
+                    "lui abbandonava",
+                    "lei abbandonava",
+                    "egli abbandonava",
+                    "lui lasciava",
+                    "lei lasciava",
+                    "egli lasciava",
+                    "lui permetteva",
+                    "lei permetteva",
+                    "egli permetteva",
+                    "lui accordava",
+                    "lei accordava",
+                    "egli accordava",
+                    "lui concedeva",
+                    "lei concedeva",
+                    "egli concedeva",
+                    "lui tralasciava",
+                    "lei tralasciava",
+                    "egli tralasciava",
+                    "lui trascurava",
+                    "lei trascurava",
+                    "egli trascurava",
+                    "lui taceva",
+                    "lei taceva",
+                    "egli taceva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕlinquebāmus",
+                "traduzioni": [
+                    "noi abbandonavamo",
+                    "noi lasciavamo",
+                    "noi permettevamo",
+                    "noi accordavamo",
+                    "noi concedevamo",
+                    "noi tralasciavamo",
+                    "noi trascuravamo",
+                    "noi tacevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕlinquebātis",
+                "traduzioni": [
+                    "voi abbandonavate",
+                    "voi lasciavate",
+                    "voi permettevate",
+                    "voi accordavate",
+                    "voi concedevate",
+                    "voi tralasciavate",
+                    "voi trascuravate",
+                    "voi tacevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕlinquēbant",
+                "traduzioni": [
+                    "loro abbandonavano",
+                    "essi abbandonavano",
+                    "loro lasciavano",
+                    "essi lasciavano",
+                    "loro permettevano",
+                    "essi permettevano",
+                    "loro accordavano",
+                    "essi accordavano",
+                    "loro concedevano",
+                    "essi concedevano",
+                    "loro tralasciavano",
+                    "essi tralasciavano",
+                    "loro trascuravano",
+                    "essi trascuravano",
+                    "loro tacevano",
+                    "essi tacevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕlinquam",
+                "traduzioni": [
+                    "io abbandonerò",
+                    "io lascerò",
+                    "io permetterò",
+                    "io accorderò",
+                    "io concederò",
+                    "io tralascerò",
+                    "io trascurerò",
+                    "io tacerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕlinques",
+                "traduzioni": [
+                    "tu abbandonerai",
+                    "tu lascerai",
+                    "tu permetterai",
+                    "tu accorderai",
+                    "tu concederai",
+                    "tu tralascerai",
+                    "tu trascurerai",
+                    "tu tacerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕlinquet",
+                "traduzioni": [
+                    "lui abbandonerà",
+                    "lei abbandonerà",
+                    "egli abbandonerà",
+                    "lui lascerà",
+                    "lei lascerà",
+                    "egli lascerà",
+                    "lui permetterà",
+                    "lei permetterà",
+                    "egli permetterà",
+                    "lui accorderà",
+                    "lei accorderà",
+                    "egli accorderà",
+                    "lui concederà",
+                    "lei concederà",
+                    "egli concederà",
+                    "lui tralascerà",
+                    "lei tralascerà",
+                    "egli tralascerà",
+                    "lui trascurerà",
+                    "lei trascurerà",
+                    "egli trascurerà",
+                    "lui tacerà",
+                    "lei tacerà",
+                    "egli tacerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕlinquēmus",
+                "traduzioni": [
+                    "noi abbandoneremo",
+                    "noi lasceremo",
+                    "noi permetteremo",
+                    "noi accorderemo",
+                    "noi concederemo",
+                    "noi tralasceremo",
+                    "noi trascureremo",
+                    "noi taceremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕlinquētis",
+                "traduzioni": [
+                    "voi abbandonerete",
+                    "voi lascerete",
+                    "voi permetterete",
+                    "voi accorderete",
+                    "voi concederete",
+                    "voi tralascerete",
+                    "voi trascurerete",
+                    "voi tacerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕlinquent",
+                "traduzioni": [
+                    "loro abbandoneranno",
+                    "essi abbandoneranno",
+                    "loro lasceranno",
+                    "essi lasceranno",
+                    "loro permetteranno",
+                    "essi permetteranno",
+                    "loro accorderanno",
+                    "essi accorderanno",
+                    "loro concederanno",
+                    "essi concederanno",
+                    "loro tralasceranno",
+                    "essi tralasceranno",
+                    "loro trascureranno",
+                    "essi trascureranno",
+                    "loro taceranno",
+                    "essi taceranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "reliqui",
+                "traduzioni": [
+                    "io abbandonai",
+                    "io ho abbandonato",
+                    "io ebbi abbandonato",
+                    "io lasciai",
+                    "io ho lasciato",
+                    "io ebbi lasciato",
+                    "io permisi",
+                    "io ho permesso",
+                    "io ebbi permesso",
+                    "io accordai",
+                    "io ho accordato",
+                    "io ebbi accordato",
+                    "io concessi",
+                    "io ho concesso",
+                    "io ho conceduto",
+                    "io ebbi concesso",
+                    "io ebbi conceduto",
+                    "io tralasciai",
+                    "io ho tralasciato",
+                    "io ebbi tralasciato",
+                    "io trascurai",
+                    "io ho trascurato",
+                    "io ebbi trascurato",
+                    "io tacqui",
+                    "io ho taciuto",
+                    "io ebbi taciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "reliquisti",
+                "traduzioni": [
+                    "tu abbandonasti",
+                    "tu hai abbandonato",
+                    "tu avesti abbandonato",
+                    "tu lasciasti",
+                    "tu hai lasciato",
+                    "tu avesti lasciato",
+                    "tu permettesti",
+                    "tu hai permesso",
+                    "tu avesti permesso",
+                    "tu accordasti",
+                    "tu hai accordato",
+                    "tu avesti accordato",
+                    "tu concedesti",
+                    "tu hai concesso",
+                    "tu hai conceduto",
+                    "tu avesti concesso",
+                    "tu avesti conceduto",
+                    "tu tralasciasti",
+                    "tu hai tralasciato",
+                    "tu avesti tralasciato",
+                    "tu trascurasti",
+                    "tu hai trascurato",
+                    "tu avesti trascurato",
+                    "tu tacesti",
+                    "tu hai taciuto",
+                    "tu avesti taciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "reliquit",
+                "traduzioni": [
+                    "lui abbandonò",
+                    "lei abbandonò",
+                    "egli abbandonò",
+                    "lui ha abbandonato",
+                    "lei ha abbandonato",
+                    "egli ha abbandonato",
+                    "lui ebbe abbandonato",
+                    "lei ebbe abbandonato",
+                    "egli ebbe abbandonato",
+                    "lui lasciò",
+                    "lei lasciò",
+                    "egli lasciò",
+                    "lui ha lasciato",
+                    "lei ha lasciato",
+                    "egli ha lasciato",
+                    "lui ebbe lasciato",
+                    "lei ebbe lasciato",
+                    "egli ebbe lasciato",
+                    "lui permise",
+                    "lei permise",
+                    "egli permise",
+                    "lui ha permesso",
+                    "lei ha permesso",
+                    "egli ha permesso",
+                    "lui ebbe permesso",
+                    "lei ebbe permesso",
+                    "egli ebbe permesso",
+                    "lui accordò",
+                    "lei accordò",
+                    "egli accordò",
+                    "lui ha accordato",
+                    "lei ha accordato",
+                    "egli ha accordato",
+                    "lui ebbe accordato",
+                    "lei ebbe accordato",
+                    "egli ebbe accordato",
+                    "lui concesse",
+                    "lei concesse",
+                    "egli concesse",
+                    "lui ha concesso",
+                    "lei ha concesso",
+                    "egli ha concesso",
+                    "lui ha conceduto",
+                    "lei ha conceduto",
+                    "egli ha conceduto",
+                    "lui ebbe concesso",
+                    "lei ebbe concesso",
+                    "egli ebbe concesso",
+                    "lui ebbe conceduto",
+                    "lei ebbe conceduto",
+                    "egli ebbe conceduto",
+                    "lui tralasciò",
+                    "lei tralasciò",
+                    "egli tralasciò",
+                    "lui ha tralasciato",
+                    "lei ha tralasciato",
+                    "egli ha tralasciato",
+                    "lui ebbe tralasciato",
+                    "lei ebbe tralasciato",
+                    "egli ebbe tralasciato",
+                    "lui trascurò",
+                    "lei trascurò",
+                    "egli trascurò",
+                    "lui ha trascurato",
+                    "lei ha trascurato",
+                    "egli ha trascurato",
+                    "lui ebbe trascurato",
+                    "lei ebbe trascurato",
+                    "egli ebbe trascurato",
+                    "lui tacque",
+                    "lei tacque",
+                    "egli tacque",
+                    "lui ha taciuto",
+                    "lei ha taciuto",
+                    "egli ha taciuto",
+                    "lui ebbe taciuto",
+                    "lei ebbe taciuto",
+                    "egli ebbe taciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "reliquĭmus",
+                "traduzioni": [
+                    "noi abbandonammo",
+                    "noi abbiamo abbandonato",
+                    "noi avemmo abbandonato",
+                    "noi lasciammo",
+                    "noi abbiamo lasciato",
+                    "noi avemmo lasciato",
+                    "noi permettemmo",
+                    "noi abbiamo permesso",
+                    "noi avemmo permesso",
+                    "noi accordammo",
+                    "noi abbiamo accordato",
+                    "noi avemmo accordato",
+                    "noi concedemmo",
+                    "noi abbiamo concesso",
+                    "noi abbiamo conceduto",
+                    "noi avemmo concesso",
+                    "noi avemmo conceduto",
+                    "noi tralasciammo",
+                    "noi abbiamo tralasciato",
+                    "noi avemmo tralasciato",
+                    "noi trascurammo",
+                    "noi abbiamo trascurato",
+                    "noi avemmo trascurato",
+                    "noi tacemmo",
+                    "noi abbiamo taciuto",
+                    "noi avemmo taciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "reliquistis",
+                "traduzioni": [
+                    "voi abbandonaste",
+                    "voi avete abbandonato",
+                    "voi aveste abbandonato",
+                    "voi lasciaste",
+                    "voi avete lasciato",
+                    "voi aveste lasciato",
+                    "voi permetteste",
+                    "voi avete permesso",
+                    "voi aveste permesso",
+                    "voi accordaste",
+                    "voi avete accordato",
+                    "voi aveste accordato",
+                    "voi concedeste",
+                    "voi avete concesso",
+                    "voi avete conceduto",
+                    "voi aveste concesso",
+                    "voi aveste conceduto",
+                    "voi tralasciaste",
+                    "voi avete tralasciato",
+                    "voi aveste tralasciato",
+                    "voi trascuraste",
+                    "voi avete trascurato",
+                    "voi aveste trascurato",
+                    "voi taceste",
+                    "voi avete taciuto",
+                    "voi aveste taciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "reliquērunt, reliquēre",
+                "traduzioni": [
+                    "loro abbandonarono",
+                    "essi abbandonarono",
+                    "loro hanno abbandonato",
+                    "essi hanno abbandonato",
+                    "loro ebbero abbandonato",
+                    "essi ebbero abbandonato",
+                    "loro lasciarono",
+                    "essi lasciarono",
+                    "loro hanno lasciato",
+                    "essi hanno lasciato",
+                    "loro ebbero lasciato",
+                    "essi ebbero lasciato",
+                    "loro permisero",
+                    "essi permisero",
+                    "loro hanno permesso",
+                    "essi hanno permesso",
+                    "loro ebbero permesso",
+                    "essi ebbero permesso",
+                    "loro accordarono",
+                    "essi accordarono",
+                    "loro hanno accordato",
+                    "essi hanno accordato",
+                    "loro ebbero accordato",
+                    "essi ebbero accordato",
+                    "loro concessero",
+                    "essi concessero",
+                    "loro hanno concesso",
+                    "essi hanno concesso",
+                    "loro hanno conceduto",
+                    "essi hanno conceduto",
+                    "loro ebbero concesso",
+                    "essi ebbero concesso",
+                    "loro ebbero conceduto",
+                    "essi ebbero conceduto",
+                    "loro tralasciarono",
+                    "essi tralasciarono",
+                    "loro hanno tralasciato",
+                    "essi hanno tralasciato",
+                    "loro ebbero tralasciato",
+                    "essi ebbero tralasciato",
+                    "loro trascurarono",
+                    "essi trascurarono",
+                    "loro hanno trascurato",
+                    "essi hanno trascurato",
+                    "loro ebbero trascurato",
+                    "essi ebbero trascurato",
+                    "loro tacquero",
+                    "essi tacquero",
+                    "loro hanno taciuto",
+                    "essi hanno taciuto",
+                    "loro ebbero taciuto",
+                    "essi ebbero taciuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "reliquĕram",
+                "traduzioni": [
+                    "io avevo abbandonato",
+                    "io avevo lasciato",
+                    "io avevo permesso",
+                    "io avevo accordato",
+                    "io avevo concesso",
+                    "io avevo conceduto",
+                    "io avevo tralasciato",
+                    "io avevo trascurato",
+                    "io avevo taciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "reliquĕras",
+                "traduzioni": [
+                    "tu avevi abbandonato",
+                    "tu avevi lasciato",
+                    "tu avevi permesso",
+                    "tu avevi accordato",
+                    "tu avevi concesso",
+                    "tu avevi conceduto",
+                    "tu avevi tralasciato",
+                    "tu avevi trascurato",
+                    "tu avevi taciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "reliquĕrat",
+                "traduzioni": [
+                    "lui aveva abbandonato",
+                    "lei aveva abbandonato",
+                    "egli aveva abbandonato",
+                    "lui aveva lasciato",
+                    "lei aveva lasciato",
+                    "egli aveva lasciato",
+                    "lui aveva permesso",
+                    "lei aveva permesso",
+                    "egli aveva permesso",
+                    "lui aveva accordato",
+                    "lei aveva accordato",
+                    "egli aveva accordato",
+                    "lui aveva concesso",
+                    "lei aveva concesso",
+                    "egli aveva concesso",
+                    "lui aveva conceduto",
+                    "lei aveva conceduto",
+                    "egli aveva conceduto",
+                    "lui aveva tralasciato",
+                    "lei aveva tralasciato",
+                    "egli aveva tralasciato",
+                    "lui aveva trascurato",
+                    "lei aveva trascurato",
+                    "egli aveva trascurato",
+                    "lui aveva taciuto",
+                    "lei aveva taciuto",
+                    "egli aveva taciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "reliquerāmus",
+                "traduzioni": [
+                    "noi avevamo abbandonato",
+                    "noi avevamo lasciato",
+                    "noi avevamo permesso",
+                    "noi avevamo accordato",
+                    "noi avevamo concesso",
+                    "noi avevamo conceduto",
+                    "noi avevamo tralasciato",
+                    "noi avevamo trascurato",
+                    "noi avevamo taciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "reliquerātis",
+                "traduzioni": [
+                    "voi avevate abbandonato",
+                    "voi avevate lasciato",
+                    "voi avevate permesso",
+                    "voi avevate accordato",
+                    "voi avevate concesso",
+                    "voi avevate conceduto",
+                    "voi avevate tralasciato",
+                    "voi avevate trascurato",
+                    "voi avevate taciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "reliquĕrant",
+                "traduzioni": [
+                    "loro avevano abbandonato",
+                    "essi avevano abbandonato",
+                    "loro avevano lasciato",
+                    "essi avevano lasciato",
+                    "loro avevano permesso",
+                    "essi avevano permesso",
+                    "loro avevano accordato",
+                    "essi avevano accordato",
+                    "loro avevano concesso",
+                    "essi avevano concesso",
+                    "loro avevano conceduto",
+                    "essi avevano conceduto",
+                    "loro avevano tralasciato",
+                    "essi avevano tralasciato",
+                    "loro avevano trascurato",
+                    "essi avevano trascurato",
+                    "loro avevano taciuto",
+                    "essi avevano taciuto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "reliquĕro",
+                "traduzioni": [
+                    "io avrò abbandonato",
+                    "io avrò lasciato",
+                    "io avrò permesso",
+                    "io avrò accordato",
+                    "io avrò concesso",
+                    "io avrò conceduto",
+                    "io avrò tralasciato",
+                    "io avrò trascurato",
+                    "io avrò taciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "reliquĕris",
+                "traduzioni": [
+                    "tu avrai abbandonato",
+                    "tu avrai lasciato",
+                    "tu avrai permesso",
+                    "tu avrai accordato",
+                    "tu avrai concesso",
+                    "tu avrai conceduto",
+                    "tu avrai tralasciato",
+                    "tu avrai trascurato",
+                    "tu avrai taciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "reliquĕrit",
+                "traduzioni": [
+                    "lui avrà abbandonato",
+                    "lei avrà abbandonato",
+                    "egli avrà abbandonato",
+                    "lui avrà lasciato",
+                    "lei avrà lasciato",
+                    "egli avrà lasciato",
+                    "lui avrà permesso",
+                    "lei avrà permesso",
+                    "egli avrà permesso",
+                    "lui avrà accordato",
+                    "lei avrà accordato",
+                    "egli avrà accordato",
+                    "lui avrà concesso",
+                    "lei avrà concesso",
+                    "egli avrà concesso",
+                    "lui avrà conceduto",
+                    "lei avrà conceduto",
+                    "egli avrà conceduto",
+                    "lui avrà tralasciato",
+                    "lei avrà tralasciato",
+                    "egli avrà tralasciato",
+                    "lui avrà trascurato",
+                    "lei avrà trascurato",
+                    "egli avrà trascurato",
+                    "lui avrà taciuto",
+                    "lei avrà taciuto",
+                    "egli avrà taciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "reliquerĭmus",
+                "traduzioni": [
+                    "noi avremo abbandonato",
+                    "noi avremo lasciato",
+                    "noi avremo permesso",
+                    "noi avremo accordato",
+                    "noi avremo concesso",
+                    "noi avremo conceduto",
+                    "noi avremo tralasciato",
+                    "noi avremo trascurato",
+                    "noi avremo taciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "reliquerĭtis",
+                "traduzioni": [
+                    "voi avrete abbandonato",
+                    "voi avrete lasciato",
+                    "voi avrete permesso",
+                    "voi avrete accordato",
+                    "voi avrete concesso",
+                    "voi avrete conceduto",
+                    "voi avrete tralasciato",
+                    "voi avrete trascurato",
+                    "voi avrete taciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "reliquĕrint",
+                "traduzioni": [
+                    "loro avranno abbandonato",
+                    "essi avranno abbandonato",
+                    "loro avranno lasciato",
+                    "essi avranno lasciato",
+                    "loro avranno permesso",
+                    "essi avranno permesso",
+                    "loro avranno accordato",
+                    "essi avranno accordato",
+                    "loro avranno concesso",
+                    "essi avranno concesso",
+                    "loro avranno conceduto",
+                    "essi avranno conceduto",
+                    "loro avranno tralasciato",
+                    "essi avranno tralasciato",
+                    "loro avranno trascurato",
+                    "essi avranno trascurato",
+                    "loro avranno taciuto",
+                    "essi avranno taciuto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕlinquam",
+                "traduzioni": [
+                    "che io abbandoni",
+                    "che io lasci",
+                    "che io permetta",
+                    "che io accordi",
+                    "che io conceda",
+                    "che io tralasci",
+                    "che io trascuri",
+                    "che io taccia"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕlinquas",
+                "traduzioni": [
+                    "che tu abbandoni",
+                    "che tu lasci",
+                    "che tu permetta",
+                    "che tu accordi",
+                    "che tu conceda",
+                    "che tu tralasci",
+                    "che tu trascuri",
+                    "che tu taccia"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕlinquat",
+                "traduzioni": [
+                    "che lui abbandoni",
+                    "che lei abbandoni",
+                    "che egli abbandoni",
+                    "che lui lasci",
+                    "che lei lasci",
+                    "che egli lasci",
+                    "che lui permetta",
+                    "che lei permetta",
+                    "che egli permetta",
+                    "che lui accordi",
+                    "che lei accordi",
+                    "che egli accordi",
+                    "che lui conceda",
+                    "che lei conceda",
+                    "che egli conceda",
+                    "che lui tralasci",
+                    "che lei tralasci",
+                    "che egli tralasci",
+                    "che lui trascuri",
+                    "che lei trascuri",
+                    "che egli trascuri",
+                    "che lui taccia",
+                    "che lei taccia",
+                    "che egli taccia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕlinquāmus",
+                "traduzioni": [
+                    "che noi abbandoniamo",
+                    "che noi lasciamo",
+                    "che noi permettiamo",
+                    "che noi accordiamo",
+                    "che noi concediamo",
+                    "che noi tralasciamo",
+                    "che noi trascuriamo",
+                    "che noi tacciamo",
+                    "che noi taciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕlinquātis",
+                "traduzioni": [
+                    "che voi abbandoniate",
+                    "che voi lasciate",
+                    "che voi permettiate",
+                    "che voi accordiate",
+                    "che voi concediate",
+                    "che voi tralasciate",
+                    "che voi trascuriate",
+                    "che voi tacciate",
+                    "che voi taciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕlinquant",
+                "traduzioni": [
+                    "che loro abbandonino",
+                    "che essi abbandonino",
+                    "che loro lascino",
+                    "che essi lascino",
+                    "che loro permettano",
+                    "che essi permettano",
+                    "che loro accordino",
+                    "che essi accordino",
+                    "che loro concedano",
+                    "che essi concedano",
+                    "che loro tralascino",
+                    "che essi tralascino",
+                    "che loro trascurino",
+                    "che essi trascurino",
+                    "che loro tacciano",
+                    "che essi tacciano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "rĕlinquĕrem",
+                "traduzioni": [
+                    "che io abbandonassi",
+                    "che io lasciassi",
+                    "che io permettessi",
+                    "che io accordassi",
+                    "che io concedessi",
+                    "che io tralasciassi",
+                    "che io trascurassi",
+                    "che io tacessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rĕlinquĕres",
+                "traduzioni": [
+                    "che tu abbandonassi",
+                    "che tu lasciassi",
+                    "che tu permettessi",
+                    "che tu accordassi",
+                    "che tu concedessi",
+                    "che tu tralasciassi",
+                    "che tu trascurassi",
+                    "che tu tacessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rĕlinquĕret",
+                "traduzioni": [
+                    "che lui abbandonasse",
+                    "che lei abbandonasse",
+                    "che egli abbandonasse",
+                    "che lui lasciasse",
+                    "che lei lasciasse",
+                    "che egli lasciasse",
+                    "che lui permettesse",
+                    "che lei permettesse",
+                    "che egli permettesse",
+                    "che lui accordasse",
+                    "che lei accordasse",
+                    "che egli accordasse",
+                    "che lui concedesse",
+                    "che lei concedesse",
+                    "che egli concedesse",
+                    "che lui tralasciasse",
+                    "che lei tralasciasse",
+                    "che egli tralasciasse",
+                    "che lui trascurasse",
+                    "che lei trascurasse",
+                    "che egli trascurasse",
+                    "che lui tacesse",
+                    "che lei tacesse",
+                    "che egli tacesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rĕlinquerēmus",
+                "traduzioni": [
+                    "che noi abbandonassimo",
+                    "che noi lasciassimo",
+                    "che noi permettessimo",
+                    "che noi accordassimo",
+                    "che noi concedessimo",
+                    "che noi tralasciassimo",
+                    "che noi trascurassimo",
+                    "che noi tacessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rĕlinquerētis",
+                "traduzioni": [
+                    "che voi abbandonaste",
+                    "che voi lasciaste",
+                    "che voi permetteste",
+                    "che voi accordaste",
+                    "che voi concedeste",
+                    "che voi tralasciaste",
+                    "che voi trascuraste",
+                    "che voi taceste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rĕlinquĕrent",
+                "traduzioni": [
+                    "che loro abbandonassero",
+                    "che essi abbandonassero",
+                    "che loro lasciassero",
+                    "che essi lasciassero",
+                    "che loro permettessero",
+                    "che essi permettessero",
+                    "che loro accordassero",
+                    "che essi accordassero",
+                    "che loro concedessero",
+                    "che essi concedessero",
+                    "che loro tralasciassero",
+                    "che essi tralasciassero",
+                    "che loro trascurassero",
+                    "che essi trascurassero",
+                    "che loro tacessero",
+                    "che essi tacessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "reliquĕrim",
+                "traduzioni": [
+                    "che io abbia abbandonato",
+                    "che io abbia lasciato",
+                    "che io abbia permesso",
+                    "che io abbia accordato",
+                    "che io abbia concesso",
+                    "che io abbia conceduto",
+                    "che io abbia tralasciato",
+                    "che io abbia trascurato",
+                    "che io abbia taciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "reliquĕris",
+                "traduzioni": [
+                    "che tu abbia abbandonato",
+                    "che tu abbia lasciato",
+                    "che tu abbia permesso",
+                    "che tu abbia accordato",
+                    "che tu abbia concesso",
+                    "che tu abbia conceduto",
+                    "che tu abbia tralasciato",
+                    "che tu abbia trascurato",
+                    "che tu abbia taciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "reliquĕrit",
+                "traduzioni": [
+                    "che lui abbia abbandonato",
+                    "che lei abbia abbandonato",
+                    "che egli abbia abbandonato",
+                    "che lui abbia lasciato",
+                    "che lei abbia lasciato",
+                    "che egli abbia lasciato",
+                    "che lui abbia permesso",
+                    "che lei abbia permesso",
+                    "che egli abbia permesso",
+                    "che lui abbia accordato",
+                    "che lei abbia accordato",
+                    "che egli abbia accordato",
+                    "che lui abbia concesso",
+                    "che lei abbia concesso",
+                    "che egli abbia concesso",
+                    "che lui abbia conceduto",
+                    "che lei abbia conceduto",
+                    "che egli abbia conceduto",
+                    "che lui abbia tralasciato",
+                    "che lei abbia tralasciato",
+                    "che egli abbia tralasciato",
+                    "che lui abbia trascurato",
+                    "che lei abbia trascurato",
+                    "che egli abbia trascurato",
+                    "che lui abbia taciuto",
+                    "che lei abbia taciuto",
+                    "che egli abbia taciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "reliquerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo abbandonato",
+                    "che noi abbiamo lasciato",
+                    "che noi abbiamo permesso",
+                    "che noi abbiamo accordato",
+                    "che noi abbiamo concesso",
+                    "che noi abbiamo conceduto",
+                    "che noi abbiamo tralasciato",
+                    "che noi abbiamo trascurato",
+                    "che noi abbiamo taciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "reliquerĭtis",
+                "traduzioni": [
+                    "che voi abbiate abbandonato",
+                    "che voi abbiate lasciato",
+                    "che voi abbiate permesso",
+                    "che voi abbiate accordato",
+                    "che voi abbiate concesso",
+                    "che voi abbiate conceduto",
+                    "che voi abbiate tralasciato",
+                    "che voi abbiate trascurato",
+                    "che voi abbiate taciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "reliquĕrint",
+                "traduzioni": [
+                    "che loro abbiano abbandonato",
+                    "che essi abbiano abbandonato",
+                    "che loro abbiano lasciato",
+                    "che essi abbiano lasciato",
+                    "che loro abbiano permesso",
+                    "che essi abbiano permesso",
+                    "che loro abbiano accordato",
+                    "che essi abbiano accordato",
+                    "che loro abbiano concesso",
+                    "che essi abbiano concesso",
+                    "che loro abbiano conceduto",
+                    "che essi abbiano conceduto",
+                    "che loro abbiano tralasciato",
+                    "che essi abbiano tralasciato",
+                    "che loro abbiano trascurato",
+                    "che essi abbiano trascurato",
+                    "che loro abbiano taciuto",
+                    "che essi abbiano taciuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "reliquissem",
+                "traduzioni": [
+                    "che io avessi abbandonato",
+                    "che io avessi lasciato",
+                    "che io avessi permesso",
+                    "che io avessi accordato",
+                    "che io avessi concesso",
+                    "che io avessi conceduto",
+                    "che io avessi tralasciato",
+                    "che io avessi trascurato",
+                    "che io avessi taciuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "reliquisses",
+                "traduzioni": [
+                    "che tu avessi abbandonato",
+                    "che tu avessi lasciato",
+                    "che tu avessi permesso",
+                    "che tu avessi accordato",
+                    "che tu avessi concesso",
+                    "che tu avessi conceduto",
+                    "che tu avessi tralasciato",
+                    "che tu avessi trascurato",
+                    "che tu avessi taciuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "reliquisset",
+                "traduzioni": [
+                    "che lui avesse abbandonato",
+                    "che lei avesse abbandonato",
+                    "che egli avesse abbandonato",
+                    "che lui avesse lasciato",
+                    "che lei avesse lasciato",
+                    "che egli avesse lasciato",
+                    "che lui avesse permesso",
+                    "che lei avesse permesso",
+                    "che egli avesse permesso",
+                    "che lui avesse accordato",
+                    "che lei avesse accordato",
+                    "che egli avesse accordato",
+                    "che lui avesse concesso",
+                    "che lei avesse concesso",
+                    "che egli avesse concesso",
+                    "che lui avesse conceduto",
+                    "che lei avesse conceduto",
+                    "che egli avesse conceduto",
+                    "che lui avesse tralasciato",
+                    "che lei avesse tralasciato",
+                    "che egli avesse tralasciato",
+                    "che lui avesse trascurato",
+                    "che lei avesse trascurato",
+                    "che egli avesse trascurato",
+                    "che lui avesse taciuto",
+                    "che lei avesse taciuto",
+                    "che egli avesse taciuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "reliquissēmus",
+                "traduzioni": [
+                    "che noi avessimo abbandonato",
+                    "che noi avessimo lasciato",
+                    "che noi avessimo permesso",
+                    "che noi avessimo accordato",
+                    "che noi avessimo concesso",
+                    "che noi avessimo conceduto",
+                    "che noi avessimo tralasciato",
+                    "che noi avessimo trascurato",
+                    "che noi avessimo taciuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "reliquissētis",
+                "traduzioni": [
+                    "che voi aveste abbandonato",
+                    "che voi aveste lasciato",
+                    "che voi aveste permesso",
+                    "che voi aveste accordato",
+                    "che voi aveste concesso",
+                    "che voi aveste conceduto",
+                    "che voi aveste tralasciato",
+                    "che voi aveste trascurato",
+                    "che voi aveste taciuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "reliquissent",
+                "traduzioni": [
+                    "che loro avessero abbandonato",
+                    "che essi avessero abbandonato",
+                    "che loro avessero lasciato",
+                    "che essi avessero lasciato",
+                    "che loro avessero permesso",
+                    "che essi avessero permesso",
+                    "che loro avessero accordato",
+                    "che essi avessero accordato",
+                    "che loro avessero concesso",
+                    "che essi avessero concesso",
+                    "che loro avessero conceduto",
+                    "che essi avessero conceduto",
+                    "che loro avessero tralasciato",
+                    "che essi avessero tralasciato",
+                    "che loro avessero trascurato",
+                    "che essi avessero trascurato",
+                    "che loro avessero taciuto",
+                    "che essi avessero taciuto"
+                ]
+            }
+        ]
+    }
+}

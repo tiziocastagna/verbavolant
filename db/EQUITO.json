@@ -1,0 +1,643 @@
+{
+    "identifier": "EQUITO",
+    "conuigazione": "1",
+    "translation": [
+        "cavalcare",
+        "infuriare",
+        "(di cavallo) portare in groppa il cavaliere"
+    ],
+    "valid_translations": [
+        "cavalcare",
+        "infuriare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ĕquĭto",
+                "traduzioni": [
+                    "io cavalco",
+                    "io infurio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ĕquĭtas",
+                "traduzioni": [
+                    "tu cavalchi",
+                    "tu infuri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ĕquĭtat",
+                "traduzioni": [
+                    "lui cavalca",
+                    "lei cavalca",
+                    "egli cavalca",
+                    "lui infuria",
+                    "lei infuria",
+                    "egli infuria"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ĕquĭtāmus",
+                "traduzioni": [
+                    "noi cavalchiamo",
+                    "noi infuriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ĕquĭtātis",
+                "traduzioni": [
+                    "voi cavalcate",
+                    "voi infuriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ĕquĭtant",
+                "traduzioni": [
+                    "loro cavalcano",
+                    "essi cavalcano",
+                    "loro infuriano",
+                    "essi infuriano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ĕquĭtābam",
+                "traduzioni": [
+                    "io cavalcavo",
+                    "io infuriavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ĕquĭtābas",
+                "traduzioni": [
+                    "tu cavalcavi",
+                    "tu infuriavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ĕquĭtābat",
+                "traduzioni": [
+                    "lui cavalcava",
+                    "lei cavalcava",
+                    "egli cavalcava",
+                    "lui infuriava",
+                    "lei infuriava",
+                    "egli infuriava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ĕquĭtabāmus",
+                "traduzioni": [
+                    "noi cavalcavamo",
+                    "noi infuriavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ĕquĭtabātis",
+                "traduzioni": [
+                    "voi cavalcavate",
+                    "voi infuriavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ĕquĭtābant",
+                "traduzioni": [
+                    "loro cavalcavano",
+                    "essi cavalcavano",
+                    "loro infuriavano",
+                    "essi infuriavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ĕquĭtābo",
+                "traduzioni": [
+                    "io cavalcherò",
+                    "io infurierò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ĕquĭtābis",
+                "traduzioni": [
+                    "tu cavalcherai",
+                    "tu infurierai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ĕquĭtābit",
+                "traduzioni": [
+                    "lui cavalcherà",
+                    "lei cavalcherà",
+                    "egli cavalcherà",
+                    "lui infurierà",
+                    "lei infurierà",
+                    "egli infurierà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ĕquĭtabĭmus",
+                "traduzioni": [
+                    "noi cavalcheremo",
+                    "noi infurieremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ĕquĭtabĭtis",
+                "traduzioni": [
+                    "voi cavalcherete",
+                    "voi infurierete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ĕquĭtābunt",
+                "traduzioni": [
+                    "loro cavalcheranno",
+                    "essi cavalcheranno",
+                    "loro infurieranno",
+                    "essi infurieranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "equitavi",
+                "traduzioni": [
+                    "io cavalcai",
+                    "io ho cavalcato",
+                    "io ebbi cavalcato",
+                    "io infuriai",
+                    "io sono infuriato",
+                    "io sono infuriata",
+                    "io fui infuriato",
+                    "io fui infuriata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "equitavisti",
+                "traduzioni": [
+                    "tu cavalcasti",
+                    "tu hai cavalcato",
+                    "tu avesti cavalcato",
+                    "tu infuriasti",
+                    "tu sei infuriato",
+                    "tu sei infuriata",
+                    "tu fosti infuriato",
+                    "tu fosti infuriata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "equitavit",
+                "traduzioni": [
+                    "lui cavalcò",
+                    "lei cavalcò",
+                    "egli cavalcò",
+                    "lui ha cavalcato",
+                    "lei ha cavalcato",
+                    "egli ha cavalcato",
+                    "lui ebbe cavalcato",
+                    "lei ebbe cavalcato",
+                    "egli ebbe cavalcato",
+                    "lui infuriò",
+                    "lei infuriò",
+                    "egli infuriò",
+                    "lui è infuriato",
+                    "lei è infuriata",
+                    "egli è infuriato",
+                    "lui fu infuriato",
+                    "lei fu infuriata",
+                    "egli fu infuriato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "equitavĭmus",
+                "traduzioni": [
+                    "noi cavalcammo",
+                    "noi abbiamo cavalcato",
+                    "noi avemmo cavalcato",
+                    "noi infuriammo",
+                    "noi siamo infuriati",
+                    "noi siamo infuriate",
+                    "noi fummo infuriati",
+                    "noi fummo infuriate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "equitavistis",
+                "traduzioni": [
+                    "voi cavalcaste",
+                    "voi avete cavalcato",
+                    "voi aveste cavalcato",
+                    "voi infuriaste",
+                    "voi siete infuriati",
+                    "voi siete infuriate",
+                    "voi foste infuriati",
+                    "voi foste infuriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "equitavērunt, equitavēre",
+                "traduzioni": [
+                    "loro cavalcarono",
+                    "essi cavalcarono",
+                    "loro hanno cavalcato",
+                    "essi hanno cavalcato",
+                    "loro ebbero cavalcato",
+                    "essi ebbero cavalcato",
+                    "loro infuriarono",
+                    "essi infuriarono",
+                    "loro sono infuriati",
+                    "loro sono infuriate",
+                    "essi sono infuriati",
+                    "loro furono infuriati",
+                    "loro furono infuriate",
+                    "essi furono infuriati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "equitavĕram",
+                "traduzioni": [
+                    "io avevo cavalcato",
+                    "io ero infuriato",
+                    "io ero infuriata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "equitavĕras",
+                "traduzioni": [
+                    "tu avevi cavalcato",
+                    "tu eri infuriato",
+                    "tu eri infuriata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "equitavĕrat",
+                "traduzioni": [
+                    "lui aveva cavalcato",
+                    "lei aveva cavalcato",
+                    "egli aveva cavalcato",
+                    "lui era infuriato",
+                    "lei era infuriata",
+                    "egli era infuriato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "equitaverāmus",
+                "traduzioni": [
+                    "noi avevamo cavalcato",
+                    "noi eravamo infuriati",
+                    "noi eravamo infuriate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "equitaverātis",
+                "traduzioni": [
+                    "voi avevate cavalcato",
+                    "voi eravate infuriati",
+                    "voi eravate infuriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "equitavĕrant",
+                "traduzioni": [
+                    "loro avevano cavalcato",
+                    "essi avevano cavalcato",
+                    "loro erano infuriati",
+                    "loro erano infuriate",
+                    "essi erano infuriati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "equitavĕro",
+                "traduzioni": [
+                    "io avrò cavalcato",
+                    "io sarò infuriato",
+                    "io sarò infuriata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "equitavĕris",
+                "traduzioni": [
+                    "tu avrai cavalcato",
+                    "tu sarai infuriato",
+                    "tu sarai infuriata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "equitavĕrit",
+                "traduzioni": [
+                    "lui avrà cavalcato",
+                    "lei avrà cavalcato",
+                    "egli avrà cavalcato",
+                    "lui sarà infuriato",
+                    "lei sarà infuriata",
+                    "egli sarà infuriato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "equitaverĭmus",
+                "traduzioni": [
+                    "noi avremo cavalcato",
+                    "noi saremo infuriati",
+                    "noi saremo infuriate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "equitaverĭtis",
+                "traduzioni": [
+                    "voi avrete cavalcato",
+                    "voi sarete infuriati",
+                    "voi sarete infuriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "equitavĕrint",
+                "traduzioni": [
+                    "loro avranno cavalcato",
+                    "essi avranno cavalcato",
+                    "loro saranno infuriati",
+                    "loro saranno infuriate",
+                    "essi saranno infuriati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ĕquĭtem",
+                "traduzioni": [
+                    "che io cavalchi",
+                    "che io infuri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ĕquĭtes",
+                "traduzioni": [
+                    "che tu cavalchi",
+                    "che tu infuri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ĕquĭtet",
+                "traduzioni": [
+                    "che lui cavalchi",
+                    "che lei cavalchi",
+                    "che egli cavalchi",
+                    "che lui infuri",
+                    "che lei infuri",
+                    "che egli infuri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ĕquĭtēmus",
+                "traduzioni": [
+                    "che noi cavalchiamo",
+                    "che noi infuriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ĕquĭtētis",
+                "traduzioni": [
+                    "che voi cavalchiate",
+                    "che voi infuriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ĕquĭtent",
+                "traduzioni": [
+                    "che loro cavalchino",
+                    "che essi cavalchino",
+                    "che loro infurino",
+                    "che essi infurino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ĕquĭtārem",
+                "traduzioni": [
+                    "che io cavalcassi",
+                    "che io infuriassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ĕquĭtāres",
+                "traduzioni": [
+                    "che tu cavalcassi",
+                    "che tu infuriassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ĕquĭtāret",
+                "traduzioni": [
+                    "che lui cavalcasse",
+                    "che lei cavalcasse",
+                    "che egli cavalcasse",
+                    "che lui infuriasse",
+                    "che lei infuriasse",
+                    "che egli infuriasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ĕquĭtarēmus",
+                "traduzioni": [
+                    "che noi cavalcassimo",
+                    "che noi infuriassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ĕquĭtarētis",
+                "traduzioni": [
+                    "che voi cavalcaste",
+                    "che voi infuriaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ĕquĭtārent",
+                "traduzioni": [
+                    "che loro cavalcassero",
+                    "che essi cavalcassero",
+                    "che loro infuriassero",
+                    "che essi infuriassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "equitavĕrim",
+                "traduzioni": [
+                    "che io abbia cavalcato",
+                    "che io sia infuriato",
+                    "che io sia infuriata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "equitavĕris",
+                "traduzioni": [
+                    "che tu abbia cavalcato",
+                    "che tu sia infuriato",
+                    "che tu sia infuriata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "equitavĕrit",
+                "traduzioni": [
+                    "che lui abbia cavalcato",
+                    "che lei abbia cavalcato",
+                    "che egli abbia cavalcato",
+                    "che lui sia infuriato",
+                    "che lei sia infuriata",
+                    "che egli sia infuriato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "equitaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo cavalcato",
+                    "che noi siamo infuriati",
+                    "che noi siamo infuriate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "equitaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate cavalcato",
+                    "che voi siate infuriati",
+                    "che voi siate infuriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "equitavĕrint",
+                "traduzioni": [
+                    "che loro abbiano cavalcato",
+                    "che essi abbiano cavalcato",
+                    "che loro siano infuriati",
+                    "che loro siano infuriate",
+                    "che essi siano infuriati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "equitavissem",
+                "traduzioni": [
+                    "che io avessi cavalcato",
+                    "che io fossi infuriato",
+                    "che io fossi infuriata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "equitavisses",
+                "traduzioni": [
+                    "che tu avessi cavalcato",
+                    "che tu fossi infuriato",
+                    "che tu fossi infuriata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "equitavisset",
+                "traduzioni": [
+                    "che lui avesse cavalcato",
+                    "che lei avesse cavalcato",
+                    "che egli avesse cavalcato",
+                    "che lui fosse infuriato",
+                    "che lei fosse infuriata",
+                    "che egli fosse infuriato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "equitavissēmus",
+                "traduzioni": [
+                    "che noi avessimo cavalcato",
+                    "che noi fossimo infuriati",
+                    "che noi fossimo infuriate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "equitavissētis",
+                "traduzioni": [
+                    "che voi aveste cavalcato",
+                    "che voi foste infuriati",
+                    "che voi foste infuriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "equitavissent",
+                "traduzioni": [
+                    "che loro avessero cavalcato",
+                    "che essi avessero cavalcato",
+                    "che loro fossero infuriati",
+                    "che loro fossero infuriate",
+                    "che essi fossero infuriati"
+                ]
+            }
+        ]
+    }
+}

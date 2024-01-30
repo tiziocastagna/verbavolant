@@ -1,0 +1,503 @@
+{
+    "identifier": "AGGRAVO",
+    "conuigazione": "1",
+    "translation": [
+        "appesantire",
+        "(di malattia) peggiorare"
+    ],
+    "valid_translations": [
+        "appesantire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "aggrăvo",
+                "traduzioni": [
+                    "io appesantisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "aggrăvas",
+                "traduzioni": [
+                    "tu appesantisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "aggrăvat",
+                "traduzioni": [
+                    "lui appesantisce",
+                    "lei appesantisce",
+                    "egli appesantisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aggrăvāmus",
+                "traduzioni": [
+                    "noi appesantiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aggrăvātis",
+                "traduzioni": [
+                    "voi appesantite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aggrăvant",
+                "traduzioni": [
+                    "loro appesantiscono",
+                    "essi appesantiscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "aggrăvābam",
+                "traduzioni": [
+                    "io appesantivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "aggrăvābas",
+                "traduzioni": [
+                    "tu appesantivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "aggrăvābat",
+                "traduzioni": [
+                    "lui appesantiva",
+                    "lei appesantiva",
+                    "egli appesantiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aggrăvabāmus",
+                "traduzioni": [
+                    "noi appesantivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aggrăvabātis",
+                "traduzioni": [
+                    "voi appesantivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aggrăvābant",
+                "traduzioni": [
+                    "loro appesantivano",
+                    "essi appesantivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "aggrăvābo",
+                "traduzioni": [
+                    "io appesantirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "aggrăvābis",
+                "traduzioni": [
+                    "tu appesantirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "aggrăvābit",
+                "traduzioni": [
+                    "lui appesantirà",
+                    "lei appesantirà",
+                    "egli appesantirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aggrăvabĭmus",
+                "traduzioni": [
+                    "noi appesantiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aggrăvabĭtis",
+                "traduzioni": [
+                    "voi appesantirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aggrăvābunt",
+                "traduzioni": [
+                    "loro appesantiranno",
+                    "essi appesantiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "aggravavi",
+                "traduzioni": [
+                    "io appesantii",
+                    "io ho appesantito",
+                    "io ebbi appesantito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "aggravavisti",
+                "traduzioni": [
+                    "tu appesantisti",
+                    "tu hai appesantito",
+                    "tu avesti appesantito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "aggravavit",
+                "traduzioni": [
+                    "lui appesantì",
+                    "lei appesantì",
+                    "egli appesantì",
+                    "lui ha appesantito",
+                    "lei ha appesantito",
+                    "egli ha appesantito",
+                    "lui ebbe appesantito",
+                    "lei ebbe appesantito",
+                    "egli ebbe appesantito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aggravavĭmus",
+                "traduzioni": [
+                    "noi appesantimmo",
+                    "noi abbiamo appesantito",
+                    "noi avemmo appesantito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aggravavistis",
+                "traduzioni": [
+                    "voi appesantiste",
+                    "voi avete appesantito",
+                    "voi aveste appesantito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aggravavērunt, aggravavēre",
+                "traduzioni": [
+                    "loro appesantirono",
+                    "essi appesantirono",
+                    "loro hanno appesantito",
+                    "essi hanno appesantito",
+                    "loro ebbero appesantito",
+                    "essi ebbero appesantito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "aggravavĕram",
+                "traduzioni": [
+                    "io avevo appesantito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "aggravavĕras",
+                "traduzioni": [
+                    "tu avevi appesantito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "aggravavĕrat",
+                "traduzioni": [
+                    "lui aveva appesantito",
+                    "lei aveva appesantito",
+                    "egli aveva appesantito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aggravaverāmus",
+                "traduzioni": [
+                    "noi avevamo appesantito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aggravaverātis",
+                "traduzioni": [
+                    "voi avevate appesantito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aggravavĕrant",
+                "traduzioni": [
+                    "loro avevano appesantito",
+                    "essi avevano appesantito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "aggravavĕro",
+                "traduzioni": [
+                    "io avrò appesantito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "aggravavĕris",
+                "traduzioni": [
+                    "tu avrai appesantito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "aggravavĕrit",
+                "traduzioni": [
+                    "lui avrà appesantito",
+                    "lei avrà appesantito",
+                    "egli avrà appesantito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aggravaverĭmus",
+                "traduzioni": [
+                    "noi avremo appesantito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aggravaverĭtis",
+                "traduzioni": [
+                    "voi avrete appesantito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aggravavĕrint",
+                "traduzioni": [
+                    "loro avranno appesantito",
+                    "essi avranno appesantito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "aggrăvem",
+                "traduzioni": [
+                    "che io appesantisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "aggrăves",
+                "traduzioni": [
+                    "che tu appesantisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "aggrăvet",
+                "traduzioni": [
+                    "che lui appesantisca",
+                    "che lei appesantisca",
+                    "che egli appesantisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aggrăvēmus",
+                "traduzioni": [
+                    "che noi appesantiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aggrăvētis",
+                "traduzioni": [
+                    "che voi appesantiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aggrăvent",
+                "traduzioni": [
+                    "che loro appesantiscano",
+                    "che essi appesantiscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "aggrăvārem",
+                "traduzioni": [
+                    "che io appesantissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "aggrăvāres",
+                "traduzioni": [
+                    "che tu appesantissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "aggrăvāret",
+                "traduzioni": [
+                    "che lui appesantisse",
+                    "che lei appesantisse",
+                    "che egli appesantisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aggrăvarēmus",
+                "traduzioni": [
+                    "che noi appesantissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aggrăvarētis",
+                "traduzioni": [
+                    "che voi appesantiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aggrăvārent",
+                "traduzioni": [
+                    "che loro appesantissero",
+                    "che essi appesantissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "aggravavĕrim",
+                "traduzioni": [
+                    "che io abbia appesantito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "aggravavĕris",
+                "traduzioni": [
+                    "che tu abbia appesantito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "aggravavĕrit",
+                "traduzioni": [
+                    "che lui abbia appesantito",
+                    "che lei abbia appesantito",
+                    "che egli abbia appesantito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aggravaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo appesantito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aggravaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate appesantito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aggravavĕrint",
+                "traduzioni": [
+                    "che loro abbiano appesantito",
+                    "che essi abbiano appesantito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "aggravavissem",
+                "traduzioni": [
+                    "che io avessi appesantito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "aggravavisses",
+                "traduzioni": [
+                    "che tu avessi appesantito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "aggravavisset",
+                "traduzioni": [
+                    "che lui avesse appesantito",
+                    "che lei avesse appesantito",
+                    "che egli avesse appesantito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aggravavissēmus",
+                "traduzioni": [
+                    "che noi avessimo appesantito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aggravavissētis",
+                "traduzioni": [
+                    "che voi aveste appesantito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aggravavissent",
+                "traduzioni": [
+                    "che loro avessero appesantito",
+                    "che essi avessero appesantito"
+                ]
+            }
+        ]
+    }
+}

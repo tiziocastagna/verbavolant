@@ -1,0 +1,644 @@
+{
+    "identifier": "LAVO",
+    "conuigazione": "1",
+    "translation": [
+        "(transitivo) lavare",
+        "pulire",
+        "bagnare",
+        "(in senso figurato) cancellare"
+    ],
+    "valid_translations": [
+        "pulire",
+        "bagnare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăvo",
+                "traduzioni": [
+                    "io pulisco",
+                    "io bagno"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăvis",
+                "traduzioni": [
+                    "tu pulisci",
+                    "tu bagni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăvit",
+                "traduzioni": [
+                    "lui pulisce",
+                    "lei pulisce",
+                    "egli pulisce",
+                    "lui bagna",
+                    "lei bagna",
+                    "egli bagna"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăvĭmus",
+                "traduzioni": [
+                    "noi puliamo",
+                    "noi bagniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăvĭtis",
+                "traduzioni": [
+                    "voi pulite",
+                    "voi bagnate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăvunt",
+                "traduzioni": [
+                    "loro puliscono",
+                    "essi puliscono",
+                    "loro bagnano",
+                    "essi bagnano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăvēbam",
+                "traduzioni": [
+                    "io pulivo",
+                    "io bagnavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăvēbas",
+                "traduzioni": [
+                    "tu pulivi",
+                    "tu bagnavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăvēbat",
+                "traduzioni": [
+                    "lui puliva",
+                    "lei puliva",
+                    "egli puliva",
+                    "lui bagnava",
+                    "lei bagnava",
+                    "egli bagnava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăvebāmus",
+                "traduzioni": [
+                    "noi pulivamo",
+                    "noi bagnavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăvebātis",
+                "traduzioni": [
+                    "voi pulivate",
+                    "voi bagnavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăvēbant",
+                "traduzioni": [
+                    "loro pulivano",
+                    "essi pulivano",
+                    "loro bagnavano",
+                    "essi bagnavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăvam",
+                "traduzioni": [
+                    "io pulirò",
+                    "io bagnerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăves",
+                "traduzioni": [
+                    "tu pulirai",
+                    "tu bagnerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăvet",
+                "traduzioni": [
+                    "lui pulirà",
+                    "lei pulirà",
+                    "egli pulirà",
+                    "lui bagnerà",
+                    "lei bagnerà",
+                    "egli bagnerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăvēmus",
+                "traduzioni": [
+                    "noi puliremo",
+                    "noi bagneremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăvētis",
+                "traduzioni": [
+                    "voi pulirete",
+                    "voi bagnerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăvent",
+                "traduzioni": [
+                    "loro puliranno",
+                    "essi puliranno",
+                    "loro bagneranno",
+                    "essi bagneranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lavi",
+                "traduzioni": [
+                    "io pulii",
+                    "io sono pulito",
+                    "io sono pulita",
+                    "io fui pulito",
+                    "io fui pulita",
+                    "io bagnai",
+                    "io ho bagnato",
+                    "io ebbi bagnato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lavisti",
+                "traduzioni": [
+                    "tu pulisti",
+                    "tu sei pulito",
+                    "tu sei pulita",
+                    "tu fosti pulito",
+                    "tu fosti pulita",
+                    "tu bagnasti",
+                    "tu hai bagnato",
+                    "tu avesti bagnato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lavit",
+                "traduzioni": [
+                    "lui pulì",
+                    "lei pulì",
+                    "egli pulì",
+                    "lui è pulito",
+                    "lei è pulita",
+                    "egli è pulito",
+                    "lui fu pulito",
+                    "lei fu pulita",
+                    "egli fu pulito",
+                    "lui bagnò",
+                    "lei bagnò",
+                    "egli bagnò",
+                    "lui ha bagnato",
+                    "lei ha bagnato",
+                    "egli ha bagnato",
+                    "lui ebbe bagnato",
+                    "lei ebbe bagnato",
+                    "egli ebbe bagnato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lavĭmus",
+                "traduzioni": [
+                    "noi pulimmo",
+                    "noi siamo puliti",
+                    "noi siamo pulite",
+                    "noi fummo puliti",
+                    "noi fummo pulite",
+                    "noi bagnammo",
+                    "noi abbiamo bagnato",
+                    "noi avemmo bagnato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lavistis",
+                "traduzioni": [
+                    "voi puliste",
+                    "voi siete puliti",
+                    "voi siete pulite",
+                    "voi foste puliti",
+                    "voi foste pulite",
+                    "voi bagnaste",
+                    "voi avete bagnato",
+                    "voi aveste bagnato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lavērunt, lavēre",
+                "traduzioni": [
+                    "loro pulirono",
+                    "essi pulirono",
+                    "loro sono puliti",
+                    "loro sono pulite",
+                    "essi sono puliti",
+                    "loro furono puliti",
+                    "loro furono pulite",
+                    "essi furono puliti",
+                    "loro bagnarono",
+                    "essi bagnarono",
+                    "loro hanno bagnato",
+                    "essi hanno bagnato",
+                    "loro ebbero bagnato",
+                    "essi ebbero bagnato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lavĕram",
+                "traduzioni": [
+                    "io ero pulito",
+                    "io ero pulita",
+                    "io avevo bagnato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lavĕras",
+                "traduzioni": [
+                    "tu eri pulito",
+                    "tu eri pulita",
+                    "tu avevi bagnato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lavĕrat",
+                "traduzioni": [
+                    "lui era pulito",
+                    "lei era pulita",
+                    "egli era pulito",
+                    "lui aveva bagnato",
+                    "lei aveva bagnato",
+                    "egli aveva bagnato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laverāmus",
+                "traduzioni": [
+                    "noi eravamo puliti",
+                    "noi eravamo pulite",
+                    "noi avevamo bagnato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laverātis",
+                "traduzioni": [
+                    "voi eravate puliti",
+                    "voi eravate pulite",
+                    "voi avevate bagnato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lavĕrant",
+                "traduzioni": [
+                    "loro erano puliti",
+                    "loro erano pulite",
+                    "essi erano puliti",
+                    "loro avevano bagnato",
+                    "essi avevano bagnato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lavĕro",
+                "traduzioni": [
+                    "io sarò pulito",
+                    "io sarò pulita",
+                    "io avrò bagnato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lavĕris",
+                "traduzioni": [
+                    "tu sarai pulito",
+                    "tu sarai pulita",
+                    "tu avrai bagnato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lavĕrit",
+                "traduzioni": [
+                    "lui sarà pulito",
+                    "lei sarà pulita",
+                    "egli sarà pulito",
+                    "lui avrà bagnato",
+                    "lei avrà bagnato",
+                    "egli avrà bagnato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laverĭmus",
+                "traduzioni": [
+                    "noi saremo puliti",
+                    "noi saremo pulite",
+                    "noi avremo bagnato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laverĭtis",
+                "traduzioni": [
+                    "voi sarete puliti",
+                    "voi sarete pulite",
+                    "voi avrete bagnato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lavĕrint",
+                "traduzioni": [
+                    "loro saranno puliti",
+                    "loro saranno pulite",
+                    "essi saranno puliti",
+                    "loro avranno bagnato",
+                    "essi avranno bagnato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăvam",
+                "traduzioni": [
+                    "che io pulisca",
+                    "che io bagni"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăvas",
+                "traduzioni": [
+                    "che tu pulisca",
+                    "che tu bagni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăvat",
+                "traduzioni": [
+                    "che lui pulisca",
+                    "che lei pulisca",
+                    "che egli pulisca",
+                    "che lui bagni",
+                    "che lei bagni",
+                    "che egli bagni"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăvāmus",
+                "traduzioni": [
+                    "che noi puliamo",
+                    "che noi bagniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăvātis",
+                "traduzioni": [
+                    "che voi puliate",
+                    "che voi bagniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăvant",
+                "traduzioni": [
+                    "che loro puliscano",
+                    "che essi puliscano",
+                    "che loro bagnino",
+                    "che essi bagnino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăvĕrem",
+                "traduzioni": [
+                    "che io pulissi",
+                    "che io bagnassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăvĕres",
+                "traduzioni": [
+                    "che tu pulissi",
+                    "che tu bagnassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăvĕret",
+                "traduzioni": [
+                    "che lui pulisse",
+                    "che lei pulisse",
+                    "che egli pulisse",
+                    "che lui bagnasse",
+                    "che lei bagnasse",
+                    "che egli bagnasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăverēmus",
+                "traduzioni": [
+                    "che noi pulissimo",
+                    "che noi bagnassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăverētis",
+                "traduzioni": [
+                    "che voi puliste",
+                    "che voi bagnaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăvĕrent",
+                "traduzioni": [
+                    "che loro pulissero",
+                    "che essi pulissero",
+                    "che loro bagnassero",
+                    "che essi bagnassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lavĕrim",
+                "traduzioni": [
+                    "che io sia pulito",
+                    "che io sia pulita",
+                    "che io abbia bagnato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lavĕris",
+                "traduzioni": [
+                    "che tu sia pulito",
+                    "che tu sia pulita",
+                    "che tu abbia bagnato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lavĕrit",
+                "traduzioni": [
+                    "che lui sia pulito",
+                    "che lei sia pulita",
+                    "che egli sia pulito",
+                    "che lui abbia bagnato",
+                    "che lei abbia bagnato",
+                    "che egli abbia bagnato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "laverĭmus",
+                "traduzioni": [
+                    "che noi siamo puliti",
+                    "che noi siamo pulite",
+                    "che noi abbiamo bagnato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "laverĭtis",
+                "traduzioni": [
+                    "che voi siate puliti",
+                    "che voi siate pulite",
+                    "che voi abbiate bagnato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lavĕrint",
+                "traduzioni": [
+                    "che loro siano puliti",
+                    "che loro siano pulite",
+                    "che essi siano puliti",
+                    "che loro abbiano bagnato",
+                    "che essi abbiano bagnato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lavissem",
+                "traduzioni": [
+                    "che io fossi pulito",
+                    "che io fossi pulita",
+                    "che io avessi bagnato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lavisses",
+                "traduzioni": [
+                    "che tu fossi pulito",
+                    "che tu fossi pulita",
+                    "che tu avessi bagnato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lavisset",
+                "traduzioni": [
+                    "che lui fosse pulito",
+                    "che lei fosse pulita",
+                    "che egli fosse pulito",
+                    "che lui avesse bagnato",
+                    "che lei avesse bagnato",
+                    "che egli avesse bagnato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lavissēmus",
+                "traduzioni": [
+                    "che noi fossimo puliti",
+                    "che noi fossimo pulite",
+                    "che noi avessimo bagnato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lavissētis",
+                "traduzioni": [
+                    "che voi foste puliti",
+                    "che voi foste pulite",
+                    "che voi aveste bagnato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lavissent",
+                "traduzioni": [
+                    "che loro fossero puliti",
+                    "che loro fossero pulite",
+                    "che essi fossero puliti",
+                    "che loro avessero bagnato",
+                    "che essi avessero bagnato"
+                ]
+            }
+        ]
+    }
+}

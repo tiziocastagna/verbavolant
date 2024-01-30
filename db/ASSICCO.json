@@ -1,0 +1,533 @@
+{
+    "identifier": "ASSICCO",
+    "conuigazione": "1",
+    "translation": [
+        "far seccare",
+        "asciugare"
+    ],
+    "valid_translations": [
+        "asciugare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "assicco",
+                "traduzioni": [
+                    "io asciugo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "assiccas",
+                "traduzioni": [
+                    "tu asciughi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "assiccat",
+                "traduzioni": [
+                    "lui asciuga",
+                    "lei asciuga",
+                    "egli asciuga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "assiccāmus",
+                "traduzioni": [
+                    "noi asciughiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "assiccātis",
+                "traduzioni": [
+                    "voi asciugate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "assiccant",
+                "traduzioni": [
+                    "loro asciugano",
+                    "essi asciugano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "assiccābam",
+                "traduzioni": [
+                    "io asciugavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "assiccābas",
+                "traduzioni": [
+                    "tu asciugavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "assiccābat",
+                "traduzioni": [
+                    "lui asciugava",
+                    "lei asciugava",
+                    "egli asciugava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "assiccabāmus",
+                "traduzioni": [
+                    "noi asciugavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "assiccabātis",
+                "traduzioni": [
+                    "voi asciugavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "assiccābant",
+                "traduzioni": [
+                    "loro asciugavano",
+                    "essi asciugavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "assiccābo",
+                "traduzioni": [
+                    "io asciugherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "assiccābis",
+                "traduzioni": [
+                    "tu asciugherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "assiccābit",
+                "traduzioni": [
+                    "lui asciugherà",
+                    "lei asciugherà",
+                    "egli asciugherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "assiccabĭmus",
+                "traduzioni": [
+                    "noi asciugheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "assiccabĭtis",
+                "traduzioni": [
+                    "voi asciugherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "assiccābunt",
+                "traduzioni": [
+                    "loro asciugheranno",
+                    "essi asciugheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "assiccavi",
+                "traduzioni": [
+                    "io asciugai",
+                    "io sono asciugato",
+                    "io sono asciugata",
+                    "io fui asciugato",
+                    "io fui asciugata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "assiccavisti",
+                "traduzioni": [
+                    "tu asciugasti",
+                    "tu sei asciugato",
+                    "tu sei asciugata",
+                    "tu fosti asciugato",
+                    "tu fosti asciugata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "assiccavit",
+                "traduzioni": [
+                    "lui asciugò",
+                    "lei asciugò",
+                    "egli asciugò",
+                    "lui è asciugato",
+                    "lei è asciugata",
+                    "egli è asciugato",
+                    "lui fu asciugato",
+                    "lei fu asciugata",
+                    "egli fu asciugato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "assiccavĭmus",
+                "traduzioni": [
+                    "noi asciugammo",
+                    "noi siamo asciugati",
+                    "noi siamo asciugate",
+                    "noi fummo asciugati",
+                    "noi fummo asciugate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "assiccavistis",
+                "traduzioni": [
+                    "voi asciugaste",
+                    "voi siete asciugati",
+                    "voi siete asciugate",
+                    "voi foste asciugati",
+                    "voi foste asciugate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "assiccavērunt, assiccavēre",
+                "traduzioni": [
+                    "loro asciugarono",
+                    "essi asciugarono",
+                    "loro sono asciugati",
+                    "loro sono asciugate",
+                    "essi sono asciugati",
+                    "loro furono asciugati",
+                    "loro furono asciugate",
+                    "essi furono asciugati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "assiccavĕram",
+                "traduzioni": [
+                    "io ero asciugato",
+                    "io ero asciugata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "assiccavĕras",
+                "traduzioni": [
+                    "tu eri asciugato",
+                    "tu eri asciugata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "assiccavĕrat",
+                "traduzioni": [
+                    "lui era asciugato",
+                    "lei era asciugata",
+                    "egli era asciugato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "assiccaverāmus",
+                "traduzioni": [
+                    "noi eravamo asciugati",
+                    "noi eravamo asciugate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "assiccaverātis",
+                "traduzioni": [
+                    "voi eravate asciugati",
+                    "voi eravate asciugate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "assiccavĕrant",
+                "traduzioni": [
+                    "loro erano asciugati",
+                    "loro erano asciugate",
+                    "essi erano asciugati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "assiccavĕro",
+                "traduzioni": [
+                    "io sarò asciugato",
+                    "io sarò asciugata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "assiccavĕris",
+                "traduzioni": [
+                    "tu sarai asciugato",
+                    "tu sarai asciugata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "assiccavĕrit",
+                "traduzioni": [
+                    "lui sarà asciugato",
+                    "lei sarà asciugata",
+                    "egli sarà asciugato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "assiccaverĭmus",
+                "traduzioni": [
+                    "noi saremo asciugati",
+                    "noi saremo asciugate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "assiccaverĭtis",
+                "traduzioni": [
+                    "voi sarete asciugati",
+                    "voi sarete asciugate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "assiccavĕrint",
+                "traduzioni": [
+                    "loro saranno asciugati",
+                    "loro saranno asciugate",
+                    "essi saranno asciugati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "assiccem",
+                "traduzioni": [
+                    "che io asciughi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "assicces",
+                "traduzioni": [
+                    "che tu asciughi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "assiccet",
+                "traduzioni": [
+                    "che lui asciughi",
+                    "che lei asciughi",
+                    "che egli asciughi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "assiccēmus",
+                "traduzioni": [
+                    "che noi asciughiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "assiccētis",
+                "traduzioni": [
+                    "che voi asciughiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "assiccent",
+                "traduzioni": [
+                    "che loro asciughino",
+                    "che essi asciughino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "assiccārem",
+                "traduzioni": [
+                    "che io asciugassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "assiccāres",
+                "traduzioni": [
+                    "che tu asciugassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "assiccāret",
+                "traduzioni": [
+                    "che lui asciugasse",
+                    "che lei asciugasse",
+                    "che egli asciugasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "assiccarēmus",
+                "traduzioni": [
+                    "che noi asciugassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "assiccarētis",
+                "traduzioni": [
+                    "che voi asciugaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "assiccārent",
+                "traduzioni": [
+                    "che loro asciugassero",
+                    "che essi asciugassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "assiccavĕrim",
+                "traduzioni": [
+                    "che io sia asciugato",
+                    "che io sia asciugata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "assiccavĕris",
+                "traduzioni": [
+                    "che tu sia asciugato",
+                    "che tu sia asciugata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "assiccavĕrit",
+                "traduzioni": [
+                    "che lui sia asciugato",
+                    "che lei sia asciugata",
+                    "che egli sia asciugato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "assiccaverĭmus",
+                "traduzioni": [
+                    "che noi siamo asciugati",
+                    "che noi siamo asciugate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "assiccaverĭtis",
+                "traduzioni": [
+                    "che voi siate asciugati",
+                    "che voi siate asciugate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "assiccavĕrint",
+                "traduzioni": [
+                    "che loro siano asciugati",
+                    "che loro siano asciugate",
+                    "che essi siano asciugati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "assiccavissem",
+                "traduzioni": [
+                    "che io fossi asciugato",
+                    "che io fossi asciugata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "assiccavisses",
+                "traduzioni": [
+                    "che tu fossi asciugato",
+                    "che tu fossi asciugata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "assiccavisset",
+                "traduzioni": [
+                    "che lui fosse asciugato",
+                    "che lei fosse asciugata",
+                    "che egli fosse asciugato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "assiccavissēmus",
+                "traduzioni": [
+                    "che noi fossimo asciugati",
+                    "che noi fossimo asciugate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "assiccavissētis",
+                "traduzioni": [
+                    "che voi foste asciugati",
+                    "che voi foste asciugate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "assiccavissent",
+                "traduzioni": [
+                    "che loro fossero asciugati",
+                    "che loro fossero asciugate",
+                    "che essi fossero asciugati"
+                ]
+            }
+        ]
+    }
+}

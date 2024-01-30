@@ -1,0 +1,1164 @@
+{
+    "identifier": "DISPENSO",
+    "conuigazione": "1",
+    "translation": [
+        "distribuire",
+        "dispensare",
+        "ripartire",
+        "amministrare",
+        "governare",
+        "curare",
+        "regolare",
+        "ordinare"
+    ],
+    "valid_translations": [
+        "distribuire",
+        "dispensare",
+        "ripartire",
+        "amministrare",
+        "governare",
+        "curare",
+        "regolare",
+        "ordinare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dispenso",
+                "traduzioni": [
+                    "io distribuisco",
+                    "io dispenso",
+                    "io amministro",
+                    "io governo",
+                    "io curo",
+                    "io regolo",
+                    "io ordino"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dispensas",
+                "traduzioni": [
+                    "tu distribuisci",
+                    "tu dispensi",
+                    "tu amministri",
+                    "tu governi",
+                    "tu curi",
+                    "tu regoli",
+                    "tu ordini"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dispensat",
+                "traduzioni": [
+                    "lui distribuisce",
+                    "lei distribuisce",
+                    "egli distribuisce",
+                    "lui dispensa",
+                    "lei dispensa",
+                    "egli dispensa",
+                    "lui amministra",
+                    "lei amministra",
+                    "egli amministra",
+                    "lui governa",
+                    "lei governa",
+                    "egli governa",
+                    "lui cura",
+                    "lei cura",
+                    "egli cura",
+                    "lui regola",
+                    "lei regola",
+                    "egli regola",
+                    "lui ordina",
+                    "lei ordina",
+                    "egli ordina"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dispensāmus",
+                "traduzioni": [
+                    "noi distribuiamo",
+                    "noi dispensiamo",
+                    "noi amministriamo",
+                    "noi governiamo",
+                    "noi curiamo",
+                    "noi regoliamo",
+                    "noi ordiniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dispensātis",
+                "traduzioni": [
+                    "voi distribuite",
+                    "voi dispensate",
+                    "voi amministrate",
+                    "voi governate",
+                    "voi curate",
+                    "voi regolate",
+                    "voi ordinate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dispensant",
+                "traduzioni": [
+                    "loro distribuiscono",
+                    "essi distribuiscono",
+                    "loro dispensano",
+                    "essi dispensano",
+                    "loro amministrano",
+                    "essi amministrano",
+                    "loro governano",
+                    "essi governano",
+                    "loro curano",
+                    "essi curano",
+                    "loro regolano",
+                    "essi regolano",
+                    "loro ordinano",
+                    "essi ordinano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dispensābam",
+                "traduzioni": [
+                    "io distribuivo",
+                    "io dispensavo",
+                    "io amministravo",
+                    "io governavo",
+                    "io curavo",
+                    "io regolavo",
+                    "io ordinavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dispensābas",
+                "traduzioni": [
+                    "tu distribuivi",
+                    "tu dispensavi",
+                    "tu amministravi",
+                    "tu governavi",
+                    "tu curavi",
+                    "tu regolavi",
+                    "tu ordinavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dispensābat",
+                "traduzioni": [
+                    "lui distribuiva",
+                    "lei distribuiva",
+                    "egli distribuiva",
+                    "lui dispensava",
+                    "lei dispensava",
+                    "egli dispensava",
+                    "lui amministrava",
+                    "lei amministrava",
+                    "egli amministrava",
+                    "lui governava",
+                    "lei governava",
+                    "egli governava",
+                    "lui curava",
+                    "lei curava",
+                    "egli curava",
+                    "lui regolava",
+                    "lei regolava",
+                    "egli regolava",
+                    "lui ordinava",
+                    "lei ordinava",
+                    "egli ordinava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dispensabāmus",
+                "traduzioni": [
+                    "noi distribuivamo",
+                    "noi dispensavamo",
+                    "noi amministravamo",
+                    "noi governavamo",
+                    "noi curavamo",
+                    "noi regolavamo",
+                    "noi ordinavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dispensabātis",
+                "traduzioni": [
+                    "voi distribuivate",
+                    "voi dispensavate",
+                    "voi amministravate",
+                    "voi governavate",
+                    "voi curavate",
+                    "voi regolavate",
+                    "voi ordinavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dispensābant",
+                "traduzioni": [
+                    "loro distribuivano",
+                    "essi distribuivano",
+                    "loro dispensavano",
+                    "essi dispensavano",
+                    "loro amministravano",
+                    "essi amministravano",
+                    "loro governavano",
+                    "essi governavano",
+                    "loro curavano",
+                    "essi curavano",
+                    "loro regolavano",
+                    "essi regolavano",
+                    "loro ordinavano",
+                    "essi ordinavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dispensābo",
+                "traduzioni": [
+                    "io distribuirò",
+                    "io dispenserò",
+                    "io amministrerò",
+                    "io governerò",
+                    "io curerò",
+                    "io regolerò",
+                    "io ordinerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dispensābis",
+                "traduzioni": [
+                    "tu distribuirai",
+                    "tu dispenserai",
+                    "tu amministrerai",
+                    "tu governerai",
+                    "tu curerai",
+                    "tu regolerai",
+                    "tu ordinerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dispensābit",
+                "traduzioni": [
+                    "lui distribuirà",
+                    "lei distribuirà",
+                    "egli distribuirà",
+                    "lui dispenserà",
+                    "lei dispenserà",
+                    "egli dispenserà",
+                    "lui amministrerà",
+                    "lei amministrerà",
+                    "egli amministrerà",
+                    "lui governerà",
+                    "lei governerà",
+                    "egli governerà",
+                    "lui curerà",
+                    "lei curerà",
+                    "egli curerà",
+                    "lui regolerà",
+                    "lei regolerà",
+                    "egli regolerà",
+                    "lui ordinerà",
+                    "lei ordinerà",
+                    "egli ordinerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dispensabĭmus",
+                "traduzioni": [
+                    "noi distribuiremo",
+                    "noi dispenseremo",
+                    "noi amministreremo",
+                    "noi governeremo",
+                    "noi cureremo",
+                    "noi regoleremo",
+                    "noi ordineremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dispensabĭtis",
+                "traduzioni": [
+                    "voi distribuirete",
+                    "voi dispenserete",
+                    "voi amministrerete",
+                    "voi governerete",
+                    "voi curerete",
+                    "voi regolerete",
+                    "voi ordinerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dispensābunt",
+                "traduzioni": [
+                    "loro distribuiranno",
+                    "essi distribuiranno",
+                    "loro dispenseranno",
+                    "essi dispenseranno",
+                    "loro amministreranno",
+                    "essi amministreranno",
+                    "loro governeranno",
+                    "essi governeranno",
+                    "loro cureranno",
+                    "essi cureranno",
+                    "loro regoleranno",
+                    "essi regoleranno",
+                    "loro ordineranno",
+                    "essi ordineranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dispensavi",
+                "traduzioni": [
+                    "io distribuii",
+                    "io ho distribuito",
+                    "io ebbi distribuito",
+                    "io dispensai",
+                    "io ho dispensato",
+                    "io ebbi dispensato",
+                    "io amministrai",
+                    "io ho amministrato",
+                    "io ebbi amministrato",
+                    "io governai",
+                    "io ho governato",
+                    "io ebbi governato",
+                    "io curai",
+                    "io ho curato",
+                    "io ebbi curato",
+                    "io regolai",
+                    "io ho regolato",
+                    "io ebbi regolato",
+                    "io ordinai",
+                    "io ho ordinato",
+                    "io ebbi ordinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dispensavisti",
+                "traduzioni": [
+                    "tu distribuisti",
+                    "tu hai distribuito",
+                    "tu avesti distribuito",
+                    "tu dispensasti",
+                    "tu hai dispensato",
+                    "tu avesti dispensato",
+                    "tu amministrasti",
+                    "tu hai amministrato",
+                    "tu avesti amministrato",
+                    "tu governasti",
+                    "tu hai governato",
+                    "tu avesti governato",
+                    "tu curasti",
+                    "tu hai curato",
+                    "tu avesti curato",
+                    "tu regolasti",
+                    "tu hai regolato",
+                    "tu avesti regolato",
+                    "tu ordinasti",
+                    "tu hai ordinato",
+                    "tu avesti ordinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dispensavit",
+                "traduzioni": [
+                    "lui distribuì",
+                    "lei distribuì",
+                    "egli distribuì",
+                    "lui ha distribuito",
+                    "lei ha distribuito",
+                    "egli ha distribuito",
+                    "lui ebbe distribuito",
+                    "lei ebbe distribuito",
+                    "egli ebbe distribuito",
+                    "lui dispensò",
+                    "lei dispensò",
+                    "egli dispensò",
+                    "lui ha dispensato",
+                    "lei ha dispensato",
+                    "egli ha dispensato",
+                    "lui ebbe dispensato",
+                    "lei ebbe dispensato",
+                    "egli ebbe dispensato",
+                    "lui amministrò",
+                    "lei amministrò",
+                    "egli amministrò",
+                    "lui ha amministrato",
+                    "lei ha amministrato",
+                    "egli ha amministrato",
+                    "lui ebbe amministrato",
+                    "lei ebbe amministrato",
+                    "egli ebbe amministrato",
+                    "lui governò",
+                    "lei governò",
+                    "egli governò",
+                    "lui ha governato",
+                    "lei ha governato",
+                    "egli ha governato",
+                    "lui ebbe governato",
+                    "lei ebbe governato",
+                    "egli ebbe governato",
+                    "lui curò",
+                    "lei curò",
+                    "egli curò",
+                    "lui ha curato",
+                    "lei ha curato",
+                    "egli ha curato",
+                    "lui ebbe curato",
+                    "lei ebbe curato",
+                    "egli ebbe curato",
+                    "lui regolò",
+                    "lei regolò",
+                    "egli regolò",
+                    "lui ha regolato",
+                    "lei ha regolato",
+                    "egli ha regolato",
+                    "lui ebbe regolato",
+                    "lei ebbe regolato",
+                    "egli ebbe regolato",
+                    "lui ordinò",
+                    "lei ordinò",
+                    "egli ordinò",
+                    "lui ha ordinato",
+                    "lei ha ordinato",
+                    "egli ha ordinato",
+                    "lui ebbe ordinato",
+                    "lei ebbe ordinato",
+                    "egli ebbe ordinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dispensavĭmus",
+                "traduzioni": [
+                    "noi distribuimmo",
+                    "noi abbiamo distribuito",
+                    "noi avemmo distribuito",
+                    "noi dispensammo",
+                    "noi abbiamo dispensato",
+                    "noi avemmo dispensato",
+                    "noi amministrammo",
+                    "noi abbiamo amministrato",
+                    "noi avemmo amministrato",
+                    "noi governammo",
+                    "noi abbiamo governato",
+                    "noi avemmo governato",
+                    "noi curammo",
+                    "noi abbiamo curato",
+                    "noi avemmo curato",
+                    "noi regolammo",
+                    "noi abbiamo regolato",
+                    "noi avemmo regolato",
+                    "noi ordinammo",
+                    "noi abbiamo ordinato",
+                    "noi avemmo ordinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dispensavistis",
+                "traduzioni": [
+                    "voi distribuiste",
+                    "voi avete distribuito",
+                    "voi aveste distribuito",
+                    "voi dispensaste",
+                    "voi avete dispensato",
+                    "voi aveste dispensato",
+                    "voi amministraste",
+                    "voi avete amministrato",
+                    "voi aveste amministrato",
+                    "voi governaste",
+                    "voi avete governato",
+                    "voi aveste governato",
+                    "voi curaste",
+                    "voi avete curato",
+                    "voi aveste curato",
+                    "voi regolaste",
+                    "voi avete regolato",
+                    "voi aveste regolato",
+                    "voi ordinaste",
+                    "voi avete ordinato",
+                    "voi aveste ordinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dispensavērunt, dispensavēre",
+                "traduzioni": [
+                    "loro distribuirono",
+                    "essi distribuirono",
+                    "loro hanno distribuito",
+                    "essi hanno distribuito",
+                    "loro ebbero distribuito",
+                    "essi ebbero distribuito",
+                    "loro dispensarono",
+                    "essi dispensarono",
+                    "loro hanno dispensato",
+                    "essi hanno dispensato",
+                    "loro ebbero dispensato",
+                    "essi ebbero dispensato",
+                    "loro amministrarono",
+                    "essi amministrarono",
+                    "loro hanno amministrato",
+                    "essi hanno amministrato",
+                    "loro ebbero amministrato",
+                    "essi ebbero amministrato",
+                    "loro governarono",
+                    "essi governarono",
+                    "loro hanno governato",
+                    "essi hanno governato",
+                    "loro ebbero governato",
+                    "essi ebbero governato",
+                    "loro curarono",
+                    "essi curarono",
+                    "loro hanno curato",
+                    "essi hanno curato",
+                    "loro ebbero curato",
+                    "essi ebbero curato",
+                    "loro regolarono",
+                    "essi regolarono",
+                    "loro hanno regolato",
+                    "essi hanno regolato",
+                    "loro ebbero regolato",
+                    "essi ebbero regolato",
+                    "loro ordinarono",
+                    "essi ordinarono",
+                    "loro hanno ordinato",
+                    "essi hanno ordinato",
+                    "loro ebbero ordinato",
+                    "essi ebbero ordinato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dispensavĕram",
+                "traduzioni": [
+                    "io avevo distribuito",
+                    "io avevo dispensato",
+                    "io avevo amministrato",
+                    "io avevo governato",
+                    "io avevo curato",
+                    "io avevo regolato",
+                    "io avevo ordinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dispensavĕras",
+                "traduzioni": [
+                    "tu avevi distribuito",
+                    "tu avevi dispensato",
+                    "tu avevi amministrato",
+                    "tu avevi governato",
+                    "tu avevi curato",
+                    "tu avevi regolato",
+                    "tu avevi ordinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dispensavĕrat",
+                "traduzioni": [
+                    "lui aveva distribuito",
+                    "lei aveva distribuito",
+                    "egli aveva distribuito",
+                    "lui aveva dispensato",
+                    "lei aveva dispensato",
+                    "egli aveva dispensato",
+                    "lui aveva amministrato",
+                    "lei aveva amministrato",
+                    "egli aveva amministrato",
+                    "lui aveva governato",
+                    "lei aveva governato",
+                    "egli aveva governato",
+                    "lui aveva curato",
+                    "lei aveva curato",
+                    "egli aveva curato",
+                    "lui aveva regolato",
+                    "lei aveva regolato",
+                    "egli aveva regolato",
+                    "lui aveva ordinato",
+                    "lei aveva ordinato",
+                    "egli aveva ordinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dispensaverāmus",
+                "traduzioni": [
+                    "noi avevamo distribuito",
+                    "noi avevamo dispensato",
+                    "noi avevamo amministrato",
+                    "noi avevamo governato",
+                    "noi avevamo curato",
+                    "noi avevamo regolato",
+                    "noi avevamo ordinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dispensaverātis",
+                "traduzioni": [
+                    "voi avevate distribuito",
+                    "voi avevate dispensato",
+                    "voi avevate amministrato",
+                    "voi avevate governato",
+                    "voi avevate curato",
+                    "voi avevate regolato",
+                    "voi avevate ordinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dispensavĕrant",
+                "traduzioni": [
+                    "loro avevano distribuito",
+                    "essi avevano distribuito",
+                    "loro avevano dispensato",
+                    "essi avevano dispensato",
+                    "loro avevano amministrato",
+                    "essi avevano amministrato",
+                    "loro avevano governato",
+                    "essi avevano governato",
+                    "loro avevano curato",
+                    "essi avevano curato",
+                    "loro avevano regolato",
+                    "essi avevano regolato",
+                    "loro avevano ordinato",
+                    "essi avevano ordinato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dispensavĕro",
+                "traduzioni": [
+                    "io avrò distribuito",
+                    "io avrò dispensato",
+                    "io avrò amministrato",
+                    "io avrò governato",
+                    "io avrò curato",
+                    "io avrò regolato",
+                    "io avrò ordinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dispensavĕris",
+                "traduzioni": [
+                    "tu avrai distribuito",
+                    "tu avrai dispensato",
+                    "tu avrai amministrato",
+                    "tu avrai governato",
+                    "tu avrai curato",
+                    "tu avrai regolato",
+                    "tu avrai ordinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dispensavĕrit",
+                "traduzioni": [
+                    "lui avrà distribuito",
+                    "lei avrà distribuito",
+                    "egli avrà distribuito",
+                    "lui avrà dispensato",
+                    "lei avrà dispensato",
+                    "egli avrà dispensato",
+                    "lui avrà amministrato",
+                    "lei avrà amministrato",
+                    "egli avrà amministrato",
+                    "lui avrà governato",
+                    "lei avrà governato",
+                    "egli avrà governato",
+                    "lui avrà curato",
+                    "lei avrà curato",
+                    "egli avrà curato",
+                    "lui avrà regolato",
+                    "lei avrà regolato",
+                    "egli avrà regolato",
+                    "lui avrà ordinato",
+                    "lei avrà ordinato",
+                    "egli avrà ordinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dispensaverĭmus",
+                "traduzioni": [
+                    "noi avremo distribuito",
+                    "noi avremo dispensato",
+                    "noi avremo amministrato",
+                    "noi avremo governato",
+                    "noi avremo curato",
+                    "noi avremo regolato",
+                    "noi avremo ordinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dispensaverĭtis",
+                "traduzioni": [
+                    "voi avrete distribuito",
+                    "voi avrete dispensato",
+                    "voi avrete amministrato",
+                    "voi avrete governato",
+                    "voi avrete curato",
+                    "voi avrete regolato",
+                    "voi avrete ordinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dispensavĕrint",
+                "traduzioni": [
+                    "loro avranno distribuito",
+                    "essi avranno distribuito",
+                    "loro avranno dispensato",
+                    "essi avranno dispensato",
+                    "loro avranno amministrato",
+                    "essi avranno amministrato",
+                    "loro avranno governato",
+                    "essi avranno governato",
+                    "loro avranno curato",
+                    "essi avranno curato",
+                    "loro avranno regolato",
+                    "essi avranno regolato",
+                    "loro avranno ordinato",
+                    "essi avranno ordinato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dispensem",
+                "traduzioni": [
+                    "che io distribuisca",
+                    "che io dispensi",
+                    "che io amministri",
+                    "che io governi",
+                    "che io curi",
+                    "che io regoli",
+                    "che io ordini"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dispenses",
+                "traduzioni": [
+                    "che tu distribuisca",
+                    "che tu dispensi",
+                    "che tu amministri",
+                    "che tu governi",
+                    "che tu curi",
+                    "che tu regoli",
+                    "che tu ordini"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dispenset",
+                "traduzioni": [
+                    "che lui distribuisca",
+                    "che lei distribuisca",
+                    "che egli distribuisca",
+                    "che lui dispensi",
+                    "che lei dispensi",
+                    "che egli dispensi",
+                    "che lui amministri",
+                    "che lei amministri",
+                    "che egli amministri",
+                    "che lui governi",
+                    "che lei governi",
+                    "che egli governi",
+                    "che lui curi",
+                    "che lei curi",
+                    "che egli curi",
+                    "che lui regoli",
+                    "che lei regoli",
+                    "che egli regoli",
+                    "che lui ordini",
+                    "che lei ordini",
+                    "che egli ordini"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dispensēmus",
+                "traduzioni": [
+                    "che noi distribuiamo",
+                    "che noi dispensiamo",
+                    "che noi amministriamo",
+                    "che noi governiamo",
+                    "che noi curiamo",
+                    "che noi regoliamo",
+                    "che noi ordiniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dispensētis",
+                "traduzioni": [
+                    "che voi distribuiate",
+                    "che voi dispensiate",
+                    "che voi amministriate",
+                    "che voi governiate",
+                    "che voi curiate",
+                    "che voi regoliate",
+                    "che voi ordiniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dispensent",
+                "traduzioni": [
+                    "che loro distribuiscano",
+                    "che essi distribuiscano",
+                    "che loro dispensino",
+                    "che essi dispensino",
+                    "che loro amministrino",
+                    "che essi amministrino",
+                    "che loro governino",
+                    "che essi governino",
+                    "che loro curino",
+                    "che essi curino",
+                    "che loro regolino",
+                    "che essi regolino",
+                    "che loro ordinino",
+                    "che essi ordinino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dispensārem",
+                "traduzioni": [
+                    "che io distribuissi",
+                    "che io dispensassi",
+                    "che io amministrassi",
+                    "che io governassi",
+                    "che io curassi",
+                    "che io regolassi",
+                    "che io ordinassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dispensāres",
+                "traduzioni": [
+                    "che tu distribuissi",
+                    "che tu dispensassi",
+                    "che tu amministrassi",
+                    "che tu governassi",
+                    "che tu curassi",
+                    "che tu regolassi",
+                    "che tu ordinassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dispensāret",
+                "traduzioni": [
+                    "che lui distribuisse",
+                    "che lei distribuisse",
+                    "che egli distribuisse",
+                    "che lui dispensasse",
+                    "che lei dispensasse",
+                    "che egli dispensasse",
+                    "che lui amministrasse",
+                    "che lei amministrasse",
+                    "che egli amministrasse",
+                    "che lui governasse",
+                    "che lei governasse",
+                    "che egli governasse",
+                    "che lui curasse",
+                    "che lei curasse",
+                    "che egli curasse",
+                    "che lui regolasse",
+                    "che lei regolasse",
+                    "che egli regolasse",
+                    "che lui ordinasse",
+                    "che lei ordinasse",
+                    "che egli ordinasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dispensarēmus",
+                "traduzioni": [
+                    "che noi distribuissimo",
+                    "che noi dispensassimo",
+                    "che noi amministrassimo",
+                    "che noi governassimo",
+                    "che noi curassimo",
+                    "che noi regolassimo",
+                    "che noi ordinassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dispensarētis",
+                "traduzioni": [
+                    "che voi distribuiste",
+                    "che voi dispensaste",
+                    "che voi amministraste",
+                    "che voi governaste",
+                    "che voi curaste",
+                    "che voi regolaste",
+                    "che voi ordinaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dispensārent",
+                "traduzioni": [
+                    "che loro distribuissero",
+                    "che essi distribuissero",
+                    "che loro dispensassero",
+                    "che essi dispensassero",
+                    "che loro amministrassero",
+                    "che essi amministrassero",
+                    "che loro governassero",
+                    "che essi governassero",
+                    "che loro curassero",
+                    "che essi curassero",
+                    "che loro regolassero",
+                    "che essi regolassero",
+                    "che loro ordinassero",
+                    "che essi ordinassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dispensavĕrim",
+                "traduzioni": [
+                    "che io abbia distribuito",
+                    "che io abbia dispensato",
+                    "che io abbia amministrato",
+                    "che io abbia governato",
+                    "che io abbia curato",
+                    "che io abbia regolato",
+                    "che io abbia ordinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dispensavĕris",
+                "traduzioni": [
+                    "che tu abbia distribuito",
+                    "che tu abbia dispensato",
+                    "che tu abbia amministrato",
+                    "che tu abbia governato",
+                    "che tu abbia curato",
+                    "che tu abbia regolato",
+                    "che tu abbia ordinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dispensavĕrit",
+                "traduzioni": [
+                    "che lui abbia distribuito",
+                    "che lei abbia distribuito",
+                    "che egli abbia distribuito",
+                    "che lui abbia dispensato",
+                    "che lei abbia dispensato",
+                    "che egli abbia dispensato",
+                    "che lui abbia amministrato",
+                    "che lei abbia amministrato",
+                    "che egli abbia amministrato",
+                    "che lui abbia governato",
+                    "che lei abbia governato",
+                    "che egli abbia governato",
+                    "che lui abbia curato",
+                    "che lei abbia curato",
+                    "che egli abbia curato",
+                    "che lui abbia regolato",
+                    "che lei abbia regolato",
+                    "che egli abbia regolato",
+                    "che lui abbia ordinato",
+                    "che lei abbia ordinato",
+                    "che egli abbia ordinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dispensaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo distribuito",
+                    "che noi abbiamo dispensato",
+                    "che noi abbiamo amministrato",
+                    "che noi abbiamo governato",
+                    "che noi abbiamo curato",
+                    "che noi abbiamo regolato",
+                    "che noi abbiamo ordinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dispensaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate distribuito",
+                    "che voi abbiate dispensato",
+                    "che voi abbiate amministrato",
+                    "che voi abbiate governato",
+                    "che voi abbiate curato",
+                    "che voi abbiate regolato",
+                    "che voi abbiate ordinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dispensavĕrint",
+                "traduzioni": [
+                    "che loro abbiano distribuito",
+                    "che essi abbiano distribuito",
+                    "che loro abbiano dispensato",
+                    "che essi abbiano dispensato",
+                    "che loro abbiano amministrato",
+                    "che essi abbiano amministrato",
+                    "che loro abbiano governato",
+                    "che essi abbiano governato",
+                    "che loro abbiano curato",
+                    "che essi abbiano curato",
+                    "che loro abbiano regolato",
+                    "che essi abbiano regolato",
+                    "che loro abbiano ordinato",
+                    "che essi abbiano ordinato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dispensavissem",
+                "traduzioni": [
+                    "che io avessi distribuito",
+                    "che io avessi dispensato",
+                    "che io avessi amministrato",
+                    "che io avessi governato",
+                    "che io avessi curato",
+                    "che io avessi regolato",
+                    "che io avessi ordinato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dispensavisses",
+                "traduzioni": [
+                    "che tu avessi distribuito",
+                    "che tu avessi dispensato",
+                    "che tu avessi amministrato",
+                    "che tu avessi governato",
+                    "che tu avessi curato",
+                    "che tu avessi regolato",
+                    "che tu avessi ordinato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dispensavisset",
+                "traduzioni": [
+                    "che lui avesse distribuito",
+                    "che lei avesse distribuito",
+                    "che egli avesse distribuito",
+                    "che lui avesse dispensato",
+                    "che lei avesse dispensato",
+                    "che egli avesse dispensato",
+                    "che lui avesse amministrato",
+                    "che lei avesse amministrato",
+                    "che egli avesse amministrato",
+                    "che lui avesse governato",
+                    "che lei avesse governato",
+                    "che egli avesse governato",
+                    "che lui avesse curato",
+                    "che lei avesse curato",
+                    "che egli avesse curato",
+                    "che lui avesse regolato",
+                    "che lei avesse regolato",
+                    "che egli avesse regolato",
+                    "che lui avesse ordinato",
+                    "che lei avesse ordinato",
+                    "che egli avesse ordinato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dispensavissēmus",
+                "traduzioni": [
+                    "che noi avessimo distribuito",
+                    "che noi avessimo dispensato",
+                    "che noi avessimo amministrato",
+                    "che noi avessimo governato",
+                    "che noi avessimo curato",
+                    "che noi avessimo regolato",
+                    "che noi avessimo ordinato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dispensavissētis",
+                "traduzioni": [
+                    "che voi aveste distribuito",
+                    "che voi aveste dispensato",
+                    "che voi aveste amministrato",
+                    "che voi aveste governato",
+                    "che voi aveste curato",
+                    "che voi aveste regolato",
+                    "che voi aveste ordinato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dispensavissent",
+                "traduzioni": [
+                    "che loro avessero distribuito",
+                    "che essi avessero distribuito",
+                    "che loro avessero dispensato",
+                    "che essi avessero dispensato",
+                    "che loro avessero amministrato",
+                    "che essi avessero amministrato",
+                    "che loro avessero governato",
+                    "che essi avessero governato",
+                    "che loro avessero curato",
+                    "che essi avessero curato",
+                    "che loro avessero regolato",
+                    "che essi avessero regolato",
+                    "che loro avessero ordinato",
+                    "che essi avessero ordinato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,942 @@
+{
+    "identifier": "TESTOR",
+    "conuigazione": "1",
+    "translation": [
+        "testimoniare",
+        "attestare",
+        "dichiarare",
+        "provare",
+        "proclamare"
+    ],
+    "valid_translations": [
+        "testimoniare",
+        "attestare",
+        "dichiarare",
+        "provare",
+        "proclamare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "testor",
+                "traduzioni": [
+                    "io testimonio",
+                    "io attesto",
+                    "io dichiaro",
+                    "io provo",
+                    "io proclamo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "testāris, testāre",
+                "traduzioni": [
+                    "tu testimoni",
+                    "tu attesti",
+                    "tu dichiari",
+                    "tu provi",
+                    "tu proclami"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "testātur",
+                "traduzioni": [
+                    "lui testimonia",
+                    "lei testimonia",
+                    "egli testimonia",
+                    "lui attesta",
+                    "lei attesta",
+                    "egli attesta",
+                    "lui dichiara",
+                    "lei dichiara",
+                    "egli dichiara",
+                    "lui prova",
+                    "lei prova",
+                    "egli prova",
+                    "lui proclama",
+                    "lei proclama",
+                    "egli proclama"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "testāmur",
+                "traduzioni": [
+                    "noi testimoniamo",
+                    "noi attestiamo",
+                    "noi dichiariamo",
+                    "noi proviamo",
+                    "noi proclamiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "testamĭni",
+                "traduzioni": [
+                    "voi testimoniate",
+                    "voi attestate",
+                    "voi dichiarate",
+                    "voi provate",
+                    "voi proclamate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "testantur",
+                "traduzioni": [
+                    "loro testimoniano",
+                    "essi testimoniano",
+                    "loro attestano",
+                    "essi attestano",
+                    "loro dichiarano",
+                    "essi dichiarano",
+                    "loro provano",
+                    "essi provano",
+                    "loro proclamano",
+                    "essi proclamano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "testābar",
+                "traduzioni": [
+                    "io testimoniavo",
+                    "io attestavo",
+                    "io dichiaravo",
+                    "io provavo",
+                    "io proclamavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "testabāris, testabāre",
+                "traduzioni": [
+                    "tu testimoniavi",
+                    "tu attestavi",
+                    "tu dichiaravi",
+                    "tu provavi",
+                    "tu proclamavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "testabātur",
+                "traduzioni": [
+                    "lui testimoniava",
+                    "lei testimoniava",
+                    "egli testimoniava",
+                    "lui attestava",
+                    "lei attestava",
+                    "egli attestava",
+                    "lui dichiarava",
+                    "lei dichiarava",
+                    "egli dichiarava",
+                    "lui provava",
+                    "lei provava",
+                    "egli provava",
+                    "lui proclamava",
+                    "lei proclamava",
+                    "egli proclamava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "testabāmur",
+                "traduzioni": [
+                    "noi testimoniavamo",
+                    "noi attestavamo",
+                    "noi dichiaravamo",
+                    "noi provavamo",
+                    "noi proclamavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "testabamĭni",
+                "traduzioni": [
+                    "voi testimoniavate",
+                    "voi attestavate",
+                    "voi dichiaravate",
+                    "voi provavate",
+                    "voi proclamavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "testabantur",
+                "traduzioni": [
+                    "loro testimoniavano",
+                    "essi testimoniavano",
+                    "loro attestavano",
+                    "essi attestavano",
+                    "loro dichiaravano",
+                    "essi dichiaravano",
+                    "loro provavano",
+                    "essi provavano",
+                    "loro proclamavano",
+                    "essi proclamavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "testābor",
+                "traduzioni": [
+                    "io testimonierò",
+                    "io attesterò",
+                    "io dichiarerò",
+                    "io proverò",
+                    "io proclamerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "testabĕris, testabĕre",
+                "traduzioni": [
+                    "tu testimonierai",
+                    "tu attesterai",
+                    "tu dichiarerai",
+                    "tu proverai",
+                    "tu proclamerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "testabĭtur",
+                "traduzioni": [
+                    "lui testimonierà",
+                    "lei testimonierà",
+                    "egli testimonierà",
+                    "lui attesterà",
+                    "lei attesterà",
+                    "egli attesterà",
+                    "lui dichiarerà",
+                    "lei dichiarerà",
+                    "egli dichiarerà",
+                    "lui proverà",
+                    "lei proverà",
+                    "egli proverà",
+                    "lui proclamerà",
+                    "lei proclamerà",
+                    "egli proclamerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "testabĭmur",
+                "traduzioni": [
+                    "noi testimonieremo",
+                    "noi attesteremo",
+                    "noi dichiareremo",
+                    "noi proveremo",
+                    "noi proclameremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "testabimĭni",
+                "traduzioni": [
+                    "voi testimonierete",
+                    "voi attesterete",
+                    "voi dichiarerete",
+                    "voi proverete",
+                    "voi proclamerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "testabuntur",
+                "traduzioni": [
+                    "loro testimonieranno",
+                    "essi testimonieranno",
+                    "loro attesteranno",
+                    "essi attesteranno",
+                    "loro dichiareranno",
+                    "essi dichiareranno",
+                    "loro proveranno",
+                    "essi proveranno",
+                    "loro proclameranno",
+                    "essi proclameranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "testatus, –a, –um  sum",
+                "traduzioni": [
+                    "io testimoniai",
+                    "io ho testimoniato",
+                    "io ebbi testimoniato",
+                    "io attestai",
+                    "io ho attestato",
+                    "io ebbi attestato",
+                    "io dichiarai",
+                    "io ho dichiarato",
+                    "io ebbi dichiarato",
+                    "io provai",
+                    "io ho provato",
+                    "io ebbi provato",
+                    "io proclamai",
+                    "io ho proclamato",
+                    "io ebbi proclamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "testatus, –a, –um  es",
+                "traduzioni": [
+                    "tu testimoniasti",
+                    "tu hai testimoniato",
+                    "tu avesti testimoniato",
+                    "tu attestasti",
+                    "tu hai attestato",
+                    "tu avesti attestato",
+                    "tu dichiarasti",
+                    "tu hai dichiarato",
+                    "tu avesti dichiarato",
+                    "tu provasti",
+                    "tu hai provato",
+                    "tu avesti provato",
+                    "tu proclamasti",
+                    "tu hai proclamato",
+                    "tu avesti proclamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "testatus, –a, –um  est",
+                "traduzioni": [
+                    "lui testimoniò",
+                    "lei testimoniò",
+                    "egli testimoniò",
+                    "lui ha testimoniato",
+                    "lei ha testimoniato",
+                    "egli ha testimoniato",
+                    "lui ebbe testimoniato",
+                    "lei ebbe testimoniato",
+                    "egli ebbe testimoniato",
+                    "lui attestò",
+                    "lei attestò",
+                    "egli attestò",
+                    "lui ha attestato",
+                    "lei ha attestato",
+                    "egli ha attestato",
+                    "lui ebbe attestato",
+                    "lei ebbe attestato",
+                    "egli ebbe attestato",
+                    "lui dichiarò",
+                    "lei dichiarò",
+                    "egli dichiarò",
+                    "lui ha dichiarato",
+                    "lei ha dichiarato",
+                    "egli ha dichiarato",
+                    "lui ebbe dichiarato",
+                    "lei ebbe dichiarato",
+                    "egli ebbe dichiarato",
+                    "lui provò",
+                    "lei provò",
+                    "egli provò",
+                    "lui ha provato",
+                    "lei ha provato",
+                    "egli ha provato",
+                    "lui ebbe provato",
+                    "lei ebbe provato",
+                    "egli ebbe provato",
+                    "lui proclamò",
+                    "lei proclamò",
+                    "egli proclamò",
+                    "lui ha proclamato",
+                    "lei ha proclamato",
+                    "egli ha proclamato",
+                    "lui ebbe proclamato",
+                    "lei ebbe proclamato",
+                    "egli ebbe proclamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "testati, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi testimoniammo",
+                    "noi abbiamo testimoniato",
+                    "noi avemmo testimoniato",
+                    "noi attestammo",
+                    "noi abbiamo attestato",
+                    "noi avemmo attestato",
+                    "noi dichiarammo",
+                    "noi abbiamo dichiarato",
+                    "noi avemmo dichiarato",
+                    "noi provammo",
+                    "noi abbiamo provato",
+                    "noi avemmo provato",
+                    "noi proclamammo",
+                    "noi abbiamo proclamato",
+                    "noi avemmo proclamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "testati, –ae, –a  estis",
+                "traduzioni": [
+                    "voi testimoniaste",
+                    "voi avete testimoniato",
+                    "voi aveste testimoniato",
+                    "voi attestaste",
+                    "voi avete attestato",
+                    "voi aveste attestato",
+                    "voi dichiaraste",
+                    "voi avete dichiarato",
+                    "voi aveste dichiarato",
+                    "voi provaste",
+                    "voi avete provato",
+                    "voi aveste provato",
+                    "voi proclamaste",
+                    "voi avete proclamato",
+                    "voi aveste proclamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "testati, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro testimoniarono",
+                    "essi testimoniarono",
+                    "loro hanno testimoniato",
+                    "essi hanno testimoniato",
+                    "loro ebbero testimoniato",
+                    "essi ebbero testimoniato",
+                    "loro attestarono",
+                    "essi attestarono",
+                    "loro hanno attestato",
+                    "essi hanno attestato",
+                    "loro ebbero attestato",
+                    "essi ebbero attestato",
+                    "loro dichiararono",
+                    "essi dichiararono",
+                    "loro hanno dichiarato",
+                    "essi hanno dichiarato",
+                    "loro ebbero dichiarato",
+                    "essi ebbero dichiarato",
+                    "loro provarono",
+                    "essi provarono",
+                    "loro hanno provato",
+                    "essi hanno provato",
+                    "loro ebbero provato",
+                    "essi ebbero provato",
+                    "loro proclamarono",
+                    "essi proclamarono",
+                    "loro hanno proclamato",
+                    "essi hanno proclamato",
+                    "loro ebbero proclamato",
+                    "essi ebbero proclamato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "testatus, –a, –um  eram",
+                "traduzioni": [
+                    "io avevo testimoniato",
+                    "io avevo attestato",
+                    "io avevo dichiarato",
+                    "io avevo provato",
+                    "io avevo proclamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "testatus, –a, –um  eras",
+                "traduzioni": [
+                    "tu avevi testimoniato",
+                    "tu avevi attestato",
+                    "tu avevi dichiarato",
+                    "tu avevi provato",
+                    "tu avevi proclamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "testatus, –a, –um  erat",
+                "traduzioni": [
+                    "lui aveva testimoniato",
+                    "lei aveva testimoniato",
+                    "egli aveva testimoniato",
+                    "lui aveva attestato",
+                    "lei aveva attestato",
+                    "egli aveva attestato",
+                    "lui aveva dichiarato",
+                    "lei aveva dichiarato",
+                    "egli aveva dichiarato",
+                    "lui aveva provato",
+                    "lei aveva provato",
+                    "egli aveva provato",
+                    "lui aveva proclamato",
+                    "lei aveva proclamato",
+                    "egli aveva proclamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "testati, –ae, –a  eramus",
+                "traduzioni": [
+                    "noi avevamo testimoniato",
+                    "noi avevamo attestato",
+                    "noi avevamo dichiarato",
+                    "noi avevamo provato",
+                    "noi avevamo proclamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "testati, –ae, –a  eratis",
+                "traduzioni": [
+                    "voi avevate testimoniato",
+                    "voi avevate attestato",
+                    "voi avevate dichiarato",
+                    "voi avevate provato",
+                    "voi avevate proclamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "testati, –ae, –a erant",
+                "traduzioni": [
+                    "loro avevano testimoniato",
+                    "essi avevano testimoniato",
+                    "loro avevano attestato",
+                    "essi avevano attestato",
+                    "loro avevano dichiarato",
+                    "essi avevano dichiarato",
+                    "loro avevano provato",
+                    "essi avevano provato",
+                    "loro avevano proclamato",
+                    "essi avevano proclamato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "testatus, –a, –um  ero",
+                "traduzioni": [
+                    "io avrò testimoniato",
+                    "io avrò attestato",
+                    "io avrò dichiarato",
+                    "io avrò provato",
+                    "io avrò proclamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "testatus, –a, –um  eris",
+                "traduzioni": [
+                    "tu avrai testimoniato",
+                    "tu avrai attestato",
+                    "tu avrai dichiarato",
+                    "tu avrai provato",
+                    "tu avrai proclamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "testatus, –a, –um  erit",
+                "traduzioni": [
+                    "lui avrà testimoniato",
+                    "lei avrà testimoniato",
+                    "egli avrà testimoniato",
+                    "lui avrà attestato",
+                    "lei avrà attestato",
+                    "egli avrà attestato",
+                    "lui avrà dichiarato",
+                    "lei avrà dichiarato",
+                    "egli avrà dichiarato",
+                    "lui avrà provato",
+                    "lei avrà provato",
+                    "egli avrà provato",
+                    "lui avrà proclamato",
+                    "lei avrà proclamato",
+                    "egli avrà proclamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "testati, –ae, –a  erimus",
+                "traduzioni": [
+                    "noi avremo testimoniato",
+                    "noi avremo attestato",
+                    "noi avremo dichiarato",
+                    "noi avremo provato",
+                    "noi avremo proclamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "testati, –ae, –a  eritis",
+                "traduzioni": [
+                    "voi avrete testimoniato",
+                    "voi avrete attestato",
+                    "voi avrete dichiarato",
+                    "voi avrete provato",
+                    "voi avrete proclamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "testati, –ae, –a  erunt",
+                "traduzioni": [
+                    "loro avranno testimoniato",
+                    "essi avranno testimoniato",
+                    "loro avranno attestato",
+                    "essi avranno attestato",
+                    "loro avranno dichiarato",
+                    "essi avranno dichiarato",
+                    "loro avranno provato",
+                    "essi avranno provato",
+                    "loro avranno proclamato",
+                    "essi avranno proclamato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "tester",
+                "traduzioni": [
+                    "che io testimoni",
+                    "che io attesti",
+                    "che io dichiari",
+                    "che io provi",
+                    "che io proclami"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "testēris, testēre",
+                "traduzioni": [
+                    "che tu testimoni",
+                    "che tu attesti",
+                    "che tu dichiari",
+                    "che tu provi",
+                    "che tu proclami"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "testētur",
+                "traduzioni": [
+                    "che lui testimoni",
+                    "che lei testimoni",
+                    "che egli testimoni",
+                    "che lui attesti",
+                    "che lei attesti",
+                    "che egli attesti",
+                    "che lui dichiari",
+                    "che lei dichiari",
+                    "che egli dichiari",
+                    "che lui provi",
+                    "che lei provi",
+                    "che egli provi",
+                    "che lui proclami",
+                    "che lei proclami",
+                    "che egli proclami"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "testēmur",
+                "traduzioni": [
+                    "che noi testimoniamo",
+                    "che noi attestiamo",
+                    "che noi dichiariamo",
+                    "che noi proviamo",
+                    "che noi proclamiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "testemĭni",
+                "traduzioni": [
+                    "che voi testimoniate",
+                    "che voi attestiate",
+                    "che voi dichiariate",
+                    "che voi proviate",
+                    "che voi proclamiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "testentur",
+                "traduzioni": [
+                    "che loro testimonino",
+                    "che essi testimonino",
+                    "che loro attestino",
+                    "che essi attestino",
+                    "che loro dichiarino",
+                    "che essi dichiarino",
+                    "che loro provino",
+                    "che essi provino",
+                    "che loro proclamino",
+                    "che essi proclamino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "testārer",
+                "traduzioni": [
+                    "che io testimoniassi",
+                    "che io attestassi",
+                    "che io dichiarassi",
+                    "che io provassi",
+                    "che io proclamassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "testarēris, testarēre",
+                "traduzioni": [
+                    "che tu testimoniassi",
+                    "che tu attestassi",
+                    "che tu dichiarassi",
+                    "che tu provassi",
+                    "che tu proclamassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "testarētur",
+                "traduzioni": [
+                    "che lui testimoniasse",
+                    "che lei testimoniasse",
+                    "che egli testimoniasse",
+                    "che lui attestasse",
+                    "che lei attestasse",
+                    "che egli attestasse",
+                    "che lui dichiarasse",
+                    "che lei dichiarasse",
+                    "che egli dichiarasse",
+                    "che lui provasse",
+                    "che lei provasse",
+                    "che egli provasse",
+                    "che lui proclamasse",
+                    "che lei proclamasse",
+                    "che egli proclamasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "testarēmur",
+                "traduzioni": [
+                    "che noi testimoniassimo",
+                    "che noi attestassimo",
+                    "che noi dichiarassimo",
+                    "che noi provassimo",
+                    "che noi proclamassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "testaremĭni",
+                "traduzioni": [
+                    "che voi testimoniaste",
+                    "che voi attestaste",
+                    "che voi dichiaraste",
+                    "che voi provaste",
+                    "che voi proclamaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "testarentur",
+                "traduzioni": [
+                    "che loro testimoniassero",
+                    "che essi testimoniassero",
+                    "che loro attestassero",
+                    "che essi attestassero",
+                    "che loro dichiarassero",
+                    "che essi dichiarassero",
+                    "che loro provassero",
+                    "che essi provassero",
+                    "che loro proclamassero",
+                    "che essi proclamassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "testatus, –a, –um  sim",
+                "traduzioni": [
+                    "che io abbia testimoniato",
+                    "che io abbia attestato",
+                    "che io abbia dichiarato",
+                    "che io abbia provato",
+                    "che io abbia proclamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "testatus, –a, –um  sis",
+                "traduzioni": [
+                    "che tu abbia testimoniato",
+                    "che tu abbia attestato",
+                    "che tu abbia dichiarato",
+                    "che tu abbia provato",
+                    "che tu abbia proclamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "testatus, –a, –um  sit",
+                "traduzioni": [
+                    "che lui abbia testimoniato",
+                    "che lei abbia testimoniato",
+                    "che egli abbia testimoniato",
+                    "che lui abbia attestato",
+                    "che lei abbia attestato",
+                    "che egli abbia attestato",
+                    "che lui abbia dichiarato",
+                    "che lei abbia dichiarato",
+                    "che egli abbia dichiarato",
+                    "che lui abbia provato",
+                    "che lei abbia provato",
+                    "che egli abbia provato",
+                    "che lui abbia proclamato",
+                    "che lei abbia proclamato",
+                    "che egli abbia proclamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "testati, –ae, –a  simus",
+                "traduzioni": [
+                    "che noi abbiamo testimoniato",
+                    "che noi abbiamo attestato",
+                    "che noi abbiamo dichiarato",
+                    "che noi abbiamo provato",
+                    "che noi abbiamo proclamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "testati, –ae, –a  sitis",
+                "traduzioni": [
+                    "che voi abbiate testimoniato",
+                    "che voi abbiate attestato",
+                    "che voi abbiate dichiarato",
+                    "che voi abbiate provato",
+                    "che voi abbiate proclamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "testati, –ae, –a  sint",
+                "traduzioni": [
+                    "che loro abbiano testimoniato",
+                    "che essi abbiano testimoniato",
+                    "che loro abbiano attestato",
+                    "che essi abbiano attestato",
+                    "che loro abbiano dichiarato",
+                    "che essi abbiano dichiarato",
+                    "che loro abbiano provato",
+                    "che essi abbiano provato",
+                    "che loro abbiano proclamato",
+                    "che essi abbiano proclamato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "testatus, –a, –um  essem",
+                "traduzioni": [
+                    "che io avessi testimoniato",
+                    "che io avessi attestato",
+                    "che io avessi dichiarato",
+                    "che io avessi provato",
+                    "che io avessi proclamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "testatus, –a, –um  esses",
+                "traduzioni": [
+                    "che tu avessi testimoniato",
+                    "che tu avessi attestato",
+                    "che tu avessi dichiarato",
+                    "che tu avessi provato",
+                    "che tu avessi proclamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "testatus, –a, –um  esset",
+                "traduzioni": [
+                    "che lui avesse testimoniato",
+                    "che lei avesse testimoniato",
+                    "che egli avesse testimoniato",
+                    "che lui avesse attestato",
+                    "che lei avesse attestato",
+                    "che egli avesse attestato",
+                    "che lui avesse dichiarato",
+                    "che lei avesse dichiarato",
+                    "che egli avesse dichiarato",
+                    "che lui avesse provato",
+                    "che lei avesse provato",
+                    "che egli avesse provato",
+                    "che lui avesse proclamato",
+                    "che lei avesse proclamato",
+                    "che egli avesse proclamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "testati, –ae, –a  essemus",
+                "traduzioni": [
+                    "che noi avessimo testimoniato",
+                    "che noi avessimo attestato",
+                    "che noi avessimo dichiarato",
+                    "che noi avessimo provato",
+                    "che noi avessimo proclamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "testati, –ae, –a  essetis",
+                "traduzioni": [
+                    "che voi aveste testimoniato",
+                    "che voi aveste attestato",
+                    "che voi aveste dichiarato",
+                    "che voi aveste provato",
+                    "che voi aveste proclamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "testati, –ae, –a  essent",
+                "traduzioni": [
+                    "che loro avessero testimoniato",
+                    "che essi avessero testimoniato",
+                    "che loro avessero attestato",
+                    "che essi avessero attestato",
+                    "che loro avessero dichiarato",
+                    "che essi avessero dichiarato",
+                    "che loro avessero provato",
+                    "che essi avessero provato",
+                    "che loro avessero proclamato",
+                    "che essi avessero proclamato"
+                ]
+            }
+        ]
+    }
+}

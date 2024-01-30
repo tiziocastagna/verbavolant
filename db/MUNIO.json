@@ -1,0 +1,1198 @@
+{
+    "identifier": "MUNIO",
+    "conuigazione": "4",
+    "translation": [
+        "edificare",
+        "fortificare",
+        "rinforzare",
+        "proteggere",
+        "preservare",
+        "difendere",
+        "aprire"
+    ],
+    "valid_translations": [
+        "edificare",
+        "fortificare",
+        "rinforzare",
+        "proteggere",
+        "preservare",
+        "difendere",
+        "aprire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "mūnĭo",
+                "traduzioni": [
+                    "io edifico",
+                    "io fortifico",
+                    "io rinforzo",
+                    "io proteggo",
+                    "io preservo",
+                    "io difendo",
+                    "io apro"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "mūnis",
+                "traduzioni": [
+                    "tu edifichi",
+                    "tu fortifichi",
+                    "tu rinforzi",
+                    "tu proteggi",
+                    "tu preservi",
+                    "tu difendi",
+                    "tu apri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "mūnit",
+                "traduzioni": [
+                    "lui edifica",
+                    "lei edifica",
+                    "egli edifica",
+                    "lui fortifica",
+                    "lei fortifica",
+                    "egli fortifica",
+                    "lui rinforza",
+                    "lei rinforza",
+                    "egli rinforza",
+                    "lui protegge",
+                    "lei protegge",
+                    "egli protegge",
+                    "lui preserva",
+                    "lei preserva",
+                    "egli preserva",
+                    "lui difende",
+                    "lei difende",
+                    "egli difende",
+                    "lui apre",
+                    "lei apre",
+                    "egli apre"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mūnīmus",
+                "traduzioni": [
+                    "noi edifichiamo",
+                    "noi fortifichiamo",
+                    "noi rinforziamo",
+                    "noi proteggiamo",
+                    "noi preserviamo",
+                    "noi difendiamo",
+                    "noi apriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mūnītis",
+                "traduzioni": [
+                    "voi edificate",
+                    "voi fortificate",
+                    "voi rinforzate",
+                    "voi proteggete",
+                    "voi preservate",
+                    "voi difendete",
+                    "voi aprite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mūnĭunt",
+                "traduzioni": [
+                    "loro edificano",
+                    "essi edificano",
+                    "loro fortificano",
+                    "essi fortificano",
+                    "loro rinforzano",
+                    "essi rinforzano",
+                    "loro proteggono",
+                    "essi proteggono",
+                    "loro preservano",
+                    "essi preservano",
+                    "loro difendono",
+                    "essi difendono",
+                    "loro aprono",
+                    "essi aprono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "mūniēbam",
+                "traduzioni": [
+                    "io edificavo",
+                    "io fortificavo",
+                    "io rinforzavo",
+                    "io proteggevo",
+                    "io preservavo",
+                    "io difendevo",
+                    "io aprivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "mūniēbas",
+                "traduzioni": [
+                    "tu edificavi",
+                    "tu fortificavi",
+                    "tu rinforzavi",
+                    "tu proteggevi",
+                    "tu preservavi",
+                    "tu difendevi",
+                    "tu aprivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "mūniēbat",
+                "traduzioni": [
+                    "lui edificava",
+                    "lei edificava",
+                    "egli edificava",
+                    "lui fortificava",
+                    "lei fortificava",
+                    "egli fortificava",
+                    "lui rinforzava",
+                    "lei rinforzava",
+                    "egli rinforzava",
+                    "lui proteggeva",
+                    "lei proteggeva",
+                    "egli proteggeva",
+                    "lui preservava",
+                    "lei preservava",
+                    "egli preservava",
+                    "lui difendeva",
+                    "lei difendeva",
+                    "egli difendeva",
+                    "lui apriva",
+                    "lei apriva",
+                    "egli apriva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mūniebāmus",
+                "traduzioni": [
+                    "noi edificavamo",
+                    "noi fortificavamo",
+                    "noi rinforzavamo",
+                    "noi proteggevamo",
+                    "noi preservavamo",
+                    "noi difendevamo",
+                    "noi aprivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mūniebātis",
+                "traduzioni": [
+                    "voi edificavate",
+                    "voi fortificavate",
+                    "voi rinforzavate",
+                    "voi proteggevate",
+                    "voi preservavate",
+                    "voi difendevate",
+                    "voi aprivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mūniēbant",
+                "traduzioni": [
+                    "loro edificavano",
+                    "essi edificavano",
+                    "loro fortificavano",
+                    "essi fortificavano",
+                    "loro rinforzavano",
+                    "essi rinforzavano",
+                    "loro proteggevano",
+                    "essi proteggevano",
+                    "loro preservavano",
+                    "essi preservavano",
+                    "loro difendevano",
+                    "essi difendevano",
+                    "loro aprivano",
+                    "essi aprivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "mūnĭam",
+                "traduzioni": [
+                    "io edificherò",
+                    "io fortificherò",
+                    "io rinforzerò",
+                    "io proteggerò",
+                    "io preserverò",
+                    "io difenderò",
+                    "io aprirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "mūnĭes",
+                "traduzioni": [
+                    "tu edificherai",
+                    "tu fortificherai",
+                    "tu rinforzerai",
+                    "tu proteggerai",
+                    "tu preserverai",
+                    "tu difenderai",
+                    "tu aprirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "mūnĭet",
+                "traduzioni": [
+                    "lui edificherà",
+                    "lei edificherà",
+                    "egli edificherà",
+                    "lui fortificherà",
+                    "lei fortificherà",
+                    "egli fortificherà",
+                    "lui rinforzerà",
+                    "lei rinforzerà",
+                    "egli rinforzerà",
+                    "lui proteggerà",
+                    "lei proteggerà",
+                    "egli proteggerà",
+                    "lui preserverà",
+                    "lei preserverà",
+                    "egli preserverà",
+                    "lui difenderà",
+                    "lei difenderà",
+                    "egli difenderà",
+                    "lui aprirà",
+                    "lei aprirà",
+                    "egli aprirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mūniēmus",
+                "traduzioni": [
+                    "noi edificheremo",
+                    "noi fortificheremo",
+                    "noi rinforzeremo",
+                    "noi proteggeremo",
+                    "noi preserveremo",
+                    "noi difenderemo",
+                    "noi apriremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mūniētis",
+                "traduzioni": [
+                    "voi edificherete",
+                    "voi fortificherete",
+                    "voi rinforzerete",
+                    "voi proteggerete",
+                    "voi preserverete",
+                    "voi difenderete",
+                    "voi aprirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mūnĭent",
+                "traduzioni": [
+                    "loro edificheranno",
+                    "essi edificheranno",
+                    "loro fortificheranno",
+                    "essi fortificheranno",
+                    "loro rinforzeranno",
+                    "essi rinforzeranno",
+                    "loro proteggeranno",
+                    "essi proteggeranno",
+                    "loro preserveranno",
+                    "essi preserveranno",
+                    "loro difenderanno",
+                    "essi difenderanno",
+                    "loro apriranno",
+                    "essi apriranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "munii o munivi",
+                "traduzioni": [
+                    "io edificai",
+                    "io ho edificato",
+                    "io ebbi edificato",
+                    "io fortificai",
+                    "io ho fortificato",
+                    "io ebbi fortificato",
+                    "io rinforzai",
+                    "io sono rinforzato",
+                    "io sono rinforzata",
+                    "io fui rinforzato",
+                    "io fui rinforzata",
+                    "io protessi",
+                    "io ho protetto",
+                    "io ebbi protetto",
+                    "io preservai",
+                    "io ho preservato",
+                    "io ebbi preservato",
+                    "io difesi",
+                    "io ho difeso",
+                    "io ebbi difeso",
+                    "io aprii",
+                    "io apersi",
+                    "io ho aperto",
+                    "io ebbi aperto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "muniisti o munivisti",
+                "traduzioni": [
+                    "tu edificasti",
+                    "tu hai edificato",
+                    "tu avesti edificato",
+                    "tu fortificasti",
+                    "tu hai fortificato",
+                    "tu avesti fortificato",
+                    "tu rinforzasti",
+                    "tu sei rinforzato",
+                    "tu sei rinforzata",
+                    "tu fosti rinforzato",
+                    "tu fosti rinforzata",
+                    "tu proteggesti",
+                    "tu hai protetto",
+                    "tu avesti protetto",
+                    "tu preservasti",
+                    "tu hai preservato",
+                    "tu avesti preservato",
+                    "tu difendesti",
+                    "tu hai difeso",
+                    "tu avesti difeso",
+                    "tu apristi",
+                    "tu hai aperto",
+                    "tu avesti aperto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "muniit o munivit",
+                "traduzioni": [
+                    "lui edificò",
+                    "lei edificò",
+                    "egli edificò",
+                    "lui ha edificato",
+                    "lei ha edificato",
+                    "egli ha edificato",
+                    "lui ebbe edificato",
+                    "lei ebbe edificato",
+                    "egli ebbe edificato",
+                    "lui fortificò",
+                    "lei fortificò",
+                    "egli fortificò",
+                    "lui ha fortificato",
+                    "lei ha fortificato",
+                    "egli ha fortificato",
+                    "lui ebbe fortificato",
+                    "lei ebbe fortificato",
+                    "egli ebbe fortificato",
+                    "lui rinforzò",
+                    "lei rinforzò",
+                    "egli rinforzò",
+                    "lui è rinforzato",
+                    "lei è rinforzata",
+                    "egli è rinforzato",
+                    "lui fu rinforzato",
+                    "lei fu rinforzata",
+                    "egli fu rinforzato",
+                    "lui protesse",
+                    "lei protesse",
+                    "egli protesse",
+                    "lui ha protetto",
+                    "lei ha protetto",
+                    "egli ha protetto",
+                    "lui ebbe protetto",
+                    "lei ebbe protetto",
+                    "egli ebbe protetto",
+                    "lui preservò",
+                    "lei preservò",
+                    "egli preservò",
+                    "lui ha preservato",
+                    "lei ha preservato",
+                    "egli ha preservato",
+                    "lui ebbe preservato",
+                    "lei ebbe preservato",
+                    "egli ebbe preservato",
+                    "lui difese",
+                    "lei difese",
+                    "egli difese",
+                    "lui ha difeso",
+                    "lei ha difeso",
+                    "egli ha difeso",
+                    "lui ebbe difeso",
+                    "lei ebbe difeso",
+                    "egli ebbe difeso",
+                    "lui aprì",
+                    "lei aprì",
+                    "egli aprì",
+                    "lui aperse",
+                    "lei aperse",
+                    "egli aperse",
+                    "lui ha aperto",
+                    "lei ha aperto",
+                    "egli ha aperto",
+                    "lui ebbe aperto",
+                    "lei ebbe aperto",
+                    "egli ebbe aperto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "muniĭmus o munivĭmus",
+                "traduzioni": [
+                    "noi edificammo",
+                    "noi abbiamo edificato",
+                    "noi avemmo edificato",
+                    "noi fortificammo",
+                    "noi abbiamo fortificato",
+                    "noi avemmo fortificato",
+                    "noi rinforzammo",
+                    "noi siamo rinforzati",
+                    "noi siamo rinforzate",
+                    "noi fummo rinforzati",
+                    "noi fummo rinforzate",
+                    "noi proteggemmo",
+                    "noi abbiamo protetto",
+                    "noi avemmo protetto",
+                    "noi preservammo",
+                    "noi abbiamo preservato",
+                    "noi avemmo preservato",
+                    "noi difendemmo",
+                    "noi abbiamo difeso",
+                    "noi avemmo difeso",
+                    "noi aprimmo",
+                    "noi abbiamo aperto",
+                    "noi avemmo aperto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "muniistis o munivistis",
+                "traduzioni": [
+                    "voi edificaste",
+                    "voi avete edificato",
+                    "voi aveste edificato",
+                    "voi fortificaste",
+                    "voi avete fortificato",
+                    "voi aveste fortificato",
+                    "voi rinforzaste",
+                    "voi siete rinforzati",
+                    "voi siete rinforzate",
+                    "voi foste rinforzati",
+                    "voi foste rinforzate",
+                    "voi proteggeste",
+                    "voi avete protetto",
+                    "voi aveste protetto",
+                    "voi preservaste",
+                    "voi avete preservato",
+                    "voi aveste preservato",
+                    "voi difendeste",
+                    "voi avete difeso",
+                    "voi aveste difeso",
+                    "voi apriste",
+                    "voi avete aperto",
+                    "voi aveste aperto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "muniērunt o munivērunt, ēre",
+                "traduzioni": [
+                    "loro edificarono",
+                    "essi edificarono",
+                    "loro hanno edificato",
+                    "essi hanno edificato",
+                    "loro ebbero edificato",
+                    "essi ebbero edificato",
+                    "loro fortificarono",
+                    "essi fortificarono",
+                    "loro hanno fortificato",
+                    "essi hanno fortificato",
+                    "loro ebbero fortificato",
+                    "essi ebbero fortificato",
+                    "loro rinforzarono",
+                    "essi rinforzarono",
+                    "loro sono rinforzati",
+                    "loro sono rinforzate",
+                    "essi sono rinforzati",
+                    "loro furono rinforzati",
+                    "loro furono rinforzate",
+                    "essi furono rinforzati",
+                    "loro protessero",
+                    "essi protessero",
+                    "loro hanno protetto",
+                    "essi hanno protetto",
+                    "loro ebbero protetto",
+                    "essi ebbero protetto",
+                    "loro preservarono",
+                    "essi preservarono",
+                    "loro hanno preservato",
+                    "essi hanno preservato",
+                    "loro ebbero preservato",
+                    "essi ebbero preservato",
+                    "loro difesero",
+                    "essi difesero",
+                    "loro hanno difeso",
+                    "essi hanno difeso",
+                    "loro ebbero difeso",
+                    "essi ebbero difeso",
+                    "loro aprirono",
+                    "essi aprirono",
+                    "loro apersero",
+                    "essi apersero",
+                    "loro hanno aperto",
+                    "essi hanno aperto",
+                    "loro ebbero aperto",
+                    "essi ebbero aperto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "muniĕram o munivĕram",
+                "traduzioni": [
+                    "io avevo edificato",
+                    "io avevo fortificato",
+                    "io ero rinforzato",
+                    "io ero rinforzata",
+                    "io avevo protetto",
+                    "io avevo preservato",
+                    "io avevo difeso",
+                    "io avevo aperto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "muniĕras o munivĕras",
+                "traduzioni": [
+                    "tu avevi edificato",
+                    "tu avevi fortificato",
+                    "tu eri rinforzato",
+                    "tu eri rinforzata",
+                    "tu avevi protetto",
+                    "tu avevi preservato",
+                    "tu avevi difeso",
+                    "tu avevi aperto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "muniĕrat o munivĕrat",
+                "traduzioni": [
+                    "lui aveva edificato",
+                    "lei aveva edificato",
+                    "egli aveva edificato",
+                    "lui aveva fortificato",
+                    "lei aveva fortificato",
+                    "egli aveva fortificato",
+                    "lui era rinforzato",
+                    "lei era rinforzata",
+                    "egli era rinforzato",
+                    "lui aveva protetto",
+                    "lei aveva protetto",
+                    "egli aveva protetto",
+                    "lui aveva preservato",
+                    "lei aveva preservato",
+                    "egli aveva preservato",
+                    "lui aveva difeso",
+                    "lei aveva difeso",
+                    "egli aveva difeso",
+                    "lui aveva aperto",
+                    "lei aveva aperto",
+                    "egli aveva aperto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "munierāmus o muniverāmus",
+                "traduzioni": [
+                    "noi avevamo edificato",
+                    "noi avevamo fortificato",
+                    "noi eravamo rinforzati",
+                    "noi eravamo rinforzate",
+                    "noi avevamo protetto",
+                    "noi avevamo preservato",
+                    "noi avevamo difeso",
+                    "noi avevamo aperto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "munierātis o muniverātis",
+                "traduzioni": [
+                    "voi avevate edificato",
+                    "voi avevate fortificato",
+                    "voi eravate rinforzati",
+                    "voi eravate rinforzate",
+                    "voi avevate protetto",
+                    "voi avevate preservato",
+                    "voi avevate difeso",
+                    "voi avevate aperto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "muniĕrant o munivĕrant",
+                "traduzioni": [
+                    "loro avevano edificato",
+                    "essi avevano edificato",
+                    "loro avevano fortificato",
+                    "essi avevano fortificato",
+                    "loro erano rinforzati",
+                    "loro erano rinforzate",
+                    "essi erano rinforzati",
+                    "loro avevano protetto",
+                    "essi avevano protetto",
+                    "loro avevano preservato",
+                    "essi avevano preservato",
+                    "loro avevano difeso",
+                    "essi avevano difeso",
+                    "loro avevano aperto",
+                    "essi avevano aperto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "muniĕro o munivĕro",
+                "traduzioni": [
+                    "io avrò edificato",
+                    "io avrò fortificato",
+                    "io sarò rinforzato",
+                    "io sarò rinforzata",
+                    "io avrò protetto",
+                    "io avrò preservato",
+                    "io avrò difeso",
+                    "io avrò aperto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "muniĕris o munivĕris",
+                "traduzioni": [
+                    "tu avrai edificato",
+                    "tu avrai fortificato",
+                    "tu sarai rinforzato",
+                    "tu sarai rinforzata",
+                    "tu avrai protetto",
+                    "tu avrai preservato",
+                    "tu avrai difeso",
+                    "tu avrai aperto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "muniĕrit o munivĕrit",
+                "traduzioni": [
+                    "lui avrà edificato",
+                    "lei avrà edificato",
+                    "egli avrà edificato",
+                    "lui avrà fortificato",
+                    "lei avrà fortificato",
+                    "egli avrà fortificato",
+                    "lui sarà rinforzato",
+                    "lei sarà rinforzata",
+                    "egli sarà rinforzato",
+                    "lui avrà protetto",
+                    "lei avrà protetto",
+                    "egli avrà protetto",
+                    "lui avrà preservato",
+                    "lei avrà preservato",
+                    "egli avrà preservato",
+                    "lui avrà difeso",
+                    "lei avrà difeso",
+                    "egli avrà difeso",
+                    "lui avrà aperto",
+                    "lei avrà aperto",
+                    "egli avrà aperto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "munierĭmus o muniverĭmus",
+                "traduzioni": [
+                    "noi avremo edificato",
+                    "noi avremo fortificato",
+                    "noi saremo rinforzati",
+                    "noi saremo rinforzate",
+                    "noi avremo protetto",
+                    "noi avremo preservato",
+                    "noi avremo difeso",
+                    "noi avremo aperto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "munierĭtis o muniverĭtis",
+                "traduzioni": [
+                    "voi avrete edificato",
+                    "voi avrete fortificato",
+                    "voi sarete rinforzati",
+                    "voi sarete rinforzate",
+                    "voi avrete protetto",
+                    "voi avrete preservato",
+                    "voi avrete difeso",
+                    "voi avrete aperto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "muniĕrint o munivĕrint",
+                "traduzioni": [
+                    "loro avranno edificato",
+                    "essi avranno edificato",
+                    "loro avranno fortificato",
+                    "essi avranno fortificato",
+                    "loro saranno rinforzati",
+                    "loro saranno rinforzate",
+                    "essi saranno rinforzati",
+                    "loro avranno protetto",
+                    "essi avranno protetto",
+                    "loro avranno preservato",
+                    "essi avranno preservato",
+                    "loro avranno difeso",
+                    "essi avranno difeso",
+                    "loro avranno aperto",
+                    "essi avranno aperto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "mūnĭam",
+                "traduzioni": [
+                    "che io edifichi",
+                    "che io fortifichi",
+                    "che io rinforzi",
+                    "che io protegga",
+                    "che io preservi",
+                    "che io difenda",
+                    "che io apra"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "mūnĭas",
+                "traduzioni": [
+                    "che tu edifichi",
+                    "che tu fortifichi",
+                    "che tu rinforzi",
+                    "che tu protegga",
+                    "che tu preservi",
+                    "che tu difenda",
+                    "che tu apra"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "mūnĭat",
+                "traduzioni": [
+                    "che lui edifichi",
+                    "che lei edifichi",
+                    "che egli edifichi",
+                    "che lui fortifichi",
+                    "che lei fortifichi",
+                    "che egli fortifichi",
+                    "che lui rinforzi",
+                    "che lei rinforzi",
+                    "che egli rinforzi",
+                    "che lui protegga",
+                    "che lei protegga",
+                    "che egli protegga",
+                    "che lui preservi",
+                    "che lei preservi",
+                    "che egli preservi",
+                    "che lui difenda",
+                    "che lei difenda",
+                    "che egli difenda",
+                    "che lui apra",
+                    "che lei apra",
+                    "che egli apra"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mūniāmus",
+                "traduzioni": [
+                    "che noi edifichiamo",
+                    "che noi fortifichiamo",
+                    "che noi rinforziamo",
+                    "che noi proteggiamo",
+                    "che noi preserviamo",
+                    "che noi difendiamo",
+                    "che noi apriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mūniātis",
+                "traduzioni": [
+                    "che voi edifichiate",
+                    "che voi fortifichiate",
+                    "che voi rinforziate",
+                    "che voi proteggiate",
+                    "che voi preserviate",
+                    "che voi difendiate",
+                    "che voi apriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mūnĭant",
+                "traduzioni": [
+                    "che loro edifichino",
+                    "che essi edifichino",
+                    "che loro fortifichino",
+                    "che essi fortifichino",
+                    "che loro rinforzino",
+                    "che essi rinforzino",
+                    "che loro proteggano",
+                    "che essi proteggano",
+                    "che loro preservino",
+                    "che essi preservino",
+                    "che loro difendano",
+                    "che essi difendano",
+                    "che loro aprano",
+                    "che essi aprano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "mūnīrem",
+                "traduzioni": [
+                    "che io edificassi",
+                    "che io fortificassi",
+                    "che io rinforzassi",
+                    "che io proteggessi",
+                    "che io preservassi",
+                    "che io difendessi",
+                    "che io aprissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "mūnīres",
+                "traduzioni": [
+                    "che tu edificassi",
+                    "che tu fortificassi",
+                    "che tu rinforzassi",
+                    "che tu proteggessi",
+                    "che tu preservassi",
+                    "che tu difendessi",
+                    "che tu aprissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "mūnīret",
+                "traduzioni": [
+                    "che lui edificasse",
+                    "che lei edificasse",
+                    "che egli edificasse",
+                    "che lui fortificasse",
+                    "che lei fortificasse",
+                    "che egli fortificasse",
+                    "che lui rinforzasse",
+                    "che lei rinforzasse",
+                    "che egli rinforzasse",
+                    "che lui proteggesse",
+                    "che lei proteggesse",
+                    "che egli proteggesse",
+                    "che lui preservasse",
+                    "che lei preservasse",
+                    "che egli preservasse",
+                    "che lui difendesse",
+                    "che lei difendesse",
+                    "che egli difendesse",
+                    "che lui aprisse",
+                    "che lei aprisse",
+                    "che egli aprisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mūnirēmus",
+                "traduzioni": [
+                    "che noi edificassimo",
+                    "che noi fortificassimo",
+                    "che noi rinforzassimo",
+                    "che noi proteggessimo",
+                    "che noi preservassimo",
+                    "che noi difendessimo",
+                    "che noi aprissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mūnirētis",
+                "traduzioni": [
+                    "che voi edificaste",
+                    "che voi fortificaste",
+                    "che voi rinforzaste",
+                    "che voi proteggeste",
+                    "che voi preservaste",
+                    "che voi difendeste",
+                    "che voi apriste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mūnīrent",
+                "traduzioni": [
+                    "che loro edificassero",
+                    "che essi edificassero",
+                    "che loro fortificassero",
+                    "che essi fortificassero",
+                    "che loro rinforzassero",
+                    "che essi rinforzassero",
+                    "che loro proteggessero",
+                    "che essi proteggessero",
+                    "che loro preservassero",
+                    "che essi preservassero",
+                    "che loro difendessero",
+                    "che essi difendessero",
+                    "che loro aprissero",
+                    "che essi aprissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "muniĕrim o munivĕrim",
+                "traduzioni": [
+                    "che io abbia edificato",
+                    "che io abbia fortificato",
+                    "che io sia rinforzato",
+                    "che io sia rinforzata",
+                    "che io abbia protetto",
+                    "che io abbia preservato",
+                    "che io abbia difeso",
+                    "che io abbia aperto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "muniĕris o munivĕris",
+                "traduzioni": [
+                    "che tu abbia edificato",
+                    "che tu abbia fortificato",
+                    "che tu sia rinforzato",
+                    "che tu sia rinforzata",
+                    "che tu abbia protetto",
+                    "che tu abbia preservato",
+                    "che tu abbia difeso",
+                    "che tu abbia aperto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "muniĕrit o munivĕrit",
+                "traduzioni": [
+                    "che lui abbia edificato",
+                    "che lei abbia edificato",
+                    "che egli abbia edificato",
+                    "che lui abbia fortificato",
+                    "che lei abbia fortificato",
+                    "che egli abbia fortificato",
+                    "che lui sia rinforzato",
+                    "che lei sia rinforzata",
+                    "che egli sia rinforzato",
+                    "che lui abbia protetto",
+                    "che lei abbia protetto",
+                    "che egli abbia protetto",
+                    "che lui abbia preservato",
+                    "che lei abbia preservato",
+                    "che egli abbia preservato",
+                    "che lui abbia difeso",
+                    "che lei abbia difeso",
+                    "che egli abbia difeso",
+                    "che lui abbia aperto",
+                    "che lei abbia aperto",
+                    "che egli abbia aperto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "munierĭmus o muniverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo edificato",
+                    "che noi abbiamo fortificato",
+                    "che noi siamo rinforzati",
+                    "che noi siamo rinforzate",
+                    "che noi abbiamo protetto",
+                    "che noi abbiamo preservato",
+                    "che noi abbiamo difeso",
+                    "che noi abbiamo aperto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "munierĭtis o muniverĭtis",
+                "traduzioni": [
+                    "che voi abbiate edificato",
+                    "che voi abbiate fortificato",
+                    "che voi siate rinforzati",
+                    "che voi siate rinforzate",
+                    "che voi abbiate protetto",
+                    "che voi abbiate preservato",
+                    "che voi abbiate difeso",
+                    "che voi abbiate aperto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "muniĕrint o munivĕrint",
+                "traduzioni": [
+                    "che loro abbiano edificato",
+                    "che essi abbiano edificato",
+                    "che loro abbiano fortificato",
+                    "che essi abbiano fortificato",
+                    "che loro siano rinforzati",
+                    "che loro siano rinforzate",
+                    "che essi siano rinforzati",
+                    "che loro abbiano protetto",
+                    "che essi abbiano protetto",
+                    "che loro abbiano preservato",
+                    "che essi abbiano preservato",
+                    "che loro abbiano difeso",
+                    "che essi abbiano difeso",
+                    "che loro abbiano aperto",
+                    "che essi abbiano aperto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "muniissem o munivissem",
+                "traduzioni": [
+                    "che io avessi edificato",
+                    "che io avessi fortificato",
+                    "che io fossi rinforzato",
+                    "che io fossi rinforzata",
+                    "che io avessi protetto",
+                    "che io avessi preservato",
+                    "che io avessi difeso",
+                    "che io avessi aperto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "muniisses o munivisses",
+                "traduzioni": [
+                    "che tu avessi edificato",
+                    "che tu avessi fortificato",
+                    "che tu fossi rinforzato",
+                    "che tu fossi rinforzata",
+                    "che tu avessi protetto",
+                    "che tu avessi preservato",
+                    "che tu avessi difeso",
+                    "che tu avessi aperto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "muniisset o munivisset",
+                "traduzioni": [
+                    "che lui avesse edificato",
+                    "che lei avesse edificato",
+                    "che egli avesse edificato",
+                    "che lui avesse fortificato",
+                    "che lei avesse fortificato",
+                    "che egli avesse fortificato",
+                    "che lui fosse rinforzato",
+                    "che lei fosse rinforzata",
+                    "che egli fosse rinforzato",
+                    "che lui avesse protetto",
+                    "che lei avesse protetto",
+                    "che egli avesse protetto",
+                    "che lui avesse preservato",
+                    "che lei avesse preservato",
+                    "che egli avesse preservato",
+                    "che lui avesse difeso",
+                    "che lei avesse difeso",
+                    "che egli avesse difeso",
+                    "che lui avesse aperto",
+                    "che lei avesse aperto",
+                    "che egli avesse aperto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "muniissēmus o munivissēmus",
+                "traduzioni": [
+                    "che noi avessimo edificato",
+                    "che noi avessimo fortificato",
+                    "che noi fossimo rinforzati",
+                    "che noi fossimo rinforzate",
+                    "che noi avessimo protetto",
+                    "che noi avessimo preservato",
+                    "che noi avessimo difeso",
+                    "che noi avessimo aperto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "muniissētis o munivissētis",
+                "traduzioni": [
+                    "che voi aveste edificato",
+                    "che voi aveste fortificato",
+                    "che voi foste rinforzati",
+                    "che voi foste rinforzate",
+                    "che voi aveste protetto",
+                    "che voi aveste preservato",
+                    "che voi aveste difeso",
+                    "che voi aveste aperto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "muniissent o munivissent",
+                "traduzioni": [
+                    "che loro avessero edificato",
+                    "che essi avessero edificato",
+                    "che loro avessero fortificato",
+                    "che essi avessero fortificato",
+                    "che loro fossero rinforzati",
+                    "che loro fossero rinforzate",
+                    "che essi fossero rinforzati",
+                    "che loro avessero protetto",
+                    "che essi avessero protetto",
+                    "che loro avessero preservato",
+                    "che essi avessero preservato",
+                    "che loro avessero difeso",
+                    "che essi avessero difeso",
+                    "che loro avessero aperto",
+                    "che essi avessero aperto"
+                ]
+            }
+        ]
+    }
+}

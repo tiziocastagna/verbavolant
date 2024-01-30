@@ -1,0 +1,972 @@
+{
+    "identifier": "PLACO",
+    "conuigazione": "1",
+    "translation": [
+        "placare",
+        "calmare",
+        "sedare",
+        "pacificare",
+        "rappacificare"
+    ],
+    "valid_translations": [
+        "placare",
+        "calmare",
+        "sedare",
+        "pacificare",
+        "rappacificare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "plāco",
+                "traduzioni": [
+                    "io placo",
+                    "io calmo",
+                    "io sedo",
+                    "io pacifico",
+                    "io rappacifico"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plācas",
+                "traduzioni": [
+                    "tu plachi",
+                    "tu calmi",
+                    "tu sedi",
+                    "tu pacifichi",
+                    "tu rappacifichi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plācat",
+                "traduzioni": [
+                    "lui placa",
+                    "lei placa",
+                    "egli placa",
+                    "lui calma",
+                    "lei calma",
+                    "egli calma",
+                    "lui seda",
+                    "lei seda",
+                    "egli seda",
+                    "lui pacifica",
+                    "lei pacifica",
+                    "egli pacifica",
+                    "lui rappacifica",
+                    "lei rappacifica",
+                    "egli rappacifica"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "plācāmus",
+                "traduzioni": [
+                    "noi plachiamo",
+                    "noi calmiamo",
+                    "noi sediamo",
+                    "noi pacifichiamo",
+                    "noi rappacifichiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "plācātis",
+                "traduzioni": [
+                    "voi placate",
+                    "voi calmate",
+                    "voi sedate",
+                    "voi pacificate",
+                    "voi rappacificate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plācant",
+                "traduzioni": [
+                    "loro placano",
+                    "essi placano",
+                    "loro calmano",
+                    "essi calmano",
+                    "loro sedano",
+                    "essi sedano",
+                    "loro pacificano",
+                    "essi pacificano",
+                    "loro rappacificano",
+                    "essi rappacificano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "plācābam",
+                "traduzioni": [
+                    "io placavo",
+                    "io calmavo",
+                    "io sedavo",
+                    "io pacificavo",
+                    "io rappacificavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plācābas",
+                "traduzioni": [
+                    "tu placavi",
+                    "tu calmavi",
+                    "tu sedavi",
+                    "tu pacificavi",
+                    "tu rappacificavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plācābat",
+                "traduzioni": [
+                    "lui placava",
+                    "lei placava",
+                    "egli placava",
+                    "lui calmava",
+                    "lei calmava",
+                    "egli calmava",
+                    "lui sedava",
+                    "lei sedava",
+                    "egli sedava",
+                    "lui pacificava",
+                    "lei pacificava",
+                    "egli pacificava",
+                    "lui rappacificava",
+                    "lei rappacificava",
+                    "egli rappacificava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "plācabāmus",
+                "traduzioni": [
+                    "noi placavamo",
+                    "noi calmavamo",
+                    "noi sedavamo",
+                    "noi pacificavamo",
+                    "noi rappacificavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "plācabātis",
+                "traduzioni": [
+                    "voi placavate",
+                    "voi calmavate",
+                    "voi sedavate",
+                    "voi pacificavate",
+                    "voi rappacificavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plācābant",
+                "traduzioni": [
+                    "loro placavano",
+                    "essi placavano",
+                    "loro calmavano",
+                    "essi calmavano",
+                    "loro sedavano",
+                    "essi sedavano",
+                    "loro pacificavano",
+                    "essi pacificavano",
+                    "loro rappacificavano",
+                    "essi rappacificavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "plācābo",
+                "traduzioni": [
+                    "io placherò",
+                    "io calmerò",
+                    "io sederò",
+                    "io pacificherò",
+                    "io rappacificherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plācābis",
+                "traduzioni": [
+                    "tu placherai",
+                    "tu calmerai",
+                    "tu sederai",
+                    "tu pacificherai",
+                    "tu rappacificherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plācābit",
+                "traduzioni": [
+                    "lui placherà",
+                    "lei placherà",
+                    "egli placherà",
+                    "lui calmerà",
+                    "lei calmerà",
+                    "egli calmerà",
+                    "lui sederà",
+                    "lei sederà",
+                    "egli sederà",
+                    "lui pacificherà",
+                    "lei pacificherà",
+                    "egli pacificherà",
+                    "lui rappacificherà",
+                    "lei rappacificherà",
+                    "egli rappacificherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "plācabĭmus",
+                "traduzioni": [
+                    "noi placheremo",
+                    "noi calmeremo",
+                    "noi sederemo",
+                    "noi pacificheremo",
+                    "noi rappacificheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "plācabĭtis",
+                "traduzioni": [
+                    "voi placherete",
+                    "voi calmerete",
+                    "voi sederete",
+                    "voi pacificherete",
+                    "voi rappacificherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plācābunt",
+                "traduzioni": [
+                    "loro placheranno",
+                    "essi placheranno",
+                    "loro calmeranno",
+                    "essi calmeranno",
+                    "loro sederanno",
+                    "essi sederanno",
+                    "loro pacificheranno",
+                    "essi pacificheranno",
+                    "loro rappacificheranno",
+                    "essi rappacificheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "placavi",
+                "traduzioni": [
+                    "io placai",
+                    "io ho placato",
+                    "io ebbi placato",
+                    "io calmai",
+                    "io sono calmato",
+                    "io sono calmata",
+                    "io fui calmato",
+                    "io fui calmata",
+                    "io sedai",
+                    "io ho sedato",
+                    "io ebbi sedato",
+                    "io pacificai",
+                    "io ho pacificato",
+                    "io ebbi pacificato",
+                    "io rappacificai",
+                    "io ho rappacificato",
+                    "io ebbi rappacificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "placavisti",
+                "traduzioni": [
+                    "tu placasti",
+                    "tu hai placato",
+                    "tu avesti placato",
+                    "tu calmasti",
+                    "tu sei calmato",
+                    "tu sei calmata",
+                    "tu fosti calmato",
+                    "tu fosti calmata",
+                    "tu sedasti",
+                    "tu hai sedato",
+                    "tu avesti sedato",
+                    "tu pacificasti",
+                    "tu hai pacificato",
+                    "tu avesti pacificato",
+                    "tu rappacificasti",
+                    "tu hai rappacificato",
+                    "tu avesti rappacificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "placavit",
+                "traduzioni": [
+                    "lui placò",
+                    "lei placò",
+                    "egli placò",
+                    "lui ha placato",
+                    "lei ha placato",
+                    "egli ha placato",
+                    "lui ebbe placato",
+                    "lei ebbe placato",
+                    "egli ebbe placato",
+                    "lui calmò",
+                    "lei calmò",
+                    "egli calmò",
+                    "lui è calmato",
+                    "lei è calmata",
+                    "egli è calmato",
+                    "lui fu calmato",
+                    "lei fu calmata",
+                    "egli fu calmato",
+                    "lui sedò",
+                    "lei sedò",
+                    "egli sedò",
+                    "lui ha sedato",
+                    "lei ha sedato",
+                    "egli ha sedato",
+                    "lui ebbe sedato",
+                    "lei ebbe sedato",
+                    "egli ebbe sedato",
+                    "lui pacificò",
+                    "lei pacificò",
+                    "egli pacificò",
+                    "lui ha pacificato",
+                    "lei ha pacificato",
+                    "egli ha pacificato",
+                    "lui ebbe pacificato",
+                    "lei ebbe pacificato",
+                    "egli ebbe pacificato",
+                    "lui rappacificò",
+                    "lei rappacificò",
+                    "egli rappacificò",
+                    "lui ha rappacificato",
+                    "lei ha rappacificato",
+                    "egli ha rappacificato",
+                    "lui ebbe rappacificato",
+                    "lei ebbe rappacificato",
+                    "egli ebbe rappacificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "placavĭmus",
+                "traduzioni": [
+                    "noi placammo",
+                    "noi abbiamo placato",
+                    "noi avemmo placato",
+                    "noi calmammo",
+                    "noi siamo calmati",
+                    "noi siamo calmate",
+                    "noi fummo calmati",
+                    "noi fummo calmate",
+                    "noi sedammo",
+                    "noi abbiamo sedato",
+                    "noi avemmo sedato",
+                    "noi pacificammo",
+                    "noi abbiamo pacificato",
+                    "noi avemmo pacificato",
+                    "noi rappacificammo",
+                    "noi abbiamo rappacificato",
+                    "noi avemmo rappacificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "placavistis",
+                "traduzioni": [
+                    "voi placaste",
+                    "voi avete placato",
+                    "voi aveste placato",
+                    "voi calmaste",
+                    "voi siete calmati",
+                    "voi siete calmate",
+                    "voi foste calmati",
+                    "voi foste calmate",
+                    "voi sedaste",
+                    "voi avete sedato",
+                    "voi aveste sedato",
+                    "voi pacificaste",
+                    "voi avete pacificato",
+                    "voi aveste pacificato",
+                    "voi rappacificaste",
+                    "voi avete rappacificato",
+                    "voi aveste rappacificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "placavērunt, placavēre",
+                "traduzioni": [
+                    "loro placarono",
+                    "essi placarono",
+                    "loro hanno placato",
+                    "essi hanno placato",
+                    "loro ebbero placato",
+                    "essi ebbero placato",
+                    "loro calmarono",
+                    "essi calmarono",
+                    "loro sono calmati",
+                    "loro sono calmate",
+                    "essi sono calmati",
+                    "loro furono calmati",
+                    "loro furono calmate",
+                    "essi furono calmati",
+                    "loro sedarono",
+                    "essi sedarono",
+                    "loro hanno sedato",
+                    "essi hanno sedato",
+                    "loro ebbero sedato",
+                    "essi ebbero sedato",
+                    "loro pacificarono",
+                    "essi pacificarono",
+                    "loro hanno pacificato",
+                    "essi hanno pacificato",
+                    "loro ebbero pacificato",
+                    "essi ebbero pacificato",
+                    "loro rappacificarono",
+                    "essi rappacificarono",
+                    "loro hanno rappacificato",
+                    "essi hanno rappacificato",
+                    "loro ebbero rappacificato",
+                    "essi ebbero rappacificato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "placavĕram",
+                "traduzioni": [
+                    "io avevo placato",
+                    "io ero calmato",
+                    "io ero calmata",
+                    "io avevo sedato",
+                    "io avevo pacificato",
+                    "io avevo rappacificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "placavĕras",
+                "traduzioni": [
+                    "tu avevi placato",
+                    "tu eri calmato",
+                    "tu eri calmata",
+                    "tu avevi sedato",
+                    "tu avevi pacificato",
+                    "tu avevi rappacificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "placavĕrat",
+                "traduzioni": [
+                    "lui aveva placato",
+                    "lei aveva placato",
+                    "egli aveva placato",
+                    "lui era calmato",
+                    "lei era calmata",
+                    "egli era calmato",
+                    "lui aveva sedato",
+                    "lei aveva sedato",
+                    "egli aveva sedato",
+                    "lui aveva pacificato",
+                    "lei aveva pacificato",
+                    "egli aveva pacificato",
+                    "lui aveva rappacificato",
+                    "lei aveva rappacificato",
+                    "egli aveva rappacificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "placaverāmus",
+                "traduzioni": [
+                    "noi avevamo placato",
+                    "noi eravamo calmati",
+                    "noi eravamo calmate",
+                    "noi avevamo sedato",
+                    "noi avevamo pacificato",
+                    "noi avevamo rappacificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "placaverātis",
+                "traduzioni": [
+                    "voi avevate placato",
+                    "voi eravate calmati",
+                    "voi eravate calmate",
+                    "voi avevate sedato",
+                    "voi avevate pacificato",
+                    "voi avevate rappacificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "placavĕrant",
+                "traduzioni": [
+                    "loro avevano placato",
+                    "essi avevano placato",
+                    "loro erano calmati",
+                    "loro erano calmate",
+                    "essi erano calmati",
+                    "loro avevano sedato",
+                    "essi avevano sedato",
+                    "loro avevano pacificato",
+                    "essi avevano pacificato",
+                    "loro avevano rappacificato",
+                    "essi avevano rappacificato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "placavĕro",
+                "traduzioni": [
+                    "io avrò placato",
+                    "io sarò calmato",
+                    "io sarò calmata",
+                    "io avrò sedato",
+                    "io avrò pacificato",
+                    "io avrò rappacificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "placavĕris",
+                "traduzioni": [
+                    "tu avrai placato",
+                    "tu sarai calmato",
+                    "tu sarai calmata",
+                    "tu avrai sedato",
+                    "tu avrai pacificato",
+                    "tu avrai rappacificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "placavĕrit",
+                "traduzioni": [
+                    "lui avrà placato",
+                    "lei avrà placato",
+                    "egli avrà placato",
+                    "lui sarà calmato",
+                    "lei sarà calmata",
+                    "egli sarà calmato",
+                    "lui avrà sedato",
+                    "lei avrà sedato",
+                    "egli avrà sedato",
+                    "lui avrà pacificato",
+                    "lei avrà pacificato",
+                    "egli avrà pacificato",
+                    "lui avrà rappacificato",
+                    "lei avrà rappacificato",
+                    "egli avrà rappacificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "placaverĭmus",
+                "traduzioni": [
+                    "noi avremo placato",
+                    "noi saremo calmati",
+                    "noi saremo calmate",
+                    "noi avremo sedato",
+                    "noi avremo pacificato",
+                    "noi avremo rappacificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "placaverĭtis",
+                "traduzioni": [
+                    "voi avrete placato",
+                    "voi sarete calmati",
+                    "voi sarete calmate",
+                    "voi avrete sedato",
+                    "voi avrete pacificato",
+                    "voi avrete rappacificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "placavĕrint",
+                "traduzioni": [
+                    "loro avranno placato",
+                    "essi avranno placato",
+                    "loro saranno calmati",
+                    "loro saranno calmate",
+                    "essi saranno calmati",
+                    "loro avranno sedato",
+                    "essi avranno sedato",
+                    "loro avranno pacificato",
+                    "essi avranno pacificato",
+                    "loro avranno rappacificato",
+                    "essi avranno rappacificato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "plācem",
+                "traduzioni": [
+                    "che io plachi",
+                    "che io calmi",
+                    "che io sedi",
+                    "che io pacifichi",
+                    "che io rappacifichi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plāces",
+                "traduzioni": [
+                    "che tu plachi",
+                    "che tu calmi",
+                    "che tu sedi",
+                    "che tu pacifichi",
+                    "che tu rappacifichi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plācet",
+                "traduzioni": [
+                    "che lui plachi",
+                    "che lei plachi",
+                    "che egli plachi",
+                    "che lui calmi",
+                    "che lei calmi",
+                    "che egli calmi",
+                    "che lui sedi",
+                    "che lei sedi",
+                    "che egli sedi",
+                    "che lui pacifichi",
+                    "che lei pacifichi",
+                    "che egli pacifichi",
+                    "che lui rappacifichi",
+                    "che lei rappacifichi",
+                    "che egli rappacifichi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "plācēmus",
+                "traduzioni": [
+                    "che noi plachiamo",
+                    "che noi calmiamo",
+                    "che noi sediamo",
+                    "che noi pacifichiamo",
+                    "che noi rappacifichiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "plācētis",
+                "traduzioni": [
+                    "che voi plachiate",
+                    "che voi calmiate",
+                    "che voi sediate",
+                    "che voi pacifichiate",
+                    "che voi rappacifichiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plācent",
+                "traduzioni": [
+                    "che loro plachino",
+                    "che essi plachino",
+                    "che loro calmino",
+                    "che essi calmino",
+                    "che loro sedino",
+                    "che essi sedino",
+                    "che loro pacifichino",
+                    "che essi pacifichino",
+                    "che loro rappacifichino",
+                    "che essi rappacifichino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "plācārem",
+                "traduzioni": [
+                    "che io placassi",
+                    "che io calmassi",
+                    "che io sedassi",
+                    "che io pacificassi",
+                    "che io rappacificassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "plācāres",
+                "traduzioni": [
+                    "che tu placassi",
+                    "che tu calmassi",
+                    "che tu sedassi",
+                    "che tu pacificassi",
+                    "che tu rappacificassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "plācāret",
+                "traduzioni": [
+                    "che lui placasse",
+                    "che lei placasse",
+                    "che egli placasse",
+                    "che lui calmasse",
+                    "che lei calmasse",
+                    "che egli calmasse",
+                    "che lui sedasse",
+                    "che lei sedasse",
+                    "che egli sedasse",
+                    "che lui pacificasse",
+                    "che lei pacificasse",
+                    "che egli pacificasse",
+                    "che lui rappacificasse",
+                    "che lei rappacificasse",
+                    "che egli rappacificasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "plācarēmus",
+                "traduzioni": [
+                    "che noi placassimo",
+                    "che noi calmassimo",
+                    "che noi sedassimo",
+                    "che noi pacificassimo",
+                    "che noi rappacificassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "plācarētis",
+                "traduzioni": [
+                    "che voi placaste",
+                    "che voi calmaste",
+                    "che voi sedaste",
+                    "che voi pacificaste",
+                    "che voi rappacificaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "plācārent",
+                "traduzioni": [
+                    "che loro placassero",
+                    "che essi placassero",
+                    "che loro calmassero",
+                    "che essi calmassero",
+                    "che loro sedassero",
+                    "che essi sedassero",
+                    "che loro pacificassero",
+                    "che essi pacificassero",
+                    "che loro rappacificassero",
+                    "che essi rappacificassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "placavĕrim",
+                "traduzioni": [
+                    "che io abbia placato",
+                    "che io sia calmato",
+                    "che io sia calmata",
+                    "che io abbia sedato",
+                    "che io abbia pacificato",
+                    "che io abbia rappacificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "placavĕris",
+                "traduzioni": [
+                    "che tu abbia placato",
+                    "che tu sia calmato",
+                    "che tu sia calmata",
+                    "che tu abbia sedato",
+                    "che tu abbia pacificato",
+                    "che tu abbia rappacificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "placavĕrit",
+                "traduzioni": [
+                    "che lui abbia placato",
+                    "che lei abbia placato",
+                    "che egli abbia placato",
+                    "che lui sia calmato",
+                    "che lei sia calmata",
+                    "che egli sia calmato",
+                    "che lui abbia sedato",
+                    "che lei abbia sedato",
+                    "che egli abbia sedato",
+                    "che lui abbia pacificato",
+                    "che lei abbia pacificato",
+                    "che egli abbia pacificato",
+                    "che lui abbia rappacificato",
+                    "che lei abbia rappacificato",
+                    "che egli abbia rappacificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "placaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo placato",
+                    "che noi siamo calmati",
+                    "che noi siamo calmate",
+                    "che noi abbiamo sedato",
+                    "che noi abbiamo pacificato",
+                    "che noi abbiamo rappacificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "placaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate placato",
+                    "che voi siate calmati",
+                    "che voi siate calmate",
+                    "che voi abbiate sedato",
+                    "che voi abbiate pacificato",
+                    "che voi abbiate rappacificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "placavĕrint",
+                "traduzioni": [
+                    "che loro abbiano placato",
+                    "che essi abbiano placato",
+                    "che loro siano calmati",
+                    "che loro siano calmate",
+                    "che essi siano calmati",
+                    "che loro abbiano sedato",
+                    "che essi abbiano sedato",
+                    "che loro abbiano pacificato",
+                    "che essi abbiano pacificato",
+                    "che loro abbiano rappacificato",
+                    "che essi abbiano rappacificato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "placavissem",
+                "traduzioni": [
+                    "che io avessi placato",
+                    "che io fossi calmato",
+                    "che io fossi calmata",
+                    "che io avessi sedato",
+                    "che io avessi pacificato",
+                    "che io avessi rappacificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "placavisses",
+                "traduzioni": [
+                    "che tu avessi placato",
+                    "che tu fossi calmato",
+                    "che tu fossi calmata",
+                    "che tu avessi sedato",
+                    "che tu avessi pacificato",
+                    "che tu avessi rappacificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "placavisset",
+                "traduzioni": [
+                    "che lui avesse placato",
+                    "che lei avesse placato",
+                    "che egli avesse placato",
+                    "che lui fosse calmato",
+                    "che lei fosse calmata",
+                    "che egli fosse calmato",
+                    "che lui avesse sedato",
+                    "che lei avesse sedato",
+                    "che egli avesse sedato",
+                    "che lui avesse pacificato",
+                    "che lei avesse pacificato",
+                    "che egli avesse pacificato",
+                    "che lui avesse rappacificato",
+                    "che lei avesse rappacificato",
+                    "che egli avesse rappacificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "placavissēmus",
+                "traduzioni": [
+                    "che noi avessimo placato",
+                    "che noi fossimo calmati",
+                    "che noi fossimo calmate",
+                    "che noi avessimo sedato",
+                    "che noi avessimo pacificato",
+                    "che noi avessimo rappacificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "placavissētis",
+                "traduzioni": [
+                    "che voi aveste placato",
+                    "che voi foste calmati",
+                    "che voi foste calmate",
+                    "che voi aveste sedato",
+                    "che voi aveste pacificato",
+                    "che voi aveste rappacificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "placavissent",
+                "traduzioni": [
+                    "che loro avessero placato",
+                    "che essi avessero placato",
+                    "che loro fossero calmati",
+                    "che loro fossero calmate",
+                    "che essi fossero calmati",
+                    "che loro avessero sedato",
+                    "che essi avessero sedato",
+                    "che loro avessero pacificato",
+                    "che essi avessero pacificato",
+                    "che loro avessero rappacificato",
+                    "che essi avessero rappacificato"
+                ]
+            }
+        ]
+    }
+}

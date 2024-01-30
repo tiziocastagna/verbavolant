@@ -1,0 +1,834 @@
+{
+    "identifier": "FRAUDO",
+    "conuigazione": "1",
+    "translation": [
+        "frodare",
+        "truffare",
+        "ingannare",
+        "(+ ablativo della cosa) defraudare",
+        "spogliare",
+        "diritto eludere"
+    ],
+    "valid_translations": [
+        "frodare",
+        "truffare",
+        "ingannare",
+        "spogliare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "fraudo",
+                "traduzioni": [
+                    "io frodo",
+                    "io truffo",
+                    "io inganno",
+                    "io spoglio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fraudas",
+                "traduzioni": [
+                    "tu frodi",
+                    "tu truffi",
+                    "tu inganni",
+                    "tu spogli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fraudat",
+                "traduzioni": [
+                    "lui froda",
+                    "lei froda",
+                    "egli froda",
+                    "lui truffa",
+                    "lei truffa",
+                    "egli truffa",
+                    "lui inganna",
+                    "lei inganna",
+                    "egli inganna",
+                    "lui spoglia",
+                    "lei spoglia",
+                    "egli spoglia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fraudāmus",
+                "traduzioni": [
+                    "noi frodiamo",
+                    "noi truffiamo",
+                    "noi inganniamo",
+                    "noi spogliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fraudātis",
+                "traduzioni": [
+                    "voi frodate",
+                    "voi truffate",
+                    "voi ingannate",
+                    "voi spogliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fraudant",
+                "traduzioni": [
+                    "loro frodano",
+                    "essi frodano",
+                    "loro truffano",
+                    "essi truffano",
+                    "loro ingannano",
+                    "essi ingannano",
+                    "loro spogliano",
+                    "essi spogliano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fraudābam",
+                "traduzioni": [
+                    "io frodavo",
+                    "io truffavo",
+                    "io ingannavo",
+                    "io spogliavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fraudābas",
+                "traduzioni": [
+                    "tu frodavi",
+                    "tu truffavi",
+                    "tu ingannavi",
+                    "tu spogliavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fraudābat",
+                "traduzioni": [
+                    "lui frodava",
+                    "lei frodava",
+                    "egli frodava",
+                    "lui truffava",
+                    "lei truffava",
+                    "egli truffava",
+                    "lui ingannava",
+                    "lei ingannava",
+                    "egli ingannava",
+                    "lui spogliava",
+                    "lei spogliava",
+                    "egli spogliava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fraudabāmus",
+                "traduzioni": [
+                    "noi frodavamo",
+                    "noi truffavamo",
+                    "noi ingannavamo",
+                    "noi spogliavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fraudabātis",
+                "traduzioni": [
+                    "voi frodavate",
+                    "voi truffavate",
+                    "voi ingannavate",
+                    "voi spogliavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fraudābant",
+                "traduzioni": [
+                    "loro frodavano",
+                    "essi frodavano",
+                    "loro truffavano",
+                    "essi truffavano",
+                    "loro ingannavano",
+                    "essi ingannavano",
+                    "loro spogliavano",
+                    "essi spogliavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "fraudābo",
+                "traduzioni": [
+                    "io froderò",
+                    "io trufferò",
+                    "io ingannerò",
+                    "io spoglierò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fraudābis",
+                "traduzioni": [
+                    "tu froderai",
+                    "tu trufferai",
+                    "tu ingannerai",
+                    "tu spoglierai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fraudābit",
+                "traduzioni": [
+                    "lui froderà",
+                    "lei froderà",
+                    "egli froderà",
+                    "lui trufferà",
+                    "lei trufferà",
+                    "egli trufferà",
+                    "lui ingannerà",
+                    "lei ingannerà",
+                    "egli ingannerà",
+                    "lui spoglierà",
+                    "lei spoglierà",
+                    "egli spoglierà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fraudabĭmus",
+                "traduzioni": [
+                    "noi froderemo",
+                    "noi trufferemo",
+                    "noi inganneremo",
+                    "noi spoglieremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fraudabĭtis",
+                "traduzioni": [
+                    "voi froderete",
+                    "voi trufferete",
+                    "voi ingannerete",
+                    "voi spoglierete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fraudābunt",
+                "traduzioni": [
+                    "loro froderanno",
+                    "essi froderanno",
+                    "loro trufferanno",
+                    "essi trufferanno",
+                    "loro inganneranno",
+                    "essi inganneranno",
+                    "loro spoglieranno",
+                    "essi spoglieranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fraudavi",
+                "traduzioni": [
+                    "io frodai",
+                    "io ho frodato",
+                    "io ebbi frodato",
+                    "io truffai",
+                    "io ho truffato",
+                    "io ebbi truffato",
+                    "io ingannai",
+                    "io ho ingannato",
+                    "io ebbi ingannato",
+                    "io spogliai",
+                    "io ho spogliato",
+                    "io ebbi spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fraudavisti",
+                "traduzioni": [
+                    "tu frodasti",
+                    "tu hai frodato",
+                    "tu avesti frodato",
+                    "tu truffasti",
+                    "tu hai truffato",
+                    "tu avesti truffato",
+                    "tu ingannasti",
+                    "tu hai ingannato",
+                    "tu avesti ingannato",
+                    "tu spogliasti",
+                    "tu hai spogliato",
+                    "tu avesti spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fraudavit",
+                "traduzioni": [
+                    "lui frodò",
+                    "lei frodò",
+                    "egli frodò",
+                    "lui ha frodato",
+                    "lei ha frodato",
+                    "egli ha frodato",
+                    "lui ebbe frodato",
+                    "lei ebbe frodato",
+                    "egli ebbe frodato",
+                    "lui truffò",
+                    "lei truffò",
+                    "egli truffò",
+                    "lui ha truffato",
+                    "lei ha truffato",
+                    "egli ha truffato",
+                    "lui ebbe truffato",
+                    "lei ebbe truffato",
+                    "egli ebbe truffato",
+                    "lui ingannò",
+                    "lei ingannò",
+                    "egli ingannò",
+                    "lui ha ingannato",
+                    "lei ha ingannato",
+                    "egli ha ingannato",
+                    "lui ebbe ingannato",
+                    "lei ebbe ingannato",
+                    "egli ebbe ingannato",
+                    "lui spogliò",
+                    "lei spogliò",
+                    "egli spogliò",
+                    "lui ha spogliato",
+                    "lei ha spogliato",
+                    "egli ha spogliato",
+                    "lui ebbe spogliato",
+                    "lei ebbe spogliato",
+                    "egli ebbe spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fraudavĭmus",
+                "traduzioni": [
+                    "noi frodammo",
+                    "noi abbiamo frodato",
+                    "noi avemmo frodato",
+                    "noi truffammo",
+                    "noi abbiamo truffato",
+                    "noi avemmo truffato",
+                    "noi ingannammo",
+                    "noi abbiamo ingannato",
+                    "noi avemmo ingannato",
+                    "noi spogliammo",
+                    "noi abbiamo spogliato",
+                    "noi avemmo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fraudavistis",
+                "traduzioni": [
+                    "voi frodaste",
+                    "voi avete frodato",
+                    "voi aveste frodato",
+                    "voi truffaste",
+                    "voi avete truffato",
+                    "voi aveste truffato",
+                    "voi ingannaste",
+                    "voi avete ingannato",
+                    "voi aveste ingannato",
+                    "voi spogliaste",
+                    "voi avete spogliato",
+                    "voi aveste spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fraudavērunt, fraudavēre",
+                "traduzioni": [
+                    "loro frodarono",
+                    "essi frodarono",
+                    "loro hanno frodato",
+                    "essi hanno frodato",
+                    "loro ebbero frodato",
+                    "essi ebbero frodato",
+                    "loro truffarono",
+                    "essi truffarono",
+                    "loro hanno truffato",
+                    "essi hanno truffato",
+                    "loro ebbero truffato",
+                    "essi ebbero truffato",
+                    "loro ingannarono",
+                    "essi ingannarono",
+                    "loro hanno ingannato",
+                    "essi hanno ingannato",
+                    "loro ebbero ingannato",
+                    "essi ebbero ingannato",
+                    "loro spogliarono",
+                    "essi spogliarono",
+                    "loro hanno spogliato",
+                    "essi hanno spogliato",
+                    "loro ebbero spogliato",
+                    "essi ebbero spogliato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fraudavĕram",
+                "traduzioni": [
+                    "io avevo frodato",
+                    "io avevo truffato",
+                    "io avevo ingannato",
+                    "io avevo spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fraudavĕras",
+                "traduzioni": [
+                    "tu avevi frodato",
+                    "tu avevi truffato",
+                    "tu avevi ingannato",
+                    "tu avevi spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fraudavĕrat",
+                "traduzioni": [
+                    "lui aveva frodato",
+                    "lei aveva frodato",
+                    "egli aveva frodato",
+                    "lui aveva truffato",
+                    "lei aveva truffato",
+                    "egli aveva truffato",
+                    "lui aveva ingannato",
+                    "lei aveva ingannato",
+                    "egli aveva ingannato",
+                    "lui aveva spogliato",
+                    "lei aveva spogliato",
+                    "egli aveva spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fraudaverāmus",
+                "traduzioni": [
+                    "noi avevamo frodato",
+                    "noi avevamo truffato",
+                    "noi avevamo ingannato",
+                    "noi avevamo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fraudaverātis",
+                "traduzioni": [
+                    "voi avevate frodato",
+                    "voi avevate truffato",
+                    "voi avevate ingannato",
+                    "voi avevate spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fraudavĕrant",
+                "traduzioni": [
+                    "loro avevano frodato",
+                    "essi avevano frodato",
+                    "loro avevano truffato",
+                    "essi avevano truffato",
+                    "loro avevano ingannato",
+                    "essi avevano ingannato",
+                    "loro avevano spogliato",
+                    "essi avevano spogliato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "fraudavĕro",
+                "traduzioni": [
+                    "io avrò frodato",
+                    "io avrò truffato",
+                    "io avrò ingannato",
+                    "io avrò spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fraudavĕris, fraudassis",
+                "traduzioni": [
+                    "tu avrai frodato",
+                    "tu avrai truffato",
+                    "tu avrai ingannato",
+                    "tu avrai spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fraudavĕrit",
+                "traduzioni": [
+                    "lui avrà frodato",
+                    "lei avrà frodato",
+                    "egli avrà frodato",
+                    "lui avrà truffato",
+                    "lei avrà truffato",
+                    "egli avrà truffato",
+                    "lui avrà ingannato",
+                    "lei avrà ingannato",
+                    "egli avrà ingannato",
+                    "lui avrà spogliato",
+                    "lei avrà spogliato",
+                    "egli avrà spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fraudaverĭmus",
+                "traduzioni": [
+                    "noi avremo frodato",
+                    "noi avremo truffato",
+                    "noi avremo ingannato",
+                    "noi avremo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fraudaverĭtis",
+                "traduzioni": [
+                    "voi avrete frodato",
+                    "voi avrete truffato",
+                    "voi avrete ingannato",
+                    "voi avrete spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fraudavĕrint",
+                "traduzioni": [
+                    "loro avranno frodato",
+                    "essi avranno frodato",
+                    "loro avranno truffato",
+                    "essi avranno truffato",
+                    "loro avranno ingannato",
+                    "essi avranno ingannato",
+                    "loro avranno spogliato",
+                    "essi avranno spogliato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "fraudem",
+                "traduzioni": [
+                    "che io frodi",
+                    "che io truffi",
+                    "che io inganni",
+                    "che io spogli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fraudes",
+                "traduzioni": [
+                    "che tu frodi",
+                    "che tu truffi",
+                    "che tu inganni",
+                    "che tu spogli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fraudet",
+                "traduzioni": [
+                    "che lui frodi",
+                    "che lei frodi",
+                    "che egli frodi",
+                    "che lui truffi",
+                    "che lei truffi",
+                    "che egli truffi",
+                    "che lui inganni",
+                    "che lei inganni",
+                    "che egli inganni",
+                    "che lui spogli",
+                    "che lei spogli",
+                    "che egli spogli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fraudēmus",
+                "traduzioni": [
+                    "che noi frodiamo",
+                    "che noi truffiamo",
+                    "che noi inganniamo",
+                    "che noi spogliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fraudētis",
+                "traduzioni": [
+                    "che voi frodiate",
+                    "che voi truffiate",
+                    "che voi inganniate",
+                    "che voi spogliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fraudent",
+                "traduzioni": [
+                    "che loro frodino",
+                    "che essi frodino",
+                    "che loro truffino",
+                    "che essi truffino",
+                    "che loro ingannino",
+                    "che essi ingannino",
+                    "che loro spoglino",
+                    "che essi spoglino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fraudārem",
+                "traduzioni": [
+                    "che io frodassi",
+                    "che io truffassi",
+                    "che io ingannassi",
+                    "che io spogliassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fraudāres",
+                "traduzioni": [
+                    "che tu frodassi",
+                    "che tu truffassi",
+                    "che tu ingannassi",
+                    "che tu spogliassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fraudāret",
+                "traduzioni": [
+                    "che lui frodasse",
+                    "che lei frodasse",
+                    "che egli frodasse",
+                    "che lui truffasse",
+                    "che lei truffasse",
+                    "che egli truffasse",
+                    "che lui ingannasse",
+                    "che lei ingannasse",
+                    "che egli ingannasse",
+                    "che lui spogliasse",
+                    "che lei spogliasse",
+                    "che egli spogliasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fraudarēmus",
+                "traduzioni": [
+                    "che noi frodassimo",
+                    "che noi truffassimo",
+                    "che noi ingannassimo",
+                    "che noi spogliassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fraudarētis",
+                "traduzioni": [
+                    "che voi frodaste",
+                    "che voi truffaste",
+                    "che voi ingannaste",
+                    "che voi spogliaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fraudārent",
+                "traduzioni": [
+                    "che loro frodassero",
+                    "che essi frodassero",
+                    "che loro truffassero",
+                    "che essi truffassero",
+                    "che loro ingannassero",
+                    "che essi ingannassero",
+                    "che loro spogliassero",
+                    "che essi spogliassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fraudavĕrim",
+                "traduzioni": [
+                    "che io abbia frodato",
+                    "che io abbia truffato",
+                    "che io abbia ingannato",
+                    "che io abbia spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fraudavĕris, fraudassis",
+                "traduzioni": [
+                    "che tu abbia frodato",
+                    "che tu abbia truffato",
+                    "che tu abbia ingannato",
+                    "che tu abbia spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fraudavĕrit",
+                "traduzioni": [
+                    "che lui abbia frodato",
+                    "che lei abbia frodato",
+                    "che egli abbia frodato",
+                    "che lui abbia truffato",
+                    "che lei abbia truffato",
+                    "che egli abbia truffato",
+                    "che lui abbia ingannato",
+                    "che lei abbia ingannato",
+                    "che egli abbia ingannato",
+                    "che lui abbia spogliato",
+                    "che lei abbia spogliato",
+                    "che egli abbia spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fraudaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo frodato",
+                    "che noi abbiamo truffato",
+                    "che noi abbiamo ingannato",
+                    "che noi abbiamo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fraudaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate frodato",
+                    "che voi abbiate truffato",
+                    "che voi abbiate ingannato",
+                    "che voi abbiate spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fraudavĕrint",
+                "traduzioni": [
+                    "che loro abbiano frodato",
+                    "che essi abbiano frodato",
+                    "che loro abbiano truffato",
+                    "che essi abbiano truffato",
+                    "che loro abbiano ingannato",
+                    "che essi abbiano ingannato",
+                    "che loro abbiano spogliato",
+                    "che essi abbiano spogliato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "fraudavissem",
+                "traduzioni": [
+                    "che io avessi frodato",
+                    "che io avessi truffato",
+                    "che io avessi ingannato",
+                    "che io avessi spogliato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "fraudavisses",
+                "traduzioni": [
+                    "che tu avessi frodato",
+                    "che tu avessi truffato",
+                    "che tu avessi ingannato",
+                    "che tu avessi spogliato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "fraudavisset",
+                "traduzioni": [
+                    "che lui avesse frodato",
+                    "che lei avesse frodato",
+                    "che egli avesse frodato",
+                    "che lui avesse truffato",
+                    "che lei avesse truffato",
+                    "che egli avesse truffato",
+                    "che lui avesse ingannato",
+                    "che lei avesse ingannato",
+                    "che egli avesse ingannato",
+                    "che lui avesse spogliato",
+                    "che lei avesse spogliato",
+                    "che egli avesse spogliato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "fraudavissēmus",
+                "traduzioni": [
+                    "che noi avessimo frodato",
+                    "che noi avessimo truffato",
+                    "che noi avessimo ingannato",
+                    "che noi avessimo spogliato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "fraudavissētis",
+                "traduzioni": [
+                    "che voi aveste frodato",
+                    "che voi aveste truffato",
+                    "che voi aveste ingannato",
+                    "che voi aveste spogliato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "fraudavissent",
+                "traduzioni": [
+                    "che loro avessero frodato",
+                    "che essi avessero frodato",
+                    "che loro avessero truffato",
+                    "che essi avessero truffato",
+                    "che loro avessero ingannato",
+                    "che essi avessero ingannato",
+                    "che loro avessero spogliato",
+                    "che essi avessero spogliato"
+                ]
+            }
+        ]
+    }
+}

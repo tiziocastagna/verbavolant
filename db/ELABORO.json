@@ -1,0 +1,505 @@
+{
+    "identifier": "ELABORO",
+    "conuigazione": "1",
+    "translation": [
+        "darsi da fare",
+        "(transitivo) elaborare",
+        "perfezionare",
+        "(transitivo) procurare"
+    ],
+    "valid_translations": [
+        "perfezionare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēlăbōro",
+                "traduzioni": [
+                    "io perfeziono"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēlăbōras",
+                "traduzioni": [
+                    "tu perfezioni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēlăbōrat",
+                "traduzioni": [
+                    "lui perfeziona",
+                    "lei perfeziona",
+                    "egli perfeziona"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēlăbōrāmus",
+                "traduzioni": [
+                    "noi perfezioniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēlăbōrātis",
+                "traduzioni": [
+                    "voi perfezionate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēlăbōrant",
+                "traduzioni": [
+                    "loro perfezionano",
+                    "essi perfezionano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēlăbōrābam",
+                "traduzioni": [
+                    "io perfezionavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēlăbōrābas",
+                "traduzioni": [
+                    "tu perfezionavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēlăbōrābat",
+                "traduzioni": [
+                    "lui perfezionava",
+                    "lei perfezionava",
+                    "egli perfezionava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēlăbōrabāmus",
+                "traduzioni": [
+                    "noi perfezionavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēlăbōrabātis",
+                "traduzioni": [
+                    "voi perfezionavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēlăbōrābant",
+                "traduzioni": [
+                    "loro perfezionavano",
+                    "essi perfezionavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēlăbōrābo",
+                "traduzioni": [
+                    "io perfezionerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēlăbōrābis",
+                "traduzioni": [
+                    "tu perfezionerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēlăbōrābit",
+                "traduzioni": [
+                    "lui perfezionerà",
+                    "lei perfezionerà",
+                    "egli perfezionerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēlăbōrabĭmus",
+                "traduzioni": [
+                    "noi perfezioneremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēlăbōrabĭtis",
+                "traduzioni": [
+                    "voi perfezionerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēlăbōrābunt",
+                "traduzioni": [
+                    "loro perfezioneranno",
+                    "essi perfezioneranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "elaboravi",
+                "traduzioni": [
+                    "io perfezionai",
+                    "io ho perfezionato",
+                    "io ebbi perfezionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "elaboravisti",
+                "traduzioni": [
+                    "tu perfezionasti",
+                    "tu hai perfezionato",
+                    "tu avesti perfezionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "elaboravit",
+                "traduzioni": [
+                    "lui perfezionò",
+                    "lei perfezionò",
+                    "egli perfezionò",
+                    "lui ha perfezionato",
+                    "lei ha perfezionato",
+                    "egli ha perfezionato",
+                    "lui ebbe perfezionato",
+                    "lei ebbe perfezionato",
+                    "egli ebbe perfezionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "elaboravĭmus",
+                "traduzioni": [
+                    "noi perfezionammo",
+                    "noi abbiamo perfezionato",
+                    "noi avemmo perfezionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "elaboravistis",
+                "traduzioni": [
+                    "voi perfezionaste",
+                    "voi avete perfezionato",
+                    "voi aveste perfezionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "elaboravēreunt, elaboravēre",
+                "traduzioni": [
+                    "loro perfezionarono",
+                    "essi perfezionarono",
+                    "loro hanno perfezionato",
+                    "essi hanno perfezionato",
+                    "loro ebbero perfezionato",
+                    "essi ebbero perfezionato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "elaboravĕram",
+                "traduzioni": [
+                    "io avevo perfezionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "elaboravĕras",
+                "traduzioni": [
+                    "tu avevi perfezionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "elaboravĕrat",
+                "traduzioni": [
+                    "lui aveva perfezionato",
+                    "lei aveva perfezionato",
+                    "egli aveva perfezionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "elaboraverāmus",
+                "traduzioni": [
+                    "noi avevamo perfezionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "elaboraverātis",
+                "traduzioni": [
+                    "voi avevate perfezionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "elaboravĕrant",
+                "traduzioni": [
+                    "loro avevano perfezionato",
+                    "essi avevano perfezionato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "elaboravĕro",
+                "traduzioni": [
+                    "io avrò perfezionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "elaboravĕris",
+                "traduzioni": [
+                    "tu avrai perfezionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "elaboravĕrit",
+                "traduzioni": [
+                    "lui avrà perfezionato",
+                    "lei avrà perfezionato",
+                    "egli avrà perfezionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "elaboraverĭmus",
+                "traduzioni": [
+                    "noi avremo perfezionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "elaboraverĭtis",
+                "traduzioni": [
+                    "voi avrete perfezionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "elaboravĕrint",
+                "traduzioni": [
+                    "loro avranno perfezionato",
+                    "essi avranno perfezionato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēlăbōrem",
+                "traduzioni": [
+                    "che io perfezioni"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēlăbōres",
+                "traduzioni": [
+                    "che tu perfezioni"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēlăbōret",
+                "traduzioni": [
+                    "che lui perfezioni",
+                    "che lei perfezioni",
+                    "che egli perfezioni"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēlăbōrēmus",
+                "traduzioni": [
+                    "che noi perfezioniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēlăbōrētis",
+                "traduzioni": [
+                    "che voi perfezioniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēlăbōrent",
+                "traduzioni": [
+                    "che loro perfezionino",
+                    "che essi perfezionino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēlăbōrārem",
+                "traduzioni": [
+                    "che io perfezionassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēlăbōrāres",
+                "traduzioni": [
+                    "che tu perfezionassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēlăbōrāret",
+                "traduzioni": [
+                    "che lui perfezionasse",
+                    "che lei perfezionasse",
+                    "che egli perfezionasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēlăbōrarēmus",
+                "traduzioni": [
+                    "che noi perfezionassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēlăbōrarētis",
+                "traduzioni": [
+                    "che voi perfezionaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēlăbōrārent",
+                "traduzioni": [
+                    "che loro perfezionassero",
+                    "che essi perfezionassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "elaboravĕrim",
+                "traduzioni": [
+                    "che io abbia perfezionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "elaboravĕris",
+                "traduzioni": [
+                    "che tu abbia perfezionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "elaboravĕrit",
+                "traduzioni": [
+                    "che lui abbia perfezionato",
+                    "che lei abbia perfezionato",
+                    "che egli abbia perfezionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "elaboraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo perfezionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "elaboraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate perfezionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "elaboravĕrint",
+                "traduzioni": [
+                    "che loro abbiano perfezionato",
+                    "che essi abbiano perfezionato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "elaboravissem",
+                "traduzioni": [
+                    "che io avessi perfezionato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "elaboravisses",
+                "traduzioni": [
+                    "che tu avessi perfezionato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "elaboravisset",
+                "traduzioni": [
+                    "che lui avesse perfezionato",
+                    "che lei avesse perfezionato",
+                    "che egli avesse perfezionato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "elaboravissēmus",
+                "traduzioni": [
+                    "che noi avessimo perfezionato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "elaboravissētis",
+                "traduzioni": [
+                    "che voi aveste perfezionato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "elaboravissent",
+                "traduzioni": [
+                    "che loro avessero perfezionato",
+                    "che essi avessero perfezionato"
+                ]
+            }
+        ]
+    }
+}

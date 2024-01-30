@@ -1,0 +1,832 @@
+{
+    "identifier": "DISSOCIO",
+    "conuigazione": "1",
+    "translation": [
+        "separare",
+        "dissociare",
+        "dividere",
+        "disunire"
+    ],
+    "valid_translations": [
+        "separare",
+        "dissociare",
+        "dividere",
+        "disunire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissŏcĭo",
+                "traduzioni": [
+                    "io separo",
+                    "io dissocio",
+                    "io divido",
+                    "io disunisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissŏcĭas",
+                "traduzioni": [
+                    "tu separi",
+                    "tu dissoci",
+                    "tu dividi",
+                    "tu disunisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissŏcĭat",
+                "traduzioni": [
+                    "lui separa",
+                    "lei separa",
+                    "egli separa",
+                    "lui dissocia",
+                    "lei dissocia",
+                    "egli dissocia",
+                    "lui divide",
+                    "lei divide",
+                    "egli divide",
+                    "lui disunisce",
+                    "lei disunisce",
+                    "egli disunisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissŏcĭāmus",
+                "traduzioni": [
+                    "noi separiamo",
+                    "noi dissociamo",
+                    "noi dividiamo",
+                    "noi disuniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissŏcĭātis",
+                "traduzioni": [
+                    "voi separate",
+                    "voi dissociate",
+                    "voi dividete",
+                    "voi disunite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissŏcĭant",
+                "traduzioni": [
+                    "loro separano",
+                    "essi separano",
+                    "loro dissociano",
+                    "essi dissociano",
+                    "loro dividono",
+                    "essi dividono",
+                    "loro disuniscono",
+                    "essi disuniscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissŏcĭābam",
+                "traduzioni": [
+                    "io separavo",
+                    "io dissociavo",
+                    "io dividevo",
+                    "io disunivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissŏcĭābas",
+                "traduzioni": [
+                    "tu separavi",
+                    "tu dissociavi",
+                    "tu dividevi",
+                    "tu disunivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissŏcĭābat",
+                "traduzioni": [
+                    "lui separava",
+                    "lei separava",
+                    "egli separava",
+                    "lui dissociava",
+                    "lei dissociava",
+                    "egli dissociava",
+                    "lui divideva",
+                    "lei divideva",
+                    "egli divideva",
+                    "lui disuniva",
+                    "lei disuniva",
+                    "egli disuniva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissŏcĭabāmus",
+                "traduzioni": [
+                    "noi separavamo",
+                    "noi dissociavamo",
+                    "noi dividevamo",
+                    "noi disunivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissŏcĭabātis",
+                "traduzioni": [
+                    "voi separavate",
+                    "voi dissociavate",
+                    "voi dividevate",
+                    "voi disunivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissŏcĭābant",
+                "traduzioni": [
+                    "loro separavano",
+                    "essi separavano",
+                    "loro dissociavano",
+                    "essi dissociavano",
+                    "loro dividevano",
+                    "essi dividevano",
+                    "loro disunivano",
+                    "essi disunivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissŏcĭābo",
+                "traduzioni": [
+                    "io separerò",
+                    "io dissocerò",
+                    "io dividerò",
+                    "io disunirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissŏcĭābis",
+                "traduzioni": [
+                    "tu separerai",
+                    "tu dissocerai",
+                    "tu dividerai",
+                    "tu disunirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissŏcĭābit",
+                "traduzioni": [
+                    "lui separerà",
+                    "lei separerà",
+                    "egli separerà",
+                    "lui dissocerà",
+                    "lei dissocerà",
+                    "egli dissocerà",
+                    "lui dividerà",
+                    "lei dividerà",
+                    "egli dividerà",
+                    "lui disunirà",
+                    "lei disunirà",
+                    "egli disunirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissŏcĭabĭmus",
+                "traduzioni": [
+                    "noi separeremo",
+                    "noi dissoceremo",
+                    "noi divideremo",
+                    "noi disuniremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissŏcĭabĭtis",
+                "traduzioni": [
+                    "voi separerete",
+                    "voi dissocerete",
+                    "voi dividerete",
+                    "voi disunirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissŏcĭābunt",
+                "traduzioni": [
+                    "loro separeranno",
+                    "essi separeranno",
+                    "loro dissoceranno",
+                    "essi dissoceranno",
+                    "loro divideranno",
+                    "essi divideranno",
+                    "loro disuniranno",
+                    "essi disuniranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissociavi",
+                "traduzioni": [
+                    "io separai",
+                    "io ho separato",
+                    "io ebbi separato",
+                    "io dissociai",
+                    "io ho dissociato",
+                    "io ebbi dissociato",
+                    "io divisi",
+                    "io ho diviso",
+                    "io ebbi diviso",
+                    "io disunii",
+                    "io ho disunito",
+                    "io ebbi disunito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissociavisti",
+                "traduzioni": [
+                    "tu separasti",
+                    "tu hai separato",
+                    "tu avesti separato",
+                    "tu dissociasti",
+                    "tu hai dissociato",
+                    "tu avesti dissociato",
+                    "tu dividesti",
+                    "tu hai diviso",
+                    "tu avesti diviso",
+                    "tu disunisti",
+                    "tu hai disunito",
+                    "tu avesti disunito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissociavit",
+                "traduzioni": [
+                    "lui separò",
+                    "lei separò",
+                    "egli separò",
+                    "lui ha separato",
+                    "lei ha separato",
+                    "egli ha separato",
+                    "lui ebbe separato",
+                    "lei ebbe separato",
+                    "egli ebbe separato",
+                    "lui dissociò",
+                    "lei dissociò",
+                    "egli dissociò",
+                    "lui ha dissociato",
+                    "lei ha dissociato",
+                    "egli ha dissociato",
+                    "lui ebbe dissociato",
+                    "lei ebbe dissociato",
+                    "egli ebbe dissociato",
+                    "lui divise",
+                    "lei divise",
+                    "egli divise",
+                    "lui ha diviso",
+                    "lei ha diviso",
+                    "egli ha diviso",
+                    "lui ebbe diviso",
+                    "lei ebbe diviso",
+                    "egli ebbe diviso",
+                    "lui disunì",
+                    "lei disunì",
+                    "egli disunì",
+                    "lui ha disunito",
+                    "lei ha disunito",
+                    "egli ha disunito",
+                    "lui ebbe disunito",
+                    "lei ebbe disunito",
+                    "egli ebbe disunito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissociavĭmus",
+                "traduzioni": [
+                    "noi separammo",
+                    "noi abbiamo separato",
+                    "noi avemmo separato",
+                    "noi dissociammo",
+                    "noi abbiamo dissociato",
+                    "noi avemmo dissociato",
+                    "noi dividemmo",
+                    "noi abbiamo diviso",
+                    "noi avemmo diviso",
+                    "noi disunimmo",
+                    "noi abbiamo disunito",
+                    "noi avemmo disunito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissociavistis",
+                "traduzioni": [
+                    "voi separaste",
+                    "voi avete separato",
+                    "voi aveste separato",
+                    "voi dissociaste",
+                    "voi avete dissociato",
+                    "voi aveste dissociato",
+                    "voi divideste",
+                    "voi avete diviso",
+                    "voi aveste diviso",
+                    "voi disuniste",
+                    "voi avete disunito",
+                    "voi aveste disunito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissociavērunt, dissociavēre",
+                "traduzioni": [
+                    "loro separarono",
+                    "essi separarono",
+                    "loro hanno separato",
+                    "essi hanno separato",
+                    "loro ebbero separato",
+                    "essi ebbero separato",
+                    "loro dissociarono",
+                    "essi dissociarono",
+                    "loro hanno dissociato",
+                    "essi hanno dissociato",
+                    "loro ebbero dissociato",
+                    "essi ebbero dissociato",
+                    "loro divisero",
+                    "essi divisero",
+                    "loro hanno diviso",
+                    "essi hanno diviso",
+                    "loro ebbero diviso",
+                    "essi ebbero diviso",
+                    "loro disunirono",
+                    "essi disunirono",
+                    "loro hanno disunito",
+                    "essi hanno disunito",
+                    "loro ebbero disunito",
+                    "essi ebbero disunito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissociavĕram",
+                "traduzioni": [
+                    "io avevo separato",
+                    "io avevo dissociato",
+                    "io avevo diviso",
+                    "io avevo disunito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissociavĕras",
+                "traduzioni": [
+                    "tu avevi separato",
+                    "tu avevi dissociato",
+                    "tu avevi diviso",
+                    "tu avevi disunito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissociavĕrat",
+                "traduzioni": [
+                    "lui aveva separato",
+                    "lei aveva separato",
+                    "egli aveva separato",
+                    "lui aveva dissociato",
+                    "lei aveva dissociato",
+                    "egli aveva dissociato",
+                    "lui aveva diviso",
+                    "lei aveva diviso",
+                    "egli aveva diviso",
+                    "lui aveva disunito",
+                    "lei aveva disunito",
+                    "egli aveva disunito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissociaverāmus",
+                "traduzioni": [
+                    "noi avevamo separato",
+                    "noi avevamo dissociato",
+                    "noi avevamo diviso",
+                    "noi avevamo disunito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissociaverātis",
+                "traduzioni": [
+                    "voi avevate separato",
+                    "voi avevate dissociato",
+                    "voi avevate diviso",
+                    "voi avevate disunito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissociavĕrant",
+                "traduzioni": [
+                    "loro avevano separato",
+                    "essi avevano separato",
+                    "loro avevano dissociato",
+                    "essi avevano dissociato",
+                    "loro avevano diviso",
+                    "essi avevano diviso",
+                    "loro avevano disunito",
+                    "essi avevano disunito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissociavĕro",
+                "traduzioni": [
+                    "io avrò separato",
+                    "io avrò dissociato",
+                    "io avrò diviso",
+                    "io avrò disunito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissociavĕris",
+                "traduzioni": [
+                    "tu avrai separato",
+                    "tu avrai dissociato",
+                    "tu avrai diviso",
+                    "tu avrai disunito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissociavĕrit",
+                "traduzioni": [
+                    "lui avrà separato",
+                    "lei avrà separato",
+                    "egli avrà separato",
+                    "lui avrà dissociato",
+                    "lei avrà dissociato",
+                    "egli avrà dissociato",
+                    "lui avrà diviso",
+                    "lei avrà diviso",
+                    "egli avrà diviso",
+                    "lui avrà disunito",
+                    "lei avrà disunito",
+                    "egli avrà disunito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissociaverĭmus",
+                "traduzioni": [
+                    "noi avremo separato",
+                    "noi avremo dissociato",
+                    "noi avremo diviso",
+                    "noi avremo disunito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissociaverĭtis",
+                "traduzioni": [
+                    "voi avrete separato",
+                    "voi avrete dissociato",
+                    "voi avrete diviso",
+                    "voi avrete disunito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissociavĕrint",
+                "traduzioni": [
+                    "loro avranno separato",
+                    "essi avranno separato",
+                    "loro avranno dissociato",
+                    "essi avranno dissociato",
+                    "loro avranno diviso",
+                    "essi avranno diviso",
+                    "loro avranno disunito",
+                    "essi avranno disunito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissŏcĭem",
+                "traduzioni": [
+                    "che io separi",
+                    "che io dissoci",
+                    "che io divida",
+                    "che io disunisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissŏcĭes",
+                "traduzioni": [
+                    "che tu separi",
+                    "che tu dissoci",
+                    "che tu divida",
+                    "che tu disunisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissŏcĭet",
+                "traduzioni": [
+                    "che lui separi",
+                    "che lei separi",
+                    "che egli separi",
+                    "che lui dissoci",
+                    "che lei dissoci",
+                    "che egli dissoci",
+                    "che lui divida",
+                    "che lei divida",
+                    "che egli divida",
+                    "che lui disunisca",
+                    "che lei disunisca",
+                    "che egli disunisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissŏcĭēmus",
+                "traduzioni": [
+                    "che noi separiamo",
+                    "che noi dissociamo",
+                    "che noi dividiamo",
+                    "che noi disuniamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissŏcĭētis",
+                "traduzioni": [
+                    "che voi separiate",
+                    "che voi dissociate",
+                    "che voi dividiate",
+                    "che voi disuniate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissŏcĭent",
+                "traduzioni": [
+                    "che loro separino",
+                    "che essi separino",
+                    "che loro dissocino",
+                    "che essi dissocino",
+                    "che loro dividano",
+                    "che essi dividano",
+                    "che loro disuniscano",
+                    "che essi disuniscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissŏcĭārem",
+                "traduzioni": [
+                    "che io separassi",
+                    "che io dissociassi",
+                    "che io dividessi",
+                    "che io disunissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissŏcĭāres",
+                "traduzioni": [
+                    "che tu separassi",
+                    "che tu dissociassi",
+                    "che tu dividessi",
+                    "che tu disunissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissŏcĭāret",
+                "traduzioni": [
+                    "che lui separasse",
+                    "che lei separasse",
+                    "che egli separasse",
+                    "che lui dissociasse",
+                    "che lei dissociasse",
+                    "che egli dissociasse",
+                    "che lui dividesse",
+                    "che lei dividesse",
+                    "che egli dividesse",
+                    "che lui disunisse",
+                    "che lei disunisse",
+                    "che egli disunisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissŏcĭarēmus",
+                "traduzioni": [
+                    "che noi separassimo",
+                    "che noi dissociassimo",
+                    "che noi dividessimo",
+                    "che noi disunissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissŏcĭarētis",
+                "traduzioni": [
+                    "che voi separaste",
+                    "che voi dissociaste",
+                    "che voi divideste",
+                    "che voi disuniste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissŏcĭārent",
+                "traduzioni": [
+                    "che loro separassero",
+                    "che essi separassero",
+                    "che loro dissociassero",
+                    "che essi dissociassero",
+                    "che loro dividessero",
+                    "che essi dividessero",
+                    "che loro disunissero",
+                    "che essi disunissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissociavĕrim",
+                "traduzioni": [
+                    "che io abbia separato",
+                    "che io abbia dissociato",
+                    "che io abbia diviso",
+                    "che io abbia disunito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissociavĕris",
+                "traduzioni": [
+                    "che tu abbia separato",
+                    "che tu abbia dissociato",
+                    "che tu abbia diviso",
+                    "che tu abbia disunito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissociavĕrit",
+                "traduzioni": [
+                    "che lui abbia separato",
+                    "che lei abbia separato",
+                    "che egli abbia separato",
+                    "che lui abbia dissociato",
+                    "che lei abbia dissociato",
+                    "che egli abbia dissociato",
+                    "che lui abbia diviso",
+                    "che lei abbia diviso",
+                    "che egli abbia diviso",
+                    "che lui abbia disunito",
+                    "che lei abbia disunito",
+                    "che egli abbia disunito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissociaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo separato",
+                    "che noi abbiamo dissociato",
+                    "che noi abbiamo diviso",
+                    "che noi abbiamo disunito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissociaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate separato",
+                    "che voi abbiate dissociato",
+                    "che voi abbiate diviso",
+                    "che voi abbiate disunito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissociavĕrint",
+                "traduzioni": [
+                    "che loro abbiano separato",
+                    "che essi abbiano separato",
+                    "che loro abbiano dissociato",
+                    "che essi abbiano dissociato",
+                    "che loro abbiano diviso",
+                    "che essi abbiano diviso",
+                    "che loro abbiano disunito",
+                    "che essi abbiano disunito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dissociavissem",
+                "traduzioni": [
+                    "che io avessi separato",
+                    "che io avessi dissociato",
+                    "che io avessi diviso",
+                    "che io avessi disunito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dissociavisses",
+                "traduzioni": [
+                    "che tu avessi separato",
+                    "che tu avessi dissociato",
+                    "che tu avessi diviso",
+                    "che tu avessi disunito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dissociavisset",
+                "traduzioni": [
+                    "che lui avesse separato",
+                    "che lei avesse separato",
+                    "che egli avesse separato",
+                    "che lui avesse dissociato",
+                    "che lei avesse dissociato",
+                    "che egli avesse dissociato",
+                    "che lui avesse diviso",
+                    "che lei avesse diviso",
+                    "che egli avesse diviso",
+                    "che lui avesse disunito",
+                    "che lei avesse disunito",
+                    "che egli avesse disunito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dissociavissēmus",
+                "traduzioni": [
+                    "che noi avessimo separato",
+                    "che noi avessimo dissociato",
+                    "che noi avessimo diviso",
+                    "che noi avessimo disunito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dissociavissētis",
+                "traduzioni": [
+                    "che voi aveste separato",
+                    "che voi aveste dissociato",
+                    "che voi aveste diviso",
+                    "che voi aveste disunito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dissociavissent",
+                "traduzioni": [
+                    "che loro avessero separato",
+                    "che essi avessero separato",
+                    "che loro avessero dissociato",
+                    "che essi avessero dissociato",
+                    "che loro avessero diviso",
+                    "che essi avessero diviso",
+                    "che loro avessero disunito",
+                    "che essi avessero disunito"
+                ]
+            }
+        ]
+    }
+}

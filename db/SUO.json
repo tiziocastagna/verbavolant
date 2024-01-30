@@ -1,0 +1,503 @@
+{
+    "identifier": "SUO",
+    "conuigazione": "3",
+    "translation": [
+        "cucire",
+        "medicina suturare"
+    ],
+    "valid_translations": [
+        "cucire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŭo",
+                "traduzioni": [
+                    "io cucio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŭis",
+                "traduzioni": [
+                    "tu cuci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŭit",
+                "traduzioni": [
+                    "lui cuce",
+                    "lei cuce",
+                    "egli cuce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŭĭmus",
+                "traduzioni": [
+                    "noi cuciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŭĭtis",
+                "traduzioni": [
+                    "voi cucite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŭunt",
+                "traduzioni": [
+                    "loro cuciono",
+                    "essi cuciono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŭēbam",
+                "traduzioni": [
+                    "io cucivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŭēbas",
+                "traduzioni": [
+                    "tu cucivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŭēbat",
+                "traduzioni": [
+                    "lui cuciva",
+                    "lei cuciva",
+                    "egli cuciva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŭebāmus",
+                "traduzioni": [
+                    "noi cucivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŭebātis",
+                "traduzioni": [
+                    "voi cucivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŭēbant",
+                "traduzioni": [
+                    "loro cucivano",
+                    "essi cucivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŭam",
+                "traduzioni": [
+                    "io cucirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŭes",
+                "traduzioni": [
+                    "tu cucirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŭet",
+                "traduzioni": [
+                    "lui cucirà",
+                    "lei cucirà",
+                    "egli cucirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŭēmus",
+                "traduzioni": [
+                    "noi cuciremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŭētis",
+                "traduzioni": [
+                    "voi cucirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŭent",
+                "traduzioni": [
+                    "loro cuciranno",
+                    "essi cuciranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sui",
+                "traduzioni": [
+                    "io cucii",
+                    "io ho cucito",
+                    "io ebbi cucito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "suisti",
+                "traduzioni": [
+                    "tu cucisti",
+                    "tu hai cucito",
+                    "tu avesti cucito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "suit",
+                "traduzioni": [
+                    "lui cucì",
+                    "lei cucì",
+                    "egli cucì",
+                    "lui ha cucito",
+                    "lei ha cucito",
+                    "egli ha cucito",
+                    "lui ebbe cucito",
+                    "lei ebbe cucito",
+                    "egli ebbe cucito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "suĭmus",
+                "traduzioni": [
+                    "noi cucimmo",
+                    "noi abbiamo cucito",
+                    "noi avemmo cucito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "suistis",
+                "traduzioni": [
+                    "voi cuciste",
+                    "voi avete cucito",
+                    "voi aveste cucito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "suērunt, suēre",
+                "traduzioni": [
+                    "loro cucirono",
+                    "essi cucirono",
+                    "loro hanno cucito",
+                    "essi hanno cucito",
+                    "loro ebbero cucito",
+                    "essi ebbero cucito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "suĕram",
+                "traduzioni": [
+                    "io avevo cucito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "suĕras",
+                "traduzioni": [
+                    "tu avevi cucito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "suĕrat",
+                "traduzioni": [
+                    "lui aveva cucito",
+                    "lei aveva cucito",
+                    "egli aveva cucito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "suerāmus",
+                "traduzioni": [
+                    "noi avevamo cucito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "suerātis",
+                "traduzioni": [
+                    "voi avevate cucito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "suĕrant",
+                "traduzioni": [
+                    "loro avevano cucito",
+                    "essi avevano cucito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "suĕro",
+                "traduzioni": [
+                    "io avrò cucito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "suĕris",
+                "traduzioni": [
+                    "tu avrai cucito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "suĕrit",
+                "traduzioni": [
+                    "lui avrà cucito",
+                    "lei avrà cucito",
+                    "egli avrà cucito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "suerĭmus",
+                "traduzioni": [
+                    "noi avremo cucito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "suerĭtis",
+                "traduzioni": [
+                    "voi avrete cucito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "suĕrint",
+                "traduzioni": [
+                    "loro avranno cucito",
+                    "essi avranno cucito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŭam",
+                "traduzioni": [
+                    "che io cucia"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŭas",
+                "traduzioni": [
+                    "che tu cucia"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŭat",
+                "traduzioni": [
+                    "che lui cucia",
+                    "che lei cucia",
+                    "che egli cucia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŭāmus",
+                "traduzioni": [
+                    "che noi cuciamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŭātis",
+                "traduzioni": [
+                    "che voi cuciate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŭant",
+                "traduzioni": [
+                    "che loro cuciano",
+                    "che essi cuciano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŭĕrem",
+                "traduzioni": [
+                    "che io cucissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŭĕres",
+                "traduzioni": [
+                    "che tu cucissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŭĕret",
+                "traduzioni": [
+                    "che lui cucisse",
+                    "che lei cucisse",
+                    "che egli cucisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŭerēmus",
+                "traduzioni": [
+                    "che noi cucissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŭerētis",
+                "traduzioni": [
+                    "che voi cuciste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŭĕrent",
+                "traduzioni": [
+                    "che loro cucissero",
+                    "che essi cucissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "suĕrim",
+                "traduzioni": [
+                    "che io abbia cucito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "suĕris",
+                "traduzioni": [
+                    "che tu abbia cucito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "suĕrit",
+                "traduzioni": [
+                    "che lui abbia cucito",
+                    "che lei abbia cucito",
+                    "che egli abbia cucito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "suerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo cucito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "suerĭtis",
+                "traduzioni": [
+                    "che voi abbiate cucito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "suĕrint",
+                "traduzioni": [
+                    "che loro abbiano cucito",
+                    "che essi abbiano cucito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "suissem",
+                "traduzioni": [
+                    "che io avessi cucito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "suisses",
+                "traduzioni": [
+                    "che tu avessi cucito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "suisset",
+                "traduzioni": [
+                    "che lui avesse cucito",
+                    "che lei avesse cucito",
+                    "che egli avesse cucito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "suissēmus",
+                "traduzioni": [
+                    "che noi avessimo cucito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "suissētis",
+                "traduzioni": [
+                    "che voi aveste cucito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "suissent",
+                "traduzioni": [
+                    "che loro avessero cucito",
+                    "che essi avessero cucito"
+                ]
+            }
+        ]
+    }
+}

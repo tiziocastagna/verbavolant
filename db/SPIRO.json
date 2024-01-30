@@ -1,0 +1,979 @@
+{
+    "identifier": "SPIRO",
+    "conuigazione": "1",
+    "translation": [
+        "(intransitivo) spirare",
+        "soffiare",
+        "(intransitivo) odorare",
+        "profumare",
+        "palpitare delle viscere",
+        "(intransitivo) respirare",
+        "ansimare",
+        "(intransitivo; in senso figurato) vivere",
+        "(transitivo) esalare",
+        "emanare",
+        "emettere",
+        "(transitivo; in senso figurato) anelare"
+    ],
+    "valid_translations": [
+        "soffiare",
+        "profumare",
+        "ansimare",
+        "emanare",
+        "emettere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "spīro",
+                "traduzioni": [
+                    "io soffio",
+                    "io profumo",
+                    "io ansimo",
+                    "io emano",
+                    "io emetto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spīras",
+                "traduzioni": [
+                    "tu soffi",
+                    "tu profumi",
+                    "tu ansimi",
+                    "tu emani",
+                    "tu emetti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spīrat",
+                "traduzioni": [
+                    "lui soffia",
+                    "lei soffia",
+                    "egli soffia",
+                    "lui profuma",
+                    "lei profuma",
+                    "egli profuma",
+                    "lui ansima",
+                    "lei ansima",
+                    "egli ansima",
+                    "lui emana",
+                    "lei emana",
+                    "egli emana",
+                    "lui emette",
+                    "lei emette",
+                    "egli emette"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spīrāmus",
+                "traduzioni": [
+                    "noi soffiamo",
+                    "noi profumiamo",
+                    "noi ansimiamo",
+                    "noi emaniamo",
+                    "noi emettiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spīrātis",
+                "traduzioni": [
+                    "voi soffiate",
+                    "voi profumate",
+                    "voi ansimate",
+                    "voi emanate",
+                    "voi emettete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spīrant",
+                "traduzioni": [
+                    "loro soffiano",
+                    "essi soffiano",
+                    "loro profumano",
+                    "essi profumano",
+                    "loro ansimano",
+                    "essi ansimano",
+                    "loro emanano",
+                    "essi emanano",
+                    "loro emettono",
+                    "essi emettono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "spīrābam",
+                "traduzioni": [
+                    "io soffiavo",
+                    "io profumavo",
+                    "io ansimavo",
+                    "io emanavo",
+                    "io emettevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spīrābas",
+                "traduzioni": [
+                    "tu soffiavi",
+                    "tu profumavi",
+                    "tu ansimavi",
+                    "tu emanavi",
+                    "tu emettevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spīrābat",
+                "traduzioni": [
+                    "lui soffiava",
+                    "lei soffiava",
+                    "egli soffiava",
+                    "lui profumava",
+                    "lei profumava",
+                    "egli profumava",
+                    "lui ansimava",
+                    "lei ansimava",
+                    "egli ansimava",
+                    "lui emanava",
+                    "lei emanava",
+                    "egli emanava",
+                    "lui emetteva",
+                    "lei emetteva",
+                    "egli emetteva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spīrabāmus",
+                "traduzioni": [
+                    "noi soffiavamo",
+                    "noi profumavamo",
+                    "noi ansimavamo",
+                    "noi emanavamo",
+                    "noi emettevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spīrabātis",
+                "traduzioni": [
+                    "voi soffiavate",
+                    "voi profumavate",
+                    "voi ansimavate",
+                    "voi emanavate",
+                    "voi emettevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spīrābant",
+                "traduzioni": [
+                    "loro soffiavano",
+                    "essi soffiavano",
+                    "loro profumavano",
+                    "essi profumavano",
+                    "loro ansimavano",
+                    "essi ansimavano",
+                    "loro emanavano",
+                    "essi emanavano",
+                    "loro emettevano",
+                    "essi emettevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "spīrābo",
+                "traduzioni": [
+                    "io soffierò",
+                    "io profumerò",
+                    "io ansimerò",
+                    "io emanerò",
+                    "io emetterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spīrābis",
+                "traduzioni": [
+                    "tu soffierai",
+                    "tu profumerai",
+                    "tu ansimerai",
+                    "tu emanerai",
+                    "tu emetterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spīrābit",
+                "traduzioni": [
+                    "lui soffierà",
+                    "lei soffierà",
+                    "egli soffierà",
+                    "lui profumerà",
+                    "lei profumerà",
+                    "egli profumerà",
+                    "lui ansimerà",
+                    "lei ansimerà",
+                    "egli ansimerà",
+                    "lui emanerà",
+                    "lei emanerà",
+                    "egli emanerà",
+                    "lui emetterà",
+                    "lei emetterà",
+                    "egli emetterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spīrabĭmus",
+                "traduzioni": [
+                    "noi soffieremo",
+                    "noi profumeremo",
+                    "noi ansimeremo",
+                    "noi emaneremo",
+                    "noi emetteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spīrabĭtis",
+                "traduzioni": [
+                    "voi soffierete",
+                    "voi profumerete",
+                    "voi ansimerete",
+                    "voi emanerete",
+                    "voi emetterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spīrābunt",
+                "traduzioni": [
+                    "loro soffieranno",
+                    "essi soffieranno",
+                    "loro profumeranno",
+                    "essi profumeranno",
+                    "loro ansimeranno",
+                    "essi ansimeranno",
+                    "loro emaneranno",
+                    "essi emaneranno",
+                    "loro emetteranno",
+                    "essi emetteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "spiravi",
+                "traduzioni": [
+                    "io soffiai",
+                    "io ho soffiato",
+                    "io ebbi soffiato",
+                    "io profumai",
+                    "io ho profumato",
+                    "io ebbi profumato",
+                    "io ansimai",
+                    "io ho ansimato",
+                    "io ebbi ansimato",
+                    "io emanai",
+                    "io sono emanato",
+                    "io sono emanata",
+                    "io fui emanato",
+                    "io fui emanata",
+                    "io emisi",
+                    "io ho emesso",
+                    "io ebbi emesso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spiravisti",
+                "traduzioni": [
+                    "tu soffiasti",
+                    "tu hai soffiato",
+                    "tu avesti soffiato",
+                    "tu profumasti",
+                    "tu hai profumato",
+                    "tu avesti profumato",
+                    "tu ansimasti",
+                    "tu hai ansimato",
+                    "tu avesti ansimato",
+                    "tu emanasti",
+                    "tu sei emanato",
+                    "tu sei emanata",
+                    "tu fosti emanato",
+                    "tu fosti emanata",
+                    "tu emettesti",
+                    "tu hai emesso",
+                    "tu avesti emesso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spiravit",
+                "traduzioni": [
+                    "lui soffiò",
+                    "lei soffiò",
+                    "egli soffiò",
+                    "lui ha soffiato",
+                    "lei ha soffiato",
+                    "egli ha soffiato",
+                    "lui ebbe soffiato",
+                    "lei ebbe soffiato",
+                    "egli ebbe soffiato",
+                    "lui profumò",
+                    "lei profumò",
+                    "egli profumò",
+                    "lui ha profumato",
+                    "lei ha profumato",
+                    "egli ha profumato",
+                    "lui ebbe profumato",
+                    "lei ebbe profumato",
+                    "egli ebbe profumato",
+                    "lui ansimò",
+                    "lei ansimò",
+                    "egli ansimò",
+                    "lui ha ansimato",
+                    "lei ha ansimato",
+                    "egli ha ansimato",
+                    "lui ebbe ansimato",
+                    "lei ebbe ansimato",
+                    "egli ebbe ansimato",
+                    "lui emanò",
+                    "lei emanò",
+                    "egli emanò",
+                    "lui è emanato",
+                    "lei è emanata",
+                    "egli è emanato",
+                    "lui fu emanato",
+                    "lei fu emanata",
+                    "egli fu emanato",
+                    "lui emise",
+                    "lei emise",
+                    "egli emise",
+                    "lui ha emesso",
+                    "lei ha emesso",
+                    "egli ha emesso",
+                    "lui ebbe emesso",
+                    "lei ebbe emesso",
+                    "egli ebbe emesso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spiravĭmus",
+                "traduzioni": [
+                    "noi soffiammo",
+                    "noi abbiamo soffiato",
+                    "noi avemmo soffiato",
+                    "noi profumammo",
+                    "noi abbiamo profumato",
+                    "noi avemmo profumato",
+                    "noi ansimammo",
+                    "noi abbiamo ansimato",
+                    "noi avemmo ansimato",
+                    "noi emanammo",
+                    "noi siamo emanati",
+                    "noi siamo emanate",
+                    "noi fummo emanati",
+                    "noi fummo emanate",
+                    "noi emettemmo",
+                    "noi abbiamo emesso",
+                    "noi avemmo emesso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spiravistis",
+                "traduzioni": [
+                    "voi soffiaste",
+                    "voi avete soffiato",
+                    "voi aveste soffiato",
+                    "voi profumaste",
+                    "voi avete profumato",
+                    "voi aveste profumato",
+                    "voi ansimaste",
+                    "voi avete ansimato",
+                    "voi aveste ansimato",
+                    "voi emanaste",
+                    "voi siete emanati",
+                    "voi siete emanate",
+                    "voi foste emanati",
+                    "voi foste emanate",
+                    "voi emetteste",
+                    "voi avete emesso",
+                    "voi aveste emesso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spiravēreunt, spiravēre",
+                "traduzioni": [
+                    "loro soffiarono",
+                    "essi soffiarono",
+                    "loro hanno soffiato",
+                    "essi hanno soffiato",
+                    "loro ebbero soffiato",
+                    "essi ebbero soffiato",
+                    "loro profumarono",
+                    "essi profumarono",
+                    "loro hanno profumato",
+                    "essi hanno profumato",
+                    "loro ebbero profumato",
+                    "essi ebbero profumato",
+                    "loro ansimarono",
+                    "essi ansimarono",
+                    "loro hanno ansimato",
+                    "essi hanno ansimato",
+                    "loro ebbero ansimato",
+                    "essi ebbero ansimato",
+                    "loro emanarono",
+                    "essi emanarono",
+                    "loro sono emanati",
+                    "loro sono emanate",
+                    "essi sono emanati",
+                    "loro furono emanati",
+                    "loro furono emanate",
+                    "essi furono emanati",
+                    "loro emisero",
+                    "essi emisero",
+                    "loro hanno emesso",
+                    "essi hanno emesso",
+                    "loro ebbero emesso",
+                    "essi ebbero emesso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "spiravĕram",
+                "traduzioni": [
+                    "io avevo soffiato",
+                    "io avevo profumato",
+                    "io avevo ansimato",
+                    "io ero emanato",
+                    "io ero emanata",
+                    "io avevo emesso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spiravĕras",
+                "traduzioni": [
+                    "tu avevi soffiato",
+                    "tu avevi profumato",
+                    "tu avevi ansimato",
+                    "tu eri emanato",
+                    "tu eri emanata",
+                    "tu avevi emesso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spiravĕrat",
+                "traduzioni": [
+                    "lui aveva soffiato",
+                    "lei aveva soffiato",
+                    "egli aveva soffiato",
+                    "lui aveva profumato",
+                    "lei aveva profumato",
+                    "egli aveva profumato",
+                    "lui aveva ansimato",
+                    "lei aveva ansimato",
+                    "egli aveva ansimato",
+                    "lui era emanato",
+                    "lei era emanata",
+                    "egli era emanato",
+                    "lui aveva emesso",
+                    "lei aveva emesso",
+                    "egli aveva emesso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spiraverāmus",
+                "traduzioni": [
+                    "noi avevamo soffiato",
+                    "noi avevamo profumato",
+                    "noi avevamo ansimato",
+                    "noi eravamo emanati",
+                    "noi eravamo emanate",
+                    "noi avevamo emesso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spiraverātis",
+                "traduzioni": [
+                    "voi avevate soffiato",
+                    "voi avevate profumato",
+                    "voi avevate ansimato",
+                    "voi eravate emanati",
+                    "voi eravate emanate",
+                    "voi avevate emesso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spiravĕrant",
+                "traduzioni": [
+                    "loro avevano soffiato",
+                    "essi avevano soffiato",
+                    "loro avevano profumato",
+                    "essi avevano profumato",
+                    "loro avevano ansimato",
+                    "essi avevano ansimato",
+                    "loro erano emanati",
+                    "loro erano emanate",
+                    "essi erano emanati",
+                    "loro avevano emesso",
+                    "essi avevano emesso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "spiravĕro",
+                "traduzioni": [
+                    "io avrò soffiato",
+                    "io avrò profumato",
+                    "io avrò ansimato",
+                    "io sarò emanato",
+                    "io sarò emanata",
+                    "io avrò emesso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spiravĕris",
+                "traduzioni": [
+                    "tu avrai soffiato",
+                    "tu avrai profumato",
+                    "tu avrai ansimato",
+                    "tu sarai emanato",
+                    "tu sarai emanata",
+                    "tu avrai emesso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spiravĕrit",
+                "traduzioni": [
+                    "lui avrà soffiato",
+                    "lei avrà soffiato",
+                    "egli avrà soffiato",
+                    "lui avrà profumato",
+                    "lei avrà profumato",
+                    "egli avrà profumato",
+                    "lui avrà ansimato",
+                    "lei avrà ansimato",
+                    "egli avrà ansimato",
+                    "lui sarà emanato",
+                    "lei sarà emanata",
+                    "egli sarà emanato",
+                    "lui avrà emesso",
+                    "lei avrà emesso",
+                    "egli avrà emesso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spiraverĭmus",
+                "traduzioni": [
+                    "noi avremo soffiato",
+                    "noi avremo profumato",
+                    "noi avremo ansimato",
+                    "noi saremo emanati",
+                    "noi saremo emanate",
+                    "noi avremo emesso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spiraverĭtis",
+                "traduzioni": [
+                    "voi avrete soffiato",
+                    "voi avrete profumato",
+                    "voi avrete ansimato",
+                    "voi sarete emanati",
+                    "voi sarete emanate",
+                    "voi avrete emesso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spiravĕrint",
+                "traduzioni": [
+                    "loro avranno soffiato",
+                    "essi avranno soffiato",
+                    "loro avranno profumato",
+                    "essi avranno profumato",
+                    "loro avranno ansimato",
+                    "essi avranno ansimato",
+                    "loro saranno emanati",
+                    "loro saranno emanate",
+                    "essi saranno emanati",
+                    "loro avranno emesso",
+                    "essi avranno emesso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "spīrem",
+                "traduzioni": [
+                    "che io soffi",
+                    "che io profumi",
+                    "che io ansimi",
+                    "che io emani",
+                    "che io emetta"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spīres",
+                "traduzioni": [
+                    "che tu soffi",
+                    "che tu profumi",
+                    "che tu ansimi",
+                    "che tu emani",
+                    "che tu emetta"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spīret",
+                "traduzioni": [
+                    "che lui soffi",
+                    "che lei soffi",
+                    "che egli soffi",
+                    "che lui profumi",
+                    "che lei profumi",
+                    "che egli profumi",
+                    "che lui ansimi",
+                    "che lei ansimi",
+                    "che egli ansimi",
+                    "che lui emani",
+                    "che lei emani",
+                    "che egli emani",
+                    "che lui emetta",
+                    "che lei emetta",
+                    "che egli emetta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spīrēmus",
+                "traduzioni": [
+                    "che noi soffiamo",
+                    "che noi profumiamo",
+                    "che noi ansimiamo",
+                    "che noi emaniamo",
+                    "che noi emettiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spīrētis",
+                "traduzioni": [
+                    "che voi soffiate",
+                    "che voi profumiate",
+                    "che voi ansimiate",
+                    "che voi emaniate",
+                    "che voi emettiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spīrent",
+                "traduzioni": [
+                    "che loro soffino",
+                    "che essi soffino",
+                    "che loro profumino",
+                    "che essi profumino",
+                    "che loro ansimino",
+                    "che essi ansimino",
+                    "che loro emanino",
+                    "che essi emanino",
+                    "che loro emettano",
+                    "che essi emettano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "spīrārem",
+                "traduzioni": [
+                    "che io soffiassi",
+                    "che io profumassi",
+                    "che io ansimassi",
+                    "che io emanassi",
+                    "che io emettessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spīrāres",
+                "traduzioni": [
+                    "che tu soffiassi",
+                    "che tu profumassi",
+                    "che tu ansimassi",
+                    "che tu emanassi",
+                    "che tu emettessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spīrāret",
+                "traduzioni": [
+                    "che lui soffiasse",
+                    "che lei soffiasse",
+                    "che egli soffiasse",
+                    "che lui profumasse",
+                    "che lei profumasse",
+                    "che egli profumasse",
+                    "che lui ansimasse",
+                    "che lei ansimasse",
+                    "che egli ansimasse",
+                    "che lui emanasse",
+                    "che lei emanasse",
+                    "che egli emanasse",
+                    "che lui emettesse",
+                    "che lei emettesse",
+                    "che egli emettesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spīrarēmus",
+                "traduzioni": [
+                    "che noi soffiassimo",
+                    "che noi profumassimo",
+                    "che noi ansimassimo",
+                    "che noi emanassimo",
+                    "che noi emettessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spīrarētis",
+                "traduzioni": [
+                    "che voi soffiaste",
+                    "che voi profumaste",
+                    "che voi ansimaste",
+                    "che voi emanaste",
+                    "che voi emetteste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spīrārent",
+                "traduzioni": [
+                    "che loro soffiassero",
+                    "che essi soffiassero",
+                    "che loro profumassero",
+                    "che essi profumassero",
+                    "che loro ansimassero",
+                    "che essi ansimassero",
+                    "che loro emanassero",
+                    "che essi emanassero",
+                    "che loro emettessero",
+                    "che essi emettessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "spiravĕrim",
+                "traduzioni": [
+                    "che io abbia soffiato",
+                    "che io abbia profumato",
+                    "che io abbia ansimato",
+                    "che io sia emanato",
+                    "che io sia emanata",
+                    "che io abbia emesso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spiravĕris",
+                "traduzioni": [
+                    "che tu abbia soffiato",
+                    "che tu abbia profumato",
+                    "che tu abbia ansimato",
+                    "che tu sia emanato",
+                    "che tu sia emanata",
+                    "che tu abbia emesso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spiravĕrit",
+                "traduzioni": [
+                    "che lui abbia soffiato",
+                    "che lei abbia soffiato",
+                    "che egli abbia soffiato",
+                    "che lui abbia profumato",
+                    "che lei abbia profumato",
+                    "che egli abbia profumato",
+                    "che lui abbia ansimato",
+                    "che lei abbia ansimato",
+                    "che egli abbia ansimato",
+                    "che lui sia emanato",
+                    "che lei sia emanata",
+                    "che egli sia emanato",
+                    "che lui abbia emesso",
+                    "che lei abbia emesso",
+                    "che egli abbia emesso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spiraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo soffiato",
+                    "che noi abbiamo profumato",
+                    "che noi abbiamo ansimato",
+                    "che noi siamo emanati",
+                    "che noi siamo emanate",
+                    "che noi abbiamo emesso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spiraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate soffiato",
+                    "che voi abbiate profumato",
+                    "che voi abbiate ansimato",
+                    "che voi siate emanati",
+                    "che voi siate emanate",
+                    "che voi abbiate emesso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spiravĕrint",
+                "traduzioni": [
+                    "che loro abbiano soffiato",
+                    "che essi abbiano soffiato",
+                    "che loro abbiano profumato",
+                    "che essi abbiano profumato",
+                    "che loro abbiano ansimato",
+                    "che essi abbiano ansimato",
+                    "che loro siano emanati",
+                    "che loro siano emanate",
+                    "che essi siano emanati",
+                    "che loro abbiano emesso",
+                    "che essi abbiano emesso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "spiravissem",
+                "traduzioni": [
+                    "che io avessi soffiato",
+                    "che io avessi profumato",
+                    "che io avessi ansimato",
+                    "che io fossi emanato",
+                    "che io fossi emanata",
+                    "che io avessi emesso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "spiravisses",
+                "traduzioni": [
+                    "che tu avessi soffiato",
+                    "che tu avessi profumato",
+                    "che tu avessi ansimato",
+                    "che tu fossi emanato",
+                    "che tu fossi emanata",
+                    "che tu avessi emesso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "spiravisset",
+                "traduzioni": [
+                    "che lui avesse soffiato",
+                    "che lei avesse soffiato",
+                    "che egli avesse soffiato",
+                    "che lui avesse profumato",
+                    "che lei avesse profumato",
+                    "che egli avesse profumato",
+                    "che lui avesse ansimato",
+                    "che lei avesse ansimato",
+                    "che egli avesse ansimato",
+                    "che lui fosse emanato",
+                    "che lei fosse emanata",
+                    "che egli fosse emanato",
+                    "che lui avesse emesso",
+                    "che lei avesse emesso",
+                    "che egli avesse emesso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "spiravissēmus",
+                "traduzioni": [
+                    "che noi avessimo soffiato",
+                    "che noi avessimo profumato",
+                    "che noi avessimo ansimato",
+                    "che noi fossimo emanati",
+                    "che noi fossimo emanate",
+                    "che noi avessimo emesso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "spiravissētis",
+                "traduzioni": [
+                    "che voi aveste soffiato",
+                    "che voi aveste profumato",
+                    "che voi aveste ansimato",
+                    "che voi foste emanati",
+                    "che voi foste emanate",
+                    "che voi aveste emesso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "spiravissent",
+                "traduzioni": [
+                    "che loro avessero soffiato",
+                    "che essi avessero soffiato",
+                    "che loro avessero profumato",
+                    "che essi avessero profumato",
+                    "che loro avessero ansimato",
+                    "che essi avessero ansimato",
+                    "che loro fossero emanati",
+                    "che loro fossero emanate",
+                    "che essi fossero emanati",
+                    "che loro avessero emesso",
+                    "che essi avessero emesso"
+                ]
+            }
+        ]
+    }
+}

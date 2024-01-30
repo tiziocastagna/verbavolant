@@ -1,0 +1,503 @@
+{
+    "identifier": "ACCIO",
+    "conuigazione": "4",
+    "translation": [
+        "invitare",
+        "mandare a chiamare"
+    ],
+    "valid_translations": [
+        "invitare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "accĭo",
+                "traduzioni": [
+                    "io invito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accis",
+                "traduzioni": [
+                    "tu inviti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accit",
+                "traduzioni": [
+                    "lui invita",
+                    "lei invita",
+                    "egli invita"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accīmus",
+                "traduzioni": [
+                    "noi invitiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accītis",
+                "traduzioni": [
+                    "voi invitate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accĭunt",
+                "traduzioni": [
+                    "loro invitano",
+                    "essi invitano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "acciēbam",
+                "traduzioni": [
+                    "io invitavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acciēbas",
+                "traduzioni": [
+                    "tu invitavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acciēbat",
+                "traduzioni": [
+                    "lui invitava",
+                    "lei invitava",
+                    "egli invitava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acciebāmus",
+                "traduzioni": [
+                    "noi invitavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acciebātis",
+                "traduzioni": [
+                    "voi invitavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acciēbant",
+                "traduzioni": [
+                    "loro invitavano",
+                    "essi invitavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "accĭam",
+                "traduzioni": [
+                    "io inviterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accĭes",
+                "traduzioni": [
+                    "tu inviterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accĭet",
+                "traduzioni": [
+                    "lui inviterà",
+                    "lei inviterà",
+                    "egli inviterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acciēmus",
+                "traduzioni": [
+                    "noi inviteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acciētis",
+                "traduzioni": [
+                    "voi inviterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accĭent",
+                "traduzioni": [
+                    "loro inviteranno",
+                    "essi inviteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "accii o accivi",
+                "traduzioni": [
+                    "io invitai",
+                    "io ho invitato",
+                    "io ebbi invitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acciisti o accivisti",
+                "traduzioni": [
+                    "tu invitasti",
+                    "tu hai invitato",
+                    "tu avesti invitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acciit o accivit",
+                "traduzioni": [
+                    "lui invitò",
+                    "lei invitò",
+                    "egli invitò",
+                    "lui ha invitato",
+                    "lei ha invitato",
+                    "egli ha invitato",
+                    "lui ebbe invitato",
+                    "lei ebbe invitato",
+                    "egli ebbe invitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acciĭmus o accivĭmus",
+                "traduzioni": [
+                    "noi invitammo",
+                    "noi abbiamo invitato",
+                    "noi avemmo invitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acciistis o accivistis",
+                "traduzioni": [
+                    "voi invitaste",
+                    "voi avete invitato",
+                    "voi aveste invitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acciērunt o accivērunt, ēre",
+                "traduzioni": [
+                    "loro invitarono",
+                    "essi invitarono",
+                    "loro hanno invitato",
+                    "essi hanno invitato",
+                    "loro ebbero invitato",
+                    "essi ebbero invitato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "acciĕram o accivĕram",
+                "traduzioni": [
+                    "io avevo invitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acciĕras o accivĕras",
+                "traduzioni": [
+                    "tu avevi invitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acciĕrat o accivĕrat",
+                "traduzioni": [
+                    "lui aveva invitato",
+                    "lei aveva invitato",
+                    "egli aveva invitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accierāmus o acciverāmus",
+                "traduzioni": [
+                    "noi avevamo invitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accierātis o acciverātis",
+                "traduzioni": [
+                    "voi avevate invitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acciĕrant o accivĕrant",
+                "traduzioni": [
+                    "loro avevano invitato",
+                    "essi avevano invitato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "acciĕro o accivĕro",
+                "traduzioni": [
+                    "io avrò invitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acciĕris o accivĕris",
+                "traduzioni": [
+                    "tu avrai invitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acciĕrit o accivĕrit",
+                "traduzioni": [
+                    "lui avrà invitato",
+                    "lei avrà invitato",
+                    "egli avrà invitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accierĭmus o acciverĭmus",
+                "traduzioni": [
+                    "noi avremo invitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accierĭtis o acciverĭtis",
+                "traduzioni": [
+                    "voi avrete invitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acciĕrint o accivĕrint",
+                "traduzioni": [
+                    "loro avranno invitato",
+                    "essi avranno invitato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "accĭam",
+                "traduzioni": [
+                    "che io inviti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accĭas",
+                "traduzioni": [
+                    "che tu inviti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accĭat",
+                "traduzioni": [
+                    "che lui inviti",
+                    "che lei inviti",
+                    "che egli inviti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acciāmus",
+                "traduzioni": [
+                    "che noi invitiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acciātis",
+                "traduzioni": [
+                    "che voi invitiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accĭant",
+                "traduzioni": [
+                    "che loro invitino",
+                    "che essi invitino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "accīrem",
+                "traduzioni": [
+                    "che io invitassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accīres",
+                "traduzioni": [
+                    "che tu invitassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accīret",
+                "traduzioni": [
+                    "che lui invitasse",
+                    "che lei invitasse",
+                    "che egli invitasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accirēmus",
+                "traduzioni": [
+                    "che noi invitassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accirētis",
+                "traduzioni": [
+                    "che voi invitaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accīrent",
+                "traduzioni": [
+                    "che loro invitassero",
+                    "che essi invitassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "acciĕrim o accivĕrim",
+                "traduzioni": [
+                    "che io abbia invitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acciĕris o accivĕris",
+                "traduzioni": [
+                    "che tu abbia invitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acciĕrit o accivĕrit",
+                "traduzioni": [
+                    "che lui abbia invitato",
+                    "che lei abbia invitato",
+                    "che egli abbia invitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accierĭmus o acciverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo invitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accierĭtis o acciverĭtis",
+                "traduzioni": [
+                    "che voi abbiate invitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acciĕrint o accivĕrint",
+                "traduzioni": [
+                    "che loro abbiano invitato",
+                    "che essi abbiano invitato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "acciissem o accivissem",
+                "traduzioni": [
+                    "che io avessi invitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acciisses o accivisses",
+                "traduzioni": [
+                    "che tu avessi invitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acciisset o accivisset",
+                "traduzioni": [
+                    "che lui avesse invitato",
+                    "che lei avesse invitato",
+                    "che egli avesse invitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acciissēmus o accivissēmus",
+                "traduzioni": [
+                    "che noi avessimo invitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acciissētis o accivissētis",
+                "traduzioni": [
+                    "che voi aveste invitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acciissent o accivissent",
+                "traduzioni": [
+                    "che loro avessero invitato",
+                    "che essi avessero invitato"
+                ]
+            }
+        ]
+    }
+}

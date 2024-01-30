@@ -1,0 +1,722 @@
+{
+    "identifier": "PIGNERO",
+    "conuigazione": "1",
+    "translation": [
+        "ipotecare",
+        "impegnare",
+        "vincolare"
+    ],
+    "valid_translations": [
+        "ipotecare",
+        "impegnare",
+        "vincolare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pignĕro",
+                "traduzioni": [
+                    "io ipoteco",
+                    "io impegno",
+                    "io vincolo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pignĕras",
+                "traduzioni": [
+                    "tu ipotechi",
+                    "tu impegni",
+                    "tu vincoli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pignĕrat",
+                "traduzioni": [
+                    "lui ipoteca",
+                    "lei ipoteca",
+                    "egli ipoteca",
+                    "lui impegna",
+                    "lei impegna",
+                    "egli impegna",
+                    "lui vincola",
+                    "lei vincola",
+                    "egli vincola"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pignĕrāmus",
+                "traduzioni": [
+                    "noi ipotechiamo",
+                    "noi impegniamo",
+                    "noi vincoliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pignĕrātis",
+                "traduzioni": [
+                    "voi ipotecate",
+                    "voi impegnate",
+                    "voi vincolate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pignĕrant",
+                "traduzioni": [
+                    "loro ipotecano",
+                    "essi ipotecano",
+                    "loro impegnano",
+                    "essi impegnano",
+                    "loro vincolano",
+                    "essi vincolano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pignĕrābam",
+                "traduzioni": [
+                    "io ipotecavo",
+                    "io impegnavo",
+                    "io vincolavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pignĕrābas",
+                "traduzioni": [
+                    "tu ipotecavi",
+                    "tu impegnavi",
+                    "tu vincolavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pignĕrābat",
+                "traduzioni": [
+                    "lui ipotecava",
+                    "lei ipotecava",
+                    "egli ipotecava",
+                    "lui impegnava",
+                    "lei impegnava",
+                    "egli impegnava",
+                    "lui vincolava",
+                    "lei vincolava",
+                    "egli vincolava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pignĕrabāmus",
+                "traduzioni": [
+                    "noi ipotecavamo",
+                    "noi impegnavamo",
+                    "noi vincolavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pignĕrabātis",
+                "traduzioni": [
+                    "voi ipotecavate",
+                    "voi impegnavate",
+                    "voi vincolavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pignĕrābant",
+                "traduzioni": [
+                    "loro ipotecavano",
+                    "essi ipotecavano",
+                    "loro impegnavano",
+                    "essi impegnavano",
+                    "loro vincolavano",
+                    "essi vincolavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pignĕrābo",
+                "traduzioni": [
+                    "io ipotecherò",
+                    "io impegnerò",
+                    "io vincolerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pignĕrābis",
+                "traduzioni": [
+                    "tu ipotecherai",
+                    "tu impegnerai",
+                    "tu vincolerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pignĕrābit",
+                "traduzioni": [
+                    "lui ipotecherà",
+                    "lei ipotecherà",
+                    "egli ipotecherà",
+                    "lui impegnerà",
+                    "lei impegnerà",
+                    "egli impegnerà",
+                    "lui vincolerà",
+                    "lei vincolerà",
+                    "egli vincolerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pignĕrabĭmus",
+                "traduzioni": [
+                    "noi ipotecheremo",
+                    "noi impegneremo",
+                    "noi vincoleremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pignĕrabĭtis",
+                "traduzioni": [
+                    "voi ipotecherete",
+                    "voi impegnerete",
+                    "voi vincolerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pignĕrābunt",
+                "traduzioni": [
+                    "loro ipotecheranno",
+                    "essi ipotecheranno",
+                    "loro impegneranno",
+                    "essi impegneranno",
+                    "loro vincoleranno",
+                    "essi vincoleranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pigneravi",
+                "traduzioni": [
+                    "io ipotecai",
+                    "io ho ipotecato",
+                    "io ebbi ipotecato",
+                    "io impegnai",
+                    "io ho impegnato",
+                    "io ebbi impegnato",
+                    "io vincolai",
+                    "io ho vincolato",
+                    "io ebbi vincolato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pigneravisti",
+                "traduzioni": [
+                    "tu ipotecasti",
+                    "tu hai ipotecato",
+                    "tu avesti ipotecato",
+                    "tu impegnasti",
+                    "tu hai impegnato",
+                    "tu avesti impegnato",
+                    "tu vincolasti",
+                    "tu hai vincolato",
+                    "tu avesti vincolato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pigneravit",
+                "traduzioni": [
+                    "lui ipotecò",
+                    "lei ipotecò",
+                    "egli ipotecò",
+                    "lui ha ipotecato",
+                    "lei ha ipotecato",
+                    "egli ha ipotecato",
+                    "lui ebbe ipotecato",
+                    "lei ebbe ipotecato",
+                    "egli ebbe ipotecato",
+                    "lui impegnò",
+                    "lei impegnò",
+                    "egli impegnò",
+                    "lui ha impegnato",
+                    "lei ha impegnato",
+                    "egli ha impegnato",
+                    "lui ebbe impegnato",
+                    "lei ebbe impegnato",
+                    "egli ebbe impegnato",
+                    "lui vincolò",
+                    "lei vincolò",
+                    "egli vincolò",
+                    "lui ha vincolato",
+                    "lei ha vincolato",
+                    "egli ha vincolato",
+                    "lui ebbe vincolato",
+                    "lei ebbe vincolato",
+                    "egli ebbe vincolato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pigneravĭmus",
+                "traduzioni": [
+                    "noi ipotecammo",
+                    "noi abbiamo ipotecato",
+                    "noi avemmo ipotecato",
+                    "noi impegnammo",
+                    "noi abbiamo impegnato",
+                    "noi avemmo impegnato",
+                    "noi vincolammo",
+                    "noi abbiamo vincolato",
+                    "noi avemmo vincolato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pigneravistis",
+                "traduzioni": [
+                    "voi ipotecaste",
+                    "voi avete ipotecato",
+                    "voi aveste ipotecato",
+                    "voi impegnaste",
+                    "voi avete impegnato",
+                    "voi aveste impegnato",
+                    "voi vincolaste",
+                    "voi avete vincolato",
+                    "voi aveste vincolato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pigneravērunt, pigneravēre",
+                "traduzioni": [
+                    "loro ipotecarono",
+                    "essi ipotecarono",
+                    "loro hanno ipotecato",
+                    "essi hanno ipotecato",
+                    "loro ebbero ipotecato",
+                    "essi ebbero ipotecato",
+                    "loro impegnarono",
+                    "essi impegnarono",
+                    "loro hanno impegnato",
+                    "essi hanno impegnato",
+                    "loro ebbero impegnato",
+                    "essi ebbero impegnato",
+                    "loro vincolarono",
+                    "essi vincolarono",
+                    "loro hanno vincolato",
+                    "essi hanno vincolato",
+                    "loro ebbero vincolato",
+                    "essi ebbero vincolato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pigneravĕram",
+                "traduzioni": [
+                    "io avevo ipotecato",
+                    "io avevo impegnato",
+                    "io avevo vincolato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pigneravĕras",
+                "traduzioni": [
+                    "tu avevi ipotecato",
+                    "tu avevi impegnato",
+                    "tu avevi vincolato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pigneravĕrat",
+                "traduzioni": [
+                    "lui aveva ipotecato",
+                    "lei aveva ipotecato",
+                    "egli aveva ipotecato",
+                    "lui aveva impegnato",
+                    "lei aveva impegnato",
+                    "egli aveva impegnato",
+                    "lui aveva vincolato",
+                    "lei aveva vincolato",
+                    "egli aveva vincolato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pigneraverāmus",
+                "traduzioni": [
+                    "noi avevamo ipotecato",
+                    "noi avevamo impegnato",
+                    "noi avevamo vincolato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pigneraverātis",
+                "traduzioni": [
+                    "voi avevate ipotecato",
+                    "voi avevate impegnato",
+                    "voi avevate vincolato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pigneravĕrant",
+                "traduzioni": [
+                    "loro avevano ipotecato",
+                    "essi avevano ipotecato",
+                    "loro avevano impegnato",
+                    "essi avevano impegnato",
+                    "loro avevano vincolato",
+                    "essi avevano vincolato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pigneravĕro",
+                "traduzioni": [
+                    "io avrò ipotecato",
+                    "io avrò impegnato",
+                    "io avrò vincolato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pigneravĕris",
+                "traduzioni": [
+                    "tu avrai ipotecato",
+                    "tu avrai impegnato",
+                    "tu avrai vincolato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pigneravĕrit",
+                "traduzioni": [
+                    "lui avrà ipotecato",
+                    "lei avrà ipotecato",
+                    "egli avrà ipotecato",
+                    "lui avrà impegnato",
+                    "lei avrà impegnato",
+                    "egli avrà impegnato",
+                    "lui avrà vincolato",
+                    "lei avrà vincolato",
+                    "egli avrà vincolato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pigneraverĭmus",
+                "traduzioni": [
+                    "noi avremo ipotecato",
+                    "noi avremo impegnato",
+                    "noi avremo vincolato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pigneraverĭtis",
+                "traduzioni": [
+                    "voi avrete ipotecato",
+                    "voi avrete impegnato",
+                    "voi avrete vincolato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pigneravĕrint",
+                "traduzioni": [
+                    "loro avranno ipotecato",
+                    "essi avranno ipotecato",
+                    "loro avranno impegnato",
+                    "essi avranno impegnato",
+                    "loro avranno vincolato",
+                    "essi avranno vincolato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "pignĕrem",
+                "traduzioni": [
+                    "che io ipotechi",
+                    "che io impegni",
+                    "che io vincoli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pignĕres",
+                "traduzioni": [
+                    "che tu ipotechi",
+                    "che tu impegni",
+                    "che tu vincoli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pignĕret",
+                "traduzioni": [
+                    "che lui ipotechi",
+                    "che lei ipotechi",
+                    "che egli ipotechi",
+                    "che lui impegni",
+                    "che lei impegni",
+                    "che egli impegni",
+                    "che lui vincoli",
+                    "che lei vincoli",
+                    "che egli vincoli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pignĕrēmus",
+                "traduzioni": [
+                    "che noi ipotechiamo",
+                    "che noi impegniamo",
+                    "che noi vincoliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pignĕrētis",
+                "traduzioni": [
+                    "che voi ipotechiate",
+                    "che voi impegniate",
+                    "che voi vincoliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pignĕrent",
+                "traduzioni": [
+                    "che loro ipotechino",
+                    "che essi ipotechino",
+                    "che loro impegnino",
+                    "che essi impegnino",
+                    "che loro vincolino",
+                    "che essi vincolino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pignĕrārem",
+                "traduzioni": [
+                    "che io ipotecassi",
+                    "che io impegnassi",
+                    "che io vincolassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pignĕrāres",
+                "traduzioni": [
+                    "che tu ipotecassi",
+                    "che tu impegnassi",
+                    "che tu vincolassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pignĕrāret",
+                "traduzioni": [
+                    "che lui ipotecasse",
+                    "che lei ipotecasse",
+                    "che egli ipotecasse",
+                    "che lui impegnasse",
+                    "che lei impegnasse",
+                    "che egli impegnasse",
+                    "che lui vincolasse",
+                    "che lei vincolasse",
+                    "che egli vincolasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pignĕrarēmus",
+                "traduzioni": [
+                    "che noi ipotecassimo",
+                    "che noi impegnassimo",
+                    "che noi vincolassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pignĕrarētis",
+                "traduzioni": [
+                    "che voi ipotecaste",
+                    "che voi impegnaste",
+                    "che voi vincolaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pignĕrārent",
+                "traduzioni": [
+                    "che loro ipotecassero",
+                    "che essi ipotecassero",
+                    "che loro impegnassero",
+                    "che essi impegnassero",
+                    "che loro vincolassero",
+                    "che essi vincolassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pigneravĕrim",
+                "traduzioni": [
+                    "che io abbia ipotecato",
+                    "che io abbia impegnato",
+                    "che io abbia vincolato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pigneravĕris",
+                "traduzioni": [
+                    "che tu abbia ipotecato",
+                    "che tu abbia impegnato",
+                    "che tu abbia vincolato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pigneravĕrit",
+                "traduzioni": [
+                    "che lui abbia ipotecato",
+                    "che lei abbia ipotecato",
+                    "che egli abbia ipotecato",
+                    "che lui abbia impegnato",
+                    "che lei abbia impegnato",
+                    "che egli abbia impegnato",
+                    "che lui abbia vincolato",
+                    "che lei abbia vincolato",
+                    "che egli abbia vincolato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pigneraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo ipotecato",
+                    "che noi abbiamo impegnato",
+                    "che noi abbiamo vincolato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pigneraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate ipotecato",
+                    "che voi abbiate impegnato",
+                    "che voi abbiate vincolato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pigneravĕrint",
+                "traduzioni": [
+                    "che loro abbiano ipotecato",
+                    "che essi abbiano ipotecato",
+                    "che loro abbiano impegnato",
+                    "che essi abbiano impegnato",
+                    "che loro abbiano vincolato",
+                    "che essi abbiano vincolato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "pigneravissem",
+                "traduzioni": [
+                    "che io avessi ipotecato",
+                    "che io avessi impegnato",
+                    "che io avessi vincolato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "pigneravisses",
+                "traduzioni": [
+                    "che tu avessi ipotecato",
+                    "che tu avessi impegnato",
+                    "che tu avessi vincolato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "pigneravisset",
+                "traduzioni": [
+                    "che lui avesse ipotecato",
+                    "che lei avesse ipotecato",
+                    "che egli avesse ipotecato",
+                    "che lui avesse impegnato",
+                    "che lei avesse impegnato",
+                    "che egli avesse impegnato",
+                    "che lui avesse vincolato",
+                    "che lei avesse vincolato",
+                    "che egli avesse vincolato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "pigneravissēmus",
+                "traduzioni": [
+                    "che noi avessimo ipotecato",
+                    "che noi avessimo impegnato",
+                    "che noi avessimo vincolato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "pigneravissētis",
+                "traduzioni": [
+                    "che voi aveste ipotecato",
+                    "che voi aveste impegnato",
+                    "che voi aveste vincolato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "pigneravissent",
+                "traduzioni": [
+                    "che loro avessero ipotecato",
+                    "che essi avessero ipotecato",
+                    "che loro avessero impegnato",
+                    "che essi avessero impegnato",
+                    "che loro avessero vincolato",
+                    "che essi avessero vincolato"
+                ]
+            }
+        ]
+    }
+}

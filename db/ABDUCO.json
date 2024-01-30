@@ -1,0 +1,1286 @@
+{
+    "identifier": "ABDUCO",
+    "conuigazione": "3",
+    "translation": [
+        "rimuovere",
+        "spostare",
+        "dislocare",
+        "separare",
+        "allontanare",
+        "staccare",
+        "distogliere",
+        "bere"
+    ],
+    "valid_translations": [
+        "rimuovere",
+        "spostare",
+        "dislocare",
+        "separare",
+        "allontanare",
+        "staccare",
+        "distogliere",
+        "bere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "abdūco",
+                "traduzioni": [
+                    "io rimuovo",
+                    "io sposto",
+                    "io disloco",
+                    "io separo",
+                    "io allontano",
+                    "io stacco",
+                    "io distolgo",
+                    "io bevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abdūcis",
+                "traduzioni": [
+                    "tu rimuovi",
+                    "tu sposti",
+                    "tu dislochi",
+                    "tu separi",
+                    "tu allontani",
+                    "tu stacchi",
+                    "tu distogli",
+                    "tu bevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abdūcit",
+                "traduzioni": [
+                    "lui rimuove",
+                    "lei rimuove",
+                    "egli rimuove",
+                    "lui sposta",
+                    "lei sposta",
+                    "egli sposta",
+                    "lui disloca",
+                    "lei disloca",
+                    "egli disloca",
+                    "lui separa",
+                    "lei separa",
+                    "egli separa",
+                    "lui allontana",
+                    "lei allontana",
+                    "egli allontana",
+                    "lui stacca",
+                    "lei stacca",
+                    "egli stacca",
+                    "lui distoglie",
+                    "lei distoglie",
+                    "egli distoglie",
+                    "lui beve",
+                    "lei beve",
+                    "egli beve"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abdūcĭmus",
+                "traduzioni": [
+                    "noi rim(u)oviamo",
+                    "noi spostiamo",
+                    "noi dislochiamo",
+                    "noi separiamo",
+                    "noi allontaniamo",
+                    "noi stacchiamo",
+                    "noi distogliamo",
+                    "noi beviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abdūcĭtis",
+                "traduzioni": [
+                    "voi rim(u)ovete",
+                    "voi spostate",
+                    "voi dislocate",
+                    "voi separate",
+                    "voi allontanate",
+                    "voi staccate",
+                    "voi distogliete",
+                    "voi bevete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abdūcunt",
+                "traduzioni": [
+                    "loro rimuovono",
+                    "essi rimuovono",
+                    "loro spostano",
+                    "essi spostano",
+                    "loro dislocano",
+                    "essi dislocano",
+                    "loro separano",
+                    "essi separano",
+                    "loro allontanano",
+                    "essi allontanano",
+                    "loro staccano",
+                    "essi staccano",
+                    "loro distolgono",
+                    "essi distolgono",
+                    "loro bevono",
+                    "essi bevono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abdūcēbam",
+                "traduzioni": [
+                    "io rim(u)ovevo",
+                    "io spostavo",
+                    "io dislocavo",
+                    "io separavo",
+                    "io allontanavo",
+                    "io staccavo",
+                    "io distoglievo",
+                    "io bevevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abdūcēbas",
+                "traduzioni": [
+                    "tu rim(u)ovevi",
+                    "tu spostavi",
+                    "tu dislocavi",
+                    "tu separavi",
+                    "tu allontanavi",
+                    "tu staccavi",
+                    "tu distoglievi",
+                    "tu bevevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abdūcēbat",
+                "traduzioni": [
+                    "lui rim(u)oveva",
+                    "lei rim(u)oveva",
+                    "egli rim(u)oveva",
+                    "lui spostava",
+                    "lei spostava",
+                    "egli spostava",
+                    "lui dislocava",
+                    "lei dislocava",
+                    "egli dislocava",
+                    "lui separava",
+                    "lei separava",
+                    "egli separava",
+                    "lui allontanava",
+                    "lei allontanava",
+                    "egli allontanava",
+                    "lui staccava",
+                    "lei staccava",
+                    "egli staccava",
+                    "lui distoglieva",
+                    "lei distoglieva",
+                    "egli distoglieva",
+                    "lui beveva",
+                    "lei beveva",
+                    "egli beveva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abdūcebāmus",
+                "traduzioni": [
+                    "noi rim(u)ovevamo",
+                    "noi spostavamo",
+                    "noi dislocavamo",
+                    "noi separavamo",
+                    "noi allontanavamo",
+                    "noi staccavamo",
+                    "noi distoglievamo",
+                    "noi bevevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abdūcebātis",
+                "traduzioni": [
+                    "voi rim(u)ovevate",
+                    "voi spostavate",
+                    "voi dislocavate",
+                    "voi separavate",
+                    "voi allontanavate",
+                    "voi staccavate",
+                    "voi distoglievate",
+                    "voi bevevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abdūcēbant",
+                "traduzioni": [
+                    "loro rim(u)ovevano",
+                    "essi rim(u)ovevano",
+                    "loro spostavano",
+                    "essi spostavano",
+                    "loro dislocavano",
+                    "essi dislocavano",
+                    "loro separavano",
+                    "essi separavano",
+                    "loro allontanavano",
+                    "essi allontanavano",
+                    "loro staccavano",
+                    "essi staccavano",
+                    "loro distoglievano",
+                    "essi distoglievano",
+                    "loro bevevano",
+                    "essi bevevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "abdūcam",
+                "traduzioni": [
+                    "io rim(u)overò",
+                    "io sposterò",
+                    "io dislocherò",
+                    "io separerò",
+                    "io allontanerò",
+                    "io staccherò",
+                    "io distoglierò",
+                    "io berrò",
+                    "io beverò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abdūces",
+                "traduzioni": [
+                    "tu rim(u)overai",
+                    "tu sposterai",
+                    "tu dislocherai",
+                    "tu separerai",
+                    "tu allontanerai",
+                    "tu staccherai",
+                    "tu distoglierai",
+                    "tu berrai",
+                    "tu beverai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abdūcet",
+                "traduzioni": [
+                    "lui rim(u)overà",
+                    "lei rim(u)overà",
+                    "egli rim(u)overà",
+                    "lui sposterà",
+                    "lei sposterà",
+                    "egli sposterà",
+                    "lui dislocherà",
+                    "lei dislocherà",
+                    "egli dislocherà",
+                    "lui separerà",
+                    "lei separerà",
+                    "egli separerà",
+                    "lui allontanerà",
+                    "lei allontanerà",
+                    "egli allontanerà",
+                    "lui staccherà",
+                    "lei staccherà",
+                    "egli staccherà",
+                    "lui distoglierà",
+                    "lei distoglierà",
+                    "egli distoglierà",
+                    "lui berrà",
+                    "lei berrà",
+                    "egli berrà",
+                    "lui beverà",
+                    "lei beverà",
+                    "egli beverà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abdūcēmus",
+                "traduzioni": [
+                    "noi rim(u)overemo",
+                    "noi sposteremo",
+                    "noi dislocheremo",
+                    "noi separeremo",
+                    "noi allontaneremo",
+                    "noi staccheremo",
+                    "noi distoglieremo",
+                    "noi berremo",
+                    "noi beveremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abdūcētis",
+                "traduzioni": [
+                    "voi rim(u)overete",
+                    "voi sposterete",
+                    "voi dislocherete",
+                    "voi separerete",
+                    "voi allontanerete",
+                    "voi staccherete",
+                    "voi distoglierete",
+                    "voi berrete",
+                    "voi beverete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abdūcent",
+                "traduzioni": [
+                    "loro rim(u)overanno",
+                    "essi rim(u)overanno",
+                    "loro sposteranno",
+                    "essi sposteranno",
+                    "loro dislocheranno",
+                    "essi dislocheranno",
+                    "loro separeranno",
+                    "essi separeranno",
+                    "loro allontaneranno",
+                    "essi allontaneranno",
+                    "loro staccheranno",
+                    "essi staccheranno",
+                    "loro distoglieranno",
+                    "essi distoglieranno",
+                    "loro berranno",
+                    "essi berranno",
+                    "loro beveranno",
+                    "essi beveranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abduxi",
+                "traduzioni": [
+                    "io rimossi",
+                    "io ho rimosso",
+                    "io ebbi rimosso",
+                    "io spostai",
+                    "io ho spostato",
+                    "io ebbi spostato",
+                    "io dislocai",
+                    "io ho dislocato",
+                    "io ebbi dislocato",
+                    "io separai",
+                    "io ho separato",
+                    "io ebbi separato",
+                    "io allontanai",
+                    "io ho allontanato",
+                    "io ebbi allontanato",
+                    "io staccai",
+                    "io ho staccato",
+                    "io ebbi staccato",
+                    "io distolsi",
+                    "io ho distolto",
+                    "io ebbi distolto",
+                    "io bevvi",
+                    "io bevetti",
+                    "io bevei",
+                    "io ho bevuto",
+                    "io ebbi bevuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abduxisti, abduxti",
+                "traduzioni": [
+                    "tu rim(u)ovesti",
+                    "tu hai rimosso",
+                    "tu avesti rimosso",
+                    "tu spostasti",
+                    "tu hai spostato",
+                    "tu avesti spostato",
+                    "tu dislocasti",
+                    "tu hai dislocato",
+                    "tu avesti dislocato",
+                    "tu separasti",
+                    "tu hai separato",
+                    "tu avesti separato",
+                    "tu allontanasti",
+                    "tu hai allontanato",
+                    "tu avesti allontanato",
+                    "tu staccasti",
+                    "tu hai staccato",
+                    "tu avesti staccato",
+                    "tu distogliesti",
+                    "tu hai distolto",
+                    "tu avesti distolto",
+                    "tu bevesti",
+                    "tu hai bevuto",
+                    "tu avesti bevuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abduxit",
+                "traduzioni": [
+                    "lui rimosse",
+                    "lei rimosse",
+                    "egli rimosse",
+                    "lui ha rimosso",
+                    "lei ha rimosso",
+                    "egli ha rimosso",
+                    "lui ebbe rimosso",
+                    "lei ebbe rimosso",
+                    "egli ebbe rimosso",
+                    "lui spostò",
+                    "lei spostò",
+                    "egli spostò",
+                    "lui ha spostato",
+                    "lei ha spostato",
+                    "egli ha spostato",
+                    "lui ebbe spostato",
+                    "lei ebbe spostato",
+                    "egli ebbe spostato",
+                    "lui dislocò",
+                    "lei dislocò",
+                    "egli dislocò",
+                    "lui ha dislocato",
+                    "lei ha dislocato",
+                    "egli ha dislocato",
+                    "lui ebbe dislocato",
+                    "lei ebbe dislocato",
+                    "egli ebbe dislocato",
+                    "lui separò",
+                    "lei separò",
+                    "egli separò",
+                    "lui ha separato",
+                    "lei ha separato",
+                    "egli ha separato",
+                    "lui ebbe separato",
+                    "lei ebbe separato",
+                    "egli ebbe separato",
+                    "lui allontanò",
+                    "lei allontanò",
+                    "egli allontanò",
+                    "lui ha allontanato",
+                    "lei ha allontanato",
+                    "egli ha allontanato",
+                    "lui ebbe allontanato",
+                    "lei ebbe allontanato",
+                    "egli ebbe allontanato",
+                    "lui staccò",
+                    "lei staccò",
+                    "egli staccò",
+                    "lui ha staccato",
+                    "lei ha staccato",
+                    "egli ha staccato",
+                    "lui ebbe staccato",
+                    "lei ebbe staccato",
+                    "egli ebbe staccato",
+                    "lui distolse",
+                    "lei distolse",
+                    "egli distolse",
+                    "lui ha distolto",
+                    "lei ha distolto",
+                    "egli ha distolto",
+                    "lui ebbe distolto",
+                    "lei ebbe distolto",
+                    "egli ebbe distolto",
+                    "lui bevve",
+                    "lei bevve",
+                    "egli bevve",
+                    "lui bevette",
+                    "lei bevette",
+                    "egli bevette",
+                    "lui ha bevuto",
+                    "lei ha bevuto",
+                    "egli ha bevuto",
+                    "lui ebbe bevuto",
+                    "lei ebbe bevuto",
+                    "egli ebbe bevuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abduxĭmus",
+                "traduzioni": [
+                    "noi rim(u)ovemmo",
+                    "noi abbiamo rimosso",
+                    "noi avemmo rimosso",
+                    "noi spostammo",
+                    "noi abbiamo spostato",
+                    "noi avemmo spostato",
+                    "noi dislocammo",
+                    "noi abbiamo dislocato",
+                    "noi avemmo dislocato",
+                    "noi separammo",
+                    "noi abbiamo separato",
+                    "noi avemmo separato",
+                    "noi allontanammo",
+                    "noi abbiamo allontanato",
+                    "noi avemmo allontanato",
+                    "noi staccammo",
+                    "noi abbiamo staccato",
+                    "noi avemmo staccato",
+                    "noi distogliemmo",
+                    "noi abbiamo distolto",
+                    "noi avemmo distolto",
+                    "noi bevemmo",
+                    "noi abbiamo bevuto",
+                    "noi avemmo bevuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abduxistis",
+                "traduzioni": [
+                    "voi rim(u)oveste",
+                    "voi avete rimosso",
+                    "voi aveste rimosso",
+                    "voi spostaste",
+                    "voi avete spostato",
+                    "voi aveste spostato",
+                    "voi dislocaste",
+                    "voi avete dislocato",
+                    "voi aveste dislocato",
+                    "voi separaste",
+                    "voi avete separato",
+                    "voi aveste separato",
+                    "voi allontanaste",
+                    "voi avete allontanato",
+                    "voi aveste allontanato",
+                    "voi staccaste",
+                    "voi avete staccato",
+                    "voi aveste staccato",
+                    "voi distoglieste",
+                    "voi avete distolto",
+                    "voi aveste distolto",
+                    "voi beveste",
+                    "voi avete bevuto",
+                    "voi aveste bevuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abduxērunt, abduxēre",
+                "traduzioni": [
+                    "loro rimossero",
+                    "essi rimossero",
+                    "loro hanno rimosso",
+                    "essi hanno rimosso",
+                    "loro ebbero rimosso",
+                    "essi ebbero rimosso",
+                    "loro spostarono",
+                    "essi spostarono",
+                    "loro hanno spostato",
+                    "essi hanno spostato",
+                    "loro ebbero spostato",
+                    "essi ebbero spostato",
+                    "loro dislocarono",
+                    "essi dislocarono",
+                    "loro hanno dislocato",
+                    "essi hanno dislocato",
+                    "loro ebbero dislocato",
+                    "essi ebbero dislocato",
+                    "loro separarono",
+                    "essi separarono",
+                    "loro hanno separato",
+                    "essi hanno separato",
+                    "loro ebbero separato",
+                    "essi ebbero separato",
+                    "loro allontanarono",
+                    "essi allontanarono",
+                    "loro hanno allontanato",
+                    "essi hanno allontanato",
+                    "loro ebbero allontanato",
+                    "essi ebbero allontanato",
+                    "loro staccarono",
+                    "essi staccarono",
+                    "loro hanno staccato",
+                    "essi hanno staccato",
+                    "loro ebbero staccato",
+                    "essi ebbero staccato",
+                    "loro distolsero",
+                    "essi distolsero",
+                    "loro hanno distolto",
+                    "essi hanno distolto",
+                    "loro ebbero distolto",
+                    "essi ebbero distolto",
+                    "loro bevvero",
+                    "essi bevvero",
+                    "loro hanno bevuto",
+                    "essi hanno bevuto",
+                    "loro ebbero bevuto",
+                    "essi ebbero bevuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abduxĕram",
+                "traduzioni": [
+                    "io avevo rimosso",
+                    "io avevo spostato",
+                    "io avevo dislocato",
+                    "io avevo separato",
+                    "io avevo allontanato",
+                    "io avevo staccato",
+                    "io avevo distolto",
+                    "io avevo bevuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abduxĕras",
+                "traduzioni": [
+                    "tu avevi rimosso",
+                    "tu avevi spostato",
+                    "tu avevi dislocato",
+                    "tu avevi separato",
+                    "tu avevi allontanato",
+                    "tu avevi staccato",
+                    "tu avevi distolto",
+                    "tu avevi bevuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abduxĕrat",
+                "traduzioni": [
+                    "lui aveva rimosso",
+                    "lei aveva rimosso",
+                    "egli aveva rimosso",
+                    "lui aveva spostato",
+                    "lei aveva spostato",
+                    "egli aveva spostato",
+                    "lui aveva dislocato",
+                    "lei aveva dislocato",
+                    "egli aveva dislocato",
+                    "lui aveva separato",
+                    "lei aveva separato",
+                    "egli aveva separato",
+                    "lui aveva allontanato",
+                    "lei aveva allontanato",
+                    "egli aveva allontanato",
+                    "lui aveva staccato",
+                    "lei aveva staccato",
+                    "egli aveva staccato",
+                    "lui aveva distolto",
+                    "lei aveva distolto",
+                    "egli aveva distolto",
+                    "lui aveva bevuto",
+                    "lei aveva bevuto",
+                    "egli aveva bevuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abduxerāmus",
+                "traduzioni": [
+                    "noi avevamo rimosso",
+                    "noi avevamo spostato",
+                    "noi avevamo dislocato",
+                    "noi avevamo separato",
+                    "noi avevamo allontanato",
+                    "noi avevamo staccato",
+                    "noi avevamo distolto",
+                    "noi avevamo bevuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abduxerātis",
+                "traduzioni": [
+                    "voi avevate rimosso",
+                    "voi avevate spostato",
+                    "voi avevate dislocato",
+                    "voi avevate separato",
+                    "voi avevate allontanato",
+                    "voi avevate staccato",
+                    "voi avevate distolto",
+                    "voi avevate bevuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abduxĕrant",
+                "traduzioni": [
+                    "loro avevano rimosso",
+                    "essi avevano rimosso",
+                    "loro avevano spostato",
+                    "essi avevano spostato",
+                    "loro avevano dislocato",
+                    "essi avevano dislocato",
+                    "loro avevano separato",
+                    "essi avevano separato",
+                    "loro avevano allontanato",
+                    "essi avevano allontanato",
+                    "loro avevano staccato",
+                    "essi avevano staccato",
+                    "loro avevano distolto",
+                    "essi avevano distolto",
+                    "loro avevano bevuto",
+                    "essi avevano bevuto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "abduxĕro",
+                "traduzioni": [
+                    "io avrò rimosso",
+                    "io avrò spostato",
+                    "io avrò dislocato",
+                    "io avrò separato",
+                    "io avrò allontanato",
+                    "io avrò staccato",
+                    "io avrò distolto",
+                    "io avrò bevuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abduxĕris",
+                "traduzioni": [
+                    "tu avrai rimosso",
+                    "tu avrai spostato",
+                    "tu avrai dislocato",
+                    "tu avrai separato",
+                    "tu avrai allontanato",
+                    "tu avrai staccato",
+                    "tu avrai distolto",
+                    "tu avrai bevuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abduxĕrit",
+                "traduzioni": [
+                    "lui avrà rimosso",
+                    "lei avrà rimosso",
+                    "egli avrà rimosso",
+                    "lui avrà spostato",
+                    "lei avrà spostato",
+                    "egli avrà spostato",
+                    "lui avrà dislocato",
+                    "lei avrà dislocato",
+                    "egli avrà dislocato",
+                    "lui avrà separato",
+                    "lei avrà separato",
+                    "egli avrà separato",
+                    "lui avrà allontanato",
+                    "lei avrà allontanato",
+                    "egli avrà allontanato",
+                    "lui avrà staccato",
+                    "lei avrà staccato",
+                    "egli avrà staccato",
+                    "lui avrà distolto",
+                    "lei avrà distolto",
+                    "egli avrà distolto",
+                    "lui avrà bevuto",
+                    "lei avrà bevuto",
+                    "egli avrà bevuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abduxerĭmus",
+                "traduzioni": [
+                    "noi avremo rimosso",
+                    "noi avremo spostato",
+                    "noi avremo dislocato",
+                    "noi avremo separato",
+                    "noi avremo allontanato",
+                    "noi avremo staccato",
+                    "noi avremo distolto",
+                    "noi avremo bevuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abduxerĭtis",
+                "traduzioni": [
+                    "voi avrete rimosso",
+                    "voi avrete spostato",
+                    "voi avrete dislocato",
+                    "voi avrete separato",
+                    "voi avrete allontanato",
+                    "voi avrete staccato",
+                    "voi avrete distolto",
+                    "voi avrete bevuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abduxĕrint",
+                "traduzioni": [
+                    "loro avranno rimosso",
+                    "essi avranno rimosso",
+                    "loro avranno spostato",
+                    "essi avranno spostato",
+                    "loro avranno dislocato",
+                    "essi avranno dislocato",
+                    "loro avranno separato",
+                    "essi avranno separato",
+                    "loro avranno allontanato",
+                    "essi avranno allontanato",
+                    "loro avranno staccato",
+                    "essi avranno staccato",
+                    "loro avranno distolto",
+                    "essi avranno distolto",
+                    "loro avranno bevuto",
+                    "essi avranno bevuto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "abdūcam",
+                "traduzioni": [
+                    "che io rimuova",
+                    "che io sposti",
+                    "che io dislochi",
+                    "che io separi",
+                    "che io allontani",
+                    "che io stacchi",
+                    "che io distolga",
+                    "che io beva"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abdūcas",
+                "traduzioni": [
+                    "che tu rimuova",
+                    "che tu sposti",
+                    "che tu dislochi",
+                    "che tu separi",
+                    "che tu allontani",
+                    "che tu stacchi",
+                    "che tu distolga",
+                    "che tu beva"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abdūcat",
+                "traduzioni": [
+                    "che lui rimuova",
+                    "che lei rimuova",
+                    "che egli rimuova",
+                    "che lui sposti",
+                    "che lei sposti",
+                    "che egli sposti",
+                    "che lui dislochi",
+                    "che lei dislochi",
+                    "che egli dislochi",
+                    "che lui separi",
+                    "che lei separi",
+                    "che egli separi",
+                    "che lui allontani",
+                    "che lei allontani",
+                    "che egli allontani",
+                    "che lui stacchi",
+                    "che lei stacchi",
+                    "che egli stacchi",
+                    "che lui distolga",
+                    "che lei distolga",
+                    "che egli distolga",
+                    "che lui beva",
+                    "che lei beva",
+                    "che egli beva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abdūcāmus",
+                "traduzioni": [
+                    "che noi rim(u)oviamo",
+                    "che noi spostiamo",
+                    "che noi dislochiamo",
+                    "che noi separiamo",
+                    "che noi allontaniamo",
+                    "che noi stacchiamo",
+                    "che noi distogliamo",
+                    "che noi beviamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abdūcātis",
+                "traduzioni": [
+                    "che voi rim(u)oviate",
+                    "che voi spostiate",
+                    "che voi dislochiate",
+                    "che voi separiate",
+                    "che voi allontaniate",
+                    "che voi stacchiate",
+                    "che voi distogliate",
+                    "che voi beviate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abdūcant",
+                "traduzioni": [
+                    "che loro rimuovano",
+                    "che essi rimuovano",
+                    "che loro spostino",
+                    "che essi spostino",
+                    "che loro dislochino",
+                    "che essi dislochino",
+                    "che loro separino",
+                    "che essi separino",
+                    "che loro allontanino",
+                    "che essi allontanino",
+                    "che loro stacchino",
+                    "che essi stacchino",
+                    "che loro distolgano",
+                    "che essi distolgano",
+                    "che loro bevano",
+                    "che essi bevano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abdūcĕrem",
+                "traduzioni": [
+                    "che io rim(u)ovessi",
+                    "che io spostassi",
+                    "che io dislocassi",
+                    "che io separassi",
+                    "che io allontanassi",
+                    "che io staccassi",
+                    "che io distogliessi",
+                    "che io bevessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abdūcĕres",
+                "traduzioni": [
+                    "che tu rim(u)ovessi",
+                    "che tu spostassi",
+                    "che tu dislocassi",
+                    "che tu separassi",
+                    "che tu allontanassi",
+                    "che tu staccassi",
+                    "che tu distogliessi",
+                    "che tu bevessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abdūcĕret",
+                "traduzioni": [
+                    "che lui rim(u)ovesse",
+                    "che lei rim(u)ovesse",
+                    "che egli rim(u)ovesse",
+                    "che lui spostasse",
+                    "che lei spostasse",
+                    "che egli spostasse",
+                    "che lui dislocasse",
+                    "che lei dislocasse",
+                    "che egli dislocasse",
+                    "che lui separasse",
+                    "che lei separasse",
+                    "che egli separasse",
+                    "che lui allontanasse",
+                    "che lei allontanasse",
+                    "che egli allontanasse",
+                    "che lui staccasse",
+                    "che lei staccasse",
+                    "che egli staccasse",
+                    "che lui distogliesse",
+                    "che lei distogliesse",
+                    "che egli distogliesse",
+                    "che lui bevesse",
+                    "che lei bevesse",
+                    "che egli bevesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abdūcerēmus",
+                "traduzioni": [
+                    "che noi rim(u)ovessimo",
+                    "che noi spostassimo",
+                    "che noi dislocassimo",
+                    "che noi separassimo",
+                    "che noi allontanassimo",
+                    "che noi staccassimo",
+                    "che noi distogliessimo",
+                    "che noi bevessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abdūcerētis",
+                "traduzioni": [
+                    "che voi rim(u)oveste",
+                    "che voi spostaste",
+                    "che voi dislocaste",
+                    "che voi separaste",
+                    "che voi allontanaste",
+                    "che voi staccaste",
+                    "che voi distoglieste",
+                    "che voi beveste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abdūcĕrent",
+                "traduzioni": [
+                    "che loro rim(u)ovessero",
+                    "che essi rim(u)ovessero",
+                    "che loro spostassero",
+                    "che essi spostassero",
+                    "che loro dislocassero",
+                    "che essi dislocassero",
+                    "che loro separassero",
+                    "che essi separassero",
+                    "che loro allontanassero",
+                    "che essi allontanassero",
+                    "che loro staccassero",
+                    "che essi staccassero",
+                    "che loro distogliessero",
+                    "che essi distogliessero",
+                    "che loro bevessero",
+                    "che essi bevessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abduxĕrim",
+                "traduzioni": [
+                    "che io abbia rimosso",
+                    "che io abbia spostato",
+                    "che io abbia dislocato",
+                    "che io abbia separato",
+                    "che io abbia allontanato",
+                    "che io abbia staccato",
+                    "che io abbia distolto",
+                    "che io abbia bevuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abduxĕris",
+                "traduzioni": [
+                    "che tu abbia rimosso",
+                    "che tu abbia spostato",
+                    "che tu abbia dislocato",
+                    "che tu abbia separato",
+                    "che tu abbia allontanato",
+                    "che tu abbia staccato",
+                    "che tu abbia distolto",
+                    "che tu abbia bevuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abduxĕrit",
+                "traduzioni": [
+                    "che lui abbia rimosso",
+                    "che lei abbia rimosso",
+                    "che egli abbia rimosso",
+                    "che lui abbia spostato",
+                    "che lei abbia spostato",
+                    "che egli abbia spostato",
+                    "che lui abbia dislocato",
+                    "che lei abbia dislocato",
+                    "che egli abbia dislocato",
+                    "che lui abbia separato",
+                    "che lei abbia separato",
+                    "che egli abbia separato",
+                    "che lui abbia allontanato",
+                    "che lei abbia allontanato",
+                    "che egli abbia allontanato",
+                    "che lui abbia staccato",
+                    "che lei abbia staccato",
+                    "che egli abbia staccato",
+                    "che lui abbia distolto",
+                    "che lei abbia distolto",
+                    "che egli abbia distolto",
+                    "che lui abbia bevuto",
+                    "che lei abbia bevuto",
+                    "che egli abbia bevuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abduxerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo rimosso",
+                    "che noi abbiamo spostato",
+                    "che noi abbiamo dislocato",
+                    "che noi abbiamo separato",
+                    "che noi abbiamo allontanato",
+                    "che noi abbiamo staccato",
+                    "che noi abbiamo distolto",
+                    "che noi abbiamo bevuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abduxerĭtis",
+                "traduzioni": [
+                    "che voi abbiate rimosso",
+                    "che voi abbiate spostato",
+                    "che voi abbiate dislocato",
+                    "che voi abbiate separato",
+                    "che voi abbiate allontanato",
+                    "che voi abbiate staccato",
+                    "che voi abbiate distolto",
+                    "che voi abbiate bevuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abduxĕrint",
+                "traduzioni": [
+                    "che loro abbiano rimosso",
+                    "che essi abbiano rimosso",
+                    "che loro abbiano spostato",
+                    "che essi abbiano spostato",
+                    "che loro abbiano dislocato",
+                    "che essi abbiano dislocato",
+                    "che loro abbiano separato",
+                    "che essi abbiano separato",
+                    "che loro abbiano allontanato",
+                    "che essi abbiano allontanato",
+                    "che loro abbiano staccato",
+                    "che essi abbiano staccato",
+                    "che loro abbiano distolto",
+                    "che essi abbiano distolto",
+                    "che loro abbiano bevuto",
+                    "che essi abbiano bevuto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abduxissem",
+                "traduzioni": [
+                    "che io avessi rimosso",
+                    "che io avessi spostato",
+                    "che io avessi dislocato",
+                    "che io avessi separato",
+                    "che io avessi allontanato",
+                    "che io avessi staccato",
+                    "che io avessi distolto",
+                    "che io avessi bevuto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abduxisses",
+                "traduzioni": [
+                    "che tu avessi rimosso",
+                    "che tu avessi spostato",
+                    "che tu avessi dislocato",
+                    "che tu avessi separato",
+                    "che tu avessi allontanato",
+                    "che tu avessi staccato",
+                    "che tu avessi distolto",
+                    "che tu avessi bevuto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abduxisset",
+                "traduzioni": [
+                    "che lui avesse rimosso",
+                    "che lei avesse rimosso",
+                    "che egli avesse rimosso",
+                    "che lui avesse spostato",
+                    "che lei avesse spostato",
+                    "che egli avesse spostato",
+                    "che lui avesse dislocato",
+                    "che lei avesse dislocato",
+                    "che egli avesse dislocato",
+                    "che lui avesse separato",
+                    "che lei avesse separato",
+                    "che egli avesse separato",
+                    "che lui avesse allontanato",
+                    "che lei avesse allontanato",
+                    "che egli avesse allontanato",
+                    "che lui avesse staccato",
+                    "che lei avesse staccato",
+                    "che egli avesse staccato",
+                    "che lui avesse distolto",
+                    "che lei avesse distolto",
+                    "che egli avesse distolto",
+                    "che lui avesse bevuto",
+                    "che lei avesse bevuto",
+                    "che egli avesse bevuto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "abduxissēmus",
+                "traduzioni": [
+                    "che noi avessimo rimosso",
+                    "che noi avessimo spostato",
+                    "che noi avessimo dislocato",
+                    "che noi avessimo separato",
+                    "che noi avessimo allontanato",
+                    "che noi avessimo staccato",
+                    "che noi avessimo distolto",
+                    "che noi avessimo bevuto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "abduxissētis",
+                "traduzioni": [
+                    "che voi aveste rimosso",
+                    "che voi aveste spostato",
+                    "che voi aveste dislocato",
+                    "che voi aveste separato",
+                    "che voi aveste allontanato",
+                    "che voi aveste staccato",
+                    "che voi aveste distolto",
+                    "che voi aveste bevuto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "abduxissent",
+                "traduzioni": [
+                    "che loro avessero rimosso",
+                    "che essi avessero rimosso",
+                    "che loro avessero spostato",
+                    "che essi avessero spostato",
+                    "che loro avessero dislocato",
+                    "che essi avessero dislocato",
+                    "che loro avessero separato",
+                    "che essi avessero separato",
+                    "che loro avessero allontanato",
+                    "che essi avessero allontanato",
+                    "che loro avessero staccato",
+                    "che essi avessero staccato",
+                    "che loro avessero distolto",
+                    "che essi avessero distolto",
+                    "che loro avessero bevuto",
+                    "che essi avessero bevuto"
+                ]
+            }
+        ]
+    }
+}

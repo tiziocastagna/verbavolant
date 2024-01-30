@@ -1,0 +1,1344 @@
+{
+    "identifier": "SUBORNO",
+    "conuigazione": "1",
+    "translation": [
+        "allestire",
+        "provvedere",
+        "attrezzare",
+        "equipaggiare",
+        "ornare",
+        "vestire",
+        "subornare",
+        "corrompere"
+    ],
+    "valid_translations": [
+        "allestire",
+        "provvedere",
+        "attrezzare",
+        "equipaggiare",
+        "ornare",
+        "vestire",
+        "subornare",
+        "corrompere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŭborno",
+                "traduzioni": [
+                    "io allestisco",
+                    "io provvedo",
+                    "io provveggo",
+                    "io attrezzo",
+                    "io equipaggio",
+                    "io orno",
+                    "io vesto",
+                    "io suborno",
+                    "io corrompo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŭbornas",
+                "traduzioni": [
+                    "tu allestisci",
+                    "tu provvedi",
+                    "tu attrezzi",
+                    "tu equipaggi",
+                    "tu orni",
+                    "tu vesti",
+                    "tu suborni",
+                    "tu corrompi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŭbornat",
+                "traduzioni": [
+                    "lui allestisce",
+                    "lei allestisce",
+                    "egli allestisce",
+                    "lui provvede",
+                    "lei provvede",
+                    "egli provvede",
+                    "lui attrezza",
+                    "lei attrezza",
+                    "egli attrezza",
+                    "lui equipaggia",
+                    "lei equipaggia",
+                    "egli equipaggia",
+                    "lui orna",
+                    "lei orna",
+                    "egli orna",
+                    "lui veste",
+                    "lei veste",
+                    "egli veste",
+                    "lui suborna",
+                    "lei suborna",
+                    "egli suborna",
+                    "lui corrompe",
+                    "lei corrompe",
+                    "egli corrompe"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŭbornāmus",
+                "traduzioni": [
+                    "noi allestiamo",
+                    "noi provvediamo",
+                    "noi attrezziamo",
+                    "noi equipaggiamo",
+                    "noi orniamo",
+                    "noi vestiamo",
+                    "noi suborniamo",
+                    "noi corrompiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŭbornātis",
+                "traduzioni": [
+                    "voi allestite",
+                    "voi provvedete",
+                    "voi attrezzate",
+                    "voi equipaggiate",
+                    "voi ornate",
+                    "voi vestite",
+                    "voi subornate",
+                    "voi corrompete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŭbornant",
+                "traduzioni": [
+                    "loro allestiscono",
+                    "essi allestiscono",
+                    "loro provvedono",
+                    "essi provvedono",
+                    "loro attrezzano",
+                    "essi attrezzano",
+                    "loro equipaggiano",
+                    "essi equipaggiano",
+                    "loro ornano",
+                    "essi ornano",
+                    "loro vestono",
+                    "essi vestono",
+                    "loro subornano",
+                    "essi subornano",
+                    "loro corrompono",
+                    "essi corrompono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŭbornābam",
+                "traduzioni": [
+                    "io allestivo",
+                    "io provvedevo",
+                    "io attrezzavo",
+                    "io equipaggiavo",
+                    "io ornavo",
+                    "io vestivo",
+                    "io subornavo",
+                    "io corrompevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŭbornābas",
+                "traduzioni": [
+                    "tu allestivi",
+                    "tu provvedevi",
+                    "tu attrezzavi",
+                    "tu equipaggiavi",
+                    "tu ornavi",
+                    "tu vestivi",
+                    "tu subornavi",
+                    "tu corrompevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŭbornābat",
+                "traduzioni": [
+                    "lui allestiva",
+                    "lei allestiva",
+                    "egli allestiva",
+                    "lui provvedeva",
+                    "lei provvedeva",
+                    "egli provvedeva",
+                    "lui attrezzava",
+                    "lei attrezzava",
+                    "egli attrezzava",
+                    "lui equipaggiava",
+                    "lei equipaggiava",
+                    "egli equipaggiava",
+                    "lui ornava",
+                    "lei ornava",
+                    "egli ornava",
+                    "lui vestiva",
+                    "lei vestiva",
+                    "egli vestiva",
+                    "lui subornava",
+                    "lei subornava",
+                    "egli subornava",
+                    "lui corrompeva",
+                    "lei corrompeva",
+                    "egli corrompeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŭbornabāmus",
+                "traduzioni": [
+                    "noi allestivamo",
+                    "noi provvedevamo",
+                    "noi attrezzavamo",
+                    "noi equipaggiavamo",
+                    "noi ornavamo",
+                    "noi vestivamo",
+                    "noi subornavamo",
+                    "noi corrompevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŭbornabātis",
+                "traduzioni": [
+                    "voi allestivate",
+                    "voi provvedevate",
+                    "voi attrezzavate",
+                    "voi equipaggiavate",
+                    "voi ornavate",
+                    "voi vestivate",
+                    "voi subornavate",
+                    "voi corrompevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŭbornābant",
+                "traduzioni": [
+                    "loro allestivano",
+                    "essi allestivano",
+                    "loro provvedevano",
+                    "essi provvedevano",
+                    "loro attrezzavano",
+                    "essi attrezzavano",
+                    "loro equipaggiavano",
+                    "essi equipaggiavano",
+                    "loro ornavano",
+                    "essi ornavano",
+                    "loro vestivano",
+                    "essi vestivano",
+                    "loro subornavano",
+                    "essi subornavano",
+                    "loro corrompevano",
+                    "essi corrompevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŭbornābo",
+                "traduzioni": [
+                    "io allestirò",
+                    "io provvedrò",
+                    "io provvederò",
+                    "io attrezzerò",
+                    "io equipaggerò",
+                    "io ornerò",
+                    "io vestirò",
+                    "io subornerò",
+                    "io corromperò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŭbornābis",
+                "traduzioni": [
+                    "tu allestirai",
+                    "tu provvedrai",
+                    "tu provvederai",
+                    "tu attrezzerai",
+                    "tu equipaggerai",
+                    "tu ornerai",
+                    "tu vestirai",
+                    "tu subornerai",
+                    "tu corromperai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŭbornābit",
+                "traduzioni": [
+                    "lui allestirà",
+                    "lei allestirà",
+                    "egli allestirà",
+                    "lui provvedrà",
+                    "lei provvedrà",
+                    "egli provvedrà",
+                    "lui provvederà",
+                    "lei provvederà",
+                    "egli provvederà",
+                    "lui attrezzerà",
+                    "lei attrezzerà",
+                    "egli attrezzerà",
+                    "lui equipaggerà",
+                    "lei equipaggerà",
+                    "egli equipaggerà",
+                    "lui ornerà",
+                    "lei ornerà",
+                    "egli ornerà",
+                    "lui vestirà",
+                    "lei vestirà",
+                    "egli vestirà",
+                    "lui subornerà",
+                    "lei subornerà",
+                    "egli subornerà",
+                    "lui corromperà",
+                    "lei corromperà",
+                    "egli corromperà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŭbornabĭmus",
+                "traduzioni": [
+                    "noi allestiremo",
+                    "noi provvedremo",
+                    "noi provvederemo",
+                    "noi attrezzeremo",
+                    "noi equipaggeremo",
+                    "noi orneremo",
+                    "noi vestiremo",
+                    "noi suborneremo",
+                    "noi corromperemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŭbornabĭtis",
+                "traduzioni": [
+                    "voi allestirete",
+                    "voi provvedrete",
+                    "voi provvederete",
+                    "voi attrezzerete",
+                    "voi equipaggerete",
+                    "voi ornerete",
+                    "voi vestirete",
+                    "voi subornerete",
+                    "voi corromperete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŭbornābunt",
+                "traduzioni": [
+                    "loro allestiranno",
+                    "essi allestiranno",
+                    "loro provvedranno",
+                    "essi provvedranno",
+                    "loro provvederanno",
+                    "essi provvederanno",
+                    "loro attrezzeranno",
+                    "essi attrezzeranno",
+                    "loro equipaggeranno",
+                    "essi equipaggeranno",
+                    "loro orneranno",
+                    "essi orneranno",
+                    "loro vestiranno",
+                    "essi vestiranno",
+                    "loro suborneranno",
+                    "essi suborneranno",
+                    "loro corromperanno",
+                    "essi corromperanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "subornavi",
+                "traduzioni": [
+                    "io allestii",
+                    "io ho allestito",
+                    "io ebbi allestito",
+                    "io provvidi",
+                    "io provvedetti",
+                    "io ho provveduto",
+                    "io ho provvisto",
+                    "io ebbi provveduto",
+                    "io ebbi provvisto",
+                    "io attrezzai",
+                    "io ho attrezzato",
+                    "io ebbi attrezzato",
+                    "io equipaggiai",
+                    "io ho equipaggiato",
+                    "io ebbi equipaggiato",
+                    "io ornai",
+                    "io ho ornato",
+                    "io ebbi ornato",
+                    "io vestii",
+                    "io ho vestito",
+                    "io ebbi vestito",
+                    "io subornai",
+                    "io ho subornato",
+                    "io ebbi subornato",
+                    "io corruppi",
+                    "io ho corrotto",
+                    "io ebbi corrotto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "subornavisti",
+                "traduzioni": [
+                    "tu allestisti",
+                    "tu hai allestito",
+                    "tu avesti allestito",
+                    "tu provvedesti",
+                    "tu hai provveduto",
+                    "tu hai provvisto",
+                    "tu avesti provveduto",
+                    "tu avesti provvisto",
+                    "tu attrezzasti",
+                    "tu hai attrezzato",
+                    "tu avesti attrezzato",
+                    "tu equipaggiasti",
+                    "tu hai equipaggiato",
+                    "tu avesti equipaggiato",
+                    "tu ornasti",
+                    "tu hai ornato",
+                    "tu avesti ornato",
+                    "tu vestisti",
+                    "tu hai vestito",
+                    "tu avesti vestito",
+                    "tu subornasti",
+                    "tu hai subornato",
+                    "tu avesti subornato",
+                    "tu corrompesti",
+                    "tu hai corrotto",
+                    "tu avesti corrotto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "subornavit",
+                "traduzioni": [
+                    "lui allestì",
+                    "lei allestì",
+                    "egli allestì",
+                    "lui ha allestito",
+                    "lei ha allestito",
+                    "egli ha allestito",
+                    "lui ebbe allestito",
+                    "lei ebbe allestito",
+                    "egli ebbe allestito",
+                    "lui provvide",
+                    "lei provvide",
+                    "egli provvide",
+                    "lui provvedette",
+                    "lei provvedette",
+                    "egli provvedette",
+                    "lui ha provveduto",
+                    "lei ha provveduto",
+                    "egli ha provveduto",
+                    "lui ha provvisto",
+                    "lei ha provvisto",
+                    "egli ha provvisto",
+                    "lui ebbe provveduto",
+                    "lei ebbe provveduto",
+                    "egli ebbe provveduto",
+                    "lui ebbe provvisto",
+                    "lei ebbe provvisto",
+                    "egli ebbe provvisto",
+                    "lui attrezzò",
+                    "lei attrezzò",
+                    "egli attrezzò",
+                    "lui ha attrezzato",
+                    "lei ha attrezzato",
+                    "egli ha attrezzato",
+                    "lui ebbe attrezzato",
+                    "lei ebbe attrezzato",
+                    "egli ebbe attrezzato",
+                    "lui equipaggiò",
+                    "lei equipaggiò",
+                    "egli equipaggiò",
+                    "lui ha equipaggiato",
+                    "lei ha equipaggiato",
+                    "egli ha equipaggiato",
+                    "lui ebbe equipaggiato",
+                    "lei ebbe equipaggiato",
+                    "egli ebbe equipaggiato",
+                    "lui ornò",
+                    "lei ornò",
+                    "egli ornò",
+                    "lui ha ornato",
+                    "lei ha ornato",
+                    "egli ha ornato",
+                    "lui ebbe ornato",
+                    "lei ebbe ornato",
+                    "egli ebbe ornato",
+                    "lui vestì",
+                    "lei vestì",
+                    "egli vestì",
+                    "lui ha vestito",
+                    "lei ha vestito",
+                    "egli ha vestito",
+                    "lui ebbe vestito",
+                    "lei ebbe vestito",
+                    "egli ebbe vestito",
+                    "lui subornò",
+                    "lei subornò",
+                    "egli subornò",
+                    "lui ha subornato",
+                    "lei ha subornato",
+                    "egli ha subornato",
+                    "lui ebbe subornato",
+                    "lei ebbe subornato",
+                    "egli ebbe subornato",
+                    "lui corruppe",
+                    "lei corruppe",
+                    "egli corruppe",
+                    "lui ha corrotto",
+                    "lei ha corrotto",
+                    "egli ha corrotto",
+                    "lui ebbe corrotto",
+                    "lei ebbe corrotto",
+                    "egli ebbe corrotto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "subornavĭmus",
+                "traduzioni": [
+                    "noi allestimmo",
+                    "noi abbiamo allestito",
+                    "noi avemmo allestito",
+                    "noi provvedemmo",
+                    "noi abbiamo provveduto",
+                    "noi abbiamo provvisto",
+                    "noi avemmo provveduto",
+                    "noi avemmo provvisto",
+                    "noi attrezzammo",
+                    "noi abbiamo attrezzato",
+                    "noi avemmo attrezzato",
+                    "noi equipaggiammo",
+                    "noi abbiamo equipaggiato",
+                    "noi avemmo equipaggiato",
+                    "noi ornammo",
+                    "noi abbiamo ornato",
+                    "noi avemmo ornato",
+                    "noi vestimmo",
+                    "noi abbiamo vestito",
+                    "noi avemmo vestito",
+                    "noi subornammo",
+                    "noi abbiamo subornato",
+                    "noi avemmo subornato",
+                    "noi corrompemmo",
+                    "noi abbiamo corrotto",
+                    "noi avemmo corrotto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "subornavistis",
+                "traduzioni": [
+                    "voi allestiste",
+                    "voi avete allestito",
+                    "voi aveste allestito",
+                    "voi provvedeste",
+                    "voi avete provveduto",
+                    "voi avete provvisto",
+                    "voi aveste provveduto",
+                    "voi aveste provvisto",
+                    "voi attrezzaste",
+                    "voi avete attrezzato",
+                    "voi aveste attrezzato",
+                    "voi equipaggiaste",
+                    "voi avete equipaggiato",
+                    "voi aveste equipaggiato",
+                    "voi ornaste",
+                    "voi avete ornato",
+                    "voi aveste ornato",
+                    "voi vestiste",
+                    "voi avete vestito",
+                    "voi aveste vestito",
+                    "voi subornaste",
+                    "voi avete subornato",
+                    "voi aveste subornato",
+                    "voi corrompeste",
+                    "voi avete corrotto",
+                    "voi aveste corrotto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "subornavērunt, subornavēre",
+                "traduzioni": [
+                    "loro allestirono",
+                    "essi allestirono",
+                    "loro hanno allestito",
+                    "essi hanno allestito",
+                    "loro ebbero allestito",
+                    "essi ebbero allestito",
+                    "loro provvidero",
+                    "essi provvidero",
+                    "loro provvederono",
+                    "essi provvederono",
+                    "loro provvedettero",
+                    "essi provvedettero",
+                    "loro hanno provveduto",
+                    "essi hanno provveduto",
+                    "loro hanno provvisto",
+                    "essi hanno provvisto",
+                    "loro ebbero provveduto",
+                    "essi ebbero provveduto",
+                    "loro ebbero provvisto",
+                    "essi ebbero provvisto",
+                    "loro attrezzarono",
+                    "essi attrezzarono",
+                    "loro hanno attrezzato",
+                    "essi hanno attrezzato",
+                    "loro ebbero attrezzato",
+                    "essi ebbero attrezzato",
+                    "loro equipaggiarono",
+                    "essi equipaggiarono",
+                    "loro hanno equipaggiato",
+                    "essi hanno equipaggiato",
+                    "loro ebbero equipaggiato",
+                    "essi ebbero equipaggiato",
+                    "loro ornarono",
+                    "essi ornarono",
+                    "loro hanno ornato",
+                    "essi hanno ornato",
+                    "loro ebbero ornato",
+                    "essi ebbero ornato",
+                    "loro vestirono",
+                    "essi vestirono",
+                    "loro hanno vestito",
+                    "essi hanno vestito",
+                    "loro ebbero vestito",
+                    "essi ebbero vestito",
+                    "loro subornarono",
+                    "essi subornarono",
+                    "loro hanno subornato",
+                    "essi hanno subornato",
+                    "loro ebbero subornato",
+                    "essi ebbero subornato",
+                    "loro corruppero",
+                    "essi corruppero",
+                    "loro hanno corrotto",
+                    "essi hanno corrotto",
+                    "loro ebbero corrotto",
+                    "essi ebbero corrotto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "subornavĕram",
+                "traduzioni": [
+                    "io avevo allestito",
+                    "io avevo provveduto",
+                    "io avevo provvisto",
+                    "io avevo attrezzato",
+                    "io avevo equipaggiato",
+                    "io avevo ornato",
+                    "io avevo vestito",
+                    "io avevo subornato",
+                    "io avevo corrotto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "subornavĕras",
+                "traduzioni": [
+                    "tu avevi allestito",
+                    "tu avevi provveduto",
+                    "tu avevi provvisto",
+                    "tu avevi attrezzato",
+                    "tu avevi equipaggiato",
+                    "tu avevi ornato",
+                    "tu avevi vestito",
+                    "tu avevi subornato",
+                    "tu avevi corrotto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "subornavĕrat",
+                "traduzioni": [
+                    "lui aveva allestito",
+                    "lei aveva allestito",
+                    "egli aveva allestito",
+                    "lui aveva provveduto",
+                    "lei aveva provveduto",
+                    "egli aveva provveduto",
+                    "lui aveva provvisto",
+                    "lei aveva provvisto",
+                    "egli aveva provvisto",
+                    "lui aveva attrezzato",
+                    "lei aveva attrezzato",
+                    "egli aveva attrezzato",
+                    "lui aveva equipaggiato",
+                    "lei aveva equipaggiato",
+                    "egli aveva equipaggiato",
+                    "lui aveva ornato",
+                    "lei aveva ornato",
+                    "egli aveva ornato",
+                    "lui aveva vestito",
+                    "lei aveva vestito",
+                    "egli aveva vestito",
+                    "lui aveva subornato",
+                    "lei aveva subornato",
+                    "egli aveva subornato",
+                    "lui aveva corrotto",
+                    "lei aveva corrotto",
+                    "egli aveva corrotto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "subornaverāmus",
+                "traduzioni": [
+                    "noi avevamo allestito",
+                    "noi avevamo provveduto",
+                    "noi avevamo provvisto",
+                    "noi avevamo attrezzato",
+                    "noi avevamo equipaggiato",
+                    "noi avevamo ornato",
+                    "noi avevamo vestito",
+                    "noi avevamo subornato",
+                    "noi avevamo corrotto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "subornaverātis",
+                "traduzioni": [
+                    "voi avevate allestito",
+                    "voi avevate provveduto",
+                    "voi avevate provvisto",
+                    "voi avevate attrezzato",
+                    "voi avevate equipaggiato",
+                    "voi avevate ornato",
+                    "voi avevate vestito",
+                    "voi avevate subornato",
+                    "voi avevate corrotto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "subornavĕrant",
+                "traduzioni": [
+                    "loro avevano allestito",
+                    "essi avevano allestito",
+                    "loro avevano provveduto",
+                    "essi avevano provveduto",
+                    "loro avevano provvisto",
+                    "essi avevano provvisto",
+                    "loro avevano attrezzato",
+                    "essi avevano attrezzato",
+                    "loro avevano equipaggiato",
+                    "essi avevano equipaggiato",
+                    "loro avevano ornato",
+                    "essi avevano ornato",
+                    "loro avevano vestito",
+                    "essi avevano vestito",
+                    "loro avevano subornato",
+                    "essi avevano subornato",
+                    "loro avevano corrotto",
+                    "essi avevano corrotto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "subornavĕro",
+                "traduzioni": [
+                    "io avrò allestito",
+                    "io avrò provveduto",
+                    "io avrò provvisto",
+                    "io avrò attrezzato",
+                    "io avrò equipaggiato",
+                    "io avrò ornato",
+                    "io avrò vestito",
+                    "io avrò subornato",
+                    "io avrò corrotto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "subornavĕris",
+                "traduzioni": [
+                    "tu avrai allestito",
+                    "tu avrai provveduto",
+                    "tu avrai provvisto",
+                    "tu avrai attrezzato",
+                    "tu avrai equipaggiato",
+                    "tu avrai ornato",
+                    "tu avrai vestito",
+                    "tu avrai subornato",
+                    "tu avrai corrotto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "subornavĕrit",
+                "traduzioni": [
+                    "lui avrà allestito",
+                    "lei avrà allestito",
+                    "egli avrà allestito",
+                    "lui avrà provveduto",
+                    "lei avrà provveduto",
+                    "egli avrà provveduto",
+                    "lui avrà provvisto",
+                    "lei avrà provvisto",
+                    "egli avrà provvisto",
+                    "lui avrà attrezzato",
+                    "lei avrà attrezzato",
+                    "egli avrà attrezzato",
+                    "lui avrà equipaggiato",
+                    "lei avrà equipaggiato",
+                    "egli avrà equipaggiato",
+                    "lui avrà ornato",
+                    "lei avrà ornato",
+                    "egli avrà ornato",
+                    "lui avrà vestito",
+                    "lei avrà vestito",
+                    "egli avrà vestito",
+                    "lui avrà subornato",
+                    "lei avrà subornato",
+                    "egli avrà subornato",
+                    "lui avrà corrotto",
+                    "lei avrà corrotto",
+                    "egli avrà corrotto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "subornaverĭmus",
+                "traduzioni": [
+                    "noi avremo allestito",
+                    "noi avremo provveduto",
+                    "noi avremo provvisto",
+                    "noi avremo attrezzato",
+                    "noi avremo equipaggiato",
+                    "noi avremo ornato",
+                    "noi avremo vestito",
+                    "noi avremo subornato",
+                    "noi avremo corrotto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "subornaverĭtis",
+                "traduzioni": [
+                    "voi avrete allestito",
+                    "voi avrete provveduto",
+                    "voi avrete provvisto",
+                    "voi avrete attrezzato",
+                    "voi avrete equipaggiato",
+                    "voi avrete ornato",
+                    "voi avrete vestito",
+                    "voi avrete subornato",
+                    "voi avrete corrotto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "subornavĕrint",
+                "traduzioni": [
+                    "loro avranno allestito",
+                    "essi avranno allestito",
+                    "loro avranno provveduto",
+                    "essi avranno provveduto",
+                    "loro avranno provvisto",
+                    "essi avranno provvisto",
+                    "loro avranno attrezzato",
+                    "essi avranno attrezzato",
+                    "loro avranno equipaggiato",
+                    "essi avranno equipaggiato",
+                    "loro avranno ornato",
+                    "essi avranno ornato",
+                    "loro avranno vestito",
+                    "essi avranno vestito",
+                    "loro avranno subornato",
+                    "essi avranno subornato",
+                    "loro avranno corrotto",
+                    "essi avranno corrotto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŭbornem",
+                "traduzioni": [
+                    "che io allestisca",
+                    "che io provveda",
+                    "che io attrezzi",
+                    "che io equipaggi",
+                    "che io orni",
+                    "che io vesta",
+                    "che io suborni",
+                    "che io corrompa"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŭbornes",
+                "traduzioni": [
+                    "che tu allestisca",
+                    "che tu provveda",
+                    "che tu attrezzi",
+                    "che tu equipaggi",
+                    "che tu orni",
+                    "che tu vesta",
+                    "che tu suborni",
+                    "che tu corrompa"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŭbornet",
+                "traduzioni": [
+                    "che lui allestisca",
+                    "che lei allestisca",
+                    "che egli allestisca",
+                    "che lui provveda",
+                    "che lei provveda",
+                    "che egli provveda",
+                    "che lui attrezzi",
+                    "che lei attrezzi",
+                    "che egli attrezzi",
+                    "che lui equipaggi",
+                    "che lei equipaggi",
+                    "che egli equipaggi",
+                    "che lui orni",
+                    "che lei orni",
+                    "che egli orni",
+                    "che lui vesta",
+                    "che lei vesta",
+                    "che egli vesta",
+                    "che lui suborni",
+                    "che lei suborni",
+                    "che egli suborni",
+                    "che lui corrompa",
+                    "che lei corrompa",
+                    "che egli corrompa"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŭbornēmus",
+                "traduzioni": [
+                    "che noi allestiamo",
+                    "che noi provvediamo",
+                    "che noi attrezziamo",
+                    "che noi equipaggiamo",
+                    "che noi orniamo",
+                    "che noi vestiamo",
+                    "che noi suborniamo",
+                    "che noi corrompiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŭbornētis",
+                "traduzioni": [
+                    "che voi allestiate",
+                    "che voi provvediate",
+                    "che voi attrezziate",
+                    "che voi equipaggiate",
+                    "che voi orniate",
+                    "che voi vestiate",
+                    "che voi suborniate",
+                    "che voi corrompiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŭbornent",
+                "traduzioni": [
+                    "che loro allestiscano",
+                    "che essi allestiscano",
+                    "che loro provvedano",
+                    "che essi provvedano",
+                    "che loro attrezzino",
+                    "che essi attrezzino",
+                    "che loro equipaggino",
+                    "che essi equipaggino",
+                    "che loro ornino",
+                    "che essi ornino",
+                    "che loro vestano",
+                    "che essi vestano",
+                    "che loro subornino",
+                    "che essi subornino",
+                    "che loro corrompano",
+                    "che essi corrompano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŭbornārem",
+                "traduzioni": [
+                    "che io allestissi",
+                    "che io provvedessi",
+                    "che io attrezzassi",
+                    "che io equipaggiassi",
+                    "che io ornassi",
+                    "che io vestissi",
+                    "che io subornassi",
+                    "che io corrompessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŭbornāres",
+                "traduzioni": [
+                    "che tu allestissi",
+                    "che tu provvedessi",
+                    "che tu attrezzassi",
+                    "che tu equipaggiassi",
+                    "che tu ornassi",
+                    "che tu vestissi",
+                    "che tu subornassi",
+                    "che tu corrompessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŭbornāret",
+                "traduzioni": [
+                    "che lui allestisse",
+                    "che lei allestisse",
+                    "che egli allestisse",
+                    "che lui provvedesse",
+                    "che lei provvedesse",
+                    "che egli provvedesse",
+                    "che lui attrezzasse",
+                    "che lei attrezzasse",
+                    "che egli attrezzasse",
+                    "che lui equipaggiasse",
+                    "che lei equipaggiasse",
+                    "che egli equipaggiasse",
+                    "che lui ornasse",
+                    "che lei ornasse",
+                    "che egli ornasse",
+                    "che lui vestisse",
+                    "che lei vestisse",
+                    "che egli vestisse",
+                    "che lui subornasse",
+                    "che lei subornasse",
+                    "che egli subornasse",
+                    "che lui corrompesse",
+                    "che lei corrompesse",
+                    "che egli corrompesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŭbornarēmus",
+                "traduzioni": [
+                    "che noi allestissimo",
+                    "che noi provvedessimo",
+                    "che noi attrezzassimo",
+                    "che noi equipaggiassimo",
+                    "che noi ornassimo",
+                    "che noi vestissimo",
+                    "che noi subornassimo",
+                    "che noi corrompessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŭbornarētis",
+                "traduzioni": [
+                    "che voi allestiste",
+                    "che voi provvedeste",
+                    "che voi attrezzaste",
+                    "che voi equipaggiaste",
+                    "che voi ornaste",
+                    "che voi vestiste",
+                    "che voi subornaste",
+                    "che voi corrompeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŭbornārent",
+                "traduzioni": [
+                    "che loro allestissero",
+                    "che essi allestissero",
+                    "che loro provvedessero",
+                    "che essi provvedessero",
+                    "che loro attrezzassero",
+                    "che essi attrezzassero",
+                    "che loro equipaggiassero",
+                    "che essi equipaggiassero",
+                    "che loro ornassero",
+                    "che essi ornassero",
+                    "che loro vestissero",
+                    "che essi vestissero",
+                    "che loro subornassero",
+                    "che essi subornassero",
+                    "che loro corrompessero",
+                    "che essi corrompessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "subornavĕrim",
+                "traduzioni": [
+                    "che io abbia allestito",
+                    "che io abbia provveduto",
+                    "che io abbia provvisto",
+                    "che io abbia attrezzato",
+                    "che io abbia equipaggiato",
+                    "che io abbia ornato",
+                    "che io abbia vestito",
+                    "che io abbia subornato",
+                    "che io abbia corrotto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "subornavĕris",
+                "traduzioni": [
+                    "che tu abbia allestito",
+                    "che tu abbia provveduto",
+                    "che tu abbia provvisto",
+                    "che tu abbia attrezzato",
+                    "che tu abbia equipaggiato",
+                    "che tu abbia ornato",
+                    "che tu abbia vestito",
+                    "che tu abbia subornato",
+                    "che tu abbia corrotto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "subornavĕrit",
+                "traduzioni": [
+                    "che lui abbia allestito",
+                    "che lei abbia allestito",
+                    "che egli abbia allestito",
+                    "che lui abbia provveduto",
+                    "che lei abbia provveduto",
+                    "che egli abbia provveduto",
+                    "che lui abbia provvisto",
+                    "che lei abbia provvisto",
+                    "che egli abbia provvisto",
+                    "che lui abbia attrezzato",
+                    "che lei abbia attrezzato",
+                    "che egli abbia attrezzato",
+                    "che lui abbia equipaggiato",
+                    "che lei abbia equipaggiato",
+                    "che egli abbia equipaggiato",
+                    "che lui abbia ornato",
+                    "che lei abbia ornato",
+                    "che egli abbia ornato",
+                    "che lui abbia vestito",
+                    "che lei abbia vestito",
+                    "che egli abbia vestito",
+                    "che lui abbia subornato",
+                    "che lei abbia subornato",
+                    "che egli abbia subornato",
+                    "che lui abbia corrotto",
+                    "che lei abbia corrotto",
+                    "che egli abbia corrotto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "subornaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo allestito",
+                    "che noi abbiamo provveduto",
+                    "che noi abbiamo provvisto",
+                    "che noi abbiamo attrezzato",
+                    "che noi abbiamo equipaggiato",
+                    "che noi abbiamo ornato",
+                    "che noi abbiamo vestito",
+                    "che noi abbiamo subornato",
+                    "che noi abbiamo corrotto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "subornaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate allestito",
+                    "che voi abbiate provveduto",
+                    "che voi abbiate provvisto",
+                    "che voi abbiate attrezzato",
+                    "che voi abbiate equipaggiato",
+                    "che voi abbiate ornato",
+                    "che voi abbiate vestito",
+                    "che voi abbiate subornato",
+                    "che voi abbiate corrotto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "subornavĕrint",
+                "traduzioni": [
+                    "che loro abbiano allestito",
+                    "che essi abbiano allestito",
+                    "che loro abbiano provveduto",
+                    "che essi abbiano provveduto",
+                    "che loro abbiano provvisto",
+                    "che essi abbiano provvisto",
+                    "che loro abbiano attrezzato",
+                    "che essi abbiano attrezzato",
+                    "che loro abbiano equipaggiato",
+                    "che essi abbiano equipaggiato",
+                    "che loro abbiano ornato",
+                    "che essi abbiano ornato",
+                    "che loro abbiano vestito",
+                    "che essi abbiano vestito",
+                    "che loro abbiano subornato",
+                    "che essi abbiano subornato",
+                    "che loro abbiano corrotto",
+                    "che essi abbiano corrotto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "subornavissem",
+                "traduzioni": [
+                    "che io avessi allestito",
+                    "che io avessi provveduto",
+                    "che io avessi provvisto",
+                    "che io avessi attrezzato",
+                    "che io avessi equipaggiato",
+                    "che io avessi ornato",
+                    "che io avessi vestito",
+                    "che io avessi subornato",
+                    "che io avessi corrotto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "subornavisses",
+                "traduzioni": [
+                    "che tu avessi allestito",
+                    "che tu avessi provveduto",
+                    "che tu avessi provvisto",
+                    "che tu avessi attrezzato",
+                    "che tu avessi equipaggiato",
+                    "che tu avessi ornato",
+                    "che tu avessi vestito",
+                    "che tu avessi subornato",
+                    "che tu avessi corrotto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "subornavisset",
+                "traduzioni": [
+                    "che lui avesse allestito",
+                    "che lei avesse allestito",
+                    "che egli avesse allestito",
+                    "che lui avesse provveduto",
+                    "che lei avesse provveduto",
+                    "che egli avesse provveduto",
+                    "che lui avesse provvisto",
+                    "che lei avesse provvisto",
+                    "che egli avesse provvisto",
+                    "che lui avesse attrezzato",
+                    "che lei avesse attrezzato",
+                    "che egli avesse attrezzato",
+                    "che lui avesse equipaggiato",
+                    "che lei avesse equipaggiato",
+                    "che egli avesse equipaggiato",
+                    "che lui avesse ornato",
+                    "che lei avesse ornato",
+                    "che egli avesse ornato",
+                    "che lui avesse vestito",
+                    "che lei avesse vestito",
+                    "che egli avesse vestito",
+                    "che lui avesse subornato",
+                    "che lei avesse subornato",
+                    "che egli avesse subornato",
+                    "che lui avesse corrotto",
+                    "che lei avesse corrotto",
+                    "che egli avesse corrotto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "subornavissēmus",
+                "traduzioni": [
+                    "che noi avessimo allestito",
+                    "che noi avessimo provveduto",
+                    "che noi avessimo provvisto",
+                    "che noi avessimo attrezzato",
+                    "che noi avessimo equipaggiato",
+                    "che noi avessimo ornato",
+                    "che noi avessimo vestito",
+                    "che noi avessimo subornato",
+                    "che noi avessimo corrotto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "subornavissētis",
+                "traduzioni": [
+                    "che voi aveste allestito",
+                    "che voi aveste provveduto",
+                    "che voi aveste provvisto",
+                    "che voi aveste attrezzato",
+                    "che voi aveste equipaggiato",
+                    "che voi aveste ornato",
+                    "che voi aveste vestito",
+                    "che voi aveste subornato",
+                    "che voi aveste corrotto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "subornavissent",
+                "traduzioni": [
+                    "che loro avessero allestito",
+                    "che essi avessero allestito",
+                    "che loro avessero provveduto",
+                    "che essi avessero provveduto",
+                    "che loro avessero provvisto",
+                    "che essi avessero provvisto",
+                    "che loro avessero attrezzato",
+                    "che essi avessero attrezzato",
+                    "che loro avessero equipaggiato",
+                    "che essi avessero equipaggiato",
+                    "che loro avessero ornato",
+                    "che essi avessero ornato",
+                    "che loro avessero vestito",
+                    "che essi avessero vestito",
+                    "che loro avessero subornato",
+                    "che essi avessero subornato",
+                    "che loro avessero corrotto",
+                    "che essi avessero corrotto"
+                ]
+            }
+        ]
+    }
+}

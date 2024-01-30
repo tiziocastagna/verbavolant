@@ -1,0 +1,1274 @@
+{
+    "identifier": "ROGO",
+    "conuigazione": "1",
+    "translation": [
+        "(+ accusativo della cosa richiesta + accusativo della persona a cui si chiede) chiedere",
+        "domandare",
+        "interrogare",
+        "interpellare",
+        "richiedere",
+        "pregare",
+        "supplicare",
+        "invitare",
+        "chiamare",
+        "far venire"
+    ],
+    "valid_translations": [
+        "domandare",
+        "interrogare",
+        "interpellare",
+        "richiedere",
+        "pregare",
+        "supplicare",
+        "invitare",
+        "chiamare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rŏgo",
+                "traduzioni": [
+                    "io domando",
+                    "io interrogo",
+                    "io interpello",
+                    "io richiedo",
+                    "io prego",
+                    "io supplico",
+                    "io invito",
+                    "io chiamo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rŏgas",
+                "traduzioni": [
+                    "tu domandi",
+                    "tu interroghi",
+                    "tu interpelli",
+                    "tu richiedi",
+                    "tu preghi",
+                    "tu supplichi",
+                    "tu inviti",
+                    "tu chiami"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rŏgat",
+                "traduzioni": [
+                    "lui domanda",
+                    "lei domanda",
+                    "egli domanda",
+                    "lui interroga",
+                    "lei interroga",
+                    "egli interroga",
+                    "lui interpella",
+                    "lei interpella",
+                    "egli interpella",
+                    "lui richiede",
+                    "lei richiede",
+                    "egli richiede",
+                    "lui prega",
+                    "lei prega",
+                    "egli prega",
+                    "lui supplica",
+                    "lei supplica",
+                    "egli supplica",
+                    "lui invita",
+                    "lei invita",
+                    "egli invita",
+                    "lui chiama",
+                    "lei chiama",
+                    "egli chiama"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rŏgāmus",
+                "traduzioni": [
+                    "noi domandiamo",
+                    "noi interroghiamo",
+                    "noi interpelliamo",
+                    "noi richiediamo",
+                    "noi preghiamo",
+                    "noi supplichiamo",
+                    "noi invitiamo",
+                    "noi chiamiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rŏgātis",
+                "traduzioni": [
+                    "voi domandate",
+                    "voi interrogate",
+                    "voi interpellate",
+                    "voi richiedete",
+                    "voi pregate",
+                    "voi supplicate",
+                    "voi invitate",
+                    "voi chiamate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rŏgant",
+                "traduzioni": [
+                    "loro domandano",
+                    "essi domandano",
+                    "loro interrogano",
+                    "essi interrogano",
+                    "loro interpellano",
+                    "essi interpellano",
+                    "loro richiedono",
+                    "essi richiedono",
+                    "loro pregano",
+                    "essi pregano",
+                    "loro supplicano",
+                    "essi supplicano",
+                    "loro invitano",
+                    "essi invitano",
+                    "loro chiamano",
+                    "essi chiamano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "rŏgābam",
+                "traduzioni": [
+                    "io domandavo",
+                    "io interrogavo",
+                    "io interpellavo",
+                    "io richiedevo",
+                    "io pregavo",
+                    "io supplicavo",
+                    "io invitavo",
+                    "io chiamavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rŏgābas",
+                "traduzioni": [
+                    "tu domandavi",
+                    "tu interrogavi",
+                    "tu interpellavi",
+                    "tu richiedevi",
+                    "tu pregavi",
+                    "tu supplicavi",
+                    "tu invitavi",
+                    "tu chiamavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rŏgābat",
+                "traduzioni": [
+                    "lui domandava",
+                    "lei domandava",
+                    "egli domandava",
+                    "lui interrogava",
+                    "lei interrogava",
+                    "egli interrogava",
+                    "lui interpellava",
+                    "lei interpellava",
+                    "egli interpellava",
+                    "lui richiedeva",
+                    "lei richiedeva",
+                    "egli richiedeva",
+                    "lui pregava",
+                    "lei pregava",
+                    "egli pregava",
+                    "lui supplicava",
+                    "lei supplicava",
+                    "egli supplicava",
+                    "lui invitava",
+                    "lei invitava",
+                    "egli invitava",
+                    "lui chiamava",
+                    "lei chiamava",
+                    "egli chiamava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rŏgabāmus",
+                "traduzioni": [
+                    "noi domandavamo",
+                    "noi interrogavamo",
+                    "noi interpellavamo",
+                    "noi richiedevamo",
+                    "noi pregavamo",
+                    "noi supplicavamo",
+                    "noi invitavamo",
+                    "noi chiamavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rŏgabātis",
+                "traduzioni": [
+                    "voi domandavate",
+                    "voi interrogavate",
+                    "voi interpellavate",
+                    "voi richiedevate",
+                    "voi pregavate",
+                    "voi supplicavate",
+                    "voi invitavate",
+                    "voi chiamavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rŏgābant",
+                "traduzioni": [
+                    "loro domandavano",
+                    "essi domandavano",
+                    "loro interrogavano",
+                    "essi interrogavano",
+                    "loro interpellavano",
+                    "essi interpellavano",
+                    "loro richiedevano",
+                    "essi richiedevano",
+                    "loro pregavano",
+                    "essi pregavano",
+                    "loro supplicavano",
+                    "essi supplicavano",
+                    "loro invitavano",
+                    "essi invitavano",
+                    "loro chiamavano",
+                    "essi chiamavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rŏgābo",
+                "traduzioni": [
+                    "io domanderò",
+                    "io interrogherò",
+                    "io interpellerò",
+                    "io richiederò",
+                    "io pregherò",
+                    "io supplicherò",
+                    "io inviterò",
+                    "io chiamerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rŏgābis",
+                "traduzioni": [
+                    "tu domanderai",
+                    "tu interrogherai",
+                    "tu interpellerai",
+                    "tu richiederai",
+                    "tu pregherai",
+                    "tu supplicherai",
+                    "tu inviterai",
+                    "tu chiamerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rŏgābit",
+                "traduzioni": [
+                    "lui domanderà",
+                    "lei domanderà",
+                    "egli domanderà",
+                    "lui interrogherà",
+                    "lei interrogherà",
+                    "egli interrogherà",
+                    "lui interpellerà",
+                    "lei interpellerà",
+                    "egli interpellerà",
+                    "lui richiederà",
+                    "lei richiederà",
+                    "egli richiederà",
+                    "lui pregherà",
+                    "lei pregherà",
+                    "egli pregherà",
+                    "lui supplicherà",
+                    "lei supplicherà",
+                    "egli supplicherà",
+                    "lui inviterà",
+                    "lei inviterà",
+                    "egli inviterà",
+                    "lui chiamerà",
+                    "lei chiamerà",
+                    "egli chiamerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rŏgabĭmus",
+                "traduzioni": [
+                    "noi domanderemo",
+                    "noi interrogheremo",
+                    "noi interpelleremo",
+                    "noi richiederemo",
+                    "noi pregheremo",
+                    "noi supplicheremo",
+                    "noi inviteremo",
+                    "noi chiameremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rŏgabĭtis",
+                "traduzioni": [
+                    "voi domanderete",
+                    "voi interrogherete",
+                    "voi interpellerete",
+                    "voi richiederete",
+                    "voi pregherete",
+                    "voi supplicherete",
+                    "voi inviterete",
+                    "voi chiamerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rŏgābunt",
+                "traduzioni": [
+                    "loro domanderanno",
+                    "essi domanderanno",
+                    "loro interrogheranno",
+                    "essi interrogheranno",
+                    "loro interpelleranno",
+                    "essi interpelleranno",
+                    "loro richiederanno",
+                    "essi richiederanno",
+                    "loro pregheranno",
+                    "essi pregheranno",
+                    "loro supplicheranno",
+                    "essi supplicheranno",
+                    "loro inviteranno",
+                    "essi inviteranno",
+                    "loro chiameranno",
+                    "essi chiameranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "rogavi",
+                "traduzioni": [
+                    "io domandai",
+                    "io ho domandato",
+                    "io ebbi domandato",
+                    "io interrogai",
+                    "io ho interrogato",
+                    "io ebbi interrogato",
+                    "io interpellai",
+                    "io ho interpellato",
+                    "io ebbi interpellato",
+                    "io richiesi",
+                    "io ho richiesto",
+                    "io ebbi richiesto",
+                    "io pregai",
+                    "io ho pregato",
+                    "io ebbi pregato",
+                    "io supplicai",
+                    "io ho supplicato",
+                    "io ebbi supplicato",
+                    "io invitai",
+                    "io ho invitato",
+                    "io ebbi invitato",
+                    "io chiamai",
+                    "io ho chiamato",
+                    "io ebbi chiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rogavisti",
+                "traduzioni": [
+                    "tu domandasti",
+                    "tu hai domandato",
+                    "tu avesti domandato",
+                    "tu interrogasti",
+                    "tu hai interrogato",
+                    "tu avesti interrogato",
+                    "tu interpellasti",
+                    "tu hai interpellato",
+                    "tu avesti interpellato",
+                    "tu richiedesti",
+                    "tu hai richiesto",
+                    "tu avesti richiesto",
+                    "tu pregasti",
+                    "tu hai pregato",
+                    "tu avesti pregato",
+                    "tu supplicasti",
+                    "tu hai supplicato",
+                    "tu avesti supplicato",
+                    "tu invitasti",
+                    "tu hai invitato",
+                    "tu avesti invitato",
+                    "tu chiamasti",
+                    "tu hai chiamato",
+                    "tu avesti chiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rogavit",
+                "traduzioni": [
+                    "lui domandò",
+                    "lei domandò",
+                    "egli domandò",
+                    "lui ha domandato",
+                    "lei ha domandato",
+                    "egli ha domandato",
+                    "lui ebbe domandato",
+                    "lei ebbe domandato",
+                    "egli ebbe domandato",
+                    "lui interrogò",
+                    "lei interrogò",
+                    "egli interrogò",
+                    "lui ha interrogato",
+                    "lei ha interrogato",
+                    "egli ha interrogato",
+                    "lui ebbe interrogato",
+                    "lei ebbe interrogato",
+                    "egli ebbe interrogato",
+                    "lui interpellò",
+                    "lei interpellò",
+                    "egli interpellò",
+                    "lui ha interpellato",
+                    "lei ha interpellato",
+                    "egli ha interpellato",
+                    "lui ebbe interpellato",
+                    "lei ebbe interpellato",
+                    "egli ebbe interpellato",
+                    "lui richiese",
+                    "lei richiese",
+                    "egli richiese",
+                    "lui ha richiesto",
+                    "lei ha richiesto",
+                    "egli ha richiesto",
+                    "lui ebbe richiesto",
+                    "lei ebbe richiesto",
+                    "egli ebbe richiesto",
+                    "lui pregò",
+                    "lei pregò",
+                    "egli pregò",
+                    "lui ha pregato",
+                    "lei ha pregato",
+                    "egli ha pregato",
+                    "lui ebbe pregato",
+                    "lei ebbe pregato",
+                    "egli ebbe pregato",
+                    "lui supplicò",
+                    "lei supplicò",
+                    "egli supplicò",
+                    "lui ha supplicato",
+                    "lei ha supplicato",
+                    "egli ha supplicato",
+                    "lui ebbe supplicato",
+                    "lei ebbe supplicato",
+                    "egli ebbe supplicato",
+                    "lui invitò",
+                    "lei invitò",
+                    "egli invitò",
+                    "lui ha invitato",
+                    "lei ha invitato",
+                    "egli ha invitato",
+                    "lui ebbe invitato",
+                    "lei ebbe invitato",
+                    "egli ebbe invitato",
+                    "lui chiamò",
+                    "lei chiamò",
+                    "egli chiamò",
+                    "lui ha chiamato",
+                    "lei ha chiamato",
+                    "egli ha chiamato",
+                    "lui ebbe chiamato",
+                    "lei ebbe chiamato",
+                    "egli ebbe chiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rogavĭmus",
+                "traduzioni": [
+                    "noi domandammo",
+                    "noi abbiamo domandato",
+                    "noi avemmo domandato",
+                    "noi interrogammo",
+                    "noi abbiamo interrogato",
+                    "noi avemmo interrogato",
+                    "noi interpellammo",
+                    "noi abbiamo interpellato",
+                    "noi avemmo interpellato",
+                    "noi richiedemmo",
+                    "noi abbiamo richiesto",
+                    "noi avemmo richiesto",
+                    "noi pregammo",
+                    "noi abbiamo pregato",
+                    "noi avemmo pregato",
+                    "noi supplicammo",
+                    "noi abbiamo supplicato",
+                    "noi avemmo supplicato",
+                    "noi invitammo",
+                    "noi abbiamo invitato",
+                    "noi avemmo invitato",
+                    "noi chiamammo",
+                    "noi abbiamo chiamato",
+                    "noi avemmo chiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rogavistis",
+                "traduzioni": [
+                    "voi domandaste",
+                    "voi avete domandato",
+                    "voi aveste domandato",
+                    "voi interrogaste",
+                    "voi avete interrogato",
+                    "voi aveste interrogato",
+                    "voi interpellaste",
+                    "voi avete interpellato",
+                    "voi aveste interpellato",
+                    "voi richiedeste",
+                    "voi avete richiesto",
+                    "voi aveste richiesto",
+                    "voi pregaste",
+                    "voi avete pregato",
+                    "voi aveste pregato",
+                    "voi supplicaste",
+                    "voi avete supplicato",
+                    "voi aveste supplicato",
+                    "voi invitaste",
+                    "voi avete invitato",
+                    "voi aveste invitato",
+                    "voi chiamaste",
+                    "voi avete chiamato",
+                    "voi aveste chiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rogavērunt, rogavēre",
+                "traduzioni": [
+                    "loro domandarono",
+                    "essi domandarono",
+                    "loro hanno domandato",
+                    "essi hanno domandato",
+                    "loro ebbero domandato",
+                    "essi ebbero domandato",
+                    "loro interrogarono",
+                    "essi interrogarono",
+                    "loro hanno interrogato",
+                    "essi hanno interrogato",
+                    "loro ebbero interrogato",
+                    "essi ebbero interrogato",
+                    "loro interpellarono",
+                    "essi interpellarono",
+                    "loro hanno interpellato",
+                    "essi hanno interpellato",
+                    "loro ebbero interpellato",
+                    "essi ebbero interpellato",
+                    "loro richiesero",
+                    "essi richiesero",
+                    "loro hanno richiesto",
+                    "essi hanno richiesto",
+                    "loro ebbero richiesto",
+                    "essi ebbero richiesto",
+                    "loro pregarono",
+                    "essi pregarono",
+                    "loro hanno pregato",
+                    "essi hanno pregato",
+                    "loro ebbero pregato",
+                    "essi ebbero pregato",
+                    "loro supplicarono",
+                    "essi supplicarono",
+                    "loro hanno supplicato",
+                    "essi hanno supplicato",
+                    "loro ebbero supplicato",
+                    "essi ebbero supplicato",
+                    "loro invitarono",
+                    "essi invitarono",
+                    "loro hanno invitato",
+                    "essi hanno invitato",
+                    "loro ebbero invitato",
+                    "essi ebbero invitato",
+                    "loro chiamarono",
+                    "essi chiamarono",
+                    "loro hanno chiamato",
+                    "essi hanno chiamato",
+                    "loro ebbero chiamato",
+                    "essi ebbero chiamato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "rogavĕram",
+                "traduzioni": [
+                    "io avevo domandato",
+                    "io avevo interrogato",
+                    "io avevo interpellato",
+                    "io avevo richiesto",
+                    "io avevo pregato",
+                    "io avevo supplicato",
+                    "io avevo invitato",
+                    "io avevo chiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rogavĕras",
+                "traduzioni": [
+                    "tu avevi domandato",
+                    "tu avevi interrogato",
+                    "tu avevi interpellato",
+                    "tu avevi richiesto",
+                    "tu avevi pregato",
+                    "tu avevi supplicato",
+                    "tu avevi invitato",
+                    "tu avevi chiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rogavĕrat",
+                "traduzioni": [
+                    "lui aveva domandato",
+                    "lei aveva domandato",
+                    "egli aveva domandato",
+                    "lui aveva interrogato",
+                    "lei aveva interrogato",
+                    "egli aveva interrogato",
+                    "lui aveva interpellato",
+                    "lei aveva interpellato",
+                    "egli aveva interpellato",
+                    "lui aveva richiesto",
+                    "lei aveva richiesto",
+                    "egli aveva richiesto",
+                    "lui aveva pregato",
+                    "lei aveva pregato",
+                    "egli aveva pregato",
+                    "lui aveva supplicato",
+                    "lei aveva supplicato",
+                    "egli aveva supplicato",
+                    "lui aveva invitato",
+                    "lei aveva invitato",
+                    "egli aveva invitato",
+                    "lui aveva chiamato",
+                    "lei aveva chiamato",
+                    "egli aveva chiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rogaverāmus",
+                "traduzioni": [
+                    "noi avevamo domandato",
+                    "noi avevamo interrogato",
+                    "noi avevamo interpellato",
+                    "noi avevamo richiesto",
+                    "noi avevamo pregato",
+                    "noi avevamo supplicato",
+                    "noi avevamo invitato",
+                    "noi avevamo chiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rogaverātis",
+                "traduzioni": [
+                    "voi avevate domandato",
+                    "voi avevate interrogato",
+                    "voi avevate interpellato",
+                    "voi avevate richiesto",
+                    "voi avevate pregato",
+                    "voi avevate supplicato",
+                    "voi avevate invitato",
+                    "voi avevate chiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rogavĕrant",
+                "traduzioni": [
+                    "loro avevano domandato",
+                    "essi avevano domandato",
+                    "loro avevano interrogato",
+                    "essi avevano interrogato",
+                    "loro avevano interpellato",
+                    "essi avevano interpellato",
+                    "loro avevano richiesto",
+                    "essi avevano richiesto",
+                    "loro avevano pregato",
+                    "essi avevano pregato",
+                    "loro avevano supplicato",
+                    "essi avevano supplicato",
+                    "loro avevano invitato",
+                    "essi avevano invitato",
+                    "loro avevano chiamato",
+                    "essi avevano chiamato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rogavĕro",
+                "traduzioni": [
+                    "io avrò domandato",
+                    "io avrò interrogato",
+                    "io avrò interpellato",
+                    "io avrò richiesto",
+                    "io avrò pregato",
+                    "io avrò supplicato",
+                    "io avrò invitato",
+                    "io avrò chiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rogavĕris",
+                "traduzioni": [
+                    "tu avrai domandato",
+                    "tu avrai interrogato",
+                    "tu avrai interpellato",
+                    "tu avrai richiesto",
+                    "tu avrai pregato",
+                    "tu avrai supplicato",
+                    "tu avrai invitato",
+                    "tu avrai chiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rogavĕrit",
+                "traduzioni": [
+                    "lui avrà domandato",
+                    "lei avrà domandato",
+                    "egli avrà domandato",
+                    "lui avrà interrogato",
+                    "lei avrà interrogato",
+                    "egli avrà interrogato",
+                    "lui avrà interpellato",
+                    "lei avrà interpellato",
+                    "egli avrà interpellato",
+                    "lui avrà richiesto",
+                    "lei avrà richiesto",
+                    "egli avrà richiesto",
+                    "lui avrà pregato",
+                    "lei avrà pregato",
+                    "egli avrà pregato",
+                    "lui avrà supplicato",
+                    "lei avrà supplicato",
+                    "egli avrà supplicato",
+                    "lui avrà invitato",
+                    "lei avrà invitato",
+                    "egli avrà invitato",
+                    "lui avrà chiamato",
+                    "lei avrà chiamato",
+                    "egli avrà chiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rogaverĭmus",
+                "traduzioni": [
+                    "noi avremo domandato",
+                    "noi avremo interrogato",
+                    "noi avremo interpellato",
+                    "noi avremo richiesto",
+                    "noi avremo pregato",
+                    "noi avremo supplicato",
+                    "noi avremo invitato",
+                    "noi avremo chiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rogaverĭtis",
+                "traduzioni": [
+                    "voi avrete domandato",
+                    "voi avrete interrogato",
+                    "voi avrete interpellato",
+                    "voi avrete richiesto",
+                    "voi avrete pregato",
+                    "voi avrete supplicato",
+                    "voi avrete invitato",
+                    "voi avrete chiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rogavĕrint",
+                "traduzioni": [
+                    "loro avranno domandato",
+                    "essi avranno domandato",
+                    "loro avranno interrogato",
+                    "essi avranno interrogato",
+                    "loro avranno interpellato",
+                    "essi avranno interpellato",
+                    "loro avranno richiesto",
+                    "essi avranno richiesto",
+                    "loro avranno pregato",
+                    "essi avranno pregato",
+                    "loro avranno supplicato",
+                    "essi avranno supplicato",
+                    "loro avranno invitato",
+                    "essi avranno invitato",
+                    "loro avranno chiamato",
+                    "essi avranno chiamato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "rŏgem",
+                "traduzioni": [
+                    "che io domandi",
+                    "che io interroghi",
+                    "che io interpelli",
+                    "che io richieda",
+                    "che io preghi",
+                    "che io supplichi",
+                    "che io inviti",
+                    "che io chiami"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rŏges",
+                "traduzioni": [
+                    "che tu domandi",
+                    "che tu interroghi",
+                    "che tu interpelli",
+                    "che tu richieda",
+                    "che tu preghi",
+                    "che tu supplichi",
+                    "che tu inviti",
+                    "che tu chiami"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rŏget",
+                "traduzioni": [
+                    "che lui domandi",
+                    "che lei domandi",
+                    "che egli domandi",
+                    "che lui interroghi",
+                    "che lei interroghi",
+                    "che egli interroghi",
+                    "che lui interpelli",
+                    "che lei interpelli",
+                    "che egli interpelli",
+                    "che lui richieda",
+                    "che lei richieda",
+                    "che egli richieda",
+                    "che lui preghi",
+                    "che lei preghi",
+                    "che egli preghi",
+                    "che lui supplichi",
+                    "che lei supplichi",
+                    "che egli supplichi",
+                    "che lui inviti",
+                    "che lei inviti",
+                    "che egli inviti",
+                    "che lui chiami",
+                    "che lei chiami",
+                    "che egli chiami"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rŏgēmus",
+                "traduzioni": [
+                    "che noi domandiamo",
+                    "che noi interroghiamo",
+                    "che noi interpelliamo",
+                    "che noi richiediamo",
+                    "che noi preghiamo",
+                    "che noi supplichiamo",
+                    "che noi invitiamo",
+                    "che noi chiamiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rŏgētis",
+                "traduzioni": [
+                    "che voi domandiate",
+                    "che voi interroghiate",
+                    "che voi interpelliate",
+                    "che voi richiediate",
+                    "che voi preghiate",
+                    "che voi supplichiate",
+                    "che voi invitiate",
+                    "che voi chiamiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rŏgent",
+                "traduzioni": [
+                    "che loro domandino",
+                    "che essi domandino",
+                    "che loro interroghino",
+                    "che essi interroghino",
+                    "che loro interpellino",
+                    "che essi interpellino",
+                    "che loro richiedano",
+                    "che essi richiedano",
+                    "che loro preghino",
+                    "che essi preghino",
+                    "che loro supplichino",
+                    "che essi supplichino",
+                    "che loro invitino",
+                    "che essi invitino",
+                    "che loro chiamino",
+                    "che essi chiamino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "rŏgārem",
+                "traduzioni": [
+                    "che io domandassi",
+                    "che io interrogassi",
+                    "che io interpellassi",
+                    "che io richiedessi",
+                    "che io pregassi",
+                    "che io supplicassi",
+                    "che io invitassi",
+                    "che io chiamassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rŏgāres",
+                "traduzioni": [
+                    "che tu domandassi",
+                    "che tu interrogassi",
+                    "che tu interpellassi",
+                    "che tu richiedessi",
+                    "che tu pregassi",
+                    "che tu supplicassi",
+                    "che tu invitassi",
+                    "che tu chiamassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rŏgāret",
+                "traduzioni": [
+                    "che lui domandasse",
+                    "che lei domandasse",
+                    "che egli domandasse",
+                    "che lui interrogasse",
+                    "che lei interrogasse",
+                    "che egli interrogasse",
+                    "che lui interpellasse",
+                    "che lei interpellasse",
+                    "che egli interpellasse",
+                    "che lui richiedesse",
+                    "che lei richiedesse",
+                    "che egli richiedesse",
+                    "che lui pregasse",
+                    "che lei pregasse",
+                    "che egli pregasse",
+                    "che lui supplicasse",
+                    "che lei supplicasse",
+                    "che egli supplicasse",
+                    "che lui invitasse",
+                    "che lei invitasse",
+                    "che egli invitasse",
+                    "che lui chiamasse",
+                    "che lei chiamasse",
+                    "che egli chiamasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rŏgarēmus",
+                "traduzioni": [
+                    "che noi domandassimo",
+                    "che noi interrogassimo",
+                    "che noi interpellassimo",
+                    "che noi richiedessimo",
+                    "che noi pregassimo",
+                    "che noi supplicassimo",
+                    "che noi invitassimo",
+                    "che noi chiamassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rŏgarētis",
+                "traduzioni": [
+                    "che voi domandaste",
+                    "che voi interrogaste",
+                    "che voi interpellaste",
+                    "che voi richiedeste",
+                    "che voi pregaste",
+                    "che voi supplicaste",
+                    "che voi invitaste",
+                    "che voi chiamaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rŏgārent",
+                "traduzioni": [
+                    "che loro domandassero",
+                    "che essi domandassero",
+                    "che loro interrogassero",
+                    "che essi interrogassero",
+                    "che loro interpellassero",
+                    "che essi interpellassero",
+                    "che loro richiedessero",
+                    "che essi richiedessero",
+                    "che loro pregassero",
+                    "che essi pregassero",
+                    "che loro supplicassero",
+                    "che essi supplicassero",
+                    "che loro invitassero",
+                    "che essi invitassero",
+                    "che loro chiamassero",
+                    "che essi chiamassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "rogavĕrim",
+                "traduzioni": [
+                    "che io abbia domandato",
+                    "che io abbia interrogato",
+                    "che io abbia interpellato",
+                    "che io abbia richiesto",
+                    "che io abbia pregato",
+                    "che io abbia supplicato",
+                    "che io abbia invitato",
+                    "che io abbia chiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rogavĕris",
+                "traduzioni": [
+                    "che tu abbia domandato",
+                    "che tu abbia interrogato",
+                    "che tu abbia interpellato",
+                    "che tu abbia richiesto",
+                    "che tu abbia pregato",
+                    "che tu abbia supplicato",
+                    "che tu abbia invitato",
+                    "che tu abbia chiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rogavĕrit",
+                "traduzioni": [
+                    "che lui abbia domandato",
+                    "che lei abbia domandato",
+                    "che egli abbia domandato",
+                    "che lui abbia interrogato",
+                    "che lei abbia interrogato",
+                    "che egli abbia interrogato",
+                    "che lui abbia interpellato",
+                    "che lei abbia interpellato",
+                    "che egli abbia interpellato",
+                    "che lui abbia richiesto",
+                    "che lei abbia richiesto",
+                    "che egli abbia richiesto",
+                    "che lui abbia pregato",
+                    "che lei abbia pregato",
+                    "che egli abbia pregato",
+                    "che lui abbia supplicato",
+                    "che lei abbia supplicato",
+                    "che egli abbia supplicato",
+                    "che lui abbia invitato",
+                    "che lei abbia invitato",
+                    "che egli abbia invitato",
+                    "che lui abbia chiamato",
+                    "che lei abbia chiamato",
+                    "che egli abbia chiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rogaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo domandato",
+                    "che noi abbiamo interrogato",
+                    "che noi abbiamo interpellato",
+                    "che noi abbiamo richiesto",
+                    "che noi abbiamo pregato",
+                    "che noi abbiamo supplicato",
+                    "che noi abbiamo invitato",
+                    "che noi abbiamo chiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rogaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate domandato",
+                    "che voi abbiate interrogato",
+                    "che voi abbiate interpellato",
+                    "che voi abbiate richiesto",
+                    "che voi abbiate pregato",
+                    "che voi abbiate supplicato",
+                    "che voi abbiate invitato",
+                    "che voi abbiate chiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rogavĕrint",
+                "traduzioni": [
+                    "che loro abbiano domandato",
+                    "che essi abbiano domandato",
+                    "che loro abbiano interrogato",
+                    "che essi abbiano interrogato",
+                    "che loro abbiano interpellato",
+                    "che essi abbiano interpellato",
+                    "che loro abbiano richiesto",
+                    "che essi abbiano richiesto",
+                    "che loro abbiano pregato",
+                    "che essi abbiano pregato",
+                    "che loro abbiano supplicato",
+                    "che essi abbiano supplicato",
+                    "che loro abbiano invitato",
+                    "che essi abbiano invitato",
+                    "che loro abbiano chiamato",
+                    "che essi abbiano chiamato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "rogavissem",
+                "traduzioni": [
+                    "che io avessi domandato",
+                    "che io avessi interrogato",
+                    "che io avessi interpellato",
+                    "che io avessi richiesto",
+                    "che io avessi pregato",
+                    "che io avessi supplicato",
+                    "che io avessi invitato",
+                    "che io avessi chiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "rogavisses",
+                "traduzioni": [
+                    "che tu avessi domandato",
+                    "che tu avessi interrogato",
+                    "che tu avessi interpellato",
+                    "che tu avessi richiesto",
+                    "che tu avessi pregato",
+                    "che tu avessi supplicato",
+                    "che tu avessi invitato",
+                    "che tu avessi chiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "rogavisset",
+                "traduzioni": [
+                    "che lui avesse domandato",
+                    "che lei avesse domandato",
+                    "che egli avesse domandato",
+                    "che lui avesse interrogato",
+                    "che lei avesse interrogato",
+                    "che egli avesse interrogato",
+                    "che lui avesse interpellato",
+                    "che lei avesse interpellato",
+                    "che egli avesse interpellato",
+                    "che lui avesse richiesto",
+                    "che lei avesse richiesto",
+                    "che egli avesse richiesto",
+                    "che lui avesse pregato",
+                    "che lei avesse pregato",
+                    "che egli avesse pregato",
+                    "che lui avesse supplicato",
+                    "che lei avesse supplicato",
+                    "che egli avesse supplicato",
+                    "che lui avesse invitato",
+                    "che lei avesse invitato",
+                    "che egli avesse invitato",
+                    "che lui avesse chiamato",
+                    "che lei avesse chiamato",
+                    "che egli avesse chiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "rogavissēmus",
+                "traduzioni": [
+                    "che noi avessimo domandato",
+                    "che noi avessimo interrogato",
+                    "che noi avessimo interpellato",
+                    "che noi avessimo richiesto",
+                    "che noi avessimo pregato",
+                    "che noi avessimo supplicato",
+                    "che noi avessimo invitato",
+                    "che noi avessimo chiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "rogavissētis",
+                "traduzioni": [
+                    "che voi aveste domandato",
+                    "che voi aveste interrogato",
+                    "che voi aveste interpellato",
+                    "che voi aveste richiesto",
+                    "che voi aveste pregato",
+                    "che voi aveste supplicato",
+                    "che voi aveste invitato",
+                    "che voi aveste chiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "rogavissent",
+                "traduzioni": [
+                    "che loro avessero domandato",
+                    "che essi avessero domandato",
+                    "che loro avessero interrogato",
+                    "che essi avessero interrogato",
+                    "che loro avessero interpellato",
+                    "che essi avessero interpellato",
+                    "che loro avessero richiesto",
+                    "che essi avessero richiesto",
+                    "che loro avessero pregato",
+                    "che essi avessero pregato",
+                    "che loro avessero supplicato",
+                    "che essi avessero supplicato",
+                    "che loro avessero invitato",
+                    "che essi avessero invitato",
+                    "che loro avessero chiamato",
+                    "che essi avessero chiamato"
+                ]
+            }
+        ]
+    }
+}

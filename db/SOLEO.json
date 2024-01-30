@@ -1,0 +1,410 @@
+{
+    "identifier": "SOLEO",
+    "conuigazione": "2",
+    "translation": [
+        "solere",
+        "(cum + ablativo o accusativo) frequentare"
+    ],
+    "valid_translations": [
+        "solere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŏlĕo",
+                "traduzioni": [
+                    "io soglio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŏles",
+                "traduzioni": [
+                    "tu suoli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŏlet",
+                "traduzioni": [
+                    "lui suole",
+                    "lei suole",
+                    "egli suole"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŏlēmus",
+                "traduzioni": [
+                    "noi sogliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŏlētis",
+                "traduzioni": [
+                    "voi solete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŏlent",
+                "traduzioni": [
+                    "loro sogliono",
+                    "essi sogliono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŏlēbam",
+                "traduzioni": [
+                    "io solevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŏlēbas",
+                "traduzioni": [
+                    "tu solevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŏlēbat",
+                "traduzioni": [
+                    "lui soleva",
+                    "lei soleva",
+                    "egli soleva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŏlebāmus",
+                "traduzioni": [
+                    "noi solevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŏlebātis",
+                "traduzioni": [
+                    "voi solevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŏlēbant",
+                "traduzioni": [
+                    "loro solevano",
+                    "essi solevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŏlēbo",
+                "traduzioni": []
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŏlēbis",
+                "traduzioni": []
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŏlēbit",
+                "traduzioni": []
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŏlebĭmus",
+                "traduzioni": []
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŏlebĭtis",
+                "traduzioni": []
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŏlēbunt",
+                "traduzioni": []
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "solitus, –a, –um  sum",
+                "traduzioni": [
+                    "io solei"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "solitus, –a, –um  es",
+                "traduzioni": [
+                    "tu solesti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "solitus, –a, –um  est",
+                "traduzioni": [
+                    "lui solé",
+                    "lei solé",
+                    "egli solé"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "soliti, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi solemmo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "soliti, –ae, –a  estis",
+                "traduzioni": [
+                    "voi soleste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "soliti, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro solerono",
+                    "essi solerono"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "solitus, –a, –um  eram",
+                "traduzioni": []
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "solitus, –a, –um  eras",
+                "traduzioni": []
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "solitus, –a, –um  erat",
+                "traduzioni": []
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "soliti, –ae, –a  eramus",
+                "traduzioni": []
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "soliti, –ae, –a  eratis",
+                "traduzioni": []
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "soliti, –ae, –a erant",
+                "traduzioni": []
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "solitus, –a, –um  ero",
+                "traduzioni": []
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "solitus, –a, –um  eris",
+                "traduzioni": []
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "solitus, –a, –um  erit",
+                "traduzioni": []
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "soliti, –ae, –a  erimus",
+                "traduzioni": []
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "soliti, –ae, –a  eritis",
+                "traduzioni": []
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "soliti, –ae, –a  erunt",
+                "traduzioni": []
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŏlĕam",
+                "traduzioni": [
+                    "che io soglia"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŏlĕas",
+                "traduzioni": [
+                    "che tu soglia"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŏlĕat",
+                "traduzioni": [
+                    "che lui soglia",
+                    "che lei soglia",
+                    "che egli soglia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŏleāmus",
+                "traduzioni": [
+                    "che noi sogliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŏleātis",
+                "traduzioni": [
+                    "che voi sogliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŏlĕant",
+                "traduzioni": [
+                    "che loro sogliano",
+                    "che essi sogliano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sŏlērem",
+                "traduzioni": [
+                    "che io solessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sŏlēres",
+                "traduzioni": [
+                    "che tu solessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sŏlēret",
+                "traduzioni": [
+                    "che lui solesse",
+                    "che lei solesse",
+                    "che egli solesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sŏlerēmus",
+                "traduzioni": [
+                    "che noi solessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sŏlerētis",
+                "traduzioni": [
+                    "che voi soleste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sŏlērent",
+                "traduzioni": [
+                    "che loro solessero",
+                    "che essi solessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "solitus, –a, –um  sim",
+                "traduzioni": []
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "solitus, –a, –um  sis",
+                "traduzioni": []
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "solitus, –a, –um  sit",
+                "traduzioni": []
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "soliti, –ae, –a  simus",
+                "traduzioni": []
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "soliti, –ae, –a  sitis",
+                "traduzioni": []
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "soliti, –ae, –a  sint",
+                "traduzioni": []
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "solitus, –a, –um  essem",
+                "traduzioni": []
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "solitus, –a, –um  esses",
+                "traduzioni": []
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "solitus, –a, –um  esset",
+                "traduzioni": []
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "soliti, –ae, –a  essemus",
+                "traduzioni": []
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "soliti, –ae, –a  essetis",
+                "traduzioni": []
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "soliti, –ae, –a  essent",
+                "traduzioni": []
+            }
+        ]
+    }
+}

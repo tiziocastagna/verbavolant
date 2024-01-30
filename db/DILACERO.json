@@ -1,0 +1,832 @@
+{
+    "identifier": "DILACERO",
+    "conuigazione": "1",
+    "translation": [
+        "sbranare",
+        "dilaniare",
+        "straziare",
+        "lacerare"
+    ],
+    "valid_translations": [
+        "sbranare",
+        "dilaniare",
+        "straziare",
+        "lacerare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dīlăcĕro",
+                "traduzioni": [
+                    "io sbrano",
+                    "io dilanio",
+                    "io strazio",
+                    "io lacero"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dīlăcĕras",
+                "traduzioni": [
+                    "tu sbrani",
+                    "tu dilani",
+                    "tu strazi",
+                    "tu laceri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dīlăcĕrat",
+                "traduzioni": [
+                    "lui sbrana",
+                    "lei sbrana",
+                    "egli sbrana",
+                    "lui dilania",
+                    "lei dilania",
+                    "egli dilania",
+                    "lui strazia",
+                    "lei strazia",
+                    "egli strazia",
+                    "lui lacera",
+                    "lei lacera",
+                    "egli lacera"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dīlăcĕrāmus",
+                "traduzioni": [
+                    "noi sbraniamo",
+                    "noi dilaniamo",
+                    "noi straziamo",
+                    "noi laceriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dīlăcĕrātis",
+                "traduzioni": [
+                    "voi sbranate",
+                    "voi dilaniate",
+                    "voi straziate",
+                    "voi lacerate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dīlăcĕrant",
+                "traduzioni": [
+                    "loro sbranano",
+                    "essi sbranano",
+                    "loro dilaniano",
+                    "essi dilaniano",
+                    "loro straziano",
+                    "essi straziano",
+                    "loro lacerano",
+                    "essi lacerano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dīlăcĕrābam",
+                "traduzioni": [
+                    "io sbranavo",
+                    "io dilaniavo",
+                    "io straziavo",
+                    "io laceravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dīlăcĕrābas",
+                "traduzioni": [
+                    "tu sbranavi",
+                    "tu dilaniavi",
+                    "tu straziavi",
+                    "tu laceravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dīlăcĕrābat",
+                "traduzioni": [
+                    "lui sbranava",
+                    "lei sbranava",
+                    "egli sbranava",
+                    "lui dilaniava",
+                    "lei dilaniava",
+                    "egli dilaniava",
+                    "lui straziava",
+                    "lei straziava",
+                    "egli straziava",
+                    "lui lacerava",
+                    "lei lacerava",
+                    "egli lacerava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dīlăcĕrabāmus",
+                "traduzioni": [
+                    "noi sbranavamo",
+                    "noi dilaniavamo",
+                    "noi straziavamo",
+                    "noi laceravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dīlăcĕrabātis",
+                "traduzioni": [
+                    "voi sbranavate",
+                    "voi dilaniavate",
+                    "voi straziavate",
+                    "voi laceravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dīlăcĕrābant",
+                "traduzioni": [
+                    "loro sbranavano",
+                    "essi sbranavano",
+                    "loro dilaniavano",
+                    "essi dilaniavano",
+                    "loro straziavano",
+                    "essi straziavano",
+                    "loro laceravano",
+                    "essi laceravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dīlăcĕrābo",
+                "traduzioni": [
+                    "io sbranerò",
+                    "io dilanierò",
+                    "io strazierò",
+                    "io lacererò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dīlăcĕrābis",
+                "traduzioni": [
+                    "tu sbranerai",
+                    "tu dilanierai",
+                    "tu strazierai",
+                    "tu lacererai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dīlăcĕrābit",
+                "traduzioni": [
+                    "lui sbranerà",
+                    "lei sbranerà",
+                    "egli sbranerà",
+                    "lui dilanierà",
+                    "lei dilanierà",
+                    "egli dilanierà",
+                    "lui strazierà",
+                    "lei strazierà",
+                    "egli strazierà",
+                    "lui lacererà",
+                    "lei lacererà",
+                    "egli lacererà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dīlăcĕrabĭmus",
+                "traduzioni": [
+                    "noi sbraneremo",
+                    "noi dilanieremo",
+                    "noi strazieremo",
+                    "noi lacereremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dīlăcĕrabĭtis",
+                "traduzioni": [
+                    "voi sbranerete",
+                    "voi dilanierete",
+                    "voi strazierete",
+                    "voi lacererete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dīlăcĕrābunt",
+                "traduzioni": [
+                    "loro sbraneranno",
+                    "essi sbraneranno",
+                    "loro dilanieranno",
+                    "essi dilanieranno",
+                    "loro strazieranno",
+                    "essi strazieranno",
+                    "loro lacereranno",
+                    "essi lacereranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dilaceravi",
+                "traduzioni": [
+                    "io sbranai",
+                    "io ho sbranato",
+                    "io ebbi sbranato",
+                    "io dilaniai",
+                    "io ho dilaniato",
+                    "io ebbi dilaniato",
+                    "io straziai",
+                    "io ho straziato",
+                    "io ebbi straziato",
+                    "io lacerai",
+                    "io ho lacerato",
+                    "io ebbi lacerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dilaceravisti",
+                "traduzioni": [
+                    "tu sbranasti",
+                    "tu hai sbranato",
+                    "tu avesti sbranato",
+                    "tu dilaniasti",
+                    "tu hai dilaniato",
+                    "tu avesti dilaniato",
+                    "tu straziasti",
+                    "tu hai straziato",
+                    "tu avesti straziato",
+                    "tu lacerasti",
+                    "tu hai lacerato",
+                    "tu avesti lacerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dilaceravit",
+                "traduzioni": [
+                    "lui sbranò",
+                    "lei sbranò",
+                    "egli sbranò",
+                    "lui ha sbranato",
+                    "lei ha sbranato",
+                    "egli ha sbranato",
+                    "lui ebbe sbranato",
+                    "lei ebbe sbranato",
+                    "egli ebbe sbranato",
+                    "lui dilaniò",
+                    "lei dilaniò",
+                    "egli dilaniò",
+                    "lui ha dilaniato",
+                    "lei ha dilaniato",
+                    "egli ha dilaniato",
+                    "lui ebbe dilaniato",
+                    "lei ebbe dilaniato",
+                    "egli ebbe dilaniato",
+                    "lui straziò",
+                    "lei straziò",
+                    "egli straziò",
+                    "lui ha straziato",
+                    "lei ha straziato",
+                    "egli ha straziato",
+                    "lui ebbe straziato",
+                    "lei ebbe straziato",
+                    "egli ebbe straziato",
+                    "lui lacerò",
+                    "lei lacerò",
+                    "egli lacerò",
+                    "lui ha lacerato",
+                    "lei ha lacerato",
+                    "egli ha lacerato",
+                    "lui ebbe lacerato",
+                    "lei ebbe lacerato",
+                    "egli ebbe lacerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dilaceravĭmus",
+                "traduzioni": [
+                    "noi sbranammo",
+                    "noi abbiamo sbranato",
+                    "noi avemmo sbranato",
+                    "noi dilaniammo",
+                    "noi abbiamo dilaniato",
+                    "noi avemmo dilaniato",
+                    "noi straziammo",
+                    "noi abbiamo straziato",
+                    "noi avemmo straziato",
+                    "noi lacerammo",
+                    "noi abbiamo lacerato",
+                    "noi avemmo lacerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dilaceravistis",
+                "traduzioni": [
+                    "voi sbranaste",
+                    "voi avete sbranato",
+                    "voi aveste sbranato",
+                    "voi dilaniaste",
+                    "voi avete dilaniato",
+                    "voi aveste dilaniato",
+                    "voi straziaste",
+                    "voi avete straziato",
+                    "voi aveste straziato",
+                    "voi laceraste",
+                    "voi avete lacerato",
+                    "voi aveste lacerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dilaceravērunt, dilaceravēre",
+                "traduzioni": [
+                    "loro sbranarono",
+                    "essi sbranarono",
+                    "loro hanno sbranato",
+                    "essi hanno sbranato",
+                    "loro ebbero sbranato",
+                    "essi ebbero sbranato",
+                    "loro dilaniarono",
+                    "essi dilaniarono",
+                    "loro hanno dilaniato",
+                    "essi hanno dilaniato",
+                    "loro ebbero dilaniato",
+                    "essi ebbero dilaniato",
+                    "loro straziarono",
+                    "essi straziarono",
+                    "loro hanno straziato",
+                    "essi hanno straziato",
+                    "loro ebbero straziato",
+                    "essi ebbero straziato",
+                    "loro lacerarono",
+                    "essi lacerarono",
+                    "loro hanno lacerato",
+                    "essi hanno lacerato",
+                    "loro ebbero lacerato",
+                    "essi ebbero lacerato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dilaceravĕram",
+                "traduzioni": [
+                    "io avevo sbranato",
+                    "io avevo dilaniato",
+                    "io avevo straziato",
+                    "io avevo lacerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dilaceravĕras",
+                "traduzioni": [
+                    "tu avevi sbranato",
+                    "tu avevi dilaniato",
+                    "tu avevi straziato",
+                    "tu avevi lacerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dilaceravĕrat",
+                "traduzioni": [
+                    "lui aveva sbranato",
+                    "lei aveva sbranato",
+                    "egli aveva sbranato",
+                    "lui aveva dilaniato",
+                    "lei aveva dilaniato",
+                    "egli aveva dilaniato",
+                    "lui aveva straziato",
+                    "lei aveva straziato",
+                    "egli aveva straziato",
+                    "lui aveva lacerato",
+                    "lei aveva lacerato",
+                    "egli aveva lacerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dilaceraverāmus",
+                "traduzioni": [
+                    "noi avevamo sbranato",
+                    "noi avevamo dilaniato",
+                    "noi avevamo straziato",
+                    "noi avevamo lacerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dilaceraverātis",
+                "traduzioni": [
+                    "voi avevate sbranato",
+                    "voi avevate dilaniato",
+                    "voi avevate straziato",
+                    "voi avevate lacerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dilaceravĕrant",
+                "traduzioni": [
+                    "loro avevano sbranato",
+                    "essi avevano sbranato",
+                    "loro avevano dilaniato",
+                    "essi avevano dilaniato",
+                    "loro avevano straziato",
+                    "essi avevano straziato",
+                    "loro avevano lacerato",
+                    "essi avevano lacerato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dilaceravĕro",
+                "traduzioni": [
+                    "io avrò sbranato",
+                    "io avrò dilaniato",
+                    "io avrò straziato",
+                    "io avrò lacerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dilaceravĕris",
+                "traduzioni": [
+                    "tu avrai sbranato",
+                    "tu avrai dilaniato",
+                    "tu avrai straziato",
+                    "tu avrai lacerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dilaceravĕrit",
+                "traduzioni": [
+                    "lui avrà sbranato",
+                    "lei avrà sbranato",
+                    "egli avrà sbranato",
+                    "lui avrà dilaniato",
+                    "lei avrà dilaniato",
+                    "egli avrà dilaniato",
+                    "lui avrà straziato",
+                    "lei avrà straziato",
+                    "egli avrà straziato",
+                    "lui avrà lacerato",
+                    "lei avrà lacerato",
+                    "egli avrà lacerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dilaceraverĭmus",
+                "traduzioni": [
+                    "noi avremo sbranato",
+                    "noi avremo dilaniato",
+                    "noi avremo straziato",
+                    "noi avremo lacerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dilaceraverĭtis",
+                "traduzioni": [
+                    "voi avrete sbranato",
+                    "voi avrete dilaniato",
+                    "voi avrete straziato",
+                    "voi avrete lacerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dilaceravĕrint",
+                "traduzioni": [
+                    "loro avranno sbranato",
+                    "essi avranno sbranato",
+                    "loro avranno dilaniato",
+                    "essi avranno dilaniato",
+                    "loro avranno straziato",
+                    "essi avranno straziato",
+                    "loro avranno lacerato",
+                    "essi avranno lacerato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dīlăcĕrem",
+                "traduzioni": [
+                    "che io sbrani",
+                    "che io dilani",
+                    "che io strazi",
+                    "che io laceri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dīlăcĕres",
+                "traduzioni": [
+                    "che tu sbrani",
+                    "che tu dilani",
+                    "che tu strazi",
+                    "che tu laceri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dīlăcĕret",
+                "traduzioni": [
+                    "che lui sbrani",
+                    "che lei sbrani",
+                    "che egli sbrani",
+                    "che lui dilani",
+                    "che lei dilani",
+                    "che egli dilani",
+                    "che lui strazi",
+                    "che lei strazi",
+                    "che egli strazi",
+                    "che lui laceri",
+                    "che lei laceri",
+                    "che egli laceri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dīlăcĕrēmus",
+                "traduzioni": [
+                    "che noi sbraniamo",
+                    "che noi dilaniamo",
+                    "che noi straziamo",
+                    "che noi laceriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dīlăcĕrētis",
+                "traduzioni": [
+                    "che voi sbraniate",
+                    "che voi dilaniate",
+                    "che voi straziate",
+                    "che voi laceriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dīlăcĕrent",
+                "traduzioni": [
+                    "che loro sbranino",
+                    "che essi sbranino",
+                    "che loro dilanino",
+                    "che essi dilanino",
+                    "che loro strazino",
+                    "che essi strazino",
+                    "che loro lacerino",
+                    "che essi lacerino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dīlăcĕrārem",
+                "traduzioni": [
+                    "che io sbranassi",
+                    "che io dilaniassi",
+                    "che io straziassi",
+                    "che io lacerassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dīlăcĕrāres",
+                "traduzioni": [
+                    "che tu sbranassi",
+                    "che tu dilaniassi",
+                    "che tu straziassi",
+                    "che tu lacerassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dīlăcĕrāret",
+                "traduzioni": [
+                    "che lui sbranasse",
+                    "che lei sbranasse",
+                    "che egli sbranasse",
+                    "che lui dilaniasse",
+                    "che lei dilaniasse",
+                    "che egli dilaniasse",
+                    "che lui straziasse",
+                    "che lei straziasse",
+                    "che egli straziasse",
+                    "che lui lacerasse",
+                    "che lei lacerasse",
+                    "che egli lacerasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dīlăcĕrarēmus",
+                "traduzioni": [
+                    "che noi sbranassimo",
+                    "che noi dilaniassimo",
+                    "che noi straziassimo",
+                    "che noi lacerassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dīlăcĕrarētis",
+                "traduzioni": [
+                    "che voi sbranaste",
+                    "che voi dilaniaste",
+                    "che voi straziaste",
+                    "che voi laceraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dīlăcĕrārent",
+                "traduzioni": [
+                    "che loro sbranassero",
+                    "che essi sbranassero",
+                    "che loro dilaniassero",
+                    "che essi dilaniassero",
+                    "che loro straziassero",
+                    "che essi straziassero",
+                    "che loro lacerassero",
+                    "che essi lacerassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dilaceravĕrim",
+                "traduzioni": [
+                    "che io abbia sbranato",
+                    "che io abbia dilaniato",
+                    "che io abbia straziato",
+                    "che io abbia lacerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dilaceravĕris",
+                "traduzioni": [
+                    "che tu abbia sbranato",
+                    "che tu abbia dilaniato",
+                    "che tu abbia straziato",
+                    "che tu abbia lacerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dilaceravĕrit",
+                "traduzioni": [
+                    "che lui abbia sbranato",
+                    "che lei abbia sbranato",
+                    "che egli abbia sbranato",
+                    "che lui abbia dilaniato",
+                    "che lei abbia dilaniato",
+                    "che egli abbia dilaniato",
+                    "che lui abbia straziato",
+                    "che lei abbia straziato",
+                    "che egli abbia straziato",
+                    "che lui abbia lacerato",
+                    "che lei abbia lacerato",
+                    "che egli abbia lacerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dilaceraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo sbranato",
+                    "che noi abbiamo dilaniato",
+                    "che noi abbiamo straziato",
+                    "che noi abbiamo lacerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dilaceraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate sbranato",
+                    "che voi abbiate dilaniato",
+                    "che voi abbiate straziato",
+                    "che voi abbiate lacerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dilaceravĕrint",
+                "traduzioni": [
+                    "che loro abbiano sbranato",
+                    "che essi abbiano sbranato",
+                    "che loro abbiano dilaniato",
+                    "che essi abbiano dilaniato",
+                    "che loro abbiano straziato",
+                    "che essi abbiano straziato",
+                    "che loro abbiano lacerato",
+                    "che essi abbiano lacerato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dilaceravissem",
+                "traduzioni": [
+                    "che io avessi sbranato",
+                    "che io avessi dilaniato",
+                    "che io avessi straziato",
+                    "che io avessi lacerato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dilaceravisses",
+                "traduzioni": [
+                    "che tu avessi sbranato",
+                    "che tu avessi dilaniato",
+                    "che tu avessi straziato",
+                    "che tu avessi lacerato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dilaceravisset",
+                "traduzioni": [
+                    "che lui avesse sbranato",
+                    "che lei avesse sbranato",
+                    "che egli avesse sbranato",
+                    "che lui avesse dilaniato",
+                    "che lei avesse dilaniato",
+                    "che egli avesse dilaniato",
+                    "che lui avesse straziato",
+                    "che lei avesse straziato",
+                    "che egli avesse straziato",
+                    "che lui avesse lacerato",
+                    "che lei avesse lacerato",
+                    "che egli avesse lacerato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dilaceravissēmus",
+                "traduzioni": [
+                    "che noi avessimo sbranato",
+                    "che noi avessimo dilaniato",
+                    "che noi avessimo straziato",
+                    "che noi avessimo lacerato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dilaceravissētis",
+                "traduzioni": [
+                    "che voi aveste sbranato",
+                    "che voi aveste dilaniato",
+                    "che voi aveste straziato",
+                    "che voi aveste lacerato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dilaceravissent",
+                "traduzioni": [
+                    "che loro avessero sbranato",
+                    "che essi avessero sbranato",
+                    "che loro avessero dilaniato",
+                    "che essi avessero dilaniato",
+                    "che loro avessero straziato",
+                    "che essi avessero straziato",
+                    "che loro avessero lacerato",
+                    "che essi avessero lacerato"
+                ]
+            }
+        ]
+    }
+}

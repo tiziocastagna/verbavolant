@@ -1,0 +1,502 @@
+{
+    "identifier": "SELIGO",
+    "conuigazione": "3",
+    "translation": [
+        "scegliere"
+    ],
+    "valid_translations": [
+        "scegliere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēlĭgo",
+                "traduzioni": [
+                    "io scelgo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēlĭgis",
+                "traduzioni": [
+                    "tu scegli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēlĭgit",
+                "traduzioni": [
+                    "lui sceglie",
+                    "lei sceglie",
+                    "egli sceglie"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēlĭgĭmus",
+                "traduzioni": [
+                    "noi scegliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēlĭgĭtis",
+                "traduzioni": [
+                    "voi scegliete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēlĭgunt",
+                "traduzioni": [
+                    "loro scelgono",
+                    "essi scelgono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēlĭgēbam",
+                "traduzioni": [
+                    "io sceglievo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēlĭgēbas",
+                "traduzioni": [
+                    "tu sceglievi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēlĭgēbat",
+                "traduzioni": [
+                    "lui sceglieva",
+                    "lei sceglieva",
+                    "egli sceglieva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēlĭgebāmus",
+                "traduzioni": [
+                    "noi sceglievamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēlĭgebātis",
+                "traduzioni": [
+                    "voi sceglievate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēlĭgēbant",
+                "traduzioni": [
+                    "loro sceglievano",
+                    "essi sceglievano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēlĭgam",
+                "traduzioni": [
+                    "io sceglierò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēlĭges",
+                "traduzioni": [
+                    "tu sceglierai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēlĭget",
+                "traduzioni": [
+                    "lui sceglierà",
+                    "lei sceglierà",
+                    "egli sceglierà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēlĭgēmus",
+                "traduzioni": [
+                    "noi sceglieremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēlĭgētis",
+                "traduzioni": [
+                    "voi sceglierete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēlĭgent",
+                "traduzioni": [
+                    "loro sceglieranno",
+                    "essi sceglieranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "seligi",
+                "traduzioni": [
+                    "io scelsi",
+                    "io ho scelto",
+                    "io ebbi scelto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "seligisti",
+                "traduzioni": [
+                    "tu scegliesti",
+                    "tu hai scelto",
+                    "tu avesti scelto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "seligit",
+                "traduzioni": [
+                    "lui scelse",
+                    "lei scelse",
+                    "egli scelse",
+                    "lui ha scelto",
+                    "lei ha scelto",
+                    "egli ha scelto",
+                    "lui ebbe scelto",
+                    "lei ebbe scelto",
+                    "egli ebbe scelto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "seligĭmus",
+                "traduzioni": [
+                    "noi scegliemmo",
+                    "noi abbiamo scelto",
+                    "noi avemmo scelto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "seligistis",
+                "traduzioni": [
+                    "voi sceglieste",
+                    "voi avete scelto",
+                    "voi aveste scelto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "seligērunt, seligēre",
+                "traduzioni": [
+                    "loro scelsero",
+                    "essi scelsero",
+                    "loro hanno scelto",
+                    "essi hanno scelto",
+                    "loro ebbero scelto",
+                    "essi ebbero scelto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "seligĕram",
+                "traduzioni": [
+                    "io avevo scelto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "seligĕras",
+                "traduzioni": [
+                    "tu avevi scelto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "seligĕrat",
+                "traduzioni": [
+                    "lui aveva scelto",
+                    "lei aveva scelto",
+                    "egli aveva scelto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "seligerāmus",
+                "traduzioni": [
+                    "noi avevamo scelto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "seligerātis",
+                "traduzioni": [
+                    "voi avevate scelto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "seligĕrant",
+                "traduzioni": [
+                    "loro avevano scelto",
+                    "essi avevano scelto"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "seligĕro",
+                "traduzioni": [
+                    "io avrò scelto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "seligĕris",
+                "traduzioni": [
+                    "tu avrai scelto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "seligĕrit",
+                "traduzioni": [
+                    "lui avrà scelto",
+                    "lei avrà scelto",
+                    "egli avrà scelto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "seligerĭmus",
+                "traduzioni": [
+                    "noi avremo scelto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "seligerĭtis",
+                "traduzioni": [
+                    "voi avrete scelto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "seligĕrint",
+                "traduzioni": [
+                    "loro avranno scelto",
+                    "essi avranno scelto"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēlĭgam",
+                "traduzioni": [
+                    "che io scelga"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēlĭgas",
+                "traduzioni": [
+                    "che tu scelga"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēlĭgat",
+                "traduzioni": [
+                    "che lui scelga",
+                    "che lei scelga",
+                    "che egli scelga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēlĭgāmus",
+                "traduzioni": [
+                    "che noi scegliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēlĭgātis",
+                "traduzioni": [
+                    "che voi scegliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēlĭgant",
+                "traduzioni": [
+                    "che loro scelgano",
+                    "che essi scelgano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēlĭgĕrem",
+                "traduzioni": [
+                    "che io scegliessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēlĭgĕres",
+                "traduzioni": [
+                    "che tu scegliessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēlĭgĕret",
+                "traduzioni": [
+                    "che lui scegliesse",
+                    "che lei scegliesse",
+                    "che egli scegliesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēlĭgerēmus",
+                "traduzioni": [
+                    "che noi scegliessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēlĭgerētis",
+                "traduzioni": [
+                    "che voi sceglieste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēlĭgĕrent",
+                "traduzioni": [
+                    "che loro scegliessero",
+                    "che essi scegliessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "seligĕrim",
+                "traduzioni": [
+                    "che io abbia scelto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "seligĕris",
+                "traduzioni": [
+                    "che tu abbia scelto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "seligĕrit",
+                "traduzioni": [
+                    "che lui abbia scelto",
+                    "che lei abbia scelto",
+                    "che egli abbia scelto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "seligerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo scelto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "seligerĭtis",
+                "traduzioni": [
+                    "che voi abbiate scelto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "seligĕrint",
+                "traduzioni": [
+                    "che loro abbiano scelto",
+                    "che essi abbiano scelto"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "seligissem",
+                "traduzioni": [
+                    "che io avessi scelto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "seligisses",
+                "traduzioni": [
+                    "che tu avessi scelto"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "seligisset",
+                "traduzioni": [
+                    "che lui avesse scelto",
+                    "che lei avesse scelto",
+                    "che egli avesse scelto"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "seligissēmus",
+                "traduzioni": [
+                    "che noi avessimo scelto"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "seligissētis",
+                "traduzioni": [
+                    "che voi aveste scelto"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "seligissent",
+                "traduzioni": [
+                    "che loro avessero scelto",
+                    "che essi avessero scelto"
+                ]
+            }
+        ]
+    }
+}

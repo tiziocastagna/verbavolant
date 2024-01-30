@@ -1,0 +1,942 @@
+{
+    "identifier": "ENUMERO",
+    "conuigazione": "1",
+    "translation": [
+        "contare",
+        "calcolare",
+        "enumerare",
+        "elencare",
+        "annoverare"
+    ],
+    "valid_translations": [
+        "contare",
+        "calcolare",
+        "enumerare",
+        "elencare",
+        "annoverare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnŭmĕro",
+                "traduzioni": [
+                    "io conto",
+                    "io calcolo",
+                    "io enumero",
+                    "io elenco",
+                    "io annovero"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnŭmĕras",
+                "traduzioni": [
+                    "tu conti",
+                    "tu calcoli",
+                    "tu enumeri",
+                    "tu elenchi",
+                    "tu annoveri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnŭmĕrat",
+                "traduzioni": [
+                    "lui conta",
+                    "lei conta",
+                    "egli conta",
+                    "lui calcola",
+                    "lei calcola",
+                    "egli calcola",
+                    "lui enumera",
+                    "lei enumera",
+                    "egli enumera",
+                    "lui elenca",
+                    "lei elenca",
+                    "egli elenca",
+                    "lui annovera",
+                    "lei annovera",
+                    "egli annovera"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnŭmĕrāmus",
+                "traduzioni": [
+                    "noi contiamo",
+                    "noi calcoliamo",
+                    "noi enumeriamo",
+                    "noi elenchiamo",
+                    "noi annoveriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnŭmĕrātis",
+                "traduzioni": [
+                    "voi contate",
+                    "voi calcolate",
+                    "voi enumerate",
+                    "voi elencate",
+                    "voi annoverate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnŭmĕrant",
+                "traduzioni": [
+                    "loro contano",
+                    "essi contano",
+                    "loro calcolano",
+                    "essi calcolano",
+                    "loro enumerano",
+                    "essi enumerano",
+                    "loro elencano",
+                    "essi elencano",
+                    "loro annoverano",
+                    "essi annoverano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnŭmĕrābam",
+                "traduzioni": [
+                    "io contavo",
+                    "io calcolavo",
+                    "io enumeravo",
+                    "io elencavo",
+                    "io annoveravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnŭmĕrābas",
+                "traduzioni": [
+                    "tu contavi",
+                    "tu calcolavi",
+                    "tu enumeravi",
+                    "tu elencavi",
+                    "tu annoveravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnŭmĕrābat",
+                "traduzioni": [
+                    "lui contava",
+                    "lei contava",
+                    "egli contava",
+                    "lui calcolava",
+                    "lei calcolava",
+                    "egli calcolava",
+                    "lui enumerava",
+                    "lei enumerava",
+                    "egli enumerava",
+                    "lui elencava",
+                    "lei elencava",
+                    "egli elencava",
+                    "lui annoverava",
+                    "lei annoverava",
+                    "egli annoverava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnŭmĕrabāmus",
+                "traduzioni": [
+                    "noi contavamo",
+                    "noi calcolavamo",
+                    "noi enumeravamo",
+                    "noi elencavamo",
+                    "noi annoveravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnŭmĕrabātis",
+                "traduzioni": [
+                    "voi contavate",
+                    "voi calcolavate",
+                    "voi enumeravate",
+                    "voi elencavate",
+                    "voi annoveravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnŭmĕrābant",
+                "traduzioni": [
+                    "loro contavano",
+                    "essi contavano",
+                    "loro calcolavano",
+                    "essi calcolavano",
+                    "loro enumeravano",
+                    "essi enumeravano",
+                    "loro elencavano",
+                    "essi elencavano",
+                    "loro annoveravano",
+                    "essi annoveravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnŭmĕrābo",
+                "traduzioni": [
+                    "io conterò",
+                    "io calcolerò",
+                    "io enumererò",
+                    "io elencherò",
+                    "io annovererò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnŭmĕrābis",
+                "traduzioni": [
+                    "tu conterai",
+                    "tu calcolerai",
+                    "tu enumererai",
+                    "tu elencherai",
+                    "tu annovererai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnŭmĕrābit",
+                "traduzioni": [
+                    "lui conterà",
+                    "lei conterà",
+                    "egli conterà",
+                    "lui calcolerà",
+                    "lei calcolerà",
+                    "egli calcolerà",
+                    "lui enumererà",
+                    "lei enumererà",
+                    "egli enumererà",
+                    "lui elencherà",
+                    "lei elencherà",
+                    "egli elencherà",
+                    "lui annovererà",
+                    "lei annovererà",
+                    "egli annovererà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnŭmĕrabĭmus",
+                "traduzioni": [
+                    "noi conteremo",
+                    "noi calcoleremo",
+                    "noi enumereremo",
+                    "noi elencheremo",
+                    "noi annovereremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnŭmĕrabĭtis",
+                "traduzioni": [
+                    "voi conterete",
+                    "voi calcolerete",
+                    "voi enumererete",
+                    "voi elencherete",
+                    "voi annovererete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnŭmĕrābunt",
+                "traduzioni": [
+                    "loro conteranno",
+                    "essi conteranno",
+                    "loro calcoleranno",
+                    "essi calcoleranno",
+                    "loro enumereranno",
+                    "essi enumereranno",
+                    "loro elencheranno",
+                    "essi elencheranno",
+                    "loro annovereranno",
+                    "essi annovereranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "enumeravi",
+                "traduzioni": [
+                    "io contai",
+                    "io ho contato",
+                    "io ebbi contato",
+                    "io calcolai",
+                    "io ho calcolato",
+                    "io ebbi calcolato",
+                    "io enumerai",
+                    "io ho enumerato",
+                    "io ebbi enumerato",
+                    "io elencai",
+                    "io ho elencato",
+                    "io ebbi elencato",
+                    "io annoverai",
+                    "io ho annoverato",
+                    "io ebbi annoverato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enumeravisti",
+                "traduzioni": [
+                    "tu contasti",
+                    "tu hai contato",
+                    "tu avesti contato",
+                    "tu calcolasti",
+                    "tu hai calcolato",
+                    "tu avesti calcolato",
+                    "tu enumerasti",
+                    "tu hai enumerato",
+                    "tu avesti enumerato",
+                    "tu elencasti",
+                    "tu hai elencato",
+                    "tu avesti elencato",
+                    "tu annoverasti",
+                    "tu hai annoverato",
+                    "tu avesti annoverato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enumeravit",
+                "traduzioni": [
+                    "lui contò",
+                    "lei contò",
+                    "egli contò",
+                    "lui ha contato",
+                    "lei ha contato",
+                    "egli ha contato",
+                    "lui ebbe contato",
+                    "lei ebbe contato",
+                    "egli ebbe contato",
+                    "lui calcolò",
+                    "lei calcolò",
+                    "egli calcolò",
+                    "lui ha calcolato",
+                    "lei ha calcolato",
+                    "egli ha calcolato",
+                    "lui ebbe calcolato",
+                    "lei ebbe calcolato",
+                    "egli ebbe calcolato",
+                    "lui enumerò",
+                    "lei enumerò",
+                    "egli enumerò",
+                    "lui ha enumerato",
+                    "lei ha enumerato",
+                    "egli ha enumerato",
+                    "lui ebbe enumerato",
+                    "lei ebbe enumerato",
+                    "egli ebbe enumerato",
+                    "lui elencò",
+                    "lei elencò",
+                    "egli elencò",
+                    "lui ha elencato",
+                    "lei ha elencato",
+                    "egli ha elencato",
+                    "lui ebbe elencato",
+                    "lei ebbe elencato",
+                    "egli ebbe elencato",
+                    "lui annoverò",
+                    "lei annoverò",
+                    "egli annoverò",
+                    "lui ha annoverato",
+                    "lei ha annoverato",
+                    "egli ha annoverato",
+                    "lui ebbe annoverato",
+                    "lei ebbe annoverato",
+                    "egli ebbe annoverato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enumeravĭmus",
+                "traduzioni": [
+                    "noi contammo",
+                    "noi abbiamo contato",
+                    "noi avemmo contato",
+                    "noi calcolammo",
+                    "noi abbiamo calcolato",
+                    "noi avemmo calcolato",
+                    "noi enumerammo",
+                    "noi abbiamo enumerato",
+                    "noi avemmo enumerato",
+                    "noi elencammo",
+                    "noi abbiamo elencato",
+                    "noi avemmo elencato",
+                    "noi annoverammo",
+                    "noi abbiamo annoverato",
+                    "noi avemmo annoverato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enumeravistis",
+                "traduzioni": [
+                    "voi contaste",
+                    "voi avete contato",
+                    "voi aveste contato",
+                    "voi calcolaste",
+                    "voi avete calcolato",
+                    "voi aveste calcolato",
+                    "voi enumeraste",
+                    "voi avete enumerato",
+                    "voi aveste enumerato",
+                    "voi elencaste",
+                    "voi avete elencato",
+                    "voi aveste elencato",
+                    "voi annoveraste",
+                    "voi avete annoverato",
+                    "voi aveste annoverato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enumeravērunt, enumeravēre",
+                "traduzioni": [
+                    "loro contarono",
+                    "essi contarono",
+                    "loro hanno contato",
+                    "essi hanno contato",
+                    "loro ebbero contato",
+                    "essi ebbero contato",
+                    "loro calcolarono",
+                    "essi calcolarono",
+                    "loro hanno calcolato",
+                    "essi hanno calcolato",
+                    "loro ebbero calcolato",
+                    "essi ebbero calcolato",
+                    "loro enumerarono",
+                    "essi enumerarono",
+                    "loro hanno enumerato",
+                    "essi hanno enumerato",
+                    "loro ebbero enumerato",
+                    "essi ebbero enumerato",
+                    "loro elencarono",
+                    "essi elencarono",
+                    "loro hanno elencato",
+                    "essi hanno elencato",
+                    "loro ebbero elencato",
+                    "essi ebbero elencato",
+                    "loro annoverarono",
+                    "essi annoverarono",
+                    "loro hanno annoverato",
+                    "essi hanno annoverato",
+                    "loro ebbero annoverato",
+                    "essi ebbero annoverato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "enumeravĕram",
+                "traduzioni": [
+                    "io avevo contato",
+                    "io avevo calcolato",
+                    "io avevo enumerato",
+                    "io avevo elencato",
+                    "io avevo annoverato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enumeravĕras",
+                "traduzioni": [
+                    "tu avevi contato",
+                    "tu avevi calcolato",
+                    "tu avevi enumerato",
+                    "tu avevi elencato",
+                    "tu avevi annoverato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enumeravĕrat",
+                "traduzioni": [
+                    "lui aveva contato",
+                    "lei aveva contato",
+                    "egli aveva contato",
+                    "lui aveva calcolato",
+                    "lei aveva calcolato",
+                    "egli aveva calcolato",
+                    "lui aveva enumerato",
+                    "lei aveva enumerato",
+                    "egli aveva enumerato",
+                    "lui aveva elencato",
+                    "lei aveva elencato",
+                    "egli aveva elencato",
+                    "lui aveva annoverato",
+                    "lei aveva annoverato",
+                    "egli aveva annoverato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enumeraverāmus",
+                "traduzioni": [
+                    "noi avevamo contato",
+                    "noi avevamo calcolato",
+                    "noi avevamo enumerato",
+                    "noi avevamo elencato",
+                    "noi avevamo annoverato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enumeraverātis",
+                "traduzioni": [
+                    "voi avevate contato",
+                    "voi avevate calcolato",
+                    "voi avevate enumerato",
+                    "voi avevate elencato",
+                    "voi avevate annoverato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enumeravĕrant",
+                "traduzioni": [
+                    "loro avevano contato",
+                    "essi avevano contato",
+                    "loro avevano calcolato",
+                    "essi avevano calcolato",
+                    "loro avevano enumerato",
+                    "essi avevano enumerato",
+                    "loro avevano elencato",
+                    "essi avevano elencato",
+                    "loro avevano annoverato",
+                    "essi avevano annoverato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "enumeravĕro",
+                "traduzioni": [
+                    "io avrò contato",
+                    "io avrò calcolato",
+                    "io avrò enumerato",
+                    "io avrò elencato",
+                    "io avrò annoverato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enumeravĕris",
+                "traduzioni": [
+                    "tu avrai contato",
+                    "tu avrai calcolato",
+                    "tu avrai enumerato",
+                    "tu avrai elencato",
+                    "tu avrai annoverato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enumeravĕrit",
+                "traduzioni": [
+                    "lui avrà contato",
+                    "lei avrà contato",
+                    "egli avrà contato",
+                    "lui avrà calcolato",
+                    "lei avrà calcolato",
+                    "egli avrà calcolato",
+                    "lui avrà enumerato",
+                    "lei avrà enumerato",
+                    "egli avrà enumerato",
+                    "lui avrà elencato",
+                    "lei avrà elencato",
+                    "egli avrà elencato",
+                    "lui avrà annoverato",
+                    "lei avrà annoverato",
+                    "egli avrà annoverato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enumeraverĭmus",
+                "traduzioni": [
+                    "noi avremo contato",
+                    "noi avremo calcolato",
+                    "noi avremo enumerato",
+                    "noi avremo elencato",
+                    "noi avremo annoverato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enumeraverĭtis",
+                "traduzioni": [
+                    "voi avrete contato",
+                    "voi avrete calcolato",
+                    "voi avrete enumerato",
+                    "voi avrete elencato",
+                    "voi avrete annoverato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enumeravĕrint",
+                "traduzioni": [
+                    "loro avranno contato",
+                    "essi avranno contato",
+                    "loro avranno calcolato",
+                    "essi avranno calcolato",
+                    "loro avranno enumerato",
+                    "essi avranno enumerato",
+                    "loro avranno elencato",
+                    "essi avranno elencato",
+                    "loro avranno annoverato",
+                    "essi avranno annoverato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnŭmĕrem",
+                "traduzioni": [
+                    "che io conti",
+                    "che io calcoli",
+                    "che io enumeri",
+                    "che io elenchi",
+                    "che io annoveri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnŭmĕres",
+                "traduzioni": [
+                    "che tu conti",
+                    "che tu calcoli",
+                    "che tu enumeri",
+                    "che tu elenchi",
+                    "che tu annoveri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnŭmĕret",
+                "traduzioni": [
+                    "che lui conti",
+                    "che lei conti",
+                    "che egli conti",
+                    "che lui calcoli",
+                    "che lei calcoli",
+                    "che egli calcoli",
+                    "che lui enumeri",
+                    "che lei enumeri",
+                    "che egli enumeri",
+                    "che lui elenchi",
+                    "che lei elenchi",
+                    "che egli elenchi",
+                    "che lui annoveri",
+                    "che lei annoveri",
+                    "che egli annoveri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnŭmĕrēmus",
+                "traduzioni": [
+                    "che noi contiamo",
+                    "che noi calcoliamo",
+                    "che noi enumeriamo",
+                    "che noi elenchiamo",
+                    "che noi annoveriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnŭmĕrētis",
+                "traduzioni": [
+                    "che voi contiate",
+                    "che voi calcoliate",
+                    "che voi enumeriate",
+                    "che voi elenchiate",
+                    "che voi annoveriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnŭmĕrent",
+                "traduzioni": [
+                    "che loro contino",
+                    "che essi contino",
+                    "che loro calcolino",
+                    "che essi calcolino",
+                    "che loro enumerino",
+                    "che essi enumerino",
+                    "che loro elenchino",
+                    "che essi elenchino",
+                    "che loro annoverino",
+                    "che essi annoverino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ēnŭmĕrārem",
+                "traduzioni": [
+                    "che io contassi",
+                    "che io calcolassi",
+                    "che io enumerassi",
+                    "che io elencassi",
+                    "che io annoverassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ēnŭmĕrāres",
+                "traduzioni": [
+                    "che tu contassi",
+                    "che tu calcolassi",
+                    "che tu enumerassi",
+                    "che tu elencassi",
+                    "che tu annoverassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ēnŭmĕrāret",
+                "traduzioni": [
+                    "che lui contasse",
+                    "che lei contasse",
+                    "che egli contasse",
+                    "che lui calcolasse",
+                    "che lei calcolasse",
+                    "che egli calcolasse",
+                    "che lui enumerasse",
+                    "che lei enumerasse",
+                    "che egli enumerasse",
+                    "che lui elencasse",
+                    "che lei elencasse",
+                    "che egli elencasse",
+                    "che lui annoverasse",
+                    "che lei annoverasse",
+                    "che egli annoverasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ēnŭmĕrarēmus",
+                "traduzioni": [
+                    "che noi contassimo",
+                    "che noi calcolassimo",
+                    "che noi enumerassimo",
+                    "che noi elencassimo",
+                    "che noi annoverassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ēnŭmĕrarētis",
+                "traduzioni": [
+                    "che voi contaste",
+                    "che voi calcolaste",
+                    "che voi enumeraste",
+                    "che voi elencaste",
+                    "che voi annoveraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ēnŭmĕrārent",
+                "traduzioni": [
+                    "che loro contassero",
+                    "che essi contassero",
+                    "che loro calcolassero",
+                    "che essi calcolassero",
+                    "che loro enumerassero",
+                    "che essi enumerassero",
+                    "che loro elencassero",
+                    "che essi elencassero",
+                    "che loro annoverassero",
+                    "che essi annoverassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "enumeravĕrim",
+                "traduzioni": [
+                    "che io abbia contato",
+                    "che io abbia calcolato",
+                    "che io abbia enumerato",
+                    "che io abbia elencato",
+                    "che io abbia annoverato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enumeravĕris",
+                "traduzioni": [
+                    "che tu abbia contato",
+                    "che tu abbia calcolato",
+                    "che tu abbia enumerato",
+                    "che tu abbia elencato",
+                    "che tu abbia annoverato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enumeravĕrit",
+                "traduzioni": [
+                    "che lui abbia contato",
+                    "che lei abbia contato",
+                    "che egli abbia contato",
+                    "che lui abbia calcolato",
+                    "che lei abbia calcolato",
+                    "che egli abbia calcolato",
+                    "che lui abbia enumerato",
+                    "che lei abbia enumerato",
+                    "che egli abbia enumerato",
+                    "che lui abbia elencato",
+                    "che lei abbia elencato",
+                    "che egli abbia elencato",
+                    "che lui abbia annoverato",
+                    "che lei abbia annoverato",
+                    "che egli abbia annoverato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enumeraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo contato",
+                    "che noi abbiamo calcolato",
+                    "che noi abbiamo enumerato",
+                    "che noi abbiamo elencato",
+                    "che noi abbiamo annoverato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enumeraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate contato",
+                    "che voi abbiate calcolato",
+                    "che voi abbiate enumerato",
+                    "che voi abbiate elencato",
+                    "che voi abbiate annoverato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enumeravĕrint",
+                "traduzioni": [
+                    "che loro abbiano contato",
+                    "che essi abbiano contato",
+                    "che loro abbiano calcolato",
+                    "che essi abbiano calcolato",
+                    "che loro abbiano enumerato",
+                    "che essi abbiano enumerato",
+                    "che loro abbiano elencato",
+                    "che essi abbiano elencato",
+                    "che loro abbiano annoverato",
+                    "che essi abbiano annoverato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "enumeravissem",
+                "traduzioni": [
+                    "che io avessi contato",
+                    "che io avessi calcolato",
+                    "che io avessi enumerato",
+                    "che io avessi elencato",
+                    "che io avessi annoverato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "enumeravisses",
+                "traduzioni": [
+                    "che tu avessi contato",
+                    "che tu avessi calcolato",
+                    "che tu avessi enumerato",
+                    "che tu avessi elencato",
+                    "che tu avessi annoverato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "enumeravisset",
+                "traduzioni": [
+                    "che lui avesse contato",
+                    "che lei avesse contato",
+                    "che egli avesse contato",
+                    "che lui avesse calcolato",
+                    "che lei avesse calcolato",
+                    "che egli avesse calcolato",
+                    "che lui avesse enumerato",
+                    "che lei avesse enumerato",
+                    "che egli avesse enumerato",
+                    "che lui avesse elencato",
+                    "che lei avesse elencato",
+                    "che egli avesse elencato",
+                    "che lui avesse annoverato",
+                    "che lei avesse annoverato",
+                    "che egli avesse annoverato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "enumeravissēmus",
+                "traduzioni": [
+                    "che noi avessimo contato",
+                    "che noi avessimo calcolato",
+                    "che noi avessimo enumerato",
+                    "che noi avessimo elencato",
+                    "che noi avessimo annoverato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "enumeravissētis",
+                "traduzioni": [
+                    "che voi aveste contato",
+                    "che voi aveste calcolato",
+                    "che voi aveste enumerato",
+                    "che voi aveste elencato",
+                    "che voi aveste annoverato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "enumeravissent",
+                "traduzioni": [
+                    "che loro avessero contato",
+                    "che essi avessero contato",
+                    "che loro avessero calcolato",
+                    "che essi avessero calcolato",
+                    "che loro avessero enumerato",
+                    "che essi avessero enumerato",
+                    "che loro avessero elencato",
+                    "che essi avessero elencato",
+                    "che loro avessero annoverato",
+                    "che essi avessero annoverato"
+                ]
+            }
+        ]
+    }
+}

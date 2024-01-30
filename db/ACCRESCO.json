@@ -1,0 +1,812 @@
+{
+    "identifier": "ACCRESCO",
+    "conuigazione": "3",
+    "translation": [
+        "crescere",
+        "ingrossare",
+        "aumentare"
+    ],
+    "valid_translations": [
+        "crescere",
+        "ingrossare",
+        "aumentare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "accresco",
+                "traduzioni": [
+                    "io cresco",
+                    "io ingrosso",
+                    "io aumento"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accrescis",
+                "traduzioni": [
+                    "tu cresci",
+                    "tu ingrossi",
+                    "tu aumenti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accrescit",
+                "traduzioni": [
+                    "lui cresce",
+                    "lei cresce",
+                    "egli cresce",
+                    "lui ingrossa",
+                    "lei ingrossa",
+                    "egli ingrossa",
+                    "lui aumenta",
+                    "lei aumenta",
+                    "egli aumenta"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accrescĭmus",
+                "traduzioni": [
+                    "noi cresciamo",
+                    "noi ingrossiamo",
+                    "noi aumentiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accrescĭtis",
+                "traduzioni": [
+                    "voi crescete",
+                    "voi ingrossate",
+                    "voi aumentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accrescunt",
+                "traduzioni": [
+                    "loro crescono",
+                    "essi crescono",
+                    "loro ingrossano",
+                    "essi ingrossano",
+                    "loro aumentano",
+                    "essi aumentano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "accrescēbam",
+                "traduzioni": [
+                    "io crescevo",
+                    "io ingrossavo",
+                    "io aumentavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accrescēbas",
+                "traduzioni": [
+                    "tu crescevi",
+                    "tu ingrossavi",
+                    "tu aumentavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accrescēbat",
+                "traduzioni": [
+                    "lui cresceva",
+                    "lei cresceva",
+                    "egli cresceva",
+                    "lui ingrossava",
+                    "lei ingrossava",
+                    "egli ingrossava",
+                    "lui aumentava",
+                    "lei aumentava",
+                    "egli aumentava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accrescebāmus",
+                "traduzioni": [
+                    "noi crescevamo",
+                    "noi ingrossavamo",
+                    "noi aumentavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accrescebātis",
+                "traduzioni": [
+                    "voi crescevate",
+                    "voi ingrossavate",
+                    "voi aumentavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accrescēbant",
+                "traduzioni": [
+                    "loro crescevano",
+                    "essi crescevano",
+                    "loro ingrossavano",
+                    "essi ingrossavano",
+                    "loro aumentavano",
+                    "essi aumentavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "accrescam",
+                "traduzioni": [
+                    "io crescerò",
+                    "io ingrosserò",
+                    "io aumenterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accresces",
+                "traduzioni": [
+                    "tu crescerai",
+                    "tu ingrosserai",
+                    "tu aumenterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accrescet",
+                "traduzioni": [
+                    "lui crescerà",
+                    "lei crescerà",
+                    "egli crescerà",
+                    "lui ingrosserà",
+                    "lei ingrosserà",
+                    "egli ingrosserà",
+                    "lui aumenterà",
+                    "lei aumenterà",
+                    "egli aumenterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accrescēmus",
+                "traduzioni": [
+                    "noi cresceremo",
+                    "noi ingrosseremo",
+                    "noi aumenteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accrescētis",
+                "traduzioni": [
+                    "voi crescerete",
+                    "voi ingrosserete",
+                    "voi aumenterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accrescent",
+                "traduzioni": [
+                    "loro cresceranno",
+                    "essi cresceranno",
+                    "loro ingrosseranno",
+                    "essi ingrosseranno",
+                    "loro aumenteranno",
+                    "essi aumenteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "accrevi",
+                "traduzioni": [
+                    "io crebbi",
+                    "io sono cresciuto",
+                    "io sono cresciuta",
+                    "io fui cresciuto",
+                    "io fui cresciuta",
+                    "io ingrossai",
+                    "io sono ingrossato",
+                    "io sono ingrossata",
+                    "io fui ingrossato",
+                    "io fui ingrossata",
+                    "io aumentai",
+                    "io sono aumentato",
+                    "io sono aumentata",
+                    "io fui aumentato",
+                    "io fui aumentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accrevisti",
+                "traduzioni": [
+                    "tu crescesti",
+                    "tu sei cresciuto",
+                    "tu sei cresciuta",
+                    "tu fosti cresciuto",
+                    "tu fosti cresciuta",
+                    "tu ingrossasti",
+                    "tu sei ingrossato",
+                    "tu sei ingrossata",
+                    "tu fosti ingrossato",
+                    "tu fosti ingrossata",
+                    "tu aumentasti",
+                    "tu sei aumentato",
+                    "tu sei aumentata",
+                    "tu fosti aumentato",
+                    "tu fosti aumentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accrevit",
+                "traduzioni": [
+                    "lui crebbe",
+                    "lei crebbe",
+                    "egli crebbe",
+                    "lui è cresciuto",
+                    "lei è cresciuta",
+                    "egli è cresciuto",
+                    "lui fu cresciuto",
+                    "lei fu cresciuta",
+                    "egli fu cresciuto",
+                    "lui ingrossò",
+                    "lei ingrossò",
+                    "egli ingrossò",
+                    "lui è ingrossato",
+                    "lei è ingrossata",
+                    "egli è ingrossato",
+                    "lui fu ingrossato",
+                    "lei fu ingrossata",
+                    "egli fu ingrossato",
+                    "lui aumentò",
+                    "lei aumentò",
+                    "egli aumentò",
+                    "lui è aumentato",
+                    "lei è aumentata",
+                    "egli è aumentato",
+                    "lui fu aumentato",
+                    "lei fu aumentata",
+                    "egli fu aumentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accrevĭmus",
+                "traduzioni": [
+                    "noi crescemmo",
+                    "noi siamo cresciuti",
+                    "noi siamo cresciute",
+                    "noi fummo cresciuti",
+                    "noi fummo cresciute",
+                    "noi ingrossammo",
+                    "noi siamo ingrossati",
+                    "noi siamo ingrossate",
+                    "noi fummo ingrossati",
+                    "noi fummo ingrossate",
+                    "noi aumentammo",
+                    "noi siamo aumentati",
+                    "noi siamo aumentate",
+                    "noi fummo aumentati",
+                    "noi fummo aumentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accrevistis",
+                "traduzioni": [
+                    "voi cresceste",
+                    "voi siete cresciuti",
+                    "voi siete cresciute",
+                    "voi foste cresciuti",
+                    "voi foste cresciute",
+                    "voi ingrossaste",
+                    "voi siete ingrossati",
+                    "voi siete ingrossate",
+                    "voi foste ingrossati",
+                    "voi foste ingrossate",
+                    "voi aumentaste",
+                    "voi siete aumentati",
+                    "voi siete aumentate",
+                    "voi foste aumentati",
+                    "voi foste aumentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accrevērunt, accrevēre",
+                "traduzioni": [
+                    "loro crebbero",
+                    "essi crebbero",
+                    "loro sono cresciuti",
+                    "loro sono cresciute",
+                    "essi sono cresciuti",
+                    "loro furono cresciuti",
+                    "loro furono cresciute",
+                    "essi furono cresciuti",
+                    "loro ingrossarono",
+                    "essi ingrossarono",
+                    "loro sono ingrossati",
+                    "loro sono ingrossate",
+                    "essi sono ingrossati",
+                    "loro furono ingrossati",
+                    "loro furono ingrossate",
+                    "essi furono ingrossati",
+                    "loro aumentarono",
+                    "essi aumentarono",
+                    "loro sono aumentati",
+                    "loro sono aumentate",
+                    "essi sono aumentati",
+                    "loro furono aumentati",
+                    "loro furono aumentate",
+                    "essi furono aumentati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "accrevĕram",
+                "traduzioni": [
+                    "io ero cresciuto",
+                    "io ero cresciuta",
+                    "io ero ingrossato",
+                    "io ero ingrossata",
+                    "io ero aumentato",
+                    "io ero aumentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accrevĕras",
+                "traduzioni": [
+                    "tu eri cresciuto",
+                    "tu eri cresciuta",
+                    "tu eri ingrossato",
+                    "tu eri ingrossata",
+                    "tu eri aumentato",
+                    "tu eri aumentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accrevĕrat",
+                "traduzioni": [
+                    "lui era cresciuto",
+                    "lei era cresciuta",
+                    "egli era cresciuto",
+                    "lui era ingrossato",
+                    "lei era ingrossata",
+                    "egli era ingrossato",
+                    "lui era aumentato",
+                    "lei era aumentata",
+                    "egli era aumentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accreverāmus",
+                "traduzioni": [
+                    "noi eravamo cresciuti",
+                    "noi eravamo cresciute",
+                    "noi eravamo ingrossati",
+                    "noi eravamo ingrossate",
+                    "noi eravamo aumentati",
+                    "noi eravamo aumentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accreverātis",
+                "traduzioni": [
+                    "voi eravate cresciuti",
+                    "voi eravate cresciute",
+                    "voi eravate ingrossati",
+                    "voi eravate ingrossate",
+                    "voi eravate aumentati",
+                    "voi eravate aumentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accrevĕrant",
+                "traduzioni": [
+                    "loro erano cresciuti",
+                    "loro erano cresciute",
+                    "essi erano cresciuti",
+                    "loro erano ingrossati",
+                    "loro erano ingrossate",
+                    "essi erano ingrossati",
+                    "loro erano aumentati",
+                    "loro erano aumentate",
+                    "essi erano aumentati"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "accrevĕro",
+                "traduzioni": [
+                    "io sarò cresciuto",
+                    "io sarò cresciuta",
+                    "io sarò ingrossato",
+                    "io sarò ingrossata",
+                    "io sarò aumentato",
+                    "io sarò aumentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accrevĕris",
+                "traduzioni": [
+                    "tu sarai cresciuto",
+                    "tu sarai cresciuta",
+                    "tu sarai ingrossato",
+                    "tu sarai ingrossata",
+                    "tu sarai aumentato",
+                    "tu sarai aumentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accrevĕrit",
+                "traduzioni": [
+                    "lui sarà cresciuto",
+                    "lei sarà cresciuta",
+                    "egli sarà cresciuto",
+                    "lui sarà ingrossato",
+                    "lei sarà ingrossata",
+                    "egli sarà ingrossato",
+                    "lui sarà aumentato",
+                    "lei sarà aumentata",
+                    "egli sarà aumentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accreverĭmus",
+                "traduzioni": [
+                    "noi saremo cresciuti",
+                    "noi saremo cresciute",
+                    "noi saremo ingrossati",
+                    "noi saremo ingrossate",
+                    "noi saremo aumentati",
+                    "noi saremo aumentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accreverĭtis",
+                "traduzioni": [
+                    "voi sarete cresciuti",
+                    "voi sarete cresciute",
+                    "voi sarete ingrossati",
+                    "voi sarete ingrossate",
+                    "voi sarete aumentati",
+                    "voi sarete aumentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accrevĕrint",
+                "traduzioni": [
+                    "loro saranno cresciuti",
+                    "loro saranno cresciute",
+                    "essi saranno cresciuti",
+                    "loro saranno ingrossati",
+                    "loro saranno ingrossate",
+                    "essi saranno ingrossati",
+                    "loro saranno aumentati",
+                    "loro saranno aumentate",
+                    "essi saranno aumentati"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "accrescam",
+                "traduzioni": [
+                    "che io cresca",
+                    "che io ingrossi",
+                    "che io aumenti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accrescas",
+                "traduzioni": [
+                    "che tu cresca",
+                    "che tu ingrossi",
+                    "che tu aumenti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accrescat",
+                "traduzioni": [
+                    "che lui cresca",
+                    "che lei cresca",
+                    "che egli cresca",
+                    "che lui ingrossi",
+                    "che lei ingrossi",
+                    "che egli ingrossi",
+                    "che lui aumenti",
+                    "che lei aumenti",
+                    "che egli aumenti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accrescāmus",
+                "traduzioni": [
+                    "che noi cresciamo",
+                    "che noi ingrossiamo",
+                    "che noi aumentiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accrescātis",
+                "traduzioni": [
+                    "che voi cresciate",
+                    "che voi ingrossiate",
+                    "che voi aumentiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accrescant",
+                "traduzioni": [
+                    "che loro crescano",
+                    "che essi crescano",
+                    "che loro ingrossino",
+                    "che essi ingrossino",
+                    "che loro aumentino",
+                    "che essi aumentino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "accrescĕrem",
+                "traduzioni": [
+                    "che io crescessi",
+                    "che io ingrossassi",
+                    "che io aumentassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accrescĕres",
+                "traduzioni": [
+                    "che tu crescessi",
+                    "che tu ingrossassi",
+                    "che tu aumentassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accrescĕret",
+                "traduzioni": [
+                    "che lui crescesse",
+                    "che lei crescesse",
+                    "che egli crescesse",
+                    "che lui ingrossasse",
+                    "che lei ingrossasse",
+                    "che egli ingrossasse",
+                    "che lui aumentasse",
+                    "che lei aumentasse",
+                    "che egli aumentasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accrescerēmus",
+                "traduzioni": [
+                    "che noi crescessimo",
+                    "che noi ingrossassimo",
+                    "che noi aumentassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accrescerētis",
+                "traduzioni": [
+                    "che voi cresceste",
+                    "che voi ingrossaste",
+                    "che voi aumentaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accrescĕrent",
+                "traduzioni": [
+                    "che loro crescessero",
+                    "che essi crescessero",
+                    "che loro ingrossassero",
+                    "che essi ingrossassero",
+                    "che loro aumentassero",
+                    "che essi aumentassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "accrevĕrim",
+                "traduzioni": [
+                    "che io sia cresciuto",
+                    "che io sia cresciuta",
+                    "che io sia ingrossato",
+                    "che io sia ingrossata",
+                    "che io sia aumentato",
+                    "che io sia aumentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accrevĕris",
+                "traduzioni": [
+                    "che tu sia cresciuto",
+                    "che tu sia cresciuta",
+                    "che tu sia ingrossato",
+                    "che tu sia ingrossata",
+                    "che tu sia aumentato",
+                    "che tu sia aumentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accrevĕrit",
+                "traduzioni": [
+                    "che lui sia cresciuto",
+                    "che lei sia cresciuta",
+                    "che egli sia cresciuto",
+                    "che lui sia ingrossato",
+                    "che lei sia ingrossata",
+                    "che egli sia ingrossato",
+                    "che lui sia aumentato",
+                    "che lei sia aumentata",
+                    "che egli sia aumentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accreverĭmus",
+                "traduzioni": [
+                    "che noi siamo cresciuti",
+                    "che noi siamo cresciute",
+                    "che noi siamo ingrossati",
+                    "che noi siamo ingrossate",
+                    "che noi siamo aumentati",
+                    "che noi siamo aumentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accreverĭtis",
+                "traduzioni": [
+                    "che voi siate cresciuti",
+                    "che voi siate cresciute",
+                    "che voi siate ingrossati",
+                    "che voi siate ingrossate",
+                    "che voi siate aumentati",
+                    "che voi siate aumentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accrevĕrint",
+                "traduzioni": [
+                    "che loro siano cresciuti",
+                    "che loro siano cresciute",
+                    "che essi siano cresciuti",
+                    "che loro siano ingrossati",
+                    "che loro siano ingrossate",
+                    "che essi siano ingrossati",
+                    "che loro siano aumentati",
+                    "che loro siano aumentate",
+                    "che essi siano aumentati"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "accrevissem",
+                "traduzioni": [
+                    "che io fossi cresciuto",
+                    "che io fossi cresciuta",
+                    "che io fossi ingrossato",
+                    "che io fossi ingrossata",
+                    "che io fossi aumentato",
+                    "che io fossi aumentata"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "accrevisses",
+                "traduzioni": [
+                    "che tu fossi cresciuto",
+                    "che tu fossi cresciuta",
+                    "che tu fossi ingrossato",
+                    "che tu fossi ingrossata",
+                    "che tu fossi aumentato",
+                    "che tu fossi aumentata"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "accrevisset",
+                "traduzioni": [
+                    "che lui fosse cresciuto",
+                    "che lei fosse cresciuta",
+                    "che egli fosse cresciuto",
+                    "che lui fosse ingrossato",
+                    "che lei fosse ingrossata",
+                    "che egli fosse ingrossato",
+                    "che lui fosse aumentato",
+                    "che lei fosse aumentata",
+                    "che egli fosse aumentato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "accrevissēmus",
+                "traduzioni": [
+                    "che noi fossimo cresciuti",
+                    "che noi fossimo cresciute",
+                    "che noi fossimo ingrossati",
+                    "che noi fossimo ingrossate",
+                    "che noi fossimo aumentati",
+                    "che noi fossimo aumentate"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "accrevissētis",
+                "traduzioni": [
+                    "che voi foste cresciuti",
+                    "che voi foste cresciute",
+                    "che voi foste ingrossati",
+                    "che voi foste ingrossate",
+                    "che voi foste aumentati",
+                    "che voi foste aumentate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "accrevissent",
+                "traduzioni": [
+                    "che loro fossero cresciuti",
+                    "che loro fossero cresciute",
+                    "che essi fossero cresciuti",
+                    "che loro fossero ingrossati",
+                    "che loro fossero ingrossate",
+                    "che essi fossero ingrossati",
+                    "che loro fossero aumentati",
+                    "che loro fossero aumentate",
+                    "che essi fossero aumentati"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,752 @@
+{
+    "identifier": "FRIGO",
+    "conuigazione": "3",
+    "translation": [
+        "friggere",
+        "arrostire",
+        "abbrustolire"
+    ],
+    "valid_translations": [
+        "friggere",
+        "arrostire",
+        "abbrustolire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "frīgo",
+                "traduzioni": [
+                    "io friggo",
+                    "io arrostisco",
+                    "io abbrustolisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frīgis",
+                "traduzioni": [
+                    "tu friggi",
+                    "tu arrostisci",
+                    "tu abbrustolisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frīgit",
+                "traduzioni": [
+                    "lui frigge",
+                    "lei frigge",
+                    "egli frigge",
+                    "lui arrostisce",
+                    "lei arrostisce",
+                    "egli arrostisce",
+                    "lui abbrustolisce",
+                    "lei abbrustolisce",
+                    "egli abbrustolisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frīgĭmus",
+                "traduzioni": [
+                    "noi friggiamo",
+                    "noi arrostiamo",
+                    "noi abbrustoliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frīgĭtis",
+                "traduzioni": [
+                    "voi friggete",
+                    "voi arrostite",
+                    "voi abbrustolite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frīgunt",
+                "traduzioni": [
+                    "loro friggono",
+                    "essi friggono",
+                    "loro arrostiscono",
+                    "essi arrostiscono",
+                    "loro abbrustoliscono",
+                    "essi abbrustoliscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "frīgēbam",
+                "traduzioni": [
+                    "io friggevo",
+                    "io arrostivo",
+                    "io abbrustolivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frīgēbas",
+                "traduzioni": [
+                    "tu friggevi",
+                    "tu arrostivi",
+                    "tu abbrustolivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frīgēbat",
+                "traduzioni": [
+                    "lui friggeva",
+                    "lei friggeva",
+                    "egli friggeva",
+                    "lui arrostiva",
+                    "lei arrostiva",
+                    "egli arrostiva",
+                    "lui abbrustoliva",
+                    "lei abbrustoliva",
+                    "egli abbrustoliva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frīgebāmus",
+                "traduzioni": [
+                    "noi friggevamo",
+                    "noi arrostivamo",
+                    "noi abbrustolivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frīgebātis",
+                "traduzioni": [
+                    "voi friggevate",
+                    "voi arrostivate",
+                    "voi abbrustolivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frīgēbant",
+                "traduzioni": [
+                    "loro friggevano",
+                    "essi friggevano",
+                    "loro arrostivano",
+                    "essi arrostivano",
+                    "loro abbrustolivano",
+                    "essi abbrustolivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "frīgam",
+                "traduzioni": [
+                    "io friggerò",
+                    "io arrostirò",
+                    "io abbrustolirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frīges",
+                "traduzioni": [
+                    "tu friggerai",
+                    "tu arrostirai",
+                    "tu abbrustolirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frīget",
+                "traduzioni": [
+                    "lui friggerà",
+                    "lei friggerà",
+                    "egli friggerà",
+                    "lui arrostirà",
+                    "lei arrostirà",
+                    "egli arrostirà",
+                    "lui abbrustolirà",
+                    "lei abbrustolirà",
+                    "egli abbrustolirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frīgēmus",
+                "traduzioni": [
+                    "noi friggeremo",
+                    "noi arrostiremo",
+                    "noi abbrustoliremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frīgētis",
+                "traduzioni": [
+                    "voi friggerete",
+                    "voi arrostirete",
+                    "voi abbrustolirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frīgent",
+                "traduzioni": [
+                    "loro friggeranno",
+                    "essi friggeranno",
+                    "loro arrostiranno",
+                    "essi arrostiranno",
+                    "loro abbrustoliranno",
+                    "essi abbrustoliranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "frixi",
+                "traduzioni": [
+                    "io frissi",
+                    "io ho fritto",
+                    "io ebbi fritto",
+                    "io arrostii",
+                    "io sono arrostito",
+                    "io sono arrostita",
+                    "io fui arrostito",
+                    "io fui arrostita",
+                    "io abbrustolii",
+                    "io ho abbrustolito",
+                    "io ebbi abbrustolito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frixisti",
+                "traduzioni": [
+                    "tu friggesti",
+                    "tu hai fritto",
+                    "tu avesti fritto",
+                    "tu arrostisti",
+                    "tu sei arrostito",
+                    "tu sei arrostita",
+                    "tu fosti arrostito",
+                    "tu fosti arrostita",
+                    "tu abbrustolisti",
+                    "tu hai abbrustolito",
+                    "tu avesti abbrustolito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frixit",
+                "traduzioni": [
+                    "lui frisse",
+                    "lei frisse",
+                    "egli frisse",
+                    "lui ha fritto",
+                    "lei ha fritto",
+                    "egli ha fritto",
+                    "lui ebbe fritto",
+                    "lei ebbe fritto",
+                    "egli ebbe fritto",
+                    "lui arrostì",
+                    "lei arrostì",
+                    "egli arrostì",
+                    "lui è arrostito",
+                    "lei è arrostita",
+                    "egli è arrostito",
+                    "lui fu arrostito",
+                    "lei fu arrostita",
+                    "egli fu arrostito",
+                    "lui abbrustolì",
+                    "lei abbrustolì",
+                    "egli abbrustolì",
+                    "lui ha abbrustolito",
+                    "lei ha abbrustolito",
+                    "egli ha abbrustolito",
+                    "lui ebbe abbrustolito",
+                    "lei ebbe abbrustolito",
+                    "egli ebbe abbrustolito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frixĭmus",
+                "traduzioni": [
+                    "noi friggemmo",
+                    "noi abbiamo fritto",
+                    "noi avemmo fritto",
+                    "noi arrostimmo",
+                    "noi siamo arrostiti",
+                    "noi siamo arrostite",
+                    "noi fummo arrostiti",
+                    "noi fummo arrostite",
+                    "noi abbrustolimmo",
+                    "noi abbiamo abbrustolito",
+                    "noi avemmo abbrustolito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frixistis",
+                "traduzioni": [
+                    "voi friggeste",
+                    "voi avete fritto",
+                    "voi aveste fritto",
+                    "voi arrostiste",
+                    "voi siete arrostiti",
+                    "voi siete arrostite",
+                    "voi foste arrostiti",
+                    "voi foste arrostite",
+                    "voi abbrustoliste",
+                    "voi avete abbrustolito",
+                    "voi aveste abbrustolito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frixērunt, frixēre",
+                "traduzioni": [
+                    "loro frissero",
+                    "essi frissero",
+                    "loro hanno fritto",
+                    "essi hanno fritto",
+                    "loro ebbero fritto",
+                    "essi ebbero fritto",
+                    "loro arrostirono",
+                    "essi arrostirono",
+                    "loro sono arrostiti",
+                    "loro sono arrostite",
+                    "essi sono arrostiti",
+                    "loro furono arrostiti",
+                    "loro furono arrostite",
+                    "essi furono arrostiti",
+                    "loro abbrustolirono",
+                    "essi abbrustolirono",
+                    "loro hanno abbrustolito",
+                    "essi hanno abbrustolito",
+                    "loro ebbero abbrustolito",
+                    "essi ebbero abbrustolito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "frixĕram",
+                "traduzioni": [
+                    "io avevo fritto",
+                    "io ero arrostito",
+                    "io ero arrostita",
+                    "io avevo abbrustolito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frixĕras",
+                "traduzioni": [
+                    "tu avevi fritto",
+                    "tu eri arrostito",
+                    "tu eri arrostita",
+                    "tu avevi abbrustolito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frixĕrat",
+                "traduzioni": [
+                    "lui aveva fritto",
+                    "lei aveva fritto",
+                    "egli aveva fritto",
+                    "lui era arrostito",
+                    "lei era arrostita",
+                    "egli era arrostito",
+                    "lui aveva abbrustolito",
+                    "lei aveva abbrustolito",
+                    "egli aveva abbrustolito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frixerāmus",
+                "traduzioni": [
+                    "noi avevamo fritto",
+                    "noi eravamo arrostiti",
+                    "noi eravamo arrostite",
+                    "noi avevamo abbrustolito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frixerātis",
+                "traduzioni": [
+                    "voi avevate fritto",
+                    "voi eravate arrostiti",
+                    "voi eravate arrostite",
+                    "voi avevate abbrustolito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frixĕrant",
+                "traduzioni": [
+                    "loro avevano fritto",
+                    "essi avevano fritto",
+                    "loro erano arrostiti",
+                    "loro erano arrostite",
+                    "essi erano arrostiti",
+                    "loro avevano abbrustolito",
+                    "essi avevano abbrustolito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "frixĕro",
+                "traduzioni": [
+                    "io avrò fritto",
+                    "io sarò arrostito",
+                    "io sarò arrostita",
+                    "io avrò abbrustolito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frixĕris",
+                "traduzioni": [
+                    "tu avrai fritto",
+                    "tu sarai arrostito",
+                    "tu sarai arrostita",
+                    "tu avrai abbrustolito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frixĕrit",
+                "traduzioni": [
+                    "lui avrà fritto",
+                    "lei avrà fritto",
+                    "egli avrà fritto",
+                    "lui sarà arrostito",
+                    "lei sarà arrostita",
+                    "egli sarà arrostito",
+                    "lui avrà abbrustolito",
+                    "lei avrà abbrustolito",
+                    "egli avrà abbrustolito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frixerĭmus",
+                "traduzioni": [
+                    "noi avremo fritto",
+                    "noi saremo arrostiti",
+                    "noi saremo arrostite",
+                    "noi avremo abbrustolito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frixerĭtis",
+                "traduzioni": [
+                    "voi avrete fritto",
+                    "voi sarete arrostiti",
+                    "voi sarete arrostite",
+                    "voi avrete abbrustolito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frixĕrint",
+                "traduzioni": [
+                    "loro avranno fritto",
+                    "essi avranno fritto",
+                    "loro saranno arrostiti",
+                    "loro saranno arrostite",
+                    "essi saranno arrostiti",
+                    "loro avranno abbrustolito",
+                    "essi avranno abbrustolito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "frīgam",
+                "traduzioni": [
+                    "che io frigga",
+                    "che io arrostisca",
+                    "che io abbrustolisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frīgas",
+                "traduzioni": [
+                    "che tu frigga",
+                    "che tu arrostisca",
+                    "che tu abbrustolisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frīgat",
+                "traduzioni": [
+                    "che lui frigga",
+                    "che lei frigga",
+                    "che egli frigga",
+                    "che lui arrostisca",
+                    "che lei arrostisca",
+                    "che egli arrostisca",
+                    "che lui abbrustolisca",
+                    "che lei abbrustolisca",
+                    "che egli abbrustolisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frīgāmus",
+                "traduzioni": [
+                    "che noi friggiamo",
+                    "che noi arrostiamo",
+                    "che noi abbrustoliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frīgātis",
+                "traduzioni": [
+                    "che voi friggiate",
+                    "che voi arrostiate",
+                    "che voi abbrustoliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frīgant",
+                "traduzioni": [
+                    "che loro friggano",
+                    "che essi friggano",
+                    "che loro arrostiscano",
+                    "che essi arrostiscano",
+                    "che loro abbrustoliscano",
+                    "che essi abbrustoliscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "frīgĕrem",
+                "traduzioni": [
+                    "che io friggessi",
+                    "che io arrostissi",
+                    "che io abbrustolissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frīgĕres",
+                "traduzioni": [
+                    "che tu friggessi",
+                    "che tu arrostissi",
+                    "che tu abbrustolissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frīgĕret",
+                "traduzioni": [
+                    "che lui friggesse",
+                    "che lei friggesse",
+                    "che egli friggesse",
+                    "che lui arrostisse",
+                    "che lei arrostisse",
+                    "che egli arrostisse",
+                    "che lui abbrustolisse",
+                    "che lei abbrustolisse",
+                    "che egli abbrustolisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frīgerēmus",
+                "traduzioni": [
+                    "che noi friggessimo",
+                    "che noi arrostissimo",
+                    "che noi abbrustolissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frīgerētis",
+                "traduzioni": [
+                    "che voi friggeste",
+                    "che voi arrostiste",
+                    "che voi abbrustoliste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frīgĕrent",
+                "traduzioni": [
+                    "che loro friggessero",
+                    "che essi friggessero",
+                    "che loro arrostissero",
+                    "che essi arrostissero",
+                    "che loro abbrustolissero",
+                    "che essi abbrustolissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "frixĕrim",
+                "traduzioni": [
+                    "che io abbia fritto",
+                    "che io sia arrostito",
+                    "che io sia arrostita",
+                    "che io abbia abbrustolito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frixĕris",
+                "traduzioni": [
+                    "che tu abbia fritto",
+                    "che tu sia arrostito",
+                    "che tu sia arrostita",
+                    "che tu abbia abbrustolito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frixĕrit",
+                "traduzioni": [
+                    "che lui abbia fritto",
+                    "che lei abbia fritto",
+                    "che egli abbia fritto",
+                    "che lui sia arrostito",
+                    "che lei sia arrostita",
+                    "che egli sia arrostito",
+                    "che lui abbia abbrustolito",
+                    "che lei abbia abbrustolito",
+                    "che egli abbia abbrustolito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frixerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo fritto",
+                    "che noi siamo arrostiti",
+                    "che noi siamo arrostite",
+                    "che noi abbiamo abbrustolito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frixerĭtis",
+                "traduzioni": [
+                    "che voi abbiate fritto",
+                    "che voi siate arrostiti",
+                    "che voi siate arrostite",
+                    "che voi abbiate abbrustolito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frixĕrint",
+                "traduzioni": [
+                    "che loro abbiano fritto",
+                    "che essi abbiano fritto",
+                    "che loro siano arrostiti",
+                    "che loro siano arrostite",
+                    "che essi siano arrostiti",
+                    "che loro abbiano abbrustolito",
+                    "che essi abbiano abbrustolito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "frixissem",
+                "traduzioni": [
+                    "che io avessi fritto",
+                    "che io fossi arrostito",
+                    "che io fossi arrostita",
+                    "che io avessi abbrustolito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "frixisses",
+                "traduzioni": [
+                    "che tu avessi fritto",
+                    "che tu fossi arrostito",
+                    "che tu fossi arrostita",
+                    "che tu avessi abbrustolito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "frixisset",
+                "traduzioni": [
+                    "che lui avesse fritto",
+                    "che lei avesse fritto",
+                    "che egli avesse fritto",
+                    "che lui fosse arrostito",
+                    "che lei fosse arrostita",
+                    "che egli fosse arrostito",
+                    "che lui avesse abbrustolito",
+                    "che lei avesse abbrustolito",
+                    "che egli avesse abbrustolito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "frixissēmus",
+                "traduzioni": [
+                    "che noi avessimo fritto",
+                    "che noi fossimo arrostiti",
+                    "che noi fossimo arrostite",
+                    "che noi avessimo abbrustolito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "frixissētis",
+                "traduzioni": [
+                    "che voi aveste fritto",
+                    "che voi foste arrostiti",
+                    "che voi foste arrostite",
+                    "che voi aveste abbrustolito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "frixissent",
+                "traduzioni": [
+                    "che loro avessero fritto",
+                    "che essi avessero fritto",
+                    "che loro fossero arrostiti",
+                    "che loro fossero arrostite",
+                    "che essi fossero arrostiti",
+                    "che loro avessero abbrustolito",
+                    "che essi avessero abbrustolito"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,722 @@
+{
+    "identifier": "PRAETERO",
+    "conuigazione": "3",
+    "translation": [
+        "frantumare",
+        "sbattere",
+        "percuotere"
+    ],
+    "valid_translations": [
+        "frantumare",
+        "sbattere",
+        "percuotere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "praetĕro",
+                "traduzioni": [
+                    "io frantumo",
+                    "io sbatto",
+                    "io percuoto"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praetĕris",
+                "traduzioni": [
+                    "tu frantumi",
+                    "tu sbatti",
+                    "tu percuoti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praetĕrit",
+                "traduzioni": [
+                    "lui frantuma",
+                    "lei frantuma",
+                    "egli frantuma",
+                    "lui sbatte",
+                    "lei sbatte",
+                    "egli sbatte",
+                    "lui percuote",
+                    "lei percuote",
+                    "egli percuote"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praetĕrĭmus",
+                "traduzioni": [
+                    "noi frantumiamo",
+                    "noi sbattiamo",
+                    "noi perc(u)otiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praetĕrĭtis",
+                "traduzioni": [
+                    "voi frantumate",
+                    "voi sbattete",
+                    "voi perc(u)otete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praetĕrunt",
+                "traduzioni": [
+                    "loro frantumano",
+                    "essi frantumano",
+                    "loro sbattono",
+                    "essi sbattono",
+                    "loro percuotono",
+                    "essi percuotono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praetĕrēbam",
+                "traduzioni": [
+                    "io frantumavo",
+                    "io sbattevo",
+                    "io perc(u)otevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praetĕrēbas",
+                "traduzioni": [
+                    "tu frantumavi",
+                    "tu sbattevi",
+                    "tu perc(u)otevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praetĕrēbat",
+                "traduzioni": [
+                    "lui frantumava",
+                    "lei frantumava",
+                    "egli frantumava",
+                    "lui sbatteva",
+                    "lei sbatteva",
+                    "egli sbatteva",
+                    "lui perc(u)oteva",
+                    "lei perc(u)oteva",
+                    "egli perc(u)oteva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praetĕrebāmus",
+                "traduzioni": [
+                    "noi frantumavamo",
+                    "noi sbattevamo",
+                    "noi perc(u)otevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praetĕrebātis",
+                "traduzioni": [
+                    "voi frantumavate",
+                    "voi sbattevate",
+                    "voi perc(u)otevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praetĕrēbant",
+                "traduzioni": [
+                    "loro frantumavano",
+                    "essi frantumavano",
+                    "loro sbattevano",
+                    "essi sbattevano",
+                    "loro perc(u)otevano",
+                    "essi perc(u)otevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "praetĕram",
+                "traduzioni": [
+                    "io frantumerò",
+                    "io sbatterò",
+                    "io perc(u)oterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praetĕres",
+                "traduzioni": [
+                    "tu frantumerai",
+                    "tu sbatterai",
+                    "tu perc(u)oterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praetĕret",
+                "traduzioni": [
+                    "lui frantumerà",
+                    "lei frantumerà",
+                    "egli frantumerà",
+                    "lui sbatterà",
+                    "lei sbatterà",
+                    "egli sbatterà",
+                    "lui perc(u)oterà",
+                    "lei perc(u)oterà",
+                    "egli perc(u)oterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praetĕrēmus",
+                "traduzioni": [
+                    "noi frantumeremo",
+                    "noi sbatteremo",
+                    "noi perc(u)oteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praetĕrētis",
+                "traduzioni": [
+                    "voi frantumerete",
+                    "voi sbatterete",
+                    "voi perc(u)oterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praetĕrent",
+                "traduzioni": [
+                    "loro frantumeranno",
+                    "essi frantumeranno",
+                    "loro sbatteranno",
+                    "essi sbatteranno",
+                    "loro perc(u)oteranno",
+                    "essi perc(u)oteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praetrivi",
+                "traduzioni": [
+                    "io frantumai",
+                    "io ho frantumato",
+                    "io ebbi frantumato",
+                    "io sbattei",
+                    "io ho sbattuto",
+                    "io ebbi sbattuto",
+                    "io percossi",
+                    "io ho percosso",
+                    "io ebbi percosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praetrivisti",
+                "traduzioni": [
+                    "tu frantumasti",
+                    "tu hai frantumato",
+                    "tu avesti frantumato",
+                    "tu sbattesti",
+                    "tu hai sbattuto",
+                    "tu avesti sbattuto",
+                    "tu perc(u)otesti",
+                    "tu hai percosso",
+                    "tu avesti percosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praetrivit",
+                "traduzioni": [
+                    "lui frantumò",
+                    "lei frantumò",
+                    "egli frantumò",
+                    "lui ha frantumato",
+                    "lei ha frantumato",
+                    "egli ha frantumato",
+                    "lui ebbe frantumato",
+                    "lei ebbe frantumato",
+                    "egli ebbe frantumato",
+                    "lui sbatté",
+                    "lei sbatté",
+                    "egli sbatté",
+                    "lui ha sbattuto",
+                    "lei ha sbattuto",
+                    "egli ha sbattuto",
+                    "lui ebbe sbattuto",
+                    "lei ebbe sbattuto",
+                    "egli ebbe sbattuto",
+                    "lui percosse",
+                    "lei percosse",
+                    "egli percosse",
+                    "lui ha percosso",
+                    "lei ha percosso",
+                    "egli ha percosso",
+                    "lui ebbe percosso",
+                    "lei ebbe percosso",
+                    "egli ebbe percosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praetrivĭmus",
+                "traduzioni": [
+                    "noi frantumammo",
+                    "noi abbiamo frantumato",
+                    "noi avemmo frantumato",
+                    "noi sbattemmo",
+                    "noi abbiamo sbattuto",
+                    "noi avemmo sbattuto",
+                    "noi perc(u)otemmo",
+                    "noi abbiamo percosso",
+                    "noi avemmo percosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praetrivistis",
+                "traduzioni": [
+                    "voi frantumaste",
+                    "voi avete frantumato",
+                    "voi aveste frantumato",
+                    "voi sbatteste",
+                    "voi avete sbattuto",
+                    "voi aveste sbattuto",
+                    "voi perc(u)oteste",
+                    "voi avete percosso",
+                    "voi aveste percosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praetrivērunt, praetrivēre",
+                "traduzioni": [
+                    "loro frantumarono",
+                    "essi frantumarono",
+                    "loro hanno frantumato",
+                    "essi hanno frantumato",
+                    "loro ebbero frantumato",
+                    "essi ebbero frantumato",
+                    "loro sbatterono",
+                    "essi sbatterono",
+                    "loro hanno sbattuto",
+                    "essi hanno sbattuto",
+                    "loro ebbero sbattuto",
+                    "essi ebbero sbattuto",
+                    "loro percossero",
+                    "essi percossero",
+                    "loro hanno percosso",
+                    "essi hanno percosso",
+                    "loro ebbero percosso",
+                    "essi ebbero percosso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praetrivĕram",
+                "traduzioni": [
+                    "io avevo frantumato",
+                    "io avevo sbattuto",
+                    "io avevo percosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praetrivĕras",
+                "traduzioni": [
+                    "tu avevi frantumato",
+                    "tu avevi sbattuto",
+                    "tu avevi percosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praetrivĕrat",
+                "traduzioni": [
+                    "lui aveva frantumato",
+                    "lei aveva frantumato",
+                    "egli aveva frantumato",
+                    "lui aveva sbattuto",
+                    "lei aveva sbattuto",
+                    "egli aveva sbattuto",
+                    "lui aveva percosso",
+                    "lei aveva percosso",
+                    "egli aveva percosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praetriverāmus",
+                "traduzioni": [
+                    "noi avevamo frantumato",
+                    "noi avevamo sbattuto",
+                    "noi avevamo percosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praetriverātis",
+                "traduzioni": [
+                    "voi avevate frantumato",
+                    "voi avevate sbattuto",
+                    "voi avevate percosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praetrivĕrant",
+                "traduzioni": [
+                    "loro avevano frantumato",
+                    "essi avevano frantumato",
+                    "loro avevano sbattuto",
+                    "essi avevano sbattuto",
+                    "loro avevano percosso",
+                    "essi avevano percosso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "praetrivĕro",
+                "traduzioni": [
+                    "io avrò frantumato",
+                    "io avrò sbattuto",
+                    "io avrò percosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praetrivĕris",
+                "traduzioni": [
+                    "tu avrai frantumato",
+                    "tu avrai sbattuto",
+                    "tu avrai percosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praetrivĕrit",
+                "traduzioni": [
+                    "lui avrà frantumato",
+                    "lei avrà frantumato",
+                    "egli avrà frantumato",
+                    "lui avrà sbattuto",
+                    "lei avrà sbattuto",
+                    "egli avrà sbattuto",
+                    "lui avrà percosso",
+                    "lei avrà percosso",
+                    "egli avrà percosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praetriverĭmus",
+                "traduzioni": [
+                    "noi avremo frantumato",
+                    "noi avremo sbattuto",
+                    "noi avremo percosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praetriverĭtis",
+                "traduzioni": [
+                    "voi avrete frantumato",
+                    "voi avrete sbattuto",
+                    "voi avrete percosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praetrivĕrint",
+                "traduzioni": [
+                    "loro avranno frantumato",
+                    "essi avranno frantumato",
+                    "loro avranno sbattuto",
+                    "essi avranno sbattuto",
+                    "loro avranno percosso",
+                    "essi avranno percosso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "praetĕram",
+                "traduzioni": [
+                    "che io frantumi",
+                    "che io sbatta",
+                    "che io percuota"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praetĕras",
+                "traduzioni": [
+                    "che tu frantumi",
+                    "che tu sbatta",
+                    "che tu percuota"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praetĕrat",
+                "traduzioni": [
+                    "che lui frantumi",
+                    "che lei frantumi",
+                    "che egli frantumi",
+                    "che lui sbatta",
+                    "che lei sbatta",
+                    "che egli sbatta",
+                    "che lui percuota",
+                    "che lei percuota",
+                    "che egli percuota"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praetĕrāmus",
+                "traduzioni": [
+                    "che noi frantumiamo",
+                    "che noi sbattiamo",
+                    "che noi perc(u)otiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praetĕrātis",
+                "traduzioni": [
+                    "che voi frantumiate",
+                    "che voi sbattiate",
+                    "che voi perc(u)otiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praetĕrant",
+                "traduzioni": [
+                    "che loro frantumino",
+                    "che essi frantumino",
+                    "che loro sbattano",
+                    "che essi sbattano",
+                    "che loro percuotano",
+                    "che essi percuotano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praetĕrĕrem",
+                "traduzioni": [
+                    "che io frantumassi",
+                    "che io sbattessi",
+                    "che io perc(u)otessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praetĕrĕres",
+                "traduzioni": [
+                    "che tu frantumassi",
+                    "che tu sbattessi",
+                    "che tu perc(u)otessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praetĕrĕret",
+                "traduzioni": [
+                    "che lui frantumasse",
+                    "che lei frantumasse",
+                    "che egli frantumasse",
+                    "che lui sbattesse",
+                    "che lei sbattesse",
+                    "che egli sbattesse",
+                    "che lui perc(u)otesse",
+                    "che lei perc(u)otesse",
+                    "che egli perc(u)otesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praetĕrerēmus",
+                "traduzioni": [
+                    "che noi frantumassimo",
+                    "che noi sbattessimo",
+                    "che noi perc(u)otessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praetĕrerētis",
+                "traduzioni": [
+                    "che voi frantumaste",
+                    "che voi sbatteste",
+                    "che voi perc(u)oteste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praetĕrĕrent",
+                "traduzioni": [
+                    "che loro frantumassero",
+                    "che essi frantumassero",
+                    "che loro sbattessero",
+                    "che essi sbattessero",
+                    "che loro perc(u)otessero",
+                    "che essi perc(u)otessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praetrivĕrim",
+                "traduzioni": [
+                    "che io abbia frantumato",
+                    "che io abbia sbattuto",
+                    "che io abbia percosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praetrivĕris",
+                "traduzioni": [
+                    "che tu abbia frantumato",
+                    "che tu abbia sbattuto",
+                    "che tu abbia percosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praetrivĕrit",
+                "traduzioni": [
+                    "che lui abbia frantumato",
+                    "che lei abbia frantumato",
+                    "che egli abbia frantumato",
+                    "che lui abbia sbattuto",
+                    "che lei abbia sbattuto",
+                    "che egli abbia sbattuto",
+                    "che lui abbia percosso",
+                    "che lei abbia percosso",
+                    "che egli abbia percosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praetriverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo frantumato",
+                    "che noi abbiamo sbattuto",
+                    "che noi abbiamo percosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praetriverĭtis",
+                "traduzioni": [
+                    "che voi abbiate frantumato",
+                    "che voi abbiate sbattuto",
+                    "che voi abbiate percosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praetrivĕrint",
+                "traduzioni": [
+                    "che loro abbiano frantumato",
+                    "che essi abbiano frantumato",
+                    "che loro abbiano sbattuto",
+                    "che essi abbiano sbattuto",
+                    "che loro abbiano percosso",
+                    "che essi abbiano percosso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praetrivissem",
+                "traduzioni": [
+                    "che io avessi frantumato",
+                    "che io avessi sbattuto",
+                    "che io avessi percosso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praetrivisses",
+                "traduzioni": [
+                    "che tu avessi frantumato",
+                    "che tu avessi sbattuto",
+                    "che tu avessi percosso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praetrivisset",
+                "traduzioni": [
+                    "che lui avesse frantumato",
+                    "che lei avesse frantumato",
+                    "che egli avesse frantumato",
+                    "che lui avesse sbattuto",
+                    "che lei avesse sbattuto",
+                    "che egli avesse sbattuto",
+                    "che lui avesse percosso",
+                    "che lei avesse percosso",
+                    "che egli avesse percosso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praetrivissēmus",
+                "traduzioni": [
+                    "che noi avessimo frantumato",
+                    "che noi avessimo sbattuto",
+                    "che noi avessimo percosso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praetrivissētis",
+                "traduzioni": [
+                    "che voi aveste frantumato",
+                    "che voi aveste sbattuto",
+                    "che voi aveste percosso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praetrivissent",
+                "traduzioni": [
+                    "che loro avessero frantumato",
+                    "che essi avessero frantumato",
+                    "che loro avessero sbattuto",
+                    "che essi avessero sbattuto",
+                    "che loro avessero percosso",
+                    "che essi avessero percosso"
+                ]
+            }
+        ]
+    }
+}

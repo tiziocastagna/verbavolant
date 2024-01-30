@@ -1,0 +1,726 @@
+{
+    "identifier": "CONCLAMO",
+    "conuigazione": "1",
+    "translation": [
+        "esclamare",
+        "+ accusativo e infinito) gridare",
+        "proclamare",
+        "(transitivo) invocare",
+        "convocare",
+        "(transitivo) far risuonare",
+        "(transitivo) approvare"
+    ],
+    "valid_translations": [
+        "esclamare",
+        "proclamare",
+        "convocare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conclāmo",
+                "traduzioni": [
+                    "io esclamo",
+                    "io proclamo",
+                    "io convoco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conclāmas",
+                "traduzioni": [
+                    "tu esclami",
+                    "tu proclami",
+                    "tu convochi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conclāmat",
+                "traduzioni": [
+                    "lui esclama",
+                    "lei esclama",
+                    "egli esclama",
+                    "lui proclama",
+                    "lei proclama",
+                    "egli proclama",
+                    "lui convoca",
+                    "lei convoca",
+                    "egli convoca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conclāmāmus",
+                "traduzioni": [
+                    "noi esclamiamo",
+                    "noi proclamiamo",
+                    "noi convochiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conclāmātis",
+                "traduzioni": [
+                    "voi esclamate",
+                    "voi proclamate",
+                    "voi convocate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conclāmant",
+                "traduzioni": [
+                    "loro esclamano",
+                    "essi esclamano",
+                    "loro proclamano",
+                    "essi proclamano",
+                    "loro convocano",
+                    "essi convocano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conclāmābam",
+                "traduzioni": [
+                    "io esclamavo",
+                    "io proclamavo",
+                    "io convocavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conclāmābas",
+                "traduzioni": [
+                    "tu esclamavi",
+                    "tu proclamavi",
+                    "tu convocavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conclāmābat",
+                "traduzioni": [
+                    "lui esclamava",
+                    "lei esclamava",
+                    "egli esclamava",
+                    "lui proclamava",
+                    "lei proclamava",
+                    "egli proclamava",
+                    "lui convocava",
+                    "lei convocava",
+                    "egli convocava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conclāmabāmus",
+                "traduzioni": [
+                    "noi esclamavamo",
+                    "noi proclamavamo",
+                    "noi convocavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conclāmabātis",
+                "traduzioni": [
+                    "voi esclamavate",
+                    "voi proclamavate",
+                    "voi convocavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conclāmābant",
+                "traduzioni": [
+                    "loro esclamavano",
+                    "essi esclamavano",
+                    "loro proclamavano",
+                    "essi proclamavano",
+                    "loro convocavano",
+                    "essi convocavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conclāmābo",
+                "traduzioni": [
+                    "io esclamerò",
+                    "io proclamerò",
+                    "io convocherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conclāmābis",
+                "traduzioni": [
+                    "tu esclamerai",
+                    "tu proclamerai",
+                    "tu convocherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conclāmābit",
+                "traduzioni": [
+                    "lui esclamerà",
+                    "lei esclamerà",
+                    "egli esclamerà",
+                    "lui proclamerà",
+                    "lei proclamerà",
+                    "egli proclamerà",
+                    "lui convocherà",
+                    "lei convocherà",
+                    "egli convocherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conclāmabĭmus",
+                "traduzioni": [
+                    "noi esclameremo",
+                    "noi proclameremo",
+                    "noi convocheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conclāmabĭtis",
+                "traduzioni": [
+                    "voi esclamerete",
+                    "voi proclamerete",
+                    "voi convocherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conclāmābunt",
+                "traduzioni": [
+                    "loro esclameranno",
+                    "essi esclameranno",
+                    "loro proclameranno",
+                    "essi proclameranno",
+                    "loro convocheranno",
+                    "essi convocheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conclamavi",
+                "traduzioni": [
+                    "io esclamai",
+                    "io ho esclamato",
+                    "io ebbi esclamato",
+                    "io proclamai",
+                    "io ho proclamato",
+                    "io ebbi proclamato",
+                    "io convocai",
+                    "io ho convocato",
+                    "io ebbi convocato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conclamavisti",
+                "traduzioni": [
+                    "tu esclamasti",
+                    "tu hai esclamato",
+                    "tu avesti esclamato",
+                    "tu proclamasti",
+                    "tu hai proclamato",
+                    "tu avesti proclamato",
+                    "tu convocasti",
+                    "tu hai convocato",
+                    "tu avesti convocato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conclamavit",
+                "traduzioni": [
+                    "lui esclamò",
+                    "lei esclamò",
+                    "egli esclamò",
+                    "lui ha esclamato",
+                    "lei ha esclamato",
+                    "egli ha esclamato",
+                    "lui ebbe esclamato",
+                    "lei ebbe esclamato",
+                    "egli ebbe esclamato",
+                    "lui proclamò",
+                    "lei proclamò",
+                    "egli proclamò",
+                    "lui ha proclamato",
+                    "lei ha proclamato",
+                    "egli ha proclamato",
+                    "lui ebbe proclamato",
+                    "lei ebbe proclamato",
+                    "egli ebbe proclamato",
+                    "lui convocò",
+                    "lei convocò",
+                    "egli convocò",
+                    "lui ha convocato",
+                    "lei ha convocato",
+                    "egli ha convocato",
+                    "lui ebbe convocato",
+                    "lei ebbe convocato",
+                    "egli ebbe convocato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conclamavĭmus",
+                "traduzioni": [
+                    "noi esclamammo",
+                    "noi abbiamo esclamato",
+                    "noi avemmo esclamato",
+                    "noi proclamammo",
+                    "noi abbiamo proclamato",
+                    "noi avemmo proclamato",
+                    "noi convocammo",
+                    "noi abbiamo convocato",
+                    "noi avemmo convocato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conclamavistis",
+                "traduzioni": [
+                    "voi esclamaste",
+                    "voi avete esclamato",
+                    "voi aveste esclamato",
+                    "voi proclamaste",
+                    "voi avete proclamato",
+                    "voi aveste proclamato",
+                    "voi convocaste",
+                    "voi avete convocato",
+                    "voi aveste convocato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conclamavēreunt, conclamavēre",
+                "traduzioni": [
+                    "loro esclamarono",
+                    "essi esclamarono",
+                    "loro hanno esclamato",
+                    "essi hanno esclamato",
+                    "loro ebbero esclamato",
+                    "essi ebbero esclamato",
+                    "loro proclamarono",
+                    "essi proclamarono",
+                    "loro hanno proclamato",
+                    "essi hanno proclamato",
+                    "loro ebbero proclamato",
+                    "essi ebbero proclamato",
+                    "loro convocarono",
+                    "essi convocarono",
+                    "loro hanno convocato",
+                    "essi hanno convocato",
+                    "loro ebbero convocato",
+                    "essi ebbero convocato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conclamavĕram",
+                "traduzioni": [
+                    "io avevo esclamato",
+                    "io avevo proclamato",
+                    "io avevo convocato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conclamavĕras",
+                "traduzioni": [
+                    "tu avevi esclamato",
+                    "tu avevi proclamato",
+                    "tu avevi convocato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conclamavĕrat",
+                "traduzioni": [
+                    "lui aveva esclamato",
+                    "lei aveva esclamato",
+                    "egli aveva esclamato",
+                    "lui aveva proclamato",
+                    "lei aveva proclamato",
+                    "egli aveva proclamato",
+                    "lui aveva convocato",
+                    "lei aveva convocato",
+                    "egli aveva convocato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conclamaverāmus",
+                "traduzioni": [
+                    "noi avevamo esclamato",
+                    "noi avevamo proclamato",
+                    "noi avevamo convocato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conclamaverātis",
+                "traduzioni": [
+                    "voi avevate esclamato",
+                    "voi avevate proclamato",
+                    "voi avevate convocato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conclamavĕrant",
+                "traduzioni": [
+                    "loro avevano esclamato",
+                    "essi avevano esclamato",
+                    "loro avevano proclamato",
+                    "essi avevano proclamato",
+                    "loro avevano convocato",
+                    "essi avevano convocato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conclamavĕro",
+                "traduzioni": [
+                    "io avrò esclamato",
+                    "io avrò proclamato",
+                    "io avrò convocato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conclamavĕris",
+                "traduzioni": [
+                    "tu avrai esclamato",
+                    "tu avrai proclamato",
+                    "tu avrai convocato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conclamavĕrit",
+                "traduzioni": [
+                    "lui avrà esclamato",
+                    "lei avrà esclamato",
+                    "egli avrà esclamato",
+                    "lui avrà proclamato",
+                    "lei avrà proclamato",
+                    "egli avrà proclamato",
+                    "lui avrà convocato",
+                    "lei avrà convocato",
+                    "egli avrà convocato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conclamaverĭmus",
+                "traduzioni": [
+                    "noi avremo esclamato",
+                    "noi avremo proclamato",
+                    "noi avremo convocato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conclamaverĭtis",
+                "traduzioni": [
+                    "voi avrete esclamato",
+                    "voi avrete proclamato",
+                    "voi avrete convocato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conclamavĕrint",
+                "traduzioni": [
+                    "loro avranno esclamato",
+                    "essi avranno esclamato",
+                    "loro avranno proclamato",
+                    "essi avranno proclamato",
+                    "loro avranno convocato",
+                    "essi avranno convocato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conclāmem",
+                "traduzioni": [
+                    "che io esclami",
+                    "che io proclami",
+                    "che io convochi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conclāmes",
+                "traduzioni": [
+                    "che tu esclami",
+                    "che tu proclami",
+                    "che tu convochi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conclāmet",
+                "traduzioni": [
+                    "che lui esclami",
+                    "che lei esclami",
+                    "che egli esclami",
+                    "che lui proclami",
+                    "che lei proclami",
+                    "che egli proclami",
+                    "che lui convochi",
+                    "che lei convochi",
+                    "che egli convochi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conclāmēmus",
+                "traduzioni": [
+                    "che noi esclamiamo",
+                    "che noi proclamiamo",
+                    "che noi convochiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conclāmētis",
+                "traduzioni": [
+                    "che voi esclamiate",
+                    "che voi proclamiate",
+                    "che voi convochiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conclāment",
+                "traduzioni": [
+                    "che loro esclamino",
+                    "che essi esclamino",
+                    "che loro proclamino",
+                    "che essi proclamino",
+                    "che loro convochino",
+                    "che essi convochino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conclāmārem",
+                "traduzioni": [
+                    "che io esclamassi",
+                    "che io proclamassi",
+                    "che io convocassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conclāmāres",
+                "traduzioni": [
+                    "che tu esclamassi",
+                    "che tu proclamassi",
+                    "che tu convocassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conclāmāret",
+                "traduzioni": [
+                    "che lui esclamasse",
+                    "che lei esclamasse",
+                    "che egli esclamasse",
+                    "che lui proclamasse",
+                    "che lei proclamasse",
+                    "che egli proclamasse",
+                    "che lui convocasse",
+                    "che lei convocasse",
+                    "che egli convocasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conclāmarēmus",
+                "traduzioni": [
+                    "che noi esclamassimo",
+                    "che noi proclamassimo",
+                    "che noi convocassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conclāmarētis",
+                "traduzioni": [
+                    "che voi esclamaste",
+                    "che voi proclamaste",
+                    "che voi convocaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conclāmārent",
+                "traduzioni": [
+                    "che loro esclamassero",
+                    "che essi esclamassero",
+                    "che loro proclamassero",
+                    "che essi proclamassero",
+                    "che loro convocassero",
+                    "che essi convocassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conclamavĕrim",
+                "traduzioni": [
+                    "che io abbia esclamato",
+                    "che io abbia proclamato",
+                    "che io abbia convocato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conclamavĕris",
+                "traduzioni": [
+                    "che tu abbia esclamato",
+                    "che tu abbia proclamato",
+                    "che tu abbia convocato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conclamavĕrit",
+                "traduzioni": [
+                    "che lui abbia esclamato",
+                    "che lei abbia esclamato",
+                    "che egli abbia esclamato",
+                    "che lui abbia proclamato",
+                    "che lei abbia proclamato",
+                    "che egli abbia proclamato",
+                    "che lui abbia convocato",
+                    "che lei abbia convocato",
+                    "che egli abbia convocato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conclamaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo esclamato",
+                    "che noi abbiamo proclamato",
+                    "che noi abbiamo convocato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conclamaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate esclamato",
+                    "che voi abbiate proclamato",
+                    "che voi abbiate convocato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conclamavĕrint",
+                "traduzioni": [
+                    "che loro abbiano esclamato",
+                    "che essi abbiano esclamato",
+                    "che loro abbiano proclamato",
+                    "che essi abbiano proclamato",
+                    "che loro abbiano convocato",
+                    "che essi abbiano convocato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conclamavissem",
+                "traduzioni": [
+                    "che io avessi esclamato",
+                    "che io avessi proclamato",
+                    "che io avessi convocato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conclamavisses",
+                "traduzioni": [
+                    "che tu avessi esclamato",
+                    "che tu avessi proclamato",
+                    "che tu avessi convocato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conclamavisset",
+                "traduzioni": [
+                    "che lui avesse esclamato",
+                    "che lei avesse esclamato",
+                    "che egli avesse esclamato",
+                    "che lui avesse proclamato",
+                    "che lei avesse proclamato",
+                    "che egli avesse proclamato",
+                    "che lui avesse convocato",
+                    "che lei avesse convocato",
+                    "che egli avesse convocato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conclamavissēmus",
+                "traduzioni": [
+                    "che noi avessimo esclamato",
+                    "che noi avessimo proclamato",
+                    "che noi avessimo convocato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conclamavissētis",
+                "traduzioni": [
+                    "che voi aveste esclamato",
+                    "che voi aveste proclamato",
+                    "che voi aveste convocato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conclamavissent",
+                "traduzioni": [
+                    "che loro avessero esclamato",
+                    "che essi avessero esclamato",
+                    "che loro avessero proclamato",
+                    "che essi avessero proclamato",
+                    "che loro avessero convocato",
+                    "che essi avessero convocato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,832 @@
+{
+    "identifier": "CONMEMORO",
+    "conuigazione": "1",
+    "translation": [
+        "ricordare",
+        "menzionare",
+        "citare",
+        "richiamare"
+    ],
+    "valid_translations": [
+        "ricordare",
+        "menzionare",
+        "citare",
+        "richiamare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conmĕmŏro",
+                "traduzioni": [
+                    "io ricordo",
+                    "io menziono",
+                    "io cito",
+                    "io richiamo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conmĕmŏras",
+                "traduzioni": [
+                    "tu ricordi",
+                    "tu menzioni",
+                    "tu citi",
+                    "tu richiami"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conmĕmŏrat",
+                "traduzioni": [
+                    "lui ricorda",
+                    "lei ricorda",
+                    "egli ricorda",
+                    "lui menziona",
+                    "lei menziona",
+                    "egli menziona",
+                    "lui cita",
+                    "lei cita",
+                    "egli cita",
+                    "lui richiama",
+                    "lei richiama",
+                    "egli richiama"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conmĕmŏrāmus",
+                "traduzioni": [
+                    "noi ricordiamo",
+                    "noi menzioniamo",
+                    "noi citiamo",
+                    "noi richiamiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conmĕmŏrātis",
+                "traduzioni": [
+                    "voi ricordate",
+                    "voi menzionate",
+                    "voi citate",
+                    "voi richiamate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conmĕmŏrant",
+                "traduzioni": [
+                    "loro ricordano",
+                    "essi ricordano",
+                    "loro menzionano",
+                    "essi menzionano",
+                    "loro citano",
+                    "essi citano",
+                    "loro richiamano",
+                    "essi richiamano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conmĕmŏrābam",
+                "traduzioni": [
+                    "io ricordavo",
+                    "io menzionavo",
+                    "io citavo",
+                    "io richiamavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conmĕmŏrābas",
+                "traduzioni": [
+                    "tu ricordavi",
+                    "tu menzionavi",
+                    "tu citavi",
+                    "tu richiamavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conmĕmŏrābat",
+                "traduzioni": [
+                    "lui ricordava",
+                    "lei ricordava",
+                    "egli ricordava",
+                    "lui menzionava",
+                    "lei menzionava",
+                    "egli menzionava",
+                    "lui citava",
+                    "lei citava",
+                    "egli citava",
+                    "lui richiamava",
+                    "lei richiamava",
+                    "egli richiamava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conmĕmŏrabāmus",
+                "traduzioni": [
+                    "noi ricordavamo",
+                    "noi menzionavamo",
+                    "noi citavamo",
+                    "noi richiamavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conmĕmŏrabātis",
+                "traduzioni": [
+                    "voi ricordavate",
+                    "voi menzionavate",
+                    "voi citavate",
+                    "voi richiamavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conmĕmŏrābant",
+                "traduzioni": [
+                    "loro ricordavano",
+                    "essi ricordavano",
+                    "loro menzionavano",
+                    "essi menzionavano",
+                    "loro citavano",
+                    "essi citavano",
+                    "loro richiamavano",
+                    "essi richiamavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conmĕmŏrābo",
+                "traduzioni": [
+                    "io ricorderò",
+                    "io menzionerò",
+                    "io citerò",
+                    "io richiamerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conmĕmŏrābis",
+                "traduzioni": [
+                    "tu ricorderai",
+                    "tu menzionerai",
+                    "tu citerai",
+                    "tu richiamerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conmĕmŏrābit",
+                "traduzioni": [
+                    "lui ricorderà",
+                    "lei ricorderà",
+                    "egli ricorderà",
+                    "lui menzionerà",
+                    "lei menzionerà",
+                    "egli menzionerà",
+                    "lui citerà",
+                    "lei citerà",
+                    "egli citerà",
+                    "lui richiamerà",
+                    "lei richiamerà",
+                    "egli richiamerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conmĕmŏrabĭmus",
+                "traduzioni": [
+                    "noi ricorderemo",
+                    "noi menzioneremo",
+                    "noi citeremo",
+                    "noi richiameremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conmĕmŏrabĭtis",
+                "traduzioni": [
+                    "voi ricorderete",
+                    "voi menzionerete",
+                    "voi citerete",
+                    "voi richiamerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conmĕmŏrābunt",
+                "traduzioni": [
+                    "loro ricorderanno",
+                    "essi ricorderanno",
+                    "loro menzioneranno",
+                    "essi menzioneranno",
+                    "loro citeranno",
+                    "essi citeranno",
+                    "loro richiameranno",
+                    "essi richiameranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conmemoravi",
+                "traduzioni": [
+                    "io ricordai",
+                    "io ho ricordato",
+                    "io ebbi ricordato",
+                    "io menzionai",
+                    "io ho menzionato",
+                    "io ebbi menzionato",
+                    "io citai",
+                    "io ho citato",
+                    "io ebbi citato",
+                    "io richiamai",
+                    "io ho richiamato",
+                    "io ebbi richiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conmemoravisti",
+                "traduzioni": [
+                    "tu ricordasti",
+                    "tu hai ricordato",
+                    "tu avesti ricordato",
+                    "tu menzionasti",
+                    "tu hai menzionato",
+                    "tu avesti menzionato",
+                    "tu citasti",
+                    "tu hai citato",
+                    "tu avesti citato",
+                    "tu richiamasti",
+                    "tu hai richiamato",
+                    "tu avesti richiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conmemoravit",
+                "traduzioni": [
+                    "lui ricordò",
+                    "lei ricordò",
+                    "egli ricordò",
+                    "lui ha ricordato",
+                    "lei ha ricordato",
+                    "egli ha ricordato",
+                    "lui ebbe ricordato",
+                    "lei ebbe ricordato",
+                    "egli ebbe ricordato",
+                    "lui menzionò",
+                    "lei menzionò",
+                    "egli menzionò",
+                    "lui ha menzionato",
+                    "lei ha menzionato",
+                    "egli ha menzionato",
+                    "lui ebbe menzionato",
+                    "lei ebbe menzionato",
+                    "egli ebbe menzionato",
+                    "lui citò",
+                    "lei citò",
+                    "egli citò",
+                    "lui ha citato",
+                    "lei ha citato",
+                    "egli ha citato",
+                    "lui ebbe citato",
+                    "lei ebbe citato",
+                    "egli ebbe citato",
+                    "lui richiamò",
+                    "lei richiamò",
+                    "egli richiamò",
+                    "lui ha richiamato",
+                    "lei ha richiamato",
+                    "egli ha richiamato",
+                    "lui ebbe richiamato",
+                    "lei ebbe richiamato",
+                    "egli ebbe richiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conmemoravĭmus",
+                "traduzioni": [
+                    "noi ricordammo",
+                    "noi abbiamo ricordato",
+                    "noi avemmo ricordato",
+                    "noi menzionammo",
+                    "noi abbiamo menzionato",
+                    "noi avemmo menzionato",
+                    "noi citammo",
+                    "noi abbiamo citato",
+                    "noi avemmo citato",
+                    "noi richiamammo",
+                    "noi abbiamo richiamato",
+                    "noi avemmo richiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conmemoravistis",
+                "traduzioni": [
+                    "voi ricordaste",
+                    "voi avete ricordato",
+                    "voi aveste ricordato",
+                    "voi menzionaste",
+                    "voi avete menzionato",
+                    "voi aveste menzionato",
+                    "voi citaste",
+                    "voi avete citato",
+                    "voi aveste citato",
+                    "voi richiamaste",
+                    "voi avete richiamato",
+                    "voi aveste richiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conmemoravērunt, conmemoravēre",
+                "traduzioni": [
+                    "loro ricordarono",
+                    "essi ricordarono",
+                    "loro hanno ricordato",
+                    "essi hanno ricordato",
+                    "loro ebbero ricordato",
+                    "essi ebbero ricordato",
+                    "loro menzionarono",
+                    "essi menzionarono",
+                    "loro hanno menzionato",
+                    "essi hanno menzionato",
+                    "loro ebbero menzionato",
+                    "essi ebbero menzionato",
+                    "loro citarono",
+                    "essi citarono",
+                    "loro hanno citato",
+                    "essi hanno citato",
+                    "loro ebbero citato",
+                    "essi ebbero citato",
+                    "loro richiamarono",
+                    "essi richiamarono",
+                    "loro hanno richiamato",
+                    "essi hanno richiamato",
+                    "loro ebbero richiamato",
+                    "essi ebbero richiamato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conmemoravĕram",
+                "traduzioni": [
+                    "io avevo ricordato",
+                    "io avevo menzionato",
+                    "io avevo citato",
+                    "io avevo richiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conmemoravĕras",
+                "traduzioni": [
+                    "tu avevi ricordato",
+                    "tu avevi menzionato",
+                    "tu avevi citato",
+                    "tu avevi richiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conmemoravĕrat",
+                "traduzioni": [
+                    "lui aveva ricordato",
+                    "lei aveva ricordato",
+                    "egli aveva ricordato",
+                    "lui aveva menzionato",
+                    "lei aveva menzionato",
+                    "egli aveva menzionato",
+                    "lui aveva citato",
+                    "lei aveva citato",
+                    "egli aveva citato",
+                    "lui aveva richiamato",
+                    "lei aveva richiamato",
+                    "egli aveva richiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conmemoraverāmus",
+                "traduzioni": [
+                    "noi avevamo ricordato",
+                    "noi avevamo menzionato",
+                    "noi avevamo citato",
+                    "noi avevamo richiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conmemoraverātis",
+                "traduzioni": [
+                    "voi avevate ricordato",
+                    "voi avevate menzionato",
+                    "voi avevate citato",
+                    "voi avevate richiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conmemoravĕrant",
+                "traduzioni": [
+                    "loro avevano ricordato",
+                    "essi avevano ricordato",
+                    "loro avevano menzionato",
+                    "essi avevano menzionato",
+                    "loro avevano citato",
+                    "essi avevano citato",
+                    "loro avevano richiamato",
+                    "essi avevano richiamato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conmemoravĕro",
+                "traduzioni": [
+                    "io avrò ricordato",
+                    "io avrò menzionato",
+                    "io avrò citato",
+                    "io avrò richiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conmemoravĕris",
+                "traduzioni": [
+                    "tu avrai ricordato",
+                    "tu avrai menzionato",
+                    "tu avrai citato",
+                    "tu avrai richiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conmemoravĕrit",
+                "traduzioni": [
+                    "lui avrà ricordato",
+                    "lei avrà ricordato",
+                    "egli avrà ricordato",
+                    "lui avrà menzionato",
+                    "lei avrà menzionato",
+                    "egli avrà menzionato",
+                    "lui avrà citato",
+                    "lei avrà citato",
+                    "egli avrà citato",
+                    "lui avrà richiamato",
+                    "lei avrà richiamato",
+                    "egli avrà richiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conmemoraverĭmus",
+                "traduzioni": [
+                    "noi avremo ricordato",
+                    "noi avremo menzionato",
+                    "noi avremo citato",
+                    "noi avremo richiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conmemoraverĭtis",
+                "traduzioni": [
+                    "voi avrete ricordato",
+                    "voi avrete menzionato",
+                    "voi avrete citato",
+                    "voi avrete richiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conmemoravĕrint",
+                "traduzioni": [
+                    "loro avranno ricordato",
+                    "essi avranno ricordato",
+                    "loro avranno menzionato",
+                    "essi avranno menzionato",
+                    "loro avranno citato",
+                    "essi avranno citato",
+                    "loro avranno richiamato",
+                    "essi avranno richiamato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "conmĕmŏrem",
+                "traduzioni": [
+                    "che io ricordi",
+                    "che io menzioni",
+                    "che io citi",
+                    "che io richiami"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conmĕmŏres",
+                "traduzioni": [
+                    "che tu ricordi",
+                    "che tu menzioni",
+                    "che tu citi",
+                    "che tu richiami"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conmĕmŏret",
+                "traduzioni": [
+                    "che lui ricordi",
+                    "che lei ricordi",
+                    "che egli ricordi",
+                    "che lui menzioni",
+                    "che lei menzioni",
+                    "che egli menzioni",
+                    "che lui citi",
+                    "che lei citi",
+                    "che egli citi",
+                    "che lui richiami",
+                    "che lei richiami",
+                    "che egli richiami"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conmĕmŏrēmus",
+                "traduzioni": [
+                    "che noi ricordiamo",
+                    "che noi menzioniamo",
+                    "che noi citiamo",
+                    "che noi richiamiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conmĕmŏrētis",
+                "traduzioni": [
+                    "che voi ricordiate",
+                    "che voi menzioniate",
+                    "che voi citiate",
+                    "che voi richiamiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conmĕmŏrent",
+                "traduzioni": [
+                    "che loro ricordino",
+                    "che essi ricordino",
+                    "che loro menzionino",
+                    "che essi menzionino",
+                    "che loro citino",
+                    "che essi citino",
+                    "che loro richiamino",
+                    "che essi richiamino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conmĕmŏrārem",
+                "traduzioni": [
+                    "che io ricordassi",
+                    "che io menzionassi",
+                    "che io citassi",
+                    "che io richiamassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conmĕmŏrāres",
+                "traduzioni": [
+                    "che tu ricordassi",
+                    "che tu menzionassi",
+                    "che tu citassi",
+                    "che tu richiamassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conmĕmŏrāret",
+                "traduzioni": [
+                    "che lui ricordasse",
+                    "che lei ricordasse",
+                    "che egli ricordasse",
+                    "che lui menzionasse",
+                    "che lei menzionasse",
+                    "che egli menzionasse",
+                    "che lui citasse",
+                    "che lei citasse",
+                    "che egli citasse",
+                    "che lui richiamasse",
+                    "che lei richiamasse",
+                    "che egli richiamasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conmĕmŏrarēmus",
+                "traduzioni": [
+                    "che noi ricordassimo",
+                    "che noi menzionassimo",
+                    "che noi citassimo",
+                    "che noi richiamassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conmĕmŏrarētis",
+                "traduzioni": [
+                    "che voi ricordaste",
+                    "che voi menzionaste",
+                    "che voi citaste",
+                    "che voi richiamaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conmĕmŏrārent",
+                "traduzioni": [
+                    "che loro ricordassero",
+                    "che essi ricordassero",
+                    "che loro menzionassero",
+                    "che essi menzionassero",
+                    "che loro citassero",
+                    "che essi citassero",
+                    "che loro richiamassero",
+                    "che essi richiamassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conmemoravĕrim",
+                "traduzioni": [
+                    "che io abbia ricordato",
+                    "che io abbia menzionato",
+                    "che io abbia citato",
+                    "che io abbia richiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conmemoravĕris",
+                "traduzioni": [
+                    "che tu abbia ricordato",
+                    "che tu abbia menzionato",
+                    "che tu abbia citato",
+                    "che tu abbia richiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conmemoravĕrit",
+                "traduzioni": [
+                    "che lui abbia ricordato",
+                    "che lei abbia ricordato",
+                    "che egli abbia ricordato",
+                    "che lui abbia menzionato",
+                    "che lei abbia menzionato",
+                    "che egli abbia menzionato",
+                    "che lui abbia citato",
+                    "che lei abbia citato",
+                    "che egli abbia citato",
+                    "che lui abbia richiamato",
+                    "che lei abbia richiamato",
+                    "che egli abbia richiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conmemoraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo ricordato",
+                    "che noi abbiamo menzionato",
+                    "che noi abbiamo citato",
+                    "che noi abbiamo richiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conmemoraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate ricordato",
+                    "che voi abbiate menzionato",
+                    "che voi abbiate citato",
+                    "che voi abbiate richiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conmemoravĕrint",
+                "traduzioni": [
+                    "che loro abbiano ricordato",
+                    "che essi abbiano ricordato",
+                    "che loro abbiano menzionato",
+                    "che essi abbiano menzionato",
+                    "che loro abbiano citato",
+                    "che essi abbiano citato",
+                    "che loro abbiano richiamato",
+                    "che essi abbiano richiamato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "conmemoravissem",
+                "traduzioni": [
+                    "che io avessi ricordato",
+                    "che io avessi menzionato",
+                    "che io avessi citato",
+                    "che io avessi richiamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "conmemoravisses",
+                "traduzioni": [
+                    "che tu avessi ricordato",
+                    "che tu avessi menzionato",
+                    "che tu avessi citato",
+                    "che tu avessi richiamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "conmemoravisset",
+                "traduzioni": [
+                    "che lui avesse ricordato",
+                    "che lei avesse ricordato",
+                    "che egli avesse ricordato",
+                    "che lui avesse menzionato",
+                    "che lei avesse menzionato",
+                    "che egli avesse menzionato",
+                    "che lui avesse citato",
+                    "che lei avesse citato",
+                    "che egli avesse citato",
+                    "che lui avesse richiamato",
+                    "che lei avesse richiamato",
+                    "che egli avesse richiamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "conmemoravissēmus",
+                "traduzioni": [
+                    "che noi avessimo ricordato",
+                    "che noi avessimo menzionato",
+                    "che noi avessimo citato",
+                    "che noi avessimo richiamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "conmemoravissētis",
+                "traduzioni": [
+                    "che voi aveste ricordato",
+                    "che voi aveste menzionato",
+                    "che voi aveste citato",
+                    "che voi aveste richiamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "conmemoravissent",
+                "traduzioni": [
+                    "che loro avessero ricordato",
+                    "che essi avessero ricordato",
+                    "che loro avessero menzionato",
+                    "che essi avessero menzionato",
+                    "che loro avessero citato",
+                    "che essi avessero citato",
+                    "che loro avessero richiamato",
+                    "che essi avessero richiamato"
+                ]
+            }
+        ]
+    }
+}

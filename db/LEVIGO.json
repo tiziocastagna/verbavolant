@@ -1,0 +1,833 @@
+{
+    "identifier": "LEVIGO",
+    "conuigazione": "1",
+    "translation": [
+        "levigare",
+        "lisciare",
+        "triturare",
+        "ridurre in polvere",
+        "frantumare"
+    ],
+    "valid_translations": [
+        "levigare",
+        "lisciare",
+        "triturare",
+        "frantumare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lēvĭgo",
+                "traduzioni": [
+                    "io levigo",
+                    "io liscio",
+                    "io trituro",
+                    "io frantumo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lēvĭgas",
+                "traduzioni": [
+                    "tu levighi",
+                    "tu lisci",
+                    "tu trituri",
+                    "tu frantumi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lēvĭgat",
+                "traduzioni": [
+                    "lui leviga",
+                    "lei leviga",
+                    "egli leviga",
+                    "lui liscia",
+                    "lei liscia",
+                    "egli liscia",
+                    "lui tritura",
+                    "lei tritura",
+                    "egli tritura",
+                    "lui frantuma",
+                    "lei frantuma",
+                    "egli frantuma"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lēvĭgāmus",
+                "traduzioni": [
+                    "noi levighiamo",
+                    "noi lisciamo",
+                    "noi trituriamo",
+                    "noi frantumiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lēvĭgātis",
+                "traduzioni": [
+                    "voi levigate",
+                    "voi lisciate",
+                    "voi triturate",
+                    "voi frantumate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lēvĭgant",
+                "traduzioni": [
+                    "loro levigano",
+                    "essi levigano",
+                    "loro lisciano",
+                    "essi lisciano",
+                    "loro triturano",
+                    "essi triturano",
+                    "loro frantumano",
+                    "essi frantumano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lēvĭgābam",
+                "traduzioni": [
+                    "io levigavo",
+                    "io lisciavo",
+                    "io trituravo",
+                    "io frantumavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lēvĭgābas",
+                "traduzioni": [
+                    "tu levigavi",
+                    "tu lisciavi",
+                    "tu trituravi",
+                    "tu frantumavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lēvĭgābat",
+                "traduzioni": [
+                    "lui levigava",
+                    "lei levigava",
+                    "egli levigava",
+                    "lui lisciava",
+                    "lei lisciava",
+                    "egli lisciava",
+                    "lui triturava",
+                    "lei triturava",
+                    "egli triturava",
+                    "lui frantumava",
+                    "lei frantumava",
+                    "egli frantumava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lēvĭgabāmus",
+                "traduzioni": [
+                    "noi levigavamo",
+                    "noi lisciavamo",
+                    "noi trituravamo",
+                    "noi frantumavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lēvĭgabātis",
+                "traduzioni": [
+                    "voi levigavate",
+                    "voi lisciavate",
+                    "voi trituravate",
+                    "voi frantumavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lēvĭgābant",
+                "traduzioni": [
+                    "loro levigavano",
+                    "essi levigavano",
+                    "loro lisciavano",
+                    "essi lisciavano",
+                    "loro trituravano",
+                    "essi trituravano",
+                    "loro frantumavano",
+                    "essi frantumavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lēvĭgābo",
+                "traduzioni": [
+                    "io levigherò",
+                    "io liscerò",
+                    "io triturerò",
+                    "io frantumerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lēvĭgābis",
+                "traduzioni": [
+                    "tu levigherai",
+                    "tu liscerai",
+                    "tu triturerai",
+                    "tu frantumerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lēvĭgābit",
+                "traduzioni": [
+                    "lui levigherà",
+                    "lei levigherà",
+                    "egli levigherà",
+                    "lui liscerà",
+                    "lei liscerà",
+                    "egli liscerà",
+                    "lui triturerà",
+                    "lei triturerà",
+                    "egli triturerà",
+                    "lui frantumerà",
+                    "lei frantumerà",
+                    "egli frantumerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lēvĭgabĭmus",
+                "traduzioni": [
+                    "noi levigheremo",
+                    "noi lisceremo",
+                    "noi tritureremo",
+                    "noi frantumeremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lēvĭgabĭtis",
+                "traduzioni": [
+                    "voi levigherete",
+                    "voi liscerete",
+                    "voi triturerete",
+                    "voi frantumerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lēvĭgābunt",
+                "traduzioni": [
+                    "loro levigheranno",
+                    "essi levigheranno",
+                    "loro lisceranno",
+                    "essi lisceranno",
+                    "loro tritureranno",
+                    "essi tritureranno",
+                    "loro frantumeranno",
+                    "essi frantumeranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "levigavi",
+                "traduzioni": [
+                    "io levigai",
+                    "io ho levigato",
+                    "io ebbi levigato",
+                    "io lisciai",
+                    "io ho lisciato",
+                    "io ebbi lisciato",
+                    "io triturai",
+                    "io ho triturato",
+                    "io ebbi triturato",
+                    "io frantumai",
+                    "io ho frantumato",
+                    "io ebbi frantumato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "levigavisti",
+                "traduzioni": [
+                    "tu levigasti",
+                    "tu hai levigato",
+                    "tu avesti levigato",
+                    "tu lisciasti",
+                    "tu hai lisciato",
+                    "tu avesti lisciato",
+                    "tu triturasti",
+                    "tu hai triturato",
+                    "tu avesti triturato",
+                    "tu frantumasti",
+                    "tu hai frantumato",
+                    "tu avesti frantumato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "levigavit",
+                "traduzioni": [
+                    "lui levigò",
+                    "lei levigò",
+                    "egli levigò",
+                    "lui ha levigato",
+                    "lei ha levigato",
+                    "egli ha levigato",
+                    "lui ebbe levigato",
+                    "lei ebbe levigato",
+                    "egli ebbe levigato",
+                    "lui lisciò",
+                    "lei lisciò",
+                    "egli lisciò",
+                    "lui ha lisciato",
+                    "lei ha lisciato",
+                    "egli ha lisciato",
+                    "lui ebbe lisciato",
+                    "lei ebbe lisciato",
+                    "egli ebbe lisciato",
+                    "lui triturò",
+                    "lei triturò",
+                    "egli triturò",
+                    "lui ha triturato",
+                    "lei ha triturato",
+                    "egli ha triturato",
+                    "lui ebbe triturato",
+                    "lei ebbe triturato",
+                    "egli ebbe triturato",
+                    "lui frantumò",
+                    "lei frantumò",
+                    "egli frantumò",
+                    "lui ha frantumato",
+                    "lei ha frantumato",
+                    "egli ha frantumato",
+                    "lui ebbe frantumato",
+                    "lei ebbe frantumato",
+                    "egli ebbe frantumato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "levigavĭmus",
+                "traduzioni": [
+                    "noi levigammo",
+                    "noi abbiamo levigato",
+                    "noi avemmo levigato",
+                    "noi lisciammo",
+                    "noi abbiamo lisciato",
+                    "noi avemmo lisciato",
+                    "noi triturammo",
+                    "noi abbiamo triturato",
+                    "noi avemmo triturato",
+                    "noi frantumammo",
+                    "noi abbiamo frantumato",
+                    "noi avemmo frantumato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "levigavistis",
+                "traduzioni": [
+                    "voi levigaste",
+                    "voi avete levigato",
+                    "voi aveste levigato",
+                    "voi lisciaste",
+                    "voi avete lisciato",
+                    "voi aveste lisciato",
+                    "voi trituraste",
+                    "voi avete triturato",
+                    "voi aveste triturato",
+                    "voi frantumaste",
+                    "voi avete frantumato",
+                    "voi aveste frantumato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "levigavērunt, levigavēre",
+                "traduzioni": [
+                    "loro levigarono",
+                    "essi levigarono",
+                    "loro hanno levigato",
+                    "essi hanno levigato",
+                    "loro ebbero levigato",
+                    "essi ebbero levigato",
+                    "loro lisciarono",
+                    "essi lisciarono",
+                    "loro hanno lisciato",
+                    "essi hanno lisciato",
+                    "loro ebbero lisciato",
+                    "essi ebbero lisciato",
+                    "loro triturarono",
+                    "essi triturarono",
+                    "loro hanno triturato",
+                    "essi hanno triturato",
+                    "loro ebbero triturato",
+                    "essi ebbero triturato",
+                    "loro frantumarono",
+                    "essi frantumarono",
+                    "loro hanno frantumato",
+                    "essi hanno frantumato",
+                    "loro ebbero frantumato",
+                    "essi ebbero frantumato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "levigavĕram",
+                "traduzioni": [
+                    "io avevo levigato",
+                    "io avevo lisciato",
+                    "io avevo triturato",
+                    "io avevo frantumato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "levigavĕras",
+                "traduzioni": [
+                    "tu avevi levigato",
+                    "tu avevi lisciato",
+                    "tu avevi triturato",
+                    "tu avevi frantumato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "levigavĕrat",
+                "traduzioni": [
+                    "lui aveva levigato",
+                    "lei aveva levigato",
+                    "egli aveva levigato",
+                    "lui aveva lisciato",
+                    "lei aveva lisciato",
+                    "egli aveva lisciato",
+                    "lui aveva triturato",
+                    "lei aveva triturato",
+                    "egli aveva triturato",
+                    "lui aveva frantumato",
+                    "lei aveva frantumato",
+                    "egli aveva frantumato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "levigaverāmus",
+                "traduzioni": [
+                    "noi avevamo levigato",
+                    "noi avevamo lisciato",
+                    "noi avevamo triturato",
+                    "noi avevamo frantumato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "levigaverātis",
+                "traduzioni": [
+                    "voi avevate levigato",
+                    "voi avevate lisciato",
+                    "voi avevate triturato",
+                    "voi avevate frantumato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "levigavĕrant",
+                "traduzioni": [
+                    "loro avevano levigato",
+                    "essi avevano levigato",
+                    "loro avevano lisciato",
+                    "essi avevano lisciato",
+                    "loro avevano triturato",
+                    "essi avevano triturato",
+                    "loro avevano frantumato",
+                    "essi avevano frantumato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "levigavĕro",
+                "traduzioni": [
+                    "io avrò levigato",
+                    "io avrò lisciato",
+                    "io avrò triturato",
+                    "io avrò frantumato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "levigavĕris",
+                "traduzioni": [
+                    "tu avrai levigato",
+                    "tu avrai lisciato",
+                    "tu avrai triturato",
+                    "tu avrai frantumato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "levigavĕrit",
+                "traduzioni": [
+                    "lui avrà levigato",
+                    "lei avrà levigato",
+                    "egli avrà levigato",
+                    "lui avrà lisciato",
+                    "lei avrà lisciato",
+                    "egli avrà lisciato",
+                    "lui avrà triturato",
+                    "lei avrà triturato",
+                    "egli avrà triturato",
+                    "lui avrà frantumato",
+                    "lei avrà frantumato",
+                    "egli avrà frantumato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "levigaverĭmus",
+                "traduzioni": [
+                    "noi avremo levigato",
+                    "noi avremo lisciato",
+                    "noi avremo triturato",
+                    "noi avremo frantumato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "levigaverĭtis",
+                "traduzioni": [
+                    "voi avrete levigato",
+                    "voi avrete lisciato",
+                    "voi avrete triturato",
+                    "voi avrete frantumato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "levigavĕrint",
+                "traduzioni": [
+                    "loro avranno levigato",
+                    "essi avranno levigato",
+                    "loro avranno lisciato",
+                    "essi avranno lisciato",
+                    "loro avranno triturato",
+                    "essi avranno triturato",
+                    "loro avranno frantumato",
+                    "essi avranno frantumato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lēvĭgem",
+                "traduzioni": [
+                    "che io levighi",
+                    "che io lisci",
+                    "che io trituri",
+                    "che io frantumi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lēvĭges",
+                "traduzioni": [
+                    "che tu levighi",
+                    "che tu lisci",
+                    "che tu trituri",
+                    "che tu frantumi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lēvĭget",
+                "traduzioni": [
+                    "che lui levighi",
+                    "che lei levighi",
+                    "che egli levighi",
+                    "che lui lisci",
+                    "che lei lisci",
+                    "che egli lisci",
+                    "che lui trituri",
+                    "che lei trituri",
+                    "che egli trituri",
+                    "che lui frantumi",
+                    "che lei frantumi",
+                    "che egli frantumi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lēvĭgēmus",
+                "traduzioni": [
+                    "che noi levighiamo",
+                    "che noi lisciamo",
+                    "che noi trituriamo",
+                    "che noi frantumiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lēvĭgētis",
+                "traduzioni": [
+                    "che voi levighiate",
+                    "che voi lisciate",
+                    "che voi trituriate",
+                    "che voi frantumiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lēvĭgent",
+                "traduzioni": [
+                    "che loro levighino",
+                    "che essi levighino",
+                    "che loro liscino",
+                    "che essi liscino",
+                    "che loro triturino",
+                    "che essi triturino",
+                    "che loro frantumino",
+                    "che essi frantumino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lēvĭgārem",
+                "traduzioni": [
+                    "che io levigassi",
+                    "che io lisciassi",
+                    "che io triturassi",
+                    "che io frantumassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lēvĭgāres",
+                "traduzioni": [
+                    "che tu levigassi",
+                    "che tu lisciassi",
+                    "che tu triturassi",
+                    "che tu frantumassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lēvĭgāret",
+                "traduzioni": [
+                    "che lui levigasse",
+                    "che lei levigasse",
+                    "che egli levigasse",
+                    "che lui lisciasse",
+                    "che lei lisciasse",
+                    "che egli lisciasse",
+                    "che lui triturasse",
+                    "che lei triturasse",
+                    "che egli triturasse",
+                    "che lui frantumasse",
+                    "che lei frantumasse",
+                    "che egli frantumasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lēvĭgarēmus",
+                "traduzioni": [
+                    "che noi levigassimo",
+                    "che noi lisciassimo",
+                    "che noi triturassimo",
+                    "che noi frantumassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lēvĭgarētis",
+                "traduzioni": [
+                    "che voi levigaste",
+                    "che voi lisciaste",
+                    "che voi trituraste",
+                    "che voi frantumaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lēvĭgārent",
+                "traduzioni": [
+                    "che loro levigassero",
+                    "che essi levigassero",
+                    "che loro lisciassero",
+                    "che essi lisciassero",
+                    "che loro triturassero",
+                    "che essi triturassero",
+                    "che loro frantumassero",
+                    "che essi frantumassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "levigavĕrim",
+                "traduzioni": [
+                    "che io abbia levigato",
+                    "che io abbia lisciato",
+                    "che io abbia triturato",
+                    "che io abbia frantumato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "levigavĕris",
+                "traduzioni": [
+                    "che tu abbia levigato",
+                    "che tu abbia lisciato",
+                    "che tu abbia triturato",
+                    "che tu abbia frantumato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "levigavĕrit",
+                "traduzioni": [
+                    "che lui abbia levigato",
+                    "che lei abbia levigato",
+                    "che egli abbia levigato",
+                    "che lui abbia lisciato",
+                    "che lei abbia lisciato",
+                    "che egli abbia lisciato",
+                    "che lui abbia triturato",
+                    "che lei abbia triturato",
+                    "che egli abbia triturato",
+                    "che lui abbia frantumato",
+                    "che lei abbia frantumato",
+                    "che egli abbia frantumato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "levigaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo levigato",
+                    "che noi abbiamo lisciato",
+                    "che noi abbiamo triturato",
+                    "che noi abbiamo frantumato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "levigaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate levigato",
+                    "che voi abbiate lisciato",
+                    "che voi abbiate triturato",
+                    "che voi abbiate frantumato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "levigavĕrint",
+                "traduzioni": [
+                    "che loro abbiano levigato",
+                    "che essi abbiano levigato",
+                    "che loro abbiano lisciato",
+                    "che essi abbiano lisciato",
+                    "che loro abbiano triturato",
+                    "che essi abbiano triturato",
+                    "che loro abbiano frantumato",
+                    "che essi abbiano frantumato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "levigavissem",
+                "traduzioni": [
+                    "che io avessi levigato",
+                    "che io avessi lisciato",
+                    "che io avessi triturato",
+                    "che io avessi frantumato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "levigavisses",
+                "traduzioni": [
+                    "che tu avessi levigato",
+                    "che tu avessi lisciato",
+                    "che tu avessi triturato",
+                    "che tu avessi frantumato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "levigavisset",
+                "traduzioni": [
+                    "che lui avesse levigato",
+                    "che lei avesse levigato",
+                    "che egli avesse levigato",
+                    "che lui avesse lisciato",
+                    "che lei avesse lisciato",
+                    "che egli avesse lisciato",
+                    "che lui avesse triturato",
+                    "che lei avesse triturato",
+                    "che egli avesse triturato",
+                    "che lui avesse frantumato",
+                    "che lei avesse frantumato",
+                    "che egli avesse frantumato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "levigavissēmus",
+                "traduzioni": [
+                    "che noi avessimo levigato",
+                    "che noi avessimo lisciato",
+                    "che noi avessimo triturato",
+                    "che noi avessimo frantumato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "levigavissētis",
+                "traduzioni": [
+                    "che voi aveste levigato",
+                    "che voi aveste lisciato",
+                    "che voi aveste triturato",
+                    "che voi aveste frantumato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "levigavissent",
+                "traduzioni": [
+                    "che loro avessero levigato",
+                    "che essi avessero levigato",
+                    "che loro avessero lisciato",
+                    "che essi avessero lisciato",
+                    "che loro avessero triturato",
+                    "che essi avessero triturato",
+                    "che loro avessero frantumato",
+                    "che essi avessero frantumato"
+                ]
+            }
+        ]
+    }
+}

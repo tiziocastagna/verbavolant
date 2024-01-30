@@ -1,0 +1,832 @@
+{
+    "identifier": "SEGREGO",
+    "conuigazione": "1",
+    "translation": [
+        "separare",
+        "segregare",
+        "allontanare",
+        "escludere"
+    ],
+    "valid_translations": [
+        "separare",
+        "segregare",
+        "allontanare",
+        "escludere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēgrĕgo",
+                "traduzioni": [
+                    "io separo",
+                    "io segrego",
+                    "io allontano",
+                    "io escludo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēgrĕgas",
+                "traduzioni": [
+                    "tu separi",
+                    "tu segreghi",
+                    "tu allontani",
+                    "tu escludi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēgrĕgat",
+                "traduzioni": [
+                    "lui separa",
+                    "lei separa",
+                    "egli separa",
+                    "lui segrega",
+                    "lei segrega",
+                    "egli segrega",
+                    "lui allontana",
+                    "lei allontana",
+                    "egli allontana",
+                    "lui esclude",
+                    "lei esclude",
+                    "egli esclude"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēgrĕgāmus",
+                "traduzioni": [
+                    "noi separiamo",
+                    "noi segreghiamo",
+                    "noi allontaniamo",
+                    "noi escludiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēgrĕgātis",
+                "traduzioni": [
+                    "voi separate",
+                    "voi segregate",
+                    "voi allontanate",
+                    "voi escludete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēgrĕgant",
+                "traduzioni": [
+                    "loro separano",
+                    "essi separano",
+                    "loro segregano",
+                    "essi segregano",
+                    "loro allontanano",
+                    "essi allontanano",
+                    "loro escludono",
+                    "essi escludono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēgrĕgābam",
+                "traduzioni": [
+                    "io separavo",
+                    "io segregavo",
+                    "io allontanavo",
+                    "io escludevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēgrĕgābas",
+                "traduzioni": [
+                    "tu separavi",
+                    "tu segregavi",
+                    "tu allontanavi",
+                    "tu escludevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēgrĕgābat",
+                "traduzioni": [
+                    "lui separava",
+                    "lei separava",
+                    "egli separava",
+                    "lui segregava",
+                    "lei segregava",
+                    "egli segregava",
+                    "lui allontanava",
+                    "lei allontanava",
+                    "egli allontanava",
+                    "lui escludeva",
+                    "lei escludeva",
+                    "egli escludeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēgrĕgabāmus",
+                "traduzioni": [
+                    "noi separavamo",
+                    "noi segregavamo",
+                    "noi allontanavamo",
+                    "noi escludevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēgrĕgabātis",
+                "traduzioni": [
+                    "voi separavate",
+                    "voi segregavate",
+                    "voi allontanavate",
+                    "voi escludevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēgrĕgābant",
+                "traduzioni": [
+                    "loro separavano",
+                    "essi separavano",
+                    "loro segregavano",
+                    "essi segregavano",
+                    "loro allontanavano",
+                    "essi allontanavano",
+                    "loro escludevano",
+                    "essi escludevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēgrĕgābo",
+                "traduzioni": [
+                    "io separerò",
+                    "io segregherò",
+                    "io allontanerò",
+                    "io escluderò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēgrĕgābis",
+                "traduzioni": [
+                    "tu separerai",
+                    "tu segregherai",
+                    "tu allontanerai",
+                    "tu escluderai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēgrĕgābit",
+                "traduzioni": [
+                    "lui separerà",
+                    "lei separerà",
+                    "egli separerà",
+                    "lui segregherà",
+                    "lei segregherà",
+                    "egli segregherà",
+                    "lui allontanerà",
+                    "lei allontanerà",
+                    "egli allontanerà",
+                    "lui escluderà",
+                    "lei escluderà",
+                    "egli escluderà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēgrĕgabĭmus",
+                "traduzioni": [
+                    "noi separeremo",
+                    "noi segregheremo",
+                    "noi allontaneremo",
+                    "noi escluderemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēgrĕgabĭtis",
+                "traduzioni": [
+                    "voi separerete",
+                    "voi segregherete",
+                    "voi allontanerete",
+                    "voi escluderete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēgrĕgābunt",
+                "traduzioni": [
+                    "loro separeranno",
+                    "essi separeranno",
+                    "loro segregheranno",
+                    "essi segregheranno",
+                    "loro allontaneranno",
+                    "essi allontaneranno",
+                    "loro escluderanno",
+                    "essi escluderanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "segregavi",
+                "traduzioni": [
+                    "io separai",
+                    "io ho separato",
+                    "io ebbi separato",
+                    "io segregai",
+                    "io ho segregato",
+                    "io ebbi segregato",
+                    "io allontanai",
+                    "io ho allontanato",
+                    "io ebbi allontanato",
+                    "io esclusi",
+                    "io ho escluso",
+                    "io ebbi escluso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "segregavisti",
+                "traduzioni": [
+                    "tu separasti",
+                    "tu hai separato",
+                    "tu avesti separato",
+                    "tu segregasti",
+                    "tu hai segregato",
+                    "tu avesti segregato",
+                    "tu allontanasti",
+                    "tu hai allontanato",
+                    "tu avesti allontanato",
+                    "tu escludesti",
+                    "tu hai escluso",
+                    "tu avesti escluso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "segregavit",
+                "traduzioni": [
+                    "lui separò",
+                    "lei separò",
+                    "egli separò",
+                    "lui ha separato",
+                    "lei ha separato",
+                    "egli ha separato",
+                    "lui ebbe separato",
+                    "lei ebbe separato",
+                    "egli ebbe separato",
+                    "lui segregò",
+                    "lei segregò",
+                    "egli segregò",
+                    "lui ha segregato",
+                    "lei ha segregato",
+                    "egli ha segregato",
+                    "lui ebbe segregato",
+                    "lei ebbe segregato",
+                    "egli ebbe segregato",
+                    "lui allontanò",
+                    "lei allontanò",
+                    "egli allontanò",
+                    "lui ha allontanato",
+                    "lei ha allontanato",
+                    "egli ha allontanato",
+                    "lui ebbe allontanato",
+                    "lei ebbe allontanato",
+                    "egli ebbe allontanato",
+                    "lui escluse",
+                    "lei escluse",
+                    "egli escluse",
+                    "lui ha escluso",
+                    "lei ha escluso",
+                    "egli ha escluso",
+                    "lui ebbe escluso",
+                    "lei ebbe escluso",
+                    "egli ebbe escluso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "segregavĭmus",
+                "traduzioni": [
+                    "noi separammo",
+                    "noi abbiamo separato",
+                    "noi avemmo separato",
+                    "noi segregammo",
+                    "noi abbiamo segregato",
+                    "noi avemmo segregato",
+                    "noi allontanammo",
+                    "noi abbiamo allontanato",
+                    "noi avemmo allontanato",
+                    "noi escludemmo",
+                    "noi abbiamo escluso",
+                    "noi avemmo escluso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "segregavistis",
+                "traduzioni": [
+                    "voi separaste",
+                    "voi avete separato",
+                    "voi aveste separato",
+                    "voi segregaste",
+                    "voi avete segregato",
+                    "voi aveste segregato",
+                    "voi allontanaste",
+                    "voi avete allontanato",
+                    "voi aveste allontanato",
+                    "voi escludeste",
+                    "voi avete escluso",
+                    "voi aveste escluso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "segregavērunt, segregavēre",
+                "traduzioni": [
+                    "loro separarono",
+                    "essi separarono",
+                    "loro hanno separato",
+                    "essi hanno separato",
+                    "loro ebbero separato",
+                    "essi ebbero separato",
+                    "loro segregarono",
+                    "essi segregarono",
+                    "loro hanno segregato",
+                    "essi hanno segregato",
+                    "loro ebbero segregato",
+                    "essi ebbero segregato",
+                    "loro allontanarono",
+                    "essi allontanarono",
+                    "loro hanno allontanato",
+                    "essi hanno allontanato",
+                    "loro ebbero allontanato",
+                    "essi ebbero allontanato",
+                    "loro esclusero",
+                    "essi esclusero",
+                    "loro hanno escluso",
+                    "essi hanno escluso",
+                    "loro ebbero escluso",
+                    "essi ebbero escluso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "segregavĕram",
+                "traduzioni": [
+                    "io avevo separato",
+                    "io avevo segregato",
+                    "io avevo allontanato",
+                    "io avevo escluso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "segregavĕras",
+                "traduzioni": [
+                    "tu avevi separato",
+                    "tu avevi segregato",
+                    "tu avevi allontanato",
+                    "tu avevi escluso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "segregavĕrat",
+                "traduzioni": [
+                    "lui aveva separato",
+                    "lei aveva separato",
+                    "egli aveva separato",
+                    "lui aveva segregato",
+                    "lei aveva segregato",
+                    "egli aveva segregato",
+                    "lui aveva allontanato",
+                    "lei aveva allontanato",
+                    "egli aveva allontanato",
+                    "lui aveva escluso",
+                    "lei aveva escluso",
+                    "egli aveva escluso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "segregaverāmus",
+                "traduzioni": [
+                    "noi avevamo separato",
+                    "noi avevamo segregato",
+                    "noi avevamo allontanato",
+                    "noi avevamo escluso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "segregaverātis",
+                "traduzioni": [
+                    "voi avevate separato",
+                    "voi avevate segregato",
+                    "voi avevate allontanato",
+                    "voi avevate escluso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "segregavĕrant",
+                "traduzioni": [
+                    "loro avevano separato",
+                    "essi avevano separato",
+                    "loro avevano segregato",
+                    "essi avevano segregato",
+                    "loro avevano allontanato",
+                    "essi avevano allontanato",
+                    "loro avevano escluso",
+                    "essi avevano escluso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "segregavĕro",
+                "traduzioni": [
+                    "io avrò separato",
+                    "io avrò segregato",
+                    "io avrò allontanato",
+                    "io avrò escluso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "segregavĕris",
+                "traduzioni": [
+                    "tu avrai separato",
+                    "tu avrai segregato",
+                    "tu avrai allontanato",
+                    "tu avrai escluso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "segregavĕrit",
+                "traduzioni": [
+                    "lui avrà separato",
+                    "lei avrà separato",
+                    "egli avrà separato",
+                    "lui avrà segregato",
+                    "lei avrà segregato",
+                    "egli avrà segregato",
+                    "lui avrà allontanato",
+                    "lei avrà allontanato",
+                    "egli avrà allontanato",
+                    "lui avrà escluso",
+                    "lei avrà escluso",
+                    "egli avrà escluso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "segregaverĭmus",
+                "traduzioni": [
+                    "noi avremo separato",
+                    "noi avremo segregato",
+                    "noi avremo allontanato",
+                    "noi avremo escluso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "segregaverĭtis",
+                "traduzioni": [
+                    "voi avrete separato",
+                    "voi avrete segregato",
+                    "voi avrete allontanato",
+                    "voi avrete escluso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "segregavĕrint",
+                "traduzioni": [
+                    "loro avranno separato",
+                    "essi avranno separato",
+                    "loro avranno segregato",
+                    "essi avranno segregato",
+                    "loro avranno allontanato",
+                    "essi avranno allontanato",
+                    "loro avranno escluso",
+                    "essi avranno escluso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēgrĕgem",
+                "traduzioni": [
+                    "che io separi",
+                    "che io segreghi",
+                    "che io allontani",
+                    "che io escluda"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēgrĕges",
+                "traduzioni": [
+                    "che tu separi",
+                    "che tu segreghi",
+                    "che tu allontani",
+                    "che tu escluda"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēgrĕget",
+                "traduzioni": [
+                    "che lui separi",
+                    "che lei separi",
+                    "che egli separi",
+                    "che lui segreghi",
+                    "che lei segreghi",
+                    "che egli segreghi",
+                    "che lui allontani",
+                    "che lei allontani",
+                    "che egli allontani",
+                    "che lui escluda",
+                    "che lei escluda",
+                    "che egli escluda"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēgrĕgēmus",
+                "traduzioni": [
+                    "che noi separiamo",
+                    "che noi segreghiamo",
+                    "che noi allontaniamo",
+                    "che noi escludiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēgrĕgētis",
+                "traduzioni": [
+                    "che voi separiate",
+                    "che voi segreghiate",
+                    "che voi allontaniate",
+                    "che voi escludiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēgrĕgent",
+                "traduzioni": [
+                    "che loro separino",
+                    "che essi separino",
+                    "che loro segreghino",
+                    "che essi segreghino",
+                    "che loro allontanino",
+                    "che essi allontanino",
+                    "che loro escludano",
+                    "che essi escludano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sēgrĕgārem",
+                "traduzioni": [
+                    "che io separassi",
+                    "che io segregassi",
+                    "che io allontanassi",
+                    "che io escludessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sēgrĕgāres",
+                "traduzioni": [
+                    "che tu separassi",
+                    "che tu segregassi",
+                    "che tu allontanassi",
+                    "che tu escludessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sēgrĕgāret",
+                "traduzioni": [
+                    "che lui separasse",
+                    "che lei separasse",
+                    "che egli separasse",
+                    "che lui segregasse",
+                    "che lei segregasse",
+                    "che egli segregasse",
+                    "che lui allontanasse",
+                    "che lei allontanasse",
+                    "che egli allontanasse",
+                    "che lui escludesse",
+                    "che lei escludesse",
+                    "che egli escludesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sēgrĕgarēmus",
+                "traduzioni": [
+                    "che noi separassimo",
+                    "che noi segregassimo",
+                    "che noi allontanassimo",
+                    "che noi escludessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sēgrĕgarētis",
+                "traduzioni": [
+                    "che voi separaste",
+                    "che voi segregaste",
+                    "che voi allontanaste",
+                    "che voi escludeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sēgrĕgārent",
+                "traduzioni": [
+                    "che loro separassero",
+                    "che essi separassero",
+                    "che loro segregassero",
+                    "che essi segregassero",
+                    "che loro allontanassero",
+                    "che essi allontanassero",
+                    "che loro escludessero",
+                    "che essi escludessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "segregavĕrim",
+                "traduzioni": [
+                    "che io abbia separato",
+                    "che io abbia segregato",
+                    "che io abbia allontanato",
+                    "che io abbia escluso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "segregavĕris",
+                "traduzioni": [
+                    "che tu abbia separato",
+                    "che tu abbia segregato",
+                    "che tu abbia allontanato",
+                    "che tu abbia escluso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "segregavĕrit",
+                "traduzioni": [
+                    "che lui abbia separato",
+                    "che lei abbia separato",
+                    "che egli abbia separato",
+                    "che lui abbia segregato",
+                    "che lei abbia segregato",
+                    "che egli abbia segregato",
+                    "che lui abbia allontanato",
+                    "che lei abbia allontanato",
+                    "che egli abbia allontanato",
+                    "che lui abbia escluso",
+                    "che lei abbia escluso",
+                    "che egli abbia escluso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "segregaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo separato",
+                    "che noi abbiamo segregato",
+                    "che noi abbiamo allontanato",
+                    "che noi abbiamo escluso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "segregaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate separato",
+                    "che voi abbiate segregato",
+                    "che voi abbiate allontanato",
+                    "che voi abbiate escluso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "segregavĕrint",
+                "traduzioni": [
+                    "che loro abbiano separato",
+                    "che essi abbiano separato",
+                    "che loro abbiano segregato",
+                    "che essi abbiano segregato",
+                    "che loro abbiano allontanato",
+                    "che essi abbiano allontanato",
+                    "che loro abbiano escluso",
+                    "che essi abbiano escluso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "segregavissem",
+                "traduzioni": [
+                    "che io avessi separato",
+                    "che io avessi segregato",
+                    "che io avessi allontanato",
+                    "che io avessi escluso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "segregavisses",
+                "traduzioni": [
+                    "che tu avessi separato",
+                    "che tu avessi segregato",
+                    "che tu avessi allontanato",
+                    "che tu avessi escluso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "segregavisset",
+                "traduzioni": [
+                    "che lui avesse separato",
+                    "che lei avesse separato",
+                    "che egli avesse separato",
+                    "che lui avesse segregato",
+                    "che lei avesse segregato",
+                    "che egli avesse segregato",
+                    "che lui avesse allontanato",
+                    "che lei avesse allontanato",
+                    "che egli avesse allontanato",
+                    "che lui avesse escluso",
+                    "che lei avesse escluso",
+                    "che egli avesse escluso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "segregavissēmus",
+                "traduzioni": [
+                    "che noi avessimo separato",
+                    "che noi avessimo segregato",
+                    "che noi avessimo allontanato",
+                    "che noi avessimo escluso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "segregavissētis",
+                "traduzioni": [
+                    "che voi aveste separato",
+                    "che voi aveste segregato",
+                    "che voi aveste allontanato",
+                    "che voi aveste escluso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "segregavissent",
+                "traduzioni": [
+                    "che loro avessero separato",
+                    "che essi avessero separato",
+                    "che loro avessero segregato",
+                    "che essi avessero segregato",
+                    "che loro avessero allontanato",
+                    "che essi avessero allontanato",
+                    "che loro avessero escluso",
+                    "che essi avessero escluso"
+                ]
+            }
+        ]
+    }
+}

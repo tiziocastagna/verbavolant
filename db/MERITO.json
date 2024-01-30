@@ -1,0 +1,505 @@
+{
+    "identifier": "MERITO",
+    "conuigazione": "1",
+    "translation": [
+        "(transitivo) fruttare",
+        "rendere",
+        "(transitivo) guadagnare",
+        "(intransitivo) prestare servizio militare"
+    ],
+    "valid_translations": [
+        "rendere"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "mĕrĭto",
+                "traduzioni": [
+                    "io rendo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "mĕrĭtas",
+                "traduzioni": [
+                    "tu rendi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "mĕrĭtat",
+                "traduzioni": [
+                    "lui rende",
+                    "lei rende",
+                    "egli rende"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mĕrĭtāmus",
+                "traduzioni": [
+                    "noi rendiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mĕrĭtātis",
+                "traduzioni": [
+                    "voi rendete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mĕrĭtant",
+                "traduzioni": [
+                    "loro rendono",
+                    "essi rendono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "mĕrĭtābam",
+                "traduzioni": [
+                    "io rendevo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "mĕrĭtābas",
+                "traduzioni": [
+                    "tu rendevi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "mĕrĭtābat",
+                "traduzioni": [
+                    "lui rendeva",
+                    "lei rendeva",
+                    "egli rendeva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mĕrĭtabāmus",
+                "traduzioni": [
+                    "noi rendevamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mĕrĭtabātis",
+                "traduzioni": [
+                    "voi rendevate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mĕrĭtābant",
+                "traduzioni": [
+                    "loro rendevano",
+                    "essi rendevano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "mĕrĭtābo",
+                "traduzioni": [
+                    "io renderò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "mĕrĭtābis",
+                "traduzioni": [
+                    "tu renderai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "mĕrĭtābit",
+                "traduzioni": [
+                    "lui renderà",
+                    "lei renderà",
+                    "egli renderà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mĕrĭtabĭmus",
+                "traduzioni": [
+                    "noi renderemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mĕrĭtabĭtis",
+                "traduzioni": [
+                    "voi renderete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mĕrĭtābunt",
+                "traduzioni": [
+                    "loro renderanno",
+                    "essi renderanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "meritavi",
+                "traduzioni": [
+                    "io resi",
+                    "io ho reso",
+                    "io ebbi reso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "meritavisti",
+                "traduzioni": [
+                    "tu rendesti",
+                    "tu hai reso",
+                    "tu avesti reso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "meritavit",
+                "traduzioni": [
+                    "lui rese",
+                    "lei rese",
+                    "egli rese",
+                    "lui ha reso",
+                    "lei ha reso",
+                    "egli ha reso",
+                    "lui ebbe reso",
+                    "lei ebbe reso",
+                    "egli ebbe reso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "meritavĭmus",
+                "traduzioni": [
+                    "noi rendemmo",
+                    "noi abbiamo reso",
+                    "noi avemmo reso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "meritavistis",
+                "traduzioni": [
+                    "voi rendeste",
+                    "voi avete reso",
+                    "voi aveste reso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "meritavēreunt, meritavēre",
+                "traduzioni": [
+                    "loro resero",
+                    "essi resero",
+                    "loro hanno reso",
+                    "essi hanno reso",
+                    "loro ebbero reso",
+                    "essi ebbero reso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "meritavĕram",
+                "traduzioni": [
+                    "io avevo reso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "meritavĕras",
+                "traduzioni": [
+                    "tu avevi reso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "meritavĕrat",
+                "traduzioni": [
+                    "lui aveva reso",
+                    "lei aveva reso",
+                    "egli aveva reso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "meritaverāmus",
+                "traduzioni": [
+                    "noi avevamo reso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "meritaverātis",
+                "traduzioni": [
+                    "voi avevate reso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "meritavĕrant",
+                "traduzioni": [
+                    "loro avevano reso",
+                    "essi avevano reso"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "meritavĕro",
+                "traduzioni": [
+                    "io avrò reso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "meritavĕris",
+                "traduzioni": [
+                    "tu avrai reso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "meritavĕrit",
+                "traduzioni": [
+                    "lui avrà reso",
+                    "lei avrà reso",
+                    "egli avrà reso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "meritaverĭmus",
+                "traduzioni": [
+                    "noi avremo reso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "meritaverĭtis",
+                "traduzioni": [
+                    "voi avrete reso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "meritavĕrint",
+                "traduzioni": [
+                    "loro avranno reso",
+                    "essi avranno reso"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "mĕrĭtem",
+                "traduzioni": [
+                    "che io renda"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "mĕrĭtes",
+                "traduzioni": [
+                    "che tu renda"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "mĕrĭtet",
+                "traduzioni": [
+                    "che lui renda",
+                    "che lei renda",
+                    "che egli renda"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mĕrĭtēmus",
+                "traduzioni": [
+                    "che noi rendiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mĕrĭtētis",
+                "traduzioni": [
+                    "che voi rendiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mĕrĭtent",
+                "traduzioni": [
+                    "che loro rendano",
+                    "che essi rendano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "mĕrĭtārem",
+                "traduzioni": [
+                    "che io rendessi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "mĕrĭtāres",
+                "traduzioni": [
+                    "che tu rendessi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "mĕrĭtāret",
+                "traduzioni": [
+                    "che lui rendesse",
+                    "che lei rendesse",
+                    "che egli rendesse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "mĕrĭtarēmus",
+                "traduzioni": [
+                    "che noi rendessimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "mĕrĭtarētis",
+                "traduzioni": [
+                    "che voi rendeste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "mĕrĭtārent",
+                "traduzioni": [
+                    "che loro rendessero",
+                    "che essi rendessero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "meritavĕrim",
+                "traduzioni": [
+                    "che io abbia reso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "meritavĕris",
+                "traduzioni": [
+                    "che tu abbia reso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "meritavĕrit",
+                "traduzioni": [
+                    "che lui abbia reso",
+                    "che lei abbia reso",
+                    "che egli abbia reso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "meritaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo reso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "meritaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate reso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "meritavĕrint",
+                "traduzioni": [
+                    "che loro abbiano reso",
+                    "che essi abbiano reso"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "meritavissem",
+                "traduzioni": [
+                    "che io avessi reso"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "meritavisses",
+                "traduzioni": [
+                    "che tu avessi reso"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "meritavisset",
+                "traduzioni": [
+                    "che lui avesse reso",
+                    "che lei avesse reso",
+                    "che egli avesse reso"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "meritavissēmus",
+                "traduzioni": [
+                    "che noi avessimo reso"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "meritavissētis",
+                "traduzioni": [
+                    "che voi aveste reso"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "meritavissent",
+                "traduzioni": [
+                    "che loro avessero reso",
+                    "che essi avessero reso"
+                ]
+            }
+        ]
+    }
+}

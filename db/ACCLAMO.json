@@ -1,0 +1,833 @@
+{
+    "identifier": "ACCLAMO",
+    "conuigazione": "1",
+    "translation": [
+        "fischiare",
+        "(intransitivo) acclamare",
+        "applaudire",
+        "gridare",
+        "proclamare"
+    ],
+    "valid_translations": [
+        "fischiare",
+        "applaudire",
+        "gridare",
+        "proclamare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "acclāmo",
+                "traduzioni": [
+                    "io fischio",
+                    "io applaud(isc)o",
+                    "io grido",
+                    "io proclamo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acclāmas",
+                "traduzioni": [
+                    "tu fischi",
+                    "tu applaud(isc)i",
+                    "tu gridi",
+                    "tu proclami"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acclāmat",
+                "traduzioni": [
+                    "lui fischia",
+                    "lei fischia",
+                    "egli fischia",
+                    "lui applaud(isc)e",
+                    "lei applaud(isc)e",
+                    "egli applaud(isc)e",
+                    "lui grida",
+                    "lei grida",
+                    "egli grida",
+                    "lui proclama",
+                    "lei proclama",
+                    "egli proclama"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acclāmāmus",
+                "traduzioni": [
+                    "noi fischiamo",
+                    "noi applaudiamo",
+                    "noi gridiamo",
+                    "noi proclamiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acclāmātis",
+                "traduzioni": [
+                    "voi fischiate",
+                    "voi applaudite",
+                    "voi gridate",
+                    "voi proclamate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acclāmant",
+                "traduzioni": [
+                    "loro fischiano",
+                    "essi fischiano",
+                    "loro applaud(isc)ono",
+                    "essi applaud(isc)ono",
+                    "loro gridano",
+                    "essi gridano",
+                    "loro proclamano",
+                    "essi proclamano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "acclāmābam",
+                "traduzioni": [
+                    "io fischiavo",
+                    "io applaudivo",
+                    "io gridavo",
+                    "io proclamavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acclāmābas",
+                "traduzioni": [
+                    "tu fischiavi",
+                    "tu applaudivi",
+                    "tu gridavi",
+                    "tu proclamavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acclāmābat",
+                "traduzioni": [
+                    "lui fischiava",
+                    "lei fischiava",
+                    "egli fischiava",
+                    "lui applaudiva",
+                    "lei applaudiva",
+                    "egli applaudiva",
+                    "lui gridava",
+                    "lei gridava",
+                    "egli gridava",
+                    "lui proclamava",
+                    "lei proclamava",
+                    "egli proclamava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acclāmabāmus",
+                "traduzioni": [
+                    "noi fischiavamo",
+                    "noi applaudivamo",
+                    "noi gridavamo",
+                    "noi proclamavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acclāmabātis",
+                "traduzioni": [
+                    "voi fischiavate",
+                    "voi applaudivate",
+                    "voi gridavate",
+                    "voi proclamavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acclāmābant",
+                "traduzioni": [
+                    "loro fischiavano",
+                    "essi fischiavano",
+                    "loro applaudivano",
+                    "essi applaudivano",
+                    "loro gridavano",
+                    "essi gridavano",
+                    "loro proclamavano",
+                    "essi proclamavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "acclāmābo",
+                "traduzioni": [
+                    "io fischierò",
+                    "io applaudirò",
+                    "io griderò",
+                    "io proclamerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acclāmābis",
+                "traduzioni": [
+                    "tu fischierai",
+                    "tu applaudirai",
+                    "tu griderai",
+                    "tu proclamerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acclāmābit",
+                "traduzioni": [
+                    "lui fischierà",
+                    "lei fischierà",
+                    "egli fischierà",
+                    "lui applaudirà",
+                    "lei applaudirà",
+                    "egli applaudirà",
+                    "lui griderà",
+                    "lei griderà",
+                    "egli griderà",
+                    "lui proclamerà",
+                    "lei proclamerà",
+                    "egli proclamerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acclāmabĭmus",
+                "traduzioni": [
+                    "noi fischieremo",
+                    "noi applaudiremo",
+                    "noi grideremo",
+                    "noi proclameremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acclāmabĭtis",
+                "traduzioni": [
+                    "voi fischierete",
+                    "voi applaudirete",
+                    "voi griderete",
+                    "voi proclamerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acclāmābunt",
+                "traduzioni": [
+                    "loro fischieranno",
+                    "essi fischieranno",
+                    "loro applaudiranno",
+                    "essi applaudiranno",
+                    "loro grideranno",
+                    "essi grideranno",
+                    "loro proclameranno",
+                    "essi proclameranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "acclamavi",
+                "traduzioni": [
+                    "io fischiai",
+                    "io ho fischiato",
+                    "io ebbi fischiato",
+                    "io applaudii",
+                    "io ho applaudito",
+                    "io ebbi applaudito",
+                    "io gridai",
+                    "io ho gridato",
+                    "io ebbi gridato",
+                    "io proclamai",
+                    "io ho proclamato",
+                    "io ebbi proclamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acclamavisti",
+                "traduzioni": [
+                    "tu fischiasti",
+                    "tu hai fischiato",
+                    "tu avesti fischiato",
+                    "tu applaudisti",
+                    "tu hai applaudito",
+                    "tu avesti applaudito",
+                    "tu gridasti",
+                    "tu hai gridato",
+                    "tu avesti gridato",
+                    "tu proclamasti",
+                    "tu hai proclamato",
+                    "tu avesti proclamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acclamavit",
+                "traduzioni": [
+                    "lui fischiò",
+                    "lei fischiò",
+                    "egli fischiò",
+                    "lui ha fischiato",
+                    "lei ha fischiato",
+                    "egli ha fischiato",
+                    "lui ebbe fischiato",
+                    "lei ebbe fischiato",
+                    "egli ebbe fischiato",
+                    "lui applaudì",
+                    "lei applaudì",
+                    "egli applaudì",
+                    "lui ha applaudito",
+                    "lei ha applaudito",
+                    "egli ha applaudito",
+                    "lui ebbe applaudito",
+                    "lei ebbe applaudito",
+                    "egli ebbe applaudito",
+                    "lui gridò",
+                    "lei gridò",
+                    "egli gridò",
+                    "lui ha gridato",
+                    "lei ha gridato",
+                    "egli ha gridato",
+                    "lui ebbe gridato",
+                    "lei ebbe gridato",
+                    "egli ebbe gridato",
+                    "lui proclamò",
+                    "lei proclamò",
+                    "egli proclamò",
+                    "lui ha proclamato",
+                    "lei ha proclamato",
+                    "egli ha proclamato",
+                    "lui ebbe proclamato",
+                    "lei ebbe proclamato",
+                    "egli ebbe proclamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acclamavĭmus",
+                "traduzioni": [
+                    "noi fischiammo",
+                    "noi abbiamo fischiato",
+                    "noi avemmo fischiato",
+                    "noi applaudimmo",
+                    "noi abbiamo applaudito",
+                    "noi avemmo applaudito",
+                    "noi gridammo",
+                    "noi abbiamo gridato",
+                    "noi avemmo gridato",
+                    "noi proclamammo",
+                    "noi abbiamo proclamato",
+                    "noi avemmo proclamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acclamavistis",
+                "traduzioni": [
+                    "voi fischiaste",
+                    "voi avete fischiato",
+                    "voi aveste fischiato",
+                    "voi applaudiste",
+                    "voi avete applaudito",
+                    "voi aveste applaudito",
+                    "voi gridaste",
+                    "voi avete gridato",
+                    "voi aveste gridato",
+                    "voi proclamaste",
+                    "voi avete proclamato",
+                    "voi aveste proclamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acclamavēreunt, acclamavēre",
+                "traduzioni": [
+                    "loro fischiarono",
+                    "essi fischiarono",
+                    "loro hanno fischiato",
+                    "essi hanno fischiato",
+                    "loro ebbero fischiato",
+                    "essi ebbero fischiato",
+                    "loro applaudirono",
+                    "essi applaudirono",
+                    "loro hanno applaudito",
+                    "essi hanno applaudito",
+                    "loro ebbero applaudito",
+                    "essi ebbero applaudito",
+                    "loro gridarono",
+                    "essi gridarono",
+                    "loro hanno gridato",
+                    "essi hanno gridato",
+                    "loro ebbero gridato",
+                    "essi ebbero gridato",
+                    "loro proclamarono",
+                    "essi proclamarono",
+                    "loro hanno proclamato",
+                    "essi hanno proclamato",
+                    "loro ebbero proclamato",
+                    "essi ebbero proclamato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "acclamavĕram",
+                "traduzioni": [
+                    "io avevo fischiato",
+                    "io avevo applaudito",
+                    "io avevo gridato",
+                    "io avevo proclamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acclamavĕras",
+                "traduzioni": [
+                    "tu avevi fischiato",
+                    "tu avevi applaudito",
+                    "tu avevi gridato",
+                    "tu avevi proclamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acclamavĕrat",
+                "traduzioni": [
+                    "lui aveva fischiato",
+                    "lei aveva fischiato",
+                    "egli aveva fischiato",
+                    "lui aveva applaudito",
+                    "lei aveva applaudito",
+                    "egli aveva applaudito",
+                    "lui aveva gridato",
+                    "lei aveva gridato",
+                    "egli aveva gridato",
+                    "lui aveva proclamato",
+                    "lei aveva proclamato",
+                    "egli aveva proclamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acclamaverāmus",
+                "traduzioni": [
+                    "noi avevamo fischiato",
+                    "noi avevamo applaudito",
+                    "noi avevamo gridato",
+                    "noi avevamo proclamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acclamaverātis",
+                "traduzioni": [
+                    "voi avevate fischiato",
+                    "voi avevate applaudito",
+                    "voi avevate gridato",
+                    "voi avevate proclamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acclamavĕrant",
+                "traduzioni": [
+                    "loro avevano fischiato",
+                    "essi avevano fischiato",
+                    "loro avevano applaudito",
+                    "essi avevano applaudito",
+                    "loro avevano gridato",
+                    "essi avevano gridato",
+                    "loro avevano proclamato",
+                    "essi avevano proclamato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "acclamavĕro",
+                "traduzioni": [
+                    "io avrò fischiato",
+                    "io avrò applaudito",
+                    "io avrò gridato",
+                    "io avrò proclamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acclamavĕris",
+                "traduzioni": [
+                    "tu avrai fischiato",
+                    "tu avrai applaudito",
+                    "tu avrai gridato",
+                    "tu avrai proclamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acclamavĕrit",
+                "traduzioni": [
+                    "lui avrà fischiato",
+                    "lei avrà fischiato",
+                    "egli avrà fischiato",
+                    "lui avrà applaudito",
+                    "lei avrà applaudito",
+                    "egli avrà applaudito",
+                    "lui avrà gridato",
+                    "lei avrà gridato",
+                    "egli avrà gridato",
+                    "lui avrà proclamato",
+                    "lei avrà proclamato",
+                    "egli avrà proclamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acclamaverĭmus",
+                "traduzioni": [
+                    "noi avremo fischiato",
+                    "noi avremo applaudito",
+                    "noi avremo gridato",
+                    "noi avremo proclamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acclamaverĭtis",
+                "traduzioni": [
+                    "voi avrete fischiato",
+                    "voi avrete applaudito",
+                    "voi avrete gridato",
+                    "voi avrete proclamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acclamavĕrint",
+                "traduzioni": [
+                    "loro avranno fischiato",
+                    "essi avranno fischiato",
+                    "loro avranno applaudito",
+                    "essi avranno applaudito",
+                    "loro avranno gridato",
+                    "essi avranno gridato",
+                    "loro avranno proclamato",
+                    "essi avranno proclamato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "acclāmem",
+                "traduzioni": [
+                    "che io fischi",
+                    "che io applaud(isc)a",
+                    "che io gridi",
+                    "che io proclami"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acclāmes",
+                "traduzioni": [
+                    "che tu fischi",
+                    "che tu applaud(isc)a",
+                    "che tu gridi",
+                    "che tu proclami"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acclāmet",
+                "traduzioni": [
+                    "che lui fischi",
+                    "che lei fischi",
+                    "che egli fischi",
+                    "che lui applaud(isc)a",
+                    "che lei applaud(isc)a",
+                    "che egli applaud(isc)a",
+                    "che lui gridi",
+                    "che lei gridi",
+                    "che egli gridi",
+                    "che lui proclami",
+                    "che lei proclami",
+                    "che egli proclami"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acclāmēmus",
+                "traduzioni": [
+                    "che noi fischiamo",
+                    "che noi applaudiamo",
+                    "che noi gridiamo",
+                    "che noi proclamiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acclāmētis",
+                "traduzioni": [
+                    "che voi fischiate",
+                    "che voi applaudiate",
+                    "che voi gridiate",
+                    "che voi proclamiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acclāment",
+                "traduzioni": [
+                    "che loro fischino",
+                    "che essi fischino",
+                    "che loro applaud(isc)ano",
+                    "che essi applaud(isc)ano",
+                    "che loro gridino",
+                    "che essi gridino",
+                    "che loro proclamino",
+                    "che essi proclamino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "acclāmārem",
+                "traduzioni": [
+                    "che io fischiassi",
+                    "che io applaudissi",
+                    "che io gridassi",
+                    "che io proclamassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acclāmāres",
+                "traduzioni": [
+                    "che tu fischiassi",
+                    "che tu applaudissi",
+                    "che tu gridassi",
+                    "che tu proclamassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acclāmāret",
+                "traduzioni": [
+                    "che lui fischiasse",
+                    "che lei fischiasse",
+                    "che egli fischiasse",
+                    "che lui applaudisse",
+                    "che lei applaudisse",
+                    "che egli applaudisse",
+                    "che lui gridasse",
+                    "che lei gridasse",
+                    "che egli gridasse",
+                    "che lui proclamasse",
+                    "che lei proclamasse",
+                    "che egli proclamasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acclāmarēmus",
+                "traduzioni": [
+                    "che noi fischiassimo",
+                    "che noi applaudissimo",
+                    "che noi gridassimo",
+                    "che noi proclamassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acclāmarētis",
+                "traduzioni": [
+                    "che voi fischiaste",
+                    "che voi applaudiste",
+                    "che voi gridaste",
+                    "che voi proclamaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acclāmārent",
+                "traduzioni": [
+                    "che loro fischiassero",
+                    "che essi fischiassero",
+                    "che loro applaudissero",
+                    "che essi applaudissero",
+                    "che loro gridassero",
+                    "che essi gridassero",
+                    "che loro proclamassero",
+                    "che essi proclamassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "acclamavĕrim",
+                "traduzioni": [
+                    "che io abbia fischiato",
+                    "che io abbia applaudito",
+                    "che io abbia gridato",
+                    "che io abbia proclamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acclamavĕris",
+                "traduzioni": [
+                    "che tu abbia fischiato",
+                    "che tu abbia applaudito",
+                    "che tu abbia gridato",
+                    "che tu abbia proclamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acclamavĕrit",
+                "traduzioni": [
+                    "che lui abbia fischiato",
+                    "che lei abbia fischiato",
+                    "che egli abbia fischiato",
+                    "che lui abbia applaudito",
+                    "che lei abbia applaudito",
+                    "che egli abbia applaudito",
+                    "che lui abbia gridato",
+                    "che lei abbia gridato",
+                    "che egli abbia gridato",
+                    "che lui abbia proclamato",
+                    "che lei abbia proclamato",
+                    "che egli abbia proclamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acclamaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo fischiato",
+                    "che noi abbiamo applaudito",
+                    "che noi abbiamo gridato",
+                    "che noi abbiamo proclamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acclamaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate fischiato",
+                    "che voi abbiate applaudito",
+                    "che voi abbiate gridato",
+                    "che voi abbiate proclamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acclamavĕrint",
+                "traduzioni": [
+                    "che loro abbiano fischiato",
+                    "che essi abbiano fischiato",
+                    "che loro abbiano applaudito",
+                    "che essi abbiano applaudito",
+                    "che loro abbiano gridato",
+                    "che essi abbiano gridato",
+                    "che loro abbiano proclamato",
+                    "che essi abbiano proclamato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "acclamavissem",
+                "traduzioni": [
+                    "che io avessi fischiato",
+                    "che io avessi applaudito",
+                    "che io avessi gridato",
+                    "che io avessi proclamato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "acclamavisses",
+                "traduzioni": [
+                    "che tu avessi fischiato",
+                    "che tu avessi applaudito",
+                    "che tu avessi gridato",
+                    "che tu avessi proclamato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "acclamavisset",
+                "traduzioni": [
+                    "che lui avesse fischiato",
+                    "che lei avesse fischiato",
+                    "che egli avesse fischiato",
+                    "che lui avesse applaudito",
+                    "che lei avesse applaudito",
+                    "che egli avesse applaudito",
+                    "che lui avesse gridato",
+                    "che lei avesse gridato",
+                    "che egli avesse gridato",
+                    "che lui avesse proclamato",
+                    "che lei avesse proclamato",
+                    "che egli avesse proclamato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "acclamavissēmus",
+                "traduzioni": [
+                    "che noi avessimo fischiato",
+                    "che noi avessimo applaudito",
+                    "che noi avessimo gridato",
+                    "che noi avessimo proclamato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "acclamavissētis",
+                "traduzioni": [
+                    "che voi aveste fischiato",
+                    "che voi aveste applaudito",
+                    "che voi aveste gridato",
+                    "che voi aveste proclamato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "acclamavissent",
+                "traduzioni": [
+                    "che loro avessero fischiato",
+                    "che essi avessero fischiato",
+                    "che loro avessero applaudito",
+                    "che essi avessero applaudito",
+                    "che loro avessero gridato",
+                    "che essi avessero gridato",
+                    "che loro avessero proclamato",
+                    "che essi avessero proclamato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,784 @@
+{
+    "identifier": "TERREO",
+    "conuigazione": "2",
+    "translation": [
+        "atterrire",
+        "spaventare",
+        "impaurire",
+        "ab + ablativo; ne o quominus + congiuntivo o infinito) impedire",
+        "far fuggire"
+    ],
+    "valid_translations": [
+        "atterrire",
+        "spaventare",
+        "impaurire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "terrĕo",
+                "traduzioni": [
+                    "io atterrisco",
+                    "io spavento",
+                    "io impaurisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "terres",
+                "traduzioni": [
+                    "tu atterrisci",
+                    "tu spaventi",
+                    "tu impaurisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "terret",
+                "traduzioni": [
+                    "lui atterrisce",
+                    "lei atterrisce",
+                    "egli atterrisce",
+                    "lui spaventa",
+                    "lei spaventa",
+                    "egli spaventa",
+                    "lui impaurisce",
+                    "lei impaurisce",
+                    "egli impaurisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "terrēmus",
+                "traduzioni": [
+                    "noi atterriamo",
+                    "noi spaventiamo",
+                    "noi impauriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "terrētis",
+                "traduzioni": [
+                    "voi atterrite",
+                    "voi spaventate",
+                    "voi impaurite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "terrent",
+                "traduzioni": [
+                    "loro atterriscono",
+                    "essi atterriscono",
+                    "loro spaventano",
+                    "essi spaventano",
+                    "loro impauriscono",
+                    "essi impauriscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "terrēbam",
+                "traduzioni": [
+                    "io atterrivo",
+                    "io spaventavo",
+                    "io impaurivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "terrēbas",
+                "traduzioni": [
+                    "tu atterrivi",
+                    "tu spaventavi",
+                    "tu impaurivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "terrēbat",
+                "traduzioni": [
+                    "lui atterriva",
+                    "lei atterriva",
+                    "egli atterriva",
+                    "lui spaventava",
+                    "lei spaventava",
+                    "egli spaventava",
+                    "lui impauriva",
+                    "lei impauriva",
+                    "egli impauriva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "terrabāmus",
+                "traduzioni": [
+                    "noi atterrivamo",
+                    "noi spaventavamo",
+                    "noi impaurivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "terrebātis",
+                "traduzioni": [
+                    "voi atterrivate",
+                    "voi spaventavate",
+                    "voi impaurivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "terrēbant",
+                "traduzioni": [
+                    "loro atterrivano",
+                    "essi atterrivano",
+                    "loro spaventavano",
+                    "essi spaventavano",
+                    "loro impaurivano",
+                    "essi impaurivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "terrēbo",
+                "traduzioni": [
+                    "io atterrirò",
+                    "io spaventerò",
+                    "io impaurirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "terrēbis",
+                "traduzioni": [
+                    "tu atterrirai",
+                    "tu spaventerai",
+                    "tu impaurirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "terrēbit",
+                "traduzioni": [
+                    "lui atterrirà",
+                    "lei atterrirà",
+                    "egli atterrirà",
+                    "lui spaventerà",
+                    "lei spaventerà",
+                    "egli spaventerà",
+                    "lui impaurirà",
+                    "lei impaurirà",
+                    "egli impaurirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "terrebĭmus",
+                "traduzioni": [
+                    "noi atterriremo",
+                    "noi spaventeremo",
+                    "noi impauriremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "terrebĭtis",
+                "traduzioni": [
+                    "voi atterrirete",
+                    "voi spaventerete",
+                    "voi impaurirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "terrēbunt",
+                "traduzioni": [
+                    "loro atterriranno",
+                    "essi atterriranno",
+                    "loro spaventeranno",
+                    "essi spaventeranno",
+                    "loro impauriranno",
+                    "essi impauriranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "terrui",
+                "traduzioni": [
+                    "io atterrii",
+                    "io sono atterrito",
+                    "io sono atterrita",
+                    "io fui atterrito",
+                    "io fui atterrita",
+                    "io spaventai",
+                    "io ho spaventato",
+                    "io ebbi spaventato",
+                    "io impaurii",
+                    "io sono impaurito",
+                    "io sono impaurita",
+                    "io fui impaurito",
+                    "io fui impaurita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "terruisti",
+                "traduzioni": [
+                    "tu atterristi",
+                    "tu sei atterrito",
+                    "tu sei atterrita",
+                    "tu fosti atterrito",
+                    "tu fosti atterrita",
+                    "tu spaventasti",
+                    "tu hai spaventato",
+                    "tu avesti spaventato",
+                    "tu impauristi",
+                    "tu sei impaurito",
+                    "tu sei impaurita",
+                    "tu fosti impaurito",
+                    "tu fosti impaurita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "terruit",
+                "traduzioni": [
+                    "lui atterrì",
+                    "lei atterrì",
+                    "egli atterrì",
+                    "lui è atterrito",
+                    "lei è atterrita",
+                    "egli è atterrito",
+                    "lui fu atterrito",
+                    "lei fu atterrita",
+                    "egli fu atterrito",
+                    "lui spaventò",
+                    "lei spaventò",
+                    "egli spaventò",
+                    "lui ha spaventato",
+                    "lei ha spaventato",
+                    "egli ha spaventato",
+                    "lui ebbe spaventato",
+                    "lei ebbe spaventato",
+                    "egli ebbe spaventato",
+                    "lui impaurì",
+                    "lei impaurì",
+                    "egli impaurì",
+                    "lui è impaurito",
+                    "lei è impaurita",
+                    "egli è impaurito",
+                    "lui fu impaurito",
+                    "lei fu impaurita",
+                    "egli fu impaurito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "terruĭmus",
+                "traduzioni": [
+                    "noi atterrimmo",
+                    "noi siamo atterriti",
+                    "noi siamo atterrite",
+                    "noi fummo atterriti",
+                    "noi fummo atterrite",
+                    "noi spaventammo",
+                    "noi abbiamo spaventato",
+                    "noi avemmo spaventato",
+                    "noi impaurimmo",
+                    "noi siamo impauriti",
+                    "noi siamo impaurite",
+                    "noi fummo impauriti",
+                    "noi fummo impaurite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "terruistis",
+                "traduzioni": [
+                    "voi atterriste",
+                    "voi siete atterriti",
+                    "voi siete atterrite",
+                    "voi foste atterriti",
+                    "voi foste atterrite",
+                    "voi spaventaste",
+                    "voi avete spaventato",
+                    "voi aveste spaventato",
+                    "voi impauriste",
+                    "voi siete impauriti",
+                    "voi siete impaurite",
+                    "voi foste impauriti",
+                    "voi foste impaurite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "terruērunt, terruēre",
+                "traduzioni": [
+                    "loro atterrirono",
+                    "essi atterrirono",
+                    "loro sono atterriti",
+                    "loro sono atterrite",
+                    "essi sono atterriti",
+                    "loro furono atterriti",
+                    "loro furono atterrite",
+                    "essi furono atterriti",
+                    "loro spaventarono",
+                    "essi spaventarono",
+                    "loro hanno spaventato",
+                    "essi hanno spaventato",
+                    "loro ebbero spaventato",
+                    "essi ebbero spaventato",
+                    "loro impaurirono",
+                    "essi impaurirono",
+                    "loro sono impauriti",
+                    "loro sono impaurite",
+                    "essi sono impauriti",
+                    "loro furono impauriti",
+                    "loro furono impaurite",
+                    "essi furono impauriti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "terruĕram",
+                "traduzioni": [
+                    "io ero atterrito",
+                    "io ero atterrita",
+                    "io avevo spaventato",
+                    "io ero impaurito",
+                    "io ero impaurita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "terruĕras",
+                "traduzioni": [
+                    "tu eri atterrito",
+                    "tu eri atterrita",
+                    "tu avevi spaventato",
+                    "tu eri impaurito",
+                    "tu eri impaurita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "terruĕrat",
+                "traduzioni": [
+                    "lui era atterrito",
+                    "lei era atterrita",
+                    "egli era atterrito",
+                    "lui aveva spaventato",
+                    "lei aveva spaventato",
+                    "egli aveva spaventato",
+                    "lui era impaurito",
+                    "lei era impaurita",
+                    "egli era impaurito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "terruerāmus",
+                "traduzioni": [
+                    "noi eravamo atterriti",
+                    "noi eravamo atterrite",
+                    "noi avevamo spaventato",
+                    "noi eravamo impauriti",
+                    "noi eravamo impaurite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "terruerātis",
+                "traduzioni": [
+                    "voi eravate atterriti",
+                    "voi eravate atterrite",
+                    "voi avevate spaventato",
+                    "voi eravate impauriti",
+                    "voi eravate impaurite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "terruĕrant",
+                "traduzioni": [
+                    "loro erano atterriti",
+                    "loro erano atterrite",
+                    "essi erano atterriti",
+                    "loro avevano spaventato",
+                    "essi avevano spaventato",
+                    "loro erano impauriti",
+                    "loro erano impaurite",
+                    "essi erano impauriti"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "terruĕro",
+                "traduzioni": [
+                    "io sarò atterrito",
+                    "io sarò atterrita",
+                    "io avrò spaventato",
+                    "io sarò impaurito",
+                    "io sarò impaurita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "terruĕris",
+                "traduzioni": [
+                    "tu sarai atterrito",
+                    "tu sarai atterrita",
+                    "tu avrai spaventato",
+                    "tu sarai impaurito",
+                    "tu sarai impaurita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "terruĕrit",
+                "traduzioni": [
+                    "lui sarà atterrito",
+                    "lei sarà atterrita",
+                    "egli sarà atterrito",
+                    "lui avrà spaventato",
+                    "lei avrà spaventato",
+                    "egli avrà spaventato",
+                    "lui sarà impaurito",
+                    "lei sarà impaurita",
+                    "egli sarà impaurito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "terruerĭmus",
+                "traduzioni": [
+                    "noi saremo atterriti",
+                    "noi saremo atterrite",
+                    "noi avremo spaventato",
+                    "noi saremo impauriti",
+                    "noi saremo impaurite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "terruerĭtis",
+                "traduzioni": [
+                    "voi sarete atterriti",
+                    "voi sarete atterrite",
+                    "voi avrete spaventato",
+                    "voi sarete impauriti",
+                    "voi sarete impaurite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "terruĕrint",
+                "traduzioni": [
+                    "loro saranno atterriti",
+                    "loro saranno atterrite",
+                    "essi saranno atterriti",
+                    "loro avranno spaventato",
+                    "essi avranno spaventato",
+                    "loro saranno impauriti",
+                    "loro saranno impaurite",
+                    "essi saranno impauriti"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "terrĕam",
+                "traduzioni": [
+                    "che io atterrisca",
+                    "che io spaventi",
+                    "che io impaurisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "terrĕas",
+                "traduzioni": [
+                    "che tu atterrisca",
+                    "che tu spaventi",
+                    "che tu impaurisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "terrĕat",
+                "traduzioni": [
+                    "che lui atterrisca",
+                    "che lei atterrisca",
+                    "che egli atterrisca",
+                    "che lui spaventi",
+                    "che lei spaventi",
+                    "che egli spaventi",
+                    "che lui impaurisca",
+                    "che lei impaurisca",
+                    "che egli impaurisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "terreāmus",
+                "traduzioni": [
+                    "che noi atterriamo",
+                    "che noi spaventiamo",
+                    "che noi impauriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "terreātis",
+                "traduzioni": [
+                    "che voi atterriate",
+                    "che voi spaventiate",
+                    "che voi impauriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "terrĕant",
+                "traduzioni": [
+                    "che loro atterriscano",
+                    "che essi atterriscano",
+                    "che loro spaventino",
+                    "che essi spaventino",
+                    "che loro impauriscano",
+                    "che essi impauriscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "terrērem",
+                "traduzioni": [
+                    "che io atterrissi",
+                    "che io spaventassi",
+                    "che io impaurissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "terrēres",
+                "traduzioni": [
+                    "che tu atterrissi",
+                    "che tu spaventassi",
+                    "che tu impaurissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "terrēret",
+                "traduzioni": [
+                    "che lui atterrisse",
+                    "che lei atterrisse",
+                    "che egli atterrisse",
+                    "che lui spaventasse",
+                    "che lei spaventasse",
+                    "che egli spaventasse",
+                    "che lui impaurisse",
+                    "che lei impaurisse",
+                    "che egli impaurisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "terrerēmus",
+                "traduzioni": [
+                    "che noi atterrissimo",
+                    "che noi spaventassimo",
+                    "che noi impaurissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "terrerētis",
+                "traduzioni": [
+                    "che voi atterriste",
+                    "che voi spaventaste",
+                    "che voi impauriste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "terrērent",
+                "traduzioni": [
+                    "che loro atterrissero",
+                    "che essi atterrissero",
+                    "che loro spaventassero",
+                    "che essi spaventassero",
+                    "che loro impaurissero",
+                    "che essi impaurissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "terruĕrim",
+                "traduzioni": [
+                    "che io sia atterrito",
+                    "che io sia atterrita",
+                    "che io abbia spaventato",
+                    "che io sia impaurito",
+                    "che io sia impaurita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "terruĕris",
+                "traduzioni": [
+                    "che tu sia atterrito",
+                    "che tu sia atterrita",
+                    "che tu abbia spaventato",
+                    "che tu sia impaurito",
+                    "che tu sia impaurita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "terruĕrit",
+                "traduzioni": [
+                    "che lui sia atterrito",
+                    "che lei sia atterrita",
+                    "che egli sia atterrito",
+                    "che lui abbia spaventato",
+                    "che lei abbia spaventato",
+                    "che egli abbia spaventato",
+                    "che lui sia impaurito",
+                    "che lei sia impaurita",
+                    "che egli sia impaurito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "terruerĭmus",
+                "traduzioni": [
+                    "che noi siamo atterriti",
+                    "che noi siamo atterrite",
+                    "che noi abbiamo spaventato",
+                    "che noi siamo impauriti",
+                    "che noi siamo impaurite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "terruerĭtis",
+                "traduzioni": [
+                    "che voi siate atterriti",
+                    "che voi siate atterrite",
+                    "che voi abbiate spaventato",
+                    "che voi siate impauriti",
+                    "che voi siate impaurite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "terruĕrint",
+                "traduzioni": [
+                    "che loro siano atterriti",
+                    "che loro siano atterrite",
+                    "che essi siano atterriti",
+                    "che loro abbiano spaventato",
+                    "che essi abbiano spaventato",
+                    "che loro siano impauriti",
+                    "che loro siano impaurite",
+                    "che essi siano impauriti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "terruissem",
+                "traduzioni": [
+                    "che io fossi atterrito",
+                    "che io fossi atterrita",
+                    "che io avessi spaventato",
+                    "che io fossi impaurito",
+                    "che io fossi impaurita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "terruisses",
+                "traduzioni": [
+                    "che tu fossi atterrito",
+                    "che tu fossi atterrita",
+                    "che tu avessi spaventato",
+                    "che tu fossi impaurito",
+                    "che tu fossi impaurita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "terruisset",
+                "traduzioni": [
+                    "che lui fosse atterrito",
+                    "che lei fosse atterrita",
+                    "che egli fosse atterrito",
+                    "che lui avesse spaventato",
+                    "che lei avesse spaventato",
+                    "che egli avesse spaventato",
+                    "che lui fosse impaurito",
+                    "che lei fosse impaurita",
+                    "che egli fosse impaurito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "terruissēmus",
+                "traduzioni": [
+                    "che noi fossimo atterriti",
+                    "che noi fossimo atterrite",
+                    "che noi avessimo spaventato",
+                    "che noi fossimo impauriti",
+                    "che noi fossimo impaurite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "terruissētis",
+                "traduzioni": [
+                    "che voi foste atterriti",
+                    "che voi foste atterrite",
+                    "che voi aveste spaventato",
+                    "che voi foste impauriti",
+                    "che voi foste impaurite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "terruissent",
+                "traduzioni": [
+                    "che loro fossero atterriti",
+                    "che loro fossero atterrite",
+                    "che essi fossero atterriti",
+                    "che loro avessero spaventato",
+                    "che essi avessero spaventato",
+                    "che loro fossero impauriti",
+                    "che loro fossero impaurite",
+                    "che essi fossero impauriti"
+                ]
+            }
+        ]
+    }
+}

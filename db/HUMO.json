@@ -1,0 +1,612 @@
+{
+    "identifier": "HUMO",
+    "conuigazione": "1",
+    "translation": [
+        "seppellire",
+        "sotterrare"
+    ],
+    "valid_translations": [
+        "seppellire",
+        "sotterrare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "hŭmo",
+                "traduzioni": [
+                    "io seppellisco",
+                    "io sotterro"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hŭmas",
+                "traduzioni": [
+                    "tu seppellisci",
+                    "tu sotterri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hŭmat",
+                "traduzioni": [
+                    "lui seppellisce",
+                    "lei seppellisce",
+                    "egli seppellisce",
+                    "lui sotterra",
+                    "lei sotterra",
+                    "egli sotterra"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hŭmāmus",
+                "traduzioni": [
+                    "noi seppelliamo",
+                    "noi sotterriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hŭmātis",
+                "traduzioni": [
+                    "voi seppellite",
+                    "voi sotterrate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hŭmant",
+                "traduzioni": [
+                    "loro seppelliscono",
+                    "essi seppelliscono",
+                    "loro sotterrano",
+                    "essi sotterrano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "hŭmābam",
+                "traduzioni": [
+                    "io seppellivo",
+                    "io sotterravo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hŭmābas",
+                "traduzioni": [
+                    "tu seppellivi",
+                    "tu sotterravi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hŭmābat",
+                "traduzioni": [
+                    "lui seppelliva",
+                    "lei seppelliva",
+                    "egli seppelliva",
+                    "lui sotterrava",
+                    "lei sotterrava",
+                    "egli sotterrava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hŭmabāmus",
+                "traduzioni": [
+                    "noi seppellivamo",
+                    "noi sotterravamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hŭmabātis",
+                "traduzioni": [
+                    "voi seppellivate",
+                    "voi sotterravate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hŭmābant",
+                "traduzioni": [
+                    "loro seppellivano",
+                    "essi seppellivano",
+                    "loro sotterravano",
+                    "essi sotterravano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "hŭmābo",
+                "traduzioni": [
+                    "io seppellirò",
+                    "io sotterrerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hŭmābis",
+                "traduzioni": [
+                    "tu seppellirai",
+                    "tu sotterrerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hŭmābit",
+                "traduzioni": [
+                    "lui seppellirà",
+                    "lei seppellirà",
+                    "egli seppellirà",
+                    "lui sotterrerà",
+                    "lei sotterrerà",
+                    "egli sotterrerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hŭmabĭmus",
+                "traduzioni": [
+                    "noi seppelliremo",
+                    "noi sotterreremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hŭmabĭtis",
+                "traduzioni": [
+                    "voi seppellirete",
+                    "voi sotterrerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hŭmābunt",
+                "traduzioni": [
+                    "loro seppelliranno",
+                    "essi seppelliranno",
+                    "loro sotterreranno",
+                    "essi sotterreranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "humavi",
+                "traduzioni": [
+                    "io seppellii",
+                    "io ho seppellito",
+                    "io ebbi seppellito",
+                    "io sotterrai",
+                    "io ho sotterrato",
+                    "io ebbi sotterrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "humavisti",
+                "traduzioni": [
+                    "tu seppellisti",
+                    "tu hai seppellito",
+                    "tu avesti seppellito",
+                    "tu sotterrasti",
+                    "tu hai sotterrato",
+                    "tu avesti sotterrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "humavit",
+                "traduzioni": [
+                    "lui seppellì",
+                    "lei seppellì",
+                    "egli seppellì",
+                    "lui ha seppellito",
+                    "lei ha seppellito",
+                    "egli ha seppellito",
+                    "lui ebbe seppellito",
+                    "lei ebbe seppellito",
+                    "egli ebbe seppellito",
+                    "lui sotterrò",
+                    "lei sotterrò",
+                    "egli sotterrò",
+                    "lui ha sotterrato",
+                    "lei ha sotterrato",
+                    "egli ha sotterrato",
+                    "lui ebbe sotterrato",
+                    "lei ebbe sotterrato",
+                    "egli ebbe sotterrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "humavĭmus",
+                "traduzioni": [
+                    "noi seppellimmo",
+                    "noi abbiamo seppellito",
+                    "noi avemmo seppellito",
+                    "noi sotterrammo",
+                    "noi abbiamo sotterrato",
+                    "noi avemmo sotterrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "humavistis",
+                "traduzioni": [
+                    "voi seppelliste",
+                    "voi avete seppellito",
+                    "voi aveste seppellito",
+                    "voi sotterraste",
+                    "voi avete sotterrato",
+                    "voi aveste sotterrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "humavērunt, humavēre",
+                "traduzioni": [
+                    "loro seppellirono",
+                    "essi seppellirono",
+                    "loro hanno seppellito",
+                    "essi hanno seppellito",
+                    "loro ebbero seppellito",
+                    "essi ebbero seppellito",
+                    "loro sotterrarono",
+                    "essi sotterrarono",
+                    "loro hanno sotterrato",
+                    "essi hanno sotterrato",
+                    "loro ebbero sotterrato",
+                    "essi ebbero sotterrato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "humavĕram",
+                "traduzioni": [
+                    "io avevo seppellito",
+                    "io avevo sotterrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "humavĕras",
+                "traduzioni": [
+                    "tu avevi seppellito",
+                    "tu avevi sotterrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "humavĕrat",
+                "traduzioni": [
+                    "lui aveva seppellito",
+                    "lei aveva seppellito",
+                    "egli aveva seppellito",
+                    "lui aveva sotterrato",
+                    "lei aveva sotterrato",
+                    "egli aveva sotterrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "humaverāmus",
+                "traduzioni": [
+                    "noi avevamo seppellito",
+                    "noi avevamo sotterrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "humaverātis",
+                "traduzioni": [
+                    "voi avevate seppellito",
+                    "voi avevate sotterrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "humavĕrant",
+                "traduzioni": [
+                    "loro avevano seppellito",
+                    "essi avevano seppellito",
+                    "loro avevano sotterrato",
+                    "essi avevano sotterrato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "humavĕro",
+                "traduzioni": [
+                    "io avrò seppellito",
+                    "io avrò sotterrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "humavĕris",
+                "traduzioni": [
+                    "tu avrai seppellito",
+                    "tu avrai sotterrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "humavĕrit",
+                "traduzioni": [
+                    "lui avrà seppellito",
+                    "lei avrà seppellito",
+                    "egli avrà seppellito",
+                    "lui avrà sotterrato",
+                    "lei avrà sotterrato",
+                    "egli avrà sotterrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "humaverĭmus",
+                "traduzioni": [
+                    "noi avremo seppellito",
+                    "noi avremo sotterrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "humaverĭtis",
+                "traduzioni": [
+                    "voi avrete seppellito",
+                    "voi avrete sotterrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "humavĕrint",
+                "traduzioni": [
+                    "loro avranno seppellito",
+                    "essi avranno seppellito",
+                    "loro avranno sotterrato",
+                    "essi avranno sotterrato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "hŭmem",
+                "traduzioni": [
+                    "che io seppellisca",
+                    "che io sotterri"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hŭmes",
+                "traduzioni": [
+                    "che tu seppellisca",
+                    "che tu sotterri"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hŭmet",
+                "traduzioni": [
+                    "che lui seppellisca",
+                    "che lei seppellisca",
+                    "che egli seppellisca",
+                    "che lui sotterri",
+                    "che lei sotterri",
+                    "che egli sotterri"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hŭmēmus",
+                "traduzioni": [
+                    "che noi seppelliamo",
+                    "che noi sotterriamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hŭmētis",
+                "traduzioni": [
+                    "che voi seppelliate",
+                    "che voi sotterriate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hŭment",
+                "traduzioni": [
+                    "che loro seppelliscano",
+                    "che essi seppelliscano",
+                    "che loro sotterrino",
+                    "che essi sotterrino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "hŭmārem",
+                "traduzioni": [
+                    "che io seppellissi",
+                    "che io sotterrassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "hŭmāres",
+                "traduzioni": [
+                    "che tu seppellissi",
+                    "che tu sotterrassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "hŭmāret",
+                "traduzioni": [
+                    "che lui seppellisse",
+                    "che lei seppellisse",
+                    "che egli seppellisse",
+                    "che lui sotterrasse",
+                    "che lei sotterrasse",
+                    "che egli sotterrasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "hŭmarēmus",
+                "traduzioni": [
+                    "che noi seppellissimo",
+                    "che noi sotterrassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "hŭmarētis",
+                "traduzioni": [
+                    "che voi seppelliste",
+                    "che voi sotterraste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "hŭmārent",
+                "traduzioni": [
+                    "che loro seppellissero",
+                    "che essi seppellissero",
+                    "che loro sotterrassero",
+                    "che essi sotterrassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "humavĕrim",
+                "traduzioni": [
+                    "che io abbia seppellito",
+                    "che io abbia sotterrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "humavĕris",
+                "traduzioni": [
+                    "che tu abbia seppellito",
+                    "che tu abbia sotterrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "humavĕrit",
+                "traduzioni": [
+                    "che lui abbia seppellito",
+                    "che lei abbia seppellito",
+                    "che egli abbia seppellito",
+                    "che lui abbia sotterrato",
+                    "che lei abbia sotterrato",
+                    "che egli abbia sotterrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "humaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo seppellito",
+                    "che noi abbiamo sotterrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "humaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate seppellito",
+                    "che voi abbiate sotterrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "humavĕrint",
+                "traduzioni": [
+                    "che loro abbiano seppellito",
+                    "che essi abbiano seppellito",
+                    "che loro abbiano sotterrato",
+                    "che essi abbiano sotterrato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "humavissem",
+                "traduzioni": [
+                    "che io avessi seppellito",
+                    "che io avessi sotterrato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "humavisses",
+                "traduzioni": [
+                    "che tu avessi seppellito",
+                    "che tu avessi sotterrato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "humavisset",
+                "traduzioni": [
+                    "che lui avesse seppellito",
+                    "che lei avesse seppellito",
+                    "che egli avesse seppellito",
+                    "che lui avesse sotterrato",
+                    "che lei avesse sotterrato",
+                    "che egli avesse sotterrato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "humavissēmus",
+                "traduzioni": [
+                    "che noi avessimo seppellito",
+                    "che noi avessimo sotterrato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "humavissētis",
+                "traduzioni": [
+                    "che voi aveste seppellito",
+                    "che voi aveste sotterrato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "humavissent",
+                "traduzioni": [
+                    "che loro avessero seppellito",
+                    "che essi avessero seppellito",
+                    "che loro avessero sotterrato",
+                    "che essi avessero sotterrato"
+                ]
+            }
+        ]
+    }
+}

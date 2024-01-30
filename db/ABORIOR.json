@@ -1,0 +1,812 @@
+{
+    "identifier": "ABORIOR",
+    "conuigazione": "4",
+    "translation": [
+        "sparire",
+        "perire",
+        "abortire"
+    ],
+    "valid_translations": [
+        "sparire",
+        "perire",
+        "abortire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbŏrĭor",
+                "traduzioni": [
+                    "io sparisco",
+                    "io perisco",
+                    "io abortisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbŏrīris, ăbŏrīre, ăbŏreris",
+                "traduzioni": [
+                    "tu sparisci",
+                    "tu perisci",
+                    "tu abortisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbŏrītur",
+                "traduzioni": [
+                    "lui sparisce",
+                    "lei sparisce",
+                    "egli sparisce",
+                    "lui perisce",
+                    "lei perisce",
+                    "egli perisce",
+                    "lui abortisce",
+                    "lei abortisce",
+                    "egli abortisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbŏrīmur",
+                "traduzioni": [
+                    "noi spariamo",
+                    "noi periamo",
+                    "noi abortiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbŏrimĭni",
+                "traduzioni": [
+                    "voi sparite",
+                    "voi perite",
+                    "voi abortite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbŏriuntur",
+                "traduzioni": [
+                    "loro spariscono",
+                    "essi spariscono",
+                    "loro periscono",
+                    "essi periscono",
+                    "loro abortiscono",
+                    "essi abortiscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbŏriēbar",
+                "traduzioni": [
+                    "io sparivo",
+                    "io perivo",
+                    "io abortivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbŏriebāris, ăbŏriebāre",
+                "traduzioni": [
+                    "tu sparivi",
+                    "tu perivi",
+                    "tu abortivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbŏriebātur",
+                "traduzioni": [
+                    "lui spariva",
+                    "lei spariva",
+                    "egli spariva",
+                    "lui periva",
+                    "lei periva",
+                    "egli periva",
+                    "lui abortiva",
+                    "lei abortiva",
+                    "egli abortiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbŏriebāmur",
+                "traduzioni": [
+                    "noi sparivamo",
+                    "noi perivamo",
+                    "noi abortivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbŏriebamĭni",
+                "traduzioni": [
+                    "voi sparivate",
+                    "voi perivate",
+                    "voi abortivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbŏriebantur",
+                "traduzioni": [
+                    "loro sparivano",
+                    "essi sparivano",
+                    "loro perivano",
+                    "essi perivano",
+                    "loro abortivano",
+                    "essi abortivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbŏrĭar",
+                "traduzioni": [
+                    "io sparirò",
+                    "io perirò",
+                    "io abortirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbŏriēris, ăbŏriēre",
+                "traduzioni": [
+                    "tu sparirai",
+                    "tu perirai",
+                    "tu abortirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbŏriētur",
+                "traduzioni": [
+                    "lui sparirà",
+                    "lei sparirà",
+                    "egli sparirà",
+                    "lui perirà",
+                    "lei perirà",
+                    "egli perirà",
+                    "lui abortirà",
+                    "lei abortirà",
+                    "egli abortirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbŏriēmur",
+                "traduzioni": [
+                    "noi spariremo",
+                    "noi periremo",
+                    "noi abortiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbŏriemĭni",
+                "traduzioni": [
+                    "voi sparirete",
+                    "voi perirete",
+                    "voi abortirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbŏrientur",
+                "traduzioni": [
+                    "loro spariranno",
+                    "essi spariranno",
+                    "loro periranno",
+                    "essi periranno",
+                    "loro abortiranno",
+                    "essi abortiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abortus, –a, –um  sum",
+                "traduzioni": [
+                    "io sparii",
+                    "io sono sparito",
+                    "io sono sparita",
+                    "io fui sparito",
+                    "io fui sparita",
+                    "io perii",
+                    "io sono perito",
+                    "io sono perita",
+                    "io fui perito",
+                    "io fui perita",
+                    "io abortii",
+                    "io sono abortito",
+                    "io sono abortita",
+                    "io fui abortito",
+                    "io fui abortita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abortus, –a, –um  es",
+                "traduzioni": [
+                    "tu sparisti",
+                    "tu sei sparito",
+                    "tu sei sparita",
+                    "tu fosti sparito",
+                    "tu fosti sparita",
+                    "tu peristi",
+                    "tu sei perito",
+                    "tu sei perita",
+                    "tu fosti perito",
+                    "tu fosti perita",
+                    "tu abortisti",
+                    "tu sei abortito",
+                    "tu sei abortita",
+                    "tu fosti abortito",
+                    "tu fosti abortita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abortus, –a, –um  est",
+                "traduzioni": [
+                    "lui sparì",
+                    "lei sparì",
+                    "egli sparì",
+                    "lui è sparito",
+                    "lei è sparita",
+                    "egli è sparito",
+                    "lui fu sparito",
+                    "lei fu sparita",
+                    "egli fu sparito",
+                    "lui perì",
+                    "lei perì",
+                    "egli perì",
+                    "lui è perito",
+                    "lei è perita",
+                    "egli è perito",
+                    "lui fu perito",
+                    "lei fu perita",
+                    "egli fu perito",
+                    "lui abortì",
+                    "lei abortì",
+                    "egli abortì",
+                    "lui è abortito",
+                    "lei è abortita",
+                    "egli è abortito",
+                    "lui fu abortito",
+                    "lei fu abortita",
+                    "egli fu abortito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aborti, –ae, –a  sumus",
+                "traduzioni": [
+                    "noi sparimmo",
+                    "noi siamo spariti",
+                    "noi siamo sparite",
+                    "noi fummo spariti",
+                    "noi fummo sparite",
+                    "noi perimmo",
+                    "noi siamo periti",
+                    "noi siamo perite",
+                    "noi fummo periti",
+                    "noi fummo perite",
+                    "noi abortimmo",
+                    "noi siamo abortiti",
+                    "noi siamo abortite",
+                    "noi fummo abortiti",
+                    "noi fummo abortite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aborti, –ae, –a  estis",
+                "traduzioni": [
+                    "voi spariste",
+                    "voi siete spariti",
+                    "voi siete sparite",
+                    "voi foste spariti",
+                    "voi foste sparite",
+                    "voi periste",
+                    "voi siete periti",
+                    "voi siete perite",
+                    "voi foste periti",
+                    "voi foste perite",
+                    "voi abortiste",
+                    "voi siete abortiti",
+                    "voi siete abortite",
+                    "voi foste abortiti",
+                    "voi foste abortite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aborti, –ae, –a  sunt",
+                "traduzioni": [
+                    "loro sparirono",
+                    "essi sparirono",
+                    "loro sono spariti",
+                    "loro sono sparite",
+                    "essi sono spariti",
+                    "loro furono spariti",
+                    "loro furono sparite",
+                    "essi furono spariti",
+                    "loro perirono",
+                    "essi perirono",
+                    "loro sono periti",
+                    "loro sono perite",
+                    "essi sono periti",
+                    "loro furono periti",
+                    "loro furono perite",
+                    "essi furono periti",
+                    "loro abortirono",
+                    "essi abortirono",
+                    "loro sono abortiti",
+                    "loro sono abortite",
+                    "essi sono abortiti",
+                    "loro furono abortiti",
+                    "loro furono abortite",
+                    "essi furono abortiti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abortus, –a, –um  eram",
+                "traduzioni": [
+                    "io ero sparito",
+                    "io ero sparita",
+                    "io ero perito",
+                    "io ero perita",
+                    "io ero abortito",
+                    "io ero abortita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abortus, –a, –um  eras",
+                "traduzioni": [
+                    "tu eri sparito",
+                    "tu eri sparita",
+                    "tu eri perito",
+                    "tu eri perita",
+                    "tu eri abortito",
+                    "tu eri abortita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abortus, –a, –um  erat",
+                "traduzioni": [
+                    "lui era sparito",
+                    "lei era sparita",
+                    "egli era sparito",
+                    "lui era perito",
+                    "lei era perita",
+                    "egli era perito",
+                    "lui era abortito",
+                    "lei era abortita",
+                    "egli era abortito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aborti, –ae, –a  eramus",
+                "traduzioni": [
+                    "noi eravamo spariti",
+                    "noi eravamo sparite",
+                    "noi eravamo periti",
+                    "noi eravamo perite",
+                    "noi eravamo abortiti",
+                    "noi eravamo abortite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aborti, –ae, –a  eratis",
+                "traduzioni": [
+                    "voi eravate spariti",
+                    "voi eravate sparite",
+                    "voi eravate periti",
+                    "voi eravate perite",
+                    "voi eravate abortiti",
+                    "voi eravate abortite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aborti, –ae, –a erant",
+                "traduzioni": [
+                    "loro erano spariti",
+                    "loro erano sparite",
+                    "essi erano spariti",
+                    "loro erano periti",
+                    "loro erano perite",
+                    "essi erano periti",
+                    "loro erano abortiti",
+                    "loro erano abortite",
+                    "essi erano abortiti"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "abortus, –a, –um  ero",
+                "traduzioni": [
+                    "io sarò sparito",
+                    "io sarò sparita",
+                    "io sarò perito",
+                    "io sarò perita",
+                    "io sarò abortito",
+                    "io sarò abortita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abortus, –a, –um  eris",
+                "traduzioni": [
+                    "tu sarai sparito",
+                    "tu sarai sparita",
+                    "tu sarai perito",
+                    "tu sarai perita",
+                    "tu sarai abortito",
+                    "tu sarai abortita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abortus, –a, –um  erit",
+                "traduzioni": [
+                    "lui sarà sparito",
+                    "lei sarà sparita",
+                    "egli sarà sparito",
+                    "lui sarà perito",
+                    "lei sarà perita",
+                    "egli sarà perito",
+                    "lui sarà abortito",
+                    "lei sarà abortita",
+                    "egli sarà abortito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aborti, –ae, –a  erimus",
+                "traduzioni": [
+                    "noi saremo spariti",
+                    "noi saremo sparite",
+                    "noi saremo periti",
+                    "noi saremo perite",
+                    "noi saremo abortiti",
+                    "noi saremo abortite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aborti, –ae, –a  eritis",
+                "traduzioni": [
+                    "voi sarete spariti",
+                    "voi sarete sparite",
+                    "voi sarete periti",
+                    "voi sarete perite",
+                    "voi sarete abortiti",
+                    "voi sarete abortite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aborti, –ae, –a  erunt",
+                "traduzioni": [
+                    "loro saranno spariti",
+                    "loro saranno sparite",
+                    "essi saranno spariti",
+                    "loro saranno periti",
+                    "loro saranno perite",
+                    "essi saranno periti",
+                    "loro saranno abortiti",
+                    "loro saranno abortite",
+                    "essi saranno abortiti"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbŏrĭar",
+                "traduzioni": [
+                    "che io sparisca",
+                    "che io perisca",
+                    "che io abortisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbŏriāris, ăbŏriāre",
+                "traduzioni": [
+                    "che tu sparisca",
+                    "che tu perisca",
+                    "che tu abortisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbŏriātur",
+                "traduzioni": [
+                    "che lui sparisca",
+                    "che lei sparisca",
+                    "che egli sparisca",
+                    "che lui perisca",
+                    "che lei perisca",
+                    "che egli perisca",
+                    "che lui abortisca",
+                    "che lei abortisca",
+                    "che egli abortisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbŏriāmur",
+                "traduzioni": [
+                    "che noi spariamo",
+                    "che noi periamo",
+                    "che noi abortiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbŏriamĭni",
+                "traduzioni": [
+                    "che voi spariate",
+                    "che voi periate",
+                    "che voi abortiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbŏriantur",
+                "traduzioni": [
+                    "che loro spariscano",
+                    "che essi spariscano",
+                    "che loro periscano",
+                    "che essi periscano",
+                    "che loro abortiscano",
+                    "che essi abortiscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ăbŏrīrer",
+                "traduzioni": [
+                    "che io sparissi",
+                    "che io perissi",
+                    "che io abortissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ăbŏrirēris, ăbŏrirēre",
+                "traduzioni": [
+                    "che tu sparissi",
+                    "che tu perissi",
+                    "che tu abortissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ăbŏrirētur, ăbŏrerētur",
+                "traduzioni": [
+                    "che lui sparisse",
+                    "che lei sparisse",
+                    "che egli sparisse",
+                    "che lui perisse",
+                    "che lei perisse",
+                    "che egli perisse",
+                    "che lui abortisse",
+                    "che lei abortisse",
+                    "che egli abortisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ăbŏrirēmur",
+                "traduzioni": [
+                    "che noi sparissimo",
+                    "che noi perissimo",
+                    "che noi abortissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ăbŏrirēmini",
+                "traduzioni": [
+                    "che voi spariste",
+                    "che voi periste",
+                    "che voi abortiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ăbŏrirentur, ăbŏrerentur",
+                "traduzioni": [
+                    "che loro sparissero",
+                    "che essi sparissero",
+                    "che loro perissero",
+                    "che essi perissero",
+                    "che loro abortissero",
+                    "che essi abortissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abortus, –a, –um  sim",
+                "traduzioni": [
+                    "che io sia sparito",
+                    "che io sia sparita",
+                    "che io sia perito",
+                    "che io sia perita",
+                    "che io sia abortito",
+                    "che io sia abortita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abortus, –a, –um  sis",
+                "traduzioni": [
+                    "che tu sia sparito",
+                    "che tu sia sparita",
+                    "che tu sia perito",
+                    "che tu sia perita",
+                    "che tu sia abortito",
+                    "che tu sia abortita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abortus, –a, –um  sit",
+                "traduzioni": [
+                    "che lui sia sparito",
+                    "che lei sia sparita",
+                    "che egli sia sparito",
+                    "che lui sia perito",
+                    "che lei sia perita",
+                    "che egli sia perito",
+                    "che lui sia abortito",
+                    "che lei sia abortita",
+                    "che egli sia abortito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aborti, –ae, –a  simus",
+                "traduzioni": [
+                    "che noi siamo spariti",
+                    "che noi siamo sparite",
+                    "che noi siamo periti",
+                    "che noi siamo perite",
+                    "che noi siamo abortiti",
+                    "che noi siamo abortite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aborti, –ae, –a  sitis",
+                "traduzioni": [
+                    "che voi siate spariti",
+                    "che voi siate sparite",
+                    "che voi siate periti",
+                    "che voi siate perite",
+                    "che voi siate abortiti",
+                    "che voi siate abortite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aborti, –ae, –a  sint",
+                "traduzioni": [
+                    "che loro siano spariti",
+                    "che loro siano sparite",
+                    "che essi siano spariti",
+                    "che loro siano periti",
+                    "che loro siano perite",
+                    "che essi siano periti",
+                    "che loro siano abortiti",
+                    "che loro siano abortite",
+                    "che essi siano abortiti"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "abortus, –a, –um  essem",
+                "traduzioni": [
+                    "che io fossi sparito",
+                    "che io fossi sparita",
+                    "che io fossi perito",
+                    "che io fossi perita",
+                    "che io fossi abortito",
+                    "che io fossi abortita"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "abortus, –a, –um  esses",
+                "traduzioni": [
+                    "che tu fossi sparito",
+                    "che tu fossi sparita",
+                    "che tu fossi perito",
+                    "che tu fossi perita",
+                    "che tu fossi abortito",
+                    "che tu fossi abortita"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "abortus, –a, –um  esset",
+                "traduzioni": [
+                    "che lui fosse sparito",
+                    "che lei fosse sparita",
+                    "che egli fosse sparito",
+                    "che lui fosse perito",
+                    "che lei fosse perita",
+                    "che egli fosse perito",
+                    "che lui fosse abortito",
+                    "che lei fosse abortita",
+                    "che egli fosse abortito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "aborti, –ae, –a  essemus",
+                "traduzioni": [
+                    "che noi fossimo spariti",
+                    "che noi fossimo sparite",
+                    "che noi fossimo periti",
+                    "che noi fossimo perite",
+                    "che noi fossimo abortiti",
+                    "che noi fossimo abortite"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "aborti, –ae, –a  essetis",
+                "traduzioni": [
+                    "che voi foste spariti",
+                    "che voi foste sparite",
+                    "che voi foste periti",
+                    "che voi foste perite",
+                    "che voi foste abortiti",
+                    "che voi foste abortite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "aborti, –ae, –a  essent",
+                "traduzioni": [
+                    "che loro fossero spariti",
+                    "che loro fossero sparite",
+                    "che essi fossero spariti",
+                    "che loro fossero periti",
+                    "che loro fossero perite",
+                    "che essi fossero periti",
+                    "che loro fossero abortiti",
+                    "che loro fossero abortite",
+                    "che essi fossero abortiti"
+                ]
+            }
+        ]
+    }
+}

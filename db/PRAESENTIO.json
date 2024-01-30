@@ -1,0 +1,684 @@
+{
+    "identifier": "PRAESENTIO",
+    "conuigazione": "4",
+    "translation": [
+        "prevedere",
+        "presagire"
+    ],
+    "valid_translations": [
+        "prevedere",
+        "presagire"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "praesentĭo",
+                "traduzioni": [
+                    "io prevedo",
+                    "io preveggo",
+                    "io presagisco"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praesentis",
+                "traduzioni": [
+                    "tu prevedi",
+                    "tu presagisci"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praesentit",
+                "traduzioni": [
+                    "lui prevede",
+                    "lei prevede",
+                    "egli prevede",
+                    "lui presagisce",
+                    "lei presagisce",
+                    "egli presagisce"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praesentīmus",
+                "traduzioni": [
+                    "noi prevediamo",
+                    "noi presagiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praesentītis",
+                "traduzioni": [
+                    "voi prevedete",
+                    "voi presagite"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praesentĭunt",
+                "traduzioni": [
+                    "loro prevedono",
+                    "essi prevedono",
+                    "loro presagiscono",
+                    "essi presagiscono"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praesentiēbam",
+                "traduzioni": [
+                    "io prevedevo",
+                    "io presagivo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praesentiēbas",
+                "traduzioni": [
+                    "tu prevedevi",
+                    "tu presagivi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praesentiēbat",
+                "traduzioni": [
+                    "lui prevedeva",
+                    "lei prevedeva",
+                    "egli prevedeva",
+                    "lui presagiva",
+                    "lei presagiva",
+                    "egli presagiva"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praesentiebāmus",
+                "traduzioni": [
+                    "noi prevedevamo",
+                    "noi presagivamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praesentiebātis",
+                "traduzioni": [
+                    "voi prevedevate",
+                    "voi presagivate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praesentiēbant",
+                "traduzioni": [
+                    "loro prevedevano",
+                    "essi prevedevano",
+                    "loro presagivano",
+                    "essi presagivano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "praesentĭam",
+                "traduzioni": [
+                    "io prevedrò",
+                    "io prevederò",
+                    "io presagirò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praesentĭes",
+                "traduzioni": [
+                    "tu prevedrai",
+                    "tu prevederai",
+                    "tu presagirai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praesentĭet",
+                "traduzioni": [
+                    "lui prevedrà",
+                    "lei prevedrà",
+                    "egli prevedrà",
+                    "lui prevederà",
+                    "lei prevederà",
+                    "egli prevederà",
+                    "lui presagirà",
+                    "lei presagirà",
+                    "egli presagirà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praesentiēmus",
+                "traduzioni": [
+                    "noi prevedremo",
+                    "noi prevederemo",
+                    "noi presagiremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praesentiētis",
+                "traduzioni": [
+                    "voi prevedrete",
+                    "voi prevederete",
+                    "voi presagirete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praesentĭent",
+                "traduzioni": [
+                    "loro prevedranno",
+                    "essi prevedranno",
+                    "loro prevederanno",
+                    "essi prevederanno",
+                    "loro presagiranno",
+                    "essi presagiranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praesensi",
+                "traduzioni": [
+                    "io previdi",
+                    "io prevedetti",
+                    "io ho preveduto",
+                    "io ho previsto",
+                    "io ebbi preveduto",
+                    "io ebbi previsto",
+                    "io presagii",
+                    "io ho presagito",
+                    "io ebbi presagito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praesensisti",
+                "traduzioni": [
+                    "tu prevedesti",
+                    "tu hai preveduto",
+                    "tu hai previsto",
+                    "tu avesti preveduto",
+                    "tu avesti previsto",
+                    "tu presagisti",
+                    "tu hai presagito",
+                    "tu avesti presagito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praesensit",
+                "traduzioni": [
+                    "lui previde",
+                    "lei previde",
+                    "egli previde",
+                    "lui prevedette",
+                    "lei prevedette",
+                    "egli prevedette",
+                    "lui ha preveduto",
+                    "lei ha preveduto",
+                    "egli ha preveduto",
+                    "lui ha previsto",
+                    "lei ha previsto",
+                    "egli ha previsto",
+                    "lui ebbe preveduto",
+                    "lei ebbe preveduto",
+                    "egli ebbe preveduto",
+                    "lui ebbe previsto",
+                    "lei ebbe previsto",
+                    "egli ebbe previsto",
+                    "lui presagì",
+                    "lei presagì",
+                    "egli presagì",
+                    "lui ha presagito",
+                    "lei ha presagito",
+                    "egli ha presagito",
+                    "lui ebbe presagito",
+                    "lei ebbe presagito",
+                    "egli ebbe presagito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praesensĭmus",
+                "traduzioni": [
+                    "noi prevedemmo",
+                    "noi abbiamo preveduto",
+                    "noi abbiamo previsto",
+                    "noi avemmo preveduto",
+                    "noi avemmo previsto",
+                    "noi presagimmo",
+                    "noi abbiamo presagito",
+                    "noi avemmo presagito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praesensistis",
+                "traduzioni": [
+                    "voi prevedeste",
+                    "voi avete preveduto",
+                    "voi avete previsto",
+                    "voi aveste preveduto",
+                    "voi aveste previsto",
+                    "voi presagiste",
+                    "voi avete presagito",
+                    "voi aveste presagito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praesensērunt, praesensēre",
+                "traduzioni": [
+                    "loro previdero",
+                    "essi previdero",
+                    "loro prevederono",
+                    "essi prevederono",
+                    "loro prevedettero",
+                    "essi prevedettero",
+                    "loro hanno preveduto",
+                    "essi hanno preveduto",
+                    "loro hanno previsto",
+                    "essi hanno previsto",
+                    "loro ebbero preveduto",
+                    "essi ebbero preveduto",
+                    "loro ebbero previsto",
+                    "essi ebbero previsto",
+                    "loro presagirono",
+                    "essi presagirono",
+                    "loro hanno presagito",
+                    "essi hanno presagito",
+                    "loro ebbero presagito",
+                    "essi ebbero presagito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praesensĕram",
+                "traduzioni": [
+                    "io avevo preveduto",
+                    "io avevo previsto",
+                    "io avevo presagito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praesensĕras",
+                "traduzioni": [
+                    "tu avevi preveduto",
+                    "tu avevi previsto",
+                    "tu avevi presagito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praesensĕrat",
+                "traduzioni": [
+                    "lui aveva preveduto",
+                    "lei aveva preveduto",
+                    "egli aveva preveduto",
+                    "lui aveva previsto",
+                    "lei aveva previsto",
+                    "egli aveva previsto",
+                    "lui aveva presagito",
+                    "lei aveva presagito",
+                    "egli aveva presagito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praesenserāmus",
+                "traduzioni": [
+                    "noi avevamo preveduto",
+                    "noi avevamo previsto",
+                    "noi avevamo presagito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praesenserātis",
+                "traduzioni": [
+                    "voi avevate preveduto",
+                    "voi avevate previsto",
+                    "voi avevate presagito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praesensĕrant",
+                "traduzioni": [
+                    "loro avevano preveduto",
+                    "essi avevano preveduto",
+                    "loro avevano previsto",
+                    "essi avevano previsto",
+                    "loro avevano presagito",
+                    "essi avevano presagito"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "praesensĕro",
+                "traduzioni": [
+                    "io avrò preveduto",
+                    "io avrò previsto",
+                    "io avrò presagito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praesensĕris",
+                "traduzioni": [
+                    "tu avrai preveduto",
+                    "tu avrai previsto",
+                    "tu avrai presagito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praesensĕrit",
+                "traduzioni": [
+                    "lui avrà preveduto",
+                    "lei avrà preveduto",
+                    "egli avrà preveduto",
+                    "lui avrà previsto",
+                    "lei avrà previsto",
+                    "egli avrà previsto",
+                    "lui avrà presagito",
+                    "lei avrà presagito",
+                    "egli avrà presagito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praesenserĭmus",
+                "traduzioni": [
+                    "noi avremo preveduto",
+                    "noi avremo previsto",
+                    "noi avremo presagito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praesenserĭtis",
+                "traduzioni": [
+                    "voi avrete preveduto",
+                    "voi avrete previsto",
+                    "voi avrete presagito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praesensĕrint",
+                "traduzioni": [
+                    "loro avranno preveduto",
+                    "essi avranno preveduto",
+                    "loro avranno previsto",
+                    "essi avranno previsto",
+                    "loro avranno presagito",
+                    "essi avranno presagito"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "praesentĭam",
+                "traduzioni": [
+                    "che io preveda",
+                    "che io presagisca"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praesentĭas",
+                "traduzioni": [
+                    "che tu preveda",
+                    "che tu presagisca"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praesentĭat",
+                "traduzioni": [
+                    "che lui preveda",
+                    "che lei preveda",
+                    "che egli preveda",
+                    "che lui presagisca",
+                    "che lei presagisca",
+                    "che egli presagisca"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praesentiāmus",
+                "traduzioni": [
+                    "che noi prevediamo",
+                    "che noi presagiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praesentiātis",
+                "traduzioni": [
+                    "che voi prevediate",
+                    "che voi presagiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praesentĭant",
+                "traduzioni": [
+                    "che loro prevedano",
+                    "che essi prevedano",
+                    "che loro presagiscano",
+                    "che essi presagiscano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praesentīrem",
+                "traduzioni": [
+                    "che io prevedessi",
+                    "che io presagissi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praesentīres",
+                "traduzioni": [
+                    "che tu prevedessi",
+                    "che tu presagissi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praesentīret",
+                "traduzioni": [
+                    "che lui prevedesse",
+                    "che lei prevedesse",
+                    "che egli prevedesse",
+                    "che lui presagisse",
+                    "che lei presagisse",
+                    "che egli presagisse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praesentirēmus",
+                "traduzioni": [
+                    "che noi prevedessimo",
+                    "che noi presagissimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praesentirētis",
+                "traduzioni": [
+                    "che voi prevedeste",
+                    "che voi presagiste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praesentīrent",
+                "traduzioni": [
+                    "che loro prevedessero",
+                    "che essi prevedessero",
+                    "che loro presagissero",
+                    "che essi presagissero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praesensĕrim",
+                "traduzioni": [
+                    "che io abbia preveduto",
+                    "che io abbia previsto",
+                    "che io abbia presagito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praesensĕris",
+                "traduzioni": [
+                    "che tu abbia preveduto",
+                    "che tu abbia previsto",
+                    "che tu abbia presagito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praesensĕrit",
+                "traduzioni": [
+                    "che lui abbia preveduto",
+                    "che lei abbia preveduto",
+                    "che egli abbia preveduto",
+                    "che lui abbia previsto",
+                    "che lei abbia previsto",
+                    "che egli abbia previsto",
+                    "che lui abbia presagito",
+                    "che lei abbia presagito",
+                    "che egli abbia presagito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praesenserĭmus",
+                "traduzioni": [
+                    "che noi abbiamo preveduto",
+                    "che noi abbiamo previsto",
+                    "che noi abbiamo presagito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praesenserĭtis",
+                "traduzioni": [
+                    "che voi abbiate preveduto",
+                    "che voi abbiate previsto",
+                    "che voi abbiate presagito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praesensĕrint",
+                "traduzioni": [
+                    "che loro abbiano preveduto",
+                    "che essi abbiano preveduto",
+                    "che loro abbiano previsto",
+                    "che essi abbiano previsto",
+                    "che loro abbiano presagito",
+                    "che essi abbiano presagito"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "praesensissem",
+                "traduzioni": [
+                    "che io avessi preveduto",
+                    "che io avessi previsto",
+                    "che io avessi presagito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "praesensisses",
+                "traduzioni": [
+                    "che tu avessi preveduto",
+                    "che tu avessi previsto",
+                    "che tu avessi presagito"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "praesensisset",
+                "traduzioni": [
+                    "che lui avesse preveduto",
+                    "che lei avesse preveduto",
+                    "che egli avesse preveduto",
+                    "che lui avesse previsto",
+                    "che lei avesse previsto",
+                    "che egli avesse previsto",
+                    "che lui avesse presagito",
+                    "che lei avesse presagito",
+                    "che egli avesse presagito"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "praesensissēmus",
+                "traduzioni": [
+                    "che noi avessimo preveduto",
+                    "che noi avessimo previsto",
+                    "che noi avessimo presagito"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "praesensissētis",
+                "traduzioni": [
+                    "che voi aveste preveduto",
+                    "che voi aveste previsto",
+                    "che voi aveste presagito"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "praesensissent",
+                "traduzioni": [
+                    "che loro avessero preveduto",
+                    "che essi avessero preveduto",
+                    "che loro avessero previsto",
+                    "che essi avessero previsto",
+                    "che loro avessero presagito",
+                    "che essi avessero presagito"
+                ]
+            }
+        ]
+    }
+}

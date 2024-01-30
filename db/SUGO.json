@@ -1,0 +1,502 @@
+{
+    "identifier": "SUGO",
+    "conuigazione": "3",
+    "translation": [
+        "succhiare"
+    ],
+    "valid_translations": [
+        "succhiare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sūgo",
+                "traduzioni": [
+                    "io succhio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sūgis",
+                "traduzioni": [
+                    "tu succhi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sūgit",
+                "traduzioni": [
+                    "lui succhia",
+                    "lei succhia",
+                    "egli succhia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sūgĭmus",
+                "traduzioni": [
+                    "noi succhiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sūgĭtis",
+                "traduzioni": [
+                    "voi succhiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sūgunt",
+                "traduzioni": [
+                    "loro succhiano",
+                    "essi succhiano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sūgēbam",
+                "traduzioni": [
+                    "io succhiavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sūgēbas",
+                "traduzioni": [
+                    "tu succhiavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sūgēbat",
+                "traduzioni": [
+                    "lui succhiava",
+                    "lei succhiava",
+                    "egli succhiava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sūgebāmus",
+                "traduzioni": [
+                    "noi succhiavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sūgebātis",
+                "traduzioni": [
+                    "voi succhiavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sūgēbant",
+                "traduzioni": [
+                    "loro succhiavano",
+                    "essi succhiavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sūgam",
+                "traduzioni": [
+                    "io succhierò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sūges",
+                "traduzioni": [
+                    "tu succhierai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sūget",
+                "traduzioni": [
+                    "lui succhierà",
+                    "lei succhierà",
+                    "egli succhierà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sūgēmus",
+                "traduzioni": [
+                    "noi succhieremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sūgētis",
+                "traduzioni": [
+                    "voi succhierete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sūgent",
+                "traduzioni": [
+                    "loro succhieranno",
+                    "essi succhieranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "suxi",
+                "traduzioni": [
+                    "io succhiai",
+                    "io ho succhiato",
+                    "io ebbi succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "suxisti",
+                "traduzioni": [
+                    "tu succhiasti",
+                    "tu hai succhiato",
+                    "tu avesti succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "suxit",
+                "traduzioni": [
+                    "lui succhiò",
+                    "lei succhiò",
+                    "egli succhiò",
+                    "lui ha succhiato",
+                    "lei ha succhiato",
+                    "egli ha succhiato",
+                    "lui ebbe succhiato",
+                    "lei ebbe succhiato",
+                    "egli ebbe succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "suxĭmus",
+                "traduzioni": [
+                    "noi succhiammo",
+                    "noi abbiamo succhiato",
+                    "noi avemmo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "suxistis",
+                "traduzioni": [
+                    "voi succhiaste",
+                    "voi avete succhiato",
+                    "voi aveste succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "suxērunt, suxēre",
+                "traduzioni": [
+                    "loro succhiarono",
+                    "essi succhiarono",
+                    "loro hanno succhiato",
+                    "essi hanno succhiato",
+                    "loro ebbero succhiato",
+                    "essi ebbero succhiato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "suxĕram",
+                "traduzioni": [
+                    "io avevo succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "suxĕras",
+                "traduzioni": [
+                    "tu avevi succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "suxĕrat",
+                "traduzioni": [
+                    "lui aveva succhiato",
+                    "lei aveva succhiato",
+                    "egli aveva succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "suxerāmus",
+                "traduzioni": [
+                    "noi avevamo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "suxerātis",
+                "traduzioni": [
+                    "voi avevate succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "suxĕrant",
+                "traduzioni": [
+                    "loro avevano succhiato",
+                    "essi avevano succhiato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "suxĕro",
+                "traduzioni": [
+                    "io avrò succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "suxĕris",
+                "traduzioni": [
+                    "tu avrai succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "suxĕrit",
+                "traduzioni": [
+                    "lui avrà succhiato",
+                    "lei avrà succhiato",
+                    "egli avrà succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "suxerĭmus",
+                "traduzioni": [
+                    "noi avremo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "suxerĭtis",
+                "traduzioni": [
+                    "voi avrete succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "suxĕrint",
+                "traduzioni": [
+                    "loro avranno succhiato",
+                    "essi avranno succhiato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sūgam",
+                "traduzioni": [
+                    "che io succhi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sūgas",
+                "traduzioni": [
+                    "che tu succhi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sūgat",
+                "traduzioni": [
+                    "che lui succhi",
+                    "che lei succhi",
+                    "che egli succhi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sūgāmus",
+                "traduzioni": [
+                    "che noi succhiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sūgātis",
+                "traduzioni": [
+                    "che voi succhiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sūgant",
+                "traduzioni": [
+                    "che loro succhino",
+                    "che essi succhino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sūgĕrem",
+                "traduzioni": [
+                    "che io succhiassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sūgĕres",
+                "traduzioni": [
+                    "che tu succhiassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sūgĕret",
+                "traduzioni": [
+                    "che lui succhiasse",
+                    "che lei succhiasse",
+                    "che egli succhiasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sūgerēmus",
+                "traduzioni": [
+                    "che noi succhiassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sūgerētis",
+                "traduzioni": [
+                    "che voi succhiaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sūgĕrent",
+                "traduzioni": [
+                    "che loro succhiassero",
+                    "che essi succhiassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "suxĕrim",
+                "traduzioni": [
+                    "che io abbia succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "suxĕris",
+                "traduzioni": [
+                    "che tu abbia succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "suxĕrit",
+                "traduzioni": [
+                    "che lui abbia succhiato",
+                    "che lei abbia succhiato",
+                    "che egli abbia succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "suxerĭmus",
+                "traduzioni": [
+                    "che noi abbiamo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "suxerĭtis",
+                "traduzioni": [
+                    "che voi abbiate succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "suxĕrint",
+                "traduzioni": [
+                    "che loro abbiano succhiato",
+                    "che essi abbiano succhiato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "suxissem",
+                "traduzioni": [
+                    "che io avessi succhiato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "suxisses",
+                "traduzioni": [
+                    "che tu avessi succhiato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "suxisset",
+                "traduzioni": [
+                    "che lui avesse succhiato",
+                    "che lei avesse succhiato",
+                    "che egli avesse succhiato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "suxissēmus",
+                "traduzioni": [
+                    "che noi avessimo succhiato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "suxissētis",
+                "traduzioni": [
+                    "che voi aveste succhiato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "suxissent",
+                "traduzioni": [
+                    "che loro avessero succhiato",
+                    "che essi avessero succhiato"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,943 @@
+{
+    "identifier": "LABO",
+    "conuigazione": "1",
+    "translation": [
+        "vacillare",
+        "barcollare",
+        "stare per cadere o per crollare",
+        "tentennare",
+        "dubitare",
+        "esitare"
+    ],
+    "valid_translations": [
+        "vacillare",
+        "barcollare",
+        "tentennare",
+        "dubitare",
+        "esitare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăbo",
+                "traduzioni": [
+                    "io vacillo",
+                    "io barcollo",
+                    "io tentenno",
+                    "io dubito",
+                    "io esito"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăbas",
+                "traduzioni": [
+                    "tu vacilli",
+                    "tu barcolli",
+                    "tu tentenni",
+                    "tu dubiti",
+                    "tu esiti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăbat",
+                "traduzioni": [
+                    "lui vacilla",
+                    "lei vacilla",
+                    "egli vacilla",
+                    "lui barcolla",
+                    "lei barcolla",
+                    "egli barcolla",
+                    "lui tentenna",
+                    "lei tentenna",
+                    "egli tentenna",
+                    "lui dubita",
+                    "lei dubita",
+                    "egli dubita",
+                    "lui esita",
+                    "lei esita",
+                    "egli esita"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăbāmus",
+                "traduzioni": [
+                    "noi vacilliamo",
+                    "noi barcolliamo",
+                    "noi tentenniamo",
+                    "noi dubitiamo",
+                    "noi esitiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăbātis",
+                "traduzioni": [
+                    "voi vacillate",
+                    "voi barcollate",
+                    "voi tentennate",
+                    "voi dubitate",
+                    "voi esitate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăbant",
+                "traduzioni": [
+                    "loro vacillano",
+                    "essi vacillano",
+                    "loro barcollano",
+                    "essi barcollano",
+                    "loro tentennano",
+                    "essi tentennano",
+                    "loro dubitano",
+                    "essi dubitano",
+                    "loro esitano",
+                    "essi esitano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăbābam",
+                "traduzioni": [
+                    "io vacillavo",
+                    "io barcollavo",
+                    "io tentennavo",
+                    "io dubitavo",
+                    "io esitavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăbābas",
+                "traduzioni": [
+                    "tu vacillavi",
+                    "tu barcollavi",
+                    "tu tentennavi",
+                    "tu dubitavi",
+                    "tu esitavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăbābat",
+                "traduzioni": [
+                    "lui vacillava",
+                    "lei vacillava",
+                    "egli vacillava",
+                    "lui barcollava",
+                    "lei barcollava",
+                    "egli barcollava",
+                    "lui tentennava",
+                    "lei tentennava",
+                    "egli tentennava",
+                    "lui dubitava",
+                    "lei dubitava",
+                    "egli dubitava",
+                    "lui esitava",
+                    "lei esitava",
+                    "egli esitava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăbabāmus",
+                "traduzioni": [
+                    "noi vacillavamo",
+                    "noi barcollavamo",
+                    "noi tentennavamo",
+                    "noi dubitavamo",
+                    "noi esitavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăbabātis",
+                "traduzioni": [
+                    "voi vacillavate",
+                    "voi barcollavate",
+                    "voi tentennavate",
+                    "voi dubitavate",
+                    "voi esitavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăbābant",
+                "traduzioni": [
+                    "loro vacillavano",
+                    "essi vacillavano",
+                    "loro barcollavano",
+                    "essi barcollavano",
+                    "loro tentennavano",
+                    "essi tentennavano",
+                    "loro dubitavano",
+                    "essi dubitavano",
+                    "loro esitavano",
+                    "essi esitavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăbābo",
+                "traduzioni": [
+                    "io vacillerò",
+                    "io barcollerò",
+                    "io tentennerò",
+                    "io dubiterò",
+                    "io esiterò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăbābis",
+                "traduzioni": [
+                    "tu vacillerai",
+                    "tu barcollerai",
+                    "tu tentennerai",
+                    "tu dubiterai",
+                    "tu esiterai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăbābit",
+                "traduzioni": [
+                    "lui vacillerà",
+                    "lei vacillerà",
+                    "egli vacillerà",
+                    "lui barcollerà",
+                    "lei barcollerà",
+                    "egli barcollerà",
+                    "lui tentennerà",
+                    "lei tentennerà",
+                    "egli tentennerà",
+                    "lui dubiterà",
+                    "lei dubiterà",
+                    "egli dubiterà",
+                    "lui esiterà",
+                    "lei esiterà",
+                    "egli esiterà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăbabĭmus",
+                "traduzioni": [
+                    "noi vacilleremo",
+                    "noi barcolleremo",
+                    "noi tentenneremo",
+                    "noi dubiteremo",
+                    "noi esiteremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăbabĭtis",
+                "traduzioni": [
+                    "voi vacillerete",
+                    "voi barcollerete",
+                    "voi tentennerete",
+                    "voi dubiterete",
+                    "voi esiterete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăbābunt",
+                "traduzioni": [
+                    "loro vacilleranno",
+                    "essi vacilleranno",
+                    "loro barcolleranno",
+                    "essi barcolleranno",
+                    "loro tentenneranno",
+                    "essi tentenneranno",
+                    "loro dubiteranno",
+                    "essi dubiteranno",
+                    "loro esiteranno",
+                    "essi esiteranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "labavi",
+                "traduzioni": [
+                    "io vacillai",
+                    "io ho vacillato",
+                    "io ebbi vacillato",
+                    "io barcollai",
+                    "io ho barcollato",
+                    "io ebbi barcollato",
+                    "io tentennai",
+                    "io ho tentennato",
+                    "io ebbi tentennato",
+                    "io dubitai",
+                    "io ho dubitato",
+                    "io ebbi dubitato",
+                    "io esitai",
+                    "io ho esitato",
+                    "io ebbi esitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "labavisti",
+                "traduzioni": [
+                    "tu vacillasti",
+                    "tu hai vacillato",
+                    "tu avesti vacillato",
+                    "tu barcollasti",
+                    "tu hai barcollato",
+                    "tu avesti barcollato",
+                    "tu tentennasti",
+                    "tu hai tentennato",
+                    "tu avesti tentennato",
+                    "tu dubitasti",
+                    "tu hai dubitato",
+                    "tu avesti dubitato",
+                    "tu esitasti",
+                    "tu hai esitato",
+                    "tu avesti esitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "labavit",
+                "traduzioni": [
+                    "lui vacillò",
+                    "lei vacillò",
+                    "egli vacillò",
+                    "lui ha vacillato",
+                    "lei ha vacillato",
+                    "egli ha vacillato",
+                    "lui ebbe vacillato",
+                    "lei ebbe vacillato",
+                    "egli ebbe vacillato",
+                    "lui barcollò",
+                    "lei barcollò",
+                    "egli barcollò",
+                    "lui ha barcollato",
+                    "lei ha barcollato",
+                    "egli ha barcollato",
+                    "lui ebbe barcollato",
+                    "lei ebbe barcollato",
+                    "egli ebbe barcollato",
+                    "lui tentennò",
+                    "lei tentennò",
+                    "egli tentennò",
+                    "lui ha tentennato",
+                    "lei ha tentennato",
+                    "egli ha tentennato",
+                    "lui ebbe tentennato",
+                    "lei ebbe tentennato",
+                    "egli ebbe tentennato",
+                    "lui dubitò",
+                    "lei dubitò",
+                    "egli dubitò",
+                    "lui ha dubitato",
+                    "lei ha dubitato",
+                    "egli ha dubitato",
+                    "lui ebbe dubitato",
+                    "lei ebbe dubitato",
+                    "egli ebbe dubitato",
+                    "lui esitò",
+                    "lei esitò",
+                    "egli esitò",
+                    "lui ha esitato",
+                    "lei ha esitato",
+                    "egli ha esitato",
+                    "lui ebbe esitato",
+                    "lei ebbe esitato",
+                    "egli ebbe esitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "labavĭmus",
+                "traduzioni": [
+                    "noi vacillammo",
+                    "noi abbiamo vacillato",
+                    "noi avemmo vacillato",
+                    "noi barcollammo",
+                    "noi abbiamo barcollato",
+                    "noi avemmo barcollato",
+                    "noi tentennammo",
+                    "noi abbiamo tentennato",
+                    "noi avemmo tentennato",
+                    "noi dubitammo",
+                    "noi abbiamo dubitato",
+                    "noi avemmo dubitato",
+                    "noi esitammo",
+                    "noi abbiamo esitato",
+                    "noi avemmo esitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "labavistis",
+                "traduzioni": [
+                    "voi vacillaste",
+                    "voi avete vacillato",
+                    "voi aveste vacillato",
+                    "voi barcollaste",
+                    "voi avete barcollato",
+                    "voi aveste barcollato",
+                    "voi tentennaste",
+                    "voi avete tentennato",
+                    "voi aveste tentennato",
+                    "voi dubitaste",
+                    "voi avete dubitato",
+                    "voi aveste dubitato",
+                    "voi esitaste",
+                    "voi avete esitato",
+                    "voi aveste esitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "labavērunt, labavēre",
+                "traduzioni": [
+                    "loro vacillarono",
+                    "essi vacillarono",
+                    "loro hanno vacillato",
+                    "essi hanno vacillato",
+                    "loro ebbero vacillato",
+                    "essi ebbero vacillato",
+                    "loro barcollarono",
+                    "essi barcollarono",
+                    "loro hanno barcollato",
+                    "essi hanno barcollato",
+                    "loro ebbero barcollato",
+                    "essi ebbero barcollato",
+                    "loro tentennarono",
+                    "essi tentennarono",
+                    "loro hanno tentennato",
+                    "essi hanno tentennato",
+                    "loro ebbero tentennato",
+                    "essi ebbero tentennato",
+                    "loro dubitarono",
+                    "essi dubitarono",
+                    "loro hanno dubitato",
+                    "essi hanno dubitato",
+                    "loro ebbero dubitato",
+                    "essi ebbero dubitato",
+                    "loro esitarono",
+                    "essi esitarono",
+                    "loro hanno esitato",
+                    "essi hanno esitato",
+                    "loro ebbero esitato",
+                    "essi ebbero esitato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "labavĕram",
+                "traduzioni": [
+                    "io avevo vacillato",
+                    "io avevo barcollato",
+                    "io avevo tentennato",
+                    "io avevo dubitato",
+                    "io avevo esitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "labavĕras",
+                "traduzioni": [
+                    "tu avevi vacillato",
+                    "tu avevi barcollato",
+                    "tu avevi tentennato",
+                    "tu avevi dubitato",
+                    "tu avevi esitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "labavĕrat",
+                "traduzioni": [
+                    "lui aveva vacillato",
+                    "lei aveva vacillato",
+                    "egli aveva vacillato",
+                    "lui aveva barcollato",
+                    "lei aveva barcollato",
+                    "egli aveva barcollato",
+                    "lui aveva tentennato",
+                    "lei aveva tentennato",
+                    "egli aveva tentennato",
+                    "lui aveva dubitato",
+                    "lei aveva dubitato",
+                    "egli aveva dubitato",
+                    "lui aveva esitato",
+                    "lei aveva esitato",
+                    "egli aveva esitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "labaverāmus",
+                "traduzioni": [
+                    "noi avevamo vacillato",
+                    "noi avevamo barcollato",
+                    "noi avevamo tentennato",
+                    "noi avevamo dubitato",
+                    "noi avevamo esitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "labaverātis",
+                "traduzioni": [
+                    "voi avevate vacillato",
+                    "voi avevate barcollato",
+                    "voi avevate tentennato",
+                    "voi avevate dubitato",
+                    "voi avevate esitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "labavĕrant",
+                "traduzioni": [
+                    "loro avevano vacillato",
+                    "essi avevano vacillato",
+                    "loro avevano barcollato",
+                    "essi avevano barcollato",
+                    "loro avevano tentennato",
+                    "essi avevano tentennato",
+                    "loro avevano dubitato",
+                    "essi avevano dubitato",
+                    "loro avevano esitato",
+                    "essi avevano esitato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "labavĕro",
+                "traduzioni": [
+                    "io avrò vacillato",
+                    "io avrò barcollato",
+                    "io avrò tentennato",
+                    "io avrò dubitato",
+                    "io avrò esitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "labavĕris",
+                "traduzioni": [
+                    "tu avrai vacillato",
+                    "tu avrai barcollato",
+                    "tu avrai tentennato",
+                    "tu avrai dubitato",
+                    "tu avrai esitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "labavĕrit",
+                "traduzioni": [
+                    "lui avrà vacillato",
+                    "lei avrà vacillato",
+                    "egli avrà vacillato",
+                    "lui avrà barcollato",
+                    "lei avrà barcollato",
+                    "egli avrà barcollato",
+                    "lui avrà tentennato",
+                    "lei avrà tentennato",
+                    "egli avrà tentennato",
+                    "lui avrà dubitato",
+                    "lei avrà dubitato",
+                    "egli avrà dubitato",
+                    "lui avrà esitato",
+                    "lei avrà esitato",
+                    "egli avrà esitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "labaverĭmus",
+                "traduzioni": [
+                    "noi avremo vacillato",
+                    "noi avremo barcollato",
+                    "noi avremo tentennato",
+                    "noi avremo dubitato",
+                    "noi avremo esitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "labaverĭtis",
+                "traduzioni": [
+                    "voi avrete vacillato",
+                    "voi avrete barcollato",
+                    "voi avrete tentennato",
+                    "voi avrete dubitato",
+                    "voi avrete esitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "labavĕrint",
+                "traduzioni": [
+                    "loro avranno vacillato",
+                    "essi avranno vacillato",
+                    "loro avranno barcollato",
+                    "essi avranno barcollato",
+                    "loro avranno tentennato",
+                    "essi avranno tentennato",
+                    "loro avranno dubitato",
+                    "essi avranno dubitato",
+                    "loro avranno esitato",
+                    "essi avranno esitato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăbem",
+                "traduzioni": [
+                    "che io vacilli",
+                    "che io barcolli",
+                    "che io tentenni",
+                    "che io dubiti",
+                    "che io esiti"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăbes",
+                "traduzioni": [
+                    "che tu vacilli",
+                    "che tu barcolli",
+                    "che tu tentenni",
+                    "che tu dubiti",
+                    "che tu esiti"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăbet",
+                "traduzioni": [
+                    "che lui vacilli",
+                    "che lei vacilli",
+                    "che egli vacilli",
+                    "che lui barcolli",
+                    "che lei barcolli",
+                    "che egli barcolli",
+                    "che lui tentenni",
+                    "che lei tentenni",
+                    "che egli tentenni",
+                    "che lui dubiti",
+                    "che lei dubiti",
+                    "che egli dubiti",
+                    "che lui esiti",
+                    "che lei esiti",
+                    "che egli esiti"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăbēmus",
+                "traduzioni": [
+                    "che noi vacilliamo",
+                    "che noi barcolliamo",
+                    "che noi tentenniamo",
+                    "che noi dubitiamo",
+                    "che noi esitiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăbētis",
+                "traduzioni": [
+                    "che voi vacilliate",
+                    "che voi barcolliate",
+                    "che voi tentenniate",
+                    "che voi dubitiate",
+                    "che voi esitiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăbent",
+                "traduzioni": [
+                    "che loro vacillino",
+                    "che essi vacillino",
+                    "che loro barcollino",
+                    "che essi barcollino",
+                    "che loro tentennino",
+                    "che essi tentennino",
+                    "che loro dubitino",
+                    "che essi dubitino",
+                    "che loro esitino",
+                    "che essi esitino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lăbārem",
+                "traduzioni": [
+                    "che io vacillassi",
+                    "che io barcollassi",
+                    "che io tentennassi",
+                    "che io dubitassi",
+                    "che io esitassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lăbāres",
+                "traduzioni": [
+                    "che tu vacillassi",
+                    "che tu barcollassi",
+                    "che tu tentennassi",
+                    "che tu dubitassi",
+                    "che tu esitassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lăbāret",
+                "traduzioni": [
+                    "che lui vacillasse",
+                    "che lei vacillasse",
+                    "che egli vacillasse",
+                    "che lui barcollasse",
+                    "che lei barcollasse",
+                    "che egli barcollasse",
+                    "che lui tentennasse",
+                    "che lei tentennasse",
+                    "che egli tentennasse",
+                    "che lui dubitasse",
+                    "che lei dubitasse",
+                    "che egli dubitasse",
+                    "che lui esitasse",
+                    "che lei esitasse",
+                    "che egli esitasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lăbarēmus",
+                "traduzioni": [
+                    "che noi vacillassimo",
+                    "che noi barcollassimo",
+                    "che noi tentennassimo",
+                    "che noi dubitassimo",
+                    "che noi esitassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lăbarētis",
+                "traduzioni": [
+                    "che voi vacillaste",
+                    "che voi barcollaste",
+                    "che voi tentennaste",
+                    "che voi dubitaste",
+                    "che voi esitaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lăbārent",
+                "traduzioni": [
+                    "che loro vacillassero",
+                    "che essi vacillassero",
+                    "che loro barcollassero",
+                    "che essi barcollassero",
+                    "che loro tentennassero",
+                    "che essi tentennassero",
+                    "che loro dubitassero",
+                    "che essi dubitassero",
+                    "che loro esitassero",
+                    "che essi esitassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "labavĕrim",
+                "traduzioni": [
+                    "che io abbia vacillato",
+                    "che io abbia barcollato",
+                    "che io abbia tentennato",
+                    "che io abbia dubitato",
+                    "che io abbia esitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "labavĕris",
+                "traduzioni": [
+                    "che tu abbia vacillato",
+                    "che tu abbia barcollato",
+                    "che tu abbia tentennato",
+                    "che tu abbia dubitato",
+                    "che tu abbia esitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "labavĕrit",
+                "traduzioni": [
+                    "che lui abbia vacillato",
+                    "che lei abbia vacillato",
+                    "che egli abbia vacillato",
+                    "che lui abbia barcollato",
+                    "che lei abbia barcollato",
+                    "che egli abbia barcollato",
+                    "che lui abbia tentennato",
+                    "che lei abbia tentennato",
+                    "che egli abbia tentennato",
+                    "che lui abbia dubitato",
+                    "che lei abbia dubitato",
+                    "che egli abbia dubitato",
+                    "che lui abbia esitato",
+                    "che lei abbia esitato",
+                    "che egli abbia esitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "labaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo vacillato",
+                    "che noi abbiamo barcollato",
+                    "che noi abbiamo tentennato",
+                    "che noi abbiamo dubitato",
+                    "che noi abbiamo esitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "labaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate vacillato",
+                    "che voi abbiate barcollato",
+                    "che voi abbiate tentennato",
+                    "che voi abbiate dubitato",
+                    "che voi abbiate esitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "labavĕrint",
+                "traduzioni": [
+                    "che loro abbiano vacillato",
+                    "che essi abbiano vacillato",
+                    "che loro abbiano barcollato",
+                    "che essi abbiano barcollato",
+                    "che loro abbiano tentennato",
+                    "che essi abbiano tentennato",
+                    "che loro abbiano dubitato",
+                    "che essi abbiano dubitato",
+                    "che loro abbiano esitato",
+                    "che essi abbiano esitato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "labavissem",
+                "traduzioni": [
+                    "che io avessi vacillato",
+                    "che io avessi barcollato",
+                    "che io avessi tentennato",
+                    "che io avessi dubitato",
+                    "che io avessi esitato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "labavisses",
+                "traduzioni": [
+                    "che tu avessi vacillato",
+                    "che tu avessi barcollato",
+                    "che tu avessi tentennato",
+                    "che tu avessi dubitato",
+                    "che tu avessi esitato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "labavisset",
+                "traduzioni": [
+                    "che lui avesse vacillato",
+                    "che lei avesse vacillato",
+                    "che egli avesse vacillato",
+                    "che lui avesse barcollato",
+                    "che lei avesse barcollato",
+                    "che egli avesse barcollato",
+                    "che lui avesse tentennato",
+                    "che lei avesse tentennato",
+                    "che egli avesse tentennato",
+                    "che lui avesse dubitato",
+                    "che lei avesse dubitato",
+                    "che egli avesse dubitato",
+                    "che lui avesse esitato",
+                    "che lei avesse esitato",
+                    "che egli avesse esitato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "labavissēmus",
+                "traduzioni": [
+                    "che noi avessimo vacillato",
+                    "che noi avessimo barcollato",
+                    "che noi avessimo tentennato",
+                    "che noi avessimo dubitato",
+                    "che noi avessimo esitato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "labavissētis",
+                "traduzioni": [
+                    "che voi aveste vacillato",
+                    "che voi aveste barcollato",
+                    "che voi aveste tentennato",
+                    "che voi aveste dubitato",
+                    "che voi aveste esitato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "labavissent",
+                "traduzioni": [
+                    "che loro avessero vacillato",
+                    "che essi avessero vacillato",
+                    "che loro avessero barcollato",
+                    "che essi avessero barcollato",
+                    "che loro avessero tentennato",
+                    "che essi avessero tentennato",
+                    "che loro avessero dubitato",
+                    "che essi avessero dubitato",
+                    "che loro avessero esitato",
+                    "che essi avessero esitato"
+                ]
+            }
+        ]
+    }
+}

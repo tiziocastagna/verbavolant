@@ -1,0 +1,1165 @@
+{
+    "identifier": "VENTILO",
+    "conuigazione": "1",
+    "translation": [
+        "agitare",
+        "scuotere",
+        "(in senso figurato) sobillare",
+        "agitare",
+        "eccitare",
+        "vilipendere",
+        "in senso figurato tormentare",
+        "esaminare",
+        "notizie) diffondere",
+        "divulgare"
+    ],
+    "valid_translations": [
+        "agitare",
+        "scuotere",
+        "agitare",
+        "eccitare",
+        "vilipendere",
+        "esaminare",
+        "divulgare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ventĭlo",
+                "traduzioni": [
+                    "io agito",
+                    "io scuoto",
+                    "io agito",
+                    "io eccito",
+                    "io vilipendo",
+                    "io esamino",
+                    "io divulgo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ventĭlas",
+                "traduzioni": [
+                    "tu agiti",
+                    "tu scuoti",
+                    "tu agiti",
+                    "tu ecciti",
+                    "tu vilipendi",
+                    "tu esamini",
+                    "tu divulghi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ventĭlat",
+                "traduzioni": [
+                    "lui agita",
+                    "lei agita",
+                    "egli agita",
+                    "lui scuote",
+                    "lei scuote",
+                    "egli scuote",
+                    "lui agita",
+                    "lei agita",
+                    "egli agita",
+                    "lui eccita",
+                    "lei eccita",
+                    "egli eccita",
+                    "lui vilipende",
+                    "lei vilipende",
+                    "egli vilipende",
+                    "lui esamina",
+                    "lei esamina",
+                    "egli esamina",
+                    "lui divulga",
+                    "lei divulga",
+                    "egli divulga"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ventĭlāmus",
+                "traduzioni": [
+                    "noi agitiamo",
+                    "noi sc(u)otiamo",
+                    "noi agitiamo",
+                    "noi eccitiamo",
+                    "noi vilipendiamo",
+                    "noi esaminiamo",
+                    "noi divulghiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ventĭlātis",
+                "traduzioni": [
+                    "voi agitate",
+                    "voi sc(u)otete",
+                    "voi agitate",
+                    "voi eccitate",
+                    "voi vilipendete",
+                    "voi esaminate",
+                    "voi divulgate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ventĭlant",
+                "traduzioni": [
+                    "loro agitano",
+                    "essi agitano",
+                    "loro scuotono",
+                    "essi scuotono",
+                    "loro agitano",
+                    "essi agitano",
+                    "loro eccitano",
+                    "essi eccitano",
+                    "loro vilipendono",
+                    "essi vilipendono",
+                    "loro esaminano",
+                    "essi esaminano",
+                    "loro divulgano",
+                    "essi divulgano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ventĭlābam",
+                "traduzioni": [
+                    "io agitavo",
+                    "io sc(u)otevo",
+                    "io agitavo",
+                    "io eccitavo",
+                    "io vilipendevo",
+                    "io esaminavo",
+                    "io divulgavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ventĭlābas",
+                "traduzioni": [
+                    "tu agitavi",
+                    "tu sc(u)otevi",
+                    "tu agitavi",
+                    "tu eccitavi",
+                    "tu vilipendevi",
+                    "tu esaminavi",
+                    "tu divulgavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ventĭlābat",
+                "traduzioni": [
+                    "lui agitava",
+                    "lei agitava",
+                    "egli agitava",
+                    "lui sc(u)oteva",
+                    "lei sc(u)oteva",
+                    "egli sc(u)oteva",
+                    "lui agitava",
+                    "lei agitava",
+                    "egli agitava",
+                    "lui eccitava",
+                    "lei eccitava",
+                    "egli eccitava",
+                    "lui vilipendeva",
+                    "lei vilipendeva",
+                    "egli vilipendeva",
+                    "lui esaminava",
+                    "lei esaminava",
+                    "egli esaminava",
+                    "lui divulgava",
+                    "lei divulgava",
+                    "egli divulgava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ventĭlabāmus",
+                "traduzioni": [
+                    "noi agitavamo",
+                    "noi sc(u)otevamo",
+                    "noi agitavamo",
+                    "noi eccitavamo",
+                    "noi vilipendevamo",
+                    "noi esaminavamo",
+                    "noi divulgavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ventĭlabātis",
+                "traduzioni": [
+                    "voi agitavate",
+                    "voi sc(u)otevate",
+                    "voi agitavate",
+                    "voi eccitavate",
+                    "voi vilipendevate",
+                    "voi esaminavate",
+                    "voi divulgavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ventĭlābant",
+                "traduzioni": [
+                    "loro agitavano",
+                    "essi agitavano",
+                    "loro sc(u)otevano",
+                    "essi sc(u)otevano",
+                    "loro agitavano",
+                    "essi agitavano",
+                    "loro eccitavano",
+                    "essi eccitavano",
+                    "loro vilipendevano",
+                    "essi vilipendevano",
+                    "loro esaminavano",
+                    "essi esaminavano",
+                    "loro divulgavano",
+                    "essi divulgavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ventĭlābo",
+                "traduzioni": [
+                    "io agiterò",
+                    "io sc(u)oterò",
+                    "io agiterò",
+                    "io ecciterò",
+                    "io vilipenderò",
+                    "io esaminerò",
+                    "io divulgherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ventĭlābis",
+                "traduzioni": [
+                    "tu agiterai",
+                    "tu sc(u)oterai",
+                    "tu agiterai",
+                    "tu ecciterai",
+                    "tu vilipenderai",
+                    "tu esaminerai",
+                    "tu divulgherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ventĭlābit",
+                "traduzioni": [
+                    "lui agiterà",
+                    "lei agiterà",
+                    "egli agiterà",
+                    "lui sc(u)oterà",
+                    "lei sc(u)oterà",
+                    "egli sc(u)oterà",
+                    "lui agiterà",
+                    "lei agiterà",
+                    "egli agiterà",
+                    "lui ecciterà",
+                    "lei ecciterà",
+                    "egli ecciterà",
+                    "lui vilipenderà",
+                    "lei vilipenderà",
+                    "egli vilipenderà",
+                    "lui esaminerà",
+                    "lei esaminerà",
+                    "egli esaminerà",
+                    "lui divulgherà",
+                    "lei divulgherà",
+                    "egli divulgherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ventĭlabĭmus",
+                "traduzioni": [
+                    "noi agiteremo",
+                    "noi sc(u)oteremo",
+                    "noi agiteremo",
+                    "noi ecciteremo",
+                    "noi vilipenderemo",
+                    "noi esamineremo",
+                    "noi divulgheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ventĭlabĭtis",
+                "traduzioni": [
+                    "voi agiterete",
+                    "voi sc(u)oterete",
+                    "voi agiterete",
+                    "voi ecciterete",
+                    "voi vilipenderete",
+                    "voi esaminerete",
+                    "voi divulgherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ventĭlābunt",
+                "traduzioni": [
+                    "loro agiteranno",
+                    "essi agiteranno",
+                    "loro sc(u)oteranno",
+                    "essi sc(u)oteranno",
+                    "loro agiteranno",
+                    "essi agiteranno",
+                    "loro ecciteranno",
+                    "essi ecciteranno",
+                    "loro vilipenderanno",
+                    "essi vilipenderanno",
+                    "loro esamineranno",
+                    "essi esamineranno",
+                    "loro divulgheranno",
+                    "essi divulgheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ventilavi",
+                "traduzioni": [
+                    "io agitai",
+                    "io ho agitato",
+                    "io ebbi agitato",
+                    "io scossi",
+                    "io ho scosso",
+                    "io ebbi scosso",
+                    "io agitai",
+                    "io ho agitato",
+                    "io ebbi agitato",
+                    "io eccitai",
+                    "io ho eccitato",
+                    "io ebbi eccitato",
+                    "io vilipesi",
+                    "io ho vilipeso",
+                    "io ebbi vilipeso",
+                    "io esaminai",
+                    "io ho esaminato",
+                    "io ebbi esaminato",
+                    "io divulgai",
+                    "io ho divulgato",
+                    "io ebbi divulgato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ventilavisti",
+                "traduzioni": [
+                    "tu agitasti",
+                    "tu hai agitato",
+                    "tu avesti agitato",
+                    "tu sc(u)otesti",
+                    "tu hai scosso",
+                    "tu avesti scosso",
+                    "tu agitasti",
+                    "tu hai agitato",
+                    "tu avesti agitato",
+                    "tu eccitasti",
+                    "tu hai eccitato",
+                    "tu avesti eccitato",
+                    "tu vilipendesti",
+                    "tu hai vilipeso",
+                    "tu avesti vilipeso",
+                    "tu esaminasti",
+                    "tu hai esaminato",
+                    "tu avesti esaminato",
+                    "tu divulgasti",
+                    "tu hai divulgato",
+                    "tu avesti divulgato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ventilavit",
+                "traduzioni": [
+                    "lui agitò",
+                    "lei agitò",
+                    "egli agitò",
+                    "lui ha agitato",
+                    "lei ha agitato",
+                    "egli ha agitato",
+                    "lui ebbe agitato",
+                    "lei ebbe agitato",
+                    "egli ebbe agitato",
+                    "lui scosse",
+                    "lei scosse",
+                    "egli scosse",
+                    "lui ha scosso",
+                    "lei ha scosso",
+                    "egli ha scosso",
+                    "lui ebbe scosso",
+                    "lei ebbe scosso",
+                    "egli ebbe scosso",
+                    "lui agitò",
+                    "lei agitò",
+                    "egli agitò",
+                    "lui ha agitato",
+                    "lei ha agitato",
+                    "egli ha agitato",
+                    "lui ebbe agitato",
+                    "lei ebbe agitato",
+                    "egli ebbe agitato",
+                    "lui eccitò",
+                    "lei eccitò",
+                    "egli eccitò",
+                    "lui ha eccitato",
+                    "lei ha eccitato",
+                    "egli ha eccitato",
+                    "lui ebbe eccitato",
+                    "lei ebbe eccitato",
+                    "egli ebbe eccitato",
+                    "lui vilipese",
+                    "lei vilipese",
+                    "egli vilipese",
+                    "lui ha vilipeso",
+                    "lei ha vilipeso",
+                    "egli ha vilipeso",
+                    "lui ebbe vilipeso",
+                    "lei ebbe vilipeso",
+                    "egli ebbe vilipeso",
+                    "lui esaminò",
+                    "lei esaminò",
+                    "egli esaminò",
+                    "lui ha esaminato",
+                    "lei ha esaminato",
+                    "egli ha esaminato",
+                    "lui ebbe esaminato",
+                    "lei ebbe esaminato",
+                    "egli ebbe esaminato",
+                    "lui divulgò",
+                    "lei divulgò",
+                    "egli divulgò",
+                    "lui ha divulgato",
+                    "lei ha divulgato",
+                    "egli ha divulgato",
+                    "lui ebbe divulgato",
+                    "lei ebbe divulgato",
+                    "egli ebbe divulgato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ventilavĭmus",
+                "traduzioni": [
+                    "noi agitammo",
+                    "noi abbiamo agitato",
+                    "noi avemmo agitato",
+                    "noi sc(u)otemmo",
+                    "noi abbiamo scosso",
+                    "noi avemmo scosso",
+                    "noi agitammo",
+                    "noi abbiamo agitato",
+                    "noi avemmo agitato",
+                    "noi eccitammo",
+                    "noi abbiamo eccitato",
+                    "noi avemmo eccitato",
+                    "noi vilipendemmo",
+                    "noi abbiamo vilipeso",
+                    "noi avemmo vilipeso",
+                    "noi esaminammo",
+                    "noi abbiamo esaminato",
+                    "noi avemmo esaminato",
+                    "noi divulgammo",
+                    "noi abbiamo divulgato",
+                    "noi avemmo divulgato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ventilavistis",
+                "traduzioni": [
+                    "voi agitaste",
+                    "voi avete agitato",
+                    "voi aveste agitato",
+                    "voi sc(u)oteste",
+                    "voi avete scosso",
+                    "voi aveste scosso",
+                    "voi agitaste",
+                    "voi avete agitato",
+                    "voi aveste agitato",
+                    "voi eccitaste",
+                    "voi avete eccitato",
+                    "voi aveste eccitato",
+                    "voi vilipendeste",
+                    "voi avete vilipeso",
+                    "voi aveste vilipeso",
+                    "voi esaminaste",
+                    "voi avete esaminato",
+                    "voi aveste esaminato",
+                    "voi divulgaste",
+                    "voi avete divulgato",
+                    "voi aveste divulgato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ventilavērunt, ventilavēre",
+                "traduzioni": [
+                    "loro agitarono",
+                    "essi agitarono",
+                    "loro hanno agitato",
+                    "essi hanno agitato",
+                    "loro ebbero agitato",
+                    "essi ebbero agitato",
+                    "loro scossero",
+                    "essi scossero",
+                    "loro hanno scosso",
+                    "essi hanno scosso",
+                    "loro ebbero scosso",
+                    "essi ebbero scosso",
+                    "loro agitarono",
+                    "essi agitarono",
+                    "loro hanno agitato",
+                    "essi hanno agitato",
+                    "loro ebbero agitato",
+                    "essi ebbero agitato",
+                    "loro eccitarono",
+                    "essi eccitarono",
+                    "loro hanno eccitato",
+                    "essi hanno eccitato",
+                    "loro ebbero eccitato",
+                    "essi ebbero eccitato",
+                    "loro vilipesero",
+                    "essi vilipesero",
+                    "loro hanno vilipeso",
+                    "essi hanno vilipeso",
+                    "loro ebbero vilipeso",
+                    "essi ebbero vilipeso",
+                    "loro esaminarono",
+                    "essi esaminarono",
+                    "loro hanno esaminato",
+                    "essi hanno esaminato",
+                    "loro ebbero esaminato",
+                    "essi ebbero esaminato",
+                    "loro divulgarono",
+                    "essi divulgarono",
+                    "loro hanno divulgato",
+                    "essi hanno divulgato",
+                    "loro ebbero divulgato",
+                    "essi ebbero divulgato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ventilavĕram",
+                "traduzioni": [
+                    "io avevo agitato",
+                    "io avevo scosso",
+                    "io avevo agitato",
+                    "io avevo eccitato",
+                    "io avevo vilipeso",
+                    "io avevo esaminato",
+                    "io avevo divulgato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ventilavĕras",
+                "traduzioni": [
+                    "tu avevi agitato",
+                    "tu avevi scosso",
+                    "tu avevi agitato",
+                    "tu avevi eccitato",
+                    "tu avevi vilipeso",
+                    "tu avevi esaminato",
+                    "tu avevi divulgato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ventilavĕrat",
+                "traduzioni": [
+                    "lui aveva agitato",
+                    "lei aveva agitato",
+                    "egli aveva agitato",
+                    "lui aveva scosso",
+                    "lei aveva scosso",
+                    "egli aveva scosso",
+                    "lui aveva agitato",
+                    "lei aveva agitato",
+                    "egli aveva agitato",
+                    "lui aveva eccitato",
+                    "lei aveva eccitato",
+                    "egli aveva eccitato",
+                    "lui aveva vilipeso",
+                    "lei aveva vilipeso",
+                    "egli aveva vilipeso",
+                    "lui aveva esaminato",
+                    "lei aveva esaminato",
+                    "egli aveva esaminato",
+                    "lui aveva divulgato",
+                    "lei aveva divulgato",
+                    "egli aveva divulgato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ventilaverāmus",
+                "traduzioni": [
+                    "noi avevamo agitato",
+                    "noi avevamo scosso",
+                    "noi avevamo agitato",
+                    "noi avevamo eccitato",
+                    "noi avevamo vilipeso",
+                    "noi avevamo esaminato",
+                    "noi avevamo divulgato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ventilaverātis",
+                "traduzioni": [
+                    "voi avevate agitato",
+                    "voi avevate scosso",
+                    "voi avevate agitato",
+                    "voi avevate eccitato",
+                    "voi avevate vilipeso",
+                    "voi avevate esaminato",
+                    "voi avevate divulgato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ventilavĕrant",
+                "traduzioni": [
+                    "loro avevano agitato",
+                    "essi avevano agitato",
+                    "loro avevano scosso",
+                    "essi avevano scosso",
+                    "loro avevano agitato",
+                    "essi avevano agitato",
+                    "loro avevano eccitato",
+                    "essi avevano eccitato",
+                    "loro avevano vilipeso",
+                    "essi avevano vilipeso",
+                    "loro avevano esaminato",
+                    "essi avevano esaminato",
+                    "loro avevano divulgato",
+                    "essi avevano divulgato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ventilavĕro",
+                "traduzioni": [
+                    "io avrò agitato",
+                    "io avrò scosso",
+                    "io avrò agitato",
+                    "io avrò eccitato",
+                    "io avrò vilipeso",
+                    "io avrò esaminato",
+                    "io avrò divulgato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ventilavĕris",
+                "traduzioni": [
+                    "tu avrai agitato",
+                    "tu avrai scosso",
+                    "tu avrai agitato",
+                    "tu avrai eccitato",
+                    "tu avrai vilipeso",
+                    "tu avrai esaminato",
+                    "tu avrai divulgato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ventilavĕrit",
+                "traduzioni": [
+                    "lui avrà agitato",
+                    "lei avrà agitato",
+                    "egli avrà agitato",
+                    "lui avrà scosso",
+                    "lei avrà scosso",
+                    "egli avrà scosso",
+                    "lui avrà agitato",
+                    "lei avrà agitato",
+                    "egli avrà agitato",
+                    "lui avrà eccitato",
+                    "lei avrà eccitato",
+                    "egli avrà eccitato",
+                    "lui avrà vilipeso",
+                    "lei avrà vilipeso",
+                    "egli avrà vilipeso",
+                    "lui avrà esaminato",
+                    "lei avrà esaminato",
+                    "egli avrà esaminato",
+                    "lui avrà divulgato",
+                    "lei avrà divulgato",
+                    "egli avrà divulgato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ventilaverĭmus",
+                "traduzioni": [
+                    "noi avremo agitato",
+                    "noi avremo scosso",
+                    "noi avremo agitato",
+                    "noi avremo eccitato",
+                    "noi avremo vilipeso",
+                    "noi avremo esaminato",
+                    "noi avremo divulgato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ventilaverĭtis",
+                "traduzioni": [
+                    "voi avrete agitato",
+                    "voi avrete scosso",
+                    "voi avrete agitato",
+                    "voi avrete eccitato",
+                    "voi avrete vilipeso",
+                    "voi avrete esaminato",
+                    "voi avrete divulgato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ventilavĕrint",
+                "traduzioni": [
+                    "loro avranno agitato",
+                    "essi avranno agitato",
+                    "loro avranno scosso",
+                    "essi avranno scosso",
+                    "loro avranno agitato",
+                    "essi avranno agitato",
+                    "loro avranno eccitato",
+                    "essi avranno eccitato",
+                    "loro avranno vilipeso",
+                    "essi avranno vilipeso",
+                    "loro avranno esaminato",
+                    "essi avranno esaminato",
+                    "loro avranno divulgato",
+                    "essi avranno divulgato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "ventĭlem",
+                "traduzioni": [
+                    "che io agiti",
+                    "che io scuota",
+                    "che io agiti",
+                    "che io ecciti",
+                    "che io vilipenda",
+                    "che io esamini",
+                    "che io divulghi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ventĭles",
+                "traduzioni": [
+                    "che tu agiti",
+                    "che tu scuota",
+                    "che tu agiti",
+                    "che tu ecciti",
+                    "che tu vilipenda",
+                    "che tu esamini",
+                    "che tu divulghi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ventĭlet",
+                "traduzioni": [
+                    "che lui agiti",
+                    "che lei agiti",
+                    "che egli agiti",
+                    "che lui scuota",
+                    "che lei scuota",
+                    "che egli scuota",
+                    "che lui agiti",
+                    "che lei agiti",
+                    "che egli agiti",
+                    "che lui ecciti",
+                    "che lei ecciti",
+                    "che egli ecciti",
+                    "che lui vilipenda",
+                    "che lei vilipenda",
+                    "che egli vilipenda",
+                    "che lui esamini",
+                    "che lei esamini",
+                    "che egli esamini",
+                    "che lui divulghi",
+                    "che lei divulghi",
+                    "che egli divulghi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ventĭlēmus",
+                "traduzioni": [
+                    "che noi agitiamo",
+                    "che noi sc(u)otiamo",
+                    "che noi agitiamo",
+                    "che noi eccitiamo",
+                    "che noi vilipendiamo",
+                    "che noi esaminiamo",
+                    "che noi divulghiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ventĭlētis",
+                "traduzioni": [
+                    "che voi agitiate",
+                    "che voi sc(u)otiate",
+                    "che voi agitiate",
+                    "che voi eccitiate",
+                    "che voi vilipendiate",
+                    "che voi esaminiate",
+                    "che voi divulghiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ventĭlent",
+                "traduzioni": [
+                    "che loro agitino",
+                    "che essi agitino",
+                    "che loro scuotano",
+                    "che essi scuotano",
+                    "che loro agitino",
+                    "che essi agitino",
+                    "che loro eccitino",
+                    "che essi eccitino",
+                    "che loro vilipendano",
+                    "che essi vilipendano",
+                    "che loro esaminino",
+                    "che essi esaminino",
+                    "che loro divulghino",
+                    "che essi divulghino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ventĭlārem",
+                "traduzioni": [
+                    "che io agitassi",
+                    "che io sc(u)otessi",
+                    "che io agitassi",
+                    "che io eccitassi",
+                    "che io vilipendessi",
+                    "che io esaminassi",
+                    "che io divulgassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ventĭlāres",
+                "traduzioni": [
+                    "che tu agitassi",
+                    "che tu sc(u)otessi",
+                    "che tu agitassi",
+                    "che tu eccitassi",
+                    "che tu vilipendessi",
+                    "che tu esaminassi",
+                    "che tu divulgassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ventĭlāret",
+                "traduzioni": [
+                    "che lui agitasse",
+                    "che lei agitasse",
+                    "che egli agitasse",
+                    "che lui sc(u)otesse",
+                    "che lei sc(u)otesse",
+                    "che egli sc(u)otesse",
+                    "che lui agitasse",
+                    "che lei agitasse",
+                    "che egli agitasse",
+                    "che lui eccitasse",
+                    "che lei eccitasse",
+                    "che egli eccitasse",
+                    "che lui vilipendesse",
+                    "che lei vilipendesse",
+                    "che egli vilipendesse",
+                    "che lui esaminasse",
+                    "che lei esaminasse",
+                    "che egli esaminasse",
+                    "che lui divulgasse",
+                    "che lei divulgasse",
+                    "che egli divulgasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ventĭlarēmus",
+                "traduzioni": [
+                    "che noi agitassimo",
+                    "che noi sc(u)otessimo",
+                    "che noi agitassimo",
+                    "che noi eccitassimo",
+                    "che noi vilipendessimo",
+                    "che noi esaminassimo",
+                    "che noi divulgassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ventĭlarētis",
+                "traduzioni": [
+                    "che voi agitaste",
+                    "che voi sc(u)oteste",
+                    "che voi agitaste",
+                    "che voi eccitaste",
+                    "che voi vilipendeste",
+                    "che voi esaminaste",
+                    "che voi divulgaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ventĭlārent",
+                "traduzioni": [
+                    "che loro agitassero",
+                    "che essi agitassero",
+                    "che loro sc(u)otessero",
+                    "che essi sc(u)otessero",
+                    "che loro agitassero",
+                    "che essi agitassero",
+                    "che loro eccitassero",
+                    "che essi eccitassero",
+                    "che loro vilipendessero",
+                    "che essi vilipendessero",
+                    "che loro esaminassero",
+                    "che essi esaminassero",
+                    "che loro divulgassero",
+                    "che essi divulgassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ventilavĕrim",
+                "traduzioni": [
+                    "che io abbia agitato",
+                    "che io abbia scosso",
+                    "che io abbia agitato",
+                    "che io abbia eccitato",
+                    "che io abbia vilipeso",
+                    "che io abbia esaminato",
+                    "che io abbia divulgato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ventilavĕris",
+                "traduzioni": [
+                    "che tu abbia agitato",
+                    "che tu abbia scosso",
+                    "che tu abbia agitato",
+                    "che tu abbia eccitato",
+                    "che tu abbia vilipeso",
+                    "che tu abbia esaminato",
+                    "che tu abbia divulgato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ventilavĕrit",
+                "traduzioni": [
+                    "che lui abbia agitato",
+                    "che lei abbia agitato",
+                    "che egli abbia agitato",
+                    "che lui abbia scosso",
+                    "che lei abbia scosso",
+                    "che egli abbia scosso",
+                    "che lui abbia agitato",
+                    "che lei abbia agitato",
+                    "che egli abbia agitato",
+                    "che lui abbia eccitato",
+                    "che lei abbia eccitato",
+                    "che egli abbia eccitato",
+                    "che lui abbia vilipeso",
+                    "che lei abbia vilipeso",
+                    "che egli abbia vilipeso",
+                    "che lui abbia esaminato",
+                    "che lei abbia esaminato",
+                    "che egli abbia esaminato",
+                    "che lui abbia divulgato",
+                    "che lei abbia divulgato",
+                    "che egli abbia divulgato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ventilaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo agitato",
+                    "che noi abbiamo scosso",
+                    "che noi abbiamo agitato",
+                    "che noi abbiamo eccitato",
+                    "che noi abbiamo vilipeso",
+                    "che noi abbiamo esaminato",
+                    "che noi abbiamo divulgato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ventilaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate agitato",
+                    "che voi abbiate scosso",
+                    "che voi abbiate agitato",
+                    "che voi abbiate eccitato",
+                    "che voi abbiate vilipeso",
+                    "che voi abbiate esaminato",
+                    "che voi abbiate divulgato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ventilavĕrint",
+                "traduzioni": [
+                    "che loro abbiano agitato",
+                    "che essi abbiano agitato",
+                    "che loro abbiano scosso",
+                    "che essi abbiano scosso",
+                    "che loro abbiano agitato",
+                    "che essi abbiano agitato",
+                    "che loro abbiano eccitato",
+                    "che essi abbiano eccitato",
+                    "che loro abbiano vilipeso",
+                    "che essi abbiano vilipeso",
+                    "che loro abbiano esaminato",
+                    "che essi abbiano esaminato",
+                    "che loro abbiano divulgato",
+                    "che essi abbiano divulgato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "ventilavissem",
+                "traduzioni": [
+                    "che io avessi agitato",
+                    "che io avessi scosso",
+                    "che io avessi agitato",
+                    "che io avessi eccitato",
+                    "che io avessi vilipeso",
+                    "che io avessi esaminato",
+                    "che io avessi divulgato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "ventilavisses",
+                "traduzioni": [
+                    "che tu avessi agitato",
+                    "che tu avessi scosso",
+                    "che tu avessi agitato",
+                    "che tu avessi eccitato",
+                    "che tu avessi vilipeso",
+                    "che tu avessi esaminato",
+                    "che tu avessi divulgato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "ventilavisset",
+                "traduzioni": [
+                    "che lui avesse agitato",
+                    "che lei avesse agitato",
+                    "che egli avesse agitato",
+                    "che lui avesse scosso",
+                    "che lei avesse scosso",
+                    "che egli avesse scosso",
+                    "che lui avesse agitato",
+                    "che lei avesse agitato",
+                    "che egli avesse agitato",
+                    "che lui avesse eccitato",
+                    "che lei avesse eccitato",
+                    "che egli avesse eccitato",
+                    "che lui avesse vilipeso",
+                    "che lei avesse vilipeso",
+                    "che egli avesse vilipeso",
+                    "che lui avesse esaminato",
+                    "che lei avesse esaminato",
+                    "che egli avesse esaminato",
+                    "che lui avesse divulgato",
+                    "che lei avesse divulgato",
+                    "che egli avesse divulgato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "ventilavissēmus",
+                "traduzioni": [
+                    "che noi avessimo agitato",
+                    "che noi avessimo scosso",
+                    "che noi avessimo agitato",
+                    "che noi avessimo eccitato",
+                    "che noi avessimo vilipeso",
+                    "che noi avessimo esaminato",
+                    "che noi avessimo divulgato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "ventilavissētis",
+                "traduzioni": [
+                    "che voi aveste agitato",
+                    "che voi aveste scosso",
+                    "che voi aveste agitato",
+                    "che voi aveste eccitato",
+                    "che voi aveste vilipeso",
+                    "che voi aveste esaminato",
+                    "che voi aveste divulgato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "ventilavissent",
+                "traduzioni": [
+                    "che loro avessero agitato",
+                    "che essi avessero agitato",
+                    "che loro avessero scosso",
+                    "che essi avessero scosso",
+                    "che loro avessero agitato",
+                    "che essi avessero agitato",
+                    "che loro avessero eccitato",
+                    "che essi avessero eccitato",
+                    "che loro avessero vilipeso",
+                    "che essi avessero vilipeso",
+                    "che loro avessero esaminato",
+                    "che essi avessero esaminato",
+                    "che loro avessero divulgato",
+                    "che essi avessero divulgato"
+                ]
+            }
+        ]
+    }
+}

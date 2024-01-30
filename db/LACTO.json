@@ -1,0 +1,612 @@
+{
+    "identifier": "LACTO",
+    "conuigazione": "1",
+    "translation": [
+        "allattare",
+        "poppare"
+    ],
+    "valid_translations": [
+        "allattare",
+        "poppare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lacto",
+                "traduzioni": [
+                    "io allatto",
+                    "io poppo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lactas",
+                "traduzioni": [
+                    "tu allatti",
+                    "tu poppi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lactat",
+                "traduzioni": [
+                    "lui allatta",
+                    "lei allatta",
+                    "egli allatta",
+                    "lui poppa",
+                    "lei poppa",
+                    "egli poppa"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lactāmus",
+                "traduzioni": [
+                    "noi allattiamo",
+                    "noi poppiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lactātis",
+                "traduzioni": [
+                    "voi allattate",
+                    "voi poppate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lactant",
+                "traduzioni": [
+                    "loro allattano",
+                    "essi allattano",
+                    "loro poppano",
+                    "essi poppano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lactābam",
+                "traduzioni": [
+                    "io allattavo",
+                    "io poppavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lactābas",
+                "traduzioni": [
+                    "tu allattavi",
+                    "tu poppavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lactābat",
+                "traduzioni": [
+                    "lui allattava",
+                    "lei allattava",
+                    "egli allattava",
+                    "lui poppava",
+                    "lei poppava",
+                    "egli poppava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lactabāmus",
+                "traduzioni": [
+                    "noi allattavamo",
+                    "noi poppavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lactabātis",
+                "traduzioni": [
+                    "voi allattavate",
+                    "voi poppavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lactābant",
+                "traduzioni": [
+                    "loro allattavano",
+                    "essi allattavano",
+                    "loro poppavano",
+                    "essi poppavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lactābo",
+                "traduzioni": [
+                    "io allatterò",
+                    "io popperò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lactābis",
+                "traduzioni": [
+                    "tu allatterai",
+                    "tu popperai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lactābit",
+                "traduzioni": [
+                    "lui allatterà",
+                    "lei allatterà",
+                    "egli allatterà",
+                    "lui popperà",
+                    "lei popperà",
+                    "egli popperà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lactabĭmus",
+                "traduzioni": [
+                    "noi allatteremo",
+                    "noi popperemo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lactabĭtis",
+                "traduzioni": [
+                    "voi allatterete",
+                    "voi popperete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lactābunt",
+                "traduzioni": [
+                    "loro allatteranno",
+                    "essi allatteranno",
+                    "loro popperanno",
+                    "essi popperanno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lactavi",
+                "traduzioni": [
+                    "io allattai",
+                    "io ho allattato",
+                    "io ebbi allattato",
+                    "io poppai",
+                    "io ho poppato",
+                    "io ebbi poppato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lactavisti",
+                "traduzioni": [
+                    "tu allattasti",
+                    "tu hai allattato",
+                    "tu avesti allattato",
+                    "tu poppasti",
+                    "tu hai poppato",
+                    "tu avesti poppato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lactavit",
+                "traduzioni": [
+                    "lui allattò",
+                    "lei allattò",
+                    "egli allattò",
+                    "lui ha allattato",
+                    "lei ha allattato",
+                    "egli ha allattato",
+                    "lui ebbe allattato",
+                    "lei ebbe allattato",
+                    "egli ebbe allattato",
+                    "lui poppò",
+                    "lei poppò",
+                    "egli poppò",
+                    "lui ha poppato",
+                    "lei ha poppato",
+                    "egli ha poppato",
+                    "lui ebbe poppato",
+                    "lei ebbe poppato",
+                    "egli ebbe poppato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lactavĭmus",
+                "traduzioni": [
+                    "noi allattammo",
+                    "noi abbiamo allattato",
+                    "noi avemmo allattato",
+                    "noi poppammo",
+                    "noi abbiamo poppato",
+                    "noi avemmo poppato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lactavistis",
+                "traduzioni": [
+                    "voi allattaste",
+                    "voi avete allattato",
+                    "voi aveste allattato",
+                    "voi poppaste",
+                    "voi avete poppato",
+                    "voi aveste poppato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lactavērunt, lactavēre",
+                "traduzioni": [
+                    "loro allattarono",
+                    "essi allattarono",
+                    "loro hanno allattato",
+                    "essi hanno allattato",
+                    "loro ebbero allattato",
+                    "essi ebbero allattato",
+                    "loro popparono",
+                    "essi popparono",
+                    "loro hanno poppato",
+                    "essi hanno poppato",
+                    "loro ebbero poppato",
+                    "essi ebbero poppato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lactavĕram",
+                "traduzioni": [
+                    "io avevo allattato",
+                    "io avevo poppato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lactavĕras",
+                "traduzioni": [
+                    "tu avevi allattato",
+                    "tu avevi poppato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lactavĕrat",
+                "traduzioni": [
+                    "lui aveva allattato",
+                    "lei aveva allattato",
+                    "egli aveva allattato",
+                    "lui aveva poppato",
+                    "lei aveva poppato",
+                    "egli aveva poppato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lactaverāmus",
+                "traduzioni": [
+                    "noi avevamo allattato",
+                    "noi avevamo poppato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lactaverātis",
+                "traduzioni": [
+                    "voi avevate allattato",
+                    "voi avevate poppato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lactavĕrant",
+                "traduzioni": [
+                    "loro avevano allattato",
+                    "essi avevano allattato",
+                    "loro avevano poppato",
+                    "essi avevano poppato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lactavĕro",
+                "traduzioni": [
+                    "io avrò allattato",
+                    "io avrò poppato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lactavĕris",
+                "traduzioni": [
+                    "tu avrai allattato",
+                    "tu avrai poppato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lactavĕrit",
+                "traduzioni": [
+                    "lui avrà allattato",
+                    "lei avrà allattato",
+                    "egli avrà allattato",
+                    "lui avrà poppato",
+                    "lei avrà poppato",
+                    "egli avrà poppato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lactaverĭmus",
+                "traduzioni": [
+                    "noi avremo allattato",
+                    "noi avremo poppato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lactaverĭtis",
+                "traduzioni": [
+                    "voi avrete allattato",
+                    "voi avrete poppato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lactavĕrint",
+                "traduzioni": [
+                    "loro avranno allattato",
+                    "essi avranno allattato",
+                    "loro avranno poppato",
+                    "essi avranno poppato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "lactem",
+                "traduzioni": [
+                    "che io allatti",
+                    "che io poppi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lactes",
+                "traduzioni": [
+                    "che tu allatti",
+                    "che tu poppi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lactet",
+                "traduzioni": [
+                    "che lui allatti",
+                    "che lei allatti",
+                    "che egli allatti",
+                    "che lui poppi",
+                    "che lei poppi",
+                    "che egli poppi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lactēmus",
+                "traduzioni": [
+                    "che noi allattiamo",
+                    "che noi poppiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lactētis",
+                "traduzioni": [
+                    "che voi allattiate",
+                    "che voi poppiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lactent",
+                "traduzioni": [
+                    "che loro allattino",
+                    "che essi allattino",
+                    "che loro poppino",
+                    "che essi poppino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lactārem",
+                "traduzioni": [
+                    "che io allattassi",
+                    "che io poppassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lactāres",
+                "traduzioni": [
+                    "che tu allattassi",
+                    "che tu poppassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lactāret",
+                "traduzioni": [
+                    "che lui allattasse",
+                    "che lei allattasse",
+                    "che egli allattasse",
+                    "che lui poppasse",
+                    "che lei poppasse",
+                    "che egli poppasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lactarēmus",
+                "traduzioni": [
+                    "che noi allattassimo",
+                    "che noi poppassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lactarētis",
+                "traduzioni": [
+                    "che voi allattaste",
+                    "che voi poppaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lactārent",
+                "traduzioni": [
+                    "che loro allattassero",
+                    "che essi allattassero",
+                    "che loro poppassero",
+                    "che essi poppassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lactavĕrim",
+                "traduzioni": [
+                    "che io abbia allattato",
+                    "che io abbia poppato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lactavĕris",
+                "traduzioni": [
+                    "che tu abbia allattato",
+                    "che tu abbia poppato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lactavĕrit",
+                "traduzioni": [
+                    "che lui abbia allattato",
+                    "che lei abbia allattato",
+                    "che egli abbia allattato",
+                    "che lui abbia poppato",
+                    "che lei abbia poppato",
+                    "che egli abbia poppato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lactaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo allattato",
+                    "che noi abbiamo poppato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lactaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate allattato",
+                    "che voi abbiate poppato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lactavĕrint",
+                "traduzioni": [
+                    "che loro abbiano allattato",
+                    "che essi abbiano allattato",
+                    "che loro abbiano poppato",
+                    "che essi abbiano poppato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "lactavissem",
+                "traduzioni": [
+                    "che io avessi allattato",
+                    "che io avessi poppato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "lactavisses",
+                "traduzioni": [
+                    "che tu avessi allattato",
+                    "che tu avessi poppato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "lactavisset",
+                "traduzioni": [
+                    "che lui avesse allattato",
+                    "che lei avesse allattato",
+                    "che egli avesse allattato",
+                    "che lui avesse poppato",
+                    "che lei avesse poppato",
+                    "che egli avesse poppato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "lactavissēmus",
+                "traduzioni": [
+                    "che noi avessimo allattato",
+                    "che noi avessimo poppato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "lactavissētis",
+                "traduzioni": [
+                    "che voi aveste allattato",
+                    "che voi aveste poppato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "lactavissent",
+                "traduzioni": [
+                    "che loro avessero allattato",
+                    "che essi avessero allattato",
+                    "che loro avessero poppato",
+                    "che essi avessero poppato"
+                ]
+            }
+        ]
+    }
+}

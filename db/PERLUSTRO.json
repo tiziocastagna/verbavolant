@@ -1,0 +1,1273 @@
+{
+    "identifier": "PERLUSTRO",
+    "conuigazione": "1",
+    "translation": [
+        "percorrere",
+        "attraversare",
+        "visitare",
+        "perlustrare",
+        "(in senso figurato) considerare",
+        "esaminare",
+        "scrutare",
+        "osservare",
+        "purificare"
+    ],
+    "valid_translations": [
+        "percorrere",
+        "attraversare",
+        "visitare",
+        "perlustrare",
+        "esaminare",
+        "scrutare",
+        "osservare",
+        "purificare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "perlustro",
+                "traduzioni": [
+                    "io percorro",
+                    "io attraverso",
+                    "io visito",
+                    "io perlustro",
+                    "io esamino",
+                    "io scruto",
+                    "io osservo",
+                    "io purifico"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perlustras",
+                "traduzioni": [
+                    "tu percorri",
+                    "tu attraversi",
+                    "tu visiti",
+                    "tu perlustri",
+                    "tu esamini",
+                    "tu scruti",
+                    "tu osservi",
+                    "tu purifichi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perlustrat",
+                "traduzioni": [
+                    "lui percorre",
+                    "lei percorre",
+                    "egli percorre",
+                    "lui attraversa",
+                    "lei attraversa",
+                    "egli attraversa",
+                    "lui visita",
+                    "lei visita",
+                    "egli visita",
+                    "lui perlustra",
+                    "lei perlustra",
+                    "egli perlustra",
+                    "lui esamina",
+                    "lei esamina",
+                    "egli esamina",
+                    "lui scruta",
+                    "lei scruta",
+                    "egli scruta",
+                    "lui osserva",
+                    "lei osserva",
+                    "egli osserva",
+                    "lui purifica",
+                    "lei purifica",
+                    "egli purifica"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perlustrāmus",
+                "traduzioni": [
+                    "noi percorriamo",
+                    "noi attraversiamo",
+                    "noi visitiamo",
+                    "noi perlustriamo",
+                    "noi esaminiamo",
+                    "noi scrutiamo",
+                    "noi osserviamo",
+                    "noi purifichiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perlustrātis",
+                "traduzioni": [
+                    "voi percorrete",
+                    "voi attraversate",
+                    "voi visitate",
+                    "voi perlustrate",
+                    "voi esaminate",
+                    "voi scrutate",
+                    "voi osservate",
+                    "voi purificate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perlustrant",
+                "traduzioni": [
+                    "loro percorrono",
+                    "essi percorrono",
+                    "loro attraversano",
+                    "essi attraversano",
+                    "loro visitano",
+                    "essi visitano",
+                    "loro perlustrano",
+                    "essi perlustrano",
+                    "loro esaminano",
+                    "essi esaminano",
+                    "loro scrutano",
+                    "essi scrutano",
+                    "loro osservano",
+                    "essi osservano",
+                    "loro purificano",
+                    "essi purificano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "perlustrābam",
+                "traduzioni": [
+                    "io percorrevo",
+                    "io attraversavo",
+                    "io visitavo",
+                    "io perlustravo",
+                    "io esaminavo",
+                    "io scrutavo",
+                    "io osservavo",
+                    "io purificavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perlustrābas",
+                "traduzioni": [
+                    "tu percorrevi",
+                    "tu attraversavi",
+                    "tu visitavi",
+                    "tu perlustravi",
+                    "tu esaminavi",
+                    "tu scrutavi",
+                    "tu osservavi",
+                    "tu purificavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perlustrābat",
+                "traduzioni": [
+                    "lui percorreva",
+                    "lei percorreva",
+                    "egli percorreva",
+                    "lui attraversava",
+                    "lei attraversava",
+                    "egli attraversava",
+                    "lui visitava",
+                    "lei visitava",
+                    "egli visitava",
+                    "lui perlustrava",
+                    "lei perlustrava",
+                    "egli perlustrava",
+                    "lui esaminava",
+                    "lei esaminava",
+                    "egli esaminava",
+                    "lui scrutava",
+                    "lei scrutava",
+                    "egli scrutava",
+                    "lui osservava",
+                    "lei osservava",
+                    "egli osservava",
+                    "lui purificava",
+                    "lei purificava",
+                    "egli purificava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perlustrabāmus",
+                "traduzioni": [
+                    "noi percorrevamo",
+                    "noi attraversavamo",
+                    "noi visitavamo",
+                    "noi perlustravamo",
+                    "noi esaminavamo",
+                    "noi scrutavamo",
+                    "noi osservavamo",
+                    "noi purificavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perlustrabātis",
+                "traduzioni": [
+                    "voi percorrevate",
+                    "voi attraversavate",
+                    "voi visitavate",
+                    "voi perlustravate",
+                    "voi esaminavate",
+                    "voi scrutavate",
+                    "voi osservavate",
+                    "voi purificavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perlustrābant",
+                "traduzioni": [
+                    "loro percorrevano",
+                    "essi percorrevano",
+                    "loro attraversavano",
+                    "essi attraversavano",
+                    "loro visitavano",
+                    "essi visitavano",
+                    "loro perlustravano",
+                    "essi perlustravano",
+                    "loro esaminavano",
+                    "essi esaminavano",
+                    "loro scrutavano",
+                    "essi scrutavano",
+                    "loro osservavano",
+                    "essi osservavano",
+                    "loro purificavano",
+                    "essi purificavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "perlustrābo",
+                "traduzioni": [
+                    "io percorrerò",
+                    "io attraverserò",
+                    "io visiterò",
+                    "io perlustrerò",
+                    "io esaminerò",
+                    "io scruterò",
+                    "io osserverò",
+                    "io purificherò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perlustrābis",
+                "traduzioni": [
+                    "tu percorrerai",
+                    "tu attraverserai",
+                    "tu visiterai",
+                    "tu perlustrerai",
+                    "tu esaminerai",
+                    "tu scruterai",
+                    "tu osserverai",
+                    "tu purificherai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perlustrābit",
+                "traduzioni": [
+                    "lui percorrerà",
+                    "lei percorrerà",
+                    "egli percorrerà",
+                    "lui attraverserà",
+                    "lei attraverserà",
+                    "egli attraverserà",
+                    "lui visiterà",
+                    "lei visiterà",
+                    "egli visiterà",
+                    "lui perlustrerà",
+                    "lei perlustrerà",
+                    "egli perlustrerà",
+                    "lui esaminerà",
+                    "lei esaminerà",
+                    "egli esaminerà",
+                    "lui scruterà",
+                    "lei scruterà",
+                    "egli scruterà",
+                    "lui osserverà",
+                    "lei osserverà",
+                    "egli osserverà",
+                    "lui purificherà",
+                    "lei purificherà",
+                    "egli purificherà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perlustrabĭmus",
+                "traduzioni": [
+                    "noi percorreremo",
+                    "noi attraverseremo",
+                    "noi visiteremo",
+                    "noi perlustreremo",
+                    "noi esamineremo",
+                    "noi scruteremo",
+                    "noi osserveremo",
+                    "noi purificheremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perlustrabĭtis",
+                "traduzioni": [
+                    "voi percorrerete",
+                    "voi attraverserete",
+                    "voi visiterete",
+                    "voi perlustrerete",
+                    "voi esaminerete",
+                    "voi scruterete",
+                    "voi osserverete",
+                    "voi purificherete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perlustrābunt",
+                "traduzioni": [
+                    "loro percorreranno",
+                    "essi percorreranno",
+                    "loro attraverseranno",
+                    "essi attraverseranno",
+                    "loro visiteranno",
+                    "essi visiteranno",
+                    "loro perlustreranno",
+                    "essi perlustreranno",
+                    "loro esamineranno",
+                    "essi esamineranno",
+                    "loro scruteranno",
+                    "essi scruteranno",
+                    "loro osserveranno",
+                    "essi osserveranno",
+                    "loro purificheranno",
+                    "essi purificheranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "perlustravi",
+                "traduzioni": [
+                    "io percorsi",
+                    "io ho percorso",
+                    "io ebbi percorso",
+                    "io attraversai",
+                    "io ho attraversato",
+                    "io ebbi attraversato",
+                    "io visitai",
+                    "io ho visitato",
+                    "io ebbi visitato",
+                    "io perlustrai",
+                    "io ho perlustrato",
+                    "io ebbi perlustrato",
+                    "io esaminai",
+                    "io ho esaminato",
+                    "io ebbi esaminato",
+                    "io scrutai",
+                    "io ho scrutato",
+                    "io ebbi scrutato",
+                    "io osservai",
+                    "io ho osservato",
+                    "io ebbi osservato",
+                    "io purificai",
+                    "io ho purificato",
+                    "io ebbi purificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perlustravisti",
+                "traduzioni": [
+                    "tu percorresti",
+                    "tu hai percorso",
+                    "tu avesti percorso",
+                    "tu attraversasti",
+                    "tu hai attraversato",
+                    "tu avesti attraversato",
+                    "tu visitasti",
+                    "tu hai visitato",
+                    "tu avesti visitato",
+                    "tu perlustrasti",
+                    "tu hai perlustrato",
+                    "tu avesti perlustrato",
+                    "tu esaminasti",
+                    "tu hai esaminato",
+                    "tu avesti esaminato",
+                    "tu scrutasti",
+                    "tu hai scrutato",
+                    "tu avesti scrutato",
+                    "tu osservasti",
+                    "tu hai osservato",
+                    "tu avesti osservato",
+                    "tu purificasti",
+                    "tu hai purificato",
+                    "tu avesti purificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perlustravit",
+                "traduzioni": [
+                    "lui percorse",
+                    "lei percorse",
+                    "egli percorse",
+                    "lui ha percorso",
+                    "lei ha percorso",
+                    "egli ha percorso",
+                    "lui ebbe percorso",
+                    "lei ebbe percorso",
+                    "egli ebbe percorso",
+                    "lui attraversò",
+                    "lei attraversò",
+                    "egli attraversò",
+                    "lui ha attraversato",
+                    "lei ha attraversato",
+                    "egli ha attraversato",
+                    "lui ebbe attraversato",
+                    "lei ebbe attraversato",
+                    "egli ebbe attraversato",
+                    "lui visitò",
+                    "lei visitò",
+                    "egli visitò",
+                    "lui ha visitato",
+                    "lei ha visitato",
+                    "egli ha visitato",
+                    "lui ebbe visitato",
+                    "lei ebbe visitato",
+                    "egli ebbe visitato",
+                    "lui perlustrò",
+                    "lei perlustrò",
+                    "egli perlustrò",
+                    "lui ha perlustrato",
+                    "lei ha perlustrato",
+                    "egli ha perlustrato",
+                    "lui ebbe perlustrato",
+                    "lei ebbe perlustrato",
+                    "egli ebbe perlustrato",
+                    "lui esaminò",
+                    "lei esaminò",
+                    "egli esaminò",
+                    "lui ha esaminato",
+                    "lei ha esaminato",
+                    "egli ha esaminato",
+                    "lui ebbe esaminato",
+                    "lei ebbe esaminato",
+                    "egli ebbe esaminato",
+                    "lui scrutò",
+                    "lei scrutò",
+                    "egli scrutò",
+                    "lui ha scrutato",
+                    "lei ha scrutato",
+                    "egli ha scrutato",
+                    "lui ebbe scrutato",
+                    "lei ebbe scrutato",
+                    "egli ebbe scrutato",
+                    "lui osservò",
+                    "lei osservò",
+                    "egli osservò",
+                    "lui ha osservato",
+                    "lei ha osservato",
+                    "egli ha osservato",
+                    "lui ebbe osservato",
+                    "lei ebbe osservato",
+                    "egli ebbe osservato",
+                    "lui purificò",
+                    "lei purificò",
+                    "egli purificò",
+                    "lui ha purificato",
+                    "lei ha purificato",
+                    "egli ha purificato",
+                    "lui ebbe purificato",
+                    "lei ebbe purificato",
+                    "egli ebbe purificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perlustravĭmus",
+                "traduzioni": [
+                    "noi percorremmo",
+                    "noi abbiamo percorso",
+                    "noi avemmo percorso",
+                    "noi attraversammo",
+                    "noi abbiamo attraversato",
+                    "noi avemmo attraversato",
+                    "noi visitammo",
+                    "noi abbiamo visitato",
+                    "noi avemmo visitato",
+                    "noi perlustrammo",
+                    "noi abbiamo perlustrato",
+                    "noi avemmo perlustrato",
+                    "noi esaminammo",
+                    "noi abbiamo esaminato",
+                    "noi avemmo esaminato",
+                    "noi scrutammo",
+                    "noi abbiamo scrutato",
+                    "noi avemmo scrutato",
+                    "noi osservammo",
+                    "noi abbiamo osservato",
+                    "noi avemmo osservato",
+                    "noi purificammo",
+                    "noi abbiamo purificato",
+                    "noi avemmo purificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perlustravistis",
+                "traduzioni": [
+                    "voi percorreste",
+                    "voi avete percorso",
+                    "voi aveste percorso",
+                    "voi attraversaste",
+                    "voi avete attraversato",
+                    "voi aveste attraversato",
+                    "voi visitaste",
+                    "voi avete visitato",
+                    "voi aveste visitato",
+                    "voi perlustraste",
+                    "voi avete perlustrato",
+                    "voi aveste perlustrato",
+                    "voi esaminaste",
+                    "voi avete esaminato",
+                    "voi aveste esaminato",
+                    "voi scrutaste",
+                    "voi avete scrutato",
+                    "voi aveste scrutato",
+                    "voi osservaste",
+                    "voi avete osservato",
+                    "voi aveste osservato",
+                    "voi purificaste",
+                    "voi avete purificato",
+                    "voi aveste purificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perlustravērunt, perlustravēre",
+                "traduzioni": [
+                    "loro percorsero",
+                    "essi percorsero",
+                    "loro hanno percorso",
+                    "essi hanno percorso",
+                    "loro ebbero percorso",
+                    "essi ebbero percorso",
+                    "loro attraversarono",
+                    "essi attraversarono",
+                    "loro hanno attraversato",
+                    "essi hanno attraversato",
+                    "loro ebbero attraversato",
+                    "essi ebbero attraversato",
+                    "loro visitarono",
+                    "essi visitarono",
+                    "loro hanno visitato",
+                    "essi hanno visitato",
+                    "loro ebbero visitato",
+                    "essi ebbero visitato",
+                    "loro perlustrarono",
+                    "essi perlustrarono",
+                    "loro hanno perlustrato",
+                    "essi hanno perlustrato",
+                    "loro ebbero perlustrato",
+                    "essi ebbero perlustrato",
+                    "loro esaminarono",
+                    "essi esaminarono",
+                    "loro hanno esaminato",
+                    "essi hanno esaminato",
+                    "loro ebbero esaminato",
+                    "essi ebbero esaminato",
+                    "loro scrutarono",
+                    "essi scrutarono",
+                    "loro hanno scrutato",
+                    "essi hanno scrutato",
+                    "loro ebbero scrutato",
+                    "essi ebbero scrutato",
+                    "loro osservarono",
+                    "essi osservarono",
+                    "loro hanno osservato",
+                    "essi hanno osservato",
+                    "loro ebbero osservato",
+                    "essi ebbero osservato",
+                    "loro purificarono",
+                    "essi purificarono",
+                    "loro hanno purificato",
+                    "essi hanno purificato",
+                    "loro ebbero purificato",
+                    "essi ebbero purificato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "perlustravĕram",
+                "traduzioni": [
+                    "io avevo percorso",
+                    "io avevo attraversato",
+                    "io avevo visitato",
+                    "io avevo perlustrato",
+                    "io avevo esaminato",
+                    "io avevo scrutato",
+                    "io avevo osservato",
+                    "io avevo purificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perlustravĕras",
+                "traduzioni": [
+                    "tu avevi percorso",
+                    "tu avevi attraversato",
+                    "tu avevi visitato",
+                    "tu avevi perlustrato",
+                    "tu avevi esaminato",
+                    "tu avevi scrutato",
+                    "tu avevi osservato",
+                    "tu avevi purificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perlustravĕrat",
+                "traduzioni": [
+                    "lui aveva percorso",
+                    "lei aveva percorso",
+                    "egli aveva percorso",
+                    "lui aveva attraversato",
+                    "lei aveva attraversato",
+                    "egli aveva attraversato",
+                    "lui aveva visitato",
+                    "lei aveva visitato",
+                    "egli aveva visitato",
+                    "lui aveva perlustrato",
+                    "lei aveva perlustrato",
+                    "egli aveva perlustrato",
+                    "lui aveva esaminato",
+                    "lei aveva esaminato",
+                    "egli aveva esaminato",
+                    "lui aveva scrutato",
+                    "lei aveva scrutato",
+                    "egli aveva scrutato",
+                    "lui aveva osservato",
+                    "lei aveva osservato",
+                    "egli aveva osservato",
+                    "lui aveva purificato",
+                    "lei aveva purificato",
+                    "egli aveva purificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perlustraverāmus",
+                "traduzioni": [
+                    "noi avevamo percorso",
+                    "noi avevamo attraversato",
+                    "noi avevamo visitato",
+                    "noi avevamo perlustrato",
+                    "noi avevamo esaminato",
+                    "noi avevamo scrutato",
+                    "noi avevamo osservato",
+                    "noi avevamo purificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perlustraverātis",
+                "traduzioni": [
+                    "voi avevate percorso",
+                    "voi avevate attraversato",
+                    "voi avevate visitato",
+                    "voi avevate perlustrato",
+                    "voi avevate esaminato",
+                    "voi avevate scrutato",
+                    "voi avevate osservato",
+                    "voi avevate purificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perlustravĕrant",
+                "traduzioni": [
+                    "loro avevano percorso",
+                    "essi avevano percorso",
+                    "loro avevano attraversato",
+                    "essi avevano attraversato",
+                    "loro avevano visitato",
+                    "essi avevano visitato",
+                    "loro avevano perlustrato",
+                    "essi avevano perlustrato",
+                    "loro avevano esaminato",
+                    "essi avevano esaminato",
+                    "loro avevano scrutato",
+                    "essi avevano scrutato",
+                    "loro avevano osservato",
+                    "essi avevano osservato",
+                    "loro avevano purificato",
+                    "essi avevano purificato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "perlustravĕro",
+                "traduzioni": [
+                    "io avrò percorso",
+                    "io avrò attraversato",
+                    "io avrò visitato",
+                    "io avrò perlustrato",
+                    "io avrò esaminato",
+                    "io avrò scrutato",
+                    "io avrò osservato",
+                    "io avrò purificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perlustravĕris",
+                "traduzioni": [
+                    "tu avrai percorso",
+                    "tu avrai attraversato",
+                    "tu avrai visitato",
+                    "tu avrai perlustrato",
+                    "tu avrai esaminato",
+                    "tu avrai scrutato",
+                    "tu avrai osservato",
+                    "tu avrai purificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perlustravĕrit",
+                "traduzioni": [
+                    "lui avrà percorso",
+                    "lei avrà percorso",
+                    "egli avrà percorso",
+                    "lui avrà attraversato",
+                    "lei avrà attraversato",
+                    "egli avrà attraversato",
+                    "lui avrà visitato",
+                    "lei avrà visitato",
+                    "egli avrà visitato",
+                    "lui avrà perlustrato",
+                    "lei avrà perlustrato",
+                    "egli avrà perlustrato",
+                    "lui avrà esaminato",
+                    "lei avrà esaminato",
+                    "egli avrà esaminato",
+                    "lui avrà scrutato",
+                    "lei avrà scrutato",
+                    "egli avrà scrutato",
+                    "lui avrà osservato",
+                    "lei avrà osservato",
+                    "egli avrà osservato",
+                    "lui avrà purificato",
+                    "lei avrà purificato",
+                    "egli avrà purificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perlustraverĭmus",
+                "traduzioni": [
+                    "noi avremo percorso",
+                    "noi avremo attraversato",
+                    "noi avremo visitato",
+                    "noi avremo perlustrato",
+                    "noi avremo esaminato",
+                    "noi avremo scrutato",
+                    "noi avremo osservato",
+                    "noi avremo purificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perlustraverĭtis",
+                "traduzioni": [
+                    "voi avrete percorso",
+                    "voi avrete attraversato",
+                    "voi avrete visitato",
+                    "voi avrete perlustrato",
+                    "voi avrete esaminato",
+                    "voi avrete scrutato",
+                    "voi avrete osservato",
+                    "voi avrete purificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perlustravĕrint",
+                "traduzioni": [
+                    "loro avranno percorso",
+                    "essi avranno percorso",
+                    "loro avranno attraversato",
+                    "essi avranno attraversato",
+                    "loro avranno visitato",
+                    "essi avranno visitato",
+                    "loro avranno perlustrato",
+                    "essi avranno perlustrato",
+                    "loro avranno esaminato",
+                    "essi avranno esaminato",
+                    "loro avranno scrutato",
+                    "essi avranno scrutato",
+                    "loro avranno osservato",
+                    "essi avranno osservato",
+                    "loro avranno purificato",
+                    "essi avranno purificato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "perlustrem",
+                "traduzioni": [
+                    "che io percorra",
+                    "che io attraversi",
+                    "che io visiti",
+                    "che io perlustri",
+                    "che io esamini",
+                    "che io scruti",
+                    "che io osservi",
+                    "che io purifichi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perlustres",
+                "traduzioni": [
+                    "che tu percorra",
+                    "che tu attraversi",
+                    "che tu visiti",
+                    "che tu perlustri",
+                    "che tu esamini",
+                    "che tu scruti",
+                    "che tu osservi",
+                    "che tu purifichi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perlustret",
+                "traduzioni": [
+                    "che lui percorra",
+                    "che lei percorra",
+                    "che egli percorra",
+                    "che lui attraversi",
+                    "che lei attraversi",
+                    "che egli attraversi",
+                    "che lui visiti",
+                    "che lei visiti",
+                    "che egli visiti",
+                    "che lui perlustri",
+                    "che lei perlustri",
+                    "che egli perlustri",
+                    "che lui esamini",
+                    "che lei esamini",
+                    "che egli esamini",
+                    "che lui scruti",
+                    "che lei scruti",
+                    "che egli scruti",
+                    "che lui osservi",
+                    "che lei osservi",
+                    "che egli osservi",
+                    "che lui purifichi",
+                    "che lei purifichi",
+                    "che egli purifichi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perlustrēmus",
+                "traduzioni": [
+                    "che noi percorriamo",
+                    "che noi attraversiamo",
+                    "che noi visitiamo",
+                    "che noi perlustriamo",
+                    "che noi esaminiamo",
+                    "che noi scrutiamo",
+                    "che noi osserviamo",
+                    "che noi purifichiamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perlustrētis",
+                "traduzioni": [
+                    "che voi percorriate",
+                    "che voi attraversiate",
+                    "che voi visitiate",
+                    "che voi perlustriate",
+                    "che voi esaminiate",
+                    "che voi scrutiate",
+                    "che voi osserviate",
+                    "che voi purifichiate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perlustrent",
+                "traduzioni": [
+                    "che loro percorrano",
+                    "che essi percorrano",
+                    "che loro attraversino",
+                    "che essi attraversino",
+                    "che loro visitino",
+                    "che essi visitino",
+                    "che loro perlustrino",
+                    "che essi perlustrino",
+                    "che loro esaminino",
+                    "che essi esaminino",
+                    "che loro scrutino",
+                    "che essi scrutino",
+                    "che loro osservino",
+                    "che essi osservino",
+                    "che loro purifichino",
+                    "che essi purifichino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "perlustrārem",
+                "traduzioni": [
+                    "che io percorressi",
+                    "che io attraversassi",
+                    "che io visitassi",
+                    "che io perlustrassi",
+                    "che io esaminassi",
+                    "che io scrutassi",
+                    "che io osservassi",
+                    "che io purificassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perlustrāres",
+                "traduzioni": [
+                    "che tu percorressi",
+                    "che tu attraversassi",
+                    "che tu visitassi",
+                    "che tu perlustrassi",
+                    "che tu esaminassi",
+                    "che tu scrutassi",
+                    "che tu osservassi",
+                    "che tu purificassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perlustrāret",
+                "traduzioni": [
+                    "che lui percorresse",
+                    "che lei percorresse",
+                    "che egli percorresse",
+                    "che lui attraversasse",
+                    "che lei attraversasse",
+                    "che egli attraversasse",
+                    "che lui visitasse",
+                    "che lei visitasse",
+                    "che egli visitasse",
+                    "che lui perlustrasse",
+                    "che lei perlustrasse",
+                    "che egli perlustrasse",
+                    "che lui esaminasse",
+                    "che lei esaminasse",
+                    "che egli esaminasse",
+                    "che lui scrutasse",
+                    "che lei scrutasse",
+                    "che egli scrutasse",
+                    "che lui osservasse",
+                    "che lei osservasse",
+                    "che egli osservasse",
+                    "che lui purificasse",
+                    "che lei purificasse",
+                    "che egli purificasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perlustrarēmus",
+                "traduzioni": [
+                    "che noi percorressimo",
+                    "che noi attraversassimo",
+                    "che noi visitassimo",
+                    "che noi perlustrassimo",
+                    "che noi esaminassimo",
+                    "che noi scrutassimo",
+                    "che noi osservassimo",
+                    "che noi purificassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perlustrarētis",
+                "traduzioni": [
+                    "che voi percorreste",
+                    "che voi attraversaste",
+                    "che voi visitaste",
+                    "che voi perlustraste",
+                    "che voi esaminaste",
+                    "che voi scrutaste",
+                    "che voi osservaste",
+                    "che voi purificaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perlustrārent",
+                "traduzioni": [
+                    "che loro percorressero",
+                    "che essi percorressero",
+                    "che loro attraversassero",
+                    "che essi attraversassero",
+                    "che loro visitassero",
+                    "che essi visitassero",
+                    "che loro perlustrassero",
+                    "che essi perlustrassero",
+                    "che loro esaminassero",
+                    "che essi esaminassero",
+                    "che loro scrutassero",
+                    "che essi scrutassero",
+                    "che loro osservassero",
+                    "che essi osservassero",
+                    "che loro purificassero",
+                    "che essi purificassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "perlustravĕrim",
+                "traduzioni": [
+                    "che io abbia percorso",
+                    "che io abbia attraversato",
+                    "che io abbia visitato",
+                    "che io abbia perlustrato",
+                    "che io abbia esaminato",
+                    "che io abbia scrutato",
+                    "che io abbia osservato",
+                    "che io abbia purificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perlustravĕris",
+                "traduzioni": [
+                    "che tu abbia percorso",
+                    "che tu abbia attraversato",
+                    "che tu abbia visitato",
+                    "che tu abbia perlustrato",
+                    "che tu abbia esaminato",
+                    "che tu abbia scrutato",
+                    "che tu abbia osservato",
+                    "che tu abbia purificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perlustravĕrit",
+                "traduzioni": [
+                    "che lui abbia percorso",
+                    "che lei abbia percorso",
+                    "che egli abbia percorso",
+                    "che lui abbia attraversato",
+                    "che lei abbia attraversato",
+                    "che egli abbia attraversato",
+                    "che lui abbia visitato",
+                    "che lei abbia visitato",
+                    "che egli abbia visitato",
+                    "che lui abbia perlustrato",
+                    "che lei abbia perlustrato",
+                    "che egli abbia perlustrato",
+                    "che lui abbia esaminato",
+                    "che lei abbia esaminato",
+                    "che egli abbia esaminato",
+                    "che lui abbia scrutato",
+                    "che lei abbia scrutato",
+                    "che egli abbia scrutato",
+                    "che lui abbia osservato",
+                    "che lei abbia osservato",
+                    "che egli abbia osservato",
+                    "che lui abbia purificato",
+                    "che lei abbia purificato",
+                    "che egli abbia purificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perlustraverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo percorso",
+                    "che noi abbiamo attraversato",
+                    "che noi abbiamo visitato",
+                    "che noi abbiamo perlustrato",
+                    "che noi abbiamo esaminato",
+                    "che noi abbiamo scrutato",
+                    "che noi abbiamo osservato",
+                    "che noi abbiamo purificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perlustraverĭtis",
+                "traduzioni": [
+                    "che voi abbiate percorso",
+                    "che voi abbiate attraversato",
+                    "che voi abbiate visitato",
+                    "che voi abbiate perlustrato",
+                    "che voi abbiate esaminato",
+                    "che voi abbiate scrutato",
+                    "che voi abbiate osservato",
+                    "che voi abbiate purificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perlustravĕrint",
+                "traduzioni": [
+                    "che loro abbiano percorso",
+                    "che essi abbiano percorso",
+                    "che loro abbiano attraversato",
+                    "che essi abbiano attraversato",
+                    "che loro abbiano visitato",
+                    "che essi abbiano visitato",
+                    "che loro abbiano perlustrato",
+                    "che essi abbiano perlustrato",
+                    "che loro abbiano esaminato",
+                    "che essi abbiano esaminato",
+                    "che loro abbiano scrutato",
+                    "che essi abbiano scrutato",
+                    "che loro abbiano osservato",
+                    "che essi abbiano osservato",
+                    "che loro abbiano purificato",
+                    "che essi abbiano purificato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "perlustravissem",
+                "traduzioni": [
+                    "che io avessi percorso",
+                    "che io avessi attraversato",
+                    "che io avessi visitato",
+                    "che io avessi perlustrato",
+                    "che io avessi esaminato",
+                    "che io avessi scrutato",
+                    "che io avessi osservato",
+                    "che io avessi purificato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "perlustravisses",
+                "traduzioni": [
+                    "che tu avessi percorso",
+                    "che tu avessi attraversato",
+                    "che tu avessi visitato",
+                    "che tu avessi perlustrato",
+                    "che tu avessi esaminato",
+                    "che tu avessi scrutato",
+                    "che tu avessi osservato",
+                    "che tu avessi purificato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "perlustravisset",
+                "traduzioni": [
+                    "che lui avesse percorso",
+                    "che lei avesse percorso",
+                    "che egli avesse percorso",
+                    "che lui avesse attraversato",
+                    "che lei avesse attraversato",
+                    "che egli avesse attraversato",
+                    "che lui avesse visitato",
+                    "che lei avesse visitato",
+                    "che egli avesse visitato",
+                    "che lui avesse perlustrato",
+                    "che lei avesse perlustrato",
+                    "che egli avesse perlustrato",
+                    "che lui avesse esaminato",
+                    "che lei avesse esaminato",
+                    "che egli avesse esaminato",
+                    "che lui avesse scrutato",
+                    "che lei avesse scrutato",
+                    "che egli avesse scrutato",
+                    "che lui avesse osservato",
+                    "che lei avesse osservato",
+                    "che egli avesse osservato",
+                    "che lui avesse purificato",
+                    "che lei avesse purificato",
+                    "che egli avesse purificato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "perlustravissēmus",
+                "traduzioni": [
+                    "che noi avessimo percorso",
+                    "che noi avessimo attraversato",
+                    "che noi avessimo visitato",
+                    "che noi avessimo perlustrato",
+                    "che noi avessimo esaminato",
+                    "che noi avessimo scrutato",
+                    "che noi avessimo osservato",
+                    "che noi avessimo purificato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "perlustravissētis",
+                "traduzioni": [
+                    "che voi aveste percorso",
+                    "che voi aveste attraversato",
+                    "che voi aveste visitato",
+                    "che voi aveste perlustrato",
+                    "che voi aveste esaminato",
+                    "che voi aveste scrutato",
+                    "che voi aveste osservato",
+                    "che voi aveste purificato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "perlustravissent",
+                "traduzioni": [
+                    "che loro avessero percorso",
+                    "che essi avessero percorso",
+                    "che loro avessero attraversato",
+                    "che essi avessero attraversato",
+                    "che loro avessero visitato",
+                    "che essi avessero visitato",
+                    "che loro avessero perlustrato",
+                    "che essi avessero perlustrato",
+                    "che loro avessero esaminato",
+                    "che essi avessero esaminato",
+                    "che loro avessero scrutato",
+                    "che essi avessero scrutato",
+                    "che loro avessero osservato",
+                    "che essi avessero osservato",
+                    "che loro avessero purificato",
+                    "che essi avessero purificato"
+                ]
+            }
+        ]
+    }
+}

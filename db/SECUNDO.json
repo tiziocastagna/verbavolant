@@ -1,0 +1,722 @@
+{
+    "identifier": "SECUNDO",
+    "conuigazione": "1",
+    "translation": [
+        "assecondare",
+        "favorire",
+        "propiziare"
+    ],
+    "valid_translations": [
+        "assecondare",
+        "favorire",
+        "propiziare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sĕcundo",
+                "traduzioni": [
+                    "io assecondo",
+                    "io favorisco",
+                    "io propizio"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sĕcundas",
+                "traduzioni": [
+                    "tu assecondi",
+                    "tu favorisci",
+                    "tu propizi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sĕcundat",
+                "traduzioni": [
+                    "lui asseconda",
+                    "lei asseconda",
+                    "egli asseconda",
+                    "lui favorisce",
+                    "lei favorisce",
+                    "egli favorisce",
+                    "lui propizia",
+                    "lei propizia",
+                    "egli propizia"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sĕcundāmus",
+                "traduzioni": [
+                    "noi assecondiamo",
+                    "noi favoriamo",
+                    "noi propiziamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sĕcundātis",
+                "traduzioni": [
+                    "voi assecondate",
+                    "voi favorite",
+                    "voi propiziate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sĕcundant",
+                "traduzioni": [
+                    "loro assecondano",
+                    "essi assecondano",
+                    "loro favoriscono",
+                    "essi favoriscono",
+                    "loro propiziano",
+                    "essi propiziano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sĕcundābam",
+                "traduzioni": [
+                    "io assecondavo",
+                    "io favorivo",
+                    "io propiziavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sĕcundābas",
+                "traduzioni": [
+                    "tu assecondavi",
+                    "tu favorivi",
+                    "tu propiziavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sĕcundābat",
+                "traduzioni": [
+                    "lui assecondava",
+                    "lei assecondava",
+                    "egli assecondava",
+                    "lui favoriva",
+                    "lei favoriva",
+                    "egli favoriva",
+                    "lui propiziava",
+                    "lei propiziava",
+                    "egli propiziava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sĕcundabāmus",
+                "traduzioni": [
+                    "noi assecondavamo",
+                    "noi favorivamo",
+                    "noi propiziavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sĕcundabātis",
+                "traduzioni": [
+                    "voi assecondavate",
+                    "voi favorivate",
+                    "voi propiziavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sĕcundābant",
+                "traduzioni": [
+                    "loro assecondavano",
+                    "essi assecondavano",
+                    "loro favorivano",
+                    "essi favorivano",
+                    "loro propiziavano",
+                    "essi propiziavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sĕcundābo",
+                "traduzioni": [
+                    "io asseconderò",
+                    "io favorirò",
+                    "io propizierò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sĕcundābis",
+                "traduzioni": [
+                    "tu asseconderai",
+                    "tu favorirai",
+                    "tu propizierai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sĕcundābit",
+                "traduzioni": [
+                    "lui asseconderà",
+                    "lei asseconderà",
+                    "egli asseconderà",
+                    "lui favorirà",
+                    "lei favorirà",
+                    "egli favorirà",
+                    "lui propizierà",
+                    "lei propizierà",
+                    "egli propizierà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sĕcundabĭmus",
+                "traduzioni": [
+                    "noi asseconderemo",
+                    "noi favoriremo",
+                    "noi propizieremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sĕcundabĭtis",
+                "traduzioni": [
+                    "voi asseconderete",
+                    "voi favorirete",
+                    "voi propizierete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sĕcundābunt",
+                "traduzioni": [
+                    "loro asseconderanno",
+                    "essi asseconderanno",
+                    "loro favoriranno",
+                    "essi favoriranno",
+                    "loro propizieranno",
+                    "essi propizieranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "secundavi",
+                "traduzioni": [
+                    "io assecondai",
+                    "io ho assecondato",
+                    "io ebbi assecondato",
+                    "io favorii",
+                    "io ho favorito",
+                    "io ebbi favorito",
+                    "io propiziai",
+                    "io ho propiziato",
+                    "io ebbi propiziato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "secundavisti",
+                "traduzioni": [
+                    "tu assecondasti",
+                    "tu hai assecondato",
+                    "tu avesti assecondato",
+                    "tu favoristi",
+                    "tu hai favorito",
+                    "tu avesti favorito",
+                    "tu propiziasti",
+                    "tu hai propiziato",
+                    "tu avesti propiziato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "secundavit",
+                "traduzioni": [
+                    "lui assecondò",
+                    "lei assecondò",
+                    "egli assecondò",
+                    "lui ha assecondato",
+                    "lei ha assecondato",
+                    "egli ha assecondato",
+                    "lui ebbe assecondato",
+                    "lei ebbe assecondato",
+                    "egli ebbe assecondato",
+                    "lui favorì",
+                    "lei favorì",
+                    "egli favorì",
+                    "lui ha favorito",
+                    "lei ha favorito",
+                    "egli ha favorito",
+                    "lui ebbe favorito",
+                    "lei ebbe favorito",
+                    "egli ebbe favorito",
+                    "lui propiziò",
+                    "lei propiziò",
+                    "egli propiziò",
+                    "lui ha propiziato",
+                    "lei ha propiziato",
+                    "egli ha propiziato",
+                    "lui ebbe propiziato",
+                    "lei ebbe propiziato",
+                    "egli ebbe propiziato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "secundavĭmus",
+                "traduzioni": [
+                    "noi assecondammo",
+                    "noi abbiamo assecondato",
+                    "noi avemmo assecondato",
+                    "noi favorimmo",
+                    "noi abbiamo favorito",
+                    "noi avemmo favorito",
+                    "noi propiziammo",
+                    "noi abbiamo propiziato",
+                    "noi avemmo propiziato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "secundavistis",
+                "traduzioni": [
+                    "voi assecondaste",
+                    "voi avete assecondato",
+                    "voi aveste assecondato",
+                    "voi favoriste",
+                    "voi avete favorito",
+                    "voi aveste favorito",
+                    "voi propiziaste",
+                    "voi avete propiziato",
+                    "voi aveste propiziato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "secundavērunt, secundavēre",
+                "traduzioni": [
+                    "loro assecondarono",
+                    "essi assecondarono",
+                    "loro hanno assecondato",
+                    "essi hanno assecondato",
+                    "loro ebbero assecondato",
+                    "essi ebbero assecondato",
+                    "loro favorirono",
+                    "essi favorirono",
+                    "loro hanno favorito",
+                    "essi hanno favorito",
+                    "loro ebbero favorito",
+                    "essi ebbero favorito",
+                    "loro propiziarono",
+                    "essi propiziarono",
+                    "loro hanno propiziato",
+                    "essi hanno propiziato",
+                    "loro ebbero propiziato",
+                    "essi ebbero propiziato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "secundavĕram",
+                "traduzioni": [
+                    "io avevo assecondato",
+                    "io avevo favorito",
+                    "io avevo propiziato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "secundavĕras",
+                "traduzioni": [
+                    "tu avevi assecondato",
+                    "tu avevi favorito",
+                    "tu avevi propiziato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "secundavĕrat",
+                "traduzioni": [
+                    "lui aveva assecondato",
+                    "lei aveva assecondato",
+                    "egli aveva assecondato",
+                    "lui aveva favorito",
+                    "lei aveva favorito",
+                    "egli aveva favorito",
+                    "lui aveva propiziato",
+                    "lei aveva propiziato",
+                    "egli aveva propiziato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "secundaverāmus",
+                "traduzioni": [
+                    "noi avevamo assecondato",
+                    "noi avevamo favorito",
+                    "noi avevamo propiziato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "secundaverātis",
+                "traduzioni": [
+                    "voi avevate assecondato",
+                    "voi avevate favorito",
+                    "voi avevate propiziato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "secundavĕrant",
+                "traduzioni": [
+                    "loro avevano assecondato",
+                    "essi avevano assecondato",
+                    "loro avevano favorito",
+                    "essi avevano favorito",
+                    "loro avevano propiziato",
+                    "essi avevano propiziato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "secundavĕro",
+                "traduzioni": [
+                    "io avrò assecondato",
+                    "io avrò favorito",
+                    "io avrò propiziato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "secundavĕris",
+                "traduzioni": [
+                    "tu avrai assecondato",
+                    "tu avrai favorito",
+                    "tu avrai propiziato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "secundavĕrit",
+                "traduzioni": [
+                    "lui avrà assecondato",
+                    "lei avrà assecondato",
+                    "egli avrà assecondato",
+                    "lui avrà favorito",
+                    "lei avrà favorito",
+                    "egli avrà favorito",
+                    "lui avrà propiziato",
+                    "lei avrà propiziato",
+                    "egli avrà propiziato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "secundaverĭmus",
+                "traduzioni": [
+                    "noi avremo assecondato",
+                    "noi avremo favorito",
+                    "noi avremo propiziato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "secundaverĭtis",
+                "traduzioni": [
+                    "voi avrete assecondato",
+                    "voi avrete favorito",
+                    "voi avrete propiziato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "secundavĕrint",
+                "traduzioni": [
+                    "loro avranno assecondato",
+                    "essi avranno assecondato",
+                    "loro avranno favorito",
+                    "essi avranno favorito",
+                    "loro avranno propiziato",
+                    "essi avranno propiziato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "sĕcundem",
+                "traduzioni": [
+                    "che io assecondi",
+                    "che io favorisca",
+                    "che io propizi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sĕcundes",
+                "traduzioni": [
+                    "che tu assecondi",
+                    "che tu favorisca",
+                    "che tu propizi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sĕcundet",
+                "traduzioni": [
+                    "che lui assecondi",
+                    "che lei assecondi",
+                    "che egli assecondi",
+                    "che lui favorisca",
+                    "che lei favorisca",
+                    "che egli favorisca",
+                    "che lui propizi",
+                    "che lei propizi",
+                    "che egli propizi"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sĕcundēmus",
+                "traduzioni": [
+                    "che noi assecondiamo",
+                    "che noi favoriamo",
+                    "che noi propiziamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sĕcundētis",
+                "traduzioni": [
+                    "che voi assecondiate",
+                    "che voi favoriate",
+                    "che voi propiziate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sĕcundent",
+                "traduzioni": [
+                    "che loro assecondino",
+                    "che essi assecondino",
+                    "che loro favoriscano",
+                    "che essi favoriscano",
+                    "che loro propizino",
+                    "che essi propizino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "sĕcundārem",
+                "traduzioni": [
+                    "che io assecondassi",
+                    "che io favorissi",
+                    "che io propiziassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "sĕcundāres",
+                "traduzioni": [
+                    "che tu assecondassi",
+                    "che tu favorissi",
+                    "che tu propiziassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "sĕcundāret",
+                "traduzioni": [
+                    "che lui assecondasse",
+                    "che lei assecondasse",
+                    "che egli assecondasse",
+                    "che lui favorisse",
+                    "che lei favorisse",
+                    "che egli favorisse",
+                    "che lui propiziasse",
+                    "che lei propiziasse",
+                    "che egli propiziasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "sĕcundarēmus",
+                "traduzioni": [
+                    "che noi assecondassimo",
+                    "che noi favorissimo",
+                    "che noi propiziassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "sĕcundarētis",
+                "traduzioni": [
+                    "che voi assecondaste",
+                    "che voi favoriste",
+                    "che voi propiziaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "sĕcundārent",
+                "traduzioni": [
+                    "che loro assecondassero",
+                    "che essi assecondassero",
+                    "che loro favorissero",
+                    "che essi favorissero",
+                    "che loro propiziassero",
+                    "che essi propiziassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "secundavĕrim",
+                "traduzioni": [
+                    "che io abbia assecondato",
+                    "che io abbia favorito",
+                    "che io abbia propiziato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "secundavĕris",
+                "traduzioni": [
+                    "che tu abbia assecondato",
+                    "che tu abbia favorito",
+                    "che tu abbia propiziato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "secundavĕrit",
+                "traduzioni": [
+                    "che lui abbia assecondato",
+                    "che lei abbia assecondato",
+                    "che egli abbia assecondato",
+                    "che lui abbia favorito",
+                    "che lei abbia favorito",
+                    "che egli abbia favorito",
+                    "che lui abbia propiziato",
+                    "che lei abbia propiziato",
+                    "che egli abbia propiziato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "secundaverĭmus",
+                "traduzioni": [
+                    "che noi abbiamo assecondato",
+                    "che noi abbiamo favorito",
+                    "che noi abbiamo propiziato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "secundaverĭtis",
+                "traduzioni": [
+                    "che voi abbiate assecondato",
+                    "che voi abbiate favorito",
+                    "che voi abbiate propiziato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "secundavĕrint",
+                "traduzioni": [
+                    "che loro abbiano assecondato",
+                    "che essi abbiano assecondato",
+                    "che loro abbiano favorito",
+                    "che essi abbiano favorito",
+                    "che loro abbiano propiziato",
+                    "che essi abbiano propiziato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "secundavissem",
+                "traduzioni": [
+                    "che io avessi assecondato",
+                    "che io avessi favorito",
+                    "che io avessi propiziato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "secundavisses",
+                "traduzioni": [
+                    "che tu avessi assecondato",
+                    "che tu avessi favorito",
+                    "che tu avessi propiziato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "secundavisset",
+                "traduzioni": [
+                    "che lui avesse assecondato",
+                    "che lei avesse assecondato",
+                    "che egli avesse assecondato",
+                    "che lui avesse favorito",
+                    "che lei avesse favorito",
+                    "che egli avesse favorito",
+                    "che lui avesse propiziato",
+                    "che lei avesse propiziato",
+                    "che egli avesse propiziato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "secundavissēmus",
+                "traduzioni": [
+                    "che noi avessimo assecondato",
+                    "che noi avessimo favorito",
+                    "che noi avessimo propiziato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "secundavissētis",
+                "traduzioni": [
+                    "che voi aveste assecondato",
+                    "che voi aveste favorito",
+                    "che voi aveste propiziato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "secundavissent",
+                "traduzioni": [
+                    "che loro avessero assecondato",
+                    "che essi avessero assecondato",
+                    "che loro avessero favorito",
+                    "che essi avessero favorito",
+                    "che loro avessero propiziato",
+                    "che essi avessero propiziato"
+                ]
+            }
+        ]
+    }
+}

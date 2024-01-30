@@ -1,0 +1,1052 @@
+{
+    "identifier": "DEFENDO",
+    "conuigazione": "3",
+    "translation": [
+        "allontanare",
+        "respingere",
+        "rimuovere",
+        "difendere",
+        "proteggere",
+        "tutelare"
+    ],
+    "valid_translations": [
+        "allontanare",
+        "respingere",
+        "rimuovere",
+        "difendere",
+        "proteggere",
+        "tutelare"
+    ],
+    "INDICATIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēfendo",
+                "traduzioni": [
+                    "io allontano",
+                    "io respingo",
+                    "io rimuovo",
+                    "io difendo",
+                    "io proteggo",
+                    "io tutelo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēfendis",
+                "traduzioni": [
+                    "tu allontani",
+                    "tu respingi",
+                    "tu rimuovi",
+                    "tu difendi",
+                    "tu proteggi",
+                    "tu tuteli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēfendit",
+                "traduzioni": [
+                    "lui allontana",
+                    "lei allontana",
+                    "egli allontana",
+                    "lui respinge",
+                    "lei respinge",
+                    "egli respinge",
+                    "lui rimuove",
+                    "lei rimuove",
+                    "egli rimuove",
+                    "lui difende",
+                    "lei difende",
+                    "egli difende",
+                    "lui protegge",
+                    "lei protegge",
+                    "egli protegge",
+                    "lui tutela",
+                    "lei tutela",
+                    "egli tutela"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēfendĭmus",
+                "traduzioni": [
+                    "noi allontaniamo",
+                    "noi respingiamo",
+                    "noi rim(u)oviamo",
+                    "noi difendiamo",
+                    "noi proteggiamo",
+                    "noi tuteliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēfendĭtis",
+                "traduzioni": [
+                    "voi allontanate",
+                    "voi respingete",
+                    "voi rim(u)ovete",
+                    "voi difendete",
+                    "voi proteggete",
+                    "voi tutelate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēfendunt",
+                "traduzioni": [
+                    "loro allontanano",
+                    "essi allontanano",
+                    "loro respingono",
+                    "essi respingono",
+                    "loro rimuovono",
+                    "essi rimuovono",
+                    "loro difendono",
+                    "essi difendono",
+                    "loro proteggono",
+                    "essi proteggono",
+                    "loro tutelano",
+                    "essi tutelano"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēfendēbam",
+                "traduzioni": [
+                    "io allontanavo",
+                    "io respingevo",
+                    "io rim(u)ovevo",
+                    "io difendevo",
+                    "io proteggevo",
+                    "io tutelavo"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēfendēbas",
+                "traduzioni": [
+                    "tu allontanavi",
+                    "tu respingevi",
+                    "tu rim(u)ovevi",
+                    "tu difendevi",
+                    "tu proteggevi",
+                    "tu tutelavi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēfendēbat",
+                "traduzioni": [
+                    "lui allontanava",
+                    "lei allontanava",
+                    "egli allontanava",
+                    "lui respingeva",
+                    "lei respingeva",
+                    "egli respingeva",
+                    "lui rim(u)oveva",
+                    "lei rim(u)oveva",
+                    "egli rim(u)oveva",
+                    "lui difendeva",
+                    "lei difendeva",
+                    "egli difendeva",
+                    "lui proteggeva",
+                    "lei proteggeva",
+                    "egli proteggeva",
+                    "lui tutelava",
+                    "lei tutelava",
+                    "egli tutelava"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēfendebāmus",
+                "traduzioni": [
+                    "noi allontanavamo",
+                    "noi respingevamo",
+                    "noi rim(u)ovevamo",
+                    "noi difendevamo",
+                    "noi proteggevamo",
+                    "noi tutelavamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēfendebātis",
+                "traduzioni": [
+                    "voi allontanavate",
+                    "voi respingevate",
+                    "voi rim(u)ovevate",
+                    "voi difendevate",
+                    "voi proteggevate",
+                    "voi tutelavate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēfendēbant",
+                "traduzioni": [
+                    "loro allontanavano",
+                    "essi allontanavano",
+                    "loro respingevano",
+                    "essi respingevano",
+                    "loro rim(u)ovevano",
+                    "essi rim(u)ovevano",
+                    "loro difendevano",
+                    "essi difendevano",
+                    "loro proteggevano",
+                    "essi proteggevano",
+                    "loro tutelavano",
+                    "essi tutelavano"
+                ]
+            }
+        ],
+        "FUTURO SEMPLICE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēfendam",
+                "traduzioni": [
+                    "io allontanerò",
+                    "io respingerò",
+                    "io rim(u)overò",
+                    "io difenderò",
+                    "io proteggerò",
+                    "io tutelerò"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēfendes",
+                "traduzioni": [
+                    "tu allontanerai",
+                    "tu respingerai",
+                    "tu rim(u)overai",
+                    "tu difenderai",
+                    "tu proteggerai",
+                    "tu tutelerai"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēfendet",
+                "traduzioni": [
+                    "lui allontanerà",
+                    "lei allontanerà",
+                    "egli allontanerà",
+                    "lui respingerà",
+                    "lei respingerà",
+                    "egli respingerà",
+                    "lui rim(u)overà",
+                    "lei rim(u)overà",
+                    "egli rim(u)overà",
+                    "lui difenderà",
+                    "lei difenderà",
+                    "egli difenderà",
+                    "lui proteggerà",
+                    "lei proteggerà",
+                    "egli proteggerà",
+                    "lui tutelerà",
+                    "lei tutelerà",
+                    "egli tutelerà"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēfendēmus",
+                "traduzioni": [
+                    "noi allontaneremo",
+                    "noi respingeremo",
+                    "noi rim(u)overemo",
+                    "noi difenderemo",
+                    "noi proteggeremo",
+                    "noi tuteleremo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēfendētis",
+                "traduzioni": [
+                    "voi allontanerete",
+                    "voi respingerete",
+                    "voi rim(u)overete",
+                    "voi difenderete",
+                    "voi proteggerete",
+                    "voi tutelerete"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēfendent",
+                "traduzioni": [
+                    "loro allontaneranno",
+                    "essi allontaneranno",
+                    "loro respingeranno",
+                    "essi respingeranno",
+                    "loro rim(u)overanno",
+                    "essi rim(u)overanno",
+                    "loro difenderanno",
+                    "essi difenderanno",
+                    "loro proteggeranno",
+                    "essi proteggeranno",
+                    "loro tuteleranno",
+                    "essi tuteleranno"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "defendi",
+                "traduzioni": [
+                    "io allontanai",
+                    "io ho allontanato",
+                    "io ebbi allontanato",
+                    "io respinsi",
+                    "io ho respinto",
+                    "io ebbi respinto",
+                    "io rimossi",
+                    "io ho rimosso",
+                    "io ebbi rimosso",
+                    "io difesi",
+                    "io ho difeso",
+                    "io ebbi difeso",
+                    "io protessi",
+                    "io ho protetto",
+                    "io ebbi protetto",
+                    "io tutelai",
+                    "io ho tutelato",
+                    "io ebbi tutelato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "defendisti",
+                "traduzioni": [
+                    "tu allontanasti",
+                    "tu hai allontanato",
+                    "tu avesti allontanato",
+                    "tu respingesti",
+                    "tu hai respinto",
+                    "tu avesti respinto",
+                    "tu rim(u)ovesti",
+                    "tu hai rimosso",
+                    "tu avesti rimosso",
+                    "tu difendesti",
+                    "tu hai difeso",
+                    "tu avesti difeso",
+                    "tu proteggesti",
+                    "tu hai protetto",
+                    "tu avesti protetto",
+                    "tu tutelasti",
+                    "tu hai tutelato",
+                    "tu avesti tutelato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "defendit",
+                "traduzioni": [
+                    "lui allontanò",
+                    "lei allontanò",
+                    "egli allontanò",
+                    "lui ha allontanato",
+                    "lei ha allontanato",
+                    "egli ha allontanato",
+                    "lui ebbe allontanato",
+                    "lei ebbe allontanato",
+                    "egli ebbe allontanato",
+                    "lui respinse",
+                    "lei respinse",
+                    "egli respinse",
+                    "lui ha respinto",
+                    "lei ha respinto",
+                    "egli ha respinto",
+                    "lui ebbe respinto",
+                    "lei ebbe respinto",
+                    "egli ebbe respinto",
+                    "lui rimosse",
+                    "lei rimosse",
+                    "egli rimosse",
+                    "lui ha rimosso",
+                    "lei ha rimosso",
+                    "egli ha rimosso",
+                    "lui ebbe rimosso",
+                    "lei ebbe rimosso",
+                    "egli ebbe rimosso",
+                    "lui difese",
+                    "lei difese",
+                    "egli difese",
+                    "lui ha difeso",
+                    "lei ha difeso",
+                    "egli ha difeso",
+                    "lui ebbe difeso",
+                    "lei ebbe difeso",
+                    "egli ebbe difeso",
+                    "lui protesse",
+                    "lei protesse",
+                    "egli protesse",
+                    "lui ha protetto",
+                    "lei ha protetto",
+                    "egli ha protetto",
+                    "lui ebbe protetto",
+                    "lei ebbe protetto",
+                    "egli ebbe protetto",
+                    "lui tutelò",
+                    "lei tutelò",
+                    "egli tutelò",
+                    "lui ha tutelato",
+                    "lei ha tutelato",
+                    "egli ha tutelato",
+                    "lui ebbe tutelato",
+                    "lei ebbe tutelato",
+                    "egli ebbe tutelato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "defendĭmus",
+                "traduzioni": [
+                    "noi allontanammo",
+                    "noi abbiamo allontanato",
+                    "noi avemmo allontanato",
+                    "noi respingemmo",
+                    "noi abbiamo respinto",
+                    "noi avemmo respinto",
+                    "noi rim(u)ovemmo",
+                    "noi abbiamo rimosso",
+                    "noi avemmo rimosso",
+                    "noi difendemmo",
+                    "noi abbiamo difeso",
+                    "noi avemmo difeso",
+                    "noi proteggemmo",
+                    "noi abbiamo protetto",
+                    "noi avemmo protetto",
+                    "noi tutelammo",
+                    "noi abbiamo tutelato",
+                    "noi avemmo tutelato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "defendistis",
+                "traduzioni": [
+                    "voi allontanaste",
+                    "voi avete allontanato",
+                    "voi aveste allontanato",
+                    "voi respingeste",
+                    "voi avete respinto",
+                    "voi aveste respinto",
+                    "voi rim(u)oveste",
+                    "voi avete rimosso",
+                    "voi aveste rimosso",
+                    "voi difendeste",
+                    "voi avete difeso",
+                    "voi aveste difeso",
+                    "voi proteggeste",
+                    "voi avete protetto",
+                    "voi aveste protetto",
+                    "voi tutelaste",
+                    "voi avete tutelato",
+                    "voi aveste tutelato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "defendērunt, defendēre",
+                "traduzioni": [
+                    "loro allontanarono",
+                    "essi allontanarono",
+                    "loro hanno allontanato",
+                    "essi hanno allontanato",
+                    "loro ebbero allontanato",
+                    "essi ebbero allontanato",
+                    "loro respinsero",
+                    "essi respinsero",
+                    "loro hanno respinto",
+                    "essi hanno respinto",
+                    "loro ebbero respinto",
+                    "essi ebbero respinto",
+                    "loro rimossero",
+                    "essi rimossero",
+                    "loro hanno rimosso",
+                    "essi hanno rimosso",
+                    "loro ebbero rimosso",
+                    "essi ebbero rimosso",
+                    "loro difesero",
+                    "essi difesero",
+                    "loro hanno difeso",
+                    "essi hanno difeso",
+                    "loro ebbero difeso",
+                    "essi ebbero difeso",
+                    "loro protessero",
+                    "essi protessero",
+                    "loro hanno protetto",
+                    "essi hanno protetto",
+                    "loro ebbero protetto",
+                    "essi ebbero protetto",
+                    "loro tutelarono",
+                    "essi tutelarono",
+                    "loro hanno tutelato",
+                    "essi hanno tutelato",
+                    "loro ebbero tutelato",
+                    "essi ebbero tutelato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "defendĕram",
+                "traduzioni": [
+                    "io avevo allontanato",
+                    "io avevo respinto",
+                    "io avevo rimosso",
+                    "io avevo difeso",
+                    "io avevo protetto",
+                    "io avevo tutelato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "defendĕras",
+                "traduzioni": [
+                    "tu avevi allontanato",
+                    "tu avevi respinto",
+                    "tu avevi rimosso",
+                    "tu avevi difeso",
+                    "tu avevi protetto",
+                    "tu avevi tutelato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "defendĕrat",
+                "traduzioni": [
+                    "lui aveva allontanato",
+                    "lei aveva allontanato",
+                    "egli aveva allontanato",
+                    "lui aveva respinto",
+                    "lei aveva respinto",
+                    "egli aveva respinto",
+                    "lui aveva rimosso",
+                    "lei aveva rimosso",
+                    "egli aveva rimosso",
+                    "lui aveva difeso",
+                    "lei aveva difeso",
+                    "egli aveva difeso",
+                    "lui aveva protetto",
+                    "lei aveva protetto",
+                    "egli aveva protetto",
+                    "lui aveva tutelato",
+                    "lei aveva tutelato",
+                    "egli aveva tutelato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "defenderāmus",
+                "traduzioni": [
+                    "noi avevamo allontanato",
+                    "noi avevamo respinto",
+                    "noi avevamo rimosso",
+                    "noi avevamo difeso",
+                    "noi avevamo protetto",
+                    "noi avevamo tutelato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "defenderātis",
+                "traduzioni": [
+                    "voi avevate allontanato",
+                    "voi avevate respinto",
+                    "voi avevate rimosso",
+                    "voi avevate difeso",
+                    "voi avevate protetto",
+                    "voi avevate tutelato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "defendĕrant",
+                "traduzioni": [
+                    "loro avevano allontanato",
+                    "essi avevano allontanato",
+                    "loro avevano respinto",
+                    "essi avevano respinto",
+                    "loro avevano rimosso",
+                    "essi avevano rimosso",
+                    "loro avevano difeso",
+                    "essi avevano difeso",
+                    "loro avevano protetto",
+                    "essi avevano protetto",
+                    "loro avevano tutelato",
+                    "essi avevano tutelato"
+                ]
+            }
+        ],
+        "FUTURO ANTERIORE": [
+            {
+                "persona": "I sing.",
+                "verbo": "defendĕro",
+                "traduzioni": [
+                    "io avrò allontanato",
+                    "io avrò respinto",
+                    "io avrò rimosso",
+                    "io avrò difeso",
+                    "io avrò protetto",
+                    "io avrò tutelato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "defendĕris",
+                "traduzioni": [
+                    "tu avrai allontanato",
+                    "tu avrai respinto",
+                    "tu avrai rimosso",
+                    "tu avrai difeso",
+                    "tu avrai protetto",
+                    "tu avrai tutelato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "defendĕrit",
+                "traduzioni": [
+                    "lui avrà allontanato",
+                    "lei avrà allontanato",
+                    "egli avrà allontanato",
+                    "lui avrà respinto",
+                    "lei avrà respinto",
+                    "egli avrà respinto",
+                    "lui avrà rimosso",
+                    "lei avrà rimosso",
+                    "egli avrà rimosso",
+                    "lui avrà difeso",
+                    "lei avrà difeso",
+                    "egli avrà difeso",
+                    "lui avrà protetto",
+                    "lei avrà protetto",
+                    "egli avrà protetto",
+                    "lui avrà tutelato",
+                    "lei avrà tutelato",
+                    "egli avrà tutelato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "defenderĭmus",
+                "traduzioni": [
+                    "noi avremo allontanato",
+                    "noi avremo respinto",
+                    "noi avremo rimosso",
+                    "noi avremo difeso",
+                    "noi avremo protetto",
+                    "noi avremo tutelato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "defenderĭtis",
+                "traduzioni": [
+                    "voi avrete allontanato",
+                    "voi avrete respinto",
+                    "voi avrete rimosso",
+                    "voi avrete difeso",
+                    "voi avrete protetto",
+                    "voi avrete tutelato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "defendĕrint",
+                "traduzioni": [
+                    "loro avranno allontanato",
+                    "essi avranno allontanato",
+                    "loro avranno respinto",
+                    "essi avranno respinto",
+                    "loro avranno rimosso",
+                    "essi avranno rimosso",
+                    "loro avranno difeso",
+                    "essi avranno difeso",
+                    "loro avranno protetto",
+                    "essi avranno protetto",
+                    "loro avranno tutelato",
+                    "essi avranno tutelato"
+                ]
+            }
+        ]
+    },
+    "CONGIUNTIVO": {
+        "PRESENTE": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēfendam",
+                "traduzioni": [
+                    "che io allontani",
+                    "che io respinga",
+                    "che io rimuova",
+                    "che io difenda",
+                    "che io protegga",
+                    "che io tuteli"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēfendas",
+                "traduzioni": [
+                    "che tu allontani",
+                    "che tu respinga",
+                    "che tu rimuova",
+                    "che tu difenda",
+                    "che tu protegga",
+                    "che tu tuteli"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēfendat",
+                "traduzioni": [
+                    "che lui allontani",
+                    "che lei allontani",
+                    "che egli allontani",
+                    "che lui respinga",
+                    "che lei respinga",
+                    "che egli respinga",
+                    "che lui rimuova",
+                    "che lei rimuova",
+                    "che egli rimuova",
+                    "che lui difenda",
+                    "che lei difenda",
+                    "che egli difenda",
+                    "che lui protegga",
+                    "che lei protegga",
+                    "che egli protegga",
+                    "che lui tuteli",
+                    "che lei tuteli",
+                    "che egli tuteli"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēfendāmus",
+                "traduzioni": [
+                    "che noi allontaniamo",
+                    "che noi respingiamo",
+                    "che noi rim(u)oviamo",
+                    "che noi difendiamo",
+                    "che noi proteggiamo",
+                    "che noi tuteliamo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēfendātis",
+                "traduzioni": [
+                    "che voi allontaniate",
+                    "che voi respingiate",
+                    "che voi rim(u)oviate",
+                    "che voi difendiate",
+                    "che voi proteggiate",
+                    "che voi tuteliate"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēfendant",
+                "traduzioni": [
+                    "che loro allontanino",
+                    "che essi allontanino",
+                    "che loro respingano",
+                    "che essi respingano",
+                    "che loro rimuovano",
+                    "che essi rimuovano",
+                    "che loro difendano",
+                    "che essi difendano",
+                    "che loro proteggano",
+                    "che essi proteggano",
+                    "che loro tutelino",
+                    "che essi tutelino"
+                ]
+            }
+        ],
+        "IMPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "dēfendĕrem",
+                "traduzioni": [
+                    "che io allontanassi",
+                    "che io respingessi",
+                    "che io rim(u)ovessi",
+                    "che io difendessi",
+                    "che io proteggessi",
+                    "che io tutelassi"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "dēfendĕres",
+                "traduzioni": [
+                    "che tu allontanassi",
+                    "che tu respingessi",
+                    "che tu rim(u)ovessi",
+                    "che tu difendessi",
+                    "che tu proteggessi",
+                    "che tu tutelassi"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "dēfendĕret",
+                "traduzioni": [
+                    "che lui allontanasse",
+                    "che lei allontanasse",
+                    "che egli allontanasse",
+                    "che lui respingesse",
+                    "che lei respingesse",
+                    "che egli respingesse",
+                    "che lui rim(u)ovesse",
+                    "che lei rim(u)ovesse",
+                    "che egli rim(u)ovesse",
+                    "che lui difendesse",
+                    "che lei difendesse",
+                    "che egli difendesse",
+                    "che lui proteggesse",
+                    "che lei proteggesse",
+                    "che egli proteggesse",
+                    "che lui tutelasse",
+                    "che lei tutelasse",
+                    "che egli tutelasse"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "dēfenderēmus",
+                "traduzioni": [
+                    "che noi allontanassimo",
+                    "che noi respingessimo",
+                    "che noi rim(u)ovessimo",
+                    "che noi difendessimo",
+                    "che noi proteggessimo",
+                    "che noi tutelassimo"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "dēfenderētis",
+                "traduzioni": [
+                    "che voi allontanaste",
+                    "che voi respingeste",
+                    "che voi rim(u)oveste",
+                    "che voi difendeste",
+                    "che voi proteggeste",
+                    "che voi tutelaste"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "dēfendĕrent",
+                "traduzioni": [
+                    "che loro allontanassero",
+                    "che essi allontanassero",
+                    "che loro respingessero",
+                    "che essi respingessero",
+                    "che loro rim(u)ovessero",
+                    "che essi rim(u)ovessero",
+                    "che loro difendessero",
+                    "che essi difendessero",
+                    "che loro proteggessero",
+                    "che essi proteggessero",
+                    "che loro tutelassero",
+                    "che essi tutelassero"
+                ]
+            }
+        ],
+        "PERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "defendĕrim",
+                "traduzioni": [
+                    "che io abbia allontanato",
+                    "che io abbia respinto",
+                    "che io abbia rimosso",
+                    "che io abbia difeso",
+                    "che io abbia protetto",
+                    "che io abbia tutelato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "defendĕris",
+                "traduzioni": [
+                    "che tu abbia allontanato",
+                    "che tu abbia respinto",
+                    "che tu abbia rimosso",
+                    "che tu abbia difeso",
+                    "che tu abbia protetto",
+                    "che tu abbia tutelato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "defendĕrit",
+                "traduzioni": [
+                    "che lui abbia allontanato",
+                    "che lei abbia allontanato",
+                    "che egli abbia allontanato",
+                    "che lui abbia respinto",
+                    "che lei abbia respinto",
+                    "che egli abbia respinto",
+                    "che lui abbia rimosso",
+                    "che lei abbia rimosso",
+                    "che egli abbia rimosso",
+                    "che lui abbia difeso",
+                    "che lei abbia difeso",
+                    "che egli abbia difeso",
+                    "che lui abbia protetto",
+                    "che lei abbia protetto",
+                    "che egli abbia protetto",
+                    "che lui abbia tutelato",
+                    "che lei abbia tutelato",
+                    "che egli abbia tutelato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "defenderĭmus",
+                "traduzioni": [
+                    "che noi abbiamo allontanato",
+                    "che noi abbiamo respinto",
+                    "che noi abbiamo rimosso",
+                    "che noi abbiamo difeso",
+                    "che noi abbiamo protetto",
+                    "che noi abbiamo tutelato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "defenderĭtis",
+                "traduzioni": [
+                    "che voi abbiate allontanato",
+                    "che voi abbiate respinto",
+                    "che voi abbiate rimosso",
+                    "che voi abbiate difeso",
+                    "che voi abbiate protetto",
+                    "che voi abbiate tutelato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "defendĕrint",
+                "traduzioni": [
+                    "che loro abbiano allontanato",
+                    "che essi abbiano allontanato",
+                    "che loro abbiano respinto",
+                    "che essi abbiano respinto",
+                    "che loro abbiano rimosso",
+                    "che essi abbiano rimosso",
+                    "che loro abbiano difeso",
+                    "che essi abbiano difeso",
+                    "che loro abbiano protetto",
+                    "che essi abbiano protetto",
+                    "che loro abbiano tutelato",
+                    "che essi abbiano tutelato"
+                ]
+            }
+        ],
+        "PIUCHEPERFETTO": [
+            {
+                "persona": "I sing.",
+                "verbo": "defendissem",
+                "traduzioni": [
+                    "che io avessi allontanato",
+                    "che io avessi respinto",
+                    "che io avessi rimosso",
+                    "che io avessi difeso",
+                    "che io avessi protetto",
+                    "che io avessi tutelato"
+                ]
+            },
+            {
+                "persona": "II sing.",
+                "verbo": "defendisses",
+                "traduzioni": [
+                    "che tu avessi allontanato",
+                    "che tu avessi respinto",
+                    "che tu avessi rimosso",
+                    "che tu avessi difeso",
+                    "che tu avessi protetto",
+                    "che tu avessi tutelato"
+                ]
+            },
+            {
+                "persona": "III sing.",
+                "verbo": "defendisset",
+                "traduzioni": [
+                    "che lui avesse allontanato",
+                    "che lei avesse allontanato",
+                    "che egli avesse allontanato",
+                    "che lui avesse respinto",
+                    "che lei avesse respinto",
+                    "che egli avesse respinto",
+                    "che lui avesse rimosso",
+                    "che lei avesse rimosso",
+                    "che egli avesse rimosso",
+                    "che lui avesse difeso",
+                    "che lei avesse difeso",
+                    "che egli avesse difeso",
+                    "che lui avesse protetto",
+                    "che lei avesse protetto",
+                    "che egli avesse protetto",
+                    "che lui avesse tutelato",
+                    "che lei avesse tutelato",
+                    "che egli avesse tutelato"
+                ]
+            },
+            {
+                "persona": "I plur.",
+                "verbo": "defendissēmus",
+                "traduzioni": [
+                    "che noi avessimo allontanato",
+                    "che noi avessimo respinto",
+                    "che noi avessimo rimosso",
+                    "che noi avessimo difeso",
+                    "che noi avessimo protetto",
+                    "che noi avessimo tutelato"
+                ]
+            },
+            {
+                "persona": "II plur.",
+                "verbo": "defendissētis",
+                "traduzioni": [
+                    "che voi aveste allontanato",
+                    "che voi aveste respinto",
+                    "che voi aveste rimosso",
+                    "che voi aveste difeso",
+                    "che voi aveste protetto",
+                    "che voi aveste tutelato"
+                ]
+            },
+            {
+                "persona": "III plur.",
+                "verbo": "defendissent",
+                "traduzioni": [
+                    "che loro avessero allontanato",
+                    "che essi avessero allontanato",
+                    "che loro avessero respinto",
+                    "che essi avessero respinto",
+                    "che loro avessero rimosso",
+                    "che essi avessero rimosso",
+                    "che loro avessero difeso",
+                    "che essi avessero difeso",
+                    "che loro avessero protetto",
+                    "che essi avessero protetto",
+                    "che loro avessero tutelato",
+                    "che essi avessero tutelato"
+                ]
+            }
+        ]
+    }
+}
