@@ -1,7 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
     background: linear-gradient(to bottom, #4e3a8e, #8f70c5);
-    color: #fff;
+    color: #d3d3d3;
     margin: 0;
     padding: 0;
     display: flex;
@@ -14,7 +14,17 @@ p {
     margin: 10px 0;    
 }
 
-ul {
+button {
+    color: #d3d3d3;
+    background-color: #383c4a;
+}
+
+#loaded_verbs_list {
+    height: 100%;
+    overflow: scroll;
+}
+
+#loaded_verbs_container {
     overflow: none;
 }
 
@@ -72,4 +82,8 @@ ul {
 
 .score.best {
     color: lightgreen;
+}
+
+.hide {
+    display: none;
 }

@@ -28,11 +28,8 @@ function update_score(score, best_score, score_element, score_value, best_score_
 }
 
 window.onload = async function() {
-    const Verbs = [];
-    const verb_identifiers = ["AMO", "VIDEO", "SUM", "EO", "ADSUM"];
-    for(const verb_identifier of verb_identifiers) {
-        Verbs.push(await get_verb_from_db(verb_identifier));
-    }
+    await get_database_info();
+    await random_load()
 
     const questionFilter = {"INDICATIVO": ["PRESENTE", "IMPERFETTO", "FUTURO SEMPLICE", "PERFETTO", "PIUCHEPERFETTO", "FUTURO ANTERIORE"], "CONGIUNTIVO": ["PRESENTE", "IMPERFETTO", "PERFETTO", "PIUCHEPERFETTO"]};
 
@@ -43,13 +40,6 @@ window.onload = async function() {
     const score_element = document.getElementById("score");
     const score_value = document.getElementById("score_value");
     const best_score_value = document.getElementById("best_score_value");
-    const right_div = document.getElementById("right_div");
-
-    for(const verb_identifier of verb_identifiers) {
-        const li = document.createElement("li");
-        li.innerText = verb_identifier;
-        right_div.appendChild(li);
-    }
 
     let score = 0;
     update_score(score, best_score, score_element, score_value, best_score_value);
