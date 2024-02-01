@@ -19,13 +19,43 @@ button {
     background-color: #383c4a;
 }
 
+#load_database {
+    width: 50%;
+    height: 5%;
+}
+
 #loaded_verbs_list {
-    height: 100%;
+    height: 100vh;
     overflow: scroll;
+    text-align: left;
 }
 
 #loaded_verbs_container {
-    overflow: none;
+    padding: 20px;
+    font-size: larger;
+    overflow: hidden;
+}
+
+#loaded_verbs_list::-webkit-scrollbar {
+    display: none;
+}
+
+#loaded_verbs_list::-webkit-scrollbar-track {
+    height: 10px;
+    background-color: transparent;
+}
+
+#loaded_verbs_list::-webkit-scrollbar-thumb {
+    background-color: transparent;
+}
+
+#loaded_verbs_list:hover::-webkit-scrollbar {
+    display: flex   ;
+}
+
+#loaded_verbs_list:hover::-webkit-scrollbar-thumb {
+    background-color:#4e3a8e;
+    border-radius: 50%;
 }
 
 #center_div {
@@ -57,7 +87,7 @@ button {
     align-items: flex-start;
     display: flex;
     flex-direction: column;
-    align-items: left;
+    align-items: center;
 }
 
 #score_container {
