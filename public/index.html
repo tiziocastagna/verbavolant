@@ -21,7 +21,10 @@
         </div>
     </div>
     <div id="right_div">
-        <button id="load_database" onclick=random_load()> LOAD DATABASE </button>
+        <div id="load_container">
+            <button id="load_database" onclick=random_load()> LOAD DATABASE </button>
+            <input placeholder="N" type="number" id="load_database_count">
+        </div>
         <div id="loaded_verbs_container" class="hide">
             Verbs loaded
             <ul id="loaded_verbs_list">
